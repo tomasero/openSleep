@@ -1,0 +1,17 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset='utf-8')
+    title openSleep
+    script(src='/socket.io/socket.io.js')
+    script(src='http://code.jquery.com/jquery-1.10.1.min.js')
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    script(src='/js/d3.v4.min.js')
+    script(src='/js/script.js')
+ body
+    h1 openSleep
+    p Current sensor value is:
+    #flex 0
+    #hr 1
+    #eda 0
+    svg(width="1200" height="500" id="flex-value")

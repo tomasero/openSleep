@@ -1,0 +1,17 @@
+body{
+	font-family: "Proxima Nova";
+}
+
+.logo{
+	width:100px;
+}
+.twitter{
+	width:250;
+	padding:.5% .5% 0 .5%;
+	border:.5px solid #4099ff;
+}
+.navbar-right {
+    float: right;
+    width: 100%;
+    margin-right: -260%;
+}

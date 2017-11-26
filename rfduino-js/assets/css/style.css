@@ -1,0 +1,30 @@
+#yo {
+    position: absolute;
+    width: calc(600px * .5);
+    height: calc(930px * .5);
+}
+
+#lab {
+    position: absolute;
+    height: 80%;
+    left: 50%;
+    margin-left: calc(-932px/2);
+}
+
+.line-flex {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.line-hr {
+  fill: none;
+  stroke: #FF0000;
+  stroke-width: 1.5px;
+}
+
+.line-eda {
+  fill: none;
+  stroke: #0000FF;
+  stroke-width: 1.5px;
+}
