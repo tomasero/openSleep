@@ -1,10 +1,16 @@
 var socket = io.connect('http://localhost:3000');
 var flex = 0,
     hr = 0,
+    old_hr = 0, 
+    thresh = 10,
+    bpm = 0,
     eda = 0;
+var time1 = new Date().getTime()/1000|0;
+var time2 = new Date().getTime()/1000|0;
 var delay = 20;
 socket.on('data', function (data) {
     newData = new Uint32Array(data);
+    old_hr = hr ;
     flex = newData[0];
     hr = newData[1];
     eda = newData[2];
@@ -14,6 +20,17 @@ socket.on('data', function (data) {
     $('#flex').text(flex);
     $('#hr').text(hr);
     $('#eda').text(eda);
+    if(hr - old_hr > thresh)
+	{bpm += 1 ;
+ 	 }
+    time2 = new Date().getTime()/1000|0;
+    if(time2 - time1 >=1)
+	{ console.log(bpm);
+	  time1 = time2 ;
+	  bpm = 0 ;
+	}
+
+
 });
 document.addEventListener("DOMContentLoaded", function(){
       //....
