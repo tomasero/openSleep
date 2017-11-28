@@ -24,7 +24,7 @@ socket.on('data', function (data) {
 	{bpm += 1 ;
  	 }
     time2 = new Date().getTime()/1000|0;
-    if(time2 - time1 >=1)
+    if(time2 - time1 >=60)
 	{ console.log(bpm);
 	  time1 = time2 ;
 	  bpm = 0 ;
