@@ -1,3 +1,7 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 #yo {
     position: absolute;
     width: calc(600px * .5);
@@ -13,7 +17,7 @@
 
 .line-flex {
   fill: none;
-  stroke: #000;
+  stroke: #0B6623;
   stroke-width: 1.5px;
 }
 
@@ -27,4 +31,99 @@
   fill: none;
   stroke: #0000FF;
   stroke-width: 1.5px;
+}
+
+#channels {
+  width: 200px;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, .1);
+}
+
+.channel {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background: rgba(0, 0, 0, .1);
+}
+
+.channel-name {
+  padding-top: 30px;
+  font-weight: 700;
+}
+
+.channel-value {
+  padding-top: 40px;
+  font-weight: 300;
+}
+
+#channel-flex {
+  background: rgba(11, 102, 35, 0.1);
+}
+
+#channel-hr {
+  background: rgba(255, 0, 0, 0.1);
+}
+
+#channel-eda {
+  background: rgba(0, 0, 255, 0.1);
+}
+
+#title {
+  font-size: 60px;
+  margin: 20px 0px 20px 20px;
+  font-weight: 100;
+}
+
+#plot {
+  width: calc(100% - 200px);
+  height: 600px;
+}
+
+#zzz {
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  left: 265px;
+  /*transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -moz-transform: scale(-1, 1);*/
+}
+
+#user {
+  position: absolute;
+  top: 10px;
+  left: 350px;
+}
+.user-elem {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.user-elem:nth-child(4n) {
+  clear: left;
+}
+
+input {
+  width: 100px;
+}
+
+select {
+  width: 107px;
+}
+
+#submit {
+  margin-top: 20px;
+}
+
+#recording {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  background: rgba(0,0,0,0.1);
+  float: right;
+  margin: 10px 0px 0px 20px;
 }

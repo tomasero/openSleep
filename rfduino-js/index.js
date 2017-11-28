@@ -1,4 +1,5 @@
 // RFduino Node Example
+
 // Discover and read temperature from RFduinos running the Temperature Sketch
 // https://github.com/RFduino/RFduino/blob/master/libraries/RFduinoBLE/examples/Temperature/Temperature.ino
 //
@@ -23,17 +24,41 @@ app.get('/', function(req, res){
 var server = app.listen(3000);
 var io = require('socket.io').listen(server);
 var sock = null;
-
+var fs = require('fs');
+var stream = null;
 io.sockets.on('connection', function (socket) {
   sock = socket;
+  sock.on('user', function (data) {
+    if (data.recording == 'start') {
+      stream = fs.createWriteStream(data.file);
+      stream.write(data.firstName);
+      stream.write('|');
+      stream.write(data.secondName);
+      stream.write('|');
+      stream.write(data.age);
+      stream.write('|');
+      stream.write(data.gender);
+    } else {
+      stream.end();
+      stream = null;
+    }
+    console.log(data);
+  });
 });
 
 function sendData(data) {
   if (sock != null) {
-    console.log(data.readUInt32LE(0));
-    console.log(data.readUInt32LE(4));
-    console.log(data.readUInt32LE(8));
+    //console.log(data.readUInt32LE(0));
+    //console.log(data.readUInt32LE(4));
+    //console.log(data.readUInt32LE(8));
     sock.emit('data', data);
+    if (stream != null) {
+      stream.write('|');
+      flex = data.readUInt32LE(0);
+      hr = data.readUInt32LE(4);
+      eda = data.readUInt32LE(8);
+      stream.write(flex + "," + hr + "," + eda);
+    }
   }
 }
 
