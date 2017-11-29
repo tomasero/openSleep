@@ -7,6 +7,7 @@ html(lang="en")
     script(src='http://code.jquery.com/jquery-1.10.1.min.js')
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    script(src='/js/multithread.js')
     script(src='/js/d3.v4.min.js')
     script(src='/js/script.js')
  body
@@ -35,9 +36,9 @@ html(lang="en")
         input(type="submit" value="Start recording" id="submit")
         #recording
     #channels
-      #channel-hr.channel
-        .channel-name Heart Rate
-        #hr.channel-value 0
+      #channel-bpm.channel
+        .channel-name BPM
+        #bpm.channel-value 0
       #channel-flex.channel
         .channel-name Flex
         #flex.channel-value 0

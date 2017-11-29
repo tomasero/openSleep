@@ -1,37 +1,76 @@
 var socket = io.connect('http://localhost:3000');
 var flex = 0,
     hr = 0,
-    old_hr = 0, 
-    thresh = 10,
+    oldHr = 0, 
+    thresh = 50,
     bpm = 0,
     eda = 0;
-var time1 = new Date().getTime()/1000|0;
-var time2 = new Date().getTime()/1000|0;
+var prev = new Date().getTime()/1000;
+var now = new Date().getTime()/1000;
+var lastBeat = new Date().getTime()/1000;
 var delay = 20;
+var buffer = [];
+var bpmInit = false;
+
+var num_threads = 2;
+var MT = new Multithread(num_threads);
+
 socket.on('data', function (data) {
     newData = new Uint32Array(data);
-    old_hr = hr ;
+    oldHr = hr ;
     flex = newData[0];
     hr = newData[1];
     eda = newData[2];
     //console.log(newData[0]);
     //console.log(newData[1]);
     //console.log(newData[2]);
+    buffer.push(hr);
+    if (bpmInit) {
+      buffer.shift();
+    }
     $('#flex').text(flex);
-    $('#hr').text(hr);
     $('#eda').text(eda);
-    if(hr - old_hr > thresh)
-	{bpm += 1 ;
- 	 }
-    time2 = new Date().getTime()/1000|0;
-    if(time2 - time1 >=60)
-	{ console.log(bpm);
-	  time1 = time2 ;
-	  bpm = 0 ;
-	}
-
-
+    if(hr - oldHr > thresh && now - lastBeat > .4){
+      document.getElementById("channel-bpm").style.background = 'rgba(255,0,0,0.8)';
+      lastBeat = new Date().getTime()/1000;
+    } else {
+      document.getElementById("channel-bpm").style.background = 'rgba(255,0,0,0.1)';
+    }
+    now = new Date().getTime()/1000;
+    if (!bpmInit) {
+      if(now - prev >= 60) { 
+        MT.process(processBPM, setBPM)(buffer, thresh);
+  	    prev = now;
+        bpmInit = true;
+  	  }
+    } else {
+      if(now - prev >= 1) {
+        MT.process(processBPM, setBPM)(buffer, thresh);
+        prev = now;
+  	  }
+    }
 });
+
+function setBPM(_bpm) {
+  $('#bpm').text(_bpm);
+}
+
+function processBPM(buffer, thresh) {
+  _bpm = 0;
+  _prev = 0;
+  lastBeat = -3;
+  var i;
+  for (i = 1; i < buffer.length; i++) {
+    _now = buffer[i];
+    _prev = buffer[i-1];
+    if (_now - _prev > thresh && i - lastBeat > 4) {
+      _bpm++;
+      lastBeat = i;
+    }
+  }
+  //setBPM(_bpm);
+  return _bpm;
+}
 
 var recording = false;
 document.addEventListener("DOMContentLoaded", function(){
@@ -87,6 +126,7 @@ document.addEventListener("DOMContentLoaded", function(){
     .range([0, width]);
 
   var y = d3.scaleLinear()
+    //.domain([0, 300])
     .domain([0, 1023])
     .range([height, 0]);
 
