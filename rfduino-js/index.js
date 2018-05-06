@@ -48,9 +48,6 @@ io.sockets.on('connection', function (socket) {
 
 function sendData(data) {
   if (sock != null) {
-    //console.log(data.readUInt32LE(0));
-    //console.log(data.readUInt32LE(4));
-    //console.log(data.readUInt32LE(8));
     sock.emit('data', data);
     if (stream != null) {
       stream.write('|');
@@ -58,6 +55,11 @@ function sendData(data) {
       hr = data.readUInt32LE(4);
       eda = data.readUInt32LE(8);
       stream.write(flex + "," + hr + "," + eda);
+    } else {
+      flex = data.readUInt32LE(0);
+      hr = data.readUInt32LE(4);
+      eda = data.readUInt32LE(8);
+      console.log(flex + "," + hr + "," + eda);
     }
   }
 }
@@ -69,7 +71,7 @@ var stop = function() {
 
 noble.on('scanStart', function() {
     console.log('Scan started');
-    setTimeout(stop, 5000);
+    //setTimeout(stop, 5000);
 });
 
 noble.on('scanStop', function() {
@@ -120,7 +122,8 @@ var onDeviceDiscoveredCallback = function(peripheral) {
 
                 if (receiveCharacteristic) {
                     receiveCharacteristic.on('read', function(data, isNotification) {
-                        // temperature service sends a float
+                        //console.log(peripheral.uuid);
+                        //console.log(data);
                         sendData(data);
                     });
 

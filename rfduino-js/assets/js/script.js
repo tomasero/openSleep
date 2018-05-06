@@ -21,9 +21,6 @@ socket.on('data', function (data) {
     flex = newData[0];
     hr = newData[1];
     eda = newData[2];
-    //console.log(newData[0]);
-    //console.log(newData[1]);
-    //console.log(newData[2]);
     buffer.push(hr);
     if (bpmInit) {
       buffer.shift();
@@ -68,8 +65,9 @@ function processBPM(buffer, thresh) {
       lastBeat = i;
     }
   }
-  //setBPM(_bpm);
+  //console.log("before setBPM");
   return _bpm;
+  //setBPM(_bpm);
 }
 
 var recording = false;
