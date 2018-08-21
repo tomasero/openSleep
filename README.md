@@ -3,7 +3,6 @@
 ## Hardware
 
 ### Components
-|
 | Qty | Value | Device  | Where |
 | ---------- |:---------------:| ----------------------:|
 |  2  | .1uF  | CAP_CERAMIC0603 | Digikey: 399-1095-1-ND |
@@ -37,7 +36,7 @@ Open the app:
 
 ### Mobile App
 
-
+Build and
 
 
 
