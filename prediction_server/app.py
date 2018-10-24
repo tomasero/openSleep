@@ -1,30 +1,82 @@
 #!/usr/bin/env python
 # # -*- coding: utf-8 -*-
 """ Flask API for predicting probability of survival """
+import csv
+import datetime
 import json
+import os
+import shutil
 import sys
 from flask import Flask, jsonify, request, render_template, url_for
-from sklearn.externals import joblib
 import pandas as pd
 import numpy as np
+import pickle
+import time
 
-try:
-    model = joblib.load('random_forest.mdl')
-except:
-    print("Error loading application. Missing model file?")
-    sys.exit(0)
+import config
+import features
+from classifiers import SimpleClassifier
 
 app = Flask(__name__)
+
+@app.route('/init', methods=['GET'])
+def init():
+    """ Initialize predictor """
+    # move old file
+    if os.path.isfile(config.train_data_filename) and os.stat(config.train_data_filename).st_size > 0:
+        filename = os.path.splitext(config.train_data_filename)[0]
+        filename += datetime.datetime.now().strftime("_%Y%m%d_%H%M%S")
+        filename += ".csv"
+        shutil.move(config.train_data_filename, filename)
+
+    return jsonify({"status" : 0})
+
+@app.route('/upload_train_data', methods=['POST'])
+def upload_train_data():
+    """ Add biosignals to training data """
+    json_ = request.json
+    count = 0
+    with open(config.train_data_filename, 'a') as f:
+        assert len(json_['flex']) == len(json_['ecg']) == len(json_['eda'])
+        writer = csv.writer(f)
+        for row in zip(json_['flex'], json_['ecg'], json_['eda']):
+            writer.writerow(row)
+            count += 1
+
+    app.logger.info('Written %d data points' % count)
+    return jsonify({"status" : 0})
+
+@app.route('/train', methods=['GET'])
+def train():
+    """ Train the predictor on the data collected """
+    start_time = time.time()
+    json_ = request.json
+    with open(config.train_data_filename, 'r') as f:
+        rows = f.readlines()
+    if len(rows) < config.min_train_data_size:
+        return jsonify({"status" : 1,
+                        "message" : "Training data size too small! %d" % len(rows)})
+    x = np.zeros((len(rows), 3))
+    for i in range(len(rows)):
+        x[i] = [int(val) for val in rows[i].strip().split(',')]
+    x = features.normalize(x)
+    v = features.extract_multi_features(x, step=config.step_size, x_len=config.sample_size)
+    clf = SimpleClassifier(features.feature_importance)
+    app.logger.info('Training classifier using %d feature sets, each containing %d features' % (v.shape[0], v.shape[1]))
+    clf.fit(v)
+    with open(config.model_filename, 'wb') as f:
+        pickle.dump(clf, f)
+
+    return jsonify({"status" : 0, "time" : (time.time() - start_time)})
 
 @app.route('/predict', methods=['POST'])
 def predict():
     """ Predict sleep vs. non-sleep """
     json_ = request.json
-    df = pd.DataFrame(json_)
+    with open(config.model_filename, 'rb') as f:
+        clf = pickle.load(f)
 
-    print(df)
-
-    return jsonify({"sleep" : 1})
+    return jsonify({"sleep" : 1, "means" : clf.means.tolist()})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
