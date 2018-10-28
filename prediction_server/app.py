@@ -56,14 +56,14 @@ def train():
     if len(rows) < config.min_train_data_size:
         return jsonify({"status" : 1,
                         "message" : "Training data size too small! %d" % len(rows)})
-    x = np.zeros((len(rows), 3))
+    raw = np.zeros((len(rows), 3))
     for i in range(len(rows)):
-        x[i] = [int(val) for val in rows[i].strip().split(',')]
-    x = features.normalize(x)
-    v = features.extract_multi_features(x, step=config.step_size, x_len=config.sample_size)
+        raw[i] = [int(val) for val in rows[i].strip().split(',')]
+    norm = features.normalize(raw)
+    X = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
     clf = SimpleClassifier(features.feature_importance)
-    app.logger.info('Training classifier using %d feature sets, each containing %d features' % (v.shape[0], v.shape[1]))
-    clf.fit(v)
+    app.logger.info('Training classifier using %d feature sets, each containing %d features' % (X.shape[0], X.shape[1]))
+    clf.fit(X)
     with open(config.model_filename, 'wb') as f:
         pickle.dump(clf, f)
 
@@ -72,11 +72,26 @@ def train():
 @app.route('/predict', methods=['POST'])
 def predict():
     """ Predict sleep vs. non-sleep """
+    start_time = time.time()
     json_ = request.json
     with open(config.model_filename, 'rb') as f:
         clf = pickle.load(f)
 
-    return jsonify({"sleep" : 1, "means" : clf.means.tolist()})
+    assert len(json_['flex']) == len(json_['ecg']) == len(json_['eda'])
+    raw = np.zeros((len(json_['flex']), 3))
+    i = 0
+    for row in zip(json_['flex'], json_['ecg'], json_['eda']):
+        raw[i] = row
+        i += 1
+    norm = features.normalize(raw)
+    X = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
+
+    y = clf.predict(X)
+
+    return jsonify({"sleep" : list(y),
+        "mean_sleep" : np.mean(y),
+        "time" : (time.time() - start_time)
+    })
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
