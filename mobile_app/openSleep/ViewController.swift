@@ -53,6 +53,12 @@ class ViewController: UIViewController,
   var playedAudio: Bool = false
   var isRecording: Bool = false
   
+  var edaBuffer = [UInt16]()
+  var flexBuffer = [UInt16]()
+  var hrBuffer = [UInt16]()
+  
+  var timer = Timer()
+  
   func getData() -> NSData{
     let state: UInt16 = stateValue ? 1 : 0
     let power:UInt16 = UInt16(thresholdValue)
@@ -201,6 +207,11 @@ class ViewController: UIViewController,
       AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
     ]
     
+    self.timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.simulator(sender:)), userInfo: nil, repeats: true)
+  }
+  
+  @objc func simulator(sender: Timer) {
+    self.sendData(flex: 1, eda: 2, hr: 3)
   }
 
   override func didReceiveMemoryWarning() {
@@ -360,6 +371,22 @@ class ViewController: UIViewController,
     
     // Start scanning again
     central.scanForPeripherals(withServices: nil, options: nil)
+  }
+    
+  func sendData(flex: UInt16, eda: UInt16, hr: UInt16) {
+    flexBuffer.append(flex)
+    edaBuffer.append(eda)
+    hrBuffer.append(hr)
+    
+    if (flexBuffer.count >= 30) {
+      print("Sending buffer")
+      
+      // send buffer to server
+      
+      flexBuffer.removeAll()
+      edaBuffer.removeAll()
+      hrBuffer.removeAll()
+    }
   }
 
 }

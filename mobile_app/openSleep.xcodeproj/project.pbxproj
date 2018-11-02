@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
 		FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C561FDA1BE60034F388 /* ViewController.swift */; };
 		FF6F7C5A1FDA1BE60034F388 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF6F7C581FDA1BE60034F388 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF6F7C561FDA1BE60034F388 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		FF6F7C531FDA1BE60034F388 /* openSleep */ = {
 			isa = PBXGroup;
 			children = (
+				9051B709218C8BE20018B3E1 /* simulatedData.csv */,
 				FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */,
 				FF6F7C561FDA1BE60034F388 /* ViewController.swift */,
 				FF6F7C581FDA1BE60034F388 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF6F7C5F1FDA1BE60034F388 /* LaunchScreen.storyboard in Resources */,
+				9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */,
 				FF6F7C5C1FDA1BE60034F388 /* Assets.xcassets in Resources */,
 				FF6F7C5A1FDA1BE60034F388 /* Main.storyboard in Resources */,
 			);
