@@ -57,6 +57,8 @@ class ViewController: UIViewController,
   var flexBuffer = [UInt16]()
   var hrBuffer = [UInt16]()
   
+  var simulatedData = [[UInt16]]()
+  var simulatedIndex: Int = 0
   var timer = Timer()
   
   func getData() -> NSData{
@@ -207,11 +209,52 @@ class ViewController: UIViewController,
       AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
     ]
     
+    var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
+    data = cleanRows(file: data!)
+    self.simulatedData = csv(data: data!)
     self.timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.simulator(sender:)), userInfo: nil, repeats: true)
   }
   
+  func readDataFromCSV(fileName:String, fileType: String)-> String!{
+    guard let filepath = Bundle.main.path(forResource: fileName, ofType: fileType)
+      else {
+        return nil
+    }
+    do {
+      var contents = try String(contentsOfFile: filepath, encoding: .utf8)
+      contents = cleanRows(file: contents)
+      return contents
+    } catch {
+      print("File Read Error for file \(filepath)")
+      return nil
+    }
+  }
+  
+  func cleanRows(file:String)->String{
+    var cleanFile = file
+    cleanFile = cleanFile.replacingOccurrences(of: "\r", with: "\n")
+    cleanFile = cleanFile.replacingOccurrences(of: "\n\n", with: "\n")
+    //        cleanFile = cleanFile.replacingOccurrences(of: ";;", with: "")
+    //        cleanFile = cleanFile.replacingOccurrences(of: ";\n", with: "")
+    return cleanFile
+  }
+  
+  func csv(data: String) -> [[UInt16]] {
+    var result: [[UInt16]] = []
+    let rows = data.components(separatedBy: "\n")
+    for row in rows {
+      let columns = row.components(separatedBy: ",").map{ UInt16($0)! }
+      result.append(columns)
+    }
+    return result
+  }
+
   @objc func simulator(sender: Timer) {
-    self.sendData(flex: 1, eda: 2, hr: 3)
+    if (self.simulatedIndex > self.simulatedData.count) {
+      self.simulatedIndex = 0
+    }
+    self.sendData(flex: self.simulatedData[self.simulatedIndex][0], hr: self.simulatedData[self.simulatedIndex][1], eda: self.simulatedData[self.simulatedIndex][2])
+    self.simulatedIndex += 1
   }
 
   override func didReceiveMemoryWarning() {
@@ -373,7 +416,7 @@ class ViewController: UIViewController,
     central.scanForPeripherals(withServices: nil, options: nil)
   }
     
-  func sendData(flex: UInt16, eda: UInt16, hr: UInt16) {
+  func sendData(flex: UInt16, hr: UInt16, eda: UInt16) {
     flexBuffer.append(flex)
     edaBuffer.append(eda)
     hrBuffer.append(hr)
@@ -382,6 +425,7 @@ class ViewController: UIViewController,
       print("Sending buffer")
       
       // send buffer to server
+      print(hrBuffer)
       
       flexBuffer.removeAll()
       edaBuffer.removeAll()
