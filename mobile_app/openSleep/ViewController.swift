@@ -43,23 +43,30 @@ class ViewController: UIViewController,
   @IBOutlet weak var EDAValue: UILabel!
   @IBOutlet weak var HRValue: UILabel!
   @IBOutlet weak var thresholdLabel: UILabel!
+  @IBOutlet weak var statusLabel: UILabel!
   
   @IBOutlet weak var recordButton: UIButton!
-
+  @IBOutlet weak var startButton: UIButton!
+  @IBOutlet weak var simulationInput: UISwitch!
+  
   var stateValue: Bool = false
 //  var modeValue: Int = 0
   var thresholdValue: Int = 0
   
   var playedAudio: Bool = false
   var isRecording: Bool = false
+  var currentStatus: String = "IDLE"
+ 
+  var apiBaseURL: String = "http://68.183.114.149:5000/"
+  var detectSleepTimer = Timer()
   
-  var edaBuffer = [UInt16]()
-  var flexBuffer = [UInt16]()
-  var hrBuffer = [UInt16]()
+  var edaBuffer = [UInt32]()
+  var flexBuffer = [UInt32]()
+  var hrBuffer = [UInt32]()
   
-  var simulatedData = [[UInt16]]()
+  var simulatedData = [[UInt32]]()
   var simulatedIndex: Int = 0
-  var timer = Timer()
+  var simulationTimer = Timer()
   
   func getData() -> NSData{
     let state: UInt16 = stateValue ? 1 : 0
@@ -130,6 +137,45 @@ class ViewController: UIViewController,
     
   }
   
+  @IBAction func startButtonPressed(sender: UIButton) {
+    if (currentStatus == "IDLE") {
+      startButton.setTitle("Cancel", for: .normal)
+      startButton.setTitleColor(UIColor.red, for: .normal)
+      currentStatus = "RUNNING"
+      
+      self.apiGet(endpoint: "init")
+      
+      if (simulationInput.isOn) {
+        self.simulatedIndex = 0
+        self.simulationTimer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.simulator(sender:)), userInfo: nil, repeats: true)
+      }
+      
+      _ = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
+        t in
+        self.startButton.setTitle("Start", for: .normal)
+        self.startButton.setTitleColor(UIColor.blue, for: .normal)
+        self.currentStatus = "CALIBRATED"
+      })
+    } else if (currentStatus == "CALIBRATED") {
+      startButton.setTitle("Cancel", for: .normal)
+      startButton.setTitleColor(UIColor.red, for: .normal)
+      currentStatus = "RUNNING"
+      
+      self.apiGet(endpoint: "train")
+
+      self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+    } else if (currentStatus == "RUNNING") {
+      startButton.setTitle("Calibrate", for: .normal)
+      startButton.setTitleColor(UIColor.blue, for: .normal)
+      currentStatus = "IDLE"
+      
+      self.detectSleepTimer.invalidate()
+      
+      if (simulationInput.isOn) {
+        self.simulationTimer.invalidate()
+      }
+    }
+  }
   func audioDirectoryURL(_ number: Int) -> NSURL? {
     let id: String = String(number)
     let fileManager = FileManager.default
@@ -212,7 +258,6 @@ class ViewController: UIViewController,
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
-    self.timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.simulator(sender:)), userInfo: nil, repeats: true)
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -239,11 +284,11 @@ class ViewController: UIViewController,
     return cleanFile
   }
   
-  func csv(data: String) -> [[UInt16]] {
-    var result: [[UInt16]] = []
+  func csv(data: String) -> [[UInt32]] {
+    var result: [[UInt32]] = []
     let rows = data.components(separatedBy: "\n")
     for row in rows {
-      let columns = row.components(separatedBy: ",").map{ UInt16($0)! }
+      let columns = row.components(separatedBy: ",").map{ UInt32($0)! }
       result.append(columns)
     }
     return result
@@ -254,9 +299,32 @@ class ViewController: UIViewController,
       self.simulatedIndex = 0
     }
     self.sendData(flex: self.simulatedData[self.simulatedIndex][0], hr: self.simulatedData[self.simulatedIndex][1], eda: self.simulatedData[self.simulatedIndex][2])
+    self.EDAValue.text = String(self.simulatedData[self.simulatedIndex][2])
+    self.HRValue.text = String(self.simulatedData[self.simulatedIndex][1])
+    self.flexValue.text = String(self.simulatedData[self.simulatedIndex][0])
     self.simulatedIndex += 1
+    if (self.simulatedIndex == 845) {
+      print("##### Sending SLEEP data! #####")
+    }
   }
-
+  
+  @objc func detectSleep(sender: Timer) {
+    self.apiGet(endpoint: "predict", onSuccess: { json in
+      let score = (json["mean_sleep"] as! NSNumber).floatValue
+      DispatchQueue.main.async {
+        self.statusLabel.text = String(score)
+      }
+      
+      if (score > 0.5) {
+        print("Sleep!")
+        if (!self.playedAudio) {
+          //self.startPlaying()
+          self.playedAudio = true
+        }
+      }
+    })
+  }
+  
   override func didReceiveMemoryWarning() {
     super.didReceiveMemoryWarning()
     // Dispose of any resources that can be recreated.
@@ -370,6 +438,8 @@ class ViewController: UIViewController,
       EDAValue.text = String(EDA);
       HRValue.text = String(HR);
       
+      sendData(flex: flex, hr: HR, eda: EDA)
+      
       if (stateValue) {
         if (flex < thresholdValue) {
           if (playedAudio) { return }
@@ -416,22 +486,88 @@ class ViewController: UIViewController,
     central.scanForPeripherals(withServices: nil, options: nil)
   }
     
-  func sendData(flex: UInt16, hr: UInt16, eda: UInt16) {
+  func sendData(flex: UInt32, hr: UInt32, eda: UInt32) {
     flexBuffer.append(flex)
     edaBuffer.append(eda)
     hrBuffer.append(hr)
     
     if (flexBuffer.count >= 30) {
-      print("Sending buffer")
-      
       // send buffer to server
-      print(hrBuffer)
+      let json: [String : Any] = ["flex" : flexBuffer,
+                                  "eda" : edaBuffer,
+                                  "ecg" : hrBuffer]
+      self.apiPost(endpoint: "upload", json: json)
       
       flexBuffer.removeAll()
       edaBuffer.removeAll()
       hrBuffer.removeAll()
     }
   }
+  
+  func apiGet(endpoint: String, onSuccess: (([String : Any]) -> ())? = nil) {
+    let url = URL(string: self.apiBaseURL + endpoint)
+    print("GET " + self.apiBaseURL + endpoint)
+    let task = URLSession.shared.dataTask(with: url!){ (data, response, error) in
+      guard error == nil else {
+        print(error!)
+        return
+      }
+      
+      guard let data = data else {
+        print("No data received")
+        return
+      }
+      
+      do {
+        if let json = try JSONSerialization.jsonObject(with: data, options: .mutableContainers) as? [String: Any] {
+          guard json["status"] as! Int == 0 else {
+            print("Error!")
+            print(json)
+            return
+          }
+          if let callableOnSuccess = onSuccess {
+            callableOnSuccess(json)
+          }
+        }
+      } catch let error {
+        print(error.localizedDescription)
+      }
+    }
+    task.resume()
+  }
+  
+  func apiPost(endpoint: String, json: [String: Any]) {
+    let jsonData = try? JSONSerialization.data(withJSONObject: json)
+    let url = URL(string: self.apiBaseURL + endpoint)
+    print("POST " + self.apiBaseURL + endpoint)
+    var request = URLRequest(url: url!)
+    request.httpMethod = "POST"
+    request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+    request.httpBody = jsonData
+    let task = URLSession.shared.dataTask(with: request){ (data, response, error) in
+      guard error == nil else {
+        print(error!)
+        return
+      }
+      
+      guard let data = data else {
+        print("No data received")
+        return
+      }
+      
+      do {
+        if let json = try JSONSerialization.jsonObject(with: data, options: .mutableContainers) as? [String: Any] {
+          guard json["status"] as! Int == 0 else {
+            print("Error!")
+            print(json)
+            return
+          }
+          
+        }
+      } catch let error {
+        print(error.localizedDescription)
+      }
+    }
+    task.resume()  }
 
 }
-
