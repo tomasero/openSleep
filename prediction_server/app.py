@@ -23,20 +23,20 @@ app = Flask(__name__)
 def init():
     """ Initialize predictor """
     # move old file
-    if os.path.isfile(config.train_data_filename) and os.stat(config.train_data_filename).st_size > 0:
-        filename = os.path.splitext(config.train_data_filename)[0]
+    if os.path.isfile(config.data_filename) and os.stat(config.data_filename).st_size > 0:
+        filename = os.path.splitext(config.data_filename)[0]
         filename += datetime.datetime.now().strftime("_%Y%m%d_%H%M%S")
         filename += ".csv"
-        shutil.move(config.train_data_filename, filename)
+        shutil.move(config.data_filename, filename)
 
     return jsonify({"status" : 0})
 
-@app.route('/upload_train_data', methods=['POST'])
-def upload_train_data():
-    """ Add biosignals to training data """
+@app.route('/upload', methods=['POST'])
+def upload():
+    """ Add biosignals to data """
     json_ = request.json
     count = 0
-    with open(config.train_data_filename, 'a') as f:
+    with open(config.data_filename, 'a') as f:
         assert len(json_['flex']) == len(json_['ecg']) == len(json_['eda'])
         writer = csv.writer(f)
         for row in zip(json_['flex'], json_['ecg'], json_['eda']):
@@ -50,12 +50,11 @@ def upload_train_data():
 def train():
     """ Train the predictor on the data collected """
     start_time = time.time()
-    json_ = request.json
-    with open(config.train_data_filename, 'r') as f:
+    with open(config.data_filename, 'r') as f:
         rows = f.readlines()
     if len(rows) < config.min_train_data_size:
         return jsonify({"status" : 1,
-                        "message" : "Training data size too small! %d" % len(rows)})
+                        "message" : "Not enough training data! %d" % len(rows)})
     raw = np.zeros((len(rows), 3))
     for i in range(len(rows)):
         raw[i] = [int(val) for val in rows[i].strip().split(',')]
@@ -69,26 +68,29 @@ def train():
 
     return jsonify({"status" : 0, "time" : (time.time() - start_time)})
 
-@app.route('/predict', methods=['POST'])
+@app.route('/predict', methods=['GET'])
 def predict():
     """ Predict sleep vs. non-sleep """
     start_time = time.time()
-    json_ = request.json
     with open(config.model_filename, 'rb') as f:
         clf = pickle.load(f)
 
-    assert len(json_['flex']) == len(json_['ecg']) == len(json_['eda'])
-    raw = np.zeros((len(json_['flex']), 3))
-    i = 0
-    for row in zip(json_['flex'], json_['ecg'], json_['eda']):
-        raw[i] = row
-        i += 1
+    with open(config.data_filename, 'r') as f:
+        rows = f.readlines()
+    if len(rows) < config.prediction_data_size:
+        return jsonify({"status" : 1,
+                        "message" : "Not enough data! %d" % len(rows)})
+    raw = np.zeros((config.prediction_data_size, 3))
+    for i, j in zip(range(config.prediction_data_size),
+                    range(len(rows) - config.prediction_data_size, len(rows))):
+        raw[i] = [int(val) for val in rows[j].strip().split(',')]
     norm = features.normalize(raw)
     X = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
 
     y = clf.predict(X)
 
-    return jsonify({"sleep" : list(y),
+    return jsonify({"status" : 0,
+        "sleep" : list(y),
         "mean_sleep" : np.mean(y),
         "time" : (time.time() - start_time)
     })
