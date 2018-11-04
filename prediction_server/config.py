@@ -1,7 +1,7 @@
 # number of data points the data must have in order to train
 min_train_data_size = 600
 # number of data points to use for prediction
-prediction_data_size = 600
+prediction_data_size = 200
 
 # where to locally store the data
 # all backups will have the same path, with an added suffix

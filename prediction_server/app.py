@@ -32,7 +32,7 @@ def init():
     return jsonify({"status" : 0})
 
 @app.route('/upload', methods=['POST'])
-def upload_train_data():
+def upload():
     """ Add biosignals to data """
     json_ = request.json
     count = 0
