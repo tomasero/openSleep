@@ -89,7 +89,8 @@ def predict():
 
     y = clf.predict(X)
 
-    return jsonify({"sleep" : list(y),
+    return jsonify({"status" : 0,
+        "sleep" : list(y),
         "mean_sleep" : np.mean(y),
         "time" : (time.time() - start_time)
     })
