@@ -41,8 +41,8 @@ feature_labels = [
     #"EDA SD",
     #"EDA Diffs Mean",
     #"EDA Diffs SD",
-    "ECG HR (bpm)",
-    #"ECG RR Intervals Mean",
+    #"ECG HR (bpm)",
+    "ECG RR Intervals Mean",
     #"ECG RR Intervals SD",
     #"ECG RR 2nd Order Intervals Mean",
     #"ECG RR 2nd Order Intervals SD",
@@ -54,7 +54,7 @@ feature_labels = [
 
 ]
 N_FEATURES = len(feature_labels)
-feature_importance = np.array([ 0.39891696,  0.33212996,  0.05234657,  0.2166065 ])
+feature_importance = np.array([ 0.3,  0.3,  0.25,  0.15 ])
 def extract_features(x):
     #flex
     flex_mean = np.mean(x[:, 0])
@@ -99,8 +99,8 @@ def extract_features(x):
         #eda_sd,
         #eda_diffs_mean,
         #eda_diffs_sd,
-        hr,
-        #rr_mean,
+        #hr,
+        rr_mean,
         #rr_sd,
         #rr_diffs_mean,
         #rr_diffs_sd,
