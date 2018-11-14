@@ -14,11 +14,11 @@ class SimpleClassifier():
         self.means = np.mean(X, axis=0)
         noise = np.random.normal(0, 0.01, X.shape)
         self.cov_inv = np.linalg.inv(np.cov(X + noise, rowvar=0))
-        self.u = np.multiply(self.means, self.feature_importance)
 
-    def predict(self, X):
+    def predict(self, X, feature_importance):
         y = np.zeros(len(X))
+        u = np.multiply(self.means, feature_importance)
         for i in range(len(X)):
-            v = np.multiply(X[i], self.feature_importance)
-            y[i] = min(50, mahalanobis(self.u, v, self.cov_inv))
+            v = np.multiply(X[i], feature_importance)
+            y[i] = min(50, mahalanobis(u, v, self.cov_inv))
         return y
