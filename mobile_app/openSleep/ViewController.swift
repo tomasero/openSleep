@@ -150,7 +150,7 @@ class ViewController: UIViewController,
         self.simulationTimer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.simulator(sender:)), userInfo: nil, repeats: true)
       }
       
-      _ = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
+      _ = Timer.scheduledTimer(withTimeInterval: 63, repeats: false, block: {
         t in
         self.startButton.setTitle("Start", for: .normal)
         self.startButton.setTitleColor(UIColor.blue, for: .normal)
