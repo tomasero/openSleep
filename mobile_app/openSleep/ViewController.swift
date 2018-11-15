@@ -36,37 +36,56 @@ class ViewController: UIViewController,
   let UUID_READ = CBUUID(string: "2221")
   let UUID_WRITE = CBUUID(string: "2222")
   
-  @IBOutlet weak var stateInput: UISwitch!
-  @IBOutlet weak var thresholdInput: UISlider!
-  
   @IBOutlet weak var flexValue: UILabel!
   @IBOutlet weak var EDAValue: UILabel!
   @IBOutlet weak var HRValue: UILabel!
-  @IBOutlet weak var thresholdLabel: UILabel!
   @IBOutlet weak var statusLabel: UILabel!
   
-  @IBOutlet weak var recordButton: UIButton!
+  @IBOutlet weak var recordThinkOfButton: UIButton!
+  @IBOutlet weak var recordPromptButton: UIButton!
   @IBOutlet weak var startButton: UIButton!
   @IBOutlet weak var simulationInput: UISwitch!
+  
+  @IBOutlet weak var mahalanobisThresholdText: UITextField!
+  @IBOutlet weak var calibrationTimeText: UITextField!
+  @IBOutlet weak var promptTimeText: UITextField!
+  @IBOutlet weak var numOnsetsText: UITextField!
+  @IBOutlet weak var waitForOnsetTimeText: UITextField!
+  
+  @IBOutlet weak var featureImportanceFlexText: UITextField!
+  @IBOutlet weak var featureImportanceHRText: UITextField!
+  @IBOutlet weak var featureImportanceEDAText: UITextField!
   
   var stateValue: Bool = false
 //  var modeValue: Int = 0
   var thresholdValue: Int = 0
   
   var playedAudio: Bool = false
-  var isRecording: Bool = false
+  var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
+  var recordingPrompt: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
   var currentStatus: String = "IDLE"
+  var numOnsets = 0
  
   var apiBaseURL: String = "http://68.183.114.149:5000/"
   var detectSleepTimer = Timer()
+  var detectSleepTimerPause : Bool = false
+  var doOnPlayingEnd : (() -> ())! = nil
   
   var edaBuffer = [UInt32]()
   var flexBuffer = [UInt32]()
   var hrBuffer = [UInt32]()
   
+  var timer = Timer()
+  var mahalanobisThreshold : Float = 6
+  var featureImportance : [String : Any] = ["flex" : 0.4,
+                                            "eda" : 0.3,
+                                            "ecg" : 0.3]
+  
   var simulatedData = [[UInt32]]()
   var simulatedIndex: Int = 0
   var simulationTimer = Timer()
+  
+  var testRecording: Int = 0
   
   func getData() -> NSData{
     let state: UInt16 = stateValue ? 1 : 0
@@ -91,84 +110,93 @@ class ViewController: UIViewController,
     }
   }
   
-  @IBAction func stateChanged(_ sender: UISwitch) {
-    print("STATE CHANGED")
-    stateValue = stateInput.isOn
-    print(stateValue)
-    if !stateValue {
-//      thresholdInput.isEnabled = false
-//      thresholdInput.tintColor = UIColor .gray
-    } else {
-//      thresholdInput.isEnabled = true
-//      thresholdInput.tintColor = modeValue == 0 ? UIColor .red : UIColor .blue
+  @IBAction func thresholdChanged(_ sender: Any) {
+    if let threshold = Float(self.mahalanobisThresholdText.text!) {
+      self.mahalanobisThreshold = threshold
     }
-//    updateSettings()
-  }
-//
-//  @IBAction func modeChanged(_ sender: UISegmentedControl) {
-//    print("MODE CHANGED")
-//    modeValue = modeInput.selectedSegmentIndex
-//    if modeValue == 0 {
-//      thresholdInput.tintColor = UIColor .red
-//    } else {
-//      thresholdInput.tintColor = UIColor .blue
-//    }
-//    updateSettings()
-//  }
-  
-  @IBAction func thresholdChanged(_ sender: UISlider) {
-    thresholdValue = Int(thresholdInput.value)
-    thresholdLabel.text = String(thresholdValue)
-    updateSettings()
   }
   
-  @IBAction func recordButtonPressed(sender: UIButton) {
-    if (!isRecording) {
-      self.startRecording()
-      isRecording = true;
-      recordButton.setTitle("Stop", for: .normal)
-      recordButton.setTitleColor(UIColor.red, for: .normal)
+  @IBAction func testRecordingsPressed(_ sender: UIButton) {
+    self.startPlaying(mode: self.testRecording)
+    self.testRecording = 1 - self.testRecording
+  }
+  
+  @IBAction func recordThinkOfButtonPressed(sender: UIButton) {
+    if (recordingPrompt == 1) {
+      return
+    }
+    if (recordingThinkOf != 1) {
+      self.startRecording(mode: 0)
+      recordingThinkOf = 1;
+      recordThinkOfButton.setTitle("Stop", for: .normal)
+      recordThinkOfButton.setTitleColor(UIColor.red, for: .normal)
     } else {
       audioRecorder.stop()
-      isRecording = false;
-      recordButton.setTitle("Record", for: .normal)
-      recordButton.setTitleColor(UIColor.blue, for: .normal)
+      recordingThinkOf = 2;
+      recordThinkOfButton.setTitle("Record\n\"You can fall asleep now,\nRemember to think of... \"", for: .normal)
+      recordThinkOfButton.setTitleColor(UIColor.green, for: .normal)
+    }
+    
+  }
+  
+  @IBAction func recordPromptButtonPressed(sender: UIButton) {
+    if (recordingThinkOf == 1) {
+      return
+    }
+    if (recordingPrompt != 1) {
+      self.startRecording(mode: 1)
+      recordingPrompt = 1;
+      recordPromptButton.setTitle("Stop", for: .normal)
+      recordPromptButton.setTitleColor(UIColor.red, for: .normal)
+    } else {
+      audioRecorder.stop()
+      recordingPrompt = 2;
+      recordPromptButton.setTitle("Record\n\"You're falling asleep...\nTell me what you're thinking\"", for: .normal)
+      recordPromptButton.setTitleColor(UIColor.green, for: .normal)
     }
     
   }
   
   @IBAction func startButtonPressed(sender: UIButton) {
+  
     if (currentStatus == "IDLE") {
-      startButton.setTitle("Cancel", for: .normal)
+      startButton.setTitle("WAITING", for: .normal)
       startButton.setTitleColor(UIColor.red, for: .normal)
-      currentStatus = "RUNNING"
-      
-      self.apiGet(endpoint: "init")
+      currentStatus = "CALIBRATING"
       
       if (simulationInput.isOn) {
         self.simulatedIndex = 0
         self.simulationTimer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.simulator(sender:)), userInfo: nil, repeats: true)
       }
       
-      _ = Timer.scheduledTimer(withTimeInterval: 63, repeats: false, block: {
-        t in
-        self.startButton.setTitle("Start", for: .normal)
-        self.startButton.setTitleColor(UIColor.blue, for: .normal)
-        self.currentStatus = "CALIBRATED"
-      })
-    } else if (currentStatus == "CALIBRATED") {
-      startButton.setTitle("Cancel", for: .normal)
-      startButton.setTitleColor(UIColor.red, for: .normal)
-      currentStatus = "RUNNING"
+      self.detectSleepTimer.invalidate()
       
-      self.apiGet(endpoint: "train")
-
-      self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
-    } else if (currentStatus == "RUNNING") {
-      startButton.setTitle("Calibrate", for: .normal)
+      self.timer = Timer.scheduledTimer(withTimeInterval: 10, repeats: false, block: {
+        t in
+        self.apiGet(endpoint: "init")
+        self.startButton.setTitle("CALIBRATING", for: .normal)
+        
+        self.startPlaying(mode: 0)
+        
+        self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeText.text!)!, repeats: false, block: {
+          t in
+          self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
+          self.currentStatus = "RUNNING"
+          
+          self.apiGet(endpoint: "train")
+          
+          self.detectSleepTimerPause = false
+          self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+        })
+      })
+      
+      
+    } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
+      startButton.setTitle("START", for: .normal)
       startButton.setTitleColor(UIColor.blue, for: .normal)
       currentStatus = "IDLE"
       
+      self.timer.invalidate()
       self.detectSleepTimer.invalidate()
       
       if (simulationInput.isOn) {
@@ -186,16 +214,16 @@ class ViewController: UIViewController,
     return soundURL as NSURL?
   }
   
-  func startRecording() {
+  func startRecording(mode: Int) {
     let audioSession = AVAudioSession.sharedInstance()
     do {
-      let url = self.audioDirectoryURL(0)! as URL
+      let url = self.audioDirectoryURL(mode)! as URL
       audioRecorder = try AVAudioRecorder(url: url,
                                           settings: audioRecorderSettings)
       audioRecorder.delegate = self
       audioRecorder.prepareToRecord()
 
-      audioURLs[0] = url
+      audioURLs[mode] = url
       print("url = \(url)")
     } catch {
       audioRecorder.stop()
@@ -207,8 +235,8 @@ class ViewController: UIViewController,
     }
   }
   
-  func startPlaying() {
-    self.audioPlayer = try! AVAudioPlayer(contentsOf: audioURLs[0]!)
+  func startPlaying(mode: Int, onFinish: (() -> ())? = nil) {
+    self.audioPlayer = try! AVAudioPlayer(contentsOf: audioURLs[mode]!)
     self.audioPlayer.prepareToPlay()
     self.audioPlayer.delegate = self
 //    self.audioPlayer.currentTime = max(0 as TimeInterval, self.audioPlayer.duration - audioPlaybackOffset)
@@ -219,15 +247,6 @@ class ViewController: UIViewController,
   override func viewDidLoad() {
     super.viewDidLoad()
     manager = CBCentralManager(delegate: self, queue: nil)
-    stateInput.setOn(false, animated: false)
-//    enableModeInput(enable: true)
-//    thresholdInput.isEnabled = false
-    thresholdInput.value = 0.0
-//    thresholdInput.isContinuous = false;
-    
-    // Do any additional setup after loading the view, typically from a nib.
-    stateValue = stateInput.isOn
-    thresholdValue = 0
     
     // Audio recording session
     recordingSession = AVAudioSession.sharedInstance()
@@ -295,7 +314,7 @@ class ViewController: UIViewController,
   }
 
   @objc func simulator(sender: Timer) {
-    if (self.simulatedIndex > self.simulatedData.count) {
+    if (self.simulatedIndex >= self.simulatedData.count) {
       self.simulatedIndex = 0
     }
     self.sendData(flex: self.simulatedData[self.simulatedIndex][0], hr: self.simulatedData[self.simulatedIndex][1], eda: self.simulatedData[self.simulatedIndex][2])
@@ -309,19 +328,52 @@ class ViewController: UIViewController,
   }
   
   @objc func detectSleep(sender: Timer) {
-    self.apiGet(endpoint: "predict", onSuccess: { json in
+    if (self.detectSleepTimerPause) {
+      return
+    }
+    if let flex = Double(self.featureImportanceFlexText.text!), let eda = Double(self.featureImportanceEDAText.text!), let ecg = Double(self.featureImportanceHRText.text!) {
+      if (flex + eda + ecg > 99.9) {
+        self.featureImportance["eda"] = eda / 100
+        self.featureImportance["ecg"] = ecg / 100
+        self.featureImportance["flex"] = flex / 100
+      }
+    }
+    let json : [String: Any] = ["feature_importance" : self.featureImportance]
+    self.apiPost(endpoint: "predict", json: json, onSuccess: { json in
       let score = (json["mean_sleep"] as! NSNumber).floatValue
       DispatchQueue.main.async {
         self.statusLabel.text = String(score)
-      }
-      
-      if (score > 0.5) {
-        print("Sleep!")
-        if (!self.playedAudio) {
-          //self.startPlaying()
-          self.playedAudio = true
+        
+        if (score >= self.mahalanobisThreshold) {
+          print("Sleep!")
+          if (!self.playedAudio) {
+            self.playedAudio = true
+            self.startButton.setTitle("SLEEP!", for: .normal)
+            self.detectSleepTimerPause = true
+            // pause timer
+            self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.promptTimeText.text!)!, repeats: false, block: {
+              t in
+              self.startPlaying(mode: 1)
+              self.numOnsets += 1
+              self.doOnPlayingEnd = {
+                self.startRecording(mode: self.numOnsets+1)
+              }
+              if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
+                self.timer = Timer.scheduledTimer(withTimeInterval: 90, repeats: false, block: {
+                  t in
+                  self.audioRecorder.stop()
+                  self.startPlaying(mode: 0)
+                  self.playedAudio = false
+                  self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
+                  self.detectSleepTimerPause = false
+                })
+              }
+            })
+          }
         }
       }
+      
+      
     })
   }
   
@@ -440,19 +492,6 @@ class ViewController: UIViewController,
       
       sendData(flex: flex, hr: HR, eda: EDA)
       
-      if (stateValue) {
-        if (flex < thresholdValue) {
-          if (playedAudio) { return }
-//          print("hello motto")
-//          let utterance = AVSpeechUtterance(string: "Hello Motto")
-//          utterance.voice = AVSpeechSynthesisVoice(language: "en-GB")
-//          synth.speak(utterance)
-          startPlaying()
-          playedAudio = true
-        } else {
-          playedAudio = false;
-        }
-      }
       
 //
 //      let firstChunk = characteristic.value![0...3]
@@ -536,7 +575,7 @@ class ViewController: UIViewController,
     task.resume()
   }
   
-  func apiPost(endpoint: String, json: [String: Any]) {
+  func apiPost(endpoint: String, json: [String: Any], onSuccess: (([String : Any]) -> ())? = nil) {
     let jsonData = try? JSONSerialization.data(withJSONObject: json)
     let url = URL(string: self.apiBaseURL + endpoint)
     print("POST " + self.apiBaseURL + endpoint)
@@ -562,12 +601,25 @@ class ViewController: UIViewController,
             print(json)
             return
           }
-          
+          if let callableOnSuccess = onSuccess {
+            callableOnSuccess(json)
+          }
         }
       } catch let error {
         print(error.localizedDescription)
       }
     }
-    task.resume()  }
+    task.resume()
+    
+  }
+  
+  func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
+    //You can stop the audio
+    player.stop()
+    if (self.doOnPlayingEnd != nil) {
+      self.doOnPlayingEnd()
+      self.doOnPlayingEnd = nil
+    }
+  }
 
 }
