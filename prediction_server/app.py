@@ -68,7 +68,7 @@ def train():
 
     return jsonify({"status" : 0, "time" : (time.time() - start_time)})
 
-@app.route('/predict', methods=['GET'])
+@app.route('/predict', methods=['GET', 'POST'])
 def predict():
     """ Predict sleep vs. non-sleep """
     start_time = time.time()
@@ -87,7 +87,21 @@ def predict():
     norm = features.normalize(raw)
     X = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
 
-    y = clf.predict(X)
+    json_ = request.json
+    n_features = X.shape[1]
+    feature_importance = np.zeros(n_features)
+    if json_ and 'feature_importance' in json_:
+        feature_importance[0] = json_['feature_importance']['flex']
+        feature_importance[1] = json_['feature_importance']['eda']
+        for i in range(2, n_features):
+            feature_importance[i] = json_['feature_importance']['ecg'] / float(n_features - 2)
+    else:
+        feature_importance[0] = 1 / 3.
+        feature_importance[1] = 1 / 3.
+        for i in range(2, n_features):
+            feature_importance[i] = 1 / float(3 * (n_features - 2))
+
+    y = clf.predict(X, feature_importance)
 
     return jsonify({"status" : 0,
         "sleep" : list(y),
