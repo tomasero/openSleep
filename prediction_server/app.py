@@ -109,5 +109,11 @@ def predict():
         "time" : (time.time() - start_time)
     })
 
+@app.route('/data', methods=['GET'])
+def data():
+    with open(config.data_filename, 'r') as f:
+        rows = f.read().splitlines()
+    return "||||" + "|".join(rows)
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
