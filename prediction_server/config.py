@@ -1,5 +1,5 @@
 # number of data points the data must have in order to train
-min_train_data_size = 600
+min_train_data_size = 300
 # number of data points to use for prediction
 prediction_data_size = 200
 

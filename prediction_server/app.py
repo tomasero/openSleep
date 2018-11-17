@@ -29,6 +29,9 @@ def init():
         filename += ".csv"
         shutil.move(config.data_filename, filename)
 
+    # delete model file
+    os.remove(config.model_filename)
+
     return jsonify({"status" : 0})
 
 @app.route('/upload', methods=['POST'])
@@ -111,7 +114,10 @@ def predict():
 
 @app.route('/data', methods=['GET'])
 def data():
-    with open(config.data_filename, 'r') as f:
+    filename = os.path.splitext(config.data_filename)[0]
+    filename += request.args.get('suffix', default='')
+    filename += ".csv"
+    with open(filename, 'r') as f:
         rows = f.read().splitlines()
     return "||||" + "|".join(rows)
 
