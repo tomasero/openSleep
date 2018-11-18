@@ -30,7 +30,8 @@ def init():
         shutil.move(config.data_filename, filename)
 
     # delete model file
-    os.remove(config.model_filename)
+    if os.path.isfile(config.model_filename):
+        os.remove(config.model_filename)
 
     return jsonify({"status" : 0})
 
