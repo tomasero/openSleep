@@ -3,3 +3,4 @@ Flask
 pandas
 scikit-learn
 scipy
+pyod

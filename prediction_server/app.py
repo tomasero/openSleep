@@ -16,6 +16,7 @@ import time
 import config
 import features
 from classifiers import SimpleClassifier
+from pyod.models.hbos import HBOS
 
 app = Flask(__name__)
 
@@ -56,6 +57,8 @@ def train():
     start_time = time.time()
     with open(config.data_filename, 'r') as f:
         rows = f.readlines()
+    with open(config.awake_filename, 'rb') as f:
+        awake_features = pickle.load(f)
     if len(rows) < config.min_train_data_size:
         return jsonify({"status" : 1,
                         "message" : "Not enough training data! %d" % len(rows)})
@@ -63,12 +66,24 @@ def train():
     for i in range(len(rows)):
         raw[i] = [int(val) for val in rows[i].strip().split(',')]
     norm = features.normalize(raw)
-    X = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
-    clf = SimpleClassifier(features.feature_importance)
+    temp_features = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
+    baseline_features = features.get_baseline_features(temp_features)
+    norm_features = features.get_calibrated_features(temp_features, baseline_features)
+    X = np.concatenate((awake_features, norm_features), axis=0)
+    X[: ,1] = np.abs(np.random.normal(0, 0.01, len(X)))
     app.logger.info('Training classifier using %d feature sets, each containing %d features' % (X.shape[0], X.shape[1]))
+    clf = HBOS(contamination=0.05)
     clf.fit(X)
     with open(config.model_filename, 'wb') as f:
         pickle.dump(clf, f)
+
+    pred = clf.decision_function(X)
+    baseline = {
+        'features' : baseline_features,
+        'hboss_base' : np.min(pred)
+    }
+    with open(config.baseline_filename, 'wb') as f:
+        pickle.dump(baseline, f)
 
     return jsonify({"status" : 0, "time" : (time.time() - start_time)})
 
@@ -78,6 +93,8 @@ def predict():
     start_time = time.time()
     with open(config.model_filename, 'rb') as f:
         clf = pickle.load(f)
+    with open(config.baseline_filename, 'rb') as f:
+        baseline = pickle.load(f)
 
     with open(config.data_filename, 'r') as f:
         rows = f.readlines()
@@ -89,8 +106,10 @@ def predict():
                     range(len(rows) - config.prediction_data_size, len(rows))):
         raw[i] = [int(val) for val in rows[j].strip().split(',')]
     norm = features.normalize(raw)
-    X = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
+    temp_features = features.extract_multi_features(norm, step=config.step_size, x_len=config.sample_size)
+    X = features.get_calibrated_features(temp_features, baseline['features'])
 
+    """
     json_ = request.json
     n_features = X.shape[1]
     feature_importance = np.zeros(n_features)
@@ -104,12 +123,15 @@ def predict():
         feature_importance[1] = 1 / 3.
         for i in range(2, n_features):
             feature_importance[i] = 1 / float(3 * (n_features - 2))
-
     y = clf.predict(X, feature_importance)
+    """
+
+    y = clf.decision_function(X) - baseline['hboss_base']
 
     return jsonify({"status" : 0,
         "sleep" : list(y),
         "mean_sleep" : np.mean(y),
+        "max_sleep" : np.max(y),
         "time" : (time.time() - start_time)
     })
 
