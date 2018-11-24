@@ -7,6 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		392212E321A5D3C40002A9DC /* ball_point_pen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */; };
+		392212E421A5D3C40002A9DC /* ball_point_pen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */; };
+		392212E521A5D3C40002A9DC /* ball_point_pen.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E221A5D3C40002A9DC /* ball_point_pen.png */; };
+		392212EA21A5D4560002A9DC /* report_card@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E721A5D4560002A9DC /* report_card@2x.png */; };
+		392212EB21A5D4560002A9DC /* report_card.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E821A5D4560002A9DC /* report_card.png */; };
+		392212EC21A5D4560002A9DC /* report_card@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E921A5D4560002A9DC /* report_card@3x.png */; };
+		392212F021A5D4790002A9DC /* happy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212ED21A5D4780002A9DC /* happy@2x.png */; };
+		392212F121A5D4790002A9DC /* happy@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212EE21A5D4780002A9DC /* happy@3x.png */; };
+		392212F221A5D4790002A9DC /* happy.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212EF21A5D4790002A9DC /* happy.png */; };
+		392212F621A5D5AF0002A9DC /* RecordingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392212F521A5D5AF0002A9DC /* RecordingsTableViewController.swift */; };
+		392212F821A5D6770002A9DC /* Recordings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392212F721A5D6770002A9DC /* Recordings.swift */; };
+		392212FC21A5E5830002A9DC /* visible@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212F921A5E5820002A9DC /* visible@3x.png */; };
+		392212FD21A5E5830002A9DC /* visible.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212FA21A5E5820002A9DC /* visible.png */; };
+		392212FE21A5E5830002A9DC /* visible@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212FB21A5E5830002A9DC /* visible@2x.png */; };
+		3922130021A89D470002A9DC /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392212FF21A89D470002A9DC /* Alerts.swift */; };
+		3922130421A8A6650002A9DC /* circled_play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130121A8A6650002A9DC /* circled_play@2x.png */; };
+		3922130521A8A6650002A9DC /* circled_play@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130221A8A6650002A9DC /* circled_play@3x.png */; };
+		3922130621A8A6650002A9DC /* circled_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130321A8A6650002A9DC /* circled_play.png */; };
+		3922130A21A8A6E00002A9DC /* microphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130721A8A6DF0002A9DC /* microphone@2x.png */; };
+		3922130B21A8A6E00002A9DC /* microphone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130821A8A6E00002A9DC /* microphone@3x.png */; };
+		3922130C21A8A6E00002A9DC /* microphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130921A8A6E00002A9DC /* microphone.png */; };
+		3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922130D21A9B4B00002A9DC /* Dormio.swift */; };
+		3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922130F21A9C4E00002A9DC /* SleepAPI.swift */; };
+		3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3934E9C8219F5312007049D8 /* HeartQueue.swift */; };
 		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
 		FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C561FDA1BE60034F388 /* ViewController.swift */; };
@@ -16,6 +40,30 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball_point_pen@2x.png"; sourceTree = "<group>"; };
+		392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball_point_pen@3x.png"; sourceTree = "<group>"; };
+		392212E221A5D3C40002A9DC /* ball_point_pen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball_point_pen.png; sourceTree = "<group>"; };
+		392212E721A5D4560002A9DC /* report_card@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "report_card@2x.png"; sourceTree = "<group>"; };
+		392212E821A5D4560002A9DC /* report_card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = report_card.png; sourceTree = "<group>"; };
+		392212E921A5D4560002A9DC /* report_card@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "report_card@3x.png"; sourceTree = "<group>"; };
+		392212ED21A5D4780002A9DC /* happy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "happy@2x.png"; sourceTree = "<group>"; };
+		392212EE21A5D4780002A9DC /* happy@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "happy@3x.png"; sourceTree = "<group>"; };
+		392212EF21A5D4790002A9DC /* happy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = happy.png; sourceTree = "<group>"; };
+		392212F521A5D5AF0002A9DC /* RecordingsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingsTableViewController.swift; sourceTree = "<group>"; };
+		392212F721A5D6770002A9DC /* Recordings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recordings.swift; sourceTree = "<group>"; };
+		392212F921A5E5820002A9DC /* visible@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "visible@3x.png"; sourceTree = "<group>"; };
+		392212FA21A5E5820002A9DC /* visible.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = visible.png; sourceTree = "<group>"; };
+		392212FB21A5E5830002A9DC /* visible@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "visible@2x.png"; sourceTree = "<group>"; };
+		392212FF21A89D470002A9DC /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
+		3922130121A8A6650002A9DC /* circled_play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circled_play@2x.png"; sourceTree = "<group>"; };
+		3922130221A8A6650002A9DC /* circled_play@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circled_play@3x.png"; sourceTree = "<group>"; };
+		3922130321A8A6650002A9DC /* circled_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circled_play.png; sourceTree = "<group>"; };
+		3922130721A8A6DF0002A9DC /* microphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "microphone@2x.png"; sourceTree = "<group>"; };
+		3922130821A8A6E00002A9DC /* microphone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "microphone@3x.png"; sourceTree = "<group>"; };
+		3922130921A8A6E00002A9DC /* microphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone.png; sourceTree = "<group>"; };
+		3922130D21A9B4B00002A9DC /* Dormio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dormio.swift; sourceTree = "<group>"; };
+		3922130F21A9C4E00002A9DC /* SleepAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleepAPI.swift; sourceTree = "<group>"; };
+		3934E9C8219F5312007049D8 /* HeartQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartQueue.swift; sourceTree = "<group>"; };
 		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +85,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		392212E621A5D3E40002A9DC /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				3922130921A8A6E00002A9DC /* microphone.png */,
+				3922130721A8A6DF0002A9DC /* microphone@2x.png */,
+				3922130821A8A6E00002A9DC /* microphone@3x.png */,
+				3922130321A8A6650002A9DC /* circled_play.png */,
+				3922130121A8A6650002A9DC /* circled_play@2x.png */,
+				3922130221A8A6650002A9DC /* circled_play@3x.png */,
+				392212FA21A5E5820002A9DC /* visible.png */,
+				392212FB21A5E5830002A9DC /* visible@2x.png */,
+				392212F921A5E5820002A9DC /* visible@3x.png */,
+				392212EF21A5D4790002A9DC /* happy.png */,
+				392212ED21A5D4780002A9DC /* happy@2x.png */,
+				392212EE21A5D4780002A9DC /* happy@3x.png */,
+				392212E821A5D4560002A9DC /* report_card.png */,
+				392212E721A5D4560002A9DC /* report_card@2x.png */,
+				392212E921A5D4560002A9DC /* report_card@3x.png */,
+				392212E221A5D3C40002A9DC /* ball_point_pen.png */,
+				392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */,
+				392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
 		FF6F7C481FDA1BE50034F388 = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +129,7 @@
 		FF6F7C531FDA1BE60034F388 /* openSleep */ = {
 			isa = PBXGroup;
 			children = (
+				392212E621A5D3E40002A9DC /* assets */,
 				9051B709218C8BE20018B3E1 /* simulatedData.csv */,
 				FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */,
 				FF6F7C561FDA1BE60034F388 /* ViewController.swift */,
@@ -63,6 +137,12 @@
 				FF6F7C5B1FDA1BE60034F388 /* Assets.xcassets */,
 				FF6F7C5D1FDA1BE60034F388 /* LaunchScreen.storyboard */,
 				FF6F7C601FDA1BE60034F388 /* Info.plist */,
+				3934E9C8219F5312007049D8 /* HeartQueue.swift */,
+				392212F521A5D5AF0002A9DC /* RecordingsTableViewController.swift */,
+				392212F721A5D6770002A9DC /* Recordings.swift */,
+				392212FF21A89D470002A9DC /* Alerts.swift */,
+				3922130D21A9B4B00002A9DC /* Dormio.swift */,
+				3922130F21A9C4E00002A9DC /* SleepAPI.swift */,
 			);
 			path = openSleep;
 			sourceTree = "<group>";
@@ -126,10 +206,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				392212EB21A5D4560002A9DC /* report_card.png in Resources */,
+				392212E321A5D3C40002A9DC /* ball_point_pen@2x.png in Resources */,
+				392212F221A5D4790002A9DC /* happy.png in Resources */,
+				392212FD21A5E5830002A9DC /* visible.png in Resources */,
+				392212E421A5D3C40002A9DC /* ball_point_pen@3x.png in Resources */,
+				3922130B21A8A6E00002A9DC /* microphone@3x.png in Resources */,
+				392212FC21A5E5830002A9DC /* visible@3x.png in Resources */,
+				3922130421A8A6650002A9DC /* circled_play@2x.png in Resources */,
+				392212EC21A5D4560002A9DC /* report_card@3x.png in Resources */,
+				3922130521A8A6650002A9DC /* circled_play@3x.png in Resources */,
 				FF6F7C5F1FDA1BE60034F388 /* LaunchScreen.storyboard in Resources */,
 				9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */,
+				3922130621A8A6650002A9DC /* circled_play.png in Resources */,
+				3922130C21A8A6E00002A9DC /* microphone.png in Resources */,
+				392212FE21A5E5830002A9DC /* visible@2x.png in Resources */,
+				392212EA21A5D4560002A9DC /* report_card@2x.png in Resources */,
+				3922130A21A8A6E00002A9DC /* microphone@2x.png in Resources */,
 				FF6F7C5C1FDA1BE60034F388 /* Assets.xcassets in Resources */,
+				392212F121A5D4790002A9DC /* happy@3x.png in Resources */,
 				FF6F7C5A1FDA1BE60034F388 /* Main.storyboard in Resources */,
+				392212E521A5D3C40002A9DC /* ball_point_pen.png in Resources */,
+				392212F021A5D4790002A9DC /* happy@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,7 +239,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */,
+				392212F621A5D5AF0002A9DC /* RecordingsTableViewController.swift in Sources */,
+				3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */,
 				FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */,
+				3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */,
+				3922130021A89D470002A9DC /* Alerts.swift in Sources */,
+				3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */,
+				392212F821A5D6770002A9DC /* Recordings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +385,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7UQD3GFB9F;
 				INFOPLIST_FILE = openSleep/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FI.openSleep;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -296,6 +401,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7UQD3GFB9F;
 				INFOPLIST_FILE = openSleep/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FI.openSleep;
 				PRODUCT_NAME = "$(TARGET_NAME)";

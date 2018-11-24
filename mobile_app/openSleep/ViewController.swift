@@ -14,51 +14,36 @@ import MediaPlayer
 let storedItemsKey = "storedItems"
 
 class ViewController: UIViewController,
-                      CBCentralManagerDelegate,
-                      CBPeripheralDelegate,
-                      AVAudioRecorderDelegate,
-                      AVAudioPlayerDelegate {
-  
-  var manager:CBCentralManager!
-  var _peripheral:CBPeripheral!
-  var sendCharacteristic: CBCharacteristic!
-  var loadedService: Bool = true
-  
-  let synth = AVSpeechSynthesizer()
-  var recordingSession : AVAudioSession!
-  var audioRecorder    :AVAudioRecorder!
-  var audioRecorderSettings = [String : Int]()
-  var audioPlayer : AVAudioPlayer!
-  var audioURLs = [Int: URL]()
-  
-  let NAME = "RFduino"
-  let UUID_SERVICE = CBUUID(string: "2220")
-  let UUID_READ = CBUUID(string: "2221")
-  let UUID_WRITE = CBUUID(string: "2222")
+                      UITextFieldDelegate,
+                      DormioDelegate {
+
+  var dormioManager = DormioManager.shared
+  var recordingsManager = RecordingsManager.shared
   
   @IBOutlet weak var flexValue: UILabel!
   @IBOutlet weak var EDAValue: UILabel!
   @IBOutlet weak var HRValue: UILabel!
-  @IBOutlet weak var statusLabel: UILabel!
+  @IBOutlet weak var HBOSSLabel: UILabel!
   
+  @IBOutlet weak var connectButton: UIButton!
   @IBOutlet weak var recordThinkOfButton: UIButton!
   @IBOutlet weak var recordPromptButton: UIButton!
   @IBOutlet weak var startButton: UIButton!
   @IBOutlet weak var simulationInput: UISwitch!
   
-  @IBOutlet weak var mahalanobisThresholdText: UITextField!
   @IBOutlet weak var calibrationTimeText: UITextField!
   @IBOutlet weak var promptTimeText: UITextField!
   @IBOutlet weak var numOnsetsText: UITextField!
   @IBOutlet weak var waitForOnsetTimeText: UITextField!
   
-  @IBOutlet weak var featureImportanceFlexText: UITextField!
-  @IBOutlet weak var featureImportanceHRText: UITextField!
-  @IBOutlet weak var featureImportanceEDAText: UITextField!
+  @IBOutlet weak var deltaFlexText: UITextField!
+  @IBOutlet weak var deltaHRText: UITextField!
+  @IBOutlet weak var deltaEDAText: UITextField!
+  @IBOutlet weak var deltaHBOSSText: UITextField!
   
-  var stateValue: Bool = false
-//  var modeValue: Int = 0
-  var thresholdValue: Int = 0
+  @IBOutlet weak var meanFlexLabel: UILabel!
+  @IBOutlet weak var meanHRLabel: UILabel!
+  @IBOutlet weak var meanEDALabel: UILabel!
   
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -66,20 +51,33 @@ class ViewController: UIViewController,
   var currentStatus: String = "IDLE"
   var numOnsets = 0
  
-  var apiBaseURL: String = "http://68.183.114.149:5000/"
   var detectSleepTimer = Timer()
   var detectSleepTimerPause : Bool = false
-  var doOnPlayingEnd : (() -> ())! = nil
   
   var edaBuffer = [UInt32]()
   var flexBuffer = [UInt32]()
   var hrBuffer = [UInt32]()
+  var hrQueue = HeartQueue(windowTime: 60)
+  var lastHrUpdate = Date().timeIntervalSince1970
+  
+  var isCalibrating = false
+  var edaBufferCalibrate = [Int]()
+  var flexBufferCalibrate = [Int]()
+  var hrBufferCalibrate = [Int]()
+  var meanEDA : Int = 0
+  var meanHR : Int = 0
+  var meanFlex : Int = 0
+  var lastEDA : Int = 0
+  var lastHR : Int = 0
+  var lastFlex : Int = 0
+  
+  var firstOnset = true
+  var lastOnset = Date().timeIntervalSince1970
   
   var timer = Timer()
-  var mahalanobisThreshold : Float = 6
-  var featureImportance : [String : Any] = ["flex" : 0.4,
+  var featureImportance : [String : Any] = ["flex" : 0.3,
                                             "eda" : 0.3,
-                                            "ecg" : 0.3]
+                                            "ecg" : 0.4]
   
   var simulatedData = [[UInt32]]()
   var simulatedIndex: Int = 0
@@ -87,37 +85,47 @@ class ViewController: UIViewController,
   
   var testRecording: Int = 0
   
-  func getData() -> NSData{
-    let state: UInt16 = stateValue ? 1 : 0
-    let power:UInt16 = UInt16(thresholdValue)
-    var theData : [UInt16] = [ state, power ]
-    print(theData)
-    let data = NSData(bytes: &theData, length: theData.count)
-    return data
+  func dormioConnected() {
+    print("Connected")
+    self.connectButton.setTitle("CONNECTED", for: .normal)
+    self.connectButton.setTitleColor(UIColor.blue, for: .normal)
   }
   
-
-  func updateSettings() {
-    if loadedService {
-      if _peripheral?.state == CBPeripheralState.connected {
-        if let characteristic:CBCharacteristic? = sendCharacteristic{
-          let data: Data = getData() as Data
-          _peripheral?.writeValue(data,
-                                  for: characteristic!,
-                                  type: CBCharacteristicWriteType.withResponse)
-        }
-      }
+  func dormioDisconnected() {
+    self.connectButton.setTitle("CONNECT", for: .normal)
+    self.connectButton.setTitleColor(UIColor.red, for: .normal)
+  }
+  
+  func dormioData(hr: UInt32, eda: UInt32, flex: UInt32) {
+    flexValue.text = String(flex);
+    EDAValue.text = String(eda);
+    hrQueue.put(hr: hr)
+    if (Date().timeIntervalSince1970 - lastHrUpdate > 1) {
+      lastHrUpdate = Date().timeIntervalSince1970
+      HRValue.text = String(hrQueue.bpm())
+    }
+    
+    if (self.currentStatus != "IDLE") {
+      sendData(flex: flex, hr: hr, eda: eda)
+    }
+    
+    if (self.isCalibrating) {
+      calibrateData(flex: flex, hr: hrQueue.bpm(), eda: eda)
     }
   }
   
-  @IBAction func thresholdChanged(_ sender: Any) {
-    if let threshold = Float(self.mahalanobisThresholdText.text!) {
-      self.mahalanobisThreshold = threshold
+  @IBAction func connectButtonPressed(_ sender: UIButton) {
+    dormioManager.delegate = self
+    if dormioManager.isConnected {
+      dormioManager.disconnect()
+    } else {
+      dormioManager.scanAndConnect()
+      self.connectButton.setTitle("SCANNING", for: .normal)
     }
   }
   
   @IBAction func testRecordingsPressed(_ sender: UIButton) {
-    self.startPlaying(mode: self.testRecording)
+    recordingsManager.startPlaying(mode: self.testRecording)
     self.testRecording = 1 - self.testRecording
   }
   
@@ -126,15 +134,15 @@ class ViewController: UIViewController,
       return
     }
     if (recordingThinkOf != 1) {
-      self.startRecording(mode: 0)
+      recordingsManager.startRecording(mode: 0)
       recordingThinkOf = 1;
       recordThinkOfButton.setTitle("Stop", for: .normal)
       recordThinkOfButton.setTitleColor(UIColor.red, for: .normal)
     } else {
-      audioRecorder.stop()
+      recordingsManager.stopRecording()
       recordingThinkOf = 2;
       recordThinkOfButton.setTitle("Record\n\"You can fall asleep now,\nRemember to think of... \"", for: .normal)
-      recordThinkOfButton.setTitleColor(UIColor.green, for: .normal)
+      recordThinkOfButton.setTitleColor(UIColor.lightGray, for: .normal)
     }
     
   }
@@ -144,15 +152,15 @@ class ViewController: UIViewController,
       return
     }
     if (recordingPrompt != 1) {
-      self.startRecording(mode: 1)
+      recordingsManager.startRecording(mode: 1)
       recordingPrompt = 1;
       recordPromptButton.setTitle("Stop", for: .normal)
       recordPromptButton.setTitleColor(UIColor.red, for: .normal)
     } else {
-      audioRecorder.stop()
+      recordingsManager.stopRecording()
       recordingPrompt = 2;
       recordPromptButton.setTitle("Record\n\"You're falling asleep...\nTell me what you're thinking\"", for: .normal)
-      recordPromptButton.setTitleColor(UIColor.green, for: .normal)
+      recordPromptButton.setTitleColor(UIColor.lightGray, for: .normal)
     }
     
   }
@@ -171,19 +179,22 @@ class ViewController: UIViewController,
       
       self.detectSleepTimer.invalidate()
       
-      self.timer = Timer.scheduledTimer(withTimeInterval: 10, repeats: false, block: {
+      SleepAPI.apiGet(endpoint: "init")
+      self.startButton.setTitle("CALIBRATING", for: .normal)
+      self.calibrateStart()
+      self.numOnsets = 0
+      
+      self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
-        self.apiGet(endpoint: "init")
-        self.startButton.setTitle("CALIBRATING", for: .normal)
+        self.recordingsManager.startPlaying(mode: 0)
         
-        self.startPlaying(mode: 0)
-        
-        self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeText.text!)!, repeats: false, block: {
+        self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeText.text!)! - 30, repeats: false, block: {
           t in
           self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
           self.currentStatus = "RUNNING"
+          self.calibrateEnd()
           
-          self.apiGet(endpoint: "train")
+          SleepAPI.apiGet(endpoint: "train")
           
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
@@ -195,6 +206,7 @@ class ViewController: UIViewController,
       startButton.setTitle("START", for: .normal)
       startButton.setTitleColor(UIColor.blue, for: .normal)
       currentStatus = "IDLE"
+      self.calibrateEnd()
       
       self.timer.invalidate()
       self.detectSleepTimer.invalidate()
@@ -204,75 +216,15 @@ class ViewController: UIViewController,
       }
     }
   }
-  func audioDirectoryURL(_ number: Int) -> NSURL? {
-    let id: String = String(number)
-    let fileManager = FileManager.default
-    let urls = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
-    let documentDirectory = urls[0] as NSURL
-    let soundURL = documentDirectory.appendingPathComponent("sound_\(id).m4a")
-    print(soundURL!)
-    return soundURL as NSURL?
-  }
   
-  func startRecording(mode: Int) {
-    let audioSession = AVAudioSession.sharedInstance()
-    do {
-      let url = self.audioDirectoryURL(mode)! as URL
-      audioRecorder = try AVAudioRecorder(url: url,
-                                          settings: audioRecorderSettings)
-      audioRecorder.delegate = self
-      audioRecorder.prepareToRecord()
-
-      audioURLs[mode] = url
-      print("url = \(url)")
-    } catch {
-      audioRecorder.stop()
-    }
-    do {
-      try audioSession.setActive(true)
-      audioRecorder.record()
-    } catch {
-    }
-  }
   
-  func startPlaying(mode: Int, onFinish: (() -> ())? = nil) {
-    self.audioPlayer = try! AVAudioPlayer(contentsOf: audioURLs[mode]!)
-    self.audioPlayer.prepareToPlay()
-    self.audioPlayer.delegate = self
-//    self.audioPlayer.currentTime = max(0 as TimeInterval, self.audioPlayer.duration - audioPlaybackOffset)
-    self.audioPlayer.play()
+  func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+    self.view.endEditing(true)
+    return false
   }
-
   
   override func viewDidLoad() {
     super.viewDidLoad()
-    manager = CBCentralManager(delegate: self, queue: nil)
-    
-    // Audio recording session
-    recordingSession = AVAudioSession.sharedInstance()
-    do {
-      try recordingSession.setCategory(AVAudioSessionCategoryPlayAndRecord, with:AVAudioSessionCategoryOptions.defaultToSpeaker)
-      try recordingSession.setActive(true)
-      recordingSession.requestRecordPermission() { [unowned self] allowed in
-        DispatchQueue.main.async {
-          if allowed {
-            print("Allow")
-          } else {
-            print("Dont Allow")
-          }
-        }
-      }
-    } catch {
-      print("failed to record!")
-    }
-    
-    // Audio Settings
-    audioRecorderSettings = [
-      AVFormatIDKey: Int(kAudioFormatMPEG4AAC),
-      AVSampleRateKey: 44100,
-      AVNumberOfChannelsKey: 1,
-      AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
-    ]
     
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
@@ -319,7 +271,8 @@ class ViewController: UIViewController,
     }
     self.sendData(flex: self.simulatedData[self.simulatedIndex][0], hr: self.simulatedData[self.simulatedIndex][1], eda: self.simulatedData[self.simulatedIndex][2])
     self.EDAValue.text = String(self.simulatedData[self.simulatedIndex][2])
-    self.HRValue.text = String(self.simulatedData[self.simulatedIndex][1])
+    hrQueue.put(hr: self.simulatedData[self.simulatedIndex][1])
+    self.HRValue.text = String(hrQueue.bpm())
     self.flexValue.text = String(self.simulatedData[self.simulatedIndex][0])
     self.simulatedIndex += 1
     if (self.simulatedIndex == 845) {
@@ -328,53 +281,77 @@ class ViewController: UIViewController,
   }
   
   @objc func detectSleep(sender: Timer) {
-    if (self.detectSleepTimerPause) {
-      return
-    }
-    if let flex = Double(self.featureImportanceFlexText.text!), let eda = Double(self.featureImportanceEDAText.text!), let ecg = Double(self.featureImportanceHRText.text!) {
-      if (flex + eda + ecg > 99.9) {
-        self.featureImportance["eda"] = eda / 100
-        self.featureImportance["ecg"] = ecg / 100
-        self.featureImportance["flex"] = flex / 100
-      }
-    }
-    let json : [String: Any] = ["feature_importance" : self.featureImportance]
-    self.apiPost(endpoint: "predict", json: json, onSuccess: { json in
-      let score = (json["mean_sleep"] as! NSNumber).floatValue
+    //let json : [String: Any] = ["feature_importance" : self.featureImportance]
+    SleepAPI.apiGet(endpoint: "predict", onSuccess: { json in
+      let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       DispatchQueue.main.async {
-        self.statusLabel.text = String(score)
+        self.HBOSSLabel.text = String(score)
         
-        if (score >= self.mahalanobisThreshold) {
-          print("Sleep!")
-          if (!self.playedAudio) {
-            self.playedAudio = true
-            self.startButton.setTitle("SLEEP!", for: .normal)
-            self.detectSleepTimerPause = true
-            // pause timer
-            self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.promptTimeText.text!)!, repeats: false, block: {
-              t in
-              self.startPlaying(mode: 1)
-              self.numOnsets += 1
-              self.doOnPlayingEnd = {
-                self.startRecording(mode: self.numOnsets+1)
-              }
-              if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
-                self.timer = Timer.scheduledTimer(withTimeInterval: 90, repeats: false, block: {
-                  t in
-                  self.audioRecorder.stop()
-                  self.startPlaying(mode: 0)
-                  self.playedAudio = false
-                  self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
-                  self.detectSleepTimerPause = false
-                })
-              }
-            })
-          }
+        if (!self.detectSleepTimerPause && self.numOnsets == 0 && score >= Int(self.deltaHBOSSText.text!)!) {
+          self.sleepDetected()
+          self.HBOSSLabel.textColor = UIColor.red
         }
       }
-      
-      
     })
+    
+    if (!detectSleepTimerPause) {
+      var detected = false
+      if (abs(lastHR - meanHR) >= Int(deltaHRText.text!)!) {
+        HRValue.textColor = UIColor.red
+        detected = true
+      }
+      if (abs(lastEDA - meanEDA) >= Int(deltaEDAText.text!)!) {
+        EDAValue.textColor = UIColor.red
+        detected = true
+      }
+      if (abs(lastFlex - meanFlex) >= Int(deltaFlexText.text!)!) {
+        flexValue.textColor = UIColor.red
+        detected = true
+      }
+      if (detected) {
+        DispatchQueue.main.async {
+          self.sleepDetected()
+        }
+      }
+    }
+  }
+  
+  func sleepDetected() {
+    self.timer.invalidate()
+    print("Sleep!")
+    if (!self.playedAudio) {
+      self.playedAudio = true
+      self.startButton.setTitle("SLEEP!", for: .normal)
+      self.detectSleepTimerPause = true
+      // pause timer
+      self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.promptTimeText.text!)!, repeats: false, block: {
+        t in
+        self.recordingsManager.startPlaying(mode: 1)
+        self.numOnsets += 1
+        self.recordingsManager.doOnPlayingEnd = {
+          self.startButton.setTitle("RECORDING", for: .normal)
+          self.recordingsManager.startRecording(mode: self.numOnsets+1)
+        }
+        self.calibrateStart()
+        if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
+          self.timer = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
+            t in
+            self.recordingsManager.stopRecording()
+            self.recordingsManager.startPlaying(mode: 0)
+            self.playedAudio = false
+            self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
+            self.detectSleepTimerPause = false
+            self.calibrateEnd()
+            
+            
+            self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
+              t in
+              self.sleepDetected()
+            })
+          })
+        }
+      })
+    }
   }
   
   override func didReceiveMemoryWarning() {
@@ -382,148 +359,6 @@ class ViewController: UIViewController,
     // Dispose of any resources that can be recreated.
   }
 
-  func centralManagerDidUpdateState(_ central: CBCentralManager) {
-    if central.state == CBManagerState.poweredOn {
-      print("Buscando a Marc")
-      central.scanForPeripherals(withServices: nil, options: nil)
-    }
-  }
-  
-  // Found a peripheral
-  func centralManager(_ central: CBCentralManager, didDiscover peripheral: CBPeripheral, advertisementData: [String : Any], rssi RSSI: NSNumber) {
-//    print("found a peripheral")
-    // Device
-    let device = (advertisementData as NSDictionary).object(forKey: CBAdvertisementDataLocalNameKey) as? NSString
-    // Check if this is the device we want
-    if device?.contains(NAME) == true {
-
-      // Stop looking for devices
-      // Track as connected peripheral
-      // Setup delegate for events
-      self.manager.stopScan()
-      self._peripheral = peripheral
-      self._peripheral.delegate = self
-      
-      // Connect to the perhipheral proper
-      manager.connect(peripheral, options: nil)
-      
-      // Debug
-      debugPrint("Found Bean.")
-    }
-  }
-  
-  // Connected to peripheral
-  func centralManager(_ central: CBCentralManager, didConnect peripheral: CBPeripheral) {
-    // Ask for services
-    peripheral.discoverServices(nil)
-    
-    // Debug
-    debugPrint("Getting services ...")
-  }
-  
-  // Discovered peripheral services
-  func peripheral(_ peripheral: CBPeripheral, didDiscoverServices error: Error?) {
-    // Look through the service list
-    for service in peripheral.services! {
-      let thisService = service as CBService
-      
-      // If this is the service we want
-      print(service.uuid)
-      if service.uuid == UUID_SERVICE {
-        // Ask for specific characteristics
-        peripheral.discoverCharacteristics(nil, for: thisService)
-        
-        // Debug
-        debugPrint("Using scratch.")
-      }
-      
-      // Debug
-      debugPrint("Service: ", service.uuid)
-    }
-  }
-  
-  // Discovered peripheral characteristics
-  func peripheral(_ peripheral: CBPeripheral, didDiscoverCharacteristicsFor service: CBService, error: Error?) {
-    debugPrint("Enabling ...")
-    
-    // Look at provided characteristics
-    for characteristic in service.characteristics! {
-      let thisCharacteristic = characteristic as CBCharacteristic
-      
-      // If this is the characteristic we want
-      print(thisCharacteristic.uuid)
-      if thisCharacteristic.uuid == UUID_READ {
-        // Start listening for updates
-        // Potentially show interface
-        self._peripheral.setNotifyValue(true, for: thisCharacteristic)
-        
-        // Debug
-        debugPrint("Set to notify: ", thisCharacteristic.uuid)
-      } else if thisCharacteristic.uuid == UUID_WRITE {
-        sendCharacteristic = thisCharacteristic
-        loadedService = true
-      }
-      
-      // Debug
-      debugPrint("Characteristic: ", thisCharacteristic.uuid)
-    }
-  }
-  
-  // Data arrived from peripheral
-  func peripheral(_ peripheral: CBPeripheral, didUpdateValueFor characteristic: CBCharacteristic, error: Error?) {
-//    print("Data")
-    // Make sure it is the peripheral we want
-//    print(characteristic.uuid)
-    if characteristic.uuid == UUID_READ {
-      // Get bytes into string
-      let dataReceived = characteristic.value! as NSData
-      var flex: UInt32 = 0
-      var EDA: UInt32 = 0
-      var HR: UInt32 = 0
-      dataReceived.getBytes(&flex, range: NSRange(location: 0, length: 4))
-      dataReceived.getBytes(&EDA, range: NSRange(location: 4, length: 4))
-      dataReceived.getBytes(&HR, range: NSRange(location: 8, length: 4))
-//      print(out1)
-//      print(out2)
-//      print(out3)
-      flexValue.text = String(flex);
-      EDAValue.text = String(EDA);
-      HRValue.text = String(HR);
-      
-      sendData(flex: flex, hr: HR, eda: EDA)
-      
-      
-//
-//      let firstChunk = characteristic.value![0...3]
-//      var values = [UInt32](repeating: 0, count:characteristic.value!.count)
-//      let myData = [UInt32](values)
-//      print(myData)
-////
-//      // Convert bytes to integer (we know this number)
-//      print(firstChunk)
-//      var firstBuffer: Int = 0
-//      let numberFromChunk = d.getBytes(&firstBuffer, length: 4)
-////      firstChunk.getBytes(&firstBuffer, length: 4)
-      
-//      print(numberFromChunk)
-      
-    }
-  }
-  
-  func peripheral(_ peripheral: CBPeripheral, didUpdateNotificationStateFor characteristic: CBCharacteristic, error: Error?) {
-    print("success")
-    print(characteristic.uuid)
-    print(error)
-  }
-  
-  // Peripheral disconnected
-  // Potentially hide relevant interface
-  func centralManager(_ central: CBCentralManager, didDisconnectPeripheral peripheral: CBPeripheral, error: Error?) {
-    debugPrint("Disconnected.")
-    
-    // Start scanning again
-    central.scanForPeripherals(withServices: nil, options: nil)
-  }
     
   func sendData(flex: UInt32, hr: UInt32, eda: UInt32) {
     flexBuffer.append(flex)
@@ -535,7 +370,11 @@ class ViewController: UIViewController,
       let json: [String : Any] = ["flex" : flexBuffer,
                                   "eda" : edaBuffer,
                                   "ecg" : hrBuffer]
-      self.apiPost(endpoint: "upload", json: json)
+      SleepAPI.apiPost(endpoint: "upload", json: json)
+      
+      lastEDA = Int(Float(edaBuffer.reduce(0, +)) / Float(edaBuffer.count))
+      lastFlex = Int(Float(flexBuffer.reduce(0, +)) / Float(flexBuffer.count))
+      lastHR = hrQueue.bpm()
       
       flexBuffer.removeAll()
       edaBuffer.removeAll()
@@ -543,83 +382,35 @@ class ViewController: UIViewController,
     }
   }
   
-  func apiGet(endpoint: String, onSuccess: (([String : Any]) -> ())? = nil) {
-    let url = URL(string: self.apiBaseURL + endpoint)
-    print("GET " + self.apiBaseURL + endpoint)
-    let task = URLSession.shared.dataTask(with: url!){ (data, response, error) in
-      guard error == nil else {
-        print(error!)
-        return
-      }
-      
-      guard let data = data else {
-        print("No data received")
-        return
-      }
-      
-      do {
-        if let json = try JSONSerialization.jsonObject(with: data, options: .mutableContainers) as? [String: Any] {
-          guard json["status"] as! Int == 0 else {
-            print("Error!")
-            print(json)
-            return
-          }
-          if let callableOnSuccess = onSuccess {
-            callableOnSuccess(json)
-          }
-        }
-      } catch let error {
-        print(error.localizedDescription)
-      }
-    }
-    task.resume()
+  func calibrateData(flex: UInt32, hr: Int, eda: UInt32) {
+    flexBufferCalibrate.append(Int(flex))
+    edaBufferCalibrate.append(Int(eda))
+    hrBufferCalibrate.append(Int(hr))
   }
   
-  func apiPost(endpoint: String, json: [String: Any], onSuccess: (([String : Any]) -> ())? = nil) {
-    let jsonData = try? JSONSerialization.data(withJSONObject: json)
-    let url = URL(string: self.apiBaseURL + endpoint)
-    print("POST " + self.apiBaseURL + endpoint)
-    var request = URLRequest(url: url!)
-    request.httpMethod = "POST"
-    request.setValue("application/json", forHTTPHeaderField: "Content-Type")
-    request.httpBody = jsonData
-    let task = URLSession.shared.dataTask(with: request){ (data, response, error) in
-      guard error == nil else {
-        print(error!)
-        return
-      }
+  func calibrateStart() {
+    flexBufferCalibrate.removeAll()
+    edaBufferCalibrate.removeAll()
+    hrBufferCalibrate.removeAll()
+    isCalibrating = true
+  }
+  
+  func calibrateEnd() {
+    if hrBufferCalibrate.count > 0 {
+      meanHR = Int(Float(hrBufferCalibrate.reduce(0, +)) / Float(hrBufferCalibrate.count))
+      meanEDA = Int(Float(edaBufferCalibrate.reduce(0, +)) / Float(edaBufferCalibrate.count))
+      meanFlex = Int(Float(flexBufferCalibrate.reduce(0, +)) / Float(flexBufferCalibrate.count))
+      isCalibrating = false
       
-      guard let data = data else {
-        print("No data received")
-        return
-      }
-      
-      do {
-        if let json = try JSONSerialization.jsonObject(with: data, options: .mutableContainers) as? [String: Any] {
-          guard json["status"] as! Int == 0 else {
-            print("Error!")
-            print(json)
-            return
-          }
-          if let callableOnSuccess = onSuccess {
-            callableOnSuccess(json)
-          }
-        }
-      } catch let error {
-        print(error.localizedDescription)
-      }
+      meanHRLabel.text = String(meanHR)
+      meanEDALabel.text = String(meanEDA)
+      meanFlexLabel.text = String(meanFlex)
     }
-    task.resume()
     
-  }
-  
-  func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
-    //You can stop the audio
-    player.stop()
-    if (self.doOnPlayingEnd != nil) {
-      self.doOnPlayingEnd()
-      self.doOnPlayingEnd = nil
-    }
+    self.HRValue.textColor = UIColor.black
+    self.flexValue.textColor = UIColor.black
+    self.EDAValue.textColor = UIColor.black
+    self.HBOSSLabel.textColor = UIColor.black
   }
 
 }
