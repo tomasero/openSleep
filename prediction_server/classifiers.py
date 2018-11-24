@@ -1,8 +1,6 @@
 import numpy as np
 from scipy.spatial.distance import mahalanobis
 
-THRESHOLD = 6
-
 class SimpleClassifier():
     def __init__(self, feature_importance):
         self.feature_importance = feature_importance
