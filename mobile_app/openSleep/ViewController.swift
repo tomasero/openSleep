@@ -44,7 +44,7 @@ class ViewController: UIViewController,
   @IBOutlet weak var meanFlexLabel: UILabel!
   @IBOutlet weak var meanHRLabel: UILabel!
   @IBOutlet weak var meanEDALabel: UILabel!
-  
+    
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
   var recordingPrompt: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -226,6 +226,16 @@ class ViewController: UIViewController,
   override func viewDidLoad() {
     super.viewDidLoad()
     
+    let defaults = UserDefaults.standard
+    calibrationTimeText?.text = String(defaults.object(forKey: "calibrationTime") as! Int)
+    promptTimeText?.text = String(defaults.object(forKey: "promptTime") as! Int)
+    numOnsetsText?.text = String(defaults.object(forKey: "numOnsets") as! Int)
+    waitForOnsetTimeText?.text = String(defaults.object(forKey: "waitForOnsetTime") as! Int)
+    deltaHBOSSText?.text = String(defaults.object(forKey: "deltaHBOSS") as! Int)
+    deltaEDAText?.text = String(defaults.object(forKey: "deltaEDA") as! Int)
+    deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
+    deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
+    
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
@@ -330,7 +340,7 @@ class ViewController: UIViewController,
         self.numOnsets += 1
         self.recordingsManager.doOnPlayingEnd = {
           self.startButton.setTitle("RECORDING", for: .normal)
-          self.recordingsManager.startRecording(mode: self.numOnsets+1)
+          self.recordingsManager.startRecordingDream(dreamTitle: "Experiment")
         }
         self.calibrateStart()
         if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
@@ -413,4 +423,28 @@ class ViewController: UIViewController,
     self.HBOSSLabel.textColor = UIColor.black
   }
 
+  @IBAction func waitForOnsetTimeChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(waitForOnsetTimeText.text!), forKey: "waitForOnsetTime")
+  }
+  @IBAction func maxOnsetsChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(numOnsetsText.text!), forKey: "numOnsets")
+  }
+  @IBAction func promptTimeChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(promptTimeText.text!), forKey: "promptTime")
+  }
+  @IBAction func calibrationTimeChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(calibrationTimeText.text!), forKey: "calibrationTime")
+  }
+  @IBAction func HBOSSChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(deltaHBOSSText.text!), forKey: "deltaHBOSS")
+  }
+  @IBAction func flexChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(deltaFlexText.text!), forKey: "deltaFlex")
+  }
+  @IBAction func HRChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(deltaHRText.text!), forKey: "deltaHR")
+  }
+  @IBAction func EDAChanged(_ sender: Any) {
+    UserDefaults.standard.set(Int(deltaEDAText.text!), forKey: "deltaEDA")
+  }
 }

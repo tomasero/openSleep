@@ -25,12 +25,26 @@
 		3922130421A8A6650002A9DC /* circled_play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130121A8A6650002A9DC /* circled_play@2x.png */; };
 		3922130521A8A6650002A9DC /* circled_play@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130221A8A6650002A9DC /* circled_play@3x.png */; };
 		3922130621A8A6650002A9DC /* circled_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130321A8A6650002A9DC /* circled_play.png */; };
-		3922130A21A8A6E00002A9DC /* microphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130721A8A6DF0002A9DC /* microphone@2x.png */; };
-		3922130B21A8A6E00002A9DC /* microphone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130821A8A6E00002A9DC /* microphone@3x.png */; };
-		3922130C21A8A6E00002A9DC /* microphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 3922130921A8A6E00002A9DC /* microphone.png */; };
 		3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922130D21A9B4B00002A9DC /* Dormio.swift */; };
 		3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922130F21A9C4E00002A9DC /* SleepAPI.swift */; };
+		3922131221AA64630002A9DC /* FlowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922131121AA64630002A9DC /* FlowViewController.swift */; };
 		3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3934E9C8219F5312007049D8 /* HeartQueue.swift */; };
+		3956DBE921AB27B40039E652 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3956DBE821AB27B40039E652 /* Flow.swift */; };
+		3956DBED21AB49410039E652 /* play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEA21AB49400039E652 /* play@2x.png */; };
+		3956DBEE21AB49410039E652 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEB21AB49410039E652 /* play.png */; };
+		3956DBEF21AB49410039E652 /* play@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEC21AB49410039E652 /* play@3x.png */; };
+		3956DBF121AB53840039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF021AB53070039E652 /* dormio.m4v */; };
+		3956DBF321AB5B0F0039E652 /* fluid.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF221AB5B0F0039E652 /* fluid.jpeg */; };
+		3956DBF821AB70C10039E652 /* skin.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF721AB70C10039E652 /* skin.png */; };
+		3956DBFD21AB71780039E652 /* dreamcatcher.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF921AB71770039E652 /* dreamcatcher.png */; };
+		3956DBFE21AB71780039E652 /* heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBFA21AB71770039E652 /* heart.png */; };
+		3956DBFF21AB71780039E652 /* microphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBFB21AB71780039E652 /* microphone.png */; };
+		3956DC0021AB71790039E652 /* fist.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBFC21AB71780039E652 /* fist.png */; };
+		3956DC0221AB727A0039E652 /* dreamcatcher2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0121AB72790039E652 /* dreamcatcher2.png */; };
+		3956DC0421AB72ED0039E652 /* dreamcatcher_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0321AB72ED0039E652 /* dreamcatcher_big.png */; };
+		3956DC0621AB80C80039E652 /* microphone_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0521AB80C70039E652 /* microphone_big.png */; };
+		3956DC0A21AC82690039E652 /* mind2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0921AC82680039E652 /* mind2.png */; };
+		3956DC0C21ACA48E0039E652 /* microphone_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0B21ACA48D0039E652 /* microphone_red.png */; };
 		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
 		FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C561FDA1BE60034F388 /* ViewController.swift */; };
@@ -58,12 +72,26 @@
 		3922130121A8A6650002A9DC /* circled_play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circled_play@2x.png"; sourceTree = "<group>"; };
 		3922130221A8A6650002A9DC /* circled_play@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circled_play@3x.png"; sourceTree = "<group>"; };
 		3922130321A8A6650002A9DC /* circled_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circled_play.png; sourceTree = "<group>"; };
-		3922130721A8A6DF0002A9DC /* microphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "microphone@2x.png"; sourceTree = "<group>"; };
-		3922130821A8A6E00002A9DC /* microphone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "microphone@3x.png"; sourceTree = "<group>"; };
-		3922130921A8A6E00002A9DC /* microphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone.png; sourceTree = "<group>"; };
 		3922130D21A9B4B00002A9DC /* Dormio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dormio.swift; sourceTree = "<group>"; };
 		3922130F21A9C4E00002A9DC /* SleepAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleepAPI.swift; sourceTree = "<group>"; };
+		3922131121AA64630002A9DC /* FlowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowViewController.swift; sourceTree = "<group>"; };
 		3934E9C8219F5312007049D8 /* HeartQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartQueue.swift; sourceTree = "<group>"; };
+		3956DBE821AB27B40039E652 /* Flow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flow.swift; sourceTree = "<group>"; };
+		3956DBEA21AB49400039E652 /* play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@2x.png"; sourceTree = "<group>"; };
+		3956DBEB21AB49410039E652 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		3956DBEC21AB49410039E652 /* play@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@3x.png"; sourceTree = "<group>"; };
+		3956DBF021AB53070039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
+		3956DBF221AB5B0F0039E652 /* fluid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fluid.jpeg; sourceTree = "<group>"; };
+		3956DBF721AB70C10039E652 /* skin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = skin.png; path = ../../../../../../Downloads/skin.png; sourceTree = "<group>"; };
+		3956DBF921AB71770039E652 /* dreamcatcher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dreamcatcher.png; sourceTree = "<group>"; };
+		3956DBFA21AB71770039E652 /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = heart.png; path = ../../../../../../Downloads/heart.png; sourceTree = "<group>"; };
+		3956DBFB21AB71780039E652 /* microphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone.png; sourceTree = "<group>"; };
+		3956DBFC21AB71780039E652 /* fist.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fist.png; path = ../../../../../../Downloads/fist.png; sourceTree = "<group>"; };
+		3956DC0121AB72790039E652 /* dreamcatcher2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dreamcatcher2.png; sourceTree = "<group>"; };
+		3956DC0321AB72ED0039E652 /* dreamcatcher_big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dreamcatcher_big.png; sourceTree = "<group>"; };
+		3956DC0521AB80C70039E652 /* microphone_big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_big.png; sourceTree = "<group>"; };
+		3956DC0921AC82680039E652 /* mind2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mind2.png; sourceTree = "<group>"; };
+		3956DC0B21ACA48D0039E652 /* microphone_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_red.png; sourceTree = "<group>"; };
 		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -88,9 +116,21 @@
 		392212E621A5D3E40002A9DC /* assets */ = {
 			isa = PBXGroup;
 			children = (
-				3922130921A8A6E00002A9DC /* microphone.png */,
-				3922130721A8A6DF0002A9DC /* microphone@2x.png */,
-				3922130821A8A6E00002A9DC /* microphone@3x.png */,
+				3956DBF921AB71770039E652 /* dreamcatcher.png */,
+				3956DC0521AB80C70039E652 /* microphone_big.png */,
+				3956DC0B21ACA48D0039E652 /* microphone_red.png */,
+				3956DC0321AB72ED0039E652 /* dreamcatcher_big.png */,
+				3956DBFC21AB71780039E652 /* fist.png */,
+				3956DC0921AC82680039E652 /* mind2.png */,
+				3956DBFA21AB71770039E652 /* heart.png */,
+				3956DBFB21AB71780039E652 /* microphone.png */,
+				3956DC0121AB72790039E652 /* dreamcatcher2.png */,
+				3956DBF721AB70C10039E652 /* skin.png */,
+				3956DBF221AB5B0F0039E652 /* fluid.jpeg */,
+				3956DBEB21AB49410039E652 /* play.png */,
+				3956DBEA21AB49400039E652 /* play@2x.png */,
+				3956DBF021AB53070039E652 /* dormio.m4v */,
+				3956DBEC21AB49410039E652 /* play@3x.png */,
 				3922130321A8A6650002A9DC /* circled_play.png */,
 				3922130121A8A6650002A9DC /* circled_play@2x.png */,
 				3922130221A8A6650002A9DC /* circled_play@3x.png */,
@@ -143,6 +183,8 @@
 				392212FF21A89D470002A9DC /* Alerts.swift */,
 				3922130D21A9B4B00002A9DC /* Dormio.swift */,
 				3922130F21A9C4E00002A9DC /* SleepAPI.swift */,
+				3922131121AA64630002A9DC /* FlowViewController.swift */,
+				3956DBE821AB27B40039E652 /* Flow.swift */,
 			);
 			path = openSleep;
 			sourceTree = "<group>";
@@ -206,27 +248,39 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3956DBF121AB53840039E652 /* dormio.m4v in Resources */,
+				3956DBFE21AB71780039E652 /* heart.png in Resources */,
 				392212EB21A5D4560002A9DC /* report_card.png in Resources */,
 				392212E321A5D3C40002A9DC /* ball_point_pen@2x.png in Resources */,
 				392212F221A5D4790002A9DC /* happy.png in Resources */,
+				3956DBF821AB70C10039E652 /* skin.png in Resources */,
+				3956DC0021AB71790039E652 /* fist.png in Resources */,
+				3956DC0C21ACA48E0039E652 /* microphone_red.png in Resources */,
 				392212FD21A5E5830002A9DC /* visible.png in Resources */,
 				392212E421A5D3C40002A9DC /* ball_point_pen@3x.png in Resources */,
-				3922130B21A8A6E00002A9DC /* microphone@3x.png in Resources */,
 				392212FC21A5E5830002A9DC /* visible@3x.png in Resources */,
+				3956DC0621AB80C80039E652 /* microphone_big.png in Resources */,
+				3956DBFF21AB71780039E652 /* microphone.png in Resources */,
 				3922130421A8A6650002A9DC /* circled_play@2x.png in Resources */,
 				392212EC21A5D4560002A9DC /* report_card@3x.png in Resources */,
+				3956DC0A21AC82690039E652 /* mind2.png in Resources */,
 				3922130521A8A6650002A9DC /* circled_play@3x.png in Resources */,
 				FF6F7C5F1FDA1BE60034F388 /* LaunchScreen.storyboard in Resources */,
 				9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */,
 				3922130621A8A6650002A9DC /* circled_play.png in Resources */,
-				3922130C21A8A6E00002A9DC /* microphone.png in Resources */,
+				3956DC0421AB72ED0039E652 /* dreamcatcher_big.png in Resources */,
+				3956DBEF21AB49410039E652 /* play@3x.png in Resources */,
 				392212FE21A5E5830002A9DC /* visible@2x.png in Resources */,
+				3956DC0221AB727A0039E652 /* dreamcatcher2.png in Resources */,
 				392212EA21A5D4560002A9DC /* report_card@2x.png in Resources */,
-				3922130A21A8A6E00002A9DC /* microphone@2x.png in Resources */,
+				3956DBEE21AB49410039E652 /* play.png in Resources */,
 				FF6F7C5C1FDA1BE60034F388 /* Assets.xcassets in Resources */,
 				392212F121A5D4790002A9DC /* happy@3x.png in Resources */,
 				FF6F7C5A1FDA1BE60034F388 /* Main.storyboard in Resources */,
 				392212E521A5D3C40002A9DC /* ball_point_pen.png in Resources */,
+				3956DBF321AB5B0F0039E652 /* fluid.jpeg in Resources */,
+				3956DBED21AB49410039E652 /* play@2x.png in Resources */,
+				3956DBFD21AB71780039E652 /* dreamcatcher.png in Resources */,
 				392212F021A5D4790002A9DC /* happy@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +293,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */,
+				3956DBE921AB27B40039E652 /* Flow.swift in Sources */,
 				392212F621A5D5AF0002A9DC /* RecordingsTableViewController.swift in Sources */,
 				3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */,
 				FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */,
@@ -246,6 +301,7 @@
 				3922130021A89D470002A9DC /* Alerts.swift in Sources */,
 				3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */,
 				392212F821A5D6770002A9DC /* Recordings.swift in Sources */,
+				3922131221AA64630002A9DC /* FlowViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

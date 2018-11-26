@@ -16,6 +16,31 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
     // Override point for customization after application launch.
+    let defaults = UserDefaults.standard
+    if defaults.object(forKey: "calibrationTime") == nil {
+      defaults.set(300, forKey: "calibrationTime")
+    }
+    if defaults.object(forKey: "promptTime") == nil {
+      defaults.set(15, forKey: "promptTime")
+    }
+    if defaults.object(forKey: "numOnsets") == nil {
+      defaults.set(3, forKey: "numOnsets")
+    }
+    if defaults.object(forKey: "waitForOnsetTime") == nil {
+      defaults.set(240, forKey: "waitForOnsetTime")
+    }
+    if defaults.object(forKey: "deltaHBOSS") == nil {
+      defaults.set(7, forKey: "deltaHBOSS")
+    }
+    if defaults.object(forKey: "deltaFlex") == nil {
+      defaults.set(50, forKey: "deltaFlex")
+    }
+    if defaults.object(forKey: "deltaHR") == nil {
+      defaults.set(15, forKey: "deltaHR")
+    }
+    if defaults.object(forKey: "deltaEDA") == nil {
+      defaults.set(10, forKey: "deltaEDA")
+    }
     return true
   }
 

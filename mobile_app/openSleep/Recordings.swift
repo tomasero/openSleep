@@ -18,6 +18,7 @@ struct Recording : Codable {
 class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelegate {
   static let shared = RecordingsManager()
   
+  
   var recordings = [String : [Recording]]()
   
   var recordingSession : AVAudioSession!
@@ -38,6 +39,29 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         recordings = loadedRecordings
       }
     }
+    
+    /*
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "dd/MM/yyyy HH:mm"
+    recordings = [
+      "Poetry" : [
+        Recording(path: "", time: dateFormatter.date(from: "03/11/2018 14:00")!, length: 30),
+        Recording(path: "", time: dateFormatter.date(from: "03/11/2018 14:12")!, length: 90)
+      ],
+      "Anomaly Detection" : [
+        Recording(path: "", time: dateFormatter.date(from: "23/11/2018 07:30")!, length: 80)
+      ],
+      "Ph.D. Application" : [
+        Recording(path: "", time: dateFormatter.date(from: "20/11/2018 07:10")!, length: 30),
+        Recording(path: "", time: dateFormatter.date(from: "21/11/2018 07:12")!, length: 40),
+        Recording(path: "", time: dateFormatter.date(from: "24/11/2018 07:45")!, length: 65),
+      ],
+      "Snowboard" : [
+        Recording(path: "", time: dateFormatter.date(from: "17/03/2018 07:55")!, length: 100),
+        Recording(path: "", time: dateFormatter.date(from: "19/03/2018 07:55")!, length: 105)
+      ]
+    ]
+ */
     
     // Audio recording session
     recordingSession = AVAudioSession.sharedInstance()
@@ -93,6 +117,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     return 0
   }
   
+  func getCategories() -> [String] {
+    return Array(recordings.keys)
+  }
+  
   func getRecording(category: Int, index: Int) -> Recording? {
     let key = Array(recordings.keys)[category]
     if let r = recordings[key] {
@@ -128,25 +156,40 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     return soundURL
   }
   
-  // mode - 0: think of, 1: what are you dreaming, 2+: dream reports
+  // mode - 0: think of, 1: what are you dreamin
   func startRecording(mode: Int) {
     let audioSession = AVAudioSession.sharedInstance()
     do {
-      var url : URL?
-      if (mode > 1) {
-        url = self.audioDirectoryURLwithTimestamp()
-        addRecording(categoryName: "Experiment", path: url!.absoluteString, length: 60)
-      } else {
-        url = self.audioDirectoryURL(mode)
+      if let url = self.audioDirectoryURL(mode) {
         //addRecording(categoryName: "Test", path: url!.absoluteString, length: 60)
-      }
-      if let url = url {
         audioRecorder = try AVAudioRecorder(url: url as URL,
                                             settings: audioRecorderSettings)
         audioRecorder.delegate = self
         audioRecorder.prepareToRecord()
         
         audioURLs[mode] = url
+        print("url = \(url)")
+      }
+    } catch {
+      audioRecorder.stop()
+    }
+    do {
+      try audioSession.setActive(true)
+      audioRecorder.record()
+    } catch {
+    }
+  }
+  
+  func startRecordingDream(dreamTitle: String) {
+    let audioSession = AVAudioSession.sharedInstance()
+    do {
+      if let url = self.audioDirectoryURLwithTimestamp() {
+        addRecording(categoryName: dreamTitle, path: url.absoluteString, length: 60)
+        audioRecorder = try AVAudioRecorder(url: url as URL,
+                                            settings: audioRecorderSettings)
+        audioRecorder.delegate = self
+        audioRecorder.prepareToRecord()
+        
         print("url = \(url)")
       }
     } catch {

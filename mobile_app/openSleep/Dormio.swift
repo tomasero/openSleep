@@ -10,7 +10,7 @@ import UIKit
 import Foundation
 import CoreBluetooth
 
-protocol DormioDelegate where Self:  UIViewController  {
+protocol DormioDelegate: class {
   func dormioData(hr: UInt32, eda: UInt32, flex: UInt32)
   func dormioConnected()
   func dormioDisconnected()
@@ -19,7 +19,7 @@ protocol DormioDelegate where Self:  UIViewController  {
 class DormioManager : NSObject, CBCentralManagerDelegate, CBPeripheralDelegate {
   static let shared = DormioManager()
   
-  public var delegate : DormioDelegate?
+  weak var delegate : DormioDelegate?
   
   var manager:CBCentralManager!
   var _peripheral:CBPeripheral!
