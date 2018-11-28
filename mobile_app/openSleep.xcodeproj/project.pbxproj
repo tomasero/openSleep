@@ -33,7 +33,6 @@
 		3956DBED21AB49410039E652 /* play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEA21AB49400039E652 /* play@2x.png */; };
 		3956DBEE21AB49410039E652 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEB21AB49410039E652 /* play.png */; };
 		3956DBEF21AB49410039E652 /* play@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEC21AB49410039E652 /* play@3x.png */; };
-		3956DBF121AB53840039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF021AB53070039E652 /* dormio.m4v */; };
 		3956DBF321AB5B0F0039E652 /* fluid.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF221AB5B0F0039E652 /* fluid.jpeg */; };
 		3956DBF821AB70C10039E652 /* skin.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF721AB70C10039E652 /* skin.png */; };
 		3956DBFD21AB71780039E652 /* dreamcatcher.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBF921AB71770039E652 /* dreamcatcher.png */; };
@@ -45,6 +44,7 @@
 		3956DC0621AB80C80039E652 /* microphone_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0521AB80C70039E652 /* microphone_big.png */; };
 		3956DC0A21AC82690039E652 /* mind2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0921AC82680039E652 /* mind2.png */; };
 		3956DC0C21ACA48E0039E652 /* microphone_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0B21ACA48D0039E652 /* microphone_red.png */; };
+		3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0D21ADC8DA0039E652 /* dormio.m4v */; };
 		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
 		FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C561FDA1BE60034F388 /* ViewController.swift */; };
@@ -80,7 +80,7 @@
 		3956DBEA21AB49400039E652 /* play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@2x.png"; sourceTree = "<group>"; };
 		3956DBEB21AB49410039E652 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
 		3956DBEC21AB49410039E652 /* play@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@3x.png"; sourceTree = "<group>"; };
-		3956DBF021AB53070039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
+		3956DBF021AB53070039E652 /* dormio2.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio2.m4v; sourceTree = "<group>"; };
 		3956DBF221AB5B0F0039E652 /* fluid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fluid.jpeg; sourceTree = "<group>"; };
 		3956DBF721AB70C10039E652 /* skin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = skin.png; path = ../../../../../../Downloads/skin.png; sourceTree = "<group>"; };
 		3956DBF921AB71770039E652 /* dreamcatcher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dreamcatcher.png; sourceTree = "<group>"; };
@@ -92,6 +92,7 @@
 		3956DC0521AB80C70039E652 /* microphone_big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_big.png; sourceTree = "<group>"; };
 		3956DC0921AC82680039E652 /* mind2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mind2.png; sourceTree = "<group>"; };
 		3956DC0B21ACA48D0039E652 /* microphone_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_red.png; sourceTree = "<group>"; };
+		3956DC0D21ADC8DA0039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
 		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -128,8 +129,9 @@
 				3956DBF721AB70C10039E652 /* skin.png */,
 				3956DBF221AB5B0F0039E652 /* fluid.jpeg */,
 				3956DBEB21AB49410039E652 /* play.png */,
+				3956DC0D21ADC8DA0039E652 /* dormio.m4v */,
 				3956DBEA21AB49400039E652 /* play@2x.png */,
-				3956DBF021AB53070039E652 /* dormio.m4v */,
+				3956DBF021AB53070039E652 /* dormio2.m4v */,
 				3956DBEC21AB49410039E652 /* play@3x.png */,
 				3922130321A8A6650002A9DC /* circled_play.png */,
 				3922130121A8A6650002A9DC /* circled_play@2x.png */,
@@ -248,7 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3956DBF121AB53840039E652 /* dormio.m4v in Resources */,
+				3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */,
 				3956DBFE21AB71780039E652 /* heart.png in Resources */,
 				392212EB21A5D4560002A9DC /* report_card.png in Resources */,
 				392212E321A5D3C40002A9DC /* ball_point_pen@2x.png in Resources */,
