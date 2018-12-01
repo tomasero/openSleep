@@ -85,6 +85,9 @@ class ViewController: UIViewController,
   
   var testRecording: Int = 0
   
+  var deviceUUID: String = ""
+  
+  
   func dormioConnected() {
     print("Connected")
     self.connectButton.setTitle("CONNECTED", for: .normal)
@@ -148,6 +151,7 @@ class ViewController: UIViewController,
   }
   
   @IBAction func recordPromptButtonPressed(sender: UIButton) {
+    
     if (recordingThinkOf == 1) {
       return
     }
@@ -235,7 +239,6 @@ class ViewController: UIViewController,
     deltaEDAText?.text = String(defaults.object(forKey: "deltaEDA") as! Int)
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
-    
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
@@ -375,11 +378,18 @@ class ViewController: UIViewController,
     edaBuffer.append(eda)
     hrBuffer.append(hr)
     
+    if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
+      UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
+    }
+    deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+    
     if (flexBuffer.count >= 30) {
       // send buffer to server
       let json: [String : Any] = ["flex" : flexBuffer,
                                   "eda" : edaBuffer,
-                                  "ecg" : hrBuffer]
+                                  "ecg" : hrBuffer,
+                                  "deviceUUID": deviceUUID]
+      print("JSON DATA IS", json)
       SleepAPI.apiPost(endpoint: "upload", json: json)
       
       lastEDA = Int(Float(edaBuffer.reduce(0, +)) / Float(edaBuffer.count))
