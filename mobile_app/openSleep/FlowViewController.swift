@@ -74,6 +74,8 @@ class FlowViewController:
   var isRecording = false
   var timer = Timer()
   
+  var uuids = ID()
+  
   override func viewDidLoad() {
       super.viewDidLoad()
     
@@ -216,6 +218,9 @@ class FlowViewController:
       dreamLabel.text = "Enjoy your dreams :)"
       currentStatus = "CALIBRATING"
       
+      uuids.newSessionId()
+      print("Device ID", uuids.deviceID, "session id", uuids.sessionID)
+      
       self.detectSleepTimer.invalidate()
       
       SleepAPI.apiGet(endpoint: "init")
@@ -356,7 +361,9 @@ class FlowViewController:
       // send buffer to server
       let json: [String : Any] = ["flex" : flexBuffer,
                                   "eda" : edaBuffer,
-                                  "ecg" : hrBuffer]
+                                  "ecg" : hrBuffer,
+                                  "deviceUUID": uuids.deviceID,
+                                  "sessionUUID": uuids.sessionID]
       SleepAPI.apiPost(endpoint: "upload", json: json)
       
       lastEDA = Int(Float(edaBuffer.reduce(0, +)) / Float(edaBuffer.count))

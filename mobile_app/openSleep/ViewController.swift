@@ -85,8 +85,7 @@ class ViewController: UIViewController,
   
   var testRecording: Int = 0
   
-  var deviceUUID: String = ""
-  
+  var uuids = ID()
   
   func dormioConnected() {
     print("Connected")
@@ -175,6 +174,9 @@ class ViewController: UIViewController,
       startButton.setTitle("WAITING", for: .normal)
       startButton.setTitleColor(UIColor.red, for: .normal)
       currentStatus = "CALIBRATING"
+      
+      //Create session uuid
+      uuids.newSessionId()
       
       if (simulationInput.isOn) {
         self.simulatedIndex = 0
@@ -378,17 +380,15 @@ class ViewController: UIViewController,
     edaBuffer.append(eda)
     hrBuffer.append(hr)
     
-    if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
-      UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
-    }
-    deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+
     
     if (flexBuffer.count >= 30) {
       // send buffer to server
       let json: [String : Any] = ["flex" : flexBuffer,
                                   "eda" : edaBuffer,
                                   "ecg" : hrBuffer,
-                                  "deviceUUID": deviceUUID]
+                                  "deviceUUID": uuids.deviceID,
+                                  "sessionUUID": uuids.sessionID]
       print("JSON DATA IS", json)
       SleepAPI.apiPost(endpoint: "upload", json: json)
       
