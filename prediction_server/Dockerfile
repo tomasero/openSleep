@@ -6,5 +6,6 @@ COPY . /app
 WORKDIR /app
 # Install the requirements
 RUN pip install -r requirements.txt
+
 # Start the application
 CMD ["python", "app.py"]
