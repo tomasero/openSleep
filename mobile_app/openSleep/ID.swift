@@ -11,16 +11,13 @@ import Foundation
 
 public struct ID {
   var deviceID: String?
-  var sessionID: String?
+  var sessionDateTime: String?
   
   init() {
-    if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
-      UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
-    }
-    self.deviceID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+
   }
   
   mutating func newSessionId(){
-    self.sessionID = UUID().uuidString;
+    self.sessionDateTime = UUID().uuidString;
   }
 }

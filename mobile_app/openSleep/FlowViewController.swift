@@ -76,6 +76,8 @@ class FlowViewController:
   
   var uuids = ID()
   
+  
+  
   override func viewDidLoad() {
       super.viewDidLoad()
     
@@ -223,7 +225,7 @@ class FlowViewController:
       
       self.detectSleepTimer.invalidate()
       
-      SleepAPI.apiGet(endpoint: "init")
+      SleepAPI.apiGet(endpoint: "init", params: ["deviceUUID": uuids.deviceID!, "sessionUUID": uuids.sessionID!])
       self.calibrateStart()
       self.numOnsets = 0
       
@@ -236,7 +238,7 @@ class FlowViewController:
           self.currentStatus = "RUNNING"
           self.calibrateEnd()
           
-          SleepAPI.apiGet(endpoint: "train")
+          SleepAPI.apiGet(endpoint: "train", params: ["deviceUUID": self.uuids.deviceID!, "sessionUUID": self.uuids.sessionID!])
           
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
@@ -257,7 +259,7 @@ class FlowViewController:
   }
   
   @objc func detectSleep(sender: Timer) {
-    SleepAPI.apiGet(endpoint: "predict", onSuccess: { json in
+    SleepAPI.apiGet(endpoint: "predict", params: ["deviceUUID": uuids.deviceID!, "sessionUUID": uuids.sessionID!], onSuccess: { json in
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       if (!self.detectSleepTimerPause && self.numOnsets == 0) {
         if (self.dreamDetectorControl.selectedSegmentIndex == 0 && score >= (UserDefaults.standard.object(forKey: "deltaHBOSS") as! Int)) {
