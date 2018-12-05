@@ -13,6 +13,15 @@ import MediaPlayer
 
 let storedItemsKey = "storedItems"
 
+//Declared outside the class to be avalible in the flow view controller as well
+enum WakeupReason {
+  case EDA
+  case HR
+  case FLEX
+  case HBOSS
+  case TIMER
+}
+
 class ViewController: UIViewController,
                       UITextFieldDelegate,
                       DormioDelegate {
@@ -310,13 +319,18 @@ class ViewController: UIViewController,
   
   @objc func detectSleep(sender: Timer) {
     //let json : [String: Any] = ["feature_importance" : self.featureImportance]
+    
+    var wakeTrigger: WakeupReason?
+    
     SleepAPI.apiGet(endpoint: "predict", params: self.getParams, onSuccess: { json in
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       DispatchQueue.main.async {
         self.HBOSSLabel.text = String(score)
         
         if (!self.detectSleepTimerPause && self.numOnsets == 0 && score >= Int(self.deltaHBOSSText.text!)!) {
-          self.sleepDetected()
+          
+          wakeTrigger = (wakeTrigger == nil) ? WakeupReason.HBOSS : wakeTrigger
+          self.sleepDetected(trigger: wakeTrigger!)
           self.HBOSSLabel.textColor = UIColor.red
         }
       }
@@ -327,26 +341,38 @@ class ViewController: UIViewController,
       if (abs(lastHR - meanHR) >= Int(deltaHRText.text!)!) {
         HRValue.textColor = UIColor.red
         detected = true
+        wakeTrigger = (wakeTrigger == nil) ? WakeupReason.HR : wakeTrigger
       }
       if (abs(lastEDA - meanEDA) >= Int(deltaEDAText.text!)!) {
         EDAValue.textColor = UIColor.red
         detected = true
+        wakeTrigger = (wakeTrigger == nil) ? WakeupReason.EDA : wakeTrigger
       }
       if (abs(lastFlex - meanFlex) >= Int(deltaFlexText.text!)!) {
         flexValue.textColor = UIColor.red
         detected = true
+        wakeTrigger = (wakeTrigger == nil) ? WakeupReason.FLEX : wakeTrigger
       }
       if (detected) {
         DispatchQueue.main.async {
-          self.sleepDetected()
+          self.sleepDetected(trigger: wakeTrigger!)
         }
       }
     }
   }
   
-  func sleepDetected() {
+  func sleepDetected(trigger: WakeupReason) {
     self.timer.invalidate()
     print("Sleep!")
+    print("TRIGGER WAS", String(describing: trigger))
+    
+    let json: [String : Any] = ["trigger" : String(describing: trigger),
+                                "currDateTime" : Date().timeIntervalSince1970,
+                                "legitimate" : true,
+                                "deviceUUID": deviceUUID,
+                                "datetime": sessionDateTime]
+    SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+
     if (!self.playedAudio) {
       self.playedAudio = true
       self.startButton.setTitle("SLEEP!", for: .normal)
@@ -374,10 +400,12 @@ class ViewController: UIViewController,
             
             self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
               t in
-              self.sleepDetected()
+              self.sleepDetected(trigger: WakeupReason.TIMER)
             })
           })
         }
+        
+        
       })
     }
   }

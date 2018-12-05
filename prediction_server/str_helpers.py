@@ -14,3 +14,6 @@ def get_model_filename(device_uuid, date_time):
 
 def get_baseline_filename(device_uuid, date_time):
 	return config.baseline_filepath + device_uuid + "/baseline_"+ date_time +".pkl"
+
+def get_report_trigger_filename(device_uuid, date_time):
+	return config.data_filepath + make_suffix(device_uuid, date_time)+"_triggers.csv"

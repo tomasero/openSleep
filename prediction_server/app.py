@@ -156,6 +156,19 @@ def predict():
         "time" : (time.time() - start_time)
     })
 
+@app.route('/reportTrigger', methods=['POST'])
+def report_trigger():
+    #open file/write if doesn't exist
+    #name is: device_uuid_datetime_triggers
+    #csv file format
+    # trigger reason, time, legitmate = True/False
+    json_ = request.json
+    triggers_filename = get_report_trigger_filename(json_['deviceUUID'], json_['datetime'])
+    with open(triggers_filename, 'a+') as f:
+        writer = csv.writer(f)
+        writer.writerow((json_["trigger"], json_["currDateTime"], "Legitimate: "+str(json_["legitimate"])))
+    return jsonify({"status" : 0})
+
 @app.route('/data', methods=['GET'])
 def data():
     device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
