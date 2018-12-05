@@ -98,6 +98,8 @@ class ViewController: UIViewController,
   var sessionDateTime: String = ""
   var getParams = ["String": "String"]
   
+  var alarmTimer = Timer()
+  
   func dormioConnected() {
     print("Connected")
     self.connectButton.setTitle("CONNECTED", for: .normal)
@@ -226,7 +228,6 @@ class ViewController: UIViewController,
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
         })
       })
-      
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
       startButton.setTitle("START", for: .normal)
@@ -365,6 +366,13 @@ class ViewController: UIViewController,
     self.timer.invalidate()
     print("Sleep!")
     print("TRIGGER WAS", String(describing: trigger))
+    
+    if(self.numOnsets >= Int(self.numOnsetsText.text!)!) {
+      alarmTimer = Timer.scheduledTimer(withTimeInterval: 300, repeats: false, block: { (Timer) in
+            // PLAY ALARM
+        
+      })
+    }
     
     let json: [String : Any] = ["trigger" : String(describing: trigger),
                                 "currDateTime" : Date().timeIntervalSince1970,

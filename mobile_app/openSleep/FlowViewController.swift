@@ -271,32 +271,45 @@ class FlowViewController:
   
   @objc func detectSleep(sender: Timer) {
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
+      var wakeTrigger: WakeupReason?
+      
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       if (!self.detectSleepTimerPause && self.numOnsets == 0) {
         if (self.dreamDetectorControl.selectedSegmentIndex == 0 && score >= (UserDefaults.standard.object(forKey: "deltaHBOSS") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected()
+            self.sleepDetected(trigger: WakeupReason.HBOSS)
           }
         } else if (self.dreamDetectorControl.selectedSegmentIndex == 1 && abs(self.lastHR - self.meanHR) >= (UserDefaults.standard.object(forKey: "deltaHR") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected()
+            self.sleepDetected(trigger: WakeupReason.HR)
           }
         } else if (self.dreamDetectorControl.selectedSegmentIndex == 2 && abs(self.lastEDA - self.meanEDA) >= (UserDefaults.standard.object(forKey: "deltaEDA") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected()
+            self.sleepDetected(trigger: WakeupReason.EDA)
           }
         } else if (self.dreamDetectorControl.selectedSegmentIndex == 3 && abs(self.lastFlex - self.meanFlex) >= (UserDefaults.standard.object(forKey: "deltaFlex") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected()
+            self.sleepDetected(trigger: WakeupReason.FLEX)
           }
         }
       }
     })
   }
   
-  func sleepDetected() {
+  func sleepDetected(trigger: WakeupReason) {
     self.timer.invalidate()
     print("Sleep!")
+
+    print("Sleep!")
+    print("TRIGGER WAS", String(describing: trigger))
+    
+    let json: [String : Any] = ["trigger" : String(describing: trigger),
+                                "currDateTime" : Date().timeIntervalSince1970,
+                                "legitimate" : true,
+                                "deviceUUID": deviceUUID,
+                                "datetime": sessionDateTime]
+    SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+    
     if (!self.playedAudio) {
       self.playedAudio = true
       self.detectSleepTimerPause = true
@@ -323,7 +336,7 @@ class FlowViewController:
             
             self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
               t in
-              self.sleepDetected()
+              self.sleepDetected(trigger: WakeupReason.TIMER)
             })
           })
         }
