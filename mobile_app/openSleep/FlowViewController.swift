@@ -74,9 +74,17 @@ class FlowViewController:
   var isRecording = false
   var timer = Timer()
   
-  var uuids = ID()
+  var deviceUUID: String = ""
+  var sessionDateTime: String = ""
+  var getParams = ["String": "String"]
   
-  
+  func getDeviceUUID() {
+    if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
+      UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
+    }
+    deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+    getParams["deviceUUID"] = deviceUUID
+  }
   
   override func viewDidLoad() {
       super.viewDidLoad()
@@ -117,6 +125,8 @@ class FlowViewController:
       EDALabel.text = ""
       flexLabel.text = ""
     }
+    
+    getDeviceUUID()
 
       // Do any additional setup after loading the view.
   }
@@ -218,14 +228,15 @@ class FlowViewController:
       dreamButton.setTitle("Cancel", for: .normal)
       dreamButton.setTitleColor(UIColor.red, for: .normal)
       dreamLabel.text = "Enjoy your dreams :)"
+
       currentStatus = "CALIBRATING"
-      
-      uuids.newSessionId()
-      print("Device ID", uuids.deviceID, "session id", uuids.sessionID)
       
       self.detectSleepTimer.invalidate()
       
-      SleepAPI.apiGet(endpoint: "init", params: ["deviceUUID": uuids.deviceID!, "sessionUUID": uuids.sessionID!])
+      SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+          self.sessionDateTime = json["datetime"] as! String
+          self.getParams["datetime"] = self.sessionDateTime
+        })
       self.calibrateStart()
       self.numOnsets = 0
       
@@ -238,7 +249,7 @@ class FlowViewController:
           self.currentStatus = "RUNNING"
           self.calibrateEnd()
           
-          SleepAPI.apiGet(endpoint: "train", params: ["deviceUUID": self.uuids.deviceID!, "sessionUUID": self.uuids.sessionID!])
+          SleepAPI.apiGet(endpoint: "train", params: self.getParams)
           
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
@@ -259,7 +270,7 @@ class FlowViewController:
   }
   
   @objc func detectSleep(sender: Timer) {
-    SleepAPI.apiGet(endpoint: "predict", params: ["deviceUUID": uuids.deviceID!, "sessionUUID": uuids.sessionID!], onSuccess: { json in
+    SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       if (!self.detectSleepTimerPause && self.numOnsets == 0) {
         if (self.dreamDetectorControl.selectedSegmentIndex == 0 && score >= (UserDefaults.standard.object(forKey: "deltaHBOSS") as! Int)) {
@@ -364,8 +375,9 @@ class FlowViewController:
       let json: [String : Any] = ["flex" : flexBuffer,
                                   "eda" : edaBuffer,
                                   "ecg" : hrBuffer,
-                                  "deviceUUID": uuids.deviceID,
-                                  "sessionUUID": uuids.sessionID]
+                                  "deviceUUID": getParams["deviceUUID"],
+                                  "datetime": getParams["datetime"]
+                                  ]
       SleepAPI.apiPost(endpoint: "upload", json: json)
       
       lastEDA = Int(Float(edaBuffer.reduce(0, +)) / Float(edaBuffer.count))

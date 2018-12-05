@@ -193,10 +193,8 @@ class ViewController: UIViewController,
       self.detectSleepTimer.invalidate()
       
       SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
-        
         self.sessionDateTime = json["datetime"] as! String
         self.getParams["datetime"] = self.sessionDateTime
-        print("Retrieved Date time is", self.sessionDateTime, "get params are now", self.getParams)
         
       })
       self.startButton.setTitle("CALIBRATING", for: .normal)
@@ -403,8 +401,7 @@ class ViewController: UIViewController,
                                   "eda" : edaBuffer,
                                   "ecg" : hrBuffer,
                                   "deviceUUID": deviceUUID,
-                                  "sessionUUID": sessionDateTime]
-      print("JSON DATA IS", json)
+                                  "datetime": sessionDateTime]
       SleepAPI.apiPost(endpoint: "upload", json: json)
       
       lastEDA = Int(Float(edaBuffer.reduce(0, +)) / Float(edaBuffer.count))
