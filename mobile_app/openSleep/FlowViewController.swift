@@ -271,32 +271,32 @@ class FlowViewController:
   
   @objc func detectSleep(sender: Timer) {
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
-      var wakeTrigger: WakeupReason?
+      var onsetTrigger: OnsetTrigger?
       
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       if (!self.detectSleepTimerPause && self.numOnsets == 0) {
         if (self.dreamDetectorControl.selectedSegmentIndex == 0 && score >= (UserDefaults.standard.object(forKey: "deltaHBOSS") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected(trigger: WakeupReason.HBOSS)
+            self.sleepDetected(trigger: OnsetTrigger.HBOSS)
           }
         } else if (self.dreamDetectorControl.selectedSegmentIndex == 1 && abs(self.lastHR - self.meanHR) >= (UserDefaults.standard.object(forKey: "deltaHR") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected(trigger: WakeupReason.HR)
+            self.sleepDetected(trigger: OnsetTrigger.HR)
           }
         } else if (self.dreamDetectorControl.selectedSegmentIndex == 2 && abs(self.lastEDA - self.meanEDA) >= (UserDefaults.standard.object(forKey: "deltaEDA") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected(trigger: WakeupReason.EDA)
+            self.sleepDetected(trigger: OnsetTrigger.EDA)
           }
         } else if (self.dreamDetectorControl.selectedSegmentIndex == 3 && abs(self.lastFlex - self.meanFlex) >= (UserDefaults.standard.object(forKey: "deltaFlex") as! Int)) {
           DispatchQueue.main.async {
-            self.sleepDetected(trigger: WakeupReason.FLEX)
+            self.sleepDetected(trigger: OnsetTrigger.FLEX)
           }
         }
       }
     })
   }
   
-  func sleepDetected(trigger: WakeupReason) {
+  func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
     print("Sleep!")
 
@@ -336,7 +336,7 @@ class FlowViewController:
             
             self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
               t in
-              self.sleepDetected(trigger: WakeupReason.TIMER)
+              self.sleepDetected(trigger: OnsetTrigger.TIMER)
             })
           })
         }

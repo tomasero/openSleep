@@ -14,7 +14,7 @@ import MediaPlayer
 let storedItemsKey = "storedItems"
 
 //Declared outside the class to be avalible in the flow view controller as well
-enum WakeupReason {
+enum OnsetTrigger {
   case EDA
   case HR
   case FLEX
@@ -321,7 +321,7 @@ class ViewController: UIViewController,
   @objc func detectSleep(sender: Timer) {
     //let json : [String: Any] = ["feature_importance" : self.featureImportance]
     
-    var wakeTrigger: WakeupReason?
+    var onsetTrigger: OnsetTrigger?
     
     SleepAPI.apiGet(endpoint: "predict", params: self.getParams, onSuccess: { json in
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
@@ -330,8 +330,8 @@ class ViewController: UIViewController,
         
         if (!self.detectSleepTimerPause && self.numOnsets == 0 && score >= Int(self.deltaHBOSSText.text!)!) {
           
-          wakeTrigger = (wakeTrigger == nil) ? WakeupReason.HBOSS : wakeTrigger
-          self.sleepDetected(trigger: wakeTrigger!)
+          onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.HBOSS : onsetTrigger
+          self.sleepDetected(trigger: onsetTrigger!)
           self.HBOSSLabel.textColor = UIColor.red
         }
       }
@@ -342,27 +342,27 @@ class ViewController: UIViewController,
       if (abs(lastHR - meanHR) >= Int(deltaHRText.text!)!) {
         HRValue.textColor = UIColor.red
         detected = true
-        wakeTrigger = (wakeTrigger == nil) ? WakeupReason.HR : wakeTrigger
+        onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.HR : onsetTrigger
       }
       if (abs(lastEDA - meanEDA) >= Int(deltaEDAText.text!)!) {
         EDAValue.textColor = UIColor.red
         detected = true
-        wakeTrigger = (wakeTrigger == nil) ? WakeupReason.EDA : wakeTrigger
+        onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.EDA : onsetTrigger
       }
       if (abs(lastFlex - meanFlex) >= Int(deltaFlexText.text!)!) {
         flexValue.textColor = UIColor.red
         detected = true
-        wakeTrigger = (wakeTrigger == nil) ? WakeupReason.FLEX : wakeTrigger
+        onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.FLEX : onsetTrigger
       }
       if (detected) {
         DispatchQueue.main.async {
-          self.sleepDetected(trigger: wakeTrigger!)
+          self.sleepDetected(trigger: onsetTrigger!)
         }
       }
     }
   }
   
-  func sleepDetected(trigger: WakeupReason) {
+  func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
     print("Sleep!")
     print("TRIGGER WAS", String(describing: trigger))
@@ -408,7 +408,7 @@ class ViewController: UIViewController,
             
             self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
               t in
-              self.sleepDetected(trigger: WakeupReason.TIMER)
+              self.sleepDetected(trigger: OnsetTrigger.TIMER)
             })
           })
         }
