@@ -238,7 +238,7 @@ class ViewController: UIViewController,
       self.startButton.setTitle("CALIBRATING", for: .normal)
       self.calibrateStart()
       self.numOnsets = 0
-      
+      recordingsManager.calibrateSilenceThreshold()
       self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
         self.recordingsManager.startPlaying(mode: 0)

@@ -28,12 +28,17 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   var audioURLs = [Int: URL]()
   
   let silencePollingTime = 0.1
-  let dbThreshold:Float = -35.0
+  var dbThreshold:Float = -35.0
   var silenceTime = 0.0
-  var silenceTimeThreshold = 6.0
+  let silenceTimeThreshold = 6.0
   var recordingTimeElapsed = 0.0
-  var maxRecordingTime = 240.0
+  let maxRecordingTime = 240.0
   
+  var calibrationSilenceThresh:Float = -35.0
+  var elapsedCalTime:Float = 0.0
+  let calibrationTime:Float = 10.0
+  let calibrationTimeStep:Float = 0.1
+
   var doOnPlayingEnd : (() -> ())? = nil
   
   private override init() {
@@ -208,6 +213,8 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       try audioSession.setActive(true)
       audioRecorder.record()
       
+      self.dbThreshold = (self.dbThreshold < self.calibrationSilenceThresh) ? self.dbThreshold : self.calibrationSilenceThresh
+      print("dbThreshold is:", self.dbThreshold)
       let silenceDetectionTimer = Timer.scheduledTimer(withTimeInterval: silencePollingTime, repeats: true, block: { (timer: Timer) in
         self.audioRecorder.updateMeters()
         let averagePower = self.audioRecorder.averagePower(forChannel:0)
@@ -231,6 +238,42 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   
   func stopRecording() {
     audioRecorder.stop()
+  }
+  
+  func calibrateSilenceThreshold() {
+    let fileManager = FileManager.default
+    let urls = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
+    let documentDirectory = urls[0] as NSURL
+    let url = documentDirectory.appendingPathComponent("calibrateSilentThreshold.m4a")!
+    
+    do {
+    audioRecorder = try AVAudioRecorder(url: url as URL,
+                                        settings: audioRecorderSettings)
+    audioRecorder.delegate = self
+    audioRecorder.isMeteringEnabled = true
+    audioRecorder.prepareToRecord()
+      
+    } catch {
+      audioRecorder.stop()
+    }
+    audioRecorder.record()
+    
+    var runningSum:Float = 0.0
+    
+    let calibrateTimer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeStep), repeats: true, block: { (timer: Timer) in
+      if(self.elapsedCalTime > self.calibrationTime) {
+        timer.invalidate()
+        self.audioRecorder.stop()
+        self.calibrationSilenceThresh = Float(runningSum / (self.calibrationTime / self.calibrationTimeStep))
+        print("CALIBRATION SILENCE THRESH IS", self.calibrationSilenceThresh)
+        self.elapsedCalTime = 0.0
+      } else {
+        self.elapsedCalTime += 0.1
+        self.audioRecorder.updateMeters()
+        runningSum += self.audioRecorder.averagePower(forChannel: 0)
+      }
+    })
+    
   }
   
   func startPlaying(mode: Int, onFinish: (() -> ())? = nil) {
