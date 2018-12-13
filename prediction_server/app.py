@@ -27,21 +27,23 @@ def init():
     """ Initialize predictor """
     # move old file
     device_uuid = request.args.get('deviceUUID')
+    if len(device_uuid) > 0:
+        date_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        data_filename = get_data_filename(device_uuid, date_time)
 
-    date_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    data_filename = get_data_filename(device_uuid, date_time)
+        new_data_file = open(data_filename, "w+")
+        new_data_file.close()
 
-    new_data_file = open(data_filename, "w+")
-    new_data_file.close()
+        device_model_folder = config.model_filepath + device_uuid
+        if(len(device_uuid) != 0 and os.path.exists(device_model_folder)):
+            for model_file in os.listdir(device_model_folder):
+                os.remove(device_model_folder+"/" + model_file)
+        else:
+            os.mkdir(device_model_folder)
 
-    device_model_folder = config.model_filepath + device_uuid
-    if(os.path.exists(device_model_folder)):
-        for model_file in os.listdir(device_model_folder):
-            os.remove(device_model_folder+"/" + model_file)
+        return jsonify({"status" : 0, "datetime": date_time})
     else:
-        os.mkdir(device_model_folder)
-
-    return jsonify({"status" : 0, "datetime": date_time})
+        return jsonify({"status" : 400, "errorMsg": "Invalid DeviceUUID"})
 
 @app.route('/upload', methods=['POST'])
 def upload():
@@ -56,7 +58,7 @@ def upload():
             writer.writerow(row)
             count += 1
 
-    app.logger.info('Written %d data points' % count)
+        app.logger.info('Written %d data points' % count)
     return jsonify({"status" : 0})
 
 @app.route('/train', methods=['GET'])
