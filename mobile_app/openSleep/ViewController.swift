@@ -427,8 +427,6 @@ class ViewController: UIViewController,
             
             if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
               print("SILENCE DETECTED!")
-              //self.porcupineManager?.stopListening()
-              print("False positive is", self.falsePositive)
               json["legitimate"] = !self.falsePositive;
               
               self.recordingsManager.stopRecording()

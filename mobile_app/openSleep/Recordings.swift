@@ -30,6 +30,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   let silencePollingTime = 0.1
   let dbThreshold:Float = -35.0
   var silenceTime = 0.0
+  var silenceTimeThreshold = 6.0
+  var recordingTimeElapsed = 0.0
+  var maxRecordingTime = 240.0
   
   var doOnPlayingEnd : (() -> ())? = nil
   
@@ -150,7 +153,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   
   func audioDirectoryURLwithTimestamp() -> URL? {
     let formatter = DateFormatter()
-    formatter.dateFormat = "yyyyMMdd_HHmm"
+    formatter.dateFormat = "yyyyMMdd_HHmm:ss"
     let now = formatter.string(from: Date())
     let fileManager = FileManager.default
     let urls = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
@@ -186,6 +189,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   
   func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
     let audioSession = AVAudioSession.sharedInstance()
+    print("CURRENT DATE IS", Date())
     do {
       if let url = self.audioDirectoryURLwithTimestamp() {
         addRecording(categoryName: dreamTitle, path: url.absoluteString, length: 60)
@@ -195,7 +199,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         audioRecorder.isMeteringEnabled = true
         audioRecorder.prepareToRecord()
         
-        print("url = \(url)")
+        print("URL IS = \(url)")
       }
     } catch {
       audioRecorder.stop()
@@ -205,16 +209,20 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       audioRecorder.record()
       
       let silenceDetectionTimer = Timer.scheduledTimer(withTimeInterval: silencePollingTime, repeats: true, block: { (timer: Timer) in
+        self.audioRecorder.updateMeters()
         let averagePower = self.audioRecorder.averagePower(forChannel:0)
+        print("avg power", averagePower)
+        self.recordingTimeElapsed += self.silencePollingTime
         if (averagePower < self.dbThreshold) {
           self.silenceTime += self.silencePollingTime
         }
-        if(self.silenceTime > 10.0) {
+        if(self.silenceTime > self.silenceTimeThreshold || self.recordingTimeElapsed > self.maxRecordingTime) {
           timer.invalidate()
           self.silenceTime = 0.0
+          self.recordingTimeElapsed = 0.0
           print("silent for too long, stopping recording")
-          silenceCallback()
-          return
+          let cb = silenceCallback
+          cb()
         }
       })
     } catch {
