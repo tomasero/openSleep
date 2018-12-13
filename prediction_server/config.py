@@ -5,13 +5,13 @@ prediction_data_size = 200
 
 # where to locally store the data
 # all backups will have the same path, with an added suffix
-data_filename = "data/data.csv"
+data_filepath = "data/"
 # where to locally store the trained model
-model_filename = "model.pkl"
+model_filepath = "models/"
 # where to locally store the awake features for the population
 awake_filename = "awake.pkl"
 # where to locally store the baseline features for the session
-baseline_filename = "baseline.pkl"
+baseline_filepath = "models/"
 
 # how many data points to use to extract one feature set
 sample_size = 150

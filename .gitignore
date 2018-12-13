@@ -2,3 +2,5 @@
 *.swp
 *.DS_Store
 */node_modules/*
+**/prediction_server/data
+**/prediction_server/models

@@ -18,44 +18,57 @@ import features
 from classifiers import SimpleClassifier
 from pyod.models.hbos import HBOS
 
+from str_helpers import *
+
 app = Flask(__name__)
 
 @app.route('/init', methods=['GET'])
 def init():
     """ Initialize predictor """
     # move old file
-    if os.path.isfile(config.data_filename) and os.stat(config.data_filename).st_size > 0:
-        filename = os.path.splitext(config.data_filename)[0]
-        filename += datetime.datetime.now().strftime("_%Y%m%d_%H%M%S")
-        filename += ".csv"
-        shutil.move(config.data_filename, filename)
+    device_uuid = request.args.get('deviceUUID')
+    if len(device_uuid) > 0:
+        date_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        data_filename = get_data_filename(device_uuid, date_time)
 
-    # delete model file
-    if os.path.isfile(config.model_filename):
-        os.remove(config.model_filename)
+        new_data_file = open(data_filename, "w+")
+        new_data_file.close()
 
-    return jsonify({"status" : 0})
+        device_model_folder = config.model_filepath + device_uuid
+        if(len(device_uuid) != 0 and os.path.exists(device_model_folder)):
+            for model_file in os.listdir(device_model_folder):
+                os.remove(device_model_folder+"/" + model_file)
+        else:
+            os.mkdir(device_model_folder)
+
+        return jsonify({"status" : 0, "datetime": date_time})
+    else:
+        return jsonify({"status" : 400, "errorMsg": "Invalid DeviceUUID"})
 
 @app.route('/upload', methods=['POST'])
 def upload():
     """ Add biosignals to data """
     json_ = request.json
     count = 0
-    with open(config.data_filename, 'a') as f:
+    data_filename = get_data_filename(json_['deviceUUID'], json_['datetime'])
+    with open(data_filename, 'a') as f:
         assert len(json_['flex']) == len(json_['ecg']) == len(json_['eda'])
         writer = csv.writer(f)
         for row in zip(json_['flex'], json_['ecg'], json_['eda']):
             writer.writerow(row)
             count += 1
 
-    app.logger.info('Written %d data points' % count)
+        app.logger.info('Written %d data points' % count)
     return jsonify({"status" : 0})
 
 @app.route('/train', methods=['GET'])
 def train():
     """ Train the predictor on the data collected """
     start_time = time.time()
-    with open(config.data_filename, 'r') as f:
+    device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
+    data_filename = get_data_filename(device_uuid, date_time)
+
+    with open(data_filename, 'r') as f:
         rows = f.readlines()
     with open(config.awake_filename, 'rb') as f:
         awake_features = pickle.load(f)
@@ -74,7 +87,9 @@ def train():
     app.logger.info('Training classifier using %d feature sets, each containing %d features' % (X.shape[0], X.shape[1]))
     clf = HBOS(contamination=0.05)
     clf.fit(X)
-    with open(config.model_filename, 'wb') as f:
+
+    model_filename = get_model_filename(device_uuid, date_time)
+    with open(model_filename, 'wb') as f:
         pickle.dump(clf, f)
 
     pred = clf.decision_function(X)
@@ -82,7 +97,9 @@ def train():
         'features' : baseline_features,
         'hboss_base' : np.min(pred)
     }
-    with open(config.baseline_filename, 'wb') as f:
+
+    baseline_filename = get_baseline_filename(device_uuid, date_time)
+    with open(baseline_filename, 'wb') as f:
         pickle.dump(baseline, f)
 
     return jsonify({"status" : 0, "time" : (time.time() - start_time)})
@@ -91,12 +108,18 @@ def train():
 def predict():
     """ Predict sleep vs. non-sleep """
     start_time = time.time()
-    with open(config.model_filename, 'rb') as f:
+
+    device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
+    model_filename = get_model_filename(device_uuid, date_time)
+    with open(model_filename, 'rb') as f:
         clf = pickle.load(f)
-    with open(config.baseline_filename, 'rb') as f:
+
+    baseline_filename = get_baseline_filename(device_uuid, date_time)
+    with open(baseline_filename, 'rb') as f:
         baseline = pickle.load(f)
 
-    with open(config.data_filename, 'r') as f:
+    data_filename = get_data_filename(device_uuid, date_time)
+    with open(data_filename, 'r') as f:
         rows = f.readlines()
     if len(rows) < config.prediction_data_size:
         return jsonify({"status" : 1,
@@ -135,12 +158,25 @@ def predict():
         "time" : (time.time() - start_time)
     })
 
+@app.route('/reportTrigger', methods=['POST'])
+def report_trigger():
+    #open file/write if doesn't exist
+    #name is: device_uuid_datetime_triggers
+    #csv file format
+    # trigger reason, time, legitmate = True/False
+    json_ = request.json
+    triggers_filename = get_report_trigger_filename(json_['deviceUUID'], json_['datetime'])
+    with open(triggers_filename, 'a+') as f:
+        writer = csv.writer(f)
+        writer.writerow((json_["trigger"], json_["currDateTime"], "Legitimate: "+str(json_["legitimate"])))
+    return jsonify({"status" : 0})
+
 @app.route('/data', methods=['GET'])
 def data():
-    filename = os.path.splitext(config.data_filename)[0]
-    filename += request.args.get('suffix', default='')
-    filename += ".csv"
-    with open(filename, 'r') as f:
+    device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
+    data_filename = get_data_filename(device_uuid, date_time)
+
+    with open(data_filename, 'r') as f:
         rows = f.read().splitlines()
     return "||||" + "|".join(rows)
 

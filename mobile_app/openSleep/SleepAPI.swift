@@ -10,11 +10,18 @@ import Foundation
 
 final class SleepAPI {
   static let apiBaseURL: String = "http://68.183.114.149:5000/"
-  
-  static func apiGet(endpoint: String, onSuccess: (([String : Any]) -> ())? = nil) {
-    let url = URL(string: self.apiBaseURL + endpoint)
+//  static let apiBaseURL: String = "http://0.0.0.0:5000/"
+
+  static func apiGet(endpoint: String, params: [String: String], onSuccess: (([String : Any]) -> ())? = nil) {
+    
+    var url_comps = URLComponents(string: self.apiBaseURL + endpoint)
+    url_comps!.queryItems = []
+    for (key, val) in params {
+      url_comps!.queryItems!.append(URLQueryItem(name: key, value: val))
+    }
+    
     print("GET " + self.apiBaseURL + endpoint)
-    let task = URLSession.shared.dataTask(with: url!){ (data, response, error) in
+    let task = URLSession.shared.dataTask(with: url_comps!.url!){ (data, response, error) in
       guard error == nil else {
         print(error!)
         return

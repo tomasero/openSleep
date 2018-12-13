@@ -13,6 +13,15 @@ import MediaPlayer
 
 let storedItemsKey = "storedItems"
 
+//Declared outside the class to be avalible in the flow view controller as well
+enum OnsetTrigger {
+  case EDA
+  case HR
+  case FLEX
+  case HBOSS
+  case TIMER
+}
+
 class ViewController: UIViewController,
                       UITextFieldDelegate,
                       DormioDelegate {
@@ -85,6 +94,12 @@ class ViewController: UIViewController,
   
   var testRecording: Int = 0
   
+  var deviceUUID: String = ""
+  var sessionDateTime: String = ""
+  var getParams = ["String": "String"]
+  
+  var alarmTimer = Timer()
+  
   func dormioConnected() {
     print("Connected")
     self.connectButton.setTitle("CONNECTED", for: .normal)
@@ -112,6 +127,14 @@ class ViewController: UIViewController,
     if (self.isCalibrating) {
       calibrateData(flex: flex, hr: hrQueue.bpm(), eda: eda)
     }
+  }
+  
+  func getDeviceUUID() {
+    if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
+      UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
+    }
+    deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+    getParams["deviceUUID"] = deviceUUID
   }
   
   @IBAction func connectButtonPressed(_ sender: UIButton) {
@@ -148,6 +171,7 @@ class ViewController: UIViewController,
   }
   
   @IBAction func recordPromptButtonPressed(sender: UIButton) {
+    
     if (recordingThinkOf == 1) {
       return
     }
@@ -179,7 +203,11 @@ class ViewController: UIViewController,
       
       self.detectSleepTimer.invalidate()
       
-      SleepAPI.apiGet(endpoint: "init")
+      SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+        self.sessionDateTime = json["datetime"] as! String
+        self.getParams["datetime"] = self.sessionDateTime
+        
+      })
       self.startButton.setTitle("CALIBRATING", for: .normal)
       self.calibrateStart()
       self.numOnsets = 0
@@ -194,13 +222,12 @@ class ViewController: UIViewController,
           self.currentStatus = "RUNNING"
           self.calibrateEnd()
           
-          SleepAPI.apiGet(endpoint: "train")
+          SleepAPI.apiGet(endpoint: "train", params: self.getParams)
           
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
         })
       })
-      
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
       startButton.setTitle("START", for: .normal)
@@ -235,10 +262,11 @@ class ViewController: UIViewController,
     deltaEDAText?.text = String(defaults.object(forKey: "deltaEDA") as! Int)
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
-    
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
+    
+    getDeviceUUID()
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -292,13 +320,18 @@ class ViewController: UIViewController,
   
   @objc func detectSleep(sender: Timer) {
     //let json : [String: Any] = ["feature_importance" : self.featureImportance]
-    SleepAPI.apiGet(endpoint: "predict", onSuccess: { json in
+    
+    var onsetTrigger: OnsetTrigger?
+    
+    SleepAPI.apiGet(endpoint: "predict", params: self.getParams, onSuccess: { json in
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       DispatchQueue.main.async {
         self.HBOSSLabel.text = String(score)
         
         if (!self.detectSleepTimerPause && self.numOnsets == 0 && score >= Int(self.deltaHBOSSText.text!)!) {
-          self.sleepDetected()
+          
+          onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.HBOSS : onsetTrigger
+          self.sleepDetected(trigger: onsetTrigger!)
           self.HBOSSLabel.textColor = UIColor.red
         }
       }
@@ -309,26 +342,45 @@ class ViewController: UIViewController,
       if (abs(lastHR - meanHR) >= Int(deltaHRText.text!)!) {
         HRValue.textColor = UIColor.red
         detected = true
+        onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.HR : onsetTrigger
       }
       if (abs(lastEDA - meanEDA) >= Int(deltaEDAText.text!)!) {
         EDAValue.textColor = UIColor.red
         detected = true
+        onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.EDA : onsetTrigger
       }
       if (abs(lastFlex - meanFlex) >= Int(deltaFlexText.text!)!) {
         flexValue.textColor = UIColor.red
         detected = true
+        onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.FLEX : onsetTrigger
       }
       if (detected) {
         DispatchQueue.main.async {
-          self.sleepDetected()
+          self.sleepDetected(trigger: onsetTrigger!)
         }
       }
     }
   }
   
-  func sleepDetected() {
+  func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
     print("Sleep!")
+    print("TRIGGER WAS", String(describing: trigger))
+    
+    if(self.numOnsets >= Int(self.numOnsetsText.text!)!) {
+      alarmTimer = Timer.scheduledTimer(withTimeInterval: 300, repeats: false, block: { (Timer) in
+            // PLAY ALARM
+        
+      })
+    }
+    
+    let json: [String : Any] = ["trigger" : String(describing: trigger),
+                                "currDateTime" : Date().timeIntervalSince1970,
+                                "legitimate" : true,
+                                "deviceUUID": deviceUUID,
+                                "datetime": sessionDateTime]
+    SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+
     if (!self.playedAudio) {
       self.playedAudio = true
       self.startButton.setTitle("SLEEP!", for: .normal)
@@ -356,10 +408,12 @@ class ViewController: UIViewController,
             
             self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
               t in
-              self.sleepDetected()
+              self.sleepDetected(trigger: OnsetTrigger.TIMER)
             })
           })
         }
+        
+        
       })
     }
   }
@@ -375,11 +429,15 @@ class ViewController: UIViewController,
     edaBuffer.append(eda)
     hrBuffer.append(hr)
     
+
+    
     if (flexBuffer.count >= 30) {
       // send buffer to server
       let json: [String : Any] = ["flex" : flexBuffer,
                                   "eda" : edaBuffer,
-                                  "ecg" : hrBuffer]
+                                  "ecg" : hrBuffer,
+                                  "deviceUUID": deviceUUID,
+                                  "datetime": sessionDateTime]
       SleepAPI.apiPost(endpoint: "upload", json: json)
       
       lastEDA = Int(Float(edaBuffer.reduce(0, +)) / Float(edaBuffer.count))
