@@ -430,19 +430,23 @@ class ViewController: UIViewController,
               json["legitimate"] = !self.falsePositive;
               
               self.recordingsManager.stopRecording()
-              self.recordingsManager.startPlaying(mode: 0)
-              self.playedAudio = false
               
-              SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-              
-              self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
-              self.detectSleepTimerPause = false
-              self.calibrateEnd()
-              
-              self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
-                t in
-                self.sleepDetected(trigger: OnsetTrigger.TIMER)
+              let sleepAgainTimer = Timer.scheduledTimer(withTimeInterval: 5.0, repeats: false, block: { (t) in
+                self.recordingsManager.startPlaying(mode: 0)
+                self.playedAudio = false
+                
+                SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+                
+                self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
+                self.detectSleepTimerPause = false
+                self.calibrateEnd()
+                
+                self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
+                  t in
+                  self.sleepDetected(trigger: OnsetTrigger.TIMER)
+                })
               })
+
             }
             
           })
