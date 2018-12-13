@@ -27,6 +27,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   var audioPlayer : AVAudioPlayer!
   var audioURLs = [Int: URL]()
   
+  let silencePollingTime = 0.1
+  let dbThreshold:Float = -35.0
+  var silenceTime = 0.0
+  
   var doOnPlayingEnd : (() -> ())? = nil
   
   private override init() {
@@ -180,7 +184,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
-  func startRecordingDream(dreamTitle: String) {
+  func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
     let audioSession = AVAudioSession.sharedInstance()
     do {
       if let url = self.audioDirectoryURLwithTimestamp() {
@@ -188,6 +192,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         audioRecorder = try AVAudioRecorder(url: url as URL,
                                             settings: audioRecorderSettings)
         audioRecorder.delegate = self
+        audioRecorder.isMeteringEnabled = true
         audioRecorder.prepareToRecord()
         
         print("url = \(url)")
@@ -198,6 +203,20 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     do {
       try audioSession.setActive(true)
       audioRecorder.record()
+      
+      let silenceDetectionTimer = Timer.scheduledTimer(withTimeInterval: silencePollingTime, repeats: true, block: { (timer: Timer) in
+        let averagePower = self.audioRecorder.averagePower(forChannel:0)
+        if (averagePower < self.dbThreshold) {
+          self.silenceTime += self.silencePollingTime
+        }
+        if(self.silenceTime > 10.0) {
+          timer.invalidate()
+          self.silenceTime = 0.0
+          print("silent for too long, stopping recording")
+          silenceCallback()
+          return
+        }
+      })
     } catch {
     }
   }

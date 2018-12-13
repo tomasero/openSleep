@@ -320,7 +320,7 @@ class FlowViewController:
         self.numOnsets += 1
         self.recordingsManager.doOnPlayingEnd = {
           self.microphoneImage.isHidden = false
-          self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!)
+          self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!, silenceCallback: {() in })
         }
         self.calibrateStart()
         if (self.numOnsets < self.flowManager.numOnsets) {

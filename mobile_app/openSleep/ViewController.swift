@@ -423,7 +423,31 @@ class ViewController: UIViewController,
 
         self.recordingsManager.doOnPlayingEnd = {
           self.startButton.setTitle("RECORDING", for: .normal)
-          self.recordingsManager.startRecordingDream(dreamTitle: "Experiment")
+          self.recordingsManager.startRecordingDream(dreamTitle: "Experiment", silenceCallback: { () in
+            
+            if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
+              print("SILENCE DETECTED!")
+              //self.porcupineManager?.stopListening()
+              print("False positive is", self.falsePositive)
+              json["legitimate"] = !self.falsePositive;
+              
+              self.recordingsManager.stopRecording()
+              self.recordingsManager.startPlaying(mode: 0)
+              self.playedAudio = false
+              
+              SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+              
+              self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
+              self.detectSleepTimerPause = false
+              self.calibrateEnd()
+              
+              self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
+                t in
+                self.sleepDetected(trigger: OnsetTrigger.TIMER)
+              })
+            }
+            
+          })
           
           
 //          do {
@@ -435,31 +459,6 @@ class ViewController: UIViewController,
           
         }
         self.calibrateStart()
-        if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
-          self.timer = Timer.scheduledTimer(withTimeInterval: 10, repeats: false, block: {
-            t in
-            
-            
-//            self.porcupineManager?.stopListening()
-            print("False positive is", self.falsePositive)
-            json["legitimate"] = !self.falsePositive;
-            
-            self.recordingsManager.stopRecording()
-            self.recordingsManager.startPlaying(mode: 0)
-            self.playedAudio = false
-
-            SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-            
-            self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
-            self.detectSleepTimerPause = false
-            self.calibrateEnd()
-            
-            self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
-              t in
-              self.sleepDetected(trigger: OnsetTrigger.TIMER)
-            })
-          })
-        }
         
         
       })
