@@ -100,6 +100,9 @@ class ViewController: UIViewController,
   
   var alarmTimer = Timer()
   
+  var porcupineManager: PorcupineManager? = nil
+  var falsePositive: Bool = false
+  
   func dormioConnected() {
     print("Connected")
     self.connectButton.setTitle("CONNECTED", for: .normal)
@@ -135,6 +138,30 @@ class ViewController: UIViewController,
     }
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
     getParams["deviceUUID"] = deviceUUID
+  }
+  
+  func initPorcupine(keyword:String) {
+    let modelFilePath = Bundle.main.path(forResource:"porcupine_params", ofType: "pv", inDirectory: "./porcupine/common")
+    let keywordCallback: ((WakeWordConfiguration) -> Void) = { _ in
+      self.falsePositive = true
+      self.view.backgroundColor = UIColor.orange
+      DispatchQueue.main.asyncAfter(deadline: .now() + 1.0){
+        self.view.backgroundColor = UIColor.white
+      }
+    }
+    
+    let keywordFilePath = Bundle.main.path(forResource: "porcupine_ios", ofType: "ppn", inDirectory: "./porcupine/resources/keyword_files")
+    
+    let wakeWordConfigurations: [WakeWordConfiguration] = [WakeWordConfiguration(name: keyword, filePath: keywordFilePath!, sensitivity: 0.5)]
+    
+    do {
+          porcupineManager = try PorcupineManager(modelFilePath: modelFilePath!, wakeKeywordConfigurations: wakeWordConfigurations, onDetection: keywordCallback)
+    }
+    catch {
+      
+    }
+    
+    
   }
   
   @IBAction func connectButtonPressed(_ sender: UIButton) {
@@ -267,6 +294,7 @@ class ViewController: UIViewController,
     self.simulatedData = csv(data: data!)
     
     getDeviceUUID()
+    initPorcupine(keyword: "porcupine")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -374,12 +402,10 @@ class ViewController: UIViewController,
       })
     }
     
-    let json: [String : Any] = ["trigger" : String(describing: trigger),
+    var json: [String : Any] = ["trigger" : String(describing: trigger),
                                 "currDateTime" : Date().timeIntervalSince1970,
-                                "legitimate" : true,
                                 "deviceUUID": deviceUUID,
                                 "datetime": sessionDateTime]
-    SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
 
     if (!self.playedAudio) {
       self.playedAudio = true
@@ -388,23 +414,45 @@ class ViewController: UIViewController,
       // pause timer
       self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.promptTimeText.text!)!, repeats: false, block: {
         t in
+        
+        self.falsePositive = false;
+
+        
         self.recordingsManager.startPlaying(mode: 1)
         self.numOnsets += 1
+
         self.recordingsManager.doOnPlayingEnd = {
           self.startButton.setTitle("RECORDING", for: .normal)
           self.recordingsManager.startRecordingDream(dreamTitle: "Experiment")
+          
+          
+//          do {
+//            try self.porcupineManager?.startListening()
+//
+//          } catch {
+//            print("porcupine manager startListening failed");
+//          }
+          
         }
         self.calibrateStart()
         if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
-          self.timer = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
+          self.timer = Timer.scheduledTimer(withTimeInterval: 10, repeats: false, block: {
             t in
+            
+            
+//            self.porcupineManager?.stopListening()
+            print("False positive is", self.falsePositive)
+            json["legitimate"] = !self.falsePositive;
+            
             self.recordingsManager.stopRecording()
             self.recordingsManager.startPlaying(mode: 0)
             self.playedAudio = false
+
+            SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+            
             self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
             self.detectSleepTimerPause = false
             self.calibrateEnd()
-            
             
             self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
               t in
