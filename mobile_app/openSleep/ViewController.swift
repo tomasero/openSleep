@@ -238,7 +238,9 @@ class ViewController: UIViewController,
       self.startButton.setTitle("CALIBRATING", for: .normal)
       self.calibrateStart()
       self.numOnsets = 0
+      
       recordingsManager.calibrateSilenceThreshold()
+      
       self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
         self.recordingsManager.startPlaying(mode: 0)
@@ -266,6 +268,7 @@ class ViewController: UIViewController,
     startButton.setTitleColor(UIColor.blue, for: .normal)
     currentStatus = "IDLE"
     playedAudio = false
+    falsePositive = false
     self.calibrateEnd()
     self.timer.invalidate()
     self.detectSleepTimer.invalidate()
@@ -414,7 +417,7 @@ class ViewController: UIViewController,
       self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.promptTimeText.text!)!, repeats: false, block: {
         t in
         
-        self.falsePositive = false;
+        self.falsePositive = false
 
         
         self.recordingsManager.startPlaying(mode: 1)
@@ -426,7 +429,7 @@ class ViewController: UIViewController,
             
             self.recordingsManager.stopRecording()
             
-            json["legitimate"] = !self.falsePositive;
+            json["legitimate"] = !self.falsePositive
             SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
             print("SILENCE DETECTED!")
             if (self.numOnsets < Int(self.numOnsetsText.text!)!) {

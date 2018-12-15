@@ -78,6 +78,9 @@ class FlowViewController:
   var sessionDateTime: String = ""
   var getParams = ["String": "String"]
   
+  var alarmTimer = Timer()
+  var falsePositive: Bool = false
+  
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -240,6 +243,8 @@ class FlowViewController:
       self.calibrateStart()
       self.numOnsets = 0
       
+      recordingsManager.calibrateSilenceThreshold()
+      
       self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
         self.recordingsManager.startPlaying(mode: 0)
@@ -258,20 +263,26 @@ class FlowViewController:
       
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
-      dreamButton.setTitle("Dream", for: .normal)
-      dreamButton.setTitleColor(UIColor.blue, for: .normal)
-      dreamLabel.text = "Relax for 30 seconds.\nWhen your bio-signals stabilize, press Dream"
-      currentStatus = "IDLE"
-      self.calibrateEnd()
-      
-      self.timer.invalidate()
-      self.detectSleepTimer.invalidate()
+      reset()
     }
+  }
+  
+  func reset() {
+    dreamButton.setTitle("Dream", for: .normal)
+    dreamButton.setTitleColor(UIColor.blue, for: .normal)
+    dreamLabel.text = "Relax for 30 seconds.\nWhen your bio-signals stabilize, press Dream"
+    currentStatus = "IDLE"
+    playedAudio = false
+    falsePositive = false
+    self.calibrateEnd()
+    
+    self.timer.invalidate()
+    self.detectSleepTimer.invalidate()
+    self.recordingsManager.reset()
   }
   
   @objc func detectSleep(sender: Timer) {
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
-      var onsetTrigger: OnsetTrigger?
       
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       if (!self.detectSleepTimerPause && self.numOnsets == 0) {
@@ -303,45 +314,63 @@ class FlowViewController:
     print("Sleep!")
     print("TRIGGER WAS", String(describing: trigger))
     
-    let json: [String : Any] = ["trigger" : String(describing: trigger),
+    var json: [String : Any] = ["trigger" : String(describing: trigger),
                                 "currDateTime" : Date().timeIntervalSince1970,
-                                "legitimate" : true,
                                 "deviceUUID": deviceUUID,
                                 "datetime": sessionDateTime]
-    SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-    
     if (!self.playedAudio) {
+      
       self.playedAudio = true
       self.detectSleepTimerPause = true
       // pause timer
+      
       self.timer = Timer.scheduledTimer(withTimeInterval: flowManager.promptTimeDelay(), repeats: false, block: {
         t in
+        
         self.recordingsManager.startPlaying(mode: 1)
         self.numOnsets += 1
+        self.falsePositive = false
+        
         self.recordingsManager.doOnPlayingEnd = {
           self.microphoneImage.isHidden = false
-          self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!, silenceCallback: {() in })
-        }
-        self.calibrateStart()
-        if (self.numOnsets < self.flowManager.numOnsets) {
-          self.timer = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
-            t in
+          
+          self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!, silenceCallback: {() in
             self.recordingsManager.stopRecording()
-            self.recordingsManager.startPlaying(mode: 0)
-            self.microphoneImage.isHidden = true
-            self.playedAudio = false
-            self.detectSleepTimerPause = false
-            self.calibrateEnd()
             
+            json["legitimate"] = !self.falsePositive
+            SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+            print("SILENCE DETECTED!")
+            if (self.numOnsets < self.flowManager.numOnsets) {
+              self.timer = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
+                t in
+                self.transitionOnsetSleep()
+
+              })
+            } else {
+              self.alarmTimer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: { (t) in
+                self.reset()
+              })
+              }
             
-            self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
-              t in
-              self.sleepDetected(trigger: OnsetTrigger.TIMER)
-            })
           })
         }
+        self.calibrateStart()
       })
     }
+  }
+  
+  func transitionOnsetSleep() {
+    self.recordingsManager.startPlaying(mode: 0)
+    self.microphoneImage.isHidden = true
+    self.playedAudio = false
+    self.detectSleepTimerPause = false
+    self.calibrateEnd()
+    
+    
+    self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
+      t in
+      self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
   }
   
   func dormioConnected() {
