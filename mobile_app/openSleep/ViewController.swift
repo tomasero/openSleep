@@ -53,6 +53,8 @@ class ViewController: UIViewController,
   @IBOutlet weak var meanFlexLabel: UILabel!
   @IBOutlet weak var meanHRLabel: UILabel!
   @IBOutlet weak var meanEDALabel: UILabel!
+  
+  @IBOutlet weak var uuidLabel: UILabel!
     
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -137,6 +139,9 @@ class ViewController: UIViewController,
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
     }
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+    uuidLabel.text = "UUID: "+deviceUUID
+    uuidLabel.sizeToFit()
+    uuidLabel.center.x = self.view.center.x
     getParams["deviceUUID"] = deviceUUID
   }
   

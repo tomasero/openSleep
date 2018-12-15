@@ -384,6 +384,13 @@
                                     <action selector="startButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5X0-VS-MfA"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="UUID:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5zT-Ea-v6Z">
+                                <rect key="frame" x="10" y="27" width="29" height="12"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -409,6 +416,7 @@
                         <outlet property="recordThinkOfButton" destination="p4S-8f-4YN" id="XDb-0U-Gh8"/>
                         <outlet property="simulationInput" destination="khM-ee-cl5" id="rJ8-R7-PJP"/>
                         <outlet property="startButton" destination="Lca-69-db1" id="u8R-FQ-PRP"/>
+                        <outlet property="uuidLabel" destination="5zT-Ea-v6Z" id="e5o-Uv-EXT"/>
                         <outlet property="waitForOnsetTimeText" destination="eZf-Wr-hzb" id="d1W-to-oSI"/>
                     </connections>
                 </viewController>

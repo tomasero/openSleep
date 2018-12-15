@@ -81,6 +81,8 @@ class FlowViewController:
   var alarmTimer = Timer()
   var falsePositive: Bool = false
   
+  var timerBased: Bool = false
+  
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -171,6 +173,7 @@ class FlowViewController:
     // TODO: set timer mode
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
+    prepareTimerViewController(vc:newViewController)
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -183,6 +186,7 @@ class FlowViewController:
       self.connectButton.setTitle("Scanning...", for: .normal)
       
     }
+    timerBased = false
   }
   
   @IBAction func recordWakupPressed(_ sender: UIButton) {
@@ -213,6 +217,9 @@ class FlowViewController:
     flowManager.dreamTitle = self.dreamText.text
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step3") as! FlowViewController
+    if(timerBased) {
+      prepareTimerViewController(vc: newViewController)
+    }
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -223,6 +230,9 @@ class FlowViewController:
     print("Moving to step " + String(activeView + 2))
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step" + String(activeView + 2)) as! FlowViewController
+    if(timerBased) {
+      prepareTimerViewController(vc: newViewController)
+    }
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -231,35 +241,52 @@ class FlowViewController:
       dreamButton.setTitle("Cancel", for: .normal)
       dreamButton.setTitleColor(UIColor.red, for: .normal)
       dreamLabel.text = "Enjoy your dreams :)"
-
       currentStatus = "CALIBRATING"
-      
-      self.detectSleepTimer.invalidate()
+      self.numOnsets = 0
+      recordingsManager.calibrateSilenceThreshold()
+      print("TIMER BASED?", timerBased)
       
       SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
-          self.sessionDateTime = json["datetime"] as! String
-          self.getParams["datetime"] = self.sessionDateTime
-        })
-      self.calibrateStart()
-      self.numOnsets = 0
-      
-      recordingsManager.calibrateSilenceThreshold()
-      
-      self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
-        t in
-        self.recordingsManager.startPlaying(mode: 0)
-        
-        self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "calibrationTime") as! Int) - 30, repeats: false, block: {
-          t in
-          self.currentStatus = "RUNNING"
-          self.calibrateEnd()
-          
-          SleepAPI.apiGet(endpoint: "train", params: self.getParams)
-          
-          self.detectSleepTimerPause = false
-          self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
-        })
+        self.sessionDateTime = json["datetime"] as! String
+        self.getParams["datetime"] = self.sessionDateTime
       })
+      
+      if(!timerBased) {
+        
+        self.detectSleepTimer.invalidate()
+        
+        self.calibrateStart()
+        
+        self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
+          t in
+          self.recordingsManager.startPlaying(mode: 0)
+          
+          self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "calibrationTime") as! Int) - 30, repeats: false, block: {
+            t in
+            self.currentStatus = "RUNNING"
+            self.calibrateEnd()
+            
+            SleepAPI.apiGet(endpoint: "train", params: self.getParams)
+            
+            self.detectSleepTimerPause = false
+            self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+          })
+        })
+      }
+      else {
+        // Start the timer
+        print("Timer interval", Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int))
+        self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
+          t in
+          self.recordingsManager.startPlaying(mode: 0)
+          
+          self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
+            t in
+              self.currentStatus = "RUNNING"
+              self.sleepDetected(trigger: OnsetTrigger.TIMER)
+            })
+          })
+      }
       
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
@@ -281,7 +308,13 @@ class FlowViewController:
     self.recordingsManager.reset()
   }
   
+  func prepareTimerViewController(vc:FlowViewController) {
+    vc.timerBased = true
+  }
+
+  
   @objc func detectSleep(sender: Timer) {
+    print("TIMERBASED?", timerBased)
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
       
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
@@ -311,7 +344,6 @@ class FlowViewController:
     self.timer.invalidate()
     print("Sleep!")
 
-    print("Sleep!")
     print("TRIGGER WAS", String(describing: trigger))
     
     var json: [String : Any] = ["trigger" : String(describing: trigger),
@@ -453,6 +485,7 @@ class FlowViewController:
       isCalibrating = false
     }
   }
+  
   
   
   // AUTOCOMPLETE
