@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		3908C8D421C1A5890016CEE0 /* porcupine in Resources */ = {isa = PBXBuildFile; fileRef = 3908C8D321C1A5890016CEE0 /* porcupine */; };
 		3908C8D821C1A6780016CEE0 /* libpv_porcupine.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3908C8D721C1A6780016CEE0 /* libpv_porcupine.a */; };
-		3908C8DA21C1A69F0016CEE0 /* PorcupineManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3908C8D921C1A69F0016CEE0 /* PorcupineManager.swift */; };
 		392212E321A5D3C40002A9DC /* ball_point_pen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */; };
 		392212E421A5D3C40002A9DC /* ball_point_pen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */; };
 		392212E521A5D3C40002A9DC /* ball_point_pen.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E221A5D3C40002A9DC /* ball_point_pen.png */; };
@@ -61,7 +60,6 @@
 		3908C8D321C1A5890016CEE0 /* porcupine */ = {isa = PBXFileReference; lastKnownFileType = folder; path = porcupine; sourceTree = "<group>"; };
 		3908C8D521C1A5B20016CEE0 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
 		3908C8D721C1A6780016CEE0 /* libpv_porcupine.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpv_porcupine.a; path = openSleep/porcupine/libpv_porcupine.a; sourceTree = "<group>"; };
-		3908C8D921C1A69F0016CEE0 /* PorcupineManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PorcupineManager.swift; sourceTree = "<group>"; };
 		392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball_point_pen@2x.png"; sourceTree = "<group>"; };
 		392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball_point_pen@3x.png"; sourceTree = "<group>"; };
 		392212E221A5D3C40002A9DC /* ball_point_pen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball_point_pen.png; sourceTree = "<group>"; };
@@ -201,7 +199,6 @@
 				FF6F7C601FDA1BE60034F388 /* Info.plist */,
 				3934E9C8219F5312007049D8 /* HeartQueue.swift */,
 				392212F521A5D5AF0002A9DC /* RecordingsTableViewController.swift */,
-				3908C8D921C1A69F0016CEE0 /* PorcupineManager.swift */,
 				392212F721A5D6770002A9DC /* Recordings.swift */,
 				392212FF21A89D470002A9DC /* Alerts.swift */,
 				3922130D21A9B4B00002A9DC /* Dormio.swift */,
@@ -327,7 +324,6 @@
 				3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */,
 				3922130021A89D470002A9DC /* Alerts.swift in Sources */,
 				3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */,
-				3908C8DA21C1A69F0016CEE0 /* PorcupineManager.swift in Sources */,
 				392212F821A5D6770002A9DC /* Recordings.swift in Sources */,
 				3922131221AA64630002A9DC /* FlowViewController.swift in Sources */,
 			);

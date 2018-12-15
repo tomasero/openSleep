@@ -41,6 +41,8 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
 
   var doOnPlayingEnd : (() -> ())? = nil
   
+  var silenceDetectionTimer = Timer()
+  var calibrateTimer = Timer()
   private override init() {
     super.init()
     
@@ -195,16 +197,16 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
     let audioSession = AVAudioSession.sharedInstance()
     print("CURRENT DATE IS", Date())
+    let url = self.audioDirectoryURLwithTimestamp()
     do {
-      if let url = self.audioDirectoryURLwithTimestamp() {
-        addRecording(categoryName: dreamTitle, path: url.absoluteString, length: 60)
-        audioRecorder = try AVAudioRecorder(url: url as URL,
+      if url != nil {
+        audioRecorder = try AVAudioRecorder(url: url! as URL,
                                             settings: audioRecorderSettings)
         audioRecorder.delegate = self
         audioRecorder.isMeteringEnabled = true
         audioRecorder.prepareToRecord()
         
-        print("URL IS = \(url)")
+        print("URL IS = \(url!)")
       }
     } catch {
       audioRecorder.stop()
@@ -215,10 +217,11 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       
       self.dbThreshold = (self.dbThreshold < self.calibrationSilenceThresh) ? self.dbThreshold : self.calibrationSilenceThresh
       print("dbThreshold is:", self.dbThreshold)
-      let silenceDetectionTimer = Timer.scheduledTimer(withTimeInterval: silencePollingTime, repeats: true, block: { (timer: Timer) in
+      
+      silenceDetectionTimer = Timer.scheduledTimer(withTimeInterval: silencePollingTime, repeats: true, block: { (timer: Timer) in
+        
         self.audioRecorder.updateMeters()
         let averagePower = self.audioRecorder.averagePower(forChannel:0)
-        print("avg power", averagePower)
         self.recordingTimeElapsed += self.silencePollingTime
         if (averagePower < self.dbThreshold) {
           self.silenceTime += self.silencePollingTime
@@ -226,8 +229,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         if(self.silenceTime > self.silenceTimeThreshold || self.recordingTimeElapsed > self.maxRecordingTime) {
           timer.invalidate()
           self.silenceTime = 0.0
+          self.addRecording(categoryName: dreamTitle, path: url!.absoluteString, length: Int(self.recordingTimeElapsed))
           self.recordingTimeElapsed = 0.0
-          print("silent for too long, stopping recording")
+          print("SILENT, ADDING RECORDING", url!.absoluteString)
           let cb = silenceCallback
           cb()
         }
@@ -260,7 +264,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     
     var runningSum:Float = 0.0
     
-    let calibrateTimer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeStep), repeats: true, block: { (timer: Timer) in
+    calibrateTimer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeStep), repeats: true, block: { (timer: Timer) in
       if(self.elapsedCalTime > self.calibrationTime) {
         timer.invalidate()
         self.audioRecorder.stop()
@@ -274,6 +278,15 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       }
     })
     
+  }
+  
+  func reset() {
+    silenceTime = 0.0
+    recordingTimeElapsed = 0.0
+    elapsedCalTime = 0.0
+    calibrateTimer.invalidate()
+    silenceDetectionTimer.invalidate()
+    audioRecorder.stop()
   }
   
   func startPlaying(mode: Int, onFinish: (() -> ())? = nil) {

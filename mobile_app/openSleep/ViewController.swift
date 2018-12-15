@@ -100,7 +100,7 @@ class ViewController: UIViewController,
   
   var alarmTimer = Timer()
   
-  var porcupineManager: PorcupineManager? = nil
+//  var porcupineManager: PorcupineManager? = nil
   var falsePositive: Bool = false
   
   func dormioConnected() {
@@ -140,29 +140,29 @@ class ViewController: UIViewController,
     getParams["deviceUUID"] = deviceUUID
   }
   
-  func initPorcupine(keyword:String) {
-    let modelFilePath = Bundle.main.path(forResource:"porcupine_params", ofType: "pv", inDirectory: "./porcupine/common")
-    let keywordCallback: ((WakeWordConfiguration) -> Void) = { _ in
-      self.falsePositive = true
-      self.view.backgroundColor = UIColor.orange
-      DispatchQueue.main.asyncAfter(deadline: .now() + 1.0){
-        self.view.backgroundColor = UIColor.white
-      }
-    }
-    
-    let keywordFilePath = Bundle.main.path(forResource: "porcupine_ios", ofType: "ppn", inDirectory: "./porcupine/resources/keyword_files")
-    
-    let wakeWordConfigurations: [WakeWordConfiguration] = [WakeWordConfiguration(name: keyword, filePath: keywordFilePath!, sensitivity: 0.5)]
-    
-    do {
-          porcupineManager = try PorcupineManager(modelFilePath: modelFilePath!, wakeKeywordConfigurations: wakeWordConfigurations, onDetection: keywordCallback)
-    }
-    catch {
-      
-    }
-    
-    
-  }
+//  func initPorcupine(keyword:String) {
+//    let modelFilePath = Bundle.main.path(forResource:"porcupine_params", ofType: "pv", inDirectory: "./porcupine/common")
+//    let keywordCallback: ((WakeWordConfiguration) -> Void) = { _ in
+//      self.falsePositive = true
+//      self.view.backgroundColor = UIColor.orange
+//      DispatchQueue.main.asyncAfter(deadline: .now() + 1.0){
+//        self.view.backgroundColor = UIColor.white
+//      }
+//    }
+//
+//    let keywordFilePath = Bundle.main.path(forResource: "porcupine_ios", ofType: "ppn", inDirectory: "./porcupine/resources/keyword_files")
+//
+//    let wakeWordConfigurations: [WakeWordConfiguration] = [WakeWordConfiguration(name: keyword, filePath: keywordFilePath!, sensitivity: 0.5)]
+//
+//    do {
+//          porcupineManager = try PorcupineManager(modelFilePath: modelFilePath!, wakeKeywordConfigurations: wakeWordConfigurations, onDetection: keywordCallback)
+//    }
+//    catch {
+//
+//    }
+//
+//
+//  }
   
   @IBAction func connectButtonPressed(_ sender: UIButton) {
     dormioManager.delegate = self
@@ -257,20 +257,26 @@ class ViewController: UIViewController,
       })
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
-      startButton.setTitle("START", for: .normal)
-      startButton.setTitleColor(UIColor.blue, for: .normal)
-      currentStatus = "IDLE"
-      self.calibrateEnd()
-      
-      self.timer.invalidate()
-      self.detectSleepTimer.invalidate()
-      
-      if (simulationInput.isOn) {
-        self.simulationTimer.invalidate()
-      }
+        reset()
     }
   }
   
+  func reset() {
+    startButton.setTitle("START", for: .normal)
+    startButton.setTitleColor(UIColor.blue, for: .normal)
+    currentStatus = "IDLE"
+    playedAudio = false
+    self.calibrateEnd()
+    self.timer.invalidate()
+    self.detectSleepTimer.invalidate()
+    self.alarmTimer.invalidate()
+    
+    self.recordingsManager.reset()
+    
+    if (simulationInput.isOn) {
+      self.simulationTimer.invalidate()
+    }
+  }
   
   func textFieldShouldReturn(_ textField: UITextField) -> Bool {
     self.view.endEditing(true)
@@ -294,7 +300,7 @@ class ViewController: UIViewController,
     self.simulatedData = csv(data: data!)
     
     getDeviceUUID()
-    initPorcupine(keyword: "porcupine")
+//    initPorcupine(keyword: "porcupine")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -394,14 +400,7 @@ class ViewController: UIViewController,
     self.timer.invalidate()
     print("Sleep!")
     print("TRIGGER WAS", String(describing: trigger))
-    
-    if(self.numOnsets >= Int(self.numOnsetsText.text!)!) {
-      alarmTimer = Timer.scheduledTimer(withTimeInterval: 300, repeats: false, block: { (Timer) in
-            // PLAY ALARM
-        
-      })
-    }
-    
+
     var json: [String : Any] = ["trigger" : String(describing: trigger),
                                 "currDateTime" : Date().timeIntervalSince1970,
                                 "deviceUUID": deviceUUID,
@@ -425,39 +424,27 @@ class ViewController: UIViewController,
           self.startButton.setTitle("RECORDING", for: .normal)
           self.recordingsManager.startRecordingDream(dreamTitle: "Experiment", silenceCallback: { () in
             
+            self.recordingsManager.stopRecording()
+            
+            json["legitimate"] = !self.falsePositive;
+            SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+            print("SILENCE DETECTED!")
             if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
-              print("SILENCE DETECTED!")
-              json["legitimate"] = !self.falsePositive;
-              
-              self.recordingsManager.stopRecording()
-              
-              let sleepAgainTimer = Timer.scheduledTimer(withTimeInterval: 5.0, repeats: false, block: { (t) in
-                self.recordingsManager.startPlaying(mode: 0)
-                self.playedAudio = false
-                
-                SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-                
-                self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
-                self.detectSleepTimerPause = false
-                self.calibrateEnd()
-                
-                self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
-                  t in
-                  self.sleepDetected(trigger: OnsetTrigger.TIMER)
+                self.transitionOnsetToSleep()
+            } else {
+                self.alarmTimer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: { (t) in
+                  self.reset()
+                  //also need to add here: an alarm/alert thing
+                  //Separate class file, with two functions
+                    //Sound
+                  //what should happen: alaert pops up, with the prompt WAKE UP!
+                  // You have one button- okay, just brings you back to the screen, rest of the app is unclicable and the alarm sounds until you press okay
+                  //Recordings manager can handle the looping of the sound
+                  
                 })
-              })
-
             }
             
           })
-          
-          
-//          do {
-//            try self.porcupineManager?.startListening()
-//
-//          } catch {
-//            print("porcupine manager startListening failed");
-//          }
           
         }
         self.calibrateStart()
@@ -465,6 +452,19 @@ class ViewController: UIViewController,
         
       })
     }
+  }
+  
+func transitionOnsetToSleep() {
+    recordingsManager.startPlaying(mode: 0)
+    playedAudio = false
+    startButton.setTitle("WAITING FOR SLEEP", for: .normal)
+    detectSleepTimerPause = false
+    calibrateEnd()
+    
+    self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
+      t in
+      self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
   }
   
   override func didReceiveMemoryWarning() {
