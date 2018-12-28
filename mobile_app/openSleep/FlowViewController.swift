@@ -103,6 +103,7 @@ class FlowViewController:
     if let cb = continue1Button {
       cb.isEnabled = false
       cb.setTitleColor(UIColor.lightGray, for: .disabled)
+      timeUntilSleep.addTarget(self, action: #selector(timeUntilSleepDidChange(_:)), for: .editingChanged)
       activeView = 1
     }
     if let cb = continue2Button {
@@ -311,7 +312,11 @@ class FlowViewController:
     vc.timerBased = true
   }
 
-  
+  @objc func timeUntilSleepDidChange(_ textfield:UITextField) {
+    if(timerBased) {
+      continue1Button.isEnabled = timeUntilSleep.text != "" && dreamText.text != ""
+    }
+  }
   @objc func detectSleep(sender: Timer) {
     print("TIMERBASED?", timerBased)
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
@@ -489,8 +494,11 @@ class FlowViewController:
   
   // AUTOCOMPLETE
   func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool { //1
-    continue1Button.isEnabled = true
-    
+    if(timerBased) {
+      continue1Button.isEnabled = (timeUntilSleep.text != "")
+    } else {
+      continue1Button.isEnabled = true
+    }
     var subString = (textField.text!.capitalized as NSString).replacingCharacters(in: range, with: string) // 2
     subString = formatSubstring(subString: subString)
     
