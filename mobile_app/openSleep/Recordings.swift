@@ -32,7 +32,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   var silenceTime = 0.0
   let silenceTimeThreshold = 6.0
   var recordingTimeElapsed = 0.0
-  let maxRecordingTime = 240.0
+  let maxRecordingTime = 120.0
   
   var calibrationSilenceThresh:Float = -35.0
   var elapsedCalTime:Float = 0.0
@@ -141,6 +141,27 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       return r[index]
     }
     return nil
+  }
+  
+  func deleteRecording(category: Int, index: Int) {
+    
+    let key = Array(recordings.keys)[category]
+    if let r = recordings[key] {
+      let rec = r[index]
+      print("Deleting recording" ,(URL(string: rec.path))!)
+      
+      recordings[key]?.remove(at: index)
+      
+      let fileManager = FileManager.default
+      
+      let fileToDelete = URL(string: rec.path)!
+      do {
+        try fileManager.removeItem(at: fileToDelete)
+      } catch {
+        print("Attempting to delete file that does not exist!", fileToDelete)
+      }
+    }
+    
   }
   
   func getCategoryTitle(category: Int) -> String? {

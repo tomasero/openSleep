@@ -41,6 +41,8 @@ class FlowViewController:
   @IBOutlet weak var microphoneImage: UIImageView!
   @IBOutlet weak var dreamDetectorControl: UISegmentedControl!
   
+  @IBOutlet weak var timeUntilSleep: UITextField!
+  
   var autoCompleteCharacterCount = 0
   var autoCompleteTimer = Timer()
   
@@ -215,6 +217,7 @@ class FlowViewController:
   }
   @IBAction func continue1Pressed(_ sender: Any) {
     flowManager.dreamTitle = self.dreamText.text
+    flowManager.timeUntilSleep = Int(self.timeUntilSleep.text!)!
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step3") as! FlowViewController
     if(timerBased) {
@@ -275,17 +278,13 @@ class FlowViewController:
       }
       else {
         // Start the timer
-        print("Timer interval", Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int))
-        self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
-          t in
           self.recordingsManager.startPlaying(mode: 0)
-          
-          self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
+          print("Waiting for timeUntilSleep", self.flowManager.timeUntilSleep)
+          self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.flowManager.timeUntilSleep), repeats: false, block: {
             t in
               self.currentStatus = "RUNNING"
               self.sleepDetected(trigger: OnsetTrigger.TIMER)
             })
-          })
       }
       
       
@@ -355,7 +354,7 @@ class FlowViewController:
       self.playedAudio = true
       self.detectSleepTimerPause = true
       // pause timer
-      
+      print("Prompt Time Delay!", flowManager.promptTimeDelay())
       self.timer = Timer.scheduledTimer(withTimeInterval: flowManager.promptTimeDelay(), repeats: false, block: {
         t in
         
