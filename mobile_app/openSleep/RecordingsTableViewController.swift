@@ -15,7 +15,8 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
   var audioPlayer : AVAudioPlayer!
   var isPlaying : IndexPath? = nil
   var recordingsManager = RecordingsManager.shared
-  
+  var documentInteractionController: UIDocumentInteractionController!
+
   override func viewDidLoad() {
       super.viewDidLoad()
 
@@ -24,6 +25,22 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
 
       // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
       // self.navigationItem.rightBarButtonItem = self.editButtonItem
+    setupLongPress()
+
+    
+  }
+  
+  func share(urlString:String, touchPoint: CGRect) {
+    let url = URL(string: urlString)!
+    documentInteractionController = UIDocumentInteractionController()
+    documentInteractionController.url = url
+    documentInteractionController.uti = url.uti
+    documentInteractionController.presentOptionsMenu(from: touchPoint, in: self.view, animated: true)
+  }
+  
+  func setupLongPress() {
+    let longPressRecognizer = UILongPressGestureRecognizer(target: self, action: #selector(longPressed(sender:)))
+    self.view.addGestureRecognizer(longPressRecognizer)
   }
   
   override func viewWillAppear(_ animated: Bool) {
@@ -95,6 +112,22 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
     }
   }
   
+  @objc func longPressed(sender: UILongPressGestureRecognizer) {
+    
+    if sender.state == UIGestureRecognizerState.began {
+      
+      let touchPoint = sender.location(in: self.view)
+      if let indexPath = tableView.indexPathForRow(at: touchPoint) {
+        if let recording = recordingsManager.getRecording(category: indexPath.section, index: indexPath.row) {
+          print("Long pressed row: \(recording.path)")
+          let recSize = CGSize(width: 10, height: 10)
+          let rec = CGRect(origin: touchPoint, size: recSize)
+          self.share(urlString: recording.path, touchPoint: rec)
+        }
+      }
+    }
+  }
+  
   func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
     //You can stop the audio
     player.stop()
@@ -119,6 +152,8 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
             tableView.deleteRows(at: [indexPath], with: .fade)
       }
   }
+  
+  
 
   /*
   // Override to support rearranging the table view.
@@ -145,4 +180,12 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
   }
   */
 
+}
+
+extension URL {
+  
+  var uti: String {
+    return (try? self.resourceValues(forKeys: [.typeIdentifierKey]))?.typeIdentifier ?? "public.data"
+  }
+  
 }
