@@ -25,6 +25,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   var audioRecorder    :AVAudioRecorder!
   var audioRecorderSettings = [String : Int]()
   var audioPlayer : AVAudioPlayer!
+  var alarmPlayer : AVAudioPlayer!
   var audioURLs = [Int: URL]()
   
   let silencePollingTime = 0.1
@@ -316,6 +317,18 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     self.audioPlayer.delegate = self
     //    self.audioPlayer.currentTime = max(0 as TimeInterval, self.audioPlayer.duration - audioPlaybackOffset)
     self.audioPlayer.play()
+  }
+  
+  func alarm() {
+    let alarmURL = URL(string: Bundle.main.path(forResource: "Alarm", ofType: "mp3")!)
+    self.alarmPlayer = try! AVAudioPlayer(contentsOf: alarmURL!)
+    self.alarmPlayer.prepareToPlay()
+    self.alarmPlayer.delegate = self
+    self.alarmPlayer.numberOfLoops = -1
+    self.alarmPlayer.play()
+  }
+  func stopAlarm() {
+    self.alarmPlayer.stop()
   }
   
   func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {

@@ -101,6 +101,7 @@ class ViewController: UIViewController,
   var getParams = ["String": "String"]
   
   var alarmTimer = Timer()
+  var waitTimeForAlarm: Double = 10
   
 //  var porcupineManager: PorcupineManager? = nil
   var falsePositive: Bool = false
@@ -440,15 +441,10 @@ class ViewController: UIViewController,
             if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
                 self.transitionOnsetToSleep()
             } else {
-                self.alarmTimer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: { (t) in
+                self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.waitTimeForAlarm, repeats: false, block: { (t) in
                   self.reset()
-                  //also need to add here: an alarm/alert thing
-                  //Separate class file, with two functions
-                    //Sound
-                  //what should happen: alaert pops up, with the prompt WAKE UP!
-                  // You have one button- okay, just brings you back to the screen, rest of the app is unclicable and the alarm sounds until you press okay
-                  //Recordings manager can handle the looping of the sound
-                  
+                  self.recordingsManager.alarm()
+                  self.wakeupAlarm()
                 })
             }
             
@@ -480,7 +476,18 @@ func transitionOnsetToSleep() {
     // Dispose of any resources that can be recreated.
   }
 
-    
+  func wakeupAlarm() {
+    print("NO MORE ONSETS TO DETECT")
+    let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
+    alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: {action in
+      if(action.style == .cancel) {
+        print("Alarm Alert Dismissed")
+        self.recordingsManager.stopAlarm()
+      }
+    }))
+    self.present(alert, animated: true, completion: nil)
+  }
+  
   func sendData(flex: UInt32, hr: UInt32, eda: UInt32) {
     flexBuffer.append(flex)
     edaBuffer.append(eda)

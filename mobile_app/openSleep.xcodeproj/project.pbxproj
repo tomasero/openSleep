@@ -47,6 +47,7 @@
 		3956DC0A21AC82690039E652 /* mind2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0921AC82680039E652 /* mind2.png */; };
 		3956DC0C21ACA48E0039E652 /* microphone_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0B21ACA48D0039E652 /* microphone_red.png */; };
 		3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0D21ADC8DA0039E652 /* dormio.m4v */; };
+		3997730E21E28F030098CB68 /* Alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3997730D21E28F030098CB68 /* Alarm.mp3 */; };
 		39F0C10621B23F3B001F985A /* ID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F0C10521B23F3B001F985A /* ID.swift */; };
 		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
@@ -99,6 +100,7 @@
 		3956DC0921AC82680039E652 /* mind2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mind2.png; sourceTree = "<group>"; };
 		3956DC0B21ACA48D0039E652 /* microphone_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_red.png; sourceTree = "<group>"; };
 		3956DC0D21ADC8DA0039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
+		3997730D21E28F030098CB68 /* Alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alarm.mp3; sourceTree = "<group>"; };
 		39F0C10521B23F3B001F985A /* ID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ID.swift; sourceTree = "<group>"; };
 		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -135,6 +137,7 @@
 			children = (
 				3956DBF921AB71770039E652 /* dreamcatcher.png */,
 				3956DC0521AB80C70039E652 /* microphone_big.png */,
+				3997730D21E28F030098CB68 /* Alarm.mp3 */,
 				3956DC0B21ACA48D0039E652 /* microphone_red.png */,
 				3956DC0321AB72ED0039E652 /* dreamcatcher_big.png */,
 				3956DBFC21AB71780039E652 /* fist.png */,
@@ -270,6 +273,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3997730E21E28F030098CB68 /* Alarm.mp3 in Resources */,
 				3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */,
 				3956DBFE21AB71780039E652 /* heart.png in Resources */,
 				392212EB21A5D4560002A9DC /* report_card.png in Resources */,

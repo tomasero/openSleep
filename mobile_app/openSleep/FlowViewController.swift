@@ -123,6 +123,7 @@ class FlowViewController:
     }
     if let noc = numOnsetsControl {
       flowManager.numOnsets = noc.selectedSegmentIndex + 1
+      print("number of onsets is \(flowManager.numOnsets)")
       activeView = 5
     }
     if dreamButton != nil {
@@ -383,8 +384,10 @@ class FlowViewController:
 
               })
             } else {
-              self.alarmTimer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: { (t) in
+              self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.flowManager.waitTimeForAlarm, repeats: false, block: { (t) in
                 self.reset()
+                self.recordingsManager.alarm()
+                self.wakeupAlarm()
               })
               }
             
@@ -407,6 +410,18 @@ class FlowViewController:
       t in
       self.sleepDetected(trigger: OnsetTrigger.TIMER)
     })
+  }
+
+  func wakeupAlarm() {
+    print("NO MORE ONSETS TO DETECT")
+    let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
+    alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: {action in
+      if(action.style == .cancel) {
+        print("Alarm Alert Dismissed")
+        self.recordingsManager.stopAlarm()
+      }
+    }))
+    self.present(alert, animated: true, completion: nil)
   }
   
   func dormioConnected() {
@@ -576,14 +591,12 @@ class FlowViewController:
   
     
 
-    /*
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
+//    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+//        // Get the new view controller using segue.destination.
+//        // Pass the selected object to the new view controller.
+//    }
 
 }
