@@ -19,6 +19,8 @@ class FlowViewController:
   var flowManager = FlowManager.shared
   var dormioManager = DormioManager.shared
   var recordingsManager = RecordingsManager.shared
+  var dropDetector = DropDetector.shared
+
   var activeView : Int = -1
   
   var player : AVPlayer?
@@ -29,6 +31,7 @@ class FlowViewController:
   @IBOutlet weak var continue1Button: UIButton!
   @IBOutlet weak var continue2Button: UIButton!
   @IBOutlet weak var continue3Button: UIButton!
+  @IBOutlet weak var continueTimerBasedButton: UIButton!
   @IBOutlet weak var dreamButton: UIButton!
   @IBOutlet weak var dreamStageControl: UISegmentedControl!
   @IBOutlet weak var dreamLabel: UILabel!
@@ -42,6 +45,8 @@ class FlowViewController:
   @IBOutlet weak var dreamDetectorControl: UISegmentedControl!
   
   @IBOutlet weak var timeUntilSleep: UITextField!
+  @IBOutlet weak var phoneDropCalibrationTime: UIButton!
+  @IBOutlet weak var phoneDropCalibrationStartStop: UIButton!
   
   var autoCompleteCharacterCount = 0
   var autoCompleteTimer = Timer()
@@ -84,6 +89,8 @@ class FlowViewController:
   var falsePositive: Bool = false
   
   var timerBased: Bool = false
+  var isPhoneDropCalibrating: Bool = false
+  var phoneDropCalibrationStartTime: Double = 0.0
   
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
@@ -103,7 +110,6 @@ class FlowViewController:
     if let cb = continue1Button {
       cb.isEnabled = false
       cb.setTitleColor(UIColor.lightGray, for: .disabled)
-      timeUntilSleep.addTarget(self, action: #selector(timeUntilSleepDidChange(_:)), for: .editingChanged)
       activeView = 1
     }
     if let cb = continue2Button {
@@ -115,6 +121,12 @@ class FlowViewController:
       cb.isEnabled = false
       cb.setTitleColor(UIColor.lightGray, for: .disabled)
       activeView = 3
+    }
+    if let cb = continueTimerBasedButton {
+      cb.isEnabled = false
+      cb.setTitleColor(UIColor.lightGray, for: .disabled)
+      timeUntilSleep.addTarget(self, action: #selector(timeUntilSleepDidChange(_:)), for: .editingChanged)
+      activeView = 7
     }
     if let dsc = dreamStageControl {
       print("AAA")
@@ -219,8 +231,21 @@ class FlowViewController:
   }
   @IBAction func continue1Pressed(_ sender: Any) {
     flowManager.dreamTitle = self.dreamText.text
-    flowManager.timeUntilSleep = Int(self.timeUntilSleep.text!)!
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    let nextViewControllerID = (timerBased) ? "timerStep" : "step3"
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: nextViewControllerID) as! FlowViewController
+    if(timerBased) {
+      prepareTimerViewController(vc: newViewController)
+    }
+    self.navigationController?.pushViewController(newViewController, animated: true)
+  }
+  
+  @IBAction func continueTimerBasedPressed(_ send: Any) {
+    let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    if let timeUntilSleepText = self.timeUntilSleep.text {
+      flowManager.timeUntilSleep = Int(timeUntilSleepText)!
+      print("FlowManager time until sleep = \(flowManager.timeUntilSleep)")
+    }
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step3") as! FlowViewController
     if(timerBased) {
       prepareTimerViewController(vc: newViewController)
@@ -239,6 +264,41 @@ class FlowViewController:
       prepareTimerViewController(vc: newViewController)
     }
     self.navigationController?.pushViewController(newViewController, animated: true)
+  }
+  
+  @IBAction func phoneDropCalibrationPressed(_ sender: UIButton) {
+    print("Starting phone Drop Calibration!")
+    if(!isPhoneDropCalibrating) {
+      sender.setTitle("Stop",for: .normal)
+      sender.setTitleColor(UIColor.red, for: .normal)
+      isPhoneDropCalibrating = true
+      phoneDropCalibrationStartTime = CFAbsoluteTimeGetCurrent()
+      dropDetector.startAccelerometers()
+      dropDetector.setCB(dropCB: dropCB)
+    } else {
+      sender.setTitle("Phone Drop Calibration Time:", for: .normal)
+      sender.setTitleColor(UIColor.white, for: .normal)
+      isPhoneDropCalibrating = false
+      
+      phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
+    }
+    
+  }
+  
+  func dropCB() {
+    phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
+    isPhoneDropCalibrating = false
+    phoneDropCalibrationStartStop.setTitle("Phone Drop Calibration Time:", for: .normal)
+    phoneDropCalibrationStartStop.setTitleColor(UIColor.white, for: .normal)
+    
+  }
+  
+  @IBAction func phoneDropCalibrationTimePressed(_ sender: UIButton) {
+    let t = phoneDropCalibrationTime.currentTitle!.components(separatedBy: " ")[0]
+    if t != "None" {
+      timeUntilSleep.text = t
+      continueTimerBasedButton.isEnabled = true
+    }
   }
   
   @IBAction func dreamPressed(_ sender: Any) {
@@ -312,10 +372,15 @@ class FlowViewController:
   func prepareTimerViewController(vc:FlowViewController) {
     vc.timerBased = true
   }
+  
+  override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+    self.view.endEditing(true)
+  }
 
   @objc func timeUntilSleepDidChange(_ textfield:UITextField) {
+    print("Time until sleep text is: ",timeUntilSleep.text)
     if(timerBased) {
-      continue1Button.isEnabled = timeUntilSleep.text != "" && dreamText.text != ""
+      continueTimerBasedButton.isEnabled = timeUntilSleep.text != ""
     }
   }
   @objc func detectSleep(sender: Timer) {
@@ -509,11 +574,9 @@ class FlowViewController:
   
   // AUTOCOMPLETE
   func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool { //1
-    if(timerBased) {
-      continue1Button.isEnabled = (timeUntilSleep.text != "")
-    } else {
-      continue1Button.isEnabled = true
-    }
+
+    continue1Button.isEnabled = true
+    
     var subString = (textField.text!.capitalized as NSString).replacingCharacters(in: range, with: string) // 2
     subString = formatSubstring(subString: subString)
     

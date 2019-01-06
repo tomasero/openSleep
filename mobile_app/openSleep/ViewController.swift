@@ -106,6 +106,7 @@ class ViewController: UIViewController,
 //  var porcupineManager: PorcupineManager? = nil
   var falsePositive: Bool = false
   
+  
   func dormioConnected() {
     print("Connected")
     self.connectButton.setTitle("CONNECTED", for: .normal)
@@ -307,7 +308,6 @@ class ViewController: UIViewController,
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
-    
     getDeviceUUID()
 //    initPorcupine(keyword: "porcupine")
   }
