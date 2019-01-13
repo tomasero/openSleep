@@ -48,6 +48,9 @@ class FlowViewController:
   @IBOutlet weak var phoneDropCalibrationTime: UIButton!
   @IBOutlet weak var phoneDropCalibrationStartStop: UIButton!
   
+  @IBOutlet weak var timerFalsePositiveButton: UIButton!
+  let timerFalsePositiveAdditionalTime = 60.0
+  
   var autoCompleteCharacterCount = 0
   var autoCompleteTimer = Timer()
   
@@ -148,10 +151,10 @@ class FlowViewController:
       HRLabel.text = ""
       EDALabel.text = ""
       flexLabel.text = ""
+      timerFalsePositiveButton.isHidden = true
     }
     
     getDeviceUUID()
-
       // Do any additional setup after loading the view.
   }
   
@@ -286,6 +289,23 @@ class FlowViewController:
       phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
       dropDetector.stopAccelerometers()
     }
+  }
+  
+  @IBAction func timerFalsePositiveButtonPressed(_ sender: UIButton) {
+    print("Adding \(timerFalsePositiveAdditionalTime)'s to the time delay")
+    
+    //this button shows up whenever sleep is detected in timer mode
+    // clicking it should stop any audio playing, any timers, and immediately then trigger the whole sequence again
+    
+    self.timer.invalidate()
+    self.maxWaitOnsetTimer.invalidate()
+    self.recordingsManager.reset()
+    self.playedAudio = false
+    self.timerFalsePositiveButton.isHidden = true
+    self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timerFalsePositiveAdditionalTime, repeats: false, block: {
+      t in
+      self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
     
   }
   
@@ -304,7 +324,7 @@ class FlowViewController:
       continueTimerBasedButton.isEnabled = true
     }
   }
-  
+
   @IBAction func dreamPressed(_ sender: Any) {
     if (currentStatus == "IDLE") {
       dreamButton.setTitle("Cancel", for: .normal)
@@ -315,13 +335,11 @@ class FlowViewController:
       recordingsManager.calibrateSilenceThreshold()
       print("TIMER BASED?", timerBased)
       
-      SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
-        self.sessionDateTime = json["datetime"] as! String
-        self.getParams["datetime"] = self.sessionDateTime
-      })
-      
       if(!timerBased) {
-        
+        SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+          self.sessionDateTime = json["datetime"] as! String
+          self.getParams["datetime"] = self.sessionDateTime
+        })
         self.detectSleepTimer.invalidate()
         
         self.calibrateStart()
@@ -372,6 +390,9 @@ class FlowViewController:
     self.detectSleepTimer.invalidate()
     self.recordingsManager.reset()
     self.maxWaitOnsetTimer.invalidate()
+    self.alarmTimer.invalidate()
+    
+    self.timerFalsePositiveButton.isHidden = true
   }
   
   func prepareTimerViewController(vc:FlowViewController) {
@@ -419,6 +440,10 @@ class FlowViewController:
     self.timer.invalidate()
     self.maxWaitOnsetTimer.invalidate()
     
+    if(self.timerBased) {
+      self.timerFalsePositiveButton.isHidden = false
+    }
+    
     print("Sleep!")
 
     print("TRIGGER WAS", String(describing: trigger))
@@ -432,26 +457,30 @@ class FlowViewController:
       self.playedAudio = true
       self.detectSleepTimerPause = true
       // pause timer
-      print("Prompt Time Delay!", flowManager.promptTimeDelay())
+      print("Waiting for Prompt time Delay:", flowManager.promptTimeDelay())
       self.timer = Timer.scheduledTimer(withTimeInterval: flowManager.promptTimeDelay(), repeats: false, block: {
         t in
         
         self.recordingsManager.startPlaying(mode: 1)
-        self.numOnsets += 1
         self.falsePositive = false
         
         self.recordingsManager.doOnPlayingEnd = {
           self.microphoneImage.isHidden = false
           
           self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!, silenceCallback: {() in
-            self.recordingsManager.stopRecording()
             
+            print("SILENCE DETECTED!")
+            self.recordingsManager.stopRecording()
+            if(self.timerBased) {
+              self.timerFalsePositiveButton.isHidden = true
+            }
+            self.numOnsets += 1
             json["legitimate"] = !self.falsePositive
             SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-            print("SILENCE DETECTED!")
+            
             if (self.numOnsets < self.flowManager.numOnsets) {
               let timeInterval = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 60.0)
-              self.timer = Timer.scheduledTimer(withTimeInterval: timeInterval, repeats: false, block: {
+              self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timeInterval, repeats: false, block: {
                 t in
                 self.sleepDetected(trigger: OnsetTrigger.TIMER)
               })

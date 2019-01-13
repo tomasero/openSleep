@@ -31,7 +31,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   let silencePollingTime = 0.1
   var dbThreshold:Float = -35.0
   var silenceTime = 0.0
-  let silenceTimeThreshold = 6.0
+  let silenceTimeThreshold = 8.0
   var recordingTimeElapsed = 0.0
   let maxRecordingTime = 120.0
   let minRecordingTime = 60.0
@@ -246,14 +246,15 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         self.audioRecorder.updateMeters()
         let averagePower = self.audioRecorder.averagePower(forChannel:0)
         self.recordingTimeElapsed += self.silencePollingTime
-        if (averagePower < self.dbThreshold) {
+        if ((averagePower < self.dbThreshold + 5) && self.recordingTimeElapsed > self.minRecordingTime) {
           self.silenceTime += self.silencePollingTime
-        }
-        if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {
-          timer.invalidate()
+        } else {
           self.silenceTime = 0.0
+        }
+//        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
+        if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {
           self.addRecording(categoryName: dreamTitle, path: url!.absoluteString, length: Int(self.recordingTimeElapsed))
-          self.recordingTimeElapsed = 0.0
+          self.resetSilenceDetection()
           print("SILENT, ADDING RECORDING", url!.absoluteString)
           let cb = silenceCallback
           cb()
@@ -264,7 +265,20 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   }
   
   func stopRecording() {
+    print("stopping recording")
     audioRecorder.stop()
+  }
+  
+  func resetSilenceDetection() {
+    print("resetting silence detection")
+    self.silenceTime = 0.0
+    self.recordingTimeElapsed = 0.0
+    self.silenceDetectionTimer.invalidate()
+  }
+  
+  func stopRecordingAndSilenceDetection() {
+    stopRecording()
+    self.resetSilenceDetection()
   }
   
   func calibrateSilenceThreshold() {

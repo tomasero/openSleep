@@ -858,7 +858,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="microphone_big.png" translatesAutoresizingMaskIntoConstraints="NO" id="dGF-T3-b2X">
-                                <rect key="frame" x="127" y="376" width="120" height="120"/>
+                                <rect key="frame" x="145" y="442" width="85" height="76"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="es5-Q5-dQP">
@@ -878,6 +878,15 @@
                                 <color key="textColor" cocoaTouchSystemColor="lightTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="5hY-nH-KX4" userLabel="connectButton">
+                                <rect key="frame" x="0.0" y="361" width="379" height="58"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="26"/>
+                                <state key="normal" title="Not asleep? Add 60 seconds"/>
+                                <connections>
+                                    <action selector="timerFalsePositiveButtonPressed:" destination="Bwh-gk-8DR" eventType="touchUpInside" id="XBO-zx-0dL"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="5kz-18-1Na"/>
@@ -890,11 +899,12 @@
                         <outlet property="dreamLabel" destination="T9E-xy-NKG" id="a3M-di-jXG"/>
                         <outlet property="flexLabel" destination="VXl-jG-Adb" id="fzb-kz-tUT"/>
                         <outlet property="microphoneImage" destination="dGF-T3-b2X" id="Ohc-w9-Tnb"/>
+                        <outlet property="timerFalsePositiveButton" destination="5hY-nH-KX4" id="PkJ-KZ-tRa"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="de9-Cw-bcf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6199" y="1278"/>
+            <point key="canvasLocation" x="6197.6000000000004" y="1277.8110944527737"/>
         </scene>
         <!--Main-->
         <scene sceneID="ijK-a7-hP4">
