@@ -284,6 +284,7 @@ class FlowViewController:
       isPhoneDropCalibrating = false
       
       phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
+      dropDetector.stopAccelerometers()
     }
     
   }
@@ -293,7 +294,7 @@ class FlowViewController:
     isPhoneDropCalibrating = false
     phoneDropCalibrationStartStop.setTitle("Phone Drop Calibration Time:", for: .normal)
     phoneDropCalibrationStartStop.setTitleColor(UIColor.white, for: .normal)
-    
+    dropDetector.stopAccelerometers()
   }
   
   @IBAction func phoneDropCalibrationTimePressed(_ sender: UIButton) {
