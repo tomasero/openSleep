@@ -165,6 +165,7 @@ def report_trigger():
     #csv file format
     # trigger reason, time, legitmate = True/False
     json_ = request.json
+    app.logger.info(json_["trigger"])
     triggers_filename = get_report_trigger_filename(json_['deviceUUID'], json_['datetime'])
     with open(triggers_filename, 'a+') as f:
         writer = csv.writer(f)
@@ -179,6 +180,29 @@ def data():
     with open(data_filename, 'r') as f:
         rows = f.read().splitlines()
     return "||||" + "|".join(rows)
+
+@app.route('/getTriggers', methods=['GET'])
+def getTriggers():
+    device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
+    triggers_filename = get_report_trigger_filename(device_uuid, date_time)
+
+    with open(triggers_filename, 'r') as f:
+        rows = f.read().splitlines()
+    return "||||" + "|".join(rows)
+
+@app.route('/getUsers', methods=['GET'])
+def getUsers():
+    user_dict = {}
+    for data_file in os.listdir(config.data_filepath):
+        data_file_split = data_file.split('_')
+        device_uuid = data_file_split[0]
+        date_time = data_file_split[1] + '_' + data_file_split[2].split('.csv')[0]
+        if device_uuid not in user_dict.keys():
+            user_dict[device_uuid] = []
+        user_dict[device_uuid].append(date_time)
+    print(user_dict)
+    return json.dumps(user_dict)
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
