@@ -34,6 +34,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   let silenceTimeThreshold = 6.0
   var recordingTimeElapsed = 0.0
   let maxRecordingTime = 120.0
+  let minRecordingTime = 60.0
   
   var calibrationSilenceThresh:Float = -35.0
   var elapsedCalTime:Float = 0.0
@@ -248,7 +249,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         if (averagePower < self.dbThreshold) {
           self.silenceTime += self.silencePollingTime
         }
-        if(self.silenceTime > self.silenceTimeThreshold || self.recordingTimeElapsed > self.maxRecordingTime) {
+        if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {
           timer.invalidate()
           self.silenceTime = 0.0
           self.addRecording(categoryName: dreamTitle, path: url!.absoluteString, length: Int(self.recordingTimeElapsed))

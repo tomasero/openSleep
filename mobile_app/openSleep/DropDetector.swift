@@ -83,7 +83,7 @@ class DropDetector : NSObject {
           lastNonZero = NSDate().timeIntervalSince1970
       }
     case dropState.DROPPING:
-      print("MAG IN DROPPING", mag)
+//      print("MAG IN DROPPING", mag)
       if(mag < 3) {
         state = dropState.STOPPED
       }

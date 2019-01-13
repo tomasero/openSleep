@@ -86,6 +86,9 @@ class FlowViewController:
   var getParams = ["String": "String"]
   
   var alarmTimer = Timer()
+  
+  var maxWaitOnsetTimer = Timer()
+  
   var falsePositive: Bool = false
   
   var timerBased: Bool = false
@@ -367,6 +370,7 @@ class FlowViewController:
     self.timer.invalidate()
     self.detectSleepTimer.invalidate()
     self.recordingsManager.reset()
+    self.maxWaitOnsetTimer.invalidate()
   }
   
   func prepareTimerViewController(vc:FlowViewController) {
@@ -412,6 +416,8 @@ class FlowViewController:
   
   func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
+    self.maxWaitOnsetTimer.invalidate()
+    
     print("Sleep!")
 
     print("TRIGGER WAS", String(describing: trigger))
@@ -443,10 +449,14 @@ class FlowViewController:
             SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
             print("SILENCE DETECTED!")
             if (self.numOnsets < self.flowManager.numOnsets) {
-              self.timer = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
+              let timeInterval = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 60.0)
+              self.timer = Timer.scheduledTimer(withTimeInterval: timeInterval, repeats: false, block: {
+                t in
+                self.sleepDetected(trigger: OnsetTrigger.TIMER)
+              })
+              self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
                 t in
                 self.transitionOnsetSleep()
-
               })
             } else {
               self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.flowManager.waitTimeForAlarm, repeats: false, block: { (t) in
@@ -471,10 +481,7 @@ class FlowViewController:
     self.calibrateEnd()
     
     
-    self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
-      t in
-      self.sleepDetected(trigger: OnsetTrigger.TIMER)
-    })
+
   }
 
   func wakeupAlarm() {
