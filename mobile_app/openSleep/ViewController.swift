@@ -55,6 +55,8 @@ class ViewController: UIViewController,
   @IBOutlet weak var meanEDALabel: UILabel!
   
   @IBOutlet weak var uuidLabel: UILabel!
+  
+  @IBOutlet weak var infoButton: UIButton!
     
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -557,6 +559,30 @@ func transitionOnsetToSleep() {
     self.flexValue.textColor = UIColor.black
     self.EDAValue.textColor = UIColor.black
     self.HBOSSLabel.textColor = UIColor.black
+  }
+  
+  @IBAction func infoButtonPressed(sender: UIButton) {
+    let infoString = """
+DreamCatcher, with data from your Dormio, will detect when you are about to fall asleep and will play audio to guide your dream.
+
+DreamCatcher will then prompt you to desribe your dream and will record your response.
+
+Record A Wakeup and Sleep Message Below.
+
+Calibration Time determines how long DreamCatcher will spend calibrating against the data from your Dormio.
+
+Prompt Latency determines how long DreamCatcher will wait to ask you about your dream.
+
+ Numer of Sleeps determines how many times DreamCatcher will prompt you for your dream.
+
+ Max Time Between Sleeps determines.
+"""
+    let alert = UIAlertController(title: "Welcome to DreamCatcher", message: infoString, preferredStyle: .alert)
+    alert.addAction(UIAlertAction(title: "OK", style: .default, handler: {action in
+      if(action.style == .default) {
+      }
+    }))
+    self.present(alert, animated: true, completion: nil)
   }
 
   @IBAction func waitForOnsetTimeChanged(_ sender: Any) {
