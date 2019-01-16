@@ -34,7 +34,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   let silenceTimeThreshold = 8.0
   var recordingTimeElapsed = 0.0
   let maxRecordingTime = 120.0
-  let minRecordingTime = 60.0
+  let minRecordingTime = 30.0
   
   var calibrationSilenceThresh:Float = -35.0
   var elapsedCalTime:Float = 0.0

@@ -476,22 +476,14 @@ class FlowViewController:
             }
             self.numOnsets += 1
             json["legitimate"] = !self.falsePositive
-            SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
             
+            if(!self.timerBased) {
+              SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+            }
             if (self.numOnsets < self.flowManager.numOnsets) {
-              let timeInterval = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 60.0)
-              self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timeInterval, repeats: false, block: {
-                t in
-                self.sleepDetected(trigger: OnsetTrigger.TIMER)
-              })
-              self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
-                t in
-                self.transitionOnsetSleep()
-              })
+              self.transitionOnsetToSleep()
             } else {
               self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.flowManager.waitTimeForAlarm, repeats: false, block: { (t) in
-                self.reset()
-                self.recordingsManager.alarm()
                 self.wakeupAlarm()
               })
               }
@@ -503,24 +495,42 @@ class FlowViewController:
     }
   }
   
-  func transitionOnsetSleep() {
-    self.recordingsManager.startPlaying(mode: 0)
-    self.microphoneImage.isHidden = true
-    self.playedAudio = false
-    self.detectSleepTimerPause = false
-    self.calibrateEnd()
+  func transitionOnsetToSleep() {
     
+    let timeToNextOnset = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 45.0)
+    self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timeToNextOnset, repeats: false, block: {
+      t in
+      self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
     
-
+    self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
+      t in
+      self.recordingsManager.startPlaying(mode: 0)
+      self.microphoneImage.isHidden = true
+      self.playedAudio = false
+      self.detectSleepTimerPause = false
+      self.calibrateEnd()
+      
+    })
   }
+  
 
   func wakeupAlarm() {
     print("NO MORE ONSETS TO DETECT")
+    self.recordingsManager.alarm()
     let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
+    alert.addAction(UIAlertAction(title: "Continue (+1 onset(s))", style: .default, handler: {action in
+      if(action.style == .default) {
+        self.flowManager.numOnsets = self.flowManager.numOnsets + 1
+        self.recordingsManager.stopAlarm()
+        self.transitionOnsetToSleep()
+      }
+    }))
     alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: {action in
       if(action.style == .cancel) {
         print("Alarm Alert Dismissed")
         self.recordingsManager.stopAlarm()
+        self.reset()
       }
     }))
     self.present(alert, animated: true, completion: nil)

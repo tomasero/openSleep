@@ -442,7 +442,6 @@ class ViewController: UIViewController,
                 self.transitionOnsetToSleep()
             } else {
                 self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.waitTimeForAlarm, repeats: false, block: { (t) in
-                  self.reset()
                   self.recordingsManager.alarm()
                   self.wakeupAlarm()
                 })
@@ -479,10 +478,18 @@ func transitionOnsetToSleep() {
   func wakeupAlarm() {
     print("NO MORE ONSETS TO DETECT")
     let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
+    alert.addAction(UIAlertAction(title: "Continue (+3 onset(s))", style: .default, handler: {action in
+      if(action.style == .default) {
+        self.numOnsetsText.text = String(Int(self.numOnsetsText.text!)! + 3)
+        self.recordingsManager.stopAlarm()
+        self.transitionOnsetToSleep()
+      }
+    }))
     alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: {action in
       if(action.style == .cancel) {
         print("Alarm Alert Dismissed")
         self.recordingsManager.stopAlarm()
+        self.reset()
       }
     }))
     self.present(alert, animated: true, completion: nil)
