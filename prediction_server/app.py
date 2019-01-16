@@ -169,7 +169,7 @@ def report_trigger():
     triggers_filename = get_report_trigger_filename(json_['deviceUUID'], json_['datetime'])
     with open(triggers_filename, 'a+') as f:
         writer = csv.writer(f)
-        writer.writerow((json_["trigger"], json_["currDateTime"], "Legitimate: "+str(json_["legitimate"])))
+        writer.writerow((json_["trigger"], str(datetime.datetime.now()), str(json_["legitimate"])))
     return jsonify({"status" : 0})
 
 @app.route('/data', methods=['GET'])
