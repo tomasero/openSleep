@@ -305,11 +305,18 @@ class ViewController: UIViewController,
     deltaEDAText?.text = String(defaults.object(forKey: "deltaEDA") as! Int)
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
+    
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
+    
     getDeviceUUID()
-//    initPorcupine(keyword: "porcupine")
+    
+    startButton.isEnabled = areRequiredParametersSet()
+  }
+  
+  func areRequiredParametersSet()-> Bool {
+    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -554,15 +561,19 @@ func transitionOnsetToSleep() {
 
   @IBAction func waitForOnsetTimeChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(waitForOnsetTimeText.text!), forKey: "waitForOnsetTime")
+    startButton.isEnabled = areRequiredParametersSet()
   }
   @IBAction func maxOnsetsChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(numOnsetsText.text!), forKey: "numOnsets")
+    startButton.isEnabled = areRequiredParametersSet()
   }
   @IBAction func promptTimeChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(promptTimeText.text!), forKey: "promptTime")
+    startButton.isEnabled = areRequiredParametersSet()
   }
   @IBAction func calibrationTimeChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(calibrationTimeText.text!), forKey: "calibrationTime")
+    startButton.isEnabled = areRequiredParametersSet()
   }
   @IBAction func HBOSSChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaHBOSSText.text!), forKey: "deltaHBOSS")
