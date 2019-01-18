@@ -13,7 +13,7 @@ import MediaPlayer
 
 let storedItemsKey = "storedItems"
 
-//Declared outside the class to be avalible in the flow view controller as well
+// Declared outside the class to be avalible in the flow view controller as well
 enum OnsetTrigger {
   case EDA
   case HR
@@ -54,9 +54,9 @@ class ViewController: UIViewController,
   @IBOutlet weak var meanHRLabel: UILabel!
   @IBOutlet weak var meanEDALabel: UILabel!
   
-  @IBOutlet weak var uuidLabel: UILabel!
+  @IBOutlet weak var uuidLabel: UILabel! // Display UUID in experimental mode to cross reference with filenames on server
   
-  @IBOutlet weak var infoButton: UIButton!
+  @IBOutlet weak var infoButton: UIButton! // Button to provide descriptions for parameters in experimental mode
     
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -98,15 +98,15 @@ class ViewController: UIViewController,
   
   var testRecording: Int = 0
   
-  var deviceUUID: String = ""
-  var sessionDateTime: String = ""
-  var getParams = ["String": "String"]
+  var deviceUUID: String = "" // UUID generated once, sent to server to name model and data files
+  var sessionDateTime: String = "" // Used to uniquely identify a session
+  var getParams = ["String": "String"] // parameters sent with get api calls to server
   
-  var alarmTimer = Timer()
-  var waitTimeForAlarm: Double = 10
+  var alarmTimer = Timer() // Timer used to trigger an alarm after the final onset is detected
+  var waitTimeForAlarm: Double = 10.0 // How long to wait after the last onset to trigger the alarm
   
 //  var porcupineManager: PorcupineManager? = nil
-  var falsePositive: Bool = false
+  var falsePositive: Bool = false // whether the detected onset was a false positive
   
   
   func dormioConnected() {
@@ -138,6 +138,10 @@ class ViewController: UIViewController,
     }
   }
   
+  /*
+    Checks if device uuid is in local storage, if not creates one
+    Adds the deviceUUID to the getParams dictionary
+ */
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -248,7 +252,7 @@ class ViewController: UIViewController,
       self.calibrateStart()
       self.numOnsets = 0
       
-      recordingsManager.calibrateSilenceThreshold()
+      recordingsManager.calibrateSilenceThreshold() // uses calibration period to calculate a threshold for silence
       
       self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
@@ -272,6 +276,9 @@ class ViewController: UIViewController,
     }
   }
   
+  /*
+    Performs timer invalidations and variable value initialization necessary to restart dream catching process.
+ */
   func reset() {
     startButton.setTitle("START", for: .normal)
     startButton.setTitleColor(UIColor.blue, for: .normal)
@@ -314,7 +321,7 @@ class ViewController: UIViewController,
     
     getDeviceUUID()
     
-    startButton.isEnabled = areRequiredParametersSet()
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   
   func areRequiredParametersSet()-> Bool {
@@ -438,34 +445,36 @@ class ViewController: UIViewController,
         self.recordingsManager.startPlaying(mode: 1)
         self.numOnsets += 1
 
-        self.recordingsManager.doOnPlayingEnd = {
+        self.recordingsManager.doOnPlayingEnd = { // Start of recordingsManager.doOnPlayingEnd
           self.startButton.setTitle("RECORDING", for: .normal)
-          self.recordingsManager.startRecordingDream(dreamTitle: "Experiment", silenceCallback: { () in
+          
+          // silenceCallback is called from recordingsManager once silence is detected
+          self.recordingsManager.startRecordingDream(dreamTitle: "Experiment", silenceCallback: { () in // Start of silenceCallback
             
             self.recordingsManager.stopRecording()
-            
+            print("SILENCE DETECTED!")
             json["legitimate"] = !self.falsePositive
             SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-            print("SILENCE DETECTED!")
+            
             if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
                 self.transitionOnsetToSleep()
             } else {
                 self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.waitTimeForAlarm, repeats: false, block: { (t) in
-                  self.recordingsManager.alarm()
                   self.wakeupAlarm()
                 })
             }
             
-          })
-          
-        }
+          }) // end of silenceCallback
+        } // End of recordingsManager.doOnPlayingEnd
         self.calibrateStart()
-        
         
       })
     }
   }
-  
+
+/*
+  Called at the end of an onset to setup detection of the next onset
+ */
 func transitionOnsetToSleep() {
     recordingsManager.startPlaying(mode: 0)
     playedAudio = false
@@ -484,8 +493,12 @@ func transitionOnsetToSleep() {
     // Dispose of any resources that can be recreated.
   }
 
+/*
+    Called to sound alarm and prompt user to end the session, or add more onsets, after the final onset is detected
+ */
   func wakeupAlarm() {
     print("NO MORE ONSETS TO DETECT")
+    self.recordingsManager.alarm()
     let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
     alert.addAction(UIAlertAction(title: "Continue (+3 onset(s))", style: .default, handler: {action in
       if(action.style == .default) {
@@ -508,8 +521,6 @@ func transitionOnsetToSleep() {
     flexBuffer.append(flex)
     edaBuffer.append(eda)
     hrBuffer.append(hr)
-    
-
     
     if (flexBuffer.count >= 30) {
       // send buffer to server
@@ -560,7 +571,9 @@ func transitionOnsetToSleep() {
     self.EDAValue.textColor = UIColor.black
     self.HBOSSLabel.textColor = UIColor.black
   }
-  
+/*
+  Displays alert providing information about the paramters in the experimental view
+ */
   @IBAction func infoButtonPressed(sender: UIButton) {
     let infoString = """
 DreamCatcher, with data from your Dormio, will detect when you are about to fall asleep and will play audio to guide your dream.

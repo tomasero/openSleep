@@ -44,10 +44,12 @@ class FlowViewController:
   @IBOutlet weak var microphoneImage: UIImageView!
   @IBOutlet weak var dreamDetectorControl: UISegmentedControl!
   
+  // Used in timer based mode
   @IBOutlet weak var timeUntilSleep: UITextField!
   @IBOutlet weak var phoneDropCalibrationTime: UIButton!
   @IBOutlet weak var phoneDropCalibrationStartStop: UIButton!
   
+  // If a false positive is detected in timer based version, then the user can add x seconds additional time
   @IBOutlet weak var timerFalsePositiveButton: UIButton!
   let timerFalsePositiveAdditionalTime = 60.0
   
@@ -135,7 +137,6 @@ class FlowViewController:
       activeView = 7
     }
     if let dsc = dreamStageControl {
-      print("AAA")
       flowManager.dreamStage = dsc.selectedSegmentIndex
       activeView = 4
     }
@@ -272,8 +273,13 @@ class FlowViewController:
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
+  /*
+   Called when phone drop calibration is pressed
+   Starts accelerometers and that listen for a drop
+ */
   @IBAction func phoneDropCalibrationPressed(_ sender: UIButton) {
     print("Starting phone Drop Calibration!")
+    
     if(!isPhoneDropCalibrating) {
       sender.setTitle("Stop",for: .normal)
       sender.setTitleColor(UIColor.red, for: .normal)
@@ -285,17 +291,17 @@ class FlowViewController:
       sender.setTitle("Phone Drop Calibration Time:", for: .normal)
       sender.setTitleColor(UIColor.white, for: .normal)
       isPhoneDropCalibrating = false
-      
+
       phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
       dropDetector.stopAccelerometers()
     }
   }
   
+  /*
+    User will press this button when they are not asleep when timer mode dream catching has been triggered
+ */
   @IBAction func timerFalsePositiveButtonPressed(_ sender: UIButton) {
     print("Adding \(timerFalsePositiveAdditionalTime)'s to the time delay")
-    
-    //this button shows up whenever sleep is detected in timer mode
-    // clicking it should stop any audio playing, any timers, and immediately then trigger the whole sequence again
     
     self.timer.invalidate()
     self.maxWaitOnsetTimer.invalidate()
@@ -306,9 +312,11 @@ class FlowViewController:
       t in
       self.sleepDetected(trigger: OnsetTrigger.TIMER)
     })
-    
   }
   
+  /*
+   Callback function for when a drop is detected. Accelerometers are stopped and the time the drop occured is displayed on the screen
+ */
   func dropCB() {
     phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
     isPhoneDropCalibrating = false
@@ -317,6 +325,9 @@ class FlowViewController:
     dropDetector.stopAccelerometers()
   }
   
+  /*
+   The recorded phone drop calibration time can be pressed to fill the timeUntilSleep text field
+ */
   @IBAction func phoneDropCalibrationTimePressed(_ sender: UIButton) {
     let t = phoneDropCalibrationTime.currentTitle!.components(separatedBy: " ")[0]
     if t != "None" {
@@ -326,6 +337,7 @@ class FlowViewController:
   }
 
   @IBAction func dreamPressed(_ sender: Any) {
+    
     if (currentStatus == "IDLE") {
       dreamButton.setTitle("Cancel", for: .normal)
       dreamButton.setTitleColor(UIColor.red, for: .normal)
@@ -333,7 +345,6 @@ class FlowViewController:
       currentStatus = "CALIBRATING"
       self.numOnsets = 0
       recordingsManager.calibrateSilenceThreshold()
-      print("TIMER BASED?", timerBased)
       
       if(!timerBased) {
         SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
@@ -361,7 +372,7 @@ class FlowViewController:
         })
       }
       else {
-        // Start the timer
+        // Start the timer for timer based version
           self.recordingsManager.startPlaying(mode: 0)
           print("Waiting for timeUntilSleep", self.flowManager.timeUntilSleep)
           self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.flowManager.timeUntilSleep), repeats: false, block: {
@@ -370,7 +381,6 @@ class FlowViewController:
               self.sleepDetected(trigger: OnsetTrigger.TIMER)
             })
       }
-      
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
       reset()
@@ -395,6 +405,9 @@ class FlowViewController:
     self.timerFalsePositiveButton.isHidden = true
   }
   
+  /*
+   Make sure the successive view controllers remember that timer based mode is enabled, if chosen at the first vc
+ */
   func prepareTimerViewController(vc:FlowViewController) {
     vc.timerBased = true
   }
@@ -495,6 +508,10 @@ class FlowViewController:
     }
   }
   
+  /*
+    Called after onset is detected to setup next onset detection. After 30 seconds, will start playing the SLEEP audio.
+   Also sets up a timer for Timer triggered onset
+ */
   func transitionOnsetToSleep() {
     
     let timeToNextOnset = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 45.0)

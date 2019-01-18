@@ -36,10 +36,11 @@ class DropDetector : NSObject {
     self.dropCB = dropCB
   }
   
+  // Starts accelerometers and checks the magnitude for drop detection
   func startAccelerometers() {
     // Make sure the accelerometer hardware is available.
     if self.motion.isAccelerometerAvailable {
-      self.motion.accelerometerUpdateInterval = 1.0 / 480.0  // 60 Hz
+      self.motion.accelerometerUpdateInterval = 1.0 / 480.0  // 480 Hz
       self.motion.startAccelerometerUpdates()
       
       // Configure a timer to fetch the data.
@@ -51,17 +52,7 @@ class DropDetector : NSObject {
                             let y = data.acceleration.y
                             let z = data.acceleration.z
                             let mag = sqrt(pow(x,2) + pow(y,2) + pow(z,2))
-                            // Use the accelerometer data in your app.
-                            if(mag > 4) {
-//                              print("Mag > 4: \(mag)")
-
-                            }
                             self.detectDrop(mag: mag)
-                            //States:
-                              // HELD
-                              // if greater than 8.5 ish Transition to DROPPING, store timestamp
-                              // If around 0, check time stamp see if difference is over .05 seconds, see if the mag is 0
-                              // Return to HELD
                           }
       })
       
@@ -76,7 +67,6 @@ class DropDetector : NSObject {
   }
   
   func detectDrop(mag: Double) {
-//    print("Drop STATE,", state)
     switch(state) {
       case dropState.HELD:
         if(mag > 5) {
@@ -84,12 +74,10 @@ class DropDetector : NSObject {
           lastNonZero = NSDate().timeIntervalSince1970
       }
     case dropState.DROPPING:
-      print("MAG IN DROPPING", mag)
       if(mag < 3) {
         state = dropState.STOPPED
       }
     case dropState.STOPPED:
-//      print("MAG IN DROPPED", mag)
       if(mag > 1.1) {
         lastNonZero = NSDate().timeIntervalSince1970
       } else {

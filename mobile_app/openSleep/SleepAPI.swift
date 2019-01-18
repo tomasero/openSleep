@@ -9,8 +9,8 @@
 import Foundation
 
 final class SleepAPI {
-  static let apiBaseURL: String = "http://68.183.114.149:5000/"
-//  static let apiBaseURL: String = "http://0.0.0.0:5000/"
+//  static let apiBaseURL: String = "http://68.183.114.149:5000/"
+  static let apiBaseURL: String = "http://0.0.0.0:5000/"
 
   static func apiGet(endpoint: String, params: [String: String], onSuccess: (([String : Any]) -> ())? = nil) {
     
