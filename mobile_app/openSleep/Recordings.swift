@@ -21,6 +21,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   
   var recordings = [String : [Recording]]()
   
+  var audioMultiURLs = [Int: [URL]]()
   var recordingSession : AVAudioSession!
   var audioRecorder    :AVAudioRecorder!
   var audioRecorderSettings = [String : Int]()
@@ -56,29 +57,6 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       }
     }
     
-    /*
-    let dateFormatter = DateFormatter()
-    dateFormatter.dateFormat = "dd/MM/yyyy HH:mm"
-    recordings = [
-      "Poetry" : [
-        Recording(path: "", time: dateFormatter.date(from: "03/11/2018 14:00")!, length: 30),
-        Recording(path: "", time: dateFormatter.date(from: "03/11/2018 14:12")!, length: 90)
-      ],
-      "Anomaly Detection" : [
-        Recording(path: "", time: dateFormatter.date(from: "23/11/2018 07:30")!, length: 80)
-      ],
-      "Ph.D. Application" : [
-        Recording(path: "", time: dateFormatter.date(from: "20/11/2018 07:10")!, length: 30),
-        Recording(path: "", time: dateFormatter.date(from: "21/11/2018 07:12")!, length: 40),
-        Recording(path: "", time: dateFormatter.date(from: "24/11/2018 07:45")!, length: 65),
-      ],
-      "Snowboard" : [
-        Recording(path: "", time: dateFormatter.date(from: "17/03/2018 07:55")!, length: 100),
-        Recording(path: "", time: dateFormatter.date(from: "19/03/2018 07:55")!, length: 105)
-      ]
-    ]
- */
-    
     // Audio recording session
     recordingSession = AVAudioSession.sharedInstance()
     do {
@@ -104,6 +82,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       AVNumberOfChannelsKey: 1,
       AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
     ]
+    
+    audioMultiURLs[0] = []
+    audioMultiURLs[1] = []
   }
   
   func addRecording(categoryName: String, path: String, length: Int) {
@@ -193,6 +174,16 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     return soundURL
   }
   
+  func audioDirectoryURLMulti(_ mode: Int) -> URL? {
+    let id: String = String(mode)
+    let fileManager = FileManager.default
+    let urls = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
+    let documentDirectory = urls[0] as NSURL
+    let soundURL = documentDirectory.appendingPathComponent("sound_\(id)_\(audioMultiURLs[mode]!.count).m4a")
+    print(soundURL!)
+    return soundURL
+  }
+  
   // mode - 0: think of, 1: what are you dreamin
   func startRecording(mode: Int) {
     let audioSession = AVAudioSession.sharedInstance()
@@ -208,6 +199,30 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         print("url = \(url)")
       }
     } catch {
+      audioRecorder.stop()
+    }
+    do {
+      try audioSession.setActive(true)
+      audioRecorder.record()
+    } catch {
+    }
+  }
+  
+  
+  // mode - 0: think of, 1: what are you dreaming
+  func startRecordingMulti(mode: Int) {
+    let audioSession = AVAudioSession.sharedInstance()
+    
+    do {
+      if let url = self.audioDirectoryURLMulti(mode) {
+        audioRecorder = try AVAudioRecorder(url: url as URL,
+                                            settings: audioRecorderSettings)
+        audioRecorder.delegate = self
+        audioRecorder.prepareToRecord()
+        
+        audioMultiURLs[mode]!.append(url)
+      }
+    }  catch {
       audioRecorder.stop()
     }
     do {
@@ -267,6 +282,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   func stopRecording() {
     print("stopping recording")
     audioRecorder.stop()
+  }
+  
+  func stopRecordingMulti(mode: Int) {
+    
   }
   
   func resetSilenceDetection() {
@@ -352,6 +371,14 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     if let dope = doOnPlayingEnd {
       dope()
       doOnPlayingEnd = nil
+    }
+  }
+  
+  func getThinkOfRecordings(mode: Int, index: Int)-> URL? {
+    if index < audioMultiURLs[mode]!.count {
+      return audioMultiURLs[mode]![index]
+    } else {
+      return nil
     }
   }
 }

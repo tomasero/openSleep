@@ -24,6 +24,7 @@ enum OnsetTrigger {
 
 class ViewController: UIViewController,
                       UITextFieldDelegate,
+                      UIPopoverPresentationControllerDelegate,
                       DormioDelegate {
 
   var dormioManager = DormioManager.shared
@@ -196,17 +197,17 @@ class ViewController: UIViewController,
     if (recordingPrompt == 1) {
       return
     }
-    if (recordingThinkOf != 1) {
-      recordingsManager.startRecording(mode: 0)
-      recordingThinkOf = 1;
-      recordThinkOfButton.setTitle("Stop", for: .normal)
-      recordThinkOfButton.setTitleColor(UIColor.red, for: .normal)
-    } else {
-      recordingsManager.stopRecording()
-      recordingThinkOf = 2;
-      recordThinkOfButton.setTitle("Record\n\"You can fall asleep now,\nRemember to think of... \"", for: .normal)
-      recordThinkOfButton.setTitleColor(UIColor.lightGray, for: .normal)
-    }
+//    if (recordingThinkOf != 1) {
+//      recordingsManager.startRecording(mode: 0)
+//      recordingThinkOf = 1;
+//      recordThinkOfButton.setTitle("Stop", for: .normal)
+//      recordThinkOfButton.setTitleColor(UIColor.red, for: .normal)
+//    } else {
+//      recordingsManager.stopRecording()
+//      recordingThinkOf = 2;
+//      recordThinkOfButton.setTitle("Record\n\"You can fall asleep now,\nRemember to think of... \"", for: .normal)
+//      recordThinkOfButton.setTitleColor(UIColor.lightGray, for: .normal)
+//    }
     
   }
   
@@ -626,4 +627,24 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
   @IBAction func EDAChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaEDAText.text!), forKey: "deltaEDA")
   }
+
+  func adaptivePresentationStyleForPresentationController(controller: UIPresentationController) -> UIModalPresentationStyle {
+    print("in adaptivePresentationStyleForPresentationController")
+    return UIModalPresentationStyle.none
+  }
+  
+  override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    // Get the new view controller using segue.destination.
+    // Pass the selected object to the new view controller.
+    
+  }
+  
+  override func viewWillAppear(_ animated: Bool) {
+    super.viewWillAppear(animated)
+    
+    // Hide the navigation bar on the this view controller
+    self.tabBarController?.tabBar.isTranslucent = false
+    
+  }
+  
 }

@@ -62,7 +62,7 @@
         <!--Experiment-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Experiment" id="BYZ-38-t0r" customClass="ViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -124,6 +124,7 @@
                                 </state>
                                 <connections>
                                     <action selector="recordThinkOfButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Mjk-Uv-NXn"/>
+                                    <segue destination="Rlc-Hq-hGV" kind="presentation" identifier="thinkOfRecordingsTable" id="ji2-rY-FPG"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K7s-Xq-ebH" userLabel="EDAValue">
@@ -403,7 +404,8 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Experiment" image="ball_point_pen.png" id="RCa-NF-tGY"/>
+                    <tabBarItem key="tabBarItem" title="Experiment" image="ball_point_pen.png" id="Bqo-UI-AV1"/>
+                    <navigationItem key="navigationItem" id="G8l-OD-NbH"/>
                     <connections>
                         <outlet property="EDAValue" destination="K7s-Xq-ebH" id="YjW-ae-Kft"/>
                         <outlet property="HBOSSLabel" destination="hHK-NM-J0A" id="GRa-uE-odf"/>
@@ -431,7 +433,80 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="584.79999999999995" y="519.49025487256381"/>
+            <point key="canvasLocation" x="1524" y="519.49025487256381"/>
+        </scene>
+        <!--Think Of Recording Table View Controller-->
+        <scene sceneID="Y3G-sV-BS4">
+            <objects>
+                <viewController id="Rlc-Hq-hGV" customClass="ThinkOfRecordingTableViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="oT2-rp-Mye">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pou-5M-0ls">
+                                <rect key="frame" x="0.0" y="70" width="375" height="476"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="thinkOfRecordingCell" id="2tu-lz-qOh" customClass="ThinkOfRecordingCell" customModule="openSleep" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="2tu-lz-qOh" id="yaD-DZ-efb">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" insetsLayoutMarginsFromSafeArea="NO" image="circled_play.png" translatesAutoresizingMaskIntoConstraints="NO" id="j59-wa-Op1">
+                                                    <rect key="frame" x="15" y="6" width="30" height="30"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Remember To Think Of (1)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="53E-YL-Hdi">
+                                                    <rect key="frame" x="53" y="11" width="262" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                        <connections>
+                                            <outlet property="label" destination="53E-YL-Hdi" id="LGJ-wd-pFF"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2GF-de-Hay">
+                                <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <items>
+                                    <navigationItem title="Record &quot;Think of...&quot; Prompt" id="fcz-ME-bVI">
+                                        <barButtonItem key="backBarButtonItem" title="Back" id="SvM-vz-hwB"/>
+                                        <barButtonItem key="leftBarButtonItem" title="Back" id="Qc1-ba-fEm">
+                                            <connections>
+                                                <segue destination="BYZ-38-t0r" kind="show" id="Hep-7k-MU3"/>
+                                            </connections>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3n-FU-JED">
+                                <rect key="frame" x="96" y="554" width="183" height="91"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Record &quot;You can fall asleep now, Remember to think of...&quot;"/>
+                                <connections>
+                                    <action selector="recordButtonPressed:" destination="Rlc-Hq-hGV" eventType="touchUpInside" id="Ir1-3A-rxK"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="cgg-ck-oO6"/>
+                    </view>
+                    <connections>
+                        <outlet property="tableView" destination="pou-5M-0ls" id="UVz-Id-RpV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JGi-Zj-Xgu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2343.1999999999998" y="483.50824587706148"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="U2g-dd-eq2">
@@ -925,9 +1000,9 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
                     <connections>
-                        <segue destination="WUD-0Q-zZk" kind="relationship" relationship="viewControllers" id="vXx-E5-Ds1"/>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="7aN-fE-Mez"/>
-                        <segue destination="Owj-SF-3et" kind="relationship" relationship="viewControllers" id="3OG-6i-L0b"/>
+                        <segue destination="WUD-0Q-zZk" kind="relationship" relationship="viewControllers" id="by7-6c-h83"/>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="npk-9X-uEZ"/>
+                        <segue destination="Owj-SF-3et" kind="relationship" relationship="viewControllers" id="3k9-rf-93F"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="J1i-UD-CI3" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -967,4 +1042,7 @@
         <image name="report_card.png" width="30" height="30"/>
         <image name="skin.png" width="50" height="50"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="Hep-7k-MU3"/>
+    </inferredMetricsTieBreakers>
 </document>

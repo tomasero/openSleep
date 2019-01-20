@@ -49,6 +49,8 @@
 		3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0D21ADC8DA0039E652 /* dormio.m4v */; };
 		3997730E21E28F030098CB68 /* Alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3997730D21E28F030098CB68 /* Alarm.mp3 */; };
 		3997731021E29ECE0098CB68 /* DropDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997730F21E29ECE0098CB68 /* DropDetector.swift */; };
+		3997731221F505400098CB68 /* ThinkOfRecordingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */; };
+		3997731821F50F5F0098CB68 /* ThinkOfRecordingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997731721F50F5F0098CB68 /* ThinkOfRecordingCell.swift */; };
 		39F0C10621B23F3B001F985A /* ID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F0C10521B23F3B001F985A /* ID.swift */; };
 		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
@@ -103,6 +105,8 @@
 		3956DC0D21ADC8DA0039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
 		3997730D21E28F030098CB68 /* Alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alarm.mp3; sourceTree = "<group>"; };
 		3997730F21E29ECE0098CB68 /* DropDetector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDetector.swift; sourceTree = "<group>"; };
+		3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThinkOfRecordingTableViewController.swift; sourceTree = "<group>"; };
+		3997731721F50F5F0098CB68 /* ThinkOfRecordingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThinkOfRecordingCell.swift; sourceTree = "<group>"; };
 		39F0C10521B23F3B001F985A /* ID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ID.swift; sourceTree = "<group>"; };
 		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -199,6 +203,7 @@
 				FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */,
 				FF6F7C561FDA1BE60034F388 /* ViewController.swift */,
 				FF6F7C581FDA1BE60034F388 /* Main.storyboard */,
+				3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */,
 				FF6F7C5B1FDA1BE60034F388 /* Assets.xcassets */,
 				FF6F7C5D1FDA1BE60034F388 /* LaunchScreen.storyboard */,
 				FF6F7C601FDA1BE60034F388 /* Info.plist */,
@@ -213,6 +218,7 @@
 				3908C8D521C1A5B20016CEE0 /* module.modulemap */,
 				3956DBE821AB27B40039E652 /* Flow.swift */,
 				39F0C10521B23F3B001F985A /* ID.swift */,
+				3997731721F50F5F0098CB68 /* ThinkOfRecordingCell.swift */,
 			);
 			path = openSleep;
 			sourceTree = "<group>";
@@ -329,11 +335,13 @@
 				392212F621A5D5AF0002A9DC /* RecordingsTableViewController.swift in Sources */,
 				3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */,
 				FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */,
+				3997731221F505400098CB68 /* ThinkOfRecordingTableViewController.swift in Sources */,
 				3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */,
 				3922130021A89D470002A9DC /* Alerts.swift in Sources */,
 				3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */,
 				392212F821A5D6770002A9DC /* Recordings.swift in Sources */,
 				3922131221AA64630002A9DC /* FlowViewController.swift in Sources */,
+				3997731821F50F5F0098CB68 /* ThinkOfRecordingCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
