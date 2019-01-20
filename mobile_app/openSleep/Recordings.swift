@@ -221,6 +221,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         audioRecorder.prepareToRecord()
         
         audioMultiURLs[mode]!.append(url)
+        print("Multi url = \(url)")
       }
     }  catch {
       audioRecorder.stop()
@@ -346,11 +347,27 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   }
   
   func startPlaying(mode: Int, onFinish: (() -> ())? = nil) {
-    self.audioPlayer = try! AVAudioPlayer(contentsOf: audioURLs[mode]!)
-    self.audioPlayer.prepareToPlay()
-    self.audioPlayer.delegate = self
-    //    self.audioPlayer.currentTime = max(0 as TimeInterval, self.audioPlayer.duration - audioPlaybackOffset)
-    self.audioPlayer.play()
+    if let url = audioURLs[mode] {
+      self.audioPlayer = try! AVAudioPlayer(contentsOf: url)
+      self.audioPlayer.prepareToPlay()
+      self.audioPlayer.delegate = self
+      //    self.audioPlayer.currentTime = max(0 as TimeInterval, self.audioPlayer.duration - audioPlaybackOffset)
+      self.audioPlayer.play()
+    } else {
+      return
+    }
+  }
+  
+  func startPlayingMulti(mode: Int, numOnset: Int) {
+    if let urls = audioMultiURLs[mode] {
+      let numURLS = urls.count
+      self.audioPlayer = try! AVAudioPlayer(contentsOf: urls[numOnset % numURLS])
+      self.audioPlayer.prepareToPlay()
+      self.audioPlayer.delegate = self
+      self.audioPlayer.play()
+    } else {
+      return
+    }
   }
   
   func alarm() {
@@ -375,6 +392,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   }
   
   func getThinkOfRecordings(mode: Int, index: Int)-> URL? {
+    print("Asking for recording at index", index, audioMultiURLs[mode]!)
     if index < audioMultiURLs[mode]!.count {
       return audioMultiURLs[mode]![index]
     } else {

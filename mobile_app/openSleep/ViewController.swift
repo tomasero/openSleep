@@ -189,8 +189,7 @@ class ViewController: UIViewController,
   }
   
   @IBAction func testRecordingsPressed(_ sender: UIButton) {
-    recordingsManager.startPlaying(mode: self.testRecording)
-    self.testRecording = 1 - self.testRecording
+    recordingsManager.startPlaying(mode: 1)
   }
   
   @IBAction func recordThinkOfButtonPressed(sender: UIButton) {
@@ -257,7 +256,7 @@ class ViewController: UIViewController,
       
       self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
-        self.recordingsManager.startPlaying(mode: 0)
+        self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
         
         self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeText.text!)! - 30, repeats: false, block: {
           t in
@@ -477,7 +476,7 @@ class ViewController: UIViewController,
   Called at the end of an onset to setup detection of the next onset
  */
 func transitionOnsetToSleep() {
-    recordingsManager.startPlaying(mode: 0)
+    recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
     playedAudio = false
     startButton.setTitle("WAITING FOR SLEEP", for: .normal)
     detectSleepTimerPause = false

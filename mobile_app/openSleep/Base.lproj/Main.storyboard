@@ -106,20 +106,10 @@
                                     <action selector="recordPromptButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VeR-u4-VKz"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ot-rF-P5K">
-                                <rect key="frame" x="134" y="197" width="107" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Test recordings">
-                                    <color key="titleColor" red="0.1764705882" green="0.38823529410000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="testRecordingsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nn4-sk-L2H"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="p4S-8f-4YN" userLabel="recordButton">
                                 <rect key="frame" x="10" y="125" width="175" height="73"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Record &quot;You can fall asleep now, Remember to think of... &quot;">
+                                <state key="normal" title="Record &quot;Think Of..&quot; Messages">
                                     <color key="titleColor" red="0.17647058823529413" green="0.38823529411764707" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
@@ -398,6 +388,16 @@
                                 <color key="tintColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <connections>
                                     <action selector="infoButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="I8j-5m-RsQ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ot-rF-P5K">
+                                <rect key="frame" x="109" y="197" width="157" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Test Prompt Recording">
+                                    <color key="titleColor" red="0.1764705882" green="0.38823529410000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="testRecordingsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nn4-sk-L2H"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -1043,6 +1043,7 @@
         <image name="skin.png" width="50" height="50"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="ji2-rY-FPG"/>
         <segue reference="Hep-7k-MU3"/>
     </inferredMetricsTieBreakers>
 </document>

@@ -7,20 +7,25 @@
 //
 
 import UIKit
+import AVFoundation
 
-class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSource {
+class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSource, AVAudioPlayerDelegate, UITableViewDelegate {
   
   
   @IBOutlet weak var tableView: UITableView!
   var recordingsManager = RecordingsManager.shared
-  
+
+  var audioPlayer : AVAudioPlayer!
+
   var isRecording: Bool = false
+  var indexOfRowPlaying: IndexPath?
   
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
       tableView.dataSource = self
+      tableView.delegate = self
     }
 
   func numberOfSections(in tableView: UITableView) -> Int {
@@ -67,6 +72,43 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
       tableView.reloadData()
     }
   }
+
+  
+  func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+    print("select row called")
+    if let playingIndexRow = self.indexOfRowPlaying {
+      print("self.indexOfRowPlaying is not nil")
+      self.audioPlayer.stop()
+      self.tableView.deselectRow(at: playingIndexRow, animated: true)
+      self.indexOfRowPlaying = nil
+      if playingIndexRow == indexPath {
+        return
+      }
+    }
+    if let recording_url = recordingsManager.getThinkOfRecordings(mode:0, index: indexPath.row) {
+      print("Playing \(recording_url)")
+      do {
+        self.audioPlayer = try AVAudioPlayer(contentsOf: recording_url)
+        self.audioPlayer.prepareToPlay()
+        self.audioPlayer.delegate = self
+        self.audioPlayer.play()
+        self.indexOfRowPlaying = indexPath
+      } catch {
+        Alert(self, "Unable to locate audio file!")
+        self.tableView.deselectRow(at: indexPath, animated: true)
+        self.indexOfRowPlaying = nil
+      }
+    }
+  }
+  
+  func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
+    //You can stop the audio
+    player.stop()
+    self.tableView.deselectRow(at: self.indexOfRowPlaying!, animated: true)
+    self.indexOfRowPlaying = nil
+  }
+  
+  
 
     /*
     // MARK: - Navigation
