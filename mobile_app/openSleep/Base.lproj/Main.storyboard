@@ -114,7 +114,6 @@
                                 </state>
                                 <connections>
                                     <action selector="recordThinkOfButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Mjk-Uv-NXn"/>
-                                    <segue destination="Rlc-Hq-hGV" kind="presentation" identifier="thinkOfRecordingsTable" id="ji2-rY-FPG"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K7s-Xq-ebH" userLabel="EDAValue">
@@ -404,7 +403,6 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Experiment" image="ball_point_pen.png" id="Bqo-UI-AV1"/>
                     <navigationItem key="navigationItem" id="G8l-OD-NbH"/>
                     <connections>
                         <outlet property="EDAValue" destination="K7s-Xq-ebH" id="YjW-ae-Kft"/>
@@ -433,18 +431,18 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1524" y="519.49025487256381"/>
+            <point key="canvasLocation" x="2463.1999999999998" y="519.49025487256381"/>
         </scene>
         <!--Think Of Recording Table View Controller-->
         <scene sceneID="Y3G-sV-BS4">
             <objects>
-                <viewController id="Rlc-Hq-hGV" customClass="ThinkOfRecordingTableViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="thinkOfTable" id="Rlc-Hq-hGV" customClass="ThinkOfRecordingTableViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="oT2-rp-Mye">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pou-5M-0ls">
-                                <rect key="frame" x="0.0" y="70" width="375" height="476"/>
+                                <rect key="frame" x="0.0" y="70" width="375" height="379"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <prototypes>
@@ -474,22 +472,8 @@
                                     </tableViewCell>
                                 </prototypes>
                             </tableView>
-                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2GF-de-Hay">
-                                <rect key="frame" x="0.0" y="20" width="375" height="44"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                <items>
-                                    <navigationItem title="Record &quot;Think of...&quot; Prompt" id="fcz-ME-bVI">
-                                        <barButtonItem key="backBarButtonItem" title="Back" id="SvM-vz-hwB"/>
-                                        <barButtonItem key="leftBarButtonItem" title="Back" id="Qc1-ba-fEm">
-                                            <connections>
-                                                <segue destination="BYZ-38-t0r" kind="show" id="Hep-7k-MU3"/>
-                                            </connections>
-                                        </barButtonItem>
-                                    </navigationItem>
-                                </items>
-                            </navigationBar>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3n-FU-JED">
-                                <rect key="frame" x="96" y="554" width="183" height="91"/>
+                                <rect key="frame" x="96" y="457" width="183" height="91"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Record &quot;You can fall asleep now, Remember to think of...&quot;"/>
                                 <connections>
@@ -506,7 +490,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JGi-Zj-Xgu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2343.1999999999998" y="483.50824587706148"/>
+            <point key="canvasLocation" x="3282.4000000000001" y="483.50824587706148"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="U2g-dd-eq2">
@@ -1001,7 +985,7 @@
                     </tabBar>
                     <connections>
                         <segue destination="WUD-0Q-zZk" kind="relationship" relationship="viewControllers" id="by7-6c-h83"/>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="npk-9X-uEZ"/>
+                        <segue destination="WIH-kh-89P" kind="relationship" relationship="viewControllers" id="npk-9X-uEZ"/>
                         <segue destination="Owj-SF-3et" kind="relationship" relationship="viewControllers" id="3k9-rf-93F"/>
                     </connections>
                 </tabBarController>
@@ -1028,6 +1012,25 @@
             </objects>
             <point key="canvasLocation" x="-110" y="1279"/>
         </scene>
+        <!--Experiment-->
+        <scene sceneID="RGr-9h-fqW">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="WIH-kh-89P" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Experiment" image="ball_point_pen.png" id="Bqo-UI-AV1"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="egH-89-Gvx">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="pZD-sR-ttT"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="igF-im-5o9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1524" y="519.49025487256381"/>
+        </scene>
     </scenes>
     <resources>
         <image name="ball_point_pen.png" width="30" height="30"/>
@@ -1042,8 +1045,4 @@
         <image name="report_card.png" width="30" height="30"/>
         <image name="skin.png" width="50" height="50"/>
     </resources>
-    <inferredMetricsTieBreakers>
-        <segue reference="ji2-rY-FPG"/>
-        <segue reference="Hep-7k-MU3"/>
-    </inferredMetricsTieBreakers>
 </document>

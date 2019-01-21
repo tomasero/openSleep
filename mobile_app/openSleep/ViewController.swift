@@ -193,21 +193,9 @@ class ViewController: UIViewController,
   }
   
   @IBAction func recordThinkOfButtonPressed(sender: UIButton) {
-    if (recordingPrompt == 1) {
-      return
-    }
-//    if (recordingThinkOf != 1) {
-//      recordingsManager.startRecording(mode: 0)
-//      recordingThinkOf = 1;
-//      recordThinkOfButton.setTitle("Stop", for: .normal)
-//      recordThinkOfButton.setTitleColor(UIColor.red, for: .normal)
-//    } else {
-//      recordingsManager.stopRecording()
-//      recordingThinkOf = 2;
-//      recordThinkOfButton.setTitle("Record\n\"You can fall asleep now,\nRemember to think of... \"", for: .normal)
-//      recordThinkOfButton.setTitleColor(UIColor.lightGray, for: .normal)
-//    }
-    
+    let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: "thinkOfTable") as! ThinkOfRecordingTableViewController
+    self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
   @IBAction func recordPromptButtonPressed(sender: UIButton) {
@@ -642,8 +630,14 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
     super.viewWillAppear(animated)
     
     // Hide the navigation bar on the this view controller
-    self.tabBarController?.tabBar.isTranslucent = false
+    self.navigationController?.setNavigationBarHidden(true, animated: animated)
+  }
+  
+  override func viewWillDisappear(_ animated: Bool) {
+    super.viewWillDisappear(animated)
     
+    // Show the navigation bar on other view controllers
+    self.navigationController?.setNavigationBarHidden(false, animated: animated)
   }
   
 }
