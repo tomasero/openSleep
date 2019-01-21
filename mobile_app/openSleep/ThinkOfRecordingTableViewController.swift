@@ -29,7 +29,6 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
     }
 
   func numberOfSections(in tableView: UITableView) -> Int {
-    print("numberOfSections called")
     return 1
   }
   func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -42,7 +41,6 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
   }
   
   func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-    print("cellForRowAt called")
     let cell = tableView.dequeueReusableCell(withIdentifier: "thinkOfRecordingCell", for: indexPath) as! ThinkOfRecordingCell
     cell.label?.text = "Remember To Think Of (\(indexPath.row))"
 
@@ -75,7 +73,6 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
 
   
   func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-    print("select row called")
     if let playingIndexRow = self.indexOfRowPlaying {
       print("self.indexOfRowPlaying is not nil")
       self.audioPlayer.stop()
@@ -108,6 +105,17 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
     self.indexOfRowPlaying = nil
   }
   
+  func tableView(_ tableView: UITableView, moveRowAt sourceIndexPath: IndexPath, to destinationIndexPath: IndexPath) {
+    recordingsManager.moveAudioMultiURLs(src: sourceIndexPath.row, dst: destinationIndexPath.row)
+  }
+  
+  func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {
+    if editingStyle == .delete {
+      //Delete the row from the data source
+      recordingsManager.deleteThinkOfRecording(index: indexPath.row)
+      tableView.deleteRows(at: [indexPath], with: .fade)
+    }
+  }
   
 
     /*

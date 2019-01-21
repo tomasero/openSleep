@@ -147,6 +147,31 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     
   }
   
+  func deleteThinkOfRecording(index: Int) {
+    if let r = audioMultiURLs[0] {
+      let url = r[index]
+      
+      print("Deleting ThinkOf Recording: ", r)
+      audioMultiURLs[0]!.remove(at: index)
+      let fileManager = FileManager.default
+      do {
+        try fileManager.removeItem(at: url)
+      } catch {
+        print("Attempting to delete file that does not exist!", url)
+      }
+    }
+  }
+  
+  func moveAudioMultiURLs(src: Int, dst: Int) {
+    if let r = audioMultiURLs[0] {
+      let urlToMove = r[src]
+      audioMultiURLs[0]!.remove(at: src)
+      audioMultiURLs[0]!.insert(urlToMove, at: dst)
+    } else {
+      return
+    }
+  }
+  
   func getCategoryTitle(category: Int) -> String? {
     let key = Array(recordings.keys)[category]
     return key
