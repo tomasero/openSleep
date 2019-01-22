@@ -18,7 +18,6 @@ class FlowViewController:
   // Singletons
   var flowManager = FlowManager.shared
   var dormioManager = DormioManager.shared
-//  var recordingsManager = RecordingsManager.shared
   var dropDetector = DropDetector.shared
 
   var activeView : Int = -1
@@ -50,6 +49,7 @@ class FlowViewController:
   @IBOutlet weak var phoneDropCalibrationStartStop: UIButton!
   
   // If a false positive is detected in timer based version, then the user can add x seconds additional time
+  // TODO make timerFalsePostiveAdditionalTime configurable from experimental view
   @IBOutlet weak var timerFalsePositiveButton: UIButton!
   let timerFalsePositiveAdditionalTime = 60.0
   
@@ -94,12 +94,12 @@ class FlowViewController:
   
   var alarmTimer = Timer()
   
-  var maxWaitOnsetTimer = Timer()
+  var maxWaitOnsetTimer = Timer() // timer used for triggering an onset when maxWaitOnset time is exceeded
   
   var falsePositive: Bool = false
   
-  var timerBased: Bool = false
-  var isPhoneDropCalibrating: Bool = false
+  var timerBased: Bool = false // whether user is in time based dreamcatching or not
+  var isPhoneDropCalibrating: Bool = false // whether the user is calibrating the time until sleep with drop detection
   var phoneDropCalibrationStartTime: Double = 0.0
   
   func getDeviceUUID() {
@@ -163,7 +163,6 @@ class FlowViewController:
       tableView.dataSource = self
       tableView.delegate = self
     }
-    
       // Do any additional setup after loading the view.
   }
   
@@ -245,6 +244,10 @@ class FlowViewController:
     isRecording = !isRecording
     
   }
+  
+  //TO eyal: to make sure that later view controllers remember if the user selected time based dreamcatching, I have
+  // the if(timerbased) conditoinal in every continue function.
+  // Is there a better way to do this? The "prepare" function for segue transitions is not called for some reason
   @IBAction func continue1Pressed(_ sender: Any) {
     flowManager.dreamTitle = self.dreamText.text
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)

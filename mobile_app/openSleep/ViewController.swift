@@ -13,7 +13,7 @@ import MediaPlayer
 
 let storedItemsKey = "storedItems"
 
-// Declared outside the class to be avalible in the flow view controller as well
+// Triggers reported to the prediction server
 enum OnsetTrigger {
   case EDA
   case HR
@@ -57,7 +57,7 @@ class ViewController: UIViewController,
   
   @IBOutlet weak var uuidLabel: UILabel! // Display UUID in experimental mode to cross reference with filenames on server
   
-  @IBOutlet weak var infoButton: UIButton! // Button to provide descriptions for parameters in experimental mode
+  @IBOutlet weak var infoButton: UIButton! // Button near nav bar to provide descriptions for parameters in experimental mode
     
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -154,6 +154,11 @@ class ViewController: UIViewController,
     getParams["deviceUUID"] = deviceUUID
   }
   
+  /*
+    Initialize porcupine keyword detection - currently needs work if integrated into dormio
+   - Pocrupine listens for audio in one format, and the recordings manager does so in another format, need to either have recordingManger
+        record audio in the same format, or have porcupine handle recording audio as well as keyword detection
+ */
 //  func initPorcupine(keyword:String) {
 //    let modelFilePath = Bundle.main.path(forResource:"porcupine_params", ofType: "pv", inDirectory: "./porcupine/common")
 //    let keywordCallback: ((WakeWordConfiguration) -> Void) = { _ in
@@ -174,8 +179,6 @@ class ViewController: UIViewController,
 //    catch {
 //
 //    }
-//
-//
 //  }
   
   @IBAction func connectButtonPressed(_ sender: UIButton) {
@@ -189,9 +192,13 @@ class ViewController: UIViewController,
   }
   
   @IBAction func testRecordingsPressed(_ sender: UIButton) {
-    recordingsManager.startPlaying(mode: 1)
+    recordingsManager.startPlaying(mode: 1) // Right now, only plays back the "wake up prompt" audio message, since users now have ability
+                                            // to record more than one "Remember to think of..." messages
   }
   
+  /*
+    Pushes the table listing all the "Remember to think of..." recordings to view
+ */
   @IBAction func recordThinkOfButtonPressed(sender: UIButton) {
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "thinkOfTable") as! ThinkOfRecordingTableViewController
@@ -231,6 +238,7 @@ class ViewController: UIViewController,
       
       self.detectSleepTimer.invalidate()
       
+      //TODO also send the parameters, deltas, to the server
       SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
         self.sessionDateTime = json["datetime"] as! String
         self.getParams["datetime"] = self.sessionDateTime
@@ -240,7 +248,7 @@ class ViewController: UIViewController,
       self.calibrateStart()
       self.numOnsets = 0
       
-      recordingsManager.calibrateSilenceThreshold() // uses calibration period to calculate a threshold for silence
+      recordingsManager.calibrateSilenceThreshold() // calculates a decible level used to later detect silence
       
       self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
         t in
@@ -260,12 +268,13 @@ class ViewController: UIViewController,
       })
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
-        reset()
+        reset() // reset back to starting state
     }
   }
   
   /*
     Performs timer invalidations and variable value initialization necessary to restart dream catching process.
+   Called when the start button is pressed again
  */
   func reset() {
     startButton.setTitle("START", for: .normal)
@@ -366,7 +375,6 @@ class ViewController: UIViewController,
   }
   
   @objc func detectSleep(sender: Timer) {
-    //let json : [String: Any] = ["feature_importance" : self.featureImportance]
     
     var onsetTrigger: OnsetTrigger?
     
@@ -411,8 +419,7 @@ class ViewController: UIViewController,
   
   func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
-    print("Sleep!")
-    print("TRIGGER WAS", String(describing: trigger))
+    print("Sleep Detected, trigger was", String(describing: trigger))
 
     var json: [String : Any] = ["trigger" : String(describing: trigger),
                                 "currDateTime" : Date().timeIntervalSince1970,
@@ -439,11 +446,13 @@ class ViewController: UIViewController,
           // silenceCallback is called from recordingsManager once silence is detected
           self.recordingsManager.startRecordingDream(dreamTitle: "Experiment", silenceCallback: { () in // Start of silenceCallback
             
+            print("Silence Detected, or max recording time elapsed")
+            
             self.recordingsManager.stopRecording()
-            print("SILENCE DETECTED!")
             json["legitimate"] = !self.falsePositive
             SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
             
+            // If stil have onsets to catch, continue, else, sound alarm
             if (self.numOnsets < Int(self.numOnsetsText.text!)!) {
                 self.transitionOnsetToSleep()
             } else {
@@ -454,6 +463,7 @@ class ViewController: UIViewController,
             
           }) // end of silenceCallback
         } // End of recordingsManager.doOnPlayingEnd
+        
         self.calibrateStart()
         
       })
@@ -485,9 +495,13 @@ func transitionOnsetToSleep() {
     Called to sound alarm and prompt user to end the session, or add more onsets, after the final onset is detected
  */
   func wakeupAlarm() {
-    print("NO MORE ONSETS TO DETECT")
+    print("All onsets detected, sounding alarm")
     self.recordingsManager.alarm()
     let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
+    
+    // TODO: textfield for user to enter number of onets they would like rather than hardcode + 3
+    // Asks user if they would like to continue sleeping, then increments the numOnsetsTest paramter, and transitions back to
+    // detecting onsets
     alert.addAction(UIAlertAction(title: "Continue (+3 onset(s))", style: .default, handler: {action in
       if(action.style == .default) {
         self.numOnsetsText.text = String(Int(self.numOnsetsText.text!)! + 3)
@@ -561,6 +575,7 @@ func transitionOnsetToSleep() {
   }
 /*
   Displays alert providing information about the paramters in the experimental view
+   Text needs to be cleaned up and formated with bolding, etc.
  */
   @IBAction func infoButtonPressed(sender: UIButton) {
     let infoString = """
@@ -626,6 +641,10 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
     
   }
   
+  /*
+   I embedded ViewCOntroller in a navigation controller to allow for navigation between experimental view and the
+   "Remember to think of" recordings table. Used to hide the nav bar in experimental, and show the nav bar for the table view
+ */
   override func viewWillAppear(_ animated: Bool) {
     super.viewWillAppear(animated)
     

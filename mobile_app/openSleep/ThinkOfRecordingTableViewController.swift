@@ -9,6 +9,11 @@
 import UIKit
 import AVFoundation
 
+/*
+  Controls the table view used to list the "Remember to think of" recordings
+ All the delegate functions are in the thinkOfRecordingsTableDelegate class
+ The code here handles the edit and recording button
+ */
 class ThinkOfRecordingTableViewController: thinkOfRecordingsTableDelegate {
   
   
@@ -22,9 +27,9 @@ class ThinkOfRecordingTableViewController: thinkOfRecordingsTableDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
       tableView.dataSource = self
       tableView.delegate = self
+      
       let screenSize = UIScreen.main.bounds
       height.constant = screenSize.height * 0.65
       width.constant = screenSize.width

@@ -25,22 +25,8 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
 
       // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
       // self.navigationItem.rightBarButtonItem = self.editButtonItem
-    setupLongPress()
-
     
-  }
-  
-  func share(urlString:String, touchPoint: CGRect) {
-    let url = URL(string: urlString)!
-    documentInteractionController = UIDocumentInteractionController()
-    documentInteractionController.url = url
-    documentInteractionController.uti = url.uti
-    documentInteractionController.presentOptionsMenu(from: touchPoint, in: self.view, animated: true)
-  }
-  
-  func setupLongPress() {
-    let longPressRecognizer = UILongPressGestureRecognizer(target: self, action: #selector(longPressed(sender:)))
-    self.view.addGestureRecognizer(longPressRecognizer)
+    setupLongPress()
   }
   
   override func viewWillAppear(_ animated: Bool) {
@@ -112,22 +98,6 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
     }
   }
   
-  @objc func longPressed(sender: UILongPressGestureRecognizer) {
-    
-    if sender.state == UIGestureRecognizerState.began {
-      
-      let touchPoint = sender.location(in: self.view)
-      if let indexPath = tableView.indexPathForRow(at: touchPoint) {
-        if let recording = recordingsManager.getRecording(category: indexPath.section, index: indexPath.row) {
-          print("Long pressed row: \(recording.path)")
-          let recSize = CGSize(width: 10, height: 10)
-          let rec = CGRect(origin: touchPoint, size: recSize)
-          self.share(urlString: recording.path, touchPoint: rec)
-        }
-      }
-    }
-  }
-  
   func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
     //You can stop the audio
     player.stop()
@@ -144,7 +114,9 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
   }
   */
 
-   // Override to support editing the table view.
+   /*
+   Deletes a row. Calls deleteReocrding of recordingsManager to remove that audio recording from storage
+ */
   override func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {
       if editingStyle == .delete {
            //Delete the row from the data source
@@ -154,6 +126,46 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
   }
   
   
+/*
+   To eyal: wondering if this is a good way to handle sharing audio file/setting up the gesture
+ */
+  /*
+   Called to bring up ui to share/send a particulat audio recording
+   */
+  func share(urlString:String, touchPoint: CGRect) {
+    let url = URL(string: urlString)!
+    documentInteractionController = UIDocumentInteractionController()
+    documentInteractionController.url = url
+    documentInteractionController.uti = url.uti
+    documentInteractionController.presentOptionsMenu(from: touchPoint, in: self.view, animated: true)
+  }
+  
+  /*
+   copypasta from stack overflow (Sazzad Hissain Khan's answer on https://stackoverflow.com/questions/30839275/how-to-select-a-table-row-during-a-long-press-in-swift
+   */
+  func setupLongPress() {
+    let longPressRecognizer = UILongPressGestureRecognizer(target: self, action: #selector(longPressed(sender:)))
+    self.view.addGestureRecognizer(longPressRecognizer)
+  }
+  
+  /*
+   On a long press, call share to allow user to send/share the audio recording associated with the cell
+   copypasta from stack overflow (Sazzad Hissain Khan's answer on https://stackoverflow.com/questions/30839275/how-to-select-a-table-row-during-a-long-press-in-swift
+   */
+  @objc func longPressed(sender: UILongPressGestureRecognizer) {
+    
+    if sender.state == UIGestureRecognizerState.began {
+      let touchPoint = sender.location(in: self.view)
+      if let indexPath = tableView.indexPathForRow(at: touchPoint) {
+        if let recording = recordingsManager.getRecording(category: indexPath.section, index: indexPath.row) {
+          print("Long pressed row: \(recording.path)")
+          let recSize = CGSize(width: 10, height: 10)
+          let rec = CGRect(origin: touchPoint, size: recSize)
+          self.share(urlString: recording.path, touchPoint: rec)
+        }
+      }
+    }
+  }
 
   /*
   // Override to support rearranging the table view.
@@ -183,7 +195,6 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
 }
 
 extension URL {
-  
   var uti: String {
     return (try? self.resourceValues(forKeys: [.typeIdentifierKey]))?.typeIdentifier ?? "public.data"
   }

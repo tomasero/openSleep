@@ -21,7 +21,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   
   var recordings = [String : [Recording]]()
   
+  // Maps the modes (0, 1) to list of URL's. Right now, only mode 0 (Remembder to think of) recordings are stored here.
+  // Wakeup prompts are still stored in audioURLs variable
   var audioMultiURLs = [Int: [URL]]()
+  
   var recordingSession : AVAudioSession!
   var audioRecorder    :AVAudioRecorder!
   var audioRecorderSettings = [String : Int]()
@@ -29,23 +32,29 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   var alarmPlayer : AVAudioPlayer!
   var audioURLs = [Int: URL]()
   
-  let silencePollingTime = 0.1
-  var dbThreshold:Float = -35.0
-  var silenceTime = 0.0
-  let silenceTimeThreshold = 8.0
+  /*
+   Paramters used for silence detection
+ */
+  let silencePollingTime = 0.1 // wait x seconds between checking the noise level for silence
+  var dbThreshold:Float = -35.0 // threshold for silence. Value determined as minimum between this default value and calibrationSIlenceThresh
+  var silenceTime = 0.0 // consecutive elapsed time with noise level below dbThreshold
+  let silenceTimeThreshold = 8.0 // how much silenceTime before ending recording
   var recordingTimeElapsed = 0.0
+  
+  //TODO: Make these parameters configurable from experimental view
   let maxRecordingTime = 120.0
   let minRecordingTime = 30.0
   
-  var calibrationSilenceThresh:Float = -35.0
+  var calibrationSilenceThresh:Float = -35.0 // determined by calibrateSilenceThreshold(), called when start/dream is pressed
   var elapsedCalTime:Float = 0.0
   let calibrationTime:Float = 10.0
   let calibrationTimeStep:Float = 0.1
-
-  var doOnPlayingEnd : (() -> ())? = nil
   
   var silenceDetectionTimer = Timer()
   var calibrateTimer = Timer()
+
+  var doOnPlayingEnd : (() -> ())? = nil
+  
   private override init() {
     super.init()
     
@@ -126,6 +135,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     return nil
   }
   
+  /*
+    Called from RecordingsTableVIewController when cells are deleted.
+ */
   func deleteRecording(category: Int, index: Int) {
     
     let key = Array(recordings.keys)[category]
@@ -147,6 +159,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     
   }
   
+  /*
+    Called from thinkOfRecordingsTableDelegate to handle deleting cells
+ */
   func deleteThinkOfRecording(index: Int) {
     if let r = audioMultiURLs[0] {
       let url = r[index]
@@ -162,6 +177,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
+  /*
+   Called from thinkOfRecordingsTableDelegate when tableview cells are reordered
+ */
   func moveAudioMultiURLs(src: Int, dst: Int) {
     if let r = audioMultiURLs[0] {
       let urlToMove = r[src]
@@ -199,6 +217,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     return soundURL
   }
   
+  /*
+   Used for audio urls for the multiple Remember to think of recordings
+ */
   func audioDirectoryURLMulti(_ mode: Int) -> URL? {
     let id: String = String(mode)
     let fileManager = FileManager.default
@@ -233,8 +254,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
-  
-  // mode - 0: think of, 1: what are you dreaming
+  // To eyal: Right now, startRecording and startRecordingulti both exist, I could combine them, to allow for multiple wakeup prompts, or leave this as is
+  /*
+   Called to record multiple Remember to think of messages. Appends urls to the audioMultiUrls[0] array
+ */
   func startRecordingMulti(mode: Int) {
     let audioSession = AVAudioSession.sharedInstance()
     
@@ -258,9 +281,11 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
+  // To eyal: Wondering if this is the best way to handle silence detection
+  // In particular, I feel like the silenceCallback is a little clunky
+      // Should I setup delegate functions instead?
   func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
     let audioSession = AVAudioSession.sharedInstance()
-    print("CURRENT DATE IS", Date())
     let url = self.audioDirectoryURLwithTimestamp()
     do {
       if url != nil {
@@ -287,18 +312,23 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         self.audioRecorder.updateMeters()
         let averagePower = self.audioRecorder.averagePower(forChannel:0)
         self.recordingTimeElapsed += self.silencePollingTime
+        
+        // + 5 to make silence detection more sensitive to noise
+        // Only starts detecting silence when recordingTime elapsed is greater than minRecordingTime
         if ((averagePower < self.dbThreshold + 5) && self.recordingTimeElapsed > self.minRecordingTime) {
           self.silenceTime += self.silencePollingTime
         } else {
           self.silenceTime = 0.0
         }
 //        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
+        
+        // if silenceTime threshold is reached or if maxrecordingtime is reached, exit
         if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {
           self.addRecording(categoryName: dreamTitle, path: url!.absoluteString, length: Int(self.recordingTimeElapsed))
           self.resetSilenceDetection()
-          print("SILENT, ADDING RECORDING", url!.absoluteString)
-          let cb = silenceCallback
-          cb()
+          print("Silent, adding recording:", url!.absoluteString)
+          
+          silenceCallback()
         }
       })
     } catch {
@@ -310,22 +340,20 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     audioRecorder.stop()
   }
   
-  func stopRecordingMulti(mode: Int) {
-    
-  }
-  
+  /*
+    Resets silencedetection-related parameters
+ */
   func resetSilenceDetection() {
     print("resetting silence detection")
-    self.silenceTime = 0.0
-    self.recordingTimeElapsed = 0.0
-    self.silenceDetectionTimer.invalidate()
+    silenceTime = 0.0
+    recordingTimeElapsed = 0.0
+    silenceDetectionTimer.invalidate()
   }
   
-  func stopRecordingAndSilenceDetection() {
-    stopRecording()
-    self.resetSilenceDetection()
-  }
-  
+  /*
+   Starts an audio recording to use as a reference for silence. Recording continues for calibrationTime variable.
+   Average power is calculated at the end of the recording session, and is stored in calibrationSilenceThresh, used in silence detection
+ */
   func calibrateSilenceThreshold() {
     let fileManager = FileManager.default
     let urls = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
@@ -362,6 +390,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     
   }
   
+  /*
+    Resets audio parameters and related timers
+ */
   func reset() {
     silenceTime = 0.0
     recordingTimeElapsed = 0.0
@@ -383,6 +414,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
+  // To Eyal: again I left in both startPlaying and startPlayingMulti, should i leave as is or combine them
+  /*
+    Plays the "REmember to think of" message corresponding to numOnset. If numOnset exceeds, the recordings wrap around
+ */
   func startPlayingMulti(mode: Int, numOnset: Int) {
     if let urls = audioMultiURLs[mode] {
       let numURLS = urls.count
@@ -395,6 +430,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
+  /*
+   Plays the Alarm.mp3 file
+ */
   func alarm() {
     let alarmURL = URL(string: Bundle.main.path(forResource: "Alarm", ofType: "mp3")!)
     self.alarmPlayer = try! AVAudioPlayer(contentsOf: alarmURL!)
@@ -403,6 +441,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     self.alarmPlayer.numberOfLoops = -1
     self.alarmPlayer.play()
   }
+  
   func stopAlarm() {
     self.alarmPlayer.stop()
   }
@@ -416,8 +455,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
+  /*
+   Called from thinkOfRecordingsTableDelegate to obtain recording urls for playing, deletion, reordering
+ */
   func getThinkOfRecordings(mode: Int, index: Int)-> URL? {
-    print("Asking for recording at index", index, audioMultiURLs[mode]!)
     if index < audioMultiURLs[mode]!.count {
       return audioMultiURLs[mode]![index]
     } else {

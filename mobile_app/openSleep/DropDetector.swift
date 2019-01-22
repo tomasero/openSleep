@@ -6,6 +6,11 @@
 //  Copyright © 2019 Tomas Vega. All rights reserved.
 //
 
+// TO eyal: drop detection does not work well at the moment. Sometimes when dropping my phone, the accelerometer does not detect > 3 m/s^2
+// acceleration. I don't think it is my freuqnecy of measurement, I have that currently set to 480 hz.
+/*
+  Measures accelerometer data for drop detection
+ */
 import Foundation
 import CoreMotion
 
