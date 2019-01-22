@@ -11,14 +11,14 @@ import AVKit
 import AVFoundation
 
 class FlowViewController:
-  UIViewController,
+  thinkOfRecordingsTableDelegate,
   DormioDelegate,
   UITextFieldDelegate {
 
   // Singletons
   var flowManager = FlowManager.shared
   var dormioManager = DormioManager.shared
-  var recordingsManager = RecordingsManager.shared
+//  var recordingsManager = RecordingsManager.shared
   var dropDetector = DropDetector.shared
 
   var activeView : Int = -1
@@ -52,6 +52,8 @@ class FlowViewController:
   // If a false positive is detected in timer based version, then the user can add x seconds additional time
   @IBOutlet weak var timerFalsePositiveButton: UIButton!
   let timerFalsePositiveAdditionalTime = 60.0
+  
+  @IBOutlet weak var tableView: UITableView!
   
   var autoCompleteCharacterCount = 0
   var autoCompleteTimer = Timer()
@@ -156,6 +158,12 @@ class FlowViewController:
     }
     
     getDeviceUUID()
+    
+    if let tV = tableView {
+      tableView.dataSource = self
+      tableView.delegate = self
+    }
+    
       // Do any additional setup after loading the view.
   }
   
@@ -227,11 +235,12 @@ class FlowViewController:
   @IBAction func recordSleepPressed(_ sender: UIButton) {
     continue3Button.isEnabled = true
     if !isRecording {
-      recordingsManager.startRecording(mode: 0)
+      recordingsManager.startRecordingMulti(mode: 0)
       sender.isSelected = true
     } else {
       recordingsManager.stopRecording()
       sender.isSelected = false
+      tableView.reloadData()
     }
     isRecording = !isRecording
     
@@ -522,7 +531,7 @@ class FlowViewController:
     
     self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
       t in
-      self.recordingsManager.startPlaying(mode: 0)
+      self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
       self.microphoneImage.isHidden = true
       self.playedAudio = false
       self.detectSleepTimerPause = false
@@ -727,4 +736,9 @@ class FlowViewController:
 //      print("In prepare, segue: ", segue, "sender: ", sender)
 //    }
 
+  override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+    let cell = tableView.dequeueReusableCell(withIdentifier: "rememberToThinkOfCell", for: indexPath) as! ThinkOfRecordingCell
+    cell.label?.text = "Remember To Think Of (\(indexPath.row))"
+    return cell
+  }
 }

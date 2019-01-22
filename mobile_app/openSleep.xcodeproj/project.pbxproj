@@ -47,6 +47,7 @@
 		3956DC0A21AC82690039E652 /* mind2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0921AC82680039E652 /* mind2.png */; };
 		3956DC0C21ACA48E0039E652 /* microphone_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0B21ACA48D0039E652 /* microphone_red.png */; };
 		3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0D21ADC8DA0039E652 /* dormio.m4v */; };
+		395F384921F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395F384821F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift */; };
 		3997730E21E28F030098CB68 /* Alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3997730D21E28F030098CB68 /* Alarm.mp3 */; };
 		3997731021E29ECE0098CB68 /* DropDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997730F21E29ECE0098CB68 /* DropDetector.swift */; };
 		3997731221F505400098CB68 /* ThinkOfRecordingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */; };
@@ -103,6 +104,7 @@
 		3956DC0921AC82680039E652 /* mind2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mind2.png; sourceTree = "<group>"; };
 		3956DC0B21ACA48D0039E652 /* microphone_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_red.png; sourceTree = "<group>"; };
 		3956DC0D21ADC8DA0039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
+		395F384821F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thinkOfRecordingsTableDelegate.swift; sourceTree = "<group>"; };
 		3997730D21E28F030098CB68 /* Alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alarm.mp3; sourceTree = "<group>"; };
 		3997730F21E29ECE0098CB68 /* DropDetector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDetector.swift; sourceTree = "<group>"; };
 		3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThinkOfRecordingTableViewController.swift; sourceTree = "<group>"; };
@@ -215,6 +217,7 @@
 				3922130D21A9B4B00002A9DC /* Dormio.swift */,
 				3922130F21A9C4E00002A9DC /* SleepAPI.swift */,
 				3922131121AA64630002A9DC /* FlowViewController.swift */,
+				395F384821F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift */,
 				3908C8D521C1A5B20016CEE0 /* module.modulemap */,
 				3956DBE821AB27B40039E652 /* Flow.swift */,
 				39F0C10521B23F3B001F985A /* ID.swift */,
@@ -331,6 +334,7 @@
 				3997731021E29ECE0098CB68 /* DropDetector.swift in Sources */,
 				FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */,
 				39F0C10621B23F3B001F985A /* ID.swift in Sources */,
+				395F384921F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift in Sources */,
 				3956DBE921AB27B40039E652 /* Flow.swift in Sources */,
 				392212F621A5D5AF0002A9DC /* RecordingsTableViewController.swift in Sources */,
 				3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */,
