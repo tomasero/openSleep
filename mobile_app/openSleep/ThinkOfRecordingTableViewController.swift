@@ -33,6 +33,8 @@ class ThinkOfRecordingTableViewController: thinkOfRecordingsTableDelegate {
   
   @IBAction func startEditing(_ sender: Any) {
     tableView.isEditing = !tableView.isEditing
+    let b = sender as! UIBarButtonItem
+    b.title = (b.title == "Edit") ? "Done" : "Edit"
   }
   
   @IBAction func recordButtonPressed(_ sender: UIButton) {

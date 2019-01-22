@@ -366,7 +366,7 @@ class FlowViewController:
         
         self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
           t in
-          self.recordingsManager.startPlaying(mode: 0)
+          self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
           
           self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "calibrationTime") as! Int) - 30, repeats: false, block: {
             t in
@@ -382,7 +382,7 @@ class FlowViewController:
       }
       else {
         // Start the timer for timer based version
-          self.recordingsManager.startPlaying(mode: 0)
+        self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
           print("Waiting for timeUntilSleep", self.flowManager.timeUntilSleep)
           self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.flowManager.timeUntilSleep), repeats: false, block: {
             t in
@@ -722,23 +722,16 @@ class FlowViewController:
     autoCompleteCharacterCount = autoCompleteResult.count
     return autoCompleteResult
   }
-  // END AUTOCOMPLETE
- 
-  
-    
-
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-//    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-//        // Get the new view controller using segue.destination.
-//        // Pass the selected object to the new view controller.
-//      print("In prepare, segue: ", segue, "sender: ", sender)
-//    }
 
   override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
     let cell = tableView.dequeueReusableCell(withIdentifier: "rememberToThinkOfCell", for: indexPath) as! ThinkOfRecordingCell
     cell.label?.text = "Remember To Think Of (\(indexPath.row))"
     return cell
+  }
+  
+  @IBAction func startEditing(_ sender: Any) {
+    tableView.isEditing = !tableView.isEditing
+    let b = sender as! UIBarButtonItem
+    b.title = (b.title == "Edit") ? "Done" : "Edit"
   }
 }
