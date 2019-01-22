@@ -13,6 +13,10 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
   
   
   @IBOutlet weak var tableView: UITableView!
+  
+  @IBOutlet weak var height: NSLayoutConstraint!
+  @IBOutlet weak var width: NSLayoutConstraint!
+  
   var recordingsManager = RecordingsManager.shared
 
   var audioPlayer : AVAudioPlayer!
@@ -26,6 +30,9 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
         // Do any additional setup after loading the view.
       tableView.dataSource = self
       tableView.delegate = self
+      let screenSize = UIScreen.main.bounds
+      height.constant = screenSize.height * 0.65
+      width.constant = screenSize.width
     }
 
   func numberOfSections(in tableView: UITableView) -> Int {

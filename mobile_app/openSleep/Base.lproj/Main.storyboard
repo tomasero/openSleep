@@ -441,10 +441,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pou-5M-0ls">
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pou-5M-0ls">
                                 <rect key="frame" x="0.0" y="70" width="375" height="379"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="RZN-ix-raY"/>
+                                    <constraint firstAttribute="height" constant="379" id="zHP-yq-q9j"/>
+                                </constraints>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="thinkOfRecordingCell" id="2tu-lz-qOh" customClass="ThinkOfRecordingCell" customModule="openSleep" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="28" width="375" height="44"/>
@@ -472,9 +475,12 @@
                                     </tableViewCell>
                                 </prototypes>
                             </tableView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3n-FU-JED">
-                                <rect key="frame" x="96" y="457" width="183" height="91"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3n-FU-JED">
+                                <rect key="frame" x="86" y="464" width="203" height="68"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="68" id="7PE-nU-kal"/>
+                                    <constraint firstAttribute="width" constant="203" id="yzB-3b-zDg"/>
+                                </constraints>
                                 <state key="normal" title="Record &quot;You can fall asleep now, Remember to think of...&quot;"/>
                                 <connections>
                                     <action selector="recordButtonPressed:" destination="Rlc-Hq-hGV" eventType="touchUpInside" id="Ir1-3A-rxK"/>
@@ -482,10 +488,18 @@
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="P3n-FU-JED" firstAttribute="top" secondItem="pou-5M-0ls" secondAttribute="bottom" constant="15" id="FR5-fH-cFC"/>
+                            <constraint firstItem="P3n-FU-JED" firstAttribute="centerX" secondItem="oT2-rp-Mye" secondAttribute="centerX" id="fW6-0n-n6r"/>
+                            <constraint firstItem="pou-5M-0ls" firstAttribute="centerY" secondItem="oT2-rp-Mye" secondAttribute="centerY" constant="-74" id="hPp-tT-Egc"/>
+                            <constraint firstItem="pou-5M-0ls" firstAttribute="centerX" secondItem="oT2-rp-Mye" secondAttribute="centerX" id="j2f-NM-565"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="cgg-ck-oO6"/>
                     </view>
                     <connections>
+                        <outlet property="height" destination="zHP-yq-q9j" id="TOz-PY-76d"/>
                         <outlet property="tableView" destination="pou-5M-0ls" id="UVz-Id-RpV"/>
+                        <outlet property="width" destination="RZN-ix-raY" id="zKa-ss-QSV"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JGi-Zj-Xgu" userLabel="First Responder" sceneMemberID="firstResponder"/>
