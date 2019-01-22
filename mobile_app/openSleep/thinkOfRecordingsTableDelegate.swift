@@ -10,6 +10,9 @@ import Foundation
 import UIKit
 import AVFoundation
 
+/*
+  Provides delegate function defintions for UITableView, used to list and interact with "Record Think Of" recordings
+ */
 class thinkOfRecordingsTableDelegate: UIViewController, UITableViewDataSource, UITableViewDelegate, AVAudioPlayerDelegate {
   
   var recordingsManager = RecordingsManager.shared
@@ -81,7 +84,6 @@ class thinkOfRecordingsTableDelegate: UIViewController, UITableViewDataSource, U
   }
   
   func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
-    //You can stop the audio
     player.stop()
     tV.deselectRow(at: self.indexOfRowPlaying!, animated: true)
     self.indexOfRowPlaying = nil
@@ -99,7 +101,6 @@ class thinkOfRecordingsTableDelegate: UIViewController, UITableViewDataSource, U
       tableView.deleteRows(at: [indexPath], with: .fade)
     }
   }
-  
   
   func tableView(_ tableView: UITableView, canMoveRowAt indexPath: IndexPath) -> Bool {
     return true

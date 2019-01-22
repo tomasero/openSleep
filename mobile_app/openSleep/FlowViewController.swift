@@ -399,6 +399,9 @@ class FlowViewController:
     }
   }
   
+  /*
+   Resets UI appearance, invalidates timers
+ */
   func reset() {
     dreamButton.setTitle("Dream", for: .normal)
     dreamButton.setTitleColor(UIColor.blue, for: .normal)
@@ -424,6 +427,9 @@ class FlowViewController:
     vc.timerBased = true
   }
   
+  /*
+   Hide keyboard/keypad when touching outside keyboard/keypad
+ */
   override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
     self.view.endEditing(true)
   }
@@ -543,9 +549,11 @@ class FlowViewController:
     })
   }
   
-
+  /*
+   Alarm after all onsets detected
+ */
   func wakeupAlarm() {
-    print("NO MORE ONSETS TO DETECT")
+    print("All onsets detected, sounding alarm")
     self.recordingsManager.alarm()
     let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
     alert.addAction(UIAlertAction(title: "Continue (+1 onset(s))", style: .default, handler: {action in
