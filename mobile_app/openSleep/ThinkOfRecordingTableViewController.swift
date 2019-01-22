@@ -35,6 +35,11 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
       width.constant = screenSize.width
     }
 
+  
+  @IBAction func startEditing(_ sender: Any) {
+    tableView.isEditing = !tableView.isEditing
+  }
+  
   func numberOfSections(in tableView: UITableView) -> Int {
     return 1
   }
@@ -114,6 +119,7 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
   
   func tableView(_ tableView: UITableView, moveRowAt sourceIndexPath: IndexPath, to destinationIndexPath: IndexPath) {
     recordingsManager.moveAudioMultiURLs(src: sourceIndexPath.row, dst: destinationIndexPath.row)
+    tableView.reloadData()
   }
   
   func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {
@@ -125,14 +131,8 @@ class ThinkOfRecordingTableViewController: UIViewController, UITableViewDataSour
   }
   
 
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
+  func tableView(_ tableView: UITableView, canMoveRowAt indexPath: IndexPath) -> Bool {
+    return true
+  }
 
 }

@@ -496,6 +496,15 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="cgg-ck-oO6"/>
                     </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="1xm-gi-x3k">
+                        <barButtonItem key="rightBarButtonItem" title="Edit" id="NAp-j6-WmT">
+                            <connections>
+                                <action selector="startEditing:" destination="Rlc-Hq-hGV" id="mtK-TJ-5xw"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="height" destination="zHP-yq-q9j" id="TOz-PY-76d"/>
                         <outlet property="tableView" destination="pou-5M-0ls" id="UVz-Id-RpV"/>
@@ -504,7 +513,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JGi-Zj-Xgu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3282.4000000000001" y="483.50824587706148"/>
+            <point key="canvasLocation" x="4221.6000000000004" y="483.50824587706148"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="U2g-dd-eq2">
@@ -1044,6 +1053,24 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="igF-im-5o9" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1524" y="519.49025487256381"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="OBc-4b-Ahb">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="OO8-Zx-tsS" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Cfn-oN-Ht3">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Rlc-Hq-hGV" kind="relationship" relationship="rootViewController" id="80x-rm-wtk"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QFZ-s1-hYF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3282.4000000000001" y="483.50824587706148"/>
         </scene>
     </scenes>
     <resources>
