@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3908C8D421C1A5890016CEE0 /* porcupine in Resources */ = {isa = PBXBuildFile; fileRef = 3908C8D321C1A5890016CEE0 /* porcupine */; };
+		3908C8D821C1A6780016CEE0 /* libpv_porcupine.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3908C8D721C1A6780016CEE0 /* libpv_porcupine.a */; };
 		392212E321A5D3C40002A9DC /* ball_point_pen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */; };
 		392212E421A5D3C40002A9DC /* ball_point_pen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */; };
 		392212E521A5D3C40002A9DC /* ball_point_pen.png in Resources */ = {isa = PBXBuildFile; fileRef = 392212E221A5D3C40002A9DC /* ball_point_pen.png */; };
@@ -45,6 +47,11 @@
 		3956DC0A21AC82690039E652 /* mind2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0921AC82680039E652 /* mind2.png */; };
 		3956DC0C21ACA48E0039E652 /* microphone_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0B21ACA48D0039E652 /* microphone_red.png */; };
 		3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 3956DC0D21ADC8DA0039E652 /* dormio.m4v */; };
+		395F384921F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395F384821F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift */; };
+		3997730E21E28F030098CB68 /* Alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3997730D21E28F030098CB68 /* Alarm.mp3 */; };
+		3997731021E29ECE0098CB68 /* DropDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997730F21E29ECE0098CB68 /* DropDetector.swift */; };
+		3997731221F505400098CB68 /* ThinkOfRecordingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */; };
+		3997731821F50F5F0098CB68 /* ThinkOfRecordingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3997731721F50F5F0098CB68 /* ThinkOfRecordingCell.swift */; };
 		39F0C10621B23F3B001F985A /* ID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F0C10521B23F3B001F985A /* ID.swift */; };
 		9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9051B709218C8BE20018B3E1 /* simulatedData.csv */; };
 		FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */; };
@@ -55,6 +62,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3908C8D321C1A5890016CEE0 /* porcupine */ = {isa = PBXFileReference; lastKnownFileType = folder; path = porcupine; sourceTree = "<group>"; };
+		3908C8D521C1A5B20016CEE0 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
+		3908C8D721C1A6780016CEE0 /* libpv_porcupine.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpv_porcupine.a; path = openSleep/porcupine/libpv_porcupine.a; sourceTree = "<group>"; };
 		392212E021A5D3C30002A9DC /* ball_point_pen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball_point_pen@2x.png"; sourceTree = "<group>"; };
 		392212E121A5D3C40002A9DC /* ball_point_pen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball_point_pen@3x.png"; sourceTree = "<group>"; };
 		392212E221A5D3C40002A9DC /* ball_point_pen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball_point_pen.png; sourceTree = "<group>"; };
@@ -94,6 +104,11 @@
 		3956DC0921AC82680039E652 /* mind2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mind2.png; sourceTree = "<group>"; };
 		3956DC0B21ACA48D0039E652 /* microphone_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microphone_red.png; sourceTree = "<group>"; };
 		3956DC0D21ADC8DA0039E652 /* dormio.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = dormio.m4v; sourceTree = "<group>"; };
+		395F384821F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thinkOfRecordingsTableDelegate.swift; sourceTree = "<group>"; };
+		3997730D21E28F030098CB68 /* Alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alarm.mp3; sourceTree = "<group>"; };
+		3997730F21E29ECE0098CB68 /* DropDetector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDetector.swift; sourceTree = "<group>"; };
+		3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThinkOfRecordingTableViewController.swift; sourceTree = "<group>"; };
+		3997731721F50F5F0098CB68 /* ThinkOfRecordingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThinkOfRecordingCell.swift; sourceTree = "<group>"; };
 		39F0C10521B23F3B001F985A /* ID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ID.swift; sourceTree = "<group>"; };
 		9051B709218C8BE20018B3E1 /* simulatedData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = simulatedData.csv; sourceTree = "<group>"; };
 		FF6F7C511FDA1BE60034F388 /* openSleep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = openSleep.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -110,17 +125,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3908C8D821C1A6780016CEE0 /* libpv_porcupine.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3908C8D621C1A6780016CEE0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3908C8D721C1A6780016CEE0 /* libpv_porcupine.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		392212E621A5D3E40002A9DC /* assets */ = {
 			isa = PBXGroup;
 			children = (
 				3956DBF921AB71770039E652 /* dreamcatcher.png */,
 				3956DC0521AB80C70039E652 /* microphone_big.png */,
+				3997730D21E28F030098CB68 /* Alarm.mp3 */,
 				3956DC0B21ACA48D0039E652 /* microphone_red.png */,
 				3956DC0321AB72ED0039E652 /* dreamcatcher_big.png */,
 				3956DBFC21AB71780039E652 /* fist.png */,
@@ -159,6 +184,7 @@
 			children = (
 				FF6F7C531FDA1BE60034F388 /* openSleep */,
 				FF6F7C521FDA1BE60034F388 /* Products */,
+				3908C8D621C1A6780016CEE0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -173,23 +199,29 @@
 		FF6F7C531FDA1BE60034F388 /* openSleep */ = {
 			isa = PBXGroup;
 			children = (
+				3908C8D321C1A5890016CEE0 /* porcupine */,
 				392212E621A5D3E40002A9DC /* assets */,
 				9051B709218C8BE20018B3E1 /* simulatedData.csv */,
 				FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */,
 				FF6F7C561FDA1BE60034F388 /* ViewController.swift */,
 				FF6F7C581FDA1BE60034F388 /* Main.storyboard */,
+				3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */,
 				FF6F7C5B1FDA1BE60034F388 /* Assets.xcassets */,
 				FF6F7C5D1FDA1BE60034F388 /* LaunchScreen.storyboard */,
 				FF6F7C601FDA1BE60034F388 /* Info.plist */,
 				3934E9C8219F5312007049D8 /* HeartQueue.swift */,
 				392212F521A5D5AF0002A9DC /* RecordingsTableViewController.swift */,
 				392212F721A5D6770002A9DC /* Recordings.swift */,
+				3997730F21E29ECE0098CB68 /* DropDetector.swift */,
 				392212FF21A89D470002A9DC /* Alerts.swift */,
 				3922130D21A9B4B00002A9DC /* Dormio.swift */,
 				3922130F21A9C4E00002A9DC /* SleepAPI.swift */,
 				3922131121AA64630002A9DC /* FlowViewController.swift */,
+				395F384821F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift */,
+				3908C8D521C1A5B20016CEE0 /* module.modulemap */,
 				3956DBE821AB27B40039E652 /* Flow.swift */,
 				39F0C10521B23F3B001F985A /* ID.swift */,
+				3997731721F50F5F0098CB68 /* ThinkOfRecordingCell.swift */,
 			);
 			path = openSleep;
 			sourceTree = "<group>";
@@ -253,6 +285,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3997730E21E28F030098CB68 /* Alarm.mp3 in Resources */,
 				3956DC0E21ADC9050039E652 /* dormio.m4v in Resources */,
 				3956DBFE21AB71780039E652 /* heart.png in Resources */,
 				392212EB21A5D4560002A9DC /* report_card.png in Resources */,
@@ -272,6 +305,7 @@
 				3922130521A8A6650002A9DC /* circled_play@3x.png in Resources */,
 				FF6F7C5F1FDA1BE60034F388 /* LaunchScreen.storyboard in Resources */,
 				9051B70A218C8BE20018B3E1 /* simulatedData.csv in Resources */,
+				3908C8D421C1A5890016CEE0 /* porcupine in Resources */,
 				3922130621A8A6650002A9DC /* circled_play.png in Resources */,
 				3956DC0421AB72ED0039E652 /* dreamcatcher_big.png in Resources */,
 				3956DBEF21AB49410039E652 /* play@3x.png in Resources */,
@@ -297,17 +331,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3997731021E29ECE0098CB68 /* DropDetector.swift in Sources */,
 				FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */,
 				39F0C10621B23F3B001F985A /* ID.swift in Sources */,
+				395F384921F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift in Sources */,
 				3956DBE921AB27B40039E652 /* Flow.swift in Sources */,
 				392212F621A5D5AF0002A9DC /* RecordingsTableViewController.swift in Sources */,
 				3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */,
 				FF6F7C551FDA1BE60034F388 /* AppDelegate.swift in Sources */,
+				3997731221F505400098CB68 /* ThinkOfRecordingTableViewController.swift in Sources */,
 				3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */,
 				3922130021A89D470002A9DC /* Alerts.swift in Sources */,
 				3922130E21A9B4B00002A9DC /* Dormio.swift in Sources */,
 				392212F821A5D6770002A9DC /* Recordings.swift in Sources */,
 				3922131221AA64630002A9DC /* FlowViewController.swift in Sources */,
+				3997731821F50F5F0098CB68 /* ThinkOfRecordingCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,8 +487,13 @@
 				INFOPLIST_FILE = openSleep/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/openSleep/porcupine",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = FI.openSleep;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INCLUDE_PATHS = "${SRCROOT}/openSleep";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -465,8 +508,13 @@
 				INFOPLIST_FILE = openSleep/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/openSleep/porcupine",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = FI.openSleep;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INCLUDE_PATHS = "${SRCROOT}/openSleep";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

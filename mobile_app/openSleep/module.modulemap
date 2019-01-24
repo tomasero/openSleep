@@ -1,0 +1,5 @@
+module pv_porcupine [system][extern_c] {
+    header "./porcupine/include/pv_porcupine.h"
+    header "./porcupine/include/picovoice.h"
+    export *
+}

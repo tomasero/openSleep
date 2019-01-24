@@ -62,13 +62,13 @@
         <!--Experiment-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Experiment" id="BYZ-38-t0r" customClass="ViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="8CY-b4-eoa" userLabel="connectButton">
-                                <rect key="frame" x="10" y="27" width="159" height="62"/>
+                                <rect key="frame" x="10" y="50" width="159" height="62"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
                                 <state key="normal" title="CONNECT">
@@ -97,7 +97,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="QVG-T9-TKM" userLabel="recordButton">
-                                <rect key="frame" x="200" y="97" width="175" height="73"/>
+                                <rect key="frame" x="200" y="125" width="175" height="73"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Record &quot;You're falling asleep...  Tell me what you're thinking&quot;">
                                     <color key="titleColor" red="0.1764705882" green="0.38823529410000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -106,20 +106,10 @@
                                     <action selector="recordPromptButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VeR-u4-VKz"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ot-rF-P5K">
-                                <rect key="frame" x="134" y="184" width="107" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Test recordings">
-                                    <color key="titleColor" red="0.1764705882" green="0.38823529410000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="testRecordingsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nn4-sk-L2H"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="p4S-8f-4YN" userLabel="recordButton">
-                                <rect key="frame" x="10" y="97" width="175" height="73"/>
+                                <rect key="frame" x="10" y="125" width="175" height="73"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Record &quot;You can fall asleep now, Remember to think of... &quot;">
+                                <state key="normal" title="Record &quot;Think Of..&quot; Messages">
                                     <color key="titleColor" red="0.17647058823529413" green="0.38823529411764707" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
@@ -168,8 +158,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Prompt Time Delay:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S0R-fJ-tsq">
-                                <rect key="frame" x="72" y="357" width="150" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Prompt Latency:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S0R-fJ-tsq">
+                                <rect key="frame" x="93" y="357" width="126" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -197,8 +187,8 @@
                                     <outlet property="delegate" destination="BYZ-38-t0r" id="pMH-lE-rND"/>
                                 </connections>
                             </textField>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Number of Onsets:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2UM-DS-Y2G">
-                                <rect key="frame" x="77" y="397" width="145" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Number of Sleeps:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2UM-DS-Y2G">
+                                <rect key="frame" x="77" y="397" width="142" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -251,8 +241,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Max Wait for Onset Time:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FEc-IC-edY">
-                                <rect key="frame" x="31" y="436" width="193" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Max Time Between Sleeps:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FEc-IC-edY">
+                                <rect key="frame" x="16" y="436" width="219" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -376,7 +366,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Lca-69-db1" userLabel="startButton">
-                                <rect key="frame" x="203" y="27" width="159" height="62"/>
+                                <rect key="frame" x="200" y="50" width="159" height="62"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
                                 <state key="normal" title="START"/>
@@ -384,11 +374,36 @@
                                     <action selector="startButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5X0-VS-MfA"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="UUID:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5zT-Ea-v6Z">
+                                <rect key="frame" x="10" y="44" width="29" height="12"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoLight" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jjm-Sy-EB7">
+                                <rect key="frame" x="340" y="27" width="22" height="22"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <connections>
+                                    <action selector="infoButtonPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="I8j-5m-RsQ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ot-rF-P5K">
+                                <rect key="frame" x="109" y="197" width="157" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Test Prompt Recording">
+                                    <color key="titleColor" red="0.1764705882" green="0.38823529410000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="testRecordingsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nn4-sk-L2H"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Experiment" image="ball_point_pen.png" id="RCa-NF-tGY"/>
+                    <navigationItem key="navigationItem" id="G8l-OD-NbH"/>
                     <connections>
                         <outlet property="EDAValue" destination="K7s-Xq-ebH" id="YjW-ae-Kft"/>
                         <outlet property="HBOSSLabel" destination="hHK-NM-J0A" id="GRa-uE-odf"/>
@@ -400,6 +415,7 @@
                         <outlet property="deltaHBOSSText" destination="rth-v1-Naw" id="71D-k8-gjm"/>
                         <outlet property="deltaHRText" destination="VRc-w3-kyl" id="d4k-E3-cfz"/>
                         <outlet property="flexValue" destination="Zut-Jn-u7C" id="nDv-rA-MlN"/>
+                        <outlet property="infoButton" destination="Jjm-Sy-EB7" id="88y-EZ-TRT"/>
                         <outlet property="meanEDALabel" destination="r9o-p8-694" id="m3C-nV-keF"/>
                         <outlet property="meanFlexLabel" destination="BST-sG-trd" id="J0o-Yo-aEu"/>
                         <outlet property="meanHRLabel" destination="Llb-jj-e18" id="rsE-4m-9K3"/>
@@ -409,12 +425,95 @@
                         <outlet property="recordThinkOfButton" destination="p4S-8f-4YN" id="XDb-0U-Gh8"/>
                         <outlet property="simulationInput" destination="khM-ee-cl5" id="rJ8-R7-PJP"/>
                         <outlet property="startButton" destination="Lca-69-db1" id="u8R-FQ-PRP"/>
+                        <outlet property="uuidLabel" destination="5zT-Ea-v6Z" id="e5o-Uv-EXT"/>
                         <outlet property="waitForOnsetTimeText" destination="eZf-Wr-hzb" id="d1W-to-oSI"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="585" y="520"/>
+            <point key="canvasLocation" x="2463.1999999999998" y="519.49025487256381"/>
+        </scene>
+        <!--Think Of Recording Table View Controller-->
+        <scene sceneID="Y3G-sV-BS4">
+            <objects>
+                <viewController storyboardIdentifier="thinkOfTable" id="Rlc-Hq-hGV" customClass="ThinkOfRecordingTableViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="oT2-rp-Mye">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pou-5M-0ls">
+                                <rect key="frame" x="0.0" y="70" width="375" height="379"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="RZN-ix-raY"/>
+                                    <constraint firstAttribute="height" constant="379" id="zHP-yq-q9j"/>
+                                </constraints>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="thinkOfRecordingCell" id="2tu-lz-qOh" customClass="ThinkOfRecordingCell" customModule="openSleep" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="2tu-lz-qOh" id="yaD-DZ-efb">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" insetsLayoutMarginsFromSafeArea="NO" image="circled_play.png" translatesAutoresizingMaskIntoConstraints="NO" id="j59-wa-Op1">
+                                                    <rect key="frame" x="15" y="6" width="30" height="30"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Remember To Think Of (1)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="53E-YL-Hdi">
+                                                    <rect key="frame" x="53" y="11" width="262" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                        <connections>
+                                            <outlet property="label" destination="53E-YL-Hdi" id="LGJ-wd-pFF"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3n-FU-JED">
+                                <rect key="frame" x="86" y="464" width="203" height="68"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="68" id="7PE-nU-kal"/>
+                                    <constraint firstAttribute="width" constant="203" id="yzB-3b-zDg"/>
+                                </constraints>
+                                <state key="normal" title="Record &quot;You can fall asleep now, Remember to think of...&quot;"/>
+                                <connections>
+                                    <action selector="recordButtonPressed:" destination="Rlc-Hq-hGV" eventType="touchUpInside" id="Ir1-3A-rxK"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="P3n-FU-JED" firstAttribute="top" secondItem="pou-5M-0ls" secondAttribute="bottom" constant="15" id="FR5-fH-cFC"/>
+                            <constraint firstItem="P3n-FU-JED" firstAttribute="centerX" secondItem="oT2-rp-Mye" secondAttribute="centerX" id="fW6-0n-n6r"/>
+                            <constraint firstItem="pou-5M-0ls" firstAttribute="centerY" secondItem="oT2-rp-Mye" secondAttribute="centerY" constant="-74" id="hPp-tT-Egc"/>
+                            <constraint firstItem="pou-5M-0ls" firstAttribute="centerX" secondItem="oT2-rp-Mye" secondAttribute="centerX" id="j2f-NM-565"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="cgg-ck-oO6"/>
+                    </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="1xm-gi-x3k">
+                        <barButtonItem key="rightBarButtonItem" title="Edit" id="NAp-j6-WmT">
+                            <connections>
+                                <action selector="startEditing:" destination="Rlc-Hq-hGV" id="mtK-TJ-5xw"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="height" destination="zHP-yq-q9j" id="TOz-PY-76d"/>
+                        <outlet property="tableView" destination="pou-5M-0ls" id="UVz-Id-RpV"/>
+                        <outlet property="width" destination="RZN-ix-raY" id="zKa-ss-QSV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JGi-Zj-Xgu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4221.6000000000004" y="483.50824587706148"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="U2g-dd-eq2">
@@ -469,15 +568,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="beb-1g-fYZ" userLabel="connectButton">
-                                <rect key="frame" x="0.0" y="279" width="375" height="108"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle0"/>
-                                <state key="normal" title="Continue"/>
-                                <connections>
-                                    <action selector="continue1Pressed:" destination="Jpr-JL-0mk" eventType="touchUpInside" id="ERj-Dt-u8T"/>
-                                </connections>
-                            </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="What would you like to dream about?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E5U-Zw-GaN">
                                 <rect key="frame" x="0.0" y="95" width="375" height="21"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
@@ -495,6 +585,15 @@
                                     <outlet property="delegate" destination="Jpr-JL-0mk" id="T1x-nO-Bix"/>
                                 </connections>
                             </textField>
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="beb-1g-fYZ" userLabel="connectButton">
+                                <rect key="frame" x="0.0" y="178" width="375" height="108"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle0"/>
+                                <state key="normal" title="Continue"/>
+                                <connections>
+                                    <action selector="continue1Pressed:" destination="Jpr-JL-0mk" eventType="touchUpInside" id="ERj-Dt-u8T"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Zv1-Qr-Tu9"/>
@@ -508,6 +607,82 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="APE-5f-0jn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1780" y="1281.4092953523239"/>
+        </scene>
+        <!--Flow View Controller-->
+        <scene sceneID="nPR-UO-6mk">
+            <objects>
+                <viewController storyboardIdentifier="timerStep" id="qhM-oe-2Xm" customClass="FlowViewController" customModule="openSleep" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="pjL-yp-9jR">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Time Until Sleep (Seconds)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kPF-8U-KC0">
+                                <rect key="frame" x="83" y="179" width="208" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="DQZ-hC-EBw">
+                                <rect key="frame" x="128" y="208" width="118" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                            </textField>
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="QmD-9w-xdx" userLabel="connectButton">
+                                <rect key="frame" x="0.0" y="469" width="375" height="108"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle0"/>
+                                <state key="normal" title="Continue"/>
+                                <connections>
+                                    <action selector="continueTimerBasedPressed:" destination="qhM-oe-2Xm" eventType="touchUpInside" id="5i8-e5-ZCn"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D0G-Pj-qqf">
+                                <rect key="frame" x="0.0" y="80" width="375" height="109"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <string key="text">Enter Time Until Sleep, Or Select "Phone Drop Calibration Time". Dream Catcher will estimate your time until sleep by waiting for a phone drop.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="lightTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0OJ-ju-Guk">
+                                <rect key="frame" x="75" y="260" width="224" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <state key="normal" title="Phone Drop Calibration Time:">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="phoneDropCalibrationPressed:" destination="qhM-oe-2Xm" eventType="touchUpInside" id="xgd-Ya-pAt"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nke-l5-6tT">
+                                <rect key="frame" x="63" y="287" width="249" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <state key="normal" title="None">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="phoneDropCalibrationTimePressed:" destination="qhM-oe-2Xm" eventType="touchUpInside" id="k7S-r8-IZc"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="8Qw-U1-yC5"/>
+                    </view>
+                    <connections>
+                        <outlet property="continueTimerBasedButton" destination="QmD-9w-xdx" id="C5O-zJ-h0A"/>
+                        <outlet property="phoneDropCalibrationStartStop" destination="0OJ-ju-Guk" id="Uhj-9p-qEV"/>
+                        <outlet property="phoneDropCalibrationTime" destination="nke-l5-6tT" id="Fu9-hJ-wGh"/>
+                        <outlet property="timeUntilSleep" destination="DQZ-hC-EBw" id="U4t-1W-g1J"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VZf-mI-6Yd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1765.5999999999999" y="1945.2773613193406"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="myE-9l-RVb">
@@ -580,14 +755,52 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="&quot;You can fall asleep now, Remember to think of...&quot;" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kDC-3g-C6o">
-                                <rect key="frame" x="0.0" y="216" width="375" height="68"/>
+                                <rect key="frame" x="0.0" y="479" width="375" height="68"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="italicSystem" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="VZn-DN-Zra" userLabel="connectButton">
+                                <rect key="frame" x="0.0" y="539" width="375" height="108"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle0"/>
+                                <state key="normal" title="Continue"/>
+                                <connections>
+                                    <action selector="continuePressed:" destination="Yqm-py-neD" eventType="touchUpInside" id="bxq-rg-ehV"/>
+                                </connections>
+                            </button>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="rt0-B1-5GX">
+                                <rect key="frame" x="0.0" y="169" width="375" height="255"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="separatorColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="gray" indentationWidth="10" reuseIdentifier="rememberToThinkOfCell" id="DfQ-Pv-VTN" customClass="ThinkOfRecordingCell" customModule="openSleep" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="DfQ-Pv-VTN" id="zHg-8X-U9P">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Remember To Think Of..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kJY-BY-Q6C">
+                                                    <rect key="frame" x="15" y="12" width="323" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <connections>
+                                            <outlet property="label" destination="kJY-BY-Q6C" id="DKX-Ao-1vl"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zSm-WC-g2F">
-                                <rect key="frame" x="172" y="185" width="30" height="30"/>
+                                <rect key="frame" x="172" y="453" width="30" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="microphone.png"/>
                                 <state key="selected" image="microphone_red.png"/>
@@ -596,27 +809,26 @@
                                     <action selector="recordWakupPressed:" destination="oL9-hc-XxC" eventType="touchUpInside" id="dmt-6s-th0"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="VZn-DN-Zra" userLabel="connectButton">
-                                <rect key="frame" x="0.0" y="280" width="375" height="108"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle0"/>
-                                <state key="normal" title="Continue"/>
-                                <connections>
-                                    <action selector="continuePressed:" destination="Yqm-py-neD" eventType="touchUpInside" id="bxq-rg-ehV"/>
-                                </connections>
-                            </button>
                         </subviews>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="qBM-LW-qQl"/>
                     </view>
+                    <navigationItem key="navigationItem" id="2nC-2A-Ey3">
+                        <barButtonItem key="rightBarButtonItem" title="Edit" id="kS1-dz-ZKw">
+                            <connections>
+                                <action selector="startEditing:" destination="Yqm-py-neD" id="KZp-hy-NZ7"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
                         <outlet property="continue3Button" destination="VZn-DN-Zra" id="EQp-Mf-Cjz"/>
                         <outlet property="sleepMessageLabel" destination="kDC-3g-C6o" id="Ue9-zm-8qx"/>
+                        <outlet property="tableView" destination="rt0-B1-5GX" id="6v6-sG-1lK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3bE-C3-oJx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3606" y="1279"/>
+            <point key="canvasLocation" x="4544.8000000000002" y="1278.7106446776613"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="CmR-4W-F6Q">
@@ -664,7 +876,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="imk-1u-yKa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4498.3999999999996" y="1277.8110944527737"/>
+            <point key="canvasLocation" x="5437.6000000000004" y="1277.8110944527737"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="cxi-pf-biy">
@@ -714,7 +926,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZdV-PZ-y8r" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5361" y="1281"/>
+            <point key="canvasLocation" x="6300" y="1280.5097451274364"/>
         </scene>
         <!--Flow View Controller-->
         <scene sceneID="eBJ-le-nO2">
@@ -774,7 +986,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="microphone_big.png" translatesAutoresizingMaskIntoConstraints="NO" id="dGF-T3-b2X">
-                                <rect key="frame" x="127" y="376" width="120" height="120"/>
+                                <rect key="frame" x="145" y="442" width="85" height="76"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="es5-Q5-dQP">
@@ -794,6 +1006,15 @@
                                 <color key="textColor" cocoaTouchSystemColor="lightTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="5hY-nH-KX4" userLabel="connectButton">
+                                <rect key="frame" x="0.0" y="361" width="379" height="58"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="26"/>
+                                <state key="normal" title="Not asleep? Add 60 seconds"/>
+                                <connections>
+                                    <action selector="timerFalsePositiveButtonPressed:" destination="Bwh-gk-8DR" eventType="touchUpInside" id="XBO-zx-0dL"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="5kz-18-1Na"/>
@@ -806,11 +1027,12 @@
                         <outlet property="dreamLabel" destination="T9E-xy-NKG" id="a3M-di-jXG"/>
                         <outlet property="flexLabel" destination="VXl-jG-Adb" id="fzb-kz-tUT"/>
                         <outlet property="microphoneImage" destination="dGF-T3-b2X" id="Ohc-w9-Tnb"/>
+                        <outlet property="timerFalsePositiveButton" destination="5hY-nH-KX4" id="PkJ-KZ-tRa"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="de9-Cw-bcf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6199" y="1278"/>
+            <point key="canvasLocation" x="7136.8000000000002" y="1277.8110944527737"/>
         </scene>
         <!--Main-->
         <scene sceneID="ijK-a7-hP4">
@@ -822,9 +1044,9 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
                     <connections>
-                        <segue destination="WUD-0Q-zZk" kind="relationship" relationship="viewControllers" id="vXx-E5-Ds1"/>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="7aN-fE-Mez"/>
-                        <segue destination="Owj-SF-3et" kind="relationship" relationship="viewControllers" id="3OG-6i-L0b"/>
+                        <segue destination="WUD-0Q-zZk" kind="relationship" relationship="viewControllers" id="by7-6c-h83"/>
+                        <segue destination="WIH-kh-89P" kind="relationship" relationship="viewControllers" id="npk-9X-uEZ"/>
+                        <segue destination="Owj-SF-3et" kind="relationship" relationship="viewControllers" id="3k9-rf-93F"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="J1i-UD-CI3" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -849,6 +1071,61 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aSu-ts-hRG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-110" y="1279"/>
+        </scene>
+        <!--Experiment-->
+        <scene sceneID="RGr-9h-fqW">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="WIH-kh-89P" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Experiment" image="ball_point_pen.png" id="Bqo-UI-AV1"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="egH-89-Gvx">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="pZD-sR-ttT"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="igF-im-5o9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1524" y="519.49025487256381"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="OBc-4b-Ahb">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="OO8-Zx-tsS" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Cfn-oN-Ht3">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Rlc-Hq-hGV" kind="relationship" relationship="rootViewController" id="80x-rm-wtk"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QFZ-s1-hYF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3282.4000000000001" y="483.50824587706148"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="PsM-Sy-Wlh">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="zZu-7q-a3M" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="vtK-YV-s1s">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Yqm-py-neD" kind="relationship" relationship="rootViewController" id="P35-Vf-8kt"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6eb-qh-HUP" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3605.5999999999999" y="1278.7106446776613"/>
         </scene>
     </scenes>
     <resources>

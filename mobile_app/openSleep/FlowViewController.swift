@@ -11,14 +11,15 @@ import AVKit
 import AVFoundation
 
 class FlowViewController:
-  UIViewController,
+  thinkOfRecordingsTableDelegate,
   DormioDelegate,
   UITextFieldDelegate {
 
   // Singletons
   var flowManager = FlowManager.shared
   var dormioManager = DormioManager.shared
-  var recordingsManager = RecordingsManager.shared
+  var dropDetector = DropDetector.shared
+
   var activeView : Int = -1
   
   var player : AVPlayer?
@@ -29,6 +30,7 @@ class FlowViewController:
   @IBOutlet weak var continue1Button: UIButton!
   @IBOutlet weak var continue2Button: UIButton!
   @IBOutlet weak var continue3Button: UIButton!
+  @IBOutlet weak var continueTimerBasedButton: UIButton!
   @IBOutlet weak var dreamButton: UIButton!
   @IBOutlet weak var dreamStageControl: UISegmentedControl!
   @IBOutlet weak var dreamLabel: UILabel!
@@ -40,6 +42,18 @@ class FlowViewController:
   @IBOutlet weak var sleepMessageLabel: UILabel!
   @IBOutlet weak var microphoneImage: UIImageView!
   @IBOutlet weak var dreamDetectorControl: UISegmentedControl!
+  
+  // Used in timer based mode
+  @IBOutlet weak var timeUntilSleep: UITextField!
+  @IBOutlet weak var phoneDropCalibrationTime: UIButton!
+  @IBOutlet weak var phoneDropCalibrationStartStop: UIButton!
+  
+  // If a false positive is detected in timer based version, then the user can add x seconds additional time
+  // TODO make timerFalsePostiveAdditionalTime configurable from experimental view
+  @IBOutlet weak var timerFalsePositiveButton: UIButton!
+  let timerFalsePositiveAdditionalTime = 60.0
+  
+  @IBOutlet weak var tableView: UITableView!
   
   var autoCompleteCharacterCount = 0
   var autoCompleteTimer = Timer()
@@ -78,6 +92,15 @@ class FlowViewController:
   var sessionDateTime: String = ""
   var getParams = ["String": "String"]
   
+  var alarmTimer = Timer()
+  
+  var maxWaitOnsetTimer = Timer() // timer used for triggering an onset when maxWaitOnset time is exceeded
+  
+  var falsePositive: Bool = false
+  
+  var isPhoneDropCalibrating: Bool = false // whether the user is calibrating the time until sleep with drop detection
+  var phoneDropCalibrationStartTime: Double = 0.0
+  
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -108,13 +131,19 @@ class FlowViewController:
       cb.setTitleColor(UIColor.lightGray, for: .disabled)
       activeView = 3
     }
+    if let cb = continueTimerBasedButton {
+      cb.isEnabled = false
+      cb.setTitleColor(UIColor.lightGray, for: .disabled)
+      timeUntilSleep.addTarget(self, action: #selector(timeUntilSleepDidChange(_:)), for: .editingChanged)
+      activeView = 7
+    }
     if let dsc = dreamStageControl {
-      print("AAA")
       flowManager.dreamStage = dsc.selectedSegmentIndex
       activeView = 4
     }
     if let noc = numOnsetsControl {
       flowManager.numOnsets = noc.selectedSegmentIndex + 1
+      print("number of onsets is \(flowManager.numOnsets)")
       activeView = 5
     }
     if dreamButton != nil {
@@ -124,10 +153,15 @@ class FlowViewController:
       HRLabel.text = ""
       EDALabel.text = ""
       flexLabel.text = ""
+      timerFalsePositiveButton.isHidden = true
     }
     
     getDeviceUUID()
-
+    
+    if let tV = tableView {
+      tableView.dataSource = self
+      tableView.delegate = self
+    }
       // Do any additional setup after loading the view.
   }
   
@@ -168,6 +202,7 @@ class FlowViewController:
     // TODO: set timer mode
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
+    flowManager.isTimerBased = true
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -180,6 +215,7 @@ class FlowViewController:
       self.connectButton.setTitle("Scanning...", for: .normal)
       
     }
+    flowManager.isTimerBased = false
   }
   
   @IBAction func recordWakupPressed(_ sender: UIButton) {
@@ -197,18 +233,31 @@ class FlowViewController:
   @IBAction func recordSleepPressed(_ sender: UIButton) {
     continue3Button.isEnabled = true
     if !isRecording {
-      recordingsManager.startRecording(mode: 0)
+      recordingsManager.startRecordingMulti(mode: 0)
       sender.isSelected = true
     } else {
       recordingsManager.stopRecording()
       sender.isSelected = false
+      tableView.reloadData()
     }
     isRecording = !isRecording
     
   }
+  
   @IBAction func continue1Pressed(_ sender: Any) {
     flowManager.dreamTitle = self.dreamText.text
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    let nextViewControllerID = (flowManager.isTimerBased) ? "timerStep" : "step3"
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: nextViewControllerID) as! FlowViewController
+    self.navigationController?.pushViewController(newViewController, animated: true)
+  }
+  
+  @IBAction func continueTimerBasedPressed(_ send: Any) {
+    let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    if let timeUntilSleepText = self.timeUntilSleep.text {
+      flowManager.timeUntilSleep = Int(timeUntilSleepText)!
+      print("FlowManager time until sleep = \(flowManager.timeUntilSleep)")
+    }
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step3") as! FlowViewController
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
@@ -223,55 +272,157 @@ class FlowViewController:
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
+  /*
+   Called when phone drop calibration is pressed
+   Starts accelerometers and that listen for a drop
+ */
+  @IBAction func phoneDropCalibrationPressed(_ sender: UIButton) {
+    print("Starting phone Drop Calibration!")
+    
+    if(!isPhoneDropCalibrating) {
+      sender.setTitle("Stop",for: .normal)
+      sender.setTitleColor(UIColor.red, for: .normal)
+      isPhoneDropCalibrating = true
+      phoneDropCalibrationStartTime = CFAbsoluteTimeGetCurrent()
+      dropDetector.startAccelerometers()
+      dropDetector.setCB(dropCB: dropCB)
+    } else {
+      sender.setTitle("Phone Drop Calibration Time:", for: .normal)
+      sender.setTitleColor(UIColor.white, for: .normal)
+      isPhoneDropCalibrating = false
+
+      phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
+      dropDetector.stopAccelerometers()
+    }
+  }
+  
+  /*
+    User will press this button when they are not asleep when timer mode dream catching has been triggered
+ */
+  @IBAction func timerFalsePositiveButtonPressed(_ sender: UIButton) {
+    print("Adding \(timerFalsePositiveAdditionalTime)'s to the time delay")
+    
+    self.timer.invalidate()
+    self.maxWaitOnsetTimer.invalidate()
+    self.recordingsManager.reset()
+    self.playedAudio = false
+    self.timerFalsePositiveButton.isHidden = true
+    self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timerFalsePositiveAdditionalTime, repeats: false, block: {
+      t in
+      self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
+  }
+  
+  /*
+   Callback function for when a drop is detected. Accelerometers are stopped and the time the drop occured is displayed on the screen
+ */
+  func dropCB() {
+    phoneDropCalibrationTime.setTitle(String(Int(CFAbsoluteTimeGetCurrent() - phoneDropCalibrationStartTime)) + " sec", for: .normal)
+    isPhoneDropCalibrating = false
+    phoneDropCalibrationStartStop.setTitle("Phone Drop Calibration Time:", for: .normal)
+    phoneDropCalibrationStartStop.setTitleColor(UIColor.white, for: .normal)
+    dropDetector.stopAccelerometers()
+  }
+  
+  /*
+   The recorded phone drop calibration time can be pressed to fill the timeUntilSleep text field
+ */
+  @IBAction func phoneDropCalibrationTimePressed(_ sender: UIButton) {
+    let t = phoneDropCalibrationTime.currentTitle!.components(separatedBy: " ")[0]
+    if t != "None" {
+      timeUntilSleep.text = t
+      continueTimerBasedButton.isEnabled = true
+    }
+  }
+
   @IBAction func dreamPressed(_ sender: Any) {
+    
     if (currentStatus == "IDLE") {
       dreamButton.setTitle("Cancel", for: .normal)
       dreamButton.setTitleColor(UIColor.red, for: .normal)
       dreamLabel.text = "Enjoy your dreams :)"
-
       currentStatus = "CALIBRATING"
+      self.numOnsets = 0
+      recordingsManager.calibrateSilenceThreshold()
       
-      self.detectSleepTimer.invalidate()
-      
-      SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+      if(!flowManager.isTimerBased) {
+        SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
           self.sessionDateTime = json["datetime"] as! String
           self.getParams["datetime"] = self.sessionDateTime
         })
-      self.calibrateStart()
-      self.numOnsets = 0
-      
-      self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
-        t in
-        self.recordingsManager.startPlaying(mode: 0)
+        self.detectSleepTimer.invalidate()
         
-        self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "calibrationTime") as! Int) - 30, repeats: false, block: {
+        self.calibrateStart()
+        
+        self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
           t in
-          self.currentStatus = "RUNNING"
-          self.calibrateEnd()
+          self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
           
-          SleepAPI.apiGet(endpoint: "train", params: self.getParams)
-          
-          self.detectSleepTimerPause = false
-          self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+          self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "calibrationTime") as! Int) - 30, repeats: false, block: {
+            t in
+            self.currentStatus = "RUNNING"
+            self.calibrateEnd()
+            
+            SleepAPI.apiGet(endpoint: "train", params: self.getParams)
+            
+            self.detectSleepTimerPause = false
+            self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+          })
         })
-      })
-      
+      }
+      else {
+        // Start the timer for timer based version
+        self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
+          print("Waiting for timeUntilSleep", self.flowManager.timeUntilSleep)
+          self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.flowManager.timeUntilSleep), repeats: false, block: {
+            t in
+              self.currentStatus = "RUNNING"
+              self.sleepDetected(trigger: OnsetTrigger.TIMER)
+            })
+      }
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
-      dreamButton.setTitle("Dream", for: .normal)
-      dreamButton.setTitleColor(UIColor.blue, for: .normal)
-      dreamLabel.text = "Relax for 30 seconds.\nWhen your bio-signals stabilize, press Dream"
-      currentStatus = "IDLE"
-      self.calibrateEnd()
-      
-      self.timer.invalidate()
-      self.detectSleepTimer.invalidate()
+      reset()
     }
   }
   
+  /*
+   Resets UI appearance, invalidates timers
+ */
+  func reset() {
+    dreamButton.setTitle("Dream", for: .normal)
+    dreamButton.setTitleColor(UIColor.blue, for: .normal)
+    dreamLabel.text = "Relax for 30 seconds.\nWhen your bio-signals stabilize, press Dream"
+    currentStatus = "IDLE"
+    playedAudio = false
+    falsePositive = false
+    self.calibrateEnd()
+    
+    self.timer.invalidate()
+    self.detectSleepTimer.invalidate()
+    self.recordingsManager.reset()
+    self.maxWaitOnsetTimer.invalidate()
+    self.alarmTimer.invalidate()
+    
+    self.timerFalsePositiveButton.isHidden = true
+  }
+  
+  /*
+   Hide keyboard/keypad when touching outside keyboard/keypad
+ */
+  override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+    self.view.endEditing(true)
+  }
+
+  @objc func timeUntilSleepDidChange(_ textfield:UITextField) {
+    print("Time until sleep text is: ",timeUntilSleep.text)
+    if(flowManager.isTimerBased) {
+      continueTimerBasedButton.isEnabled = timeUntilSleep.text != ""
+    }
+  }
   @objc func detectSleep(sender: Timer) {
+    print("TIMERBASED?", flowManager.isTimerBased)
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
-      var onsetTrigger: OnsetTrigger?
       
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       if (!self.detectSleepTimerPause && self.numOnsets == 0) {
@@ -298,50 +449,108 @@ class FlowViewController:
   
   func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
+    self.maxWaitOnsetTimer.invalidate()
+    
+    if(flowManager.isTimerBased) {
+      self.timerFalsePositiveButton.isHidden = false
+    }
+    
     print("Sleep!")
 
-    print("Sleep!")
     print("TRIGGER WAS", String(describing: trigger))
     
-    let json: [String : Any] = ["trigger" : String(describing: trigger),
+    var json: [String : Any] = ["trigger" : String(describing: trigger),
                                 "currDateTime" : Date().timeIntervalSince1970,
-                                "legitimate" : true,
                                 "deviceUUID": deviceUUID,
                                 "datetime": sessionDateTime]
-    SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
-    
     if (!self.playedAudio) {
+      
       self.playedAudio = true
       self.detectSleepTimerPause = true
       // pause timer
+      print("Waiting for Prompt time Delay:", flowManager.promptTimeDelay())
       self.timer = Timer.scheduledTimer(withTimeInterval: flowManager.promptTimeDelay(), repeats: false, block: {
         t in
+        
         self.recordingsManager.startPlaying(mode: 1)
-        self.numOnsets += 1
+        self.falsePositive = false
+        
         self.recordingsManager.doOnPlayingEnd = {
           self.microphoneImage.isHidden = false
-          self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!)
-        }
-        self.calibrateStart()
-        if (self.numOnsets < self.flowManager.numOnsets) {
-          self.timer = Timer.scheduledTimer(withTimeInterval: 60, repeats: false, block: {
-            t in
+          
+          self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!, silenceCallback: {() in
+            
+            print("SILENCE DETECTED!")
             self.recordingsManager.stopRecording()
-            self.recordingsManager.startPlaying(mode: 0)
-            self.microphoneImage.isHidden = true
-            self.playedAudio = false
-            self.detectSleepTimerPause = false
-            self.calibrateEnd()
+            if(self.flowManager.isTimerBased) {
+              self.timerFalsePositiveButton.isHidden = true
+            }
+            self.numOnsets += 1
+            json["legitimate"] = !self.falsePositive
             
+            if(!self.flowManager.isTimerBased) {
+              SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+            }
+            if (self.numOnsets < self.flowManager.numOnsets) {
+              self.transitionOnsetToSleep()
+            } else {
+              self.alarmTimer = Timer.scheduledTimer(withTimeInterval: self.flowManager.waitTimeForAlarm, repeats: false, block: { (t) in
+                self.wakeupAlarm()
+              })
+              }
             
-            self.timer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), repeats: false, block: {
-              t in
-              self.sleepDetected(trigger: OnsetTrigger.TIMER)
-            })
           })
         }
+        self.calibrateStart()
       })
     }
+  }
+  
+  /*
+    Called after onset is detected to setup next onset detection. After 30 seconds, will start playing the SLEEP audio.
+   Also sets up a timer for Timer triggered onset
+ */
+  func transitionOnsetToSleep() {
+    
+    let timeToNextOnset = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 45.0)
+    self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timeToNextOnset, repeats: false, block: {
+      t in
+      self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
+    
+    self.timer = Timer.scheduledTimer(withTimeInterval: 30, repeats: false, block: {
+      t in
+      self.recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
+      self.microphoneImage.isHidden = true
+      self.playedAudio = false
+      self.detectSleepTimerPause = false
+      self.calibrateEnd()
+      
+    })
+  }
+  
+  /*
+   Alarm after all onsets detected
+ */
+  func wakeupAlarm() {
+    print("All onsets detected, sounding alarm")
+    self.recordingsManager.alarm()
+    let alert = UIAlertController(title: "Wakeup!", message: "Dreamcatcher has caught \(self.numOnsets) dream(s).", preferredStyle: .alert)
+    alert.addAction(UIAlertAction(title: "Continue (+1 onset(s))", style: .default, handler: {action in
+      if(action.style == .default) {
+        self.flowManager.numOnsets = self.flowManager.numOnsets + 1
+        self.recordingsManager.stopAlarm()
+        self.transitionOnsetToSleep()
+      }
+    }))
+    alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: {action in
+      if(action.style == .cancel) {
+        print("Alarm Alert Dismissed")
+        self.recordingsManager.stopAlarm()
+        self.reset()
+      }
+    }))
+    self.present(alert, animated: true, completion: nil)
   }
   
   func dormioConnected() {
@@ -426,8 +635,10 @@ class FlowViewController:
   }
   
   
+  
   // AUTOCOMPLETE
   func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool { //1
+
     continue1Button.isEnabled = true
     
     var subString = (textField.text!.capitalized as NSString).replacingCharacters(in: range, with: string) // 2
@@ -502,19 +713,16 @@ class FlowViewController:
     autoCompleteCharacterCount = autoCompleteResult.count
     return autoCompleteResult
   }
-  // END AUTOCOMPLETE
- 
+
+  override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+    let cell = tableView.dequeueReusableCell(withIdentifier: "rememberToThinkOfCell", for: indexPath) as! ThinkOfRecordingCell
+    cell.label?.text = "Remember To Think Of (\(indexPath.row))"
+    return cell
+  }
   
-    
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
+  @IBAction func startEditing(_ sender: Any) {
+    tableView.isEditing = !tableView.isEditing
+    let b = sender as! UIBarButtonItem
+    b.title = (b.title == "Edit") ? "Done" : "Edit"
+  }
 }
