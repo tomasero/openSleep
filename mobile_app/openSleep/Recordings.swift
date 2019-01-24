@@ -254,7 +254,6 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
-  // To eyal: Right now, startRecording and startRecordingulti both exist, I could combine them, to allow for multiple wakeup prompts, or leave this as is
   /*
    Called to record multiple Remember to think of messages. Appends urls to the audioMultiUrls[0] array
  */
@@ -281,9 +280,6 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
-  // To eyal: Wondering if this is the best way to handle silence detection
-  // In particular, I feel like the silenceCallback is a little clunky
-      // Should I setup delegate functions instead?
   func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
     let audioSession = AVAudioSession.sharedInstance()
     let url = self.audioDirectoryURLwithTimestamp()
@@ -414,7 +410,6 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
-  // To Eyal: again I left in both startPlaying and startPlayingMulti, should i leave as is or combine them
   /*
     Plays the "REmember to think of" message corresponding to numOnset. If numOnset exceeds, the recordings wrap around
  */

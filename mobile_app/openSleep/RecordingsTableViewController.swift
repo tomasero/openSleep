@@ -125,10 +125,6 @@ class RecordingsTableViewController: UITableViewController, AVAudioPlayerDelegat
       }
   }
   
-  
-/*
-   To eyal: wondering if this is a good way to handle sharing audio file/setting up the gesture
- */
   /*
    Called to bring up ui to share/send a particulat audio recording
    */

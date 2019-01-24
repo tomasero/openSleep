@@ -16,6 +16,8 @@ class FlowManager : NSObject {
   var numOnsets : Int = 3
   var timeUntilSleep: Int = 60
   var waitTimeForAlarm: Double = 10
+  
+  var isTimerBased: Bool = false
 
   private override init () {
     super.init()

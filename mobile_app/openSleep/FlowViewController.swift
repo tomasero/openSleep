@@ -98,7 +98,6 @@ class FlowViewController:
   
   var falsePositive: Bool = false
   
-  var timerBased: Bool = false // whether user is in time based dreamcatching or not
   var isPhoneDropCalibrating: Bool = false // whether the user is calibrating the time until sleep with drop detection
   var phoneDropCalibrationStartTime: Double = 0.0
   
@@ -203,7 +202,7 @@ class FlowViewController:
     // TODO: set timer mode
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
-    prepareTimerViewController(vc:newViewController)
+    flowManager.isTimerBased = true
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -216,7 +215,7 @@ class FlowViewController:
       self.connectButton.setTitle("Scanning...", for: .normal)
       
     }
-    timerBased = false
+    flowManager.isTimerBased = false
   }
   
   @IBAction func recordWakupPressed(_ sender: UIButton) {
@@ -245,17 +244,11 @@ class FlowViewController:
     
   }
   
-  //TO eyal: to make sure that later view controllers remember if the user selected time based dreamcatching, I have
-  // the if(timerbased) conditoinal in every continue function.
-  // Is there a better way to do this? The "prepare" function for segue transitions is not called for some reason
   @IBAction func continue1Pressed(_ sender: Any) {
     flowManager.dreamTitle = self.dreamText.text
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
-    let nextViewControllerID = (timerBased) ? "timerStep" : "step3"
+    let nextViewControllerID = (flowManager.isTimerBased) ? "timerStep" : "step3"
     let newViewController = storyBoard.instantiateViewController(withIdentifier: nextViewControllerID) as! FlowViewController
-    if(timerBased) {
-      prepareTimerViewController(vc: newViewController)
-    }
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -266,9 +259,6 @@ class FlowViewController:
       print("FlowManager time until sleep = \(flowManager.timeUntilSleep)")
     }
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step3") as! FlowViewController
-    if(timerBased) {
-      prepareTimerViewController(vc: newViewController)
-    }
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -279,9 +269,6 @@ class FlowViewController:
     print("Moving to step " + String(activeView + 2))
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step" + String(activeView + 2)) as! FlowViewController
-    if(timerBased) {
-      prepareTimerViewController(vc: newViewController)
-    }
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -358,7 +345,7 @@ class FlowViewController:
       self.numOnsets = 0
       recordingsManager.calibrateSilenceThreshold()
       
-      if(!timerBased) {
+      if(!flowManager.isTimerBased) {
         SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
           self.sessionDateTime = json["datetime"] as! String
           self.getParams["datetime"] = self.sessionDateTime
@@ -421,13 +408,6 @@ class FlowViewController:
   }
   
   /*
-   Make sure the successive view controllers remember that timer based mode is enabled, if chosen at the first vc
- */
-  func prepareTimerViewController(vc:FlowViewController) {
-    vc.timerBased = true
-  }
-  
-  /*
    Hide keyboard/keypad when touching outside keyboard/keypad
  */
   override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
@@ -436,12 +416,12 @@ class FlowViewController:
 
   @objc func timeUntilSleepDidChange(_ textfield:UITextField) {
     print("Time until sleep text is: ",timeUntilSleep.text)
-    if(timerBased) {
+    if(flowManager.isTimerBased) {
       continueTimerBasedButton.isEnabled = timeUntilSleep.text != ""
     }
   }
   @objc func detectSleep(sender: Timer) {
-    print("TIMERBASED?", timerBased)
+    print("TIMERBASED?", flowManager.isTimerBased)
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
       
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
@@ -471,7 +451,7 @@ class FlowViewController:
     self.timer.invalidate()
     self.maxWaitOnsetTimer.invalidate()
     
-    if(self.timerBased) {
+    if(flowManager.isTimerBased) {
       self.timerFalsePositiveButton.isHidden = false
     }
     
@@ -502,13 +482,13 @@ class FlowViewController:
             
             print("SILENCE DETECTED!")
             self.recordingsManager.stopRecording()
-            if(self.timerBased) {
+            if(self.flowManager.isTimerBased) {
               self.timerFalsePositiveButton.isHidden = true
             }
             self.numOnsets += 1
             json["legitimate"] = !self.falsePositive
             
-            if(!self.timerBased) {
+            if(!self.flowManager.isTimerBased) {
               SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
             }
             if (self.numOnsets < self.flowManager.numOnsets) {
