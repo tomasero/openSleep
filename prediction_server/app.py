@@ -202,7 +202,7 @@ def getUsers():
     user_dict = {}
     for data_file in os.listdir(config.data_filepath):
         data_file_split = data_file.split('_')
-        if len(data_file_split == 3):
+        if len(data_file_split) == 3:
             device_uuid = data_file_split[0]
             date_time = data_file_split[1] + '_' + data_file_split[2].split('.csv')[0]
             if device_uuid not in user_dict.keys():
