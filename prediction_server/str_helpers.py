@@ -17,3 +17,6 @@ def get_baseline_filename(device_uuid, date_time):
 
 def get_report_trigger_filename(device_uuid, date_time):
 	return config.data_filepath + make_suffix(device_uuid, date_time)+"_triggers.csv"
+
+def get_hboss_filename(device_uuid, date_time):
+	return config.data_filepath + make_suffix(device_uuid, date_time) + "_hboss" + ".csv"

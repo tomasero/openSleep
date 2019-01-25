@@ -150,12 +150,19 @@ def predict():
     """
 
     y = clf.decision_function(X) - baseline['hboss_base']
+    mean_sleep = np.mean(y)
+    max_sleep = np.max(y)
+    curr_time = time.time()
+
+    with open(get_hboss_filename(device_uuid, date_time), 'a+') as f:
+        writer = csv.writer(f)
+        writer.writerow((mean_sleep, max_sleep, start_time, curr_time))
 
     return jsonify({"status" : 0,
         "sleep" : list(y),
-        "mean_sleep" : np.mean(y),
-        "max_sleep" : np.max(y),
-        "time" : (time.time() - start_time)
+        "mean_sleep" : mean_sleep,
+        "max_sleep" : max_sleep,
+        "time" : (curr_time - start_time)
     })
 
 @app.route('/reportTrigger', methods=['POST'])
@@ -203,6 +210,13 @@ def getUsers():
     print(user_dict)
     return json.dumps(user_dict)
 
+@app.route('/getHBOSS', methods=['GET'])
+def getHBOSS():
+    device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
+
+    with open(get_hboss_filename(device_uuid, date_time), 'r') as f:
+        rows = f.read().splitlines()
+    return "||||"+"|".join(rows)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
