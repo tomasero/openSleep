@@ -56,7 +56,7 @@ class ViewController: UIViewController,
   @IBOutlet weak var meanEDALabel: UILabel!
   
   @IBOutlet weak var uuidLabel: UILabel! // Display UUID in experimental mode to cross reference with filenames on server
-  @IBOutlet weak var uuidSuffixText: UITextField!
+  @IBOutlet weak var uuidPrefixText: UITextField!
   
   @IBOutlet weak var infoButton: UIButton! // Button near nav bar to provide descriptions for parameters in experimental mode
     
@@ -150,8 +150,8 @@ class ViewController: UIViewController,
     }
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
     
-    if let suffix = UserDefaults.standard.object(forKey: "phoneUUIDSuffix"){
-      deviceUUID = (suffix as! String) + "_" + deviceUUID
+    if let prefix = UserDefaults.standard.object(forKey: "phoneUUIDPrefix"){
+      deviceUUID = (prefix as! String) + "_" + deviceUUID
     }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
@@ -161,8 +161,8 @@ class ViewController: UIViewController,
     return deviceUUID
   }
   
-  func setUUIDSuffix(_ suffix: String) {
-    UserDefaults.standard.set(suffix, forKey: "phoneUUIDSuffix")
+  func setUUIDPrefix(_ prefix: String) {
+    UserDefaults.standard.set(prefix, forKey: "phoneUUIDPrefix")
     getDeviceUUID()
   }
   
@@ -324,8 +324,8 @@ class ViewController: UIViewController,
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
     
-    if let suffix = defaults.object(forKey: "phoneUUIDSuffix") {
-      uuidSuffixText?.text = suffix as! String
+    if let prefix = defaults.object(forKey: "phoneUUIDPrefix") {
+      uuidPrefixText?.text = prefix as! String
     }
     
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
@@ -645,11 +645,11 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
   @IBAction func EDAChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaEDAText.text!), forKey: "deltaEDA")
   }
-  @IBAction func uuidSuffixTextChanged(_ sender: Any) {
+  @IBAction func uuidPrefixTextChanged(_ sender: Any) {
     var uuid = getDeviceUUID()
     
-    if let suffix = uuidSuffixText.text {
-      setUUIDSuffix(suffix)
+    if let prefix = uuidPrefixText.text {
+      setUUIDPrefix(prefix)
     }
   }
 
