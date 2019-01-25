@@ -159,7 +159,7 @@ class ViewController: UIViewController,
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
     
     if let prefix = UserDefaults.standard.object(forKey: "phoneUUIDPrefix"){
-      deviceUUID = (prefix as! String) + "_" + deviceUUID
+      deviceUUID = (prefix as! String) + "-" + deviceUUID
     }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
@@ -468,6 +468,7 @@ class ViewController: UIViewController,
         t in
         
         if (self.flexAnalyzer.isFalsePositive()) {
+          // Need to invalidate timers, delete any false-positve audio recordings, and transition back to trying to sleep
           print("False Positive Detected during sleepDetected!")
           self.falsePositiveTimer.invalidate()
           self.timer.invalidate()

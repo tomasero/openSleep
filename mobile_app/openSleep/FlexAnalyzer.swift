@@ -23,9 +23,10 @@ class FlexAnalyzer: NSObject {
   var state: FlexState = .OPEN
   var openTransitionTime: Double = 0
   var CloseTimeThresh: Double = 1.75 // at least one second in closed to detect False Positive
+  var maxTimeBetweenFlexes: Double = 5
   
   var numFlexes: Int = 0
-  
+  var firstFlexTime: Double = 0
   var numFalsePositives: Int = 0
   
   var falsePositive: Bool = false
@@ -72,11 +73,19 @@ class FlexAnalyzer: NSObject {
       if(NSDate().timeIntervalSince1970 - openTransitionTime <= CloseTimeThresh) {
         numFlexes += 1
         state = .OPENING
-        if(numFlexes == 2) {
-          numFlexes = 0
-          numFalsePositives += 1
-          print("NumFalse Positives:", numFalsePositives)
-          falsePositive = true
+        if numFlexes == 1 {
+          firstFlexTime = NSDate().timeIntervalSince1970
+        }
+        else if(numFlexes == 2) {
+          if(NSDate().timeIntervalSince1970 - firstFlexTime < maxTimeBetweenFlexes) {
+            numFlexes = 0
+            numFalsePositives += 1
+            print("NumFalse Positives:", numFalsePositives)
+            falsePositive = true
+          } else {
+            numFlexes = 1
+            firstFlexTime = NSDate().timeIntervalSince1970
+          }
         }
       }
     case FlexState.OPENING:
