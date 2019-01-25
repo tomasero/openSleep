@@ -56,6 +56,7 @@ class ViewController: UIViewController,
   @IBOutlet weak var meanEDALabel: UILabel!
   
   @IBOutlet weak var uuidLabel: UILabel! // Display UUID in experimental mode to cross reference with filenames on server
+  @IBOutlet weak var uuidSuffixText: UITextField!
   
   @IBOutlet weak var infoButton: UIButton! // Button near nav bar to provide descriptions for parameters in experimental mode
     
@@ -143,15 +144,26 @@ class ViewController: UIViewController,
     Checks if device uuid is in local storage, if not creates one
     Adds the deviceUUID to the getParams dictionary
  */
-  func getDeviceUUID() {
+  func getDeviceUUID()-> String {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
     }
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+    
+    if let suffix = UserDefaults.standard.object(forKey: "phoneUUIDSuffix"){
+      deviceUUID = (suffix as! String) + "_" + deviceUUID
+    }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
     uuidLabel.center.x = self.view.center.x
     getParams["deviceUUID"] = deviceUUID
+    print("DEVICE UUID GOTTEN:", deviceUUID)
+    return deviceUUID
+  }
+  
+  func setUUIDSuffix(_ suffix: String) {
+    UserDefaults.standard.set(suffix, forKey: "phoneUUIDSuffix")
+    getDeviceUUID()
   }
   
   /*
@@ -311,6 +323,10 @@ class ViewController: UIViewController,
     deltaEDAText?.text = String(defaults.object(forKey: "deltaEDA") as! Int)
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
+    
+    if let suffix = defaults.object(forKey: "phoneUUIDSuffix") {
+      uuidSuffixText?.text = suffix as! String
+    }
     
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
@@ -628,6 +644,13 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
   }
   @IBAction func EDAChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaEDAText.text!), forKey: "deltaEDA")
+  }
+  @IBAction func uuidSuffixTextChanged(_ sender: Any) {
+    var uuid = getDeviceUUID()
+    
+    if let suffix = uuidSuffixText.text {
+      setUUIDSuffix(suffix)
+    }
   }
 
   func adaptivePresentationStyleForPresentationController(controller: UIPresentationController) -> UIModalPresentationStyle {
