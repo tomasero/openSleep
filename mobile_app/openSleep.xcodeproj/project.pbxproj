@@ -31,6 +31,7 @@
 		3922131021A9C4E00002A9DC /* SleepAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922130F21A9C4E00002A9DC /* SleepAPI.swift */; };
 		3922131221AA64630002A9DC /* FlowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922131121AA64630002A9DC /* FlowViewController.swift */; };
 		3934E9C9219F5312007049D8 /* HeartQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3934E9C8219F5312007049D8 /* HeartQueue.swift */; };
+		395516F521FBB68600FEE34F /* FlexAnalyzer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395516F421FBB68600FEE34F /* FlexAnalyzer.swift */; };
 		3956DBE921AB27B40039E652 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3956DBE821AB27B40039E652 /* Flow.swift */; };
 		3956DBED21AB49410039E652 /* play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEA21AB49400039E652 /* play@2x.png */; };
 		3956DBEE21AB49410039E652 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3956DBEB21AB49410039E652 /* play.png */; };
@@ -87,6 +88,7 @@
 		3922130F21A9C4E00002A9DC /* SleepAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleepAPI.swift; sourceTree = "<group>"; };
 		3922131121AA64630002A9DC /* FlowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowViewController.swift; sourceTree = "<group>"; };
 		3934E9C8219F5312007049D8 /* HeartQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartQueue.swift; sourceTree = "<group>"; };
+		395516F421FBB68600FEE34F /* FlexAnalyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlexAnalyzer.swift; sourceTree = "<group>"; };
 		3956DBE821AB27B40039E652 /* Flow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flow.swift; sourceTree = "<group>"; };
 		3956DBEA21AB49400039E652 /* play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@2x.png"; sourceTree = "<group>"; };
 		3956DBEB21AB49410039E652 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 				9051B709218C8BE20018B3E1 /* simulatedData.csv */,
 				FF6F7C541FDA1BE60034F388 /* AppDelegate.swift */,
 				FF6F7C561FDA1BE60034F388 /* ViewController.swift */,
+				395516F421FBB68600FEE34F /* FlexAnalyzer.swift */,
 				FF6F7C581FDA1BE60034F388 /* Main.storyboard */,
 				3997731121F505400098CB68 /* ThinkOfRecordingTableViewController.swift */,
 				FF6F7C5B1FDA1BE60034F388 /* Assets.xcassets */,
@@ -333,6 +336,7 @@
 			files = (
 				3997731021E29ECE0098CB68 /* DropDetector.swift in Sources */,
 				FF6F7C571FDA1BE60034F388 /* ViewController.swift in Sources */,
+				395516F521FBB68600FEE34F /* FlexAnalyzer.swift in Sources */,
 				39F0C10621B23F3B001F985A /* ID.swift in Sources */,
 				395F384921F6B4DD00291568 /* thinkOfRecordingsTableDelegate.swift in Sources */,
 				3956DBE921AB27B40039E652 /* Flow.swift in Sources */,

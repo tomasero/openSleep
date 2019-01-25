@@ -30,6 +30,8 @@ class ViewController: UIViewController,
   var dormioManager = DormioManager.shared
   var recordingsManager = RecordingsManager.shared
   
+  var flexAnalyzer = FlexAnalyzer.shared
+  
   @IBOutlet weak var flexValue: UILabel!
   @IBOutlet weak var EDAValue: UILabel!
   @IBOutlet weak var HRValue: UILabel!
@@ -68,6 +70,9 @@ class ViewController: UIViewController,
  
   var detectSleepTimer = Timer()
   var detectSleepTimerPause : Bool = false
+  
+  var falsePositiveTimer = Timer()
+  var falsePositiveTimerInterval = 0.2
   
   var edaBuffer = [UInt32]()
   var flexBuffer = [UInt32]()
@@ -126,6 +131,9 @@ class ViewController: UIViewController,
     flexValue.text = String(flex);
     EDAValue.text = String(eda);
     hrQueue.put(hr: hr)
+    
+    flexAnalyzer.detectFalsePositive(flex: flex)
+
     if (Date().timeIntervalSince1970 - lastHrUpdate > 1) {
       lastHrUpdate = Date().timeIntervalSince1970
       HRValue.text = String(hrQueue.bpm())
@@ -157,7 +165,6 @@ class ViewController: UIViewController,
     uuidLabel.sizeToFit()
     uuidLabel.center.x = self.view.center.x
     getParams["deviceUUID"] = deviceUUID
-    print("DEVICE UUID GOTTEN:", deviceUUID)
     return deviceUUID
   }
   
@@ -277,6 +284,9 @@ class ViewController: UIViewController,
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
         })
+        
+        //FOR TESTING:
+//        self.sleepDetected(trigger: .TIMER)
       })
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
@@ -294,10 +304,14 @@ class ViewController: UIViewController,
     currentStatus = "IDLE"
     playedAudio = false
     falsePositive = false
+    
+    detectSleepTimerPause = true
+    
     self.calibrateEnd()
     self.timer.invalidate()
     self.detectSleepTimer.invalidate()
     self.alarmTimer.invalidate()
+    self.falsePositiveTimer.invalidate()
     
     self.recordingsManager.reset()
     
@@ -441,12 +455,31 @@ class ViewController: UIViewController,
                                 "currDateTime" : Date().timeIntervalSince1970,
                                 "deviceUUID": deviceUUID,
                                 "datetime": sessionDateTime]
-
+    
+    flexAnalyzer.resetFalsePositive()
+    
     if (!self.playedAudio) {
       self.playedAudio = true
       self.startButton.setTitle("SLEEP!", for: .normal)
       self.detectSleepTimerPause = true
       // pause timer
+      
+      self.falsePositiveTimer = Timer.scheduledTimer(withTimeInterval: falsePositiveTimerInterval, repeats: true, block: {
+        t in
+        
+        if (self.flexAnalyzer.isFalsePositive()) {
+          print("False Positive Detected during sleepDetected!")
+          self.falsePositiveTimer.invalidate()
+          self.timer.invalidate()
+          json["legitimate"] = false
+          SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+          self.recordingsManager.stopRecording()
+          self.recordingsManager.deleteCurrentDream()
+          self.recordingsManager.reset()
+          self.transitionOnsetToSleep()
+        }
+      })
+      
       self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.promptTimeText.text!)!, repeats: false, block: {
         t in
         
@@ -454,7 +487,6 @@ class ViewController: UIViewController,
 
         
         self.recordingsManager.startPlaying(mode: 1)
-        self.numOnsets += 1
 
         self.recordingsManager.doOnPlayingEnd = { // Start of recordingsManager.doOnPlayingEnd
           self.startButton.setTitle("RECORDING", for: .normal)
@@ -462,10 +494,13 @@ class ViewController: UIViewController,
           // silenceCallback is called from recordingsManager once silence is detected
           self.recordingsManager.startRecordingDream(dreamTitle: "Experiment", silenceCallback: { () in // Start of silenceCallback
             
-            print("Silence Detected, or max recording time elapsed")
+            self.numOnsets += 1
             
+            print("Silence Detected, or max recording time elapsed")
             self.recordingsManager.stopRecording()
-            json["legitimate"] = !self.falsePositive
+            self.falsePositiveTimer.invalidate()
+
+            json["legitimate"] = true
             SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
             
             // If stil have onsets to catch, continue, else, sound alarm
@@ -520,6 +555,7 @@ func transitionOnsetToSleep() {
     // detecting onsets
     alert.addAction(UIAlertAction(title: "Continue (+3 onset(s))", style: .default, handler: {action in
       if(action.style == .default) {
+        print("Adding more onsets")
         self.numOnsetsText.text = String(Int(self.numOnsetsText.text!)! + 3)
         self.recordingsManager.stopAlarm()
         self.transitionOnsetToSleep()

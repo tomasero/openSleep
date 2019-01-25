@@ -55,6 +55,8 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
 
   var doOnPlayingEnd : (() -> ())? = nil
   
+  var currentDreamRecordingURL: URL? = nil
+  
   private override init() {
     super.init()
     
@@ -283,6 +285,9 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
     let audioSession = AVAudioSession.sharedInstance()
     let url = self.audioDirectoryURLwithTimestamp()
+    
+    currentDreamRecordingURL = url
+    
     do {
       if url != nil {
         audioRecorder = try AVAudioRecorder(url: url! as URL,
@@ -334,6 +339,19 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   func stopRecording() {
     print("stopping recording")
     audioRecorder.stop()
+  }
+  
+  func deleteCurrentDream() {
+    let fileManager = FileManager.default
+    
+    if let fileToDelete = currentDreamRecordingURL {
+      print("Deleting: ", fileToDelete)
+      do {
+        try fileManager.removeItem(at: fileToDelete)
+      } catch {
+        print("Attempting to delete file that does not exist!", fileToDelete)
+      }
+    }
   }
   
   /*
