@@ -139,9 +139,9 @@ class ViewController: UIViewController,
     EDAValue.text = String(eda);
     hrQueue.put(hr: hr)
     
-    if(sleepIsDetected) {
+//    if(sleepIsDetected) {
       flexAnalyzer.detectFalsePositive(flex: flex)
-    }
+//    }
 
     if (Date().timeIntervalSince1970 - lastHrUpdate > 1) {
       lastHrUpdate = Date().timeIntervalSince1970
@@ -253,7 +253,7 @@ class ViewController: UIViewController,
   }
   
   @IBAction func startButtonPressed(sender: UIButton) {
-  
+    
     if (currentStatus == "IDLE") {
       startButton.setTitle("WAITING", for: .normal)
       startButton.setTitleColor(UIColor.red, for: .normal)
@@ -266,6 +266,8 @@ class ViewController: UIViewController,
       
       self.detectSleepTimer.invalidate()
       
+      setFalsePositiveFlexParams()
+
       //TODO also send the parameters, deltas, to the server
       SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
         self.sessionDateTime = json["datetime"] as! String
@@ -363,6 +365,9 @@ class ViewController: UIViewController,
       maxRecordingTimeText?.text = String(val as! Int)
     }
     
+    setFalsePositiveFlexParams()
+    setRecordingTimes()
+
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
@@ -373,7 +378,7 @@ class ViewController: UIViewController,
   }
   
   func areRequiredParametersSet()-> Bool {
-    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "")
+    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "") && (falsePosFlexOpenText.text != "") && (falsePosFlexClosedText.text != "") && (minRecordingTimeText.text != "") && (maxRecordingTimeText.text != "")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -650,6 +655,18 @@ func transitionOnsetToSleep() {
     self.EDAValue.textColor = UIColor.black
     self.HBOSSLabel.textColor = UIColor.black
   }
+  
+  func setRecordingTimes() {
+    let minTime = UserDefaults.standard.object(forKey: "minRecordingTime")
+    let maxTime = UserDefaults.standard.object(forKey: "maxRecordingTime")
+    recordingsManager.configureRecordingTime(min: minTime, max: maxTime)
+  }
+  
+  func setFalsePositiveFlexParams() {
+    let falsePosFlexOpen = UserDefaults.standard.object(forKey: "falsePosFlexOpen")
+    let falsePosFlexClosed = UserDefaults.standard.object(forKey: "falsePosFlexClosed")
+    flexAnalyzer.configureFalsePositiveParams(open: falsePosFlexOpen, closed: falsePosFlexClosed)
+  }
 /*
   Displays alert providing information about the paramters in the experimental view
    Text needs to be cleaned up and formated with bolding, etc.
@@ -717,25 +734,33 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
   @IBAction func falsePosFlexOpenTextChanged(_ sender: Any) {
     if let num = Int(falsePosFlexOpenText.text!) {
       UserDefaults.standard.set(num, forKey: "falsePosFlexOpen")
+      setFalsePositiveFlexParams()
     }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
 
   @IBAction func falsePosFlexClosedTextChanged(_ sender: Any) {
     if let num = Int(falsePosFlexClosedText.text!) {
       UserDefaults.standard.set(num, forKey: "falsePosFlexClosed")
+      setFalsePositiveFlexParams()
     }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   
   @IBAction func minRecordingTimeTextChanged(_ sender: Any) {
     if let num = Int(minRecordingTimeText.text!) {
       UserDefaults.standard.set(num, forKey: "minRecordingTime")
+      setRecordingTimes()
     }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   
   @IBAction func maxRecordingTimeTextChanged(_ sender: Any) {
     if let num = Int(maxRecordingTimeText.text!) {
       UserDefaults.standard.set(num, forKey: "maxRecordingTime")
+      setRecordingTimes()
     }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   func adaptivePresentationStyleForPresentationController(controller: UIPresentationController) -> UIModalPresentationStyle {
     print("in adaptivePresentationStyleForPresentationController")

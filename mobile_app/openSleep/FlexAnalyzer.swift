@@ -17,8 +17,8 @@ class FlexAnalyzer: NSObject {
     case OPENING
   }
   
-  let openThresh: Int = 650
-  let closedThresh: Int = 430
+  var openThresh: Int = 650
+  var closedThresh: Int = 430
   
   var state: FlexState = .OPEN
   var openTransitionTime: Double = 0
@@ -47,6 +47,16 @@ class FlexAnalyzer: NSObject {
   
   func resetFalsePositive() {
     falsePositive = false
+  }
+  
+  func configureFalsePositiveParams(open: Any?, closed: Any?) {
+    if let _open = open{
+      openThresh = _open as! Int
+    }
+    if let _closed = closed {
+      closedThresh = _closed as! Int
+    }
+    print("Flex params are now:", openThresh, closedThresh)
   }
   
   func detectFalsePositive(flex: UInt32) {

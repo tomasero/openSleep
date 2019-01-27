@@ -41,9 +41,8 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   let silenceTimeThreshold = 8.0 // how much silenceTime before ending recording
   var recordingTimeElapsed = 0.0
   
-  //TODO: Make these parameters configurable from experimental view
-  let maxRecordingTime = 120.0
-  let minRecordingTime = 30.0
+  var maxRecordingTime = 120.0
+  var minRecordingTime = 30.0
   
   var calibrationSilenceThresh:Float = -35.0 // determined by calibrateSilenceThreshold(), called when start/dream is pressed
   var elapsedCalTime:Float = 0.0
@@ -321,7 +320,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         } else {
           self.silenceTime = 0.0
         }
-//        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
+        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
         
         // if silenceTime threshold is reached or if maxrecordingtime is reached, exit
         if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {
@@ -457,6 +456,17 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   
   func stopAlarm() {
     self.alarmPlayer.stop()
+  }
+  
+  func configureRecordingTime(min: Any?, max: Any?) {
+    if let _min = min {
+      minRecordingTime = _min as! Double
+    }
+    if let _max = max {
+      maxRecordingTime = _max as! Double
+    }
+    
+    print("Min \(minRecordingTime) sec recording time, Max \(maxRecordingTime) sec recording time")
   }
   
   func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
