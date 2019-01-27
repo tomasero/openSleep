@@ -61,7 +61,13 @@ class ViewController: UIViewController,
   @IBOutlet weak var uuidPrefixText: UITextField!
   
   @IBOutlet weak var infoButton: UIButton! // Button near nav bar to provide descriptions for parameters in experimental mode
-    
+  
+  @IBOutlet weak var falsePosFlexOpenText: UITextField!
+  @IBOutlet weak var falsePosFlexClosedText: UITextField!
+  
+  @IBOutlet weak var minRecordingTimeText: UITextField!
+  @IBOutlet weak var maxRecordingTimeText: UITextField!
+  
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
   var recordingPrompt: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -115,6 +121,7 @@ class ViewController: UIViewController,
 //  var porcupineManager: PorcupineManager? = nil
   var falsePositive: Bool = false // whether the detected onset was a false positive
   
+  var sleepIsDetected: Bool = false
   
   func dormioConnected() {
     print("Connected")
@@ -132,7 +139,9 @@ class ViewController: UIViewController,
     EDAValue.text = String(eda);
     hrQueue.put(hr: hr)
     
-    flexAnalyzer.detectFalsePositive(flex: flex)
+    if(sleepIsDetected) {
+      flexAnalyzer.detectFalsePositive(flex: flex)
+    }
 
     if (Date().timeIntervalSince1970 - lastHrUpdate > 1) {
       lastHrUpdate = Date().timeIntervalSince1970
@@ -338,8 +347,20 @@ class ViewController: UIViewController,
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
     
+    if let val = defaults.object(forKey: "falsePosFlexOpen") {
+      falsePosFlexOpenText?.text = String(val as! Int)
+    }
+    if let val = defaults.object(forKey: "falsePosFlexClosed") {
+      falsePosFlexClosedText?.text = String(val as! Int)
+    }
     if let prefix = defaults.object(forKey: "phoneUUIDPrefix") {
       uuidPrefixText?.text = prefix as! String
+    }
+    if let val = defaults.object(forKey: "minRecordingTime") {
+      minRecordingTimeText?.text = String(val as! Int)
+    }
+    if let val = defaults.object(forKey: "maxRecordingTime") {
+      maxRecordingTimeText?.text = String(val as! Int)
     }
     
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
@@ -456,6 +477,8 @@ class ViewController: UIViewController,
                                 "deviceUUID": deviceUUID,
                                 "datetime": sessionDateTime]
     
+    sleepIsDetected = true
+    
     flexAnalyzer.resetFalsePositive()
     
     if (!self.playedAudio) {
@@ -526,6 +549,7 @@ class ViewController: UIViewController,
   Called at the end of an onset to setup detection of the next onset
  */
 func transitionOnsetToSleep() {
+    sleepIsDetected = false
     recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
     playedAudio = false
     startButton.setTitle("WAITING FOR SLEEP", for: .normal)
@@ -689,7 +713,30 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
       setUUIDPrefix(prefix)
     }
   }
+  
+  @IBAction func falsePosFlexOpenTextChanged(_ sender: Any) {
+    if let num = Int(falsePosFlexOpenText.text!) {
+      UserDefaults.standard.set(num, forKey: "falsePosFlexOpen")
+    }
+  }
 
+  @IBAction func falsePosFlexClosedTextChanged(_ sender: Any) {
+    if let num = Int(falsePosFlexClosedText.text!) {
+      UserDefaults.standard.set(num, forKey: "falsePosFlexClosed")
+    }
+  }
+  
+  @IBAction func minRecordingTimeTextChanged(_ sender: Any) {
+    if let num = Int(minRecordingTimeText.text!) {
+      UserDefaults.standard.set(num, forKey: "minRecordingTime")
+    }
+  }
+  
+  @IBAction func maxRecordingTimeTextChanged(_ sender: Any) {
+    if let num = Int(maxRecordingTimeText.text!) {
+      UserDefaults.standard.set(num, forKey: "maxRecordingTime")
+    }
+  }
   func adaptivePresentationStyleForPresentationController(controller: UIPresentationController) -> UIModalPresentationStyle {
     print("in adaptivePresentationStyleForPresentationController")
     return UIModalPresentationStyle.none
