@@ -34,7 +34,7 @@ def init():
         if os.path.exists(device_data_folder):
             pass
         else:
-            os.mkdir(device_data_folder)
+            os.makedirs(device_data_folder)
 
         data_filename = get_data_filename(device_uuid, date_time)
 
@@ -213,14 +213,11 @@ def getTriggers():
 @app.route('/getUsers', methods=['GET'])
 def getUsers():
     user_dict = {}
-    for data_file in os.listdir(config.data_filepath):
-        data_file_split = data_file.split('_')
-        if len(data_file_split) == 3:
-            device_uuid = data_file_split[0]
-            date_time = data_file_split[1] + '_' + data_file_split[2].split('.csv')[0]
+    for device_uuid in os.listdir(config.data_filepath):
+        for datetime in os.listdir(config.data_filepath+device_uuid):
             if device_uuid not in user_dict.keys():
                 user_dict[device_uuid] = []
-            user_dict[device_uuid].append(date_time)
+            user_dict[device_uuid].append(datetime)
     print(user_dict)
     return json.dumps(user_dict)
 
