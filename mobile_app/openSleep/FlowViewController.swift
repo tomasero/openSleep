@@ -94,8 +94,8 @@ class FlowViewController:
   
   var deviceUUID: String = ""
   var sessionDateTime: String = ""
-  var getParams = ["String": "String"]
-  
+  var getParams: [String: String] = [:]// parameters sent with get api calls to server
+
   var alarmTimer = Timer()
   
   var maxWaitOnsetTimer = Timer() // timer used for triggering an onset when maxWaitOnset time is exceeded
@@ -353,9 +353,11 @@ class FlowViewController:
       recordingsManager.calibrateSilenceThreshold()
       
       if(!flowManager.isTimerBased) {
-        SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+        let initParams = getInitParams()
+        SleepAPI.apiGet(endpoint: "init", params: initParams, onSuccess: {json in
           self.sessionDateTime = json["datetime"] as! String
           self.getParams["datetime"] = self.sessionDateTime
+          print("Sent these params: ", initParams,"getParams:", self.getParams)
         })
         self.detectSleepTimer.invalidate()
         
@@ -685,6 +687,51 @@ class FlowViewController:
     let falsePosFlexOpen = UserDefaults.standard.object(forKey: "falsePosFlexOpen")
     let falsePosFlexClosed = UserDefaults.standard.object(forKey: "falsePosFlexClosed")
     flexAnalyzer.configureFalsePositiveParams(open: falsePosFlexOpen, closed: falsePosFlexClosed)
+  }
+  
+  func getInitParams()-> [String: String] {
+    
+    var ret = getParams
+    ret["promptLatency"] = String(flowManager.promptTimeDelay())
+    ret["numberOfSleeps"] = String(flowManager.numOnsets)
+    
+    let defaults = UserDefaults.standard
+      
+      if let uuidPrefix = defaults.object(forKey: "phoneUUIDPrefix") {
+        ret["uuidPrefix"] = String(uuidPrefix as! String)
+      }
+      if let calibrationTime = defaults.object(forKey: "calibrationTime") {
+        ret["calibrationTime"] = String(calibrationTime as! Int)
+      }
+      if let maxTimeBetweenSleeps = defaults.object(forKey: "waitForOnsetTime")  {
+        ret["maxTimeBetweenSleeps"] = String(maxTimeBetweenSleeps as! Int)
+      }
+      if let falsePositiveFlexOpen = defaults.object(forKey: "falsePosFlexOpen") {
+        ret["falsePositiveFlexOpen"] = String(falsePositiveFlexOpen as! Int)
+      }
+      if let falsePositiveFlexClosed = defaults.object(forKey: "falsePosFlexClosed") {
+        ret["falsePositiveFlexClosed"] = String(falsePositiveFlexClosed as! Int)
+      }
+      if let minRecordingTime = defaults.object(forKey: "minRecordingTime") {
+        ret["minRecordingTime"] = String(minRecordingTime as! Int)
+      }
+      if let maxRecordingTime = defaults.object(forKey: "maxRecordingTime") {
+        ret["maxRecordingTime"] = String(maxRecordingTime as! Int)
+      }
+      if let deltaHBOSS = defaults.object(forKey: "deltaHBOSS") {
+        ret["deltaHBOSS"] = String(deltaHBOSS as! Int)
+      }
+      if let deltaEDA = defaults.object(forKey: "deltaEDA") {
+        ret["deltaEDA"] = String(deltaEDA as! Int)
+      }
+      if let deltaHR = defaults.object(forKey: "deltaHR") {
+        ret["deltaHR"] = String(deltaHR as! Int)
+      }
+      if let deltaFlex = defaults.object(forKey: "deltaFlex") {
+        ret["deltaFlex"] = String(deltaFlex as! Int)
+      }
+      
+    return ret
   }
   
   // AUTOCOMPLETE

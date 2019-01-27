@@ -113,7 +113,7 @@ class ViewController: UIViewController,
   
   var deviceUUID: String = "" // UUID generated once, sent to server to name model and data files
   var sessionDateTime: String = "" // Used to uniquely identify a session
-  var getParams = ["String": "String"] // parameters sent with get api calls to server
+  var getParams: [String: String] = [:]// parameters sent with get api calls to server
   
   var alarmTimer = Timer() // Timer used to trigger an alarm after the final onset is detected
   var waitTimeForAlarm: Double = 10.0 // How long to wait after the last onset to trigger the alarm
@@ -269,11 +269,13 @@ class ViewController: UIViewController,
       setFalsePositiveFlexParams()
 
       //TODO also send the parameters, deltas, to the server
-      SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+      let initParams = getInitParams()
+      SleepAPI.apiGet(endpoint: "init", params: initParams, onSuccess: {json in
         self.sessionDateTime = json["datetime"] as! String
         self.getParams["datetime"] = self.sessionDateTime
-        
+        print("Sent these params: ", initParams,"getParams:", self.getParams)
       })
+      
       self.startButton.setTitle("CALIBRATING", for: .normal)
       self.calibrateStart()
       self.numOnsets = 0
@@ -334,6 +336,28 @@ class ViewController: UIViewController,
   func textFieldShouldReturn(_ textField: UITextField) -> Bool {
     self.view.endEditing(true)
     return false
+  }
+  
+  func getInitParams()-> [String: String] {
+    
+    var ret = getParams
+    
+    if(areRequiredParametersSet()) {
+      ret["uuidPrefix"] = uuidPrefixText?.text
+      ret["calibrationTime"] = calibrationTimeText?.text
+      ret["promptLatency"] = promptTimeText?.text
+      ret["numberOfSleeps"] = numOnsetsText?.text
+      ret["maxTimeBetweenSleeps"] = waitForOnsetTimeText?.text
+      ret["falsePositiveFlexOpen"] = falsePosFlexOpenText?.text
+      ret["falsePositiveFlexClosed"] = falsePosFlexClosedText?.text
+      ret["minRecordingTime"] = minRecordingTimeText?.text
+      ret["maxRecordingTime"] = maxRecordingTimeText?.text
+      ret["deltaHBOSS"] = deltaHBOSSText?.text
+      ret["deltaEDA"] = deltaEDAText?.text
+      ret["deltaHRText"] = deltaHRText?.text
+      ret["deltaFlexText"] = deltaFlexText?.text
+    }
+    return ret
   }
   
   override func viewDidLoad() {
