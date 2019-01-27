@@ -320,7 +320,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         } else {
           self.silenceTime = 0.0
         }
-        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
+//        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
         
         // if silenceTime threshold is reached or if maxrecordingtime is reached, exit
         if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {

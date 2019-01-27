@@ -78,7 +78,7 @@ class ViewController: UIViewController,
   var detectSleepTimerPause : Bool = false
   
   var falsePositiveTimer = Timer()
-  var falsePositiveTimerInterval = 0.2
+  var falsePositiveTimerInterval = 0.5
   
   var edaBuffer = [UInt32]()
   var flexBuffer = [UInt32]()
@@ -139,9 +139,9 @@ class ViewController: UIViewController,
     EDAValue.text = String(eda);
     hrQueue.put(hr: hr)
     
-//    if(sleepIsDetected) {
+    if(sleepIsDetected) {
       flexAnalyzer.detectFalsePositive(flex: flex)
-//    }
+    }
 
     if (Date().timeIntervalSince1970 - lastHrUpdate > 1) {
       lastHrUpdate = Date().timeIntervalSince1970
@@ -667,6 +667,7 @@ func transitionOnsetToSleep() {
     let falsePosFlexClosed = UserDefaults.standard.object(forKey: "falsePosFlexClosed")
     flexAnalyzer.configureFalsePositiveParams(open: falsePosFlexOpen, closed: falsePosFlexClosed)
   }
+  
 /*
   Displays alert providing information about the paramters in the experimental view
    Text needs to be cleaned up and formated with bolding, etc.
