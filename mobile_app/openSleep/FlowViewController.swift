@@ -601,7 +601,8 @@ class FlowViewController:
       self.navigationController?.pushViewController(newViewController, animated: true)
     }
   }
-  
+  // TODO: BUG: WHEN you disconnect dormio while dormio is still powered on, powering off dormio at a later time will cause a crash
+  // unexpected nil when unwrapping optional
   func dormioDisconnected() {
     self.connectButton.setTitle("Connect Dormio", for: .normal)
   }
