@@ -19,6 +19,7 @@ class FlowViewController:
   var flowManager = FlowManager.shared
   var dormioManager = DormioManager.shared
   var dropDetector = DropDetector.shared
+  var flexAnalyzer = FlexAnalyzer.shared
 
   var activeView : Int = -1
   
@@ -65,6 +66,9 @@ class FlowViewController:
   var detectSleepTimer = Timer()
   var detectSleepTimerPause : Bool = false
   
+  var falsePositiveTimer = Timer()
+  var falsePositiveTimerInterval = 0.5
+  
   var edaBuffer = [UInt32]()
   var flexBuffer = [UInt32]()
   var hrBuffer = [UInt32]()
@@ -90,8 +94,8 @@ class FlowViewController:
   
   var deviceUUID: String = ""
   var sessionDateTime: String = ""
-  var getParams = ["String": "String"]
-  
+  var getParams: [String: String] = [:]// parameters sent with get api calls to server
+
   var alarmTimer = Timer()
   
   var maxWaitOnsetTimer = Timer() // timer used for triggering an onset when maxWaitOnset time is exceeded
@@ -100,6 +104,8 @@ class FlowViewController:
   
   var isPhoneDropCalibrating: Bool = false // whether the user is calibrating the time until sleep with drop detection
   var phoneDropCalibrationStartTime: Double = 0.0
+  
+  var sleepIsDetected: Bool = false
   
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
@@ -301,7 +307,8 @@ class FlowViewController:
  */
   @IBAction func timerFalsePositiveButtonPressed(_ sender: UIButton) {
     print("Adding \(timerFalsePositiveAdditionalTime)'s to the time delay")
-    
+    self.falsePositiveTimer.invalidate()
+    self.sleepIsDetected = false
     self.timer.invalidate()
     self.maxWaitOnsetTimer.invalidate()
     self.recordingsManager.reset()
@@ -346,9 +353,11 @@ class FlowViewController:
       recordingsManager.calibrateSilenceThreshold()
       
       if(!flowManager.isTimerBased) {
-        SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+        let initParams = getInitParams()
+        SleepAPI.apiGet(endpoint: "init", params: initParams, onSuccess: {json in
           self.sessionDateTime = json["datetime"] as! String
           self.getParams["datetime"] = self.sessionDateTime
+          print("Sent these params: ", initParams,"getParams:", self.getParams)
         })
         self.detectSleepTimer.invalidate()
         
@@ -397,12 +406,13 @@ class FlowViewController:
     playedAudio = false
     falsePositive = false
     self.calibrateEnd()
-    
+    detectSleepTimerPause = true
     self.timer.invalidate()
     self.detectSleepTimer.invalidate()
     self.recordingsManager.reset()
     self.maxWaitOnsetTimer.invalidate()
     self.alarmTimer.invalidate()
+    self.falsePositiveTimer.invalidate()
     
     self.timerFalsePositiveButton.isHidden = true
   }
@@ -455,6 +465,8 @@ class FlowViewController:
       self.timerFalsePositiveButton.isHidden = false
     }
     
+    self.sleepIsDetected = true
+    
     print("Sleep!")
 
     print("TRIGGER WAS", String(describing: trigger))
@@ -469,6 +481,30 @@ class FlowViewController:
       self.detectSleepTimerPause = true
       // pause timer
       print("Waiting for Prompt time Delay:", flowManager.promptTimeDelay())
+      
+      
+      if(!self.flowManager.isTimerBased) {
+        self.falsePositiveTimer = Timer.scheduledTimer(withTimeInterval: falsePositiveTimerInterval, repeats: true, block: {
+          t in
+          
+          if (self.flexAnalyzer.isFalsePositive()) {
+            // Need to invalidate timers, delete any false-positve audio recordings, and transition back to trying to sleep
+            print("False Positive Detected during sleepDetected!")
+            self.falsePositiveTimer.invalidate()
+            self.timer.invalidate()
+            json["legitimate"] = false
+            
+            SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
+            
+            self.recordingsManager.stopRecording()
+            self.recordingsManager.deleteCurrentDream()
+            self.recordingsManager.reset()
+            self.transitionOnsetToSleep()
+
+          }
+        })
+      }
+      
       self.timer = Timer.scheduledTimer(withTimeInterval: flowManager.promptTimeDelay(), repeats: false, block: {
         t in
         
@@ -481,12 +517,15 @@ class FlowViewController:
           self.recordingsManager.startRecordingDream(dreamTitle: self.flowManager.dreamTitle!, silenceCallback: {() in
             
             print("SILENCE DETECTED!")
+            
             self.recordingsManager.stopRecording()
+            self.falsePositiveTimer.invalidate()
+            
             if(self.flowManager.isTimerBased) {
               self.timerFalsePositiveButton.isHidden = true
             }
             self.numOnsets += 1
-            json["legitimate"] = !self.falsePositive
+            json["legitimate"] = true
             
             if(!self.flowManager.isTimerBased) {
               SleepAPI.apiPost(endpoint: "reportTrigger", json: json)
@@ -511,7 +550,7 @@ class FlowViewController:
    Also sets up a timer for Timer triggered onset
  */
   func transitionOnsetToSleep() {
-    
+    self.sleepIsDetected = false
     let timeToNextOnset = max(Double(UserDefaults.standard.object(forKey: "waitForOnsetTime") as! Int), 45.0)
     self.maxWaitOnsetTimer = Timer.scheduledTimer(withTimeInterval: timeToNextOnset, repeats: false, block: {
       t in
@@ -584,6 +623,10 @@ class FlowViewController:
       if (self.isCalibrating) {
         calibrateData(flex: flex, hr: hrQueue.bpm(), eda: eda)
       }
+      
+      if(self.sleepIsDetected && !flowManager.isTimerBased) {
+        flexAnalyzer.detectFalsePositive(flex: flex)
+      }
     }
   }
   
@@ -634,7 +677,62 @@ class FlowViewController:
     }
   }
   
+  func setRecordingTimes() {
+    let minTime = UserDefaults.standard.object(forKey: "minRecordingTime")
+    let maxTime = UserDefaults.standard.object(forKey: "maxRecordingTime")
+    recordingsManager.configureRecordingTime(min: minTime, max: maxTime)
+  }
   
+  func setFalsePositiveFlexParams() {
+    let falsePosFlexOpen = UserDefaults.standard.object(forKey: "falsePosFlexOpen")
+    let falsePosFlexClosed = UserDefaults.standard.object(forKey: "falsePosFlexClosed")
+    flexAnalyzer.configureFalsePositiveParams(open: falsePosFlexOpen, closed: falsePosFlexClosed)
+  }
+  
+  func getInitParams()-> [String: String] {
+    
+    var ret = getParams
+    ret["promptLatency"] = String(flowManager.promptTimeDelay())
+    ret["numberOfSleeps"] = String(flowManager.numOnsets)
+    
+    let defaults = UserDefaults.standard
+      
+      if let uuidPrefix = defaults.object(forKey: "phoneUUIDPrefix") {
+        ret["uuidPrefix"] = String(uuidPrefix as! String)
+      }
+      if let calibrationTime = defaults.object(forKey: "calibrationTime") {
+        ret["calibrationTime"] = String(calibrationTime as! Int)
+      }
+      if let maxTimeBetweenSleeps = defaults.object(forKey: "waitForOnsetTime")  {
+        ret["maxTimeBetweenSleeps"] = String(maxTimeBetweenSleeps as! Int)
+      }
+      if let falsePositiveFlexOpen = defaults.object(forKey: "falsePosFlexOpen") {
+        ret["falsePositiveFlexOpen"] = String(falsePositiveFlexOpen as! Int)
+      }
+      if let falsePositiveFlexClosed = defaults.object(forKey: "falsePosFlexClosed") {
+        ret["falsePositiveFlexClosed"] = String(falsePositiveFlexClosed as! Int)
+      }
+      if let minRecordingTime = defaults.object(forKey: "minRecordingTime") {
+        ret["minRecordingTime"] = String(minRecordingTime as! Int)
+      }
+      if let maxRecordingTime = defaults.object(forKey: "maxRecordingTime") {
+        ret["maxRecordingTime"] = String(maxRecordingTime as! Int)
+      }
+      if let deltaHBOSS = defaults.object(forKey: "deltaHBOSS") {
+        ret["deltaHBOSS"] = String(deltaHBOSS as! Int)
+      }
+      if let deltaEDA = defaults.object(forKey: "deltaEDA") {
+        ret["deltaEDA"] = String(deltaEDA as! Int)
+      }
+      if let deltaHR = defaults.object(forKey: "deltaHR") {
+        ret["deltaHR"] = String(deltaHR as! Int)
+      }
+      if let deltaFlex = defaults.object(forKey: "deltaFlex") {
+        ret["deltaFlex"] = String(deltaFlex as! Int)
+      }
+      
+    return ret
+  }
   
   // AUTOCOMPLETE
   func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool { //1

@@ -20,3 +20,6 @@ def get_report_trigger_filename(device_uuid, date_time):
 
 def get_hboss_filename(device_uuid, date_time):
 	return config.data_filepath + make_suffix(device_uuid, date_time) + "_hboss" + ".csv"
+
+def get_params_filename(device_uuid, date_time):
+	return config.data_filepath + make_suffix(device_uuid, date_time) + "_params" + ".csv"

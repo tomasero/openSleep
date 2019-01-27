@@ -17,15 +17,16 @@ class FlexAnalyzer: NSObject {
     case OPENING
   }
   
-  let openThresh: Int = 650
-  let closedThresh: Int = 430
+  var openThresh: Int = 650
+  var closedThresh: Int = 430
   
   var state: FlexState = .OPEN
   var openTransitionTime: Double = 0
   var CloseTimeThresh: Double = 1.75 // at least one second in closed to detect False Positive
+  var maxTimeBetweenFlexes: Double = 5
   
   var numFlexes: Int = 0
-  
+  var firstFlexTime: Double = 0
   var numFalsePositives: Int = 0
   
   var falsePositive: Bool = false
@@ -46,6 +47,16 @@ class FlexAnalyzer: NSObject {
   
   func resetFalsePositive() {
     falsePositive = false
+  }
+  
+  func configureFalsePositiveParams(open: Any?, closed: Any?) {
+    if let _open = open{
+      openThresh = _open as! Int
+    }
+    if let _closed = closed {
+      closedThresh = _closed as! Int
+    }
+    print("Flex params are now:", openThresh, closedThresh)
   }
   
   func detectFalsePositive(flex: UInt32) {
@@ -72,11 +83,19 @@ class FlexAnalyzer: NSObject {
       if(NSDate().timeIntervalSince1970 - openTransitionTime <= CloseTimeThresh) {
         numFlexes += 1
         state = .OPENING
-        if(numFlexes == 2) {
-          numFlexes = 0
-          numFalsePositives += 1
-          print("NumFalse Positives:", numFalsePositives)
-          falsePositive = true
+        if numFlexes == 1 {
+          firstFlexTime = NSDate().timeIntervalSince1970
+        }
+        else if(numFlexes == 2) {
+          if(NSDate().timeIntervalSince1970 - firstFlexTime < maxTimeBetweenFlexes) {
+            numFlexes = 0
+            numFalsePositives += 1
+            print("NumFalse Positives:", numFalsePositives)
+            falsePositive = true
+          } else {
+            numFlexes = 1
+            firstFlexTime = NSDate().timeIntervalSince1970
+          }
         }
       }
     case FlexState.OPENING:

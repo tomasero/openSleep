@@ -41,6 +41,12 @@ def init():
         else:
             os.mkdir(device_model_folder)
 
+        with open(get_params_filename(device_uuid, date_time), 'w+') as f:
+            args_dict = request.args.to_dict()
+            writer = csv.writer(f)
+            for k in args_dict.keys():
+                writer.writerow((k, args_dict[k]))
+
         return jsonify({"status" : 0, "datetime": date_time})
     else:
         return jsonify({"status" : 400, "errorMsg": "Invalid DeviceUUID"})
@@ -219,5 +225,13 @@ def getHBOSS():
         rows = f.read().splitlines()
     return "||||"+"|".join(rows)
 
+@app.route('/getParams', methods=['GET'])
+def getParams():
+    device_uuid, date_time = request.args.get('deviceUUID'), request.args.get('datetime')
+
+    with open(get_params_filename(device_uuid, date_time), 'r') as f:
+        txt = f.read()
+    return txt
+    
 if __name__ == '__main__':
     app.run(host='0.0.0.0')

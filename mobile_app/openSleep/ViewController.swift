@@ -61,7 +61,13 @@ class ViewController: UIViewController,
   @IBOutlet weak var uuidPrefixText: UITextField!
   
   @IBOutlet weak var infoButton: UIButton! // Button near nav bar to provide descriptions for parameters in experimental mode
-    
+  
+  @IBOutlet weak var falsePosFlexOpenText: UITextField!
+  @IBOutlet weak var falsePosFlexClosedText: UITextField!
+  
+  @IBOutlet weak var minRecordingTimeText: UITextField!
+  @IBOutlet weak var maxRecordingTimeText: UITextField!
+  
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
   var recordingPrompt: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -72,7 +78,7 @@ class ViewController: UIViewController,
   var detectSleepTimerPause : Bool = false
   
   var falsePositiveTimer = Timer()
-  var falsePositiveTimerInterval = 0.2
+  var falsePositiveTimerInterval = 0.5
   
   var edaBuffer = [UInt32]()
   var flexBuffer = [UInt32]()
@@ -107,7 +113,7 @@ class ViewController: UIViewController,
   
   var deviceUUID: String = "" // UUID generated once, sent to server to name model and data files
   var sessionDateTime: String = "" // Used to uniquely identify a session
-  var getParams = ["String": "String"] // parameters sent with get api calls to server
+  var getParams: [String: String] = [:]// parameters sent with get api calls to server
   
   var alarmTimer = Timer() // Timer used to trigger an alarm after the final onset is detected
   var waitTimeForAlarm: Double = 10.0 // How long to wait after the last onset to trigger the alarm
@@ -115,6 +121,7 @@ class ViewController: UIViewController,
 //  var porcupineManager: PorcupineManager? = nil
   var falsePositive: Bool = false // whether the detected onset was a false positive
   
+  var sleepIsDetected: Bool = false
   
   func dormioConnected() {
     print("Connected")
@@ -132,7 +139,9 @@ class ViewController: UIViewController,
     EDAValue.text = String(eda);
     hrQueue.put(hr: hr)
     
-    flexAnalyzer.detectFalsePositive(flex: flex)
+    if(sleepIsDetected) {
+      flexAnalyzer.detectFalsePositive(flex: flex)
+    }
 
     if (Date().timeIntervalSince1970 - lastHrUpdate > 1) {
       lastHrUpdate = Date().timeIntervalSince1970
@@ -159,7 +168,7 @@ class ViewController: UIViewController,
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
     
     if let prefix = UserDefaults.standard.object(forKey: "phoneUUIDPrefix"){
-      deviceUUID = (prefix as! String) + "_" + deviceUUID
+      deviceUUID = (prefix as! String) + "-" + deviceUUID
     }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
@@ -244,7 +253,7 @@ class ViewController: UIViewController,
   }
   
   @IBAction func startButtonPressed(sender: UIButton) {
-  
+    
     if (currentStatus == "IDLE") {
       startButton.setTitle("WAITING", for: .normal)
       startButton.setTitleColor(UIColor.red, for: .normal)
@@ -257,12 +266,16 @@ class ViewController: UIViewController,
       
       self.detectSleepTimer.invalidate()
       
+      setFalsePositiveFlexParams()
+
       //TODO also send the parameters, deltas, to the server
-      SleepAPI.apiGet(endpoint: "init", params: getParams, onSuccess: {json in
+      let initParams = getInitParams()
+      SleepAPI.apiGet(endpoint: "init", params: initParams, onSuccess: {json in
         self.sessionDateTime = json["datetime"] as! String
         self.getParams["datetime"] = self.sessionDateTime
-        
+        print("Sent these params: ", initParams,"getParams:", self.getParams)
       })
+      
       self.startButton.setTitle("CALIBRATING", for: .normal)
       self.calibrateStart()
       self.numOnsets = 0
@@ -325,6 +338,28 @@ class ViewController: UIViewController,
     return false
   }
   
+  func getInitParams()-> [String: String] {
+    
+    var ret = getParams
+    
+    if(areRequiredParametersSet()) {
+      ret["uuidPrefix"] = uuidPrefixText?.text
+      ret["calibrationTime"] = calibrationTimeText?.text
+      ret["promptLatency"] = promptTimeText?.text
+      ret["numberOfSleeps"] = numOnsetsText?.text
+      ret["maxTimeBetweenSleeps"] = waitForOnsetTimeText?.text
+      ret["falsePositiveFlexOpen"] = falsePosFlexOpenText?.text
+      ret["falsePositiveFlexClosed"] = falsePosFlexClosedText?.text
+      ret["minRecordingTime"] = minRecordingTimeText?.text
+      ret["maxRecordingTime"] = maxRecordingTimeText?.text
+      ret["deltaHBOSS"] = deltaHBOSSText?.text
+      ret["deltaEDA"] = deltaEDAText?.text
+      ret["deltaHRText"] = deltaHRText?.text
+      ret["deltaFlexText"] = deltaFlexText?.text
+    }
+    return ret
+  }
+  
   override func viewDidLoad() {
     super.viewDidLoad()
     
@@ -338,10 +373,25 @@ class ViewController: UIViewController,
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
     
+    if let val = defaults.object(forKey: "falsePosFlexOpen") {
+      falsePosFlexOpenText?.text = String(val as! Int)
+    }
+    if let val = defaults.object(forKey: "falsePosFlexClosed") {
+      falsePosFlexClosedText?.text = String(val as! Int)
+    }
     if let prefix = defaults.object(forKey: "phoneUUIDPrefix") {
       uuidPrefixText?.text = prefix as! String
     }
+    if let val = defaults.object(forKey: "minRecordingTime") {
+      minRecordingTimeText?.text = String(val as! Int)
+    }
+    if let val = defaults.object(forKey: "maxRecordingTime") {
+      maxRecordingTimeText?.text = String(val as! Int)
+    }
     
+    setFalsePositiveFlexParams()
+    setRecordingTimes()
+
     var data = readDataFromCSV(fileName: "simulatedData", fileType: "csv")
     data = cleanRows(file: data!)
     self.simulatedData = csv(data: data!)
@@ -352,7 +402,7 @@ class ViewController: UIViewController,
   }
   
   func areRequiredParametersSet()-> Bool {
-    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "")
+    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "") && (falsePosFlexOpenText.text != "") && (falsePosFlexClosedText.text != "") && (minRecordingTimeText.text != "") && (maxRecordingTimeText.text != "")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -456,6 +506,8 @@ class ViewController: UIViewController,
                                 "deviceUUID": deviceUUID,
                                 "datetime": sessionDateTime]
     
+    sleepIsDetected = true
+    
     flexAnalyzer.resetFalsePositive()
     
     if (!self.playedAudio) {
@@ -468,6 +520,7 @@ class ViewController: UIViewController,
         t in
         
         if (self.flexAnalyzer.isFalsePositive()) {
+          // Need to invalidate timers, delete any false-positve audio recordings, and transition back to trying to sleep
           print("False Positive Detected during sleepDetected!")
           self.falsePositiveTimer.invalidate()
           self.timer.invalidate()
@@ -525,6 +578,7 @@ class ViewController: UIViewController,
   Called at the end of an onset to setup detection of the next onset
  */
 func transitionOnsetToSleep() {
+    sleepIsDetected = false
     recordingsManager.startPlayingMulti(mode: 0, numOnset: self.numOnsets)
     playedAudio = false
     startButton.setTitle("WAITING FOR SLEEP", for: .normal)
@@ -625,6 +679,19 @@ func transitionOnsetToSleep() {
     self.EDAValue.textColor = UIColor.black
     self.HBOSSLabel.textColor = UIColor.black
   }
+  
+  func setRecordingTimes() {
+    let minTime = UserDefaults.standard.object(forKey: "minRecordingTime")
+    let maxTime = UserDefaults.standard.object(forKey: "maxRecordingTime")
+    recordingsManager.configureRecordingTime(min: minTime, max: maxTime)
+  }
+  
+  func setFalsePositiveFlexParams() {
+    let falsePosFlexOpen = UserDefaults.standard.object(forKey: "falsePosFlexOpen")
+    let falsePosFlexClosed = UserDefaults.standard.object(forKey: "falsePosFlexClosed")
+    flexAnalyzer.configureFalsePositiveParams(open: falsePosFlexOpen, closed: falsePosFlexClosed)
+  }
+  
 /*
   Displays alert providing information about the paramters in the experimental view
    Text needs to be cleaned up and formated with bolding, etc.
@@ -688,7 +755,38 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
       setUUIDPrefix(prefix)
     }
   }
+  
+  @IBAction func falsePosFlexOpenTextChanged(_ sender: Any) {
+    if let num = Int(falsePosFlexOpenText.text!) {
+      UserDefaults.standard.set(num, forKey: "falsePosFlexOpen")
+      setFalsePositiveFlexParams()
+    }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
+  }
 
+  @IBAction func falsePosFlexClosedTextChanged(_ sender: Any) {
+    if let num = Int(falsePosFlexClosedText.text!) {
+      UserDefaults.standard.set(num, forKey: "falsePosFlexClosed")
+      setFalsePositiveFlexParams()
+    }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
+  }
+  
+  @IBAction func minRecordingTimeTextChanged(_ sender: Any) {
+    if let num = Int(minRecordingTimeText.text!) {
+      UserDefaults.standard.set(num, forKey: "minRecordingTime")
+      setRecordingTimes()
+    }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
+  }
+  
+  @IBAction func maxRecordingTimeTextChanged(_ sender: Any) {
+    if let num = Int(maxRecordingTimeText.text!) {
+      UserDefaults.standard.set(num, forKey: "maxRecordingTime")
+      setRecordingTimes()
+    }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
+  }
   func adaptivePresentationStyleForPresentationController(controller: UIPresentationController) -> UIModalPresentationStyle {
     print("in adaptivePresentationStyleForPresentationController")
     return UIModalPresentationStyle.none
