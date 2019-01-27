@@ -112,6 +112,13 @@ class FlowViewController:
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
     }
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
+    
+    if let prefix = UserDefaults.standard.object(forKey: "phoneUUIDPrefix"){
+      if (prefix as! String) != "" {
+        deviceUUID = (prefix as! String) + "-" + deviceUUID
+      }
+    }
+    
     getParams["deviceUUID"] = deviceUUID
   }
   
@@ -349,6 +356,8 @@ class FlowViewController:
       dreamButton.setTitleColor(UIColor.red, for: .normal)
       dreamLabel.text = "Enjoy your dreams :)"
       currentStatus = "CALIBRATING"
+      
+      getDeviceUUID()
       self.numOnsets = 0
       recordingsManager.calibrateSilenceThreshold()
       
@@ -601,10 +610,12 @@ class FlowViewController:
       self.navigationController?.pushViewController(newViewController, animated: true)
     }
   }
-  // TODO: BUG: WHEN you disconnect dormio while dormio is still powered on, powering off dormio at a later time will cause a crash
-  // unexpected nil when unwrapping optional
+  // BUG: if disconnecting dormio while not on the starting screen (where the connectButton is displayed), navigating back to the starting screen
+  // will not show the correct text "Connect Dormio"
   func dormioDisconnected() {
-    self.connectButton.setTitle("Connect Dormio", for: .normal)
+    if let cbutton = self.connectButton {
+      cbutton.setTitle("Connect Dormio", for: .normal)
+    }
   }
   
   func dormioData(hr: UInt32, eda: UInt32, flex: UInt32) {
