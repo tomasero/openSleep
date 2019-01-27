@@ -216,10 +216,13 @@ def getTriggers():
 def getUsers():
     user_dict = {}
     for device_uuid in os.listdir(config.data_filepath):
-        for datetime in os.listdir(config.data_filepath+device_uuid):
-            if device_uuid not in user_dict.keys():
-                user_dict[device_uuid] = []
-            user_dict[device_uuid].append(datetime)
+        app.logger.info(device_uuid)
+        if os.path.isdir(config.data_filepath+device_uuid):
+            app.logger.info(device_uuid)
+            for datetime in os.listdir(config.data_filepath+device_uuid):
+                if device_uuid not in user_dict.keys():
+                    user_dict[device_uuid] = []
+                user_dict[device_uuid].append(datetime)
     print(user_dict)
     return json.dumps(user_dict)
 
