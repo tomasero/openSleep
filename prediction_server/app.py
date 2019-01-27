@@ -30,10 +30,12 @@ def init():
     if len(device_uuid) > 0:
         date_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
-        device_data_folder = config.data_filepath+device_uuid
+        device_data_folder = config.data_filepath+device_uuid+"/"+date_time
         if os.path.exists(device_data_folder):
+            print(device_data_folder, "exists")
             pass
         else:
+            print("does not exist")
             os.makedirs(device_data_folder)
 
         data_filename = get_data_filename(device_uuid, date_time)
