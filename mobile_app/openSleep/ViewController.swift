@@ -168,7 +168,9 @@ class ViewController: UIViewController,
     deviceUUID = String(UserDefaults.standard.object(forKey: "phoneUUID") as! String)
     
     if let prefix = UserDefaults.standard.object(forKey: "phoneUUIDPrefix"){
-      deviceUUID = (prefix as! String) + "-" + deviceUUID
+      if (prefix as! String) != "" {
+        deviceUUID = (prefix as! String) + "-" + deviceUUID
+      }
     }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
@@ -267,6 +269,7 @@ class ViewController: UIViewController,
       self.detectSleepTimer.invalidate()
       
       setFalsePositiveFlexParams()
+      setRecordingTimes()
 
       //TODO also send the parameters, deltas, to the server
       let initParams = getInitParams()
@@ -402,7 +405,7 @@ class ViewController: UIViewController,
   }
   
   func areRequiredParametersSet()-> Bool {
-    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "") && (falsePosFlexOpenText.text != "") && (falsePosFlexClosedText.text != "") && (minRecordingTimeText.text != "") && (maxRecordingTimeText.text != "")
+    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "") && (falsePosFlexOpenText?.text != "") && (falsePosFlexClosedText?.text != "") && (minRecordingTimeText?.text != "") && (maxRecordingTimeText?.text != "") && (deltaEDAText?.text != "") && (deltaHRText?.text != "") && (deltaHBOSSText?.text != "")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -738,15 +741,19 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
   }
   @IBAction func HBOSSChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaHBOSSText.text!), forKey: "deltaHBOSS")
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   @IBAction func flexChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaFlexText.text!), forKey: "deltaFlex")
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   @IBAction func HRChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaHRText.text!), forKey: "deltaHR")
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   @IBAction func EDAChanged(_ sender: Any) {
     UserDefaults.standard.set(Int(deltaEDAText.text!), forKey: "deltaEDA")
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
   @IBAction func uuidPrefixTextChanged(_ sender: Any) {
     var uuid = getDeviceUUID()

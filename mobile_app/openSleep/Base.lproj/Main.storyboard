@@ -310,7 +310,7 @@
                                 <rect key="frame" x="0.0" y="275" width="375" height="369"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="429-f8-lZi">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="380"/>
                                         <subviews>
                                             <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="(optional)" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kGT-hQ-mow">
                                                 <rect key="frame" x="219" y="8" width="84" height="30"/>
@@ -458,7 +458,7 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="q3h-v7-UNA">
+                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="430" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="q3h-v7-UNA">
                                                 <rect key="frame" x="219" y="189" width="84" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
@@ -469,7 +469,7 @@
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="IiO-gw-iCi"/>
                                                 </connections>
                                             </textField>
-                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="2Pl-bi-DCv">
+                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="750" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="2Pl-bi-DCv">
                                                 <rect key="frame" x="219" y="223" width="84" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
@@ -480,7 +480,7 @@
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="Xen-Pc-7ao"/>
                                                 </connections>
                                             </textField>
-                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="P1j-IQ-2uK">
+                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="45" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="P1j-IQ-2uK">
                                                 <rect key="frame" x="219" y="261" width="84" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
@@ -491,7 +491,7 @@
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="rIK-N2-D7c"/>
                                                 </connections>
                                             </textField>
-                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jT7-yb-cXj">
+                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="120" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jT7-yb-cXj">
                                                 <rect key="frame" x="219" y="299" width="84" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
@@ -512,7 +512,7 @@
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" priority="250" id="ivu-Bo-VZK"/>
+                                            <constraint firstAttribute="height" priority="250" constant="380" id="ivu-Bo-VZK"/>
                                         </constraints>
                                     </view>
                                 </subviews>
@@ -531,7 +531,6 @@
                             <constraint firstItem="0Ui-kh-Ahd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="GaW-q0-wXu"/>
                             <constraint firstItem="429-f8-lZi" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="H5n-4D-DWc"/>
                             <constraint firstAttribute="bottom" secondItem="0Ui-kh-Ahd" secondAttribute="bottom" constant="200" id="eYW-Cu-fA4"/>
-                            <constraint firstItem="429-f8-lZi" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="kGm-UV-jtH"/>
                             <constraint firstItem="0Ui-kh-Ahd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="sqy-Uk-acZ"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
