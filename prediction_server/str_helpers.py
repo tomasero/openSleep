@@ -4,7 +4,7 @@ def make_suffix(device_uuid, date_time):
 	assert(isinstance(device_uuid, str))
 	assert(isinstance(date_time, str))
 
-	return device_uuid + "_" + date_time
+	return device_uuid + "/" + date_time
 
 def get_data_filename(device_uuid, date_time):
 	return config.data_filepath + make_suffix(device_uuid, date_time) + ".csv"

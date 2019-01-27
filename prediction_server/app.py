@@ -29,6 +29,13 @@ def init():
     device_uuid = request.args.get('deviceUUID')
     if len(device_uuid) > 0:
         date_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+
+        device_data_folder = config.data_filepath+device_uuid
+        if os.path.exists(device_data_folder):
+            pass
+        else:
+            os.mkdir(device_data_folder)
+
         data_filename = get_data_filename(device_uuid, date_time)
 
         new_data_file = open(data_filename, "w+")
@@ -232,6 +239,6 @@ def getParams():
     with open(get_params_filename(device_uuid, date_time), 'r') as f:
         txt = f.read()
     return txt
-    
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
