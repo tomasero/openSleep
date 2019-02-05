@@ -14,7 +14,7 @@ class FlowManager : NSObject {
   var dreamTitle : String?
   var dreamStage : Int = 0
   var numOnsets : Int = 3
-  var timeUntilSleep: Int = 60
+  var timeUntilSleep: Int = 600
   var waitTimeForAlarm: Double = 10
   
   var isTimerBased: Bool = false

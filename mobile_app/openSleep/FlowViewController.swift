@@ -107,6 +107,8 @@ class FlowViewController:
   
   var sleepIsDetected: Bool = false
   
+  var maxTimeToFirstOnsetTimer = Timer()
+  
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -385,6 +387,13 @@ class FlowViewController:
             
             self.detectSleepTimerPause = false
             self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+            
+            self.maxTimeToFirstOnsetTimer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "maxTimeToFirstOnset") as! Int) - 30, repeats: false, block: {
+              t in
+              print("Triggering first Onset after max time of", Double(UserDefaults.standard.object(forKey: "maxTimeToFirstOnset") as! Int))
+              self.sleepDetected(trigger: .TIMER)
+            })
+            
           })
         })
       }
@@ -422,6 +431,7 @@ class FlowViewController:
     self.maxWaitOnsetTimer.invalidate()
     self.alarmTimer.invalidate()
     self.falsePositiveTimer.invalidate()
+    self.maxTimeToFirstOnsetTimer.invalidate()
     
     self.timerFalsePositiveButton.isHidden = true
   }
@@ -469,6 +479,7 @@ class FlowViewController:
   func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
     self.maxWaitOnsetTimer.invalidate()
+    self.maxTimeToFirstOnsetTimer.invalidate()
     
     if(flowManager.isTimerBased) {
       self.timerFalsePositiveButton.isHidden = false
@@ -741,6 +752,9 @@ class FlowViewController:
       }
       if let deltaFlex = defaults.object(forKey: "deltaFlex") {
         ret["deltaFlex"] = String(deltaFlex as! Int)
+      }
+      if let maxTimeToFirstOnset = defaults.object(forKey: "maxTimeToFirstOnset") {
+        ret["maxTimeToFirstOnset"] = String(maxTimeToFirstOnset as! Int)
       }
       
     return ret
