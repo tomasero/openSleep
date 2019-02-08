@@ -288,6 +288,10 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     }
   }
   
+  /*
+   Starts an audio recording used to monitor ambient sound levels.
+   Calls startSpeakingDetection
+ */
   func startSpeakingDetectionRecording(_ dreamTitle: String, onSpeechCB: @escaping () -> ()) {
     let audioSession = AVAudioSession.sharedInstance()
     self.isRecordingSpeaking = false
@@ -316,6 +320,11 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     print("Finished startSpeakingDetectionRecording");
   }
   
+  /*
+   Starts a timer that polls the power level of the recording started in startSPeakingDetectionRecording
+   If power exceeds a certain threshold a certain number of times, without too long an interruption of silence
+   Then calls onSpeechCB, a function provided that will be run when speech is detected
+ */
   func startSpeakingDetection(_ dreamTitle: String, onSpeechCB: @escaping () -> ()) {
     speakingDetectionTimer = Timer.scheduledTimer(withTimeInterval: speakingDetectionPollingTime, repeats: true, block: {
       t in
@@ -330,7 +339,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       self.audioRecorder.updateMeters()
       let averagePower = self.audioRecorder.averagePower(forChannel:0)
       
-      print("Power:", averagePower, "SpeakingDetectedTIme:", self.speakingDetectedTime, "total time elapsed: ", self.recordingTimeElapsed)
+//      print("Power:", averagePower, "SpeakingDetectedTIme:", self.speakingDetectedTime, "total time elapsed: ", self.recordingTimeElapsed)
       
       if (averagePower > self.dbThreshold + 3) {
         self.speakingDetectedTime += self.speakingDetectionPollingTime
@@ -344,16 +353,24 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       if(self.speakingDetectedTime > 1.0) {
         self.speakingDetectedTime = 0.0
         self.stopSpeakingDetection()
+        print("Speech detectected, calling onSpeechCB")
         onSpeechCB()
       }
     })
   }
   
+  /*
+   Starts recording the speech detected by the speakingDetectionTimer code
+ */
   func startSpeakingRecording(_ dreamTitle: String, silenceCallback: @escaping () -> ()) {
     self.isRecordingSpeaking = true
+    print("Starting to Record a dream in between onsets")
     startRecordingDream(dreamTitle: dreamTitle, silenceCallback: silenceCallback)
   }
   
+  /*
+   Stops the detection timer and resets paramters
+ */
   func stopSpeakingDetection() {
     audioRecorder.stop()
     self.recordingTimeElapsed = 0
@@ -371,6 +388,8 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
   }
   
   func startRecordingDream(dreamTitle: String, silenceCallback: @escaping () -> () ) {
+    print("startRecordingDream called")
+    
     let audioSession = AVAudioSession.sharedInstance()
     let url = self.audioDirectoryURLwithTimestamp()
     
@@ -409,7 +428,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
         } else {
           self.silenceTime = 0.0
         }
-        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
+//        print("Silence Time: \(self.silenceTime), Time Elapsed: \(self.recordingTimeElapsed)")
         
         // if silenceTime threshold is reached or if maxrecordingtime is reached, exit
         if(((self.silenceTime > self.silenceTimeThreshold) && (self.recordingTimeElapsed > self.minRecordingTime)) || self.recordingTimeElapsed > self.maxRecordingTime) {
