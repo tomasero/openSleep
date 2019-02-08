@@ -303,6 +303,8 @@ class ViewController: UIViewController,
           
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+          
+          self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: self.onNonPromptSpeech)
         })
         
         self.maxTimeToFirstOnsetTimer = Timer.scheduledTimer(withTimeInterval: Double(self.maxTimeToFirstOnsetText.text!)! - 30, repeats: false, block: {
@@ -514,8 +516,22 @@ class ViewController: UIViewController,
   }
   
   func sleepDetected(trigger: OnsetTrigger) {
+    print("Is recordingManager recording in between onset speech?", recordingsManager.isRecordingSpeaking)
+    if(recordingsManager.isRecordingSpeaking) {
+      print("RecordingsManager is already recording, user spoke in between onsets")
+      if(trigger == OnsetTrigger.TIMER) {
+        print("But trigger was timer, so make sure the timer happens again")
+        self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
+          t in
+          self.sleepDetected(trigger: OnsetTrigger.TIMER)
+        })
+      }
+      return
+    }
+    
     self.timer.invalidate()
     self.maxTimeToFirstOnsetTimer.invalidate()
+    self.recordingsManager.stopSpeakingDetection()
 
     print("Sleep Detected, trigger was", String(describing: trigger))
 
@@ -606,6 +622,16 @@ func transitionOnsetToSleep() {
     self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
       t in
       self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
+  
+    self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: onNonPromptSpeech)
+  }
+
+  func onNonPromptSpeech() {
+    print("Speech Detected!")
+    recordingsManager.startSpeakingRecording("Experiment", silenceCallback: {() in
+      self.recordingsManager.stopSpeakingDetection()
+      self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: self.onNonPromptSpeech)
     })
   }
   
