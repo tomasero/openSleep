@@ -28,7 +28,9 @@ class FlowViewController:
   @IBOutlet weak var backgroundView: UIView!
   @IBOutlet weak var connectButton: UIButton!
   @IBOutlet weak var dreamText: UITextField!
+  @IBOutlet weak var userNameText: UITextField!
   @IBOutlet weak var continue1Button: UIButton!
+  @IBOutlet weak var continueNameButton: UIButton!
   @IBOutlet weak var continue2Button: UIButton!
   @IBOutlet weak var continue3Button: UIButton!
   @IBOutlet weak var continueTimerBasedButton: UIButton!
@@ -124,12 +126,22 @@ class FlowViewController:
     getParams["deviceUUID"] = deviceUUID
   }
   
+  func setUUIDPrefix(_ prefix: String) {
+    UserDefaults.standard.set(prefix, forKey: "phoneUUIDPrefix")
+    getDeviceUUID()
+  }
+  
   override func viewDidLoad() {
       super.viewDidLoad()
     
     if connectButton != nil {
       activeView = 0
       playVideo()
+    }
+    if let cb = continueNameButton {
+      cb.isEnabled = false
+      cb.setTitleColor(UIColor.lightGray, for: .disabled)
+      activeView = 8
     }
     if let cb = continue1Button {
       cb.isEnabled = false
@@ -216,7 +228,7 @@ class FlowViewController:
   @IBAction func timersPressed(_ sender: Any) {
     // TODO: set timer mode
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
-    let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: "stepName") as! FlowViewController
     flowManager.isTimerBased = true
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
@@ -284,6 +296,13 @@ class FlowViewController:
     print("Moving to step " + String(activeView + 2))
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step" + String(activeView + 2)) as! FlowViewController
+    self.navigationController?.pushViewController(newViewController, animated: true)
+  }
+  
+  @IBAction func continueNamePressed(_ sender: UIButton) {
+    let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    let nextViewControllerID = "step2"
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: nextViewControllerID) as! FlowViewController
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -617,7 +636,7 @@ class FlowViewController:
     self.connectButton.setTitle("Disconnect Dormio", for: .normal)
     if activeView == 0 {
       let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
-      let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
+      let newViewController = storyBoard.instantiateViewController(withIdentifier: "stepName") as! FlowViewController
       self.navigationController?.pushViewController(newViewController, animated: true)
     }
   }
@@ -758,6 +777,21 @@ class FlowViewController:
       }
       
     return ret
+  }
+  
+  @IBAction func onUserNameTextChanged(_ sender: UITextField){
+    guard let userName = userNameText.text else {
+      return
+    }
+    userNameText.text = flowManager.sanitizeUserName(userName: userName)
+    
+    let validUserName = (userNameText.text != "")
+    
+    continueNameButton.isEnabled = validUserName
+    
+    if(validUserName) {
+      setUUIDPrefix(userNameText.text!)
+    }
   }
   
   // AUTOCOMPLETE

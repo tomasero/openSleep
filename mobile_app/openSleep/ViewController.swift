@@ -177,6 +177,7 @@ class ViewController: UIViewController,
       if (prefix as! String) != "" {
         deviceUUID = (prefix as! String) + "-" + deviceUUID
       }
+      uuidPrefixText.text = prefix as! String
     }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
@@ -261,6 +262,8 @@ class ViewController: UIViewController,
   }
   
   @IBAction func startButtonPressed(sender: UIButton) {
+    
+    getDeviceUUID()
     
     if (currentStatus == "IDLE") {
       startButton.setTitle("WAITING", for: .normal)
