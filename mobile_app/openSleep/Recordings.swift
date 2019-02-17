@@ -299,7 +299,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
     do {
       if let url = self.speakingDetectionURL() {
         audioRecorder = try AVAudioRecorder(url: url as URL, settings: audioRecorderSettings)
-        print("Storing speakinddetectionRecording at", url)
+        print("Storing speaking detectionRecording at", url)
         audioRecorder.isMeteringEnabled = true
         audioRecorder.delegate = self
         audioRecorder.prepareToRecord()
@@ -339,7 +339,7 @@ class RecordingsManager : NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelega
       self.audioRecorder.updateMeters()
       let averagePower = self.audioRecorder.averagePower(forChannel:0)
       
-//      print("Power:", averagePower, "SpeakingDetectedTIme:", self.speakingDetectedTime, "total time elapsed: ", self.recordingTimeElapsed)
+      print("Power:", averagePower, "SpeakingDetectedTIme:", self.speakingDetectedTime, "total time elapsed: ", self.recordingTimeElapsed)
       
       if (averagePower > self.dbThreshold + 3) {
         self.speakingDetectedTime += self.speakingDetectionPollingTime

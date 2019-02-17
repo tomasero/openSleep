@@ -70,6 +70,8 @@ class ViewController: UIViewController,
   
   @IBOutlet weak var maxTimeToFirstOnsetText: UITextField!
   
+  @IBOutlet weak var speakingDetectionInput: UISwitch!
+  
   var maxTimeToFirstOnsetTimer = Timer()
   
   var playedAudio: Bool = false
@@ -304,7 +306,9 @@ class ViewController: UIViewController,
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
           
-          self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: self.onNonPromptSpeech)
+          if(self.speakingDetectionInput.isOn) {
+            self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: self.onNonPromptSpeech)
+          }
         })
         
         self.maxTimeToFirstOnsetTimer = Timer.scheduledTimer(withTimeInterval: Double(self.maxTimeToFirstOnsetText.text!)! - 30, repeats: false, block: {
@@ -624,7 +628,9 @@ func transitionOnsetToSleep() {
       self.sleepDetected(trigger: OnsetTrigger.TIMER)
     })
   
-    self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: onNonPromptSpeech)
+    if(speakingDetectionInput.isOn){
+      self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: onNonPromptSpeech)
+    }
   }
 
   func onNonPromptSpeech() {
