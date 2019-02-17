@@ -377,6 +377,8 @@ class ViewController: UIViewController,
       ret["deltaHRText"] = deltaHRText?.text
       ret["deltaFlexText"] = deltaFlexText?.text
       ret["maxTimeToFirstOnset"] = maxTimeToFirstOnsetText?.text
+      ret["isUsingSpeechDetection"] = String(speakingDetectionInput.isOn)
+      ret["isSimulatedData"] = String(simulationInput.isOn)
     }
     return ret
   }
