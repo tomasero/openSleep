@@ -201,7 +201,9 @@ def data():
 
     with open(data_filename, 'r') as f:
         rows = f.read().splitlines()
-    return jsonify({"status": 200, "dormioSensorData" : " ".join(rows)})
+    response = jsonify({"status": 200, "dormioSensorData" : " ".join(rows)})
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 @app.route('/getTriggers', methods=['GET'])
 def getTriggers():
@@ -210,7 +212,9 @@ def getTriggers():
 
     with open(triggers_filename, 'r') as f:
         rows = f.read().splitlines()
-    return jsonify({"status": 200, "triggers" : "|".join(rows)})
+    response = jsonify({"status": 200, "triggers" : "|".join(rows)})
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 @app.route('/getUsers', methods=['GET'])
 def getUsers():
@@ -232,7 +236,10 @@ def getHBOSS():
 
     with open(get_hboss_filename(device_uuid, date_time), 'r') as f:
         rows = f.read().splitlines()
-    return jsonify({"status": 200, "hboss" : "|".join(rows)})
+
+    response = jsonify({"status": 200, "hboss" : "|".join(rows)})
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 @app.route('/getParams', methods=['GET'])
 def getParams():
