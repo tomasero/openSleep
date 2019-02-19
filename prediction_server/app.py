@@ -201,7 +201,7 @@ def data():
 
     with open(data_filename, 'r') as f:
         rows = f.read().splitlines()
-    return jsonify({"status": 200, "dormioSensorData" : "|".join(rows)})
+    return jsonify({"status": 200, "dormioSensorData" : " ".join(rows)})
 
 @app.route('/getTriggers', methods=['GET'])
 def getTriggers():
