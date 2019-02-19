@@ -68,6 +68,12 @@ class ViewController: UIViewController,
   @IBOutlet weak var minRecordingTimeText: UITextField!
   @IBOutlet weak var maxRecordingTimeText: UITextField!
   
+  @IBOutlet weak var maxTimeToFirstOnsetText: UITextField!
+  
+  @IBOutlet weak var speakingDetectionInput: UISwitch!
+  
+  var maxTimeToFirstOnsetTimer = Timer()
+  
   var playedAudio: Bool = false
   var recordingThinkOf: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
   var recordingPrompt: Int = 0 // 0 - waiting for record, 1 - recording, 2 - recorded
@@ -171,6 +177,7 @@ class ViewController: UIViewController,
       if (prefix as! String) != "" {
         deviceUUID = (prefix as! String) + "-" + deviceUUID
       }
+      uuidPrefixText.text = prefix as! String
     }
     uuidLabel.text = "UUID: "+deviceUUID
     uuidLabel.sizeToFit()
@@ -256,6 +263,8 @@ class ViewController: UIViewController,
   
   @IBAction func startButtonPressed(sender: UIButton) {
     
+    getDeviceUUID()
+    
     if (currentStatus == "IDLE") {
       startButton.setTitle("WAITING", for: .normal)
       startButton.setTitleColor(UIColor.red, for: .normal)
@@ -299,10 +308,17 @@ class ViewController: UIViewController,
           
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+          
+          if(self.speakingDetectionInput.isOn) {
+            self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: self.onNonPromptSpeech)
+          }
         })
         
-        //FOR TESTING:
-//        self.sleepDetected(trigger: .TIMER)
+        self.maxTimeToFirstOnsetTimer = Timer.scheduledTimer(withTimeInterval: Double(self.maxTimeToFirstOnsetText.text!)! - 30, repeats: false, block: {
+          t in
+            print("Triggering first Onset after max time of", self.maxTimeToFirstOnsetText.text!)
+            self.sleepDetected(trigger: .TIMER)
+        })
       })
       
     } else if (currentStatus == "CALIBRATING" || currentStatus == "RUNNING") {
@@ -328,6 +344,7 @@ class ViewController: UIViewController,
     self.detectSleepTimer.invalidate()
     self.alarmTimer.invalidate()
     self.falsePositiveTimer.invalidate()
+    self.maxTimeToFirstOnsetTimer.invalidate()
     
     self.recordingsManager.reset()
     
@@ -359,6 +376,9 @@ class ViewController: UIViewController,
       ret["deltaEDA"] = deltaEDAText?.text
       ret["deltaHRText"] = deltaHRText?.text
       ret["deltaFlexText"] = deltaFlexText?.text
+      ret["maxTimeToFirstOnset"] = maxTimeToFirstOnsetText?.text
+      ret["isUsingSpeechDetection"] = String(speakingDetectionInput.isOn)
+      ret["isSimulatedData"] = String(simulationInput.isOn)
     }
     return ret
   }
@@ -391,6 +411,9 @@ class ViewController: UIViewController,
     if let val = defaults.object(forKey: "maxRecordingTime") {
       maxRecordingTimeText?.text = String(val as! Int)
     }
+    if let val = defaults.object(forKey:"maxTimeToFirstOnset") {
+      maxTimeToFirstOnsetText?.text = String(val as! Int)
+    }
     
     setFalsePositiveFlexParams()
     setRecordingTimes()
@@ -402,6 +425,7 @@ class ViewController: UIViewController,
     getDeviceUUID()
     
     startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
+    maxTimeToFirstOnsetText.delegate = self
   }
   
   func areRequiredParametersSet()-> Bool {
@@ -501,7 +525,23 @@ class ViewController: UIViewController,
   }
   
   func sleepDetected(trigger: OnsetTrigger) {
+    print("Is recordingManager recording in between onset speech?", recordingsManager.isRecordingSpeaking)
+    if(recordingsManager.isRecordingSpeaking) {
+      print("RecordingsManager is already recording, user spoke in between onsets")
+      if(trigger == OnsetTrigger.TIMER) {
+        print("But trigger was timer, so make sure the timer happens again")
+        self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
+          t in
+          self.sleepDetected(trigger: OnsetTrigger.TIMER)
+        })
+      }
+      return
+    }
+    
     self.timer.invalidate()
+    self.maxTimeToFirstOnsetTimer.invalidate()
+    self.recordingsManager.stopSpeakingDetection()
+
     print("Sleep Detected, trigger was", String(describing: trigger))
 
     var json: [String : Any] = ["trigger" : String(describing: trigger),
@@ -591,6 +631,18 @@ func transitionOnsetToSleep() {
     self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.waitForOnsetTimeText.text!)!, repeats: false, block: {
       t in
       self.sleepDetected(trigger: OnsetTrigger.TIMER)
+    })
+  
+    if(speakingDetectionInput.isOn){
+      self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: onNonPromptSpeech)
+    }
+  }
+
+  func onNonPromptSpeech() {
+    print("Speech Detected!")
+    recordingsManager.startSpeakingRecording("Experiment", silenceCallback: {() in
+      self.recordingsManager.stopSpeakingDetection()
+      self.recordingsManager.startSpeakingDetectionRecording("Experiment", onSpeechCB: self.onNonPromptSpeech)
     })
   }
   
@@ -791,6 +843,18 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
     if let num = Int(maxRecordingTimeText.text!) {
       UserDefaults.standard.set(num, forKey: "maxRecordingTime")
       setRecordingTimes()
+    }
+    startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
+  }
+  
+  @IBAction func maxTimeToFirstOnsetTextChanged(_ sender: Any) {
+    if let num = Int(maxTimeToFirstOnsetText.text!) {
+      var maxTime = num
+      if let calTime = Int(calibrationTimeText.text!) {
+        maxTime = (num <= calTime) ? calTime + 1 : maxTime
+        maxTimeToFirstOnsetText.text = String(maxTime)
+      }
+      UserDefaults.standard.set(maxTime, forKey: "maxTimeToFirstOnset")
     }
     startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }

@@ -28,7 +28,9 @@ class FlowViewController:
   @IBOutlet weak var backgroundView: UIView!
   @IBOutlet weak var connectButton: UIButton!
   @IBOutlet weak var dreamText: UITextField!
+  @IBOutlet weak var userNameText: UITextField!
   @IBOutlet weak var continue1Button: UIButton!
+  @IBOutlet weak var continueNameButton: UIButton!
   @IBOutlet weak var continue2Button: UIButton!
   @IBOutlet weak var continue3Button: UIButton!
   @IBOutlet weak var continueTimerBasedButton: UIButton!
@@ -107,6 +109,8 @@ class FlowViewController:
   
   var sleepIsDetected: Bool = false
   
+  var maxTimeToFirstOnsetTimer = Timer()
+  
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -122,12 +126,22 @@ class FlowViewController:
     getParams["deviceUUID"] = deviceUUID
   }
   
+  func setUUIDPrefix(_ prefix: String) {
+    UserDefaults.standard.set(prefix, forKey: "phoneUUIDPrefix")
+    getDeviceUUID()
+  }
+  
   override func viewDidLoad() {
       super.viewDidLoad()
     
     if connectButton != nil {
       activeView = 0
       playVideo()
+    }
+    if let cb = continueNameButton {
+      cb.isEnabled = false
+      cb.setTitleColor(UIColor.lightGray, for: .disabled)
+      activeView = 8
     }
     if let cb = continue1Button {
       cb.isEnabled = false
@@ -214,7 +228,7 @@ class FlowViewController:
   @IBAction func timersPressed(_ sender: Any) {
     // TODO: set timer mode
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
-    let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: "stepName") as! FlowViewController
     flowManager.isTimerBased = true
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
@@ -282,6 +296,13 @@ class FlowViewController:
     print("Moving to step " + String(activeView + 2))
     let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
     let newViewController = storyBoard.instantiateViewController(withIdentifier: "step" + String(activeView + 2)) as! FlowViewController
+    self.navigationController?.pushViewController(newViewController, animated: true)
+  }
+  
+  @IBAction func continueNamePressed(_ sender: UIButton) {
+    let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+    let nextViewControllerID = "step2"
+    let newViewController = storyBoard.instantiateViewController(withIdentifier: nextViewControllerID) as! FlowViewController
     self.navigationController?.pushViewController(newViewController, animated: true)
   }
   
@@ -385,6 +406,13 @@ class FlowViewController:
             
             self.detectSleepTimerPause = false
             self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
+            
+            self.maxTimeToFirstOnsetTimer = Timer.scheduledTimer(withTimeInterval: Double(UserDefaults.standard.object(forKey: "maxTimeToFirstOnset") as! Int) - 30, repeats: false, block: {
+              t in
+              print("Triggering first Onset after max time of", Double(UserDefaults.standard.object(forKey: "maxTimeToFirstOnset") as! Int))
+              self.sleepDetected(trigger: .TIMER)
+            })
+            
           })
         })
       }
@@ -422,6 +450,7 @@ class FlowViewController:
     self.maxWaitOnsetTimer.invalidate()
     self.alarmTimer.invalidate()
     self.falsePositiveTimer.invalidate()
+    self.maxTimeToFirstOnsetTimer.invalidate()
     
     self.timerFalsePositiveButton.isHidden = true
   }
@@ -469,6 +498,7 @@ class FlowViewController:
   func sleepDetected(trigger: OnsetTrigger) {
     self.timer.invalidate()
     self.maxWaitOnsetTimer.invalidate()
+    self.maxTimeToFirstOnsetTimer.invalidate()
     
     if(flowManager.isTimerBased) {
       self.timerFalsePositiveButton.isHidden = false
@@ -606,7 +636,7 @@ class FlowViewController:
     self.connectButton.setTitle("Disconnect Dormio", for: .normal)
     if activeView == 0 {
       let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
-      let newViewController = storyBoard.instantiateViewController(withIdentifier: "step2") as! FlowViewController
+      let newViewController = storyBoard.instantiateViewController(withIdentifier: "stepName") as! FlowViewController
       self.navigationController?.pushViewController(newViewController, animated: true)
     }
   }
@@ -742,8 +772,26 @@ class FlowViewController:
       if let deltaFlex = defaults.object(forKey: "deltaFlex") {
         ret["deltaFlex"] = String(deltaFlex as! Int)
       }
+      if let maxTimeToFirstOnset = defaults.object(forKey: "maxTimeToFirstOnset") {
+        ret["maxTimeToFirstOnset"] = String(maxTimeToFirstOnset as! Int)
+      }
       
     return ret
+  }
+  
+  @IBAction func onUserNameTextChanged(_ sender: UITextField){
+    guard let userName = userNameText.text else {
+      return
+    }
+    userNameText.text = flowManager.sanitizeUserName(userName: userName)
+    
+    let validUserName = (userNameText.text != "")
+    
+    continueNameButton.isEnabled = validUserName
+    
+    if(validUserName) {
+      setUUIDPrefix(userNameText.text!)
+    }
   }
   
   // AUTOCOMPLETE

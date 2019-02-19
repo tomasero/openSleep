@@ -14,10 +14,22 @@ class FlowManager : NSObject {
   var dreamTitle : String?
   var dreamStage : Int = 0
   var numOnsets : Int = 3
-  var timeUntilSleep: Int = 60
+  var timeUntilSleep: Int = 600
   var waitTimeForAlarm: Double = 10
   
   var isTimerBased: Bool = false
+  
+  let forbiddenUserNameChars: [String] = [
+      " ", "\'", "\t",
+      "\"", "\\", "\n",
+      "\r", ".", "?",
+      ",", "{", "}",
+      "(", ")", ";",
+      "*", "^", "%",
+      "$", "#", "@",
+      "!", "+", "=",
+      "|", "[", "]"
+  ]
 
   private override init () {
     super.init()
@@ -32,6 +44,14 @@ class FlowManager : NSObject {
       return 90
     }
     return 0
+  }
+  
+  func sanitizeUserName(userName: String) -> String {
+    var sanitizedUserName = userName
+    for forbiddenChar in forbiddenUserNameChars {
+      sanitizedUserName = sanitizedUserName.replacingOccurrences(of: forbiddenChar, with: "")
+    }
+    return sanitizedUserName
   }
   
 }
