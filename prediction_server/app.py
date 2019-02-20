@@ -202,8 +202,7 @@ def data():
     with open(data_filename, 'r') as f:
         rows = f.read().splitlines()
     response = jsonify({"status": 200, "dormioSensorData" : "|".join(rows)})
-    response.headers.add('Access-Control-Allow-Origin', '*')
-    return response
+    return addCORS(response)
 
 @app.route('/getTriggers', methods=['GET'])
 def getTriggers():
@@ -213,8 +212,8 @@ def getTriggers():
     with open(triggers_filename, 'r') as f:
         rows = f.read().splitlines()
     response = jsonify({"status": 200, "triggers" : "|".join(rows)})
-    response.headers.add('Access-Control-Allow-Origin', '*')
-    return response
+    return addCORS(response)
+
 
 @app.route('/getUsers', methods=['GET'])
 def getUsers():
@@ -238,8 +237,7 @@ def getHBOSS():
         rows = f.read().splitlines()
 
     response = jsonify({"status": 200, "hboss" : "|".join(rows)})
-    response.headers.add('Access-Control-Allow-Origin', '*')
-    return response
+    return addCORS(response)
 
 @app.route('/getParams', methods=['GET'])
 def getParams():
@@ -247,7 +245,13 @@ def getParams():
 
     with open(get_params_filename(device_uuid, date_time), 'r') as f:
         txt = f.read()
-    return json.loads(txt)
+    response = json.loads(txt)
+    return addCORS(response)
+
+
+def addCORS(resp):
+    resp.headers.add('Access-Control-Allow-Origin', '*')
+    return resp
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
