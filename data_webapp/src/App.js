@@ -6,6 +6,7 @@ import Graph from './graph';
 import {getDate} from './dateFormatter';
 import Button from 'react-bootstrap/Button';
 import ExperimentParams from './experimentParams';
+import DataInput from './dataInput';
 
 class App extends Component {
 
@@ -230,11 +231,18 @@ class App extends Component {
     }
   }
   
+  renderDataInput() {
+    return (
+        <DataInput/>
+      );
+  }
+
   render() {
     return (
       <div className="App">
         <h1 style={{marginTop: 0}}>Dreamcatcher Dormio Data</h1>
         <div className = "container-fluid">
+            {this.renderDataInput()}
             <div className = "row">
               <div className = "col">
                 {this.renderExperimentParameters()}
