@@ -201,7 +201,7 @@ def data():
 
     with open(data_filename, 'r') as f:
         rows = f.read().splitlines()
-    response = jsonify({"status": 200, "dormioSensorData" : " ".join(rows)})
+    response = jsonify({"status": 200, "dormioSensorData" : "|".join(rows)})
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
