@@ -247,7 +247,7 @@ def getParams():
 
     with open(get_params_filename(device_uuid, date_time), 'r') as f:
         txt = f.read()
-    return txt
+    return json.loads(txt)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
