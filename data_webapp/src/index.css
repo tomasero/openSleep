@@ -17,3 +17,8 @@ code {
 .Graph {
 	margin: 5px;
 }
+.ExperimentParams {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right:auto;
+}

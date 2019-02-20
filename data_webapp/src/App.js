@@ -5,14 +5,15 @@ import './App.css';
 import Graph from './graph';
 import {getDate} from './dateFormatter';
 import Button from 'react-bootstrap/Button';
+import ExperimentParams from './experimentParams';
 
 class App extends Component {
 
   constructor(props) {
     super(props);
     this.state = {
-      user: "testing-2AC84546-C29F-4463-9ACF-391702D2AA62",
-      dateTimeOfSession: "20190127_154047"
+      user: "user1",
+      dateTimeOfSession: "20190220_220405"
     }
     this.serverURL = "http://68.183.114.149:5000/"
     this.dormioSampleRate = 10.0 // hz
@@ -111,6 +112,18 @@ class App extends Component {
     console.log(this.state)
   }
 
+  setExperimentParameters(params) {
+    let experimentParameters = {}
+    for(let paramValPair of params.split('\n')) {
+        let paramValArr = paramValPair.split(',')
+        experimentParameters[paramValArr[0]] = paramValArr[1];
+    }
+    this.setState({
+      experimentParameters: experimentParameters
+    })
+    console.log(this.state)
+  }
+
   getData() {
     const config = {
         method: "GET",
@@ -151,6 +164,17 @@ class App extends Component {
             this.setHBOSSData(data["hboss"])
           })
         });
+    fetch(
+      this.buildUrl(this.serverURL+"getParams", {
+        deviceUUID: this.state.user,
+        datetime: this.state.dateTimeOfSession
+      }),config)
+      .then(
+        (res) => {
+          res.json().then((data) => {
+            this.setExperimentParameters(data.parameters);
+          })
+        });   
   }
 
   renderGraph(dataPoints, title, yLabel, xLabel) {
@@ -193,14 +217,32 @@ class App extends Component {
         );
     }
   }
+
+  renderExperimentParameters() {
+    if(this.state.experimentParameters) {
+      return (
+          <div>
+
+            <ExperimentParams experimentParams = {this.state.experimentParameters} />
+
+          </div>
+        );
+    }
+  }
   
   render() {
     return (
       <div className="App">
         <h1 style={{marginTop: 0}}>Dreamcatcher Dormio Data</h1>
         <div className = "container-fluid">
+            <div className = "row">
+              <div className = "col">
+                {this.renderExperimentParameters()}
+                </div>
+            </div>
           {this.renderGraphs()}
         </div>
+
       </div>
     );
   }
