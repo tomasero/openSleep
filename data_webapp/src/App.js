@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Graph from './graph';
 import {getDate} from './dateFormatter';
+import Button from 'react-bootstrap/Button';
 
 class App extends Component {
 
@@ -13,6 +15,8 @@ class App extends Component {
       dateTimeOfSession: "20190127_154047"
     }
     this.serverURL = "http://68.183.114.149:5000/"
+    this.dormioSampleRate = 10.0 // hz
+
     // this.serverURL = "http://localhost:5000/"
   }
 
@@ -41,12 +45,14 @@ class App extends Component {
     let flex = []
     let ppm = []
     let eda = []
-
+    let idx = 0;
     for(let chunk of data.split("|")) {
       const splitChunk = chunk.split(',')
-      flex.push(splitChunk[0])
-      ppm.push(splitChunk[1])
-      eda.push(splitChunk[2])
+      let xPoint = idx * (1.0/this.dormioSampleRate)
+      flex.push({y : parseInt(splitChunk[0]), x: xPoint});
+      ppm.push({y : parseInt(splitChunk[1]), x: xPoint});
+      eda.push({y : parseInt(splitChunk[2]), x: xPoint});
+      idx+=1;
     }
 
     this.setState({
@@ -83,7 +89,8 @@ class App extends Component {
   }
 
   setHBOSSData(data) {
-    let hboss = []
+    let meanHBOSS = []
+    let maxHBOSS = []
     let startTime = getDate("%Y%m%d_%H%M%S", this.state.dateTimeOfSession);
 
     for(let chunk of data.split("|")) {
@@ -91,12 +98,14 @@ class App extends Component {
       let d= new Date();
       let offset = d.getTimezoneOffset() * 60000
       let timeStamp = new Date(parseFloat(splitChunk[2])  * 1000 + offset)
-      hboss.push({"meanHBOSS":splitChunk[0], "maxHBOSS":splitChunk[1], "timeStamp":(timeStamp - startTime)/1000.0})
+      meanHBOSS.push({y: parseFloat(splitChunk[0]), x: (timeStamp - startTime)/1000.0})
+      maxHBOSS.push({y: parseFloat(splitChunk[1]), x: (timeStamp - startTime)/1000.0})
     }
     this.setState({
       data: {
         ...this.state.data,
-        hboss: hboss,
+        meanHBOSS: meanHBOSS,
+        maxHBOSS : maxHBOSS,
       }
     })
     console.log(this.state)
@@ -144,10 +153,54 @@ class App extends Component {
         });
   }
 
+  renderGraph(dataPoints, title, yLabel, xLabel) {
+    if(dataPoints) {
+      return <Graph data = {dataPoints} title = {title} yLabel = {yLabel} xLabel = {xLabel}/>
+    }
+  }
+
+  renderGraphs() {
+    if(this.state.data) {
+
+      return (
+          <div>
+            <div className = "row">
+              <div className = "col">
+                {this.renderGraph(this.state.data.flex, "FLEX", "FLEX", "Time (sec)")}
+              </div>
+              <div className = "col">
+                {this.renderGraph(this.state.data.eda, "EDA", "EDA", "Time (sec)")}
+              </div>
+            </div>
+
+            <div className = "row">
+              <div className = "col">
+                {this.renderGraph(this.state.data.ppm, "PPM", "PPM", "Time (sec)")}
+              </div>
+              <div className = "col">
+                {this.renderGraph(this.state.data.meanHBOSS, "HBOSS Mean", "HBOSS", "Time (sec)")}
+              </div>
+            </div>
+
+            <div className = "row">
+              <div className = "col">
+                {this.renderGraph(this.state.data.maxHBOSS, "HBOSS Max", "Hboss", "Time (sec)")}
+              </div>
+              <div className = "col">
+              </div>
+            </div>
+          </div>
+        );
+    }
+  }
+  
   render() {
     return (
       <div className="App">
         <h1 style={{marginTop: 0}}>Dreamcatcher Dormio Data</h1>
+        <div className = "container-fluid">
+          {this.renderGraphs()}
+        </div>
       </div>
     );
   }
