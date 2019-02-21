@@ -227,7 +227,7 @@ def getUsers():
                     user_dict[device_uuid] = []
                 user_dict[device_uuid].append(datetime)
     print(user_dict)
-    response = json.dumps(user_dict)
+    response = jsonify(user_dict)
     return addCORS(response)
 
 @app.route('/getHBOSS', methods=['GET'])
