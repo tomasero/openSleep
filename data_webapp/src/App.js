@@ -15,8 +15,6 @@ class App extends Component {
     this.state = {
       // user: "user1",
       // dateTimeOfSession: "20190220_220405"
-      user: "",
-      dateTimeOfSession: "",
     }
     this.serverURL = "http://68.183.114.149:5000/"
     this.dormioSampleRate = 10.0 // hz
@@ -131,6 +129,7 @@ class App extends Component {
         mode: 'cors',
       };
 
+    if(this.state.user && this.state.dateTimeOfSession && this.state.user != "" && this.state.dateTimeOfSession != "")  {
     fetch(
       this.buildUrl(this.serverURL+"data", {
         deviceUUID: this.state.user,
@@ -173,6 +172,19 @@ class App extends Component {
         (res) => {
           res.json().then((data) => {
             this.setExperimentParameters(data.parameters);
+          })
+        });
+
+
+    }
+    fetch(
+        this.serverURL+"getUsers",config)
+      .then(
+        (res) => {
+          res.json().then((data) => {
+            this.setState({
+              usersAndDates:data,
+            })
           })
         });   
   }
@@ -243,7 +255,7 @@ class App extends Component {
   
   renderDataInput() {
     return (
-        <DataInput  onSubmit = {(user, dateTimeOfSession) => this.onSubmit(user, dateTimeOfSession)} />
+        <DataInput  onSubmit = {(user, dateTimeOfSession) => this.onSubmit(user, dateTimeOfSession)} usersAndDates = {this.state.usersAndDates}/>
       );
   }
 

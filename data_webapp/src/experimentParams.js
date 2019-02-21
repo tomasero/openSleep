@@ -10,7 +10,7 @@ class ExperimentParams extends Component {
 		let rows = []
 		for(let paramKey in this.props.experimentParams) {
 			rows.push(
-				<tr>
+				<tr key = {paramKey + this.props.experimentParams[paramKey]}>
 					<td>{paramKey}</td>
 					<td>{this.props.experimentParams[paramKey]}</td>
 				</tr>

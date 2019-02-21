@@ -15,24 +15,47 @@ class DataInput extends Component {
 	constructor(props) {
 		super(props)
 		this.props = props
+		this.state = {}
 	}
 
 	renderUserAutoComplete() {
+		if(this.props.usersAndDates) {
+			let options = [];
+			for(let user in this.props.usersAndDates) {
+				options.push(
+					<option key = {user} value = {user}/>
+					);
+			}
 
-		let options = [];
-
-		for(let i = 0; i < 200; i++) {
-			options.push(
-				<option value = {i.toString()}/>
-				);
+			return options;
 		}
 
-		return options;
+	}
+
+	renderDateAutoComplete() {
+		const user = this.state.user;
+		if(user && this.props.usersAndDates && this.props.usersAndDates.hasOwnProperty(user)) {
+			let options = [];
+			console.log(this.state, this.props.usersAndDates);
+			for(let date of this.props.usersAndDates[user]) {
+				options.push(
+					<option key = {date} value = {date}/>
+					);
+			}
+
+			return options;
+		}
+	}
+
+	handleUserChange(e) {
+		this.setState({
+			user: e.target.value,
+		})
 	}
 
 	render() {
 		const userAutoComplete = this.renderUserAutoComplete();
-
+		const dateAutoComplete = this.renderDateAutoComplete();
 		return (
 			<div className = "DataInput">
 			<div className ="row">
@@ -41,7 +64,7 @@ class DataInput extends Component {
 				<div className = "col-2">
 				  <div class="form-group">
 
-			 <input list = "userAutoComplete" ref = 'userFormControl' placeholder="User (uuidPrefix + deviceUUID)" className = "form-control"/>
+			 <input list = "userAutoComplete" ref = 'userFormControl' placeholder="User (uuidPrefix + deviceUUID)" className = "form-control" onChange = {(e) => this.handleUserChange(e)}/>
 		 		        <datalist id="userAutoComplete">
 		 		        		{userAutoComplete}
       					</datalist>
@@ -54,6 +77,7 @@ class DataInput extends Component {
 
 				 		<input list = "dateTimeAutoComplete" ref = 'dateTimeFormControl' placeholder="DateTime (%Y%M%D_H%m%s)" className = "form-control"/>
 				 		        <datalist id="dateTimeAutoComplete">
+				 		        		{dateAutoComplete}
               					</datalist>
 				 	</div>
 				 	</div>
