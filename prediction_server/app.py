@@ -245,7 +245,7 @@ def getParams():
 
     with open(get_params_filename(device_uuid, date_time), 'r') as f:
         txt = f.read()
-    response = json.loads(txt)
+    response = jsonify({"parameters" : txt})
     return addCORS(response)
 
 
