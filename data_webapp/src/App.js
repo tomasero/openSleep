@@ -5,14 +5,18 @@ import './App.css';
 import Graph from './graph';
 import {getDate} from './dateFormatter';
 import Button from 'react-bootstrap/Button';
+import ExperimentParams from './experimentParams';
+import DataInput from './dataInput';
 
 class App extends Component {
 
   constructor(props) {
     super(props);
     this.state = {
-      user: "testing-2AC84546-C29F-4463-9ACF-391702D2AA62",
-      dateTimeOfSession: "20190127_154047"
+      // user: "user1",
+      // dateTimeOfSession: "20190220_220405"
+      user: "",
+      dateTimeOfSession: "",
     }
     this.serverURL = "http://68.183.114.149:5000/"
     this.dormioSampleRate = 10.0 // hz
@@ -63,7 +67,6 @@ class App extends Component {
         eda: eda
       }
     });
-    console.log(this.state)
   }
 
   setTriggersData(data) {
@@ -85,7 +88,6 @@ class App extends Component {
         triggers: triggers,
       }
     })
-    console.log(this.state)
   }
 
   setHBOSSData(data) {
@@ -109,6 +111,17 @@ class App extends Component {
       }
     })
     console.log(this.state)
+  }
+
+  setExperimentParameters(params) {
+    let experimentParameters = {}
+    for(let paramValPair of params.split('\n')) {
+        let paramValArr = paramValPair.split(',')
+        experimentParameters[paramValArr[0]] = paramValArr[1];
+    }
+    this.setState({
+      experimentParameters: experimentParameters
+    })
   }
 
   getData() {
@@ -151,6 +164,28 @@ class App extends Component {
             this.setHBOSSData(data["hboss"])
           })
         });
+    fetch(
+      this.buildUrl(this.serverURL+"getParams", {
+        deviceUUID: this.state.user,
+        datetime: this.state.dateTimeOfSession
+      }),config)
+      .then(
+        (res) => {
+          res.json().then((data) => {
+            this.setExperimentParameters(data.parameters);
+          })
+        });   
+  }
+
+  onSubmit(user, dateTimeOfSession) {
+    console.log("onSubmit", user, dateTimeOfSession);
+    this.setState({
+      user: user,
+      dateTimeOfSession: dateTimeOfSession,
+    }, () => {
+      this.getData();
+    });
+
   }
 
   renderGraph(dataPoints, title, yLabel, xLabel) {
@@ -193,14 +228,39 @@ class App extends Component {
         );
     }
   }
+
+  renderExperimentParameters() {
+    if(this.state.experimentParameters) {
+      return (
+          <div>
+
+            <ExperimentParams experimentParams = {this.state.experimentParameters}/>
+
+          </div>
+        );
+    }
+  }
   
+  renderDataInput() {
+    return (
+        <DataInput  onSubmit = {(user, dateTimeOfSession) => this.onSubmit(user, dateTimeOfSession)} />
+      );
+  }
+
   render() {
     return (
       <div className="App">
         <h1 style={{marginTop: 0}}>Dreamcatcher Dormio Data</h1>
         <div className = "container-fluid">
+            {this.renderDataInput()}
+            <div className = "row">
+              <div className = "col">
+                {this.renderExperimentParameters()}
+                </div>
+            </div>
           {this.renderGraphs()}
         </div>
+
       </div>
     );
   }

@@ -19,18 +19,18 @@ class Graph extends Component {
 			animationEnabled: true,
 			zoomEnabled: true,
 			title: {
-				text: this.title,
+				text: this.propstitle,
 			},
 			axisY: {
-				title: this.yLabel,
+				title: this.props.yLabel,
 				includeZero: false
 			},
 			axisX: {
-				title: this.xLabel,
+				title: this.props.xLabel,
 			},
 			data: [{
 				type: "spline",
-				dataPoints: this.data,
+				dataPoints: this.props.data,
 			}],
 		}
 
