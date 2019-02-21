@@ -13,8 +13,10 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      user: "user1",
-      dateTimeOfSession: "20190220_220405"
+      // user: "user1",
+      // dateTimeOfSession: "20190220_220405"
+      user: "",
+      dateTimeOfSession: "",
     }
     this.serverURL = "http://68.183.114.149:5000/"
     this.dormioSampleRate = 10.0 // hz
@@ -65,7 +67,6 @@ class App extends Component {
         eda: eda
       }
     });
-    console.log(this.state)
   }
 
   setTriggersData(data) {
@@ -87,7 +88,6 @@ class App extends Component {
         triggers: triggers,
       }
     })
-    console.log(this.state)
   }
 
   setHBOSSData(data) {
@@ -122,7 +122,6 @@ class App extends Component {
     this.setState({
       experimentParameters: experimentParameters
     })
-    console.log(this.state)
   }
 
   getData() {
@@ -178,6 +177,17 @@ class App extends Component {
         });   
   }
 
+  onSubmit(user, dateTimeOfSession) {
+    console.log("onSubmit", user, dateTimeOfSession);
+    this.setState({
+      user: user,
+      dateTimeOfSession: dateTimeOfSession,
+    }, () => {
+      this.getData();
+    });
+
+  }
+
   renderGraph(dataPoints, title, yLabel, xLabel) {
     if(dataPoints) {
       return <Graph data = {dataPoints} title = {title} yLabel = {yLabel} xLabel = {xLabel}/>
@@ -224,7 +234,7 @@ class App extends Component {
       return (
           <div>
 
-            <ExperimentParams experimentParams = {this.state.experimentParameters} />
+            <ExperimentParams experimentParams = {this.state.experimentParameters}/>
 
           </div>
         );
@@ -233,7 +243,7 @@ class App extends Component {
   
   renderDataInput() {
     return (
-        <DataInput/>
+        <DataInput  onSubmit = {(user, dateTimeOfSession) => this.onSubmit(user, dateTimeOfSession)} />
       );
   }
 

@@ -4,16 +4,15 @@ import Table from 'react-bootstrap/Table';
 class ExperimentParams extends Component {
 	constructor(props) {
 		super(props);
-		this.experimentParams = props.experimentParams
 	} 
 
 	getParameterRows() {
 		let rows = []
-		for(let paramKey in this.experimentParams) {
+		for(let paramKey in this.props.experimentParams) {
 			rows.push(
 				<tr>
 					<td>{paramKey}</td>
-					<td>{this.experimentParams[paramKey]}</td>
+					<td>{this.props.experimentParams[paramKey]}</td>
 				</tr>
 				);
 		}
