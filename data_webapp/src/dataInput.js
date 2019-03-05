@@ -36,7 +36,6 @@ class DataInput extends Component {
 		const user = this.state.user;
 		if(user && this.props.usersAndDates && this.props.usersAndDates.hasOwnProperty(user)) {
 			let options = [];
-			console.log(this.state, this.props.usersAndDates);
 			for(let date of this.props.usersAndDates[user]) {
 				options.push(
 					<option key = {date} value = {date}/>
@@ -62,7 +61,7 @@ class DataInput extends Component {
 				<div className = "col">
 				</div>
 				<div className = "col-2">
-				  <div class="form-group">
+				  <div className="form-group">
 
 			 <input list = "userAutoComplete" ref = 'userFormControl' placeholder="User (uuidPrefix + deviceUUID)" className = "form-control" onChange = {(e) => this.handleUserChange(e)}/>
 		 		        <datalist id="userAutoComplete">
@@ -73,7 +72,7 @@ class DataInput extends Component {
 				 <div className = "col-3">
 				 	<div className = "row">
 				 	<div className = "col-8">
-				 					  <div class="form-group">
+				 					  <div className="form-group">
 
 				 		<input list = "dateTimeAutoComplete" ref = 'dateTimeFormControl' placeholder="DateTime (%Y%M%D_H%m%s)" className = "form-control"/>
 				 		        <datalist id="dateTimeAutoComplete">
@@ -82,7 +81,7 @@ class DataInput extends Component {
 				 	</div>
 				 	</div>
 				 	<div className = "col-4">
-				  	<Button variant="secondary" onClick = {() => this.onSubmit()}>Submit</Button>
+				  			<Button variant="secondary" onClick = {() => this.onSubmit()}>Submit</Button>
 				  	</div>
 				  	</div>
 				 </div>

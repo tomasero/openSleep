@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 import Graph from './graph';
 import {getDate} from './dateFormatter';
-import Button from 'react-bootstrap/Button';
 import ExperimentParams from './experimentParams';
 import DataInput from './dataInput';
+import UploadModal from './uploadModal';
 
 class App extends Component {
 
@@ -15,6 +14,7 @@ class App extends Component {
     this.state = {
       // user: "user1",
       // dateTimeOfSession: "20190220_220405"
+      plotOnsets: false,
     }
     this.serverURL = "http://68.183.114.149:5000/"
     this.dormioSampleRate = 10.0 // hz
@@ -85,7 +85,7 @@ class App extends Component {
         ...this.state.data,
         triggers: triggers,
       }
-    })
+    });
   }
 
   setHBOSSData(data) {
@@ -108,7 +108,6 @@ class App extends Component {
         maxHBOSS : maxHBOSS,
       }
     })
-    console.log(this.state)
   }
 
   setExperimentParameters(params) {
@@ -190,7 +189,6 @@ class App extends Component {
   }
 
   onSubmit(user, dateTimeOfSession) {
-    console.log("onSubmit", user, dateTimeOfSession);
     this.setState({
       user: user,
       dateTimeOfSession: dateTimeOfSession,
@@ -200,9 +198,15 @@ class App extends Component {
 
   }
 
+  handleOnsetToggle(e) {
+    this.setState({
+        plotOnsets: !this.state.plotOnsets
+    });
+  }
+
   renderGraph(dataPoints, title, yLabel, xLabel) {
     if(dataPoints) {
-      return <Graph data = {dataPoints} title = {title} yLabel = {yLabel} xLabel = {xLabel}/>
+      return <Graph data = {dataPoints} title = {title} yLabel = {yLabel} xLabel = {xLabel} plotOnsets = {this.state.plotOnsets} onsets = {this.state.data.triggers}/>
     }
   }
 
@@ -259,12 +263,24 @@ class App extends Component {
       );
   }
 
+  renderUploadModal() {
+    return (
+      <UploadModal/>
+      );
+  }
+
   render() {
     return (
       <div className="App">
         <h1 style={{marginTop: 0}}>Dreamcatcher Dormio Data</h1>
         <div className = "container-fluid">
             {this.renderDataInput()}
+            {this.renderUploadModal()}
+                            <input className="form-check-input" type="checkbox" value="checked" id="defaultCheck1" onChange = {(e) => {this.handleOnsetToggle(e)}}/>
+                              <label className="form-check-label" htmlFor="defaultCheck1">
+    Plot Onsets
+  </label>
+
             <div className = "row">
               <div className = "col">
                 {this.renderExperimentParameters()}

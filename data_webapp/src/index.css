@@ -26,3 +26,17 @@ code {
 .DataInput {
 	margin-bottom: 20px;
 }
+
+.submitAndUpload {
+  display:inline-block;
+}
+
+.uploadButton {
+  color: #74777c;
+  font-size: 30pt;
+}
+
+.uploadButton:hover p{
+  color: #bcc0c6;
+  cursor: pointer;
+}

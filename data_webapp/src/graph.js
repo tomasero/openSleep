@@ -2,15 +2,24 @@ import React, { Component } from 'react';
 import CanvasJSChart from './canvas/canvasjs.react.js';
 
 class Graph extends Component {
-	constructor(props) {
-		super(props);
-		this.data = props.data;
-		this.onsets = props.onsets;
-		this.showOnsets = props.showOnsets;
-		this.title = props.title;
-		this.yLabel = props.yLabel;
-		this.xLabel = props.xLabel;
-		console.log(this.data)
+
+	getOnsetData() {
+
+		if(this.props.onsets) {
+			let stripLines = [];
+			let falsePositiveColor = "#e26a6a";
+			let truePositiveColor  = "#3fc380";
+			for(let onsetChunk of this.props.onsets) {
+				stripLines.push({
+					startValue: onsetChunk["timeStamp"],
+					endValue: onsetChunk["timeStamp"] + 0.5,
+					color: (onsetChunk["falsePositive"] == "True") ? falsePositiveColor : truePositiveColor,
+					label: onsetChunk["trigger"]
+				})
+			}
+
+				return stripLines
+			}
 	}
 
 	render() {
@@ -31,8 +40,14 @@ class Graph extends Component {
 			data: [{
 				type: "spline",
 				dataPoints: this.props.data,
-			}],
+			}
+			]
 		}
+
+		if(this.props.plotOnsets) {
+			options.axisX.stripLines = this.getOnsetData()
+		}
+
 
 		return (
 			<div className = "Graph">
