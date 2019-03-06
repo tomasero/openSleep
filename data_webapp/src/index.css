@@ -54,3 +54,13 @@ code {
   justify-content: flex-start !important;
 
 }
+
+.infoPopOver {
+  max-width: 450px !important;
+  position: relative;
+  float: right;
+}
+
+.infoButton {
+  margin-left: 53%;
+}

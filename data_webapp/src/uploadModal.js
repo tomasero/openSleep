@@ -6,6 +6,9 @@ import Form from 'react-bootstrap/Form'
 import Col from 'react-bootstrap/Col'
 import axios from 'axios';
 import Alert from 'react-bootstrap/Alert'
+import Overlay from 'react-bootstrap/Overlay'
+import Popover from 'react-bootstrap/Popover'
+import OverlayTrigger from 'react-bootstrap/OverlayTrigger'
 
 class UploadModal extends Component {
 
@@ -296,6 +299,26 @@ class UploadModal extends Component {
     	}
     }
 
+    renderInfoPopOver() {
+    	return(
+	    	<Popover className = "infoPopOver" id = "popover-basic" title = "Data Format">
+	    		<ul>
+	    		<li>Experiment Parameters: .csv : $parameter$ , $value$ </li>
+	    		<li>Dormio Data: .csv : flex,ecg,eda \newline </li>
+	    		<li>HBOSS: .csv : mean, max, startTimePredict, endTimePredict</li>
+	    		<li>Triggers: .csv : EDA,2019-01-25 03:49:40.794231,$False Positive?$</li>
+	    		</ul>
+	    	</Popover>
+	    )
+    }
+    renderInfoButton() {
+    	return(
+		  <OverlayTrigger className = "infoButton" trigger="click" placement="right" overlay={this.renderInfoPopOver()}>
+		    <Button className ="infoButton" variant="info">Info</Button>
+		  </OverlayTrigger>
+		  )
+      }
+
 	render() {
 		return(
 			<div>
@@ -312,6 +335,8 @@ class UploadModal extends Component {
 			>
           <Modal.Header closeButton>
             <Modal.Title>Upload/View New Data</Modal.Title>
+            	                         {this.renderInfoButton()}
+
           </Modal.Header>
           <Modal.Body>
           	<div className = "row">
