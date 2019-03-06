@@ -17,10 +17,12 @@ import config
 import features
 from classifiers import SimpleClassifier
 from pyod.models.hbos import HBOS
+from flask_cors import CORS, cross_origin
 
 from str_helpers import *
 
 app = Flask(__name__)
+# CORS(app)
 
 @app.route('/init', methods=['GET'])
 def init():
@@ -249,6 +251,40 @@ def getParams():
     response = jsonify({"parameters" : txt})
     return addCORS(response)
 
+@app.route('/dataUpload', methods=['GET', 'POST'])
+@cross_origin()
+def dataUpload():
+    app.logger.info(request.values)
+    json_ = request.values
+    data_folder_path = "./"+get_data_folder_path(json_['deviceUUID'], json_['datetime'])
+
+    replaceRemoteVersion = not json_['replaceRemoteVersion'] == 'false'
+    app.logger.info(replaceRemoteVersion)
+    if(os.path.exists(data_folder_path) and not replaceRemoteVersion):
+        return jsonify({"msg" : "Already Exists"})
+    elif(not os.path.exists(data_folder_path) or (json_['replaceRemoteVersion'])):
+        app.logger.info(request.files)
+        
+        if(os.path.exists(data_folder_path)):
+            clearDirectory(data_folder_path)
+        else:
+            os.makedirs(data_folder_path)
+
+        for file_key in config.uploaded_data_keys:
+            if file_key in request.files:
+                file = request.files[file_key]
+                filename = data_folder_path+config.key_to_fn[file_key]
+                file.save(filename)
+        return jsonify({"status": 200, "msg": "all good"})
+
+def clearDirectory(folder):
+    for f in os.listdir(folder):
+        file_path = os.path.join(folder, f)
+        try:
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
+        except Exception as e:
+            print(e)
 
 def addCORS(resp):
     resp.headers.add('Access-Control-Allow-Origin', '*')

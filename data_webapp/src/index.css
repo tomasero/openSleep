@@ -40,3 +40,17 @@ code {
   color: #bcc0c6;
   cursor: pointer;
 }
+
+.fileLabel {
+  margin-bottom: 0;
+}
+
+.fileRow {
+  margin-bottom: 10px;
+}
+
+.alertText {
+  color: #ce2727;
+  justify-content: flex-start !important;
+
+}

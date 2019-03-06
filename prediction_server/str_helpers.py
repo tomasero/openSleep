@@ -6,6 +6,9 @@ def make_suffix(device_uuid, date_time):
 
 	return device_uuid + "/" + date_time +"/"
 
+def get_data_folder_path(device_uuid, date_time):
+	return config.data_filepath+make_suffix(device_uuid, date_time)
+
 def get_data_filename(device_uuid, date_time):
 	return config.data_filepath + make_suffix(device_uuid, date_time) + "data.csv"
 

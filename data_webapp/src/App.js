@@ -43,6 +43,10 @@ class App extends Component {
       return url;
   }
 
+  clearAllGraphData() {
+    delete this.state.data;
+  }
+
   setSensorData(data) {
     let flex = []
     let ppm = []
@@ -50,11 +54,13 @@ class App extends Component {
     let idx = 0;
     for(let chunk of data.split("|")) {
       const splitChunk = chunk.split(',')
-      let xPoint = idx * (1.0/this.dormioSampleRate)
-      flex.push({y : parseInt(splitChunk[0]), x: xPoint});
-      ppm.push({y : parseInt(splitChunk[1]), x: xPoint});
-      eda.push({y : parseInt(splitChunk[2]), x: xPoint});
-      idx+=1;
+      if(splitChunk.length == 3) {
+        let xPoint = idx * (1.0/this.dormioSampleRate)
+        flex.push({y : parseInt(splitChunk[0]), x: xPoint});
+        ppm.push({y : parseInt(splitChunk[1]), x: xPoint});
+        eda.push({y : parseInt(splitChunk[2]), x: xPoint});
+        idx+=1;
+      }
     }
 
     this.setState({
@@ -193,6 +199,7 @@ class App extends Component {
       user: user,
       dateTimeOfSession: dateTimeOfSession,
     }, () => {
+      this.clearAllGraphData();
       this.getData();
     });
 
@@ -202,6 +209,33 @@ class App extends Component {
     this.setState({
         plotOnsets: !this.state.plotOnsets
     });
+  }
+
+  handleViewLocal(uploadModalData) {
+    this.clearAllGraphData();
+
+    this.setState({
+      deviceUUID: uploadModalData.deviceUUID,
+      datetime: uploadModalData.datetime,
+    })
+
+    const dormioData = uploadModalData.dormioData;
+    const triggers = uploadModalData.triggers;
+    const hboss = uploadModalData.hboss;
+    const expParams = uploadModalData.expParams;
+    if(dormioData) {
+      this.setSensorData(dormioData);
+    }
+    if(triggers) {
+      this.setTriggersData(triggers);
+    }
+    if(hboss) {
+      this.setHBOSSData(hboss);
+    }
+    if(expParams) {
+      this.setExperimentParameters(expParams);
+    }
+    console.log("Upload Modal Data:", uploadModalData);
   }
 
   renderGraph(dataPoints, title, yLabel, xLabel) {
@@ -265,7 +299,7 @@ class App extends Component {
 
   renderUploadModal() {
     return (
-      <UploadModal/>
+      <UploadModal onViewLocal = {(uploadModalData) => this.handleViewLocal(uploadModalData)}/>
       );
   }
 
