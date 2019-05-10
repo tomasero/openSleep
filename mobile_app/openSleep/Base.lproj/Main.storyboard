@@ -274,18 +274,37 @@
                                     <action selector="testRecordingsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nn4-sk-L2H"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="8CY-b4-eoa" userLabel="connectButton">
+                                <rect key="frame" x="48" y="64" width="98" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="CONNECT">
+                                    <color key="titleColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="connectButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aJj-AI-4b6"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Record on speech" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a0i-bo-mbC">
+                                <rect key="frame" x="187" y="235" width="110" height="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="H5G-do-Jy5">
+                                <rect key="frame" x="305" y="228" width="51" height="31"/>
+                            </switch>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0Ui-kh-Ahd">
-                                <rect key="frame" x="0.0" y="275" width="375" height="444"/>
+                                <rect key="frame" x="0.0" y="276" width="375" height="444"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="429-f8-lZi">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="368"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="362"/>
                                         <subviews>
                                             <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="(optional)" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kGT-hQ-mow">
                                                 <rect key="frame" x="219" y="8" width="84" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="uuidPrefixTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="l5g-oc-Gv8"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="O54-jG-Siw"/>
@@ -324,7 +343,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="maxOnsetsChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="egp-ck-A1N"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="pMH-lE-rND"/>
@@ -349,7 +368,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="promptTimeChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="lwh-5Z-fAy"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="Eyc-UZ-ma3"/>
@@ -360,7 +379,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="waitForOnsetTimeChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="Lms-NP-mfw"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="ivf-Ak-Ypn"/>
@@ -385,7 +404,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="calibrationTimeChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="hmo-pa-bw1"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="aHV-PT-HwM"/>
@@ -424,7 +443,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="falsePosFlexClosedTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="CkR-lA-eZM"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="IiO-gw-iCi"/>
@@ -435,7 +454,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="falsePosFlexOpenTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="FZR-cW-T7u"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="Xen-Pc-7ao"/>
@@ -446,7 +465,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="minRecordingTimeTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="5b3-KS-BIi"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="rIK-N2-D7c"/>
@@ -457,7 +476,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="maxRecordingTimeTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="1jR-zm-p0N"/>
                                                     <outlet property="delegate" destination="BYZ-38-t0r" id="b3I-IB-Hxq"/>
@@ -489,7 +508,7 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <nil key="textColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
                                                     <action selector="maxTimeToFirstOnsetTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="5wj-IB-CzQ"/>
                                                 </connections>
@@ -501,10 +520,34 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Min Time To 1st Onset:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ObC-gu-zBn">
+                                                <rect key="frame" x="38" y="366" width="174" height="21"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="240" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="F0q-Ua-ceP">
+                                                <rect key="frame" x="221" y="366" width="82" height="30"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <nil key="textColor"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                                <connections>
+                                                    <action selector="minTimeToFirstOnsetTextChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="FHA-CW-J58"/>
+                                                </connections>
+                                            </textField>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="sec" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rnq-Tt-6Dl">
+                                                <rect key="frame" x="316" y="368" width="22" height="16"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" priority="250" constant="380" id="ivu-Bo-VZK"/>
+                                            <constraint firstAttribute="height" priority="250" constant="420" id="ivu-Bo-VZK"/>
                                         </constraints>
                                     </view>
                                 </subviews>
@@ -517,25 +560,6 @@
                                     <constraint firstAttribute="trailing" secondItem="429-f8-lZi" secondAttribute="trailing" id="zri-RN-bIV"/>
                                 </constraints>
                             </scrollView>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="8CY-b4-eoa" userLabel="connectButton">
-                                <rect key="frame" x="48" y="64" width="98" height="36"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                <state key="normal" title="CONNECT">
-                                    <color key="titleColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="connectButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aJj-AI-4b6"/>
-                                </connections>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Record on speech" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a0i-bo-mbC">
-                                <rect key="frame" x="187" y="235" width="110" height="16"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="H5G-do-Jy5">
-                                <rect key="frame" x="305" y="228" width="51" height="31"/>
-                            </switch>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -634,6 +658,7 @@
                         <outlet property="meanFlexLabel" destination="BST-sG-trd" id="J0o-Yo-aEu"/>
                         <outlet property="meanHRLabel" destination="Llb-jj-e18" id="rsE-4m-9K3"/>
                         <outlet property="minRecordingTimeText" destination="P1j-IQ-2uK" id="Ve0-WO-AdY"/>
+                        <outlet property="minTimeToFirstOnset" destination="F0q-Ua-ceP" id="ob7-dA-TLf"/>
                         <outlet property="numOnsetsText" destination="GXL-n2-WDn" id="gSA-tt-NTK"/>
                         <outlet property="promptTimeText" destination="Xsm-ie-PYx" id="Xyz-2q-rwa"/>
                         <outlet property="recordPromptButton" destination="QVG-T9-TKM" id="2SV-IG-SMb"/>

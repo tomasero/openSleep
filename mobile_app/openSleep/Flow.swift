@@ -28,7 +28,8 @@ class FlowManager : NSObject {
       "*", "^", "%",
       "$", "#", "@",
       "!", "+", "=",
-      "|", "[", "]"
+      "|", "[", "]",
+      "/"
   ]
 
   private override init () {

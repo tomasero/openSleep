@@ -41,6 +41,27 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     if defaults.object(forKey: "deltaEDA") == nil {
       defaults.set(10, forKey: "deltaEDA")
     }
+    if defaults.object(forKey: "minTimeToFirstOnset") == nil {
+      defaults.set(300, forKey:"minTimeToFirstOnset")
+    }
+    if defaults.object(forKey:"falsePosFlexOpen") == nil {
+      defaults.set(750, forKey:"falsePosFlexOpen")
+    }
+    if defaults.object(forKey:"falsePosFlexClosed") == nil {
+      defaults.set(430, forKey:"falsePosFlexClosed")
+    }
+    if defaults.object(forKey: "minRecordingTime") == nil {
+      defaults.set(30, forKey:"minRecordingTime")
+    }
+    if defaults.object(forKey:"maxRecordingTime") == nil {
+      defaults.set(120, forKey:"maxRecordingTime")
+    }
+    if defaults.object(forKey: "maxTimeToFirstOnset") == nil {
+      defaults.set(600, forKey:"maxTimeToFirstOnset")
+    }
+    if defaults.object(forKey: "phoneUUIDPrefix") == nil {
+      defaults.set("subject", forKey:"phoneUUIDPrefix")
+    }
     return true
   }
 

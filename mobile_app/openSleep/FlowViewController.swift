@@ -111,6 +111,8 @@ class FlowViewController:
   
   var maxTimeToFirstOnsetTimer = Timer()
   
+  var startTime: Double = 0
+
   func getDeviceUUID() {
     if UserDefaults.standard.object(forKey: "phoneUUID") == nil {
       UserDefaults.standard.set(UUID().uuidString, forKey: "phoneUUID")
@@ -403,7 +405,7 @@ class FlowViewController:
             self.calibrateEnd()
             
             SleepAPI.apiGet(endpoint: "train", params: self.getParams)
-            
+            self.startTime = CFAbsoluteTimeGetCurrent()
             self.detectSleepTimerPause = false
             self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
             
@@ -470,10 +472,11 @@ class FlowViewController:
   }
   @objc func detectSleep(sender: Timer) {
     print("TIMERBASED?", flowManager.isTimerBased)
+    let shouldTriggerFirstOnset = (CFAbsoluteTimeGetCurrent() - startTime) > Double(UserDefaults.standard.object(forKey:"minTimeToFirstOnset") as! Int)
     SleepAPI.apiGet(endpoint: "predict", params: getParams, onSuccess: { json in
       
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
-      if (!self.detectSleepTimerPause && self.numOnsets == 0) {
+      if (!self.detectSleepTimerPause && self.numOnsets == 0 && shouldTriggerFirstOnset) {
         if (self.dreamDetectorControl.selectedSegmentIndex == 0 && score >= (UserDefaults.standard.object(forKey: "deltaHBOSS") as! Int)) {
           DispatchQueue.main.async {
             self.sleepDetected(trigger: OnsetTrigger.HBOSS)
@@ -774,6 +777,9 @@ class FlowViewController:
       }
       if let maxTimeToFirstOnset = defaults.object(forKey: "maxTimeToFirstOnset") {
         ret["maxTimeToFirstOnset"] = String(maxTimeToFirstOnset as! Int)
+      }
+      if let minTimeToFirstOnset = defaults.object(forKey: "minTimeToFirstOnset") {
+        ret["minTimeToFirstOnset"] = String(minTimeToFirstOnset as! Int)
       }
       
     return ret

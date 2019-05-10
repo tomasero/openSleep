@@ -72,6 +72,8 @@ class ViewController: UIViewController,
   
   @IBOutlet weak var speakingDetectionInput: UISwitch!
   
+  @IBOutlet weak var minTimeToFirstOnset: UITextField!
+  
   var maxTimeToFirstOnsetTimer = Timer()
   
   var playedAudio: Bool = false
@@ -128,6 +130,8 @@ class ViewController: UIViewController,
   var falsePositive: Bool = false // whether the detected onset was a false positive
   
   var sleepIsDetected: Bool = false
+  
+  var startTime: Double = 0
   
   func dormioConnected() {
     print("Connected")
@@ -300,12 +304,16 @@ class ViewController: UIViewController,
         
         self.timer = Timer.scheduledTimer(withTimeInterval: Double(self.calibrationTimeText.text!)! - 30, repeats: false, block: {
           t in
+          
+          print("Calibration Finished, calibrated for",self.calibrationTimeText.text!)
+          self.startTime = CFAbsoluteTimeGetCurrent()
+          
           self.startButton.setTitle("WAITING FOR SLEEP", for: .normal)
           self.currentStatus = "RUNNING"
           self.calibrateEnd()
           
           SleepAPI.apiGet(endpoint: "train", params: self.getParams)
-          
+          // here we start a time counter for time for mintime to first onset
           self.detectSleepTimerPause = false
           self.detectSleepTimer = Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(self.detectSleep(sender:)), userInfo: nil, repeats: true)
           
@@ -379,6 +387,7 @@ class ViewController: UIViewController,
       ret["maxTimeToFirstOnset"] = maxTimeToFirstOnsetText?.text
       ret["isUsingSpeechDetection"] = String(speakingDetectionInput.isOn)
       ret["isSimulatedData"] = String(simulationInput.isOn)
+      ret["minTimeToFirstOnset"] = minTimeToFirstOnset?.text
     }
     return ret
   }
@@ -395,25 +404,17 @@ class ViewController: UIViewController,
     deltaEDAText?.text = String(defaults.object(forKey: "deltaEDA") as! Int)
     deltaHRText?.text = String(defaults.object(forKey: "deltaHR") as! Int)
     deltaFlexText?.text = String(defaults.object(forKey: "deltaFlex") as! Int)
+    minTimeToFirstOnset?.text = String(defaults.object(forKey: "minTimeToFirstOnset") as! Int)
+    falsePosFlexOpenText?.text = String(defaults.object(forKey:"falsePosFlexOpen") as! Int)
+    falsePosFlexClosedText?.text = String(defaults.object(forKey:"falsePosFlexClosed") as! Int)
+    uuidPrefixText?.text = String(defaults.object(forKey:"phoneUUIDPrefix") as! String)
+    minRecordingTimeText?.text = String(defaults.object(forKey:"minRecordingTime") as! Int)
+    maxRecordingTimeText?.text = String(defaults.object(forKey:"maxRecordingTime") as! Int)
+    maxTimeToFirstOnsetText?.text = String(defaults.object(forKey:"maxTimeToFirstOnset") as! Int)
+    minTimeToFirstOnset.text = String(defaults.object(forKey:"minTimeToFirstOnset") as! Int)
+
     
-    if let val = defaults.object(forKey: "falsePosFlexOpen") {
-      falsePosFlexOpenText?.text = String(val as! Int)
-    }
-    if let val = defaults.object(forKey: "falsePosFlexClosed") {
-      falsePosFlexClosedText?.text = String(val as! Int)
-    }
-    if let prefix = defaults.object(forKey: "phoneUUIDPrefix") {
-      uuidPrefixText?.text = prefix as! String
-    }
-    if let val = defaults.object(forKey: "minRecordingTime") {
-      minRecordingTimeText?.text = String(val as! Int)
-    }
-    if let val = defaults.object(forKey: "maxRecordingTime") {
-      maxRecordingTimeText?.text = String(val as! Int)
-    }
-    if let val = defaults.object(forKey:"maxTimeToFirstOnset") {
-      maxTimeToFirstOnsetText?.text = String(val as! Int)
-    }
+    setUpDismissNumPadOnTap()
     
     setFalsePositiveFlexParams()
     setRecordingTimes()
@@ -429,7 +430,7 @@ class ViewController: UIViewController,
   }
   
   func areRequiredParametersSet()-> Bool {
-    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "") && (falsePosFlexOpenText?.text != "") && (falsePosFlexClosedText?.text != "") && (minRecordingTimeText?.text != "") && (maxRecordingTimeText?.text != "") && (deltaEDAText?.text != "") && (deltaHRText?.text != "") && (deltaHBOSSText?.text != "")
+    return (calibrationTimeText?.text != "") && (promptTimeText?.text != "") && (numOnsetsText?.text != "") && (waitForOnsetTimeText?.text != "") && (falsePosFlexOpenText?.text != "") && (falsePosFlexClosedText?.text != "") && (minRecordingTimeText?.text != "") && (maxRecordingTimeText?.text != "") && (deltaEDAText?.text != "") && (deltaHRText?.text != "") && (deltaHBOSSText?.text != "") && (minTimeToFirstOnset.text != "") && (maxTimeToFirstOnsetText.text != "")
   }
   
   func readDataFromCSV(fileName:String, fileType: String)-> String!{
@@ -445,6 +446,16 @@ class ViewController: UIViewController,
       print("File Read Error for file \(filepath)")
       return nil
     }
+  }
+  
+  func setUpDismissNumPadOnTap() {
+    let tapRecognizer = UITapGestureRecognizer()
+    tapRecognizer.addTarget(self, action: #selector(ViewController.didTapView))
+    self.view.addGestureRecognizer(tapRecognizer)
+  }
+  
+  @objc func didTapView(){
+  self.view.endEditing(true)
   }
   
   func cleanRows(file:String)->String{
@@ -484,13 +495,12 @@ class ViewController: UIViewController,
   @objc func detectSleep(sender: Timer) {
     
     var onsetTrigger: OnsetTrigger?
-    
+    let shouldTriggerFirstOnset = (CFAbsoluteTimeGetCurrent() - startTime) > Double(minTimeToFirstOnset.text!)!
     SleepAPI.apiGet(endpoint: "predict", params: self.getParams, onSuccess: { json in
       let score = Int((json["max_sleep"] as! NSNumber).floatValue.rounded())
       DispatchQueue.main.async {
         self.HBOSSLabel.text = String(score)
-        
-        if (!self.detectSleepTimerPause && self.numOnsets == 0 && score >= Int(self.deltaHBOSSText.text!)!) {
+        if (!self.detectSleepTimerPause && self.numOnsets == 0 && score >= Int(self.deltaHBOSSText.text!)! && shouldTriggerFirstOnset) {
           
           onsetTrigger = (onsetTrigger == nil) ? OnsetTrigger.HBOSS : onsetTrigger
           self.sleepDetected(trigger: onsetTrigger!)
@@ -499,7 +509,7 @@ class ViewController: UIViewController,
       }
     })
     
-    if (!detectSleepTimerPause) {
+    if (!detectSleepTimerPause && shouldTriggerFirstOnset) {
       var detected = false
       if (abs(lastHR - meanHR) >= Int(deltaHRText.text!)!) {
         HRValue.textColor = UIColor.red
@@ -807,12 +817,19 @@ Prompt Latency determines how long DreamCatcher will wait to ask you about your 
     UserDefaults.standard.set(Int(deltaEDAText.text!), forKey: "deltaEDA")
     startButton.isEnabled = areRequiredParametersSet() // check that all the paramters in experimental mode are non-empty before allowing start
   }
+  
+  @IBAction func minTimeToFirstOnsetTextChanged(_ sender: Any) {
+    print("Min Time To First Onset changed to: ", minTimeToFirstOnset.text!)
+    UserDefaults.standard.set(Int(minTimeToFirstOnset.text!), forKey: "minTimeToFirstOnset")
+    startButton.isEnabled = areRequiredParametersSet()
+  }
   @IBAction func uuidPrefixTextChanged(_ sender: Any) {
     var uuid = getDeviceUUID()
     
     if let prefix = uuidPrefixText.text {
       setUUIDPrefix(prefix)
     }
+    startButton.isEnabled = areRequiredParametersSet()
   }
   
   @IBAction func falsePosFlexOpenTextChanged(_ sender: Any) {
