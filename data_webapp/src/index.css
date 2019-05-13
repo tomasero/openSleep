@@ -1,0 +1,66 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Graph {
+	margin: 5px;
+}
+.ExperimentParams {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.DataInput {
+	margin-bottom: 20px;
+}
+
+.submitAndUpload {
+  display:inline-block;
+}
+
+.uploadButton {
+  color: #74777c;
+  font-size: 30pt;
+}
+
+.uploadButton:hover p{
+  color: #bcc0c6;
+  cursor: pointer;
+}
+
+.fileLabel {
+  margin-bottom: 0;
+}
+
+.fileRow {
+  margin-bottom: 10px;
+}
+
+.alertText {
+  color: #ce2727;
+  justify-content: flex-start !important;
+
+}
+
+.infoPopOver {
+  max-width: 450px !important;
+  position: relative;
+  float: right;
+}
+
+.infoButton {
+  margin-left: 53%;
+}

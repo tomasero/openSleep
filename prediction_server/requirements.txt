@@ -4,3 +4,4 @@ pandas
 scikit-learn
 scipy
 pyod
+flask-cors

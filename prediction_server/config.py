@@ -17,3 +17,6 @@ baseline_filepath = "models/"
 sample_size = 150
 # step size when extracting features
 step_size = 10
+
+uploaded_data_keys = ['dormioData', 'hboss', 'triggers', 'expParams']
+key_to_fn = {'dormioData': 'data.csv', 'hboss':'hboss.csv', 'triggers':'triggers.csv', 'expParams':'params.csv'}
