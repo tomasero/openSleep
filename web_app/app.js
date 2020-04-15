@@ -47,6 +47,9 @@ io.sockets.on('connection', function (socket) {
 });
 
 function sendData(data) {
+  if (data.length != 12) {
+    return;
+  }
   if (sock != null) {
     sock.emit('data', data);
     if (stream != null) {
@@ -54,6 +57,7 @@ function sendData(data) {
       flex = data.readUInt32LE(0);
       hr = data.readUInt32LE(4);
       eda = data.readUInt32LE(8);
+      console.log(eda);
       stream.write(flex + "," + hr + "," + eda);
     } else {
       flex = data.readUInt32LE(0);
