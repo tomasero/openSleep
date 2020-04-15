@@ -1,6 +1,6 @@
 # OpenSleep
 
-The development of the hardware and software for this system started and most of it was done during my first semester at the Fluid Interfaces Group of the MIT Media Lab. This technology was used for many projects, [Dormio](https://www.media.mit.edu/projects/sleep-creativity/ovewview) being the most notable. [Adam Horowitz](https://www.media.mit.edu/people/adamjhh/overview/) led the experiment design and execution to validate the system and [Oscar Rosello](https://www.media.mit.edu/people/rosello/overview/) the interaction and form factor. This project is part of a larger iniatiative called Engineering Dreams, which seeks to build technology that interfaces with the sleeping mind.
+The development of the hardware and software for this system started and most of it was done during my first semester at the Fluid Interfaces Group of the MIT Media Lab. This technology was used for many projects, [Dormio](https://www.media.mit.edu/projects/sleep-creativity/ovewview) being the most notable. This project is part of a larger iniatiative called Engineering Dreams, which seeks to build technology that interfaces with the sleeping mind.
 
 ![Dormio](/images/dormio.jpg)
 
@@ -67,4 +67,6 @@ Open the app:
 
 ### Mobile App
 
-The app development was led by [Eyal Perry](https://www.media.mit.edu/people/eyalp/overview/).
+## Acknowledgements 
+
+[Adam Horowitz](https://www.media.mit.edu/people/adamjhh/overview/) led the experiment design and execution to validate the system, [Oscar Rosello](https://www.media.mit.edu/people/rosello/overview/) the interaction and form factor, and  [Eyal Perry](https://www.media.mit.edu/people/eyalp/overview/) the iOS app development, signal processing and classification (and great mustache).
