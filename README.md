@@ -23,6 +23,29 @@
 
 ### PCB
 
+#### Design
+
+##### Schematic
+
+
+##### Layout 
+
+
+
+#### Fabrication
+
+You can either mill the PCB yourself using a CNC mill, or buy one from a PCB manufacturer.
+
+##### Mill it
+
+The original PCB for Doormio was made using a Roland MDX-20. All the PNG files used to mill the board can be found in the following folder:
+
+    /Users/Tomasero/Documents/MIT/Fall17/research/openSleep/hardware/PNG
+
+##### Order it
+
+[Oshpark!](https://oshpark.com/shared_projects/I6SkyNbt)
+
 ## Software
 
 ### Web App
