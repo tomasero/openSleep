@@ -69,4 +69,5 @@ Open the app:
 
 ## Acknowledgements 
 
-[Adam Horowitz](https://www.media.mit.edu/people/adamjhh/overview/) led the experiment design and execution to validate the system, [Oscar Rosello](https://www.media.mit.edu/people/rosello/overview/) the interaction and form factor, and  [Eyal Perry](https://www.media.mit.edu/people/eyalp/overview/) the iOS app development, signal processing and classification (and great mustache).
+[Adam Horowitz](https://www.media.mit.edu/people/adamjhh/overview/) led the experiment design and execution to validate the system, [Oscar Rosello](https://www.media.mit.edu/people/rosello/overview/) the interaction and form factor, and  [Eyal Perry](https://www.media.mit.edu/people/eyalp/overview/) the iOS app development, signal processing and classification (and great mustache). [Matthew Ha](https://github.com/matthewha123) continued the development of the iOS 
+    app and analysis of biosignals for sleep staging.
