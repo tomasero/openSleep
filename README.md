@@ -1,6 +1,6 @@
 # OpenSleep
 
-The development of the hardware and software for this system started and most of it was done during my first semester at the Fluid Interfaces Group of the MIT Media Lab. This technology was used for many projects, [Dormio](https://www.media.mit.edu/projects/sleep-creativity/ovewview) being the most notable. This project is part of a larger iniatiative called Engineering Dreams, which seeks to build technology that interfaces with the sleeping mind.
+The development of the hardware and software for this system started and most of it was done during my first semester at the Fluid Interfaces Group of the MIT Media Lab. This technology was used for many projects, [Dormio](https://www.media.mit.edu/projects/sleep-creativity/overview/) being the most notable. This project is part of a larger iniatiative called Engineering Dreams, which seeks to build technology that interfaces with the sleeping mind.
 
 ![Dormio](/images/dormio.jpg)
 
