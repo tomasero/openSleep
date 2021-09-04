@@ -1,0 +1,137 @@
+THIS WARRANT, THE SECURITIES ISSUABLE UPON THE EXERCISE HEREOF AND THE SECURITIES, IF ANY, ISSUABLE UPON THE CONVERSION OF SUCH SECURITIES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “**ACT**”), AND MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED IN THE ABSENCE OF A REGISTRATION STATEMENT IN EFFECT WITH RESPECT TO SUCH SECURITIES, OR DELIVERY OF AN OPINION OF COUNSEL IN FORM AND SUBSTANCE REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH OFFER, SALE OR TRANSFER, PLEDGE OR HYPOTHECATION IS IN COMPLIANCE WITH THE ACT OR UNLESS SOLD IN FULL COMPLIANCE WITH RULE 144 UNDER THE ACT.
+
+\centered **[[Organization 1 Name]]**
+
+\centered **WARRANT TO PURCHASE CAPITAL STOCK**
+
+\centered No. BL-[___]   [[Date 1: Date]]  
+
+THIS CERTIFIES THAT, for value received, [_____________] of [________________ (the “**Warrantholder**”) is entitled to subscribe for and purchase from [[Organization 1 Name]], a Delaware corporation (the “**Company**”), subject to the terms set forth below, shares of capital stock of the Company (the “**Equity Securities**”) as set forth herein at the exercise price per share set forth herein upon surrender hereof, at the principal office of the Company referred to below, with the Notice of Exercise attached as **Exhibit A** hereto duly executed, and simultaneous payment therefor in law ful money of the United States.
+
+This warrant (the “**Warrant**”) is being issued in connection with the purchase by the Warrantholder of a Subordinated Convertible Promissory Note (the “**Note**”) of the Company in the principal amount set forth on the signature page hereto. The Note is one of a series of similar Subordinated Convertible Promissory Notes (the Note and such Subordinated Convertible Promissory Notes shall collectively be referred to as the “**Notes**”) being issued by the Company to certain purchasers in the aggregate principal amount of up to $[[USD Value 1: Number]] pursuant to the terms of a Subordinated Convertible Note and Warrant Purchase Agreement dated as of [[Date 1]] (the “**Purchase Agreement**”) by and among the Company and certain Purchasers named therein (the “**Purchasers**”), including the Warrantholder, and this Warrant is one of a series of similar Warrants (this Warrant and such other Warrants shall collectively be referred to as the “**Warrants**”) being issued by the Company to such Purchasers in connection with the issuance of the Notes. The term “**Warrant**” as used herein shall include this Warrant and any warrants delivered in substitution or exchange therefor as provided herein. Any capitalized terms used herein and not defined shall have the meaning assigned to such term in the Purchase Agreement.
+
+^**Determination of Equity Securities, Number of Equity Securities and Exercise Price**.
+
+^^Until the expiration of the term set forth in Section 2 below, this Warrant shall be exercisable in the amount determined by the formula set forth in Section 1(b) below:
+
+^^^at any closing of or after the Company’s Qualifying Financing (as defined in the Note) to the security listed below which has the lowest conversion price into a share of the Company’s Common Stock of (A) the type of Equity Securities issued upon the closing by the Company of its Qualifying Financing or (B) shares of Series C-1 Preferred Stock, $[[USD Value 2: Number]] par value per share (the “**Series C-1 Preferred**”), of the Company, subject to adjustment as set forth herein, or
+
+^^^if prior to the closing of a Qualifying Financing, shares of Series C-1 Preferred, subject to adjustment as set forth herein.
+
+^^The number of shares of Equity Securities issuable upon the exercise of this Warrant shall be equal to a number determined by dividing (i) if the closing of a Qualifying Financing occurs on or prior to [[Date 2: Date]], fifteen percent ([[Percentage 1: Number]]%) of the principal amount of the Notes purchased by Warrantholder pursuant to the Purchase Agreement or (ii) if the closing of a Qualifying Financing has not occurred on or prior to [[Date 2]], twenty percent ([[Percentage 2: Number]]%) of the principal amount of the Notes purchased by Warrantholder pursuant to the Purchase Agreement, by the per share exercise price of this Warrant (as set forth below and subject to adjustment as set forth herein), such number of shares of Equity Securities to be round ed to the nearest whole number. The number, character and exercise price of such shares of Equity Securities are subject to adjustment as provided below.
+
+^^If this Warrant becomes exercisable for the Equity Securities issued in the Qualifying Financing, then this Warrant shall be exercisable for Equity Securities at a price per share equal to the lowest price per share at which Equity Securities are sold for cash in the Qualifying Financing. If this Warrant becomes exercisable for shares of Series C-1 Preferred, then this Warrant shall be exercisable at a price per share of Series C-1 Preferred equal to the lowest price per share then payable for a single share of the Series C-1 Preferred.
+
+^**Term****.** Subject to the terms hereof, the purchase right represented by this Warrant is exercisable, in whole or in part, at any time and from time to time until the earliest of (i) the three-year anniversary of the date hereof; (ii) immediately prior to the effectiveness of a Company Sale. In the event of an initial public offering of the Company’s securities, this Warrant will become exercisable for the shares of Company Common Stock into which any new equity securities issued in a Qualified Financing or the Series C-1 Preferred Stock, as applicable, are then convertible.
+
+^**Method of Exercise; Payment; Issuance of New Warrant**. (a) The purchase right represented by this Warrant may be exercised by the Warrantholder, in whole or in part and from time to time, by the surrender of this Warrant (together with the notice of exercise form attached hereto as **Exhibit A**, duly executed) at the principal office of the Company and by the payment to the Company, by check, wire transfer, cancellation of indebtedness or any combination thereof, of an amount equal to the exercise price per share of this Warrant multiplied by the number of Equity Securities then being purchased. 60;The person or persons in whose name(s) any certificate(s) representing Equity Securities shall be issuable upon exercise of this Warrant shall be deemed to have become the holder(s) of record of, and shall be treated for all purposes as the record holder(s) of, the shares represented thereby (and such shares shall be deemed to have been issued) immediately prior to the close of business on the date or dates upon which this Warrant is exercised. In the event of any exercise of the rights represented by this Warrant, certificates for the shares of stock so purchased shall be delivered to the holder hereof as soon as possible and in any event within fifteen (15) days of receipt of such notice and, unless this Warrant has been fully exercised or expired, a new Warrant representing the portion of the Equity Securities, if any, with respect to which this Warrant shall not then have been exercised shall also be issued to the holder hereof as soon as possible and in any event within such fifteen (15) day period.
+
+^^In lieu of the payment methods described above, the aggregate purchase price for the Equity Securities being purchased hereunder may be paid by surrender of a number of Equity Securities that have a fair market value equal to the aggregate purchase price of the Equity Securities being purchased (“**Net Issuance**”) as determined herein. If the Warrantholder elects the Net Issuance method of payment, the Company shall issue to the Warrantholder upon exercise a number of shares of Equity Securities determined in accordance with the following formula:
+
+\centered X=   \centered Y(A-B) 
+
+\centered A  
+
+where: X = the number of Equity Securities to be issued to the Warrantholder;
+
+^= the number of Equity Securities with respect to which the Warrantholder is exercising its purchase rights under this Warrant;
+
+^= the fair market value of one (1) share of the Equity Securities on the date of exercise; and
+
+^= the exercise price.  
+
+No fractional shares arising out of the above formula for determining the number of shares to be issued to the Warrantholder shall be issued, and the Company shall in lieu thereof make payment to the Warrantholder of cash in the amount of such fraction multiplied by the fair market value of one (1) share of the Equity Securities on the date of exercise. For purposes of the above calculation:
+
+^^if the exercise is prior to the Company’s initial public offering, then the fair market value of one (1) share of the Equity Securities shall mean the fair market value thereof as determined in good faith by the Board of Directors of the Company;
+
+^^if the exercise is in connection with an initial public offering, and if the Company’s registration statement relating to such initial public offering has been declared effective by the SEC, then the fair market value per share of Equity Security shall be the product of (x) the initial “price to public” of the common stock of the Company (the “**Common Stock**”) specified in the final prospectus with respect to the offering and (y) the number of shares of Common Stock into which each share of Equity Security is convertible at the time of such exercise ;
+
+^^if the exercise is after, and not in connection with an initial public offering, and: (i) if the Common Stock is traded on a securities exchange, the fair market value shall be deemed to be the product of (x) the average of the closing prices over a five (5) day period ending three (3) days before the day the current fair market value of the securities is being determined and (y) the number of shares of Common Stock into which each share of Equity Securities is convertible at the time of such exercise; (ii) if the Common Stock is traded over-the-counter, the fair market value shall be deemed to be the product of (x) the average of the closing bid and asked prices quoted on the NASDAQ system (or similar system) over the five (5) day period ending three (3) days before the day the current fair market value of the securities is being determined and (y) the number of shares of Common Stock into which each share of Equity Securities is convertible at the time of such exercise; or (iii) if at any time the Common Stock is not listed on any securities exchange or quoted in the NASDAQ Global Market or the over-the-counter market, the current fair market value of Equity Securities shall be the product of (x) the highest price per share which the Company could obtain from a willing buyer (not a current employee or director) for shares of Common Stock sold by the Company, from authorized but unissued shares, as determined in good faith by its Board of Directors and (y) the number of shares of Common Stock into which each share of Equity Securities is convertible at the time of such exercise, unless the Company shall become subject to a Company Sale, in which case the fair market value of Equity Securities shall be deemed to be the pe r share value received by the holders of the Equity Securities on a common equivalent basis pursuant to such Company Sale.
+
+^**Stock Fully Paid; Reservation of Shares****.** All Equity Securities that may be issued upon the exercise of the rights represented by this Warrant will, upon issuance, be fully paid and nonassessable, and free from all taxes, liens and charges with respect to the issue thereof. During the period within which the rights represented by the Warrant may be exercised, the Company will have authorized and reserved for the purpose of issuance upon exercise of the purchase rights evidenced by this Warrant, a sufficient number of shares of its Equity Securities, including any Common Stock to be issued upon conversion of th e Equity Securities, if any, to provide for the exercise of the rights represented by this Warrant.
+
+^**Adjustment of Warrant Price and Number of Shares****.** The number and kind of securities purchasable upon the exercise of the Warrant and the exercise price per share shall be subject to adjustment from time to time upon the occurrence of certain events, as follows:
+
+^^In case of any reclassification of or similar change in the Equity Securities, the Company shall execute a new Warrant having substantially similar terms and providing that the holder of this Warrant shall have the right to exercise such new Warrant for the kind and number of shares of stock, other securities, money or property receivable upon such reclassification or change by holders of the Equity Securities.
+
+^^In case of: (i) any subdivision or combination of the Equity Securities or (ii) at any time or from time to time after the issuance date of this Warrant, any declaration or payment, without consideration, any dividend on the Equity Securities payable in shares of its capital stock or in any right to acquire shares of its capital stock without consideration, the number of shares of Equity Securities or other security issuable upon exercise hereof shall be proportionately increased or decreased, as appropriate.
+
+^^The Company will not, by amendment of its certificate of incorporation or through any reorganization, recapitalization, transfer of assets, consolidation, merger, dissolution, issue or sale of securities or any other voluntary action, avoid or seek to avoid the observance or performance of any of the terms to be observed or performed hereunder by the Company, but will at all times in good faith assist in the carrying out of all the provisions of this Paragraph 5 and in the taking of all such action as may be necessary or appropriate in order to protect the rights of the holder of this Warrant against impairment.
+
+^**Notice of Adjustments****.** Whenever the number and kind of securities purchasable upon the exercise of this Warrant or the exercise price per share shall be adjusted pursuant to the provisions hereof, the Company shall within fifteen (15) days of such adjustment deliver a certificate signed by its chief financial officer to the holder(s) hereof setting forth, in reasonable detail, the event requiring the adjustment, the amount of the adjustment, the method by which such adjustment was calculated, and the exercise price per share after giving effect to such adjustment.
+
+^**Fractional Shares****.** No fractional shares of Equity Securities will be issued in connection with any exercise hereunder, but in lieu of such fractional shares the Company shall make a cash payment therefor upon the basis of the exercise price then in effect.
+
+^**No Rights as Stockholder**.** No holder of this Warrant, as such, shall be entitled to vote or receive dividends or be deemed the holder of Equity Securities, nor shall anything contained herein be construed to confer upon the holder of this Warrant, as such, any of the rights of a stockholder of the Company or any right to vote for the election of directors or upon any matter submitted to stockholders at any meeting thereof, or to receive notice of meetings, or to receive dividends or subscription rights or otherwise until this Warrant shall have been exercised and the Equity Securities shall have become deliverable, as pr ovided herein, and at such time such Equity Securities shall have the same rights, preferences and privileges afforded to the Equity Securities in the Company’s charter documents, including any anti-dilution protection. In addition, if any Equity Securities are issued upon the exercise of this Warrant, the shares of Common Stock issuable upon conversion of such Equity Securities shall be deemed “Registrable Securities” pursuant to the Amended and Restated Investors’ Rights Agreement dated as of [[Date 3: Date]] (the “Rights Agreement**”), subject to and conditioned upon any necessary amendment to such Rights Agreement by the parties named therein to effect such change (and for which the Company shall provide its consent).
+
+^**Modification and Waiver****.** This Warrant and any provision hereof may be amended, waived, discharged or terminated only with the written consent of the Company and the Lender Majority (as defined in the Notes). Such amendment or waiver shall be binding upon all such holders provided such amendment or waiver applies to all holders in the same fashion.
+
+^**Cancellation and Termination****.** This Warrant may be cancelled and terminated at any time prior to exercise hereof upon the consent of the Lender Majority (as defined in the Notes). Any such cancellation and termination shall be binding on all holders of warrants issued pursuant to the Purchase Agreement.
+
+^**Notices****.** Any notice, request or other document required or permitted to be given or delivered to the holder hereof or the Company shall be delivered, or shall be sent by certified or registered mail, postage prepaid, to each such holder at its address as shown on the books of the Company or to the Company at the address indicated on the signature page of this Warrant.
+
+^**Binding Effect****.** All of the obligations of the Company relating to the Equity Securities shall survive the exercise and termination of this Warrant and all of the covenants and agreements of the Company shall inure to the benefit of the successors and assigns of the holder hereof. The Company will, at the time of the exercise of this Warrant, in whole or in part, upon request of the holder hereof but at the Company’s expense, acknowledge in writing its continuing obligation to the holder hereof in respect of any rights to which the holder hereof shall continue to be entitled after such exercise in accor dance with this Warrant; provided, that the failure of the holder hereof to make any such request shall not affect the continuing obligation of the Company to the holder hereof in respect of such rights.
+
+^**Lost Warrants or Stock Certificates****.** The Company covenants to the holder hereof that upon receipt of evidence reasonably satisfactory to the Company of the loss, theft, destruction or mutilation of this Warrant or any stock certificate and, in the case of any such loss, theft or destruction, upon receipt of an indemnity reasonably satisfactory to the Company, or in the case of any such mutilation upon surrender and cancellation of such Warrant or stock certificate, the Company will make and deliver a new Warrant or stock certificate, of like tenor, in lieu of the lost, stolen, destroyed or mutilated Warrant or stock ce rtificate.
+
+^**Governing Law****.** This Warrant shall be construed and enforced in accordance with, and the rights of the parties shall be governed by, the laws of the Commonwealth of Massachusetts without regard to the conflict of law principles thereof.
+
+^**Counterparts****.** This Warrant may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+\centered [Remainder of page intentionally left blank]
+
+IN WITNESS WHEREOF, this Warrant to Purchase Capital Stock is executed effective as of the date first above written.
+
+**COMPANY:**
+
+[[Organization 1 Name]]
+
+[[[[Organization 2 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. Entity => By: [[[[Organization 2 Name]]. Signatory First Name]] [[[[Organization 2 Name]]. Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. Signatory Title]]}}
+
+
+\centered [Signature Page to Warrant]
+
+\centered **EXHIBIT A**
+
+\centered **NOTICE OF EXERCISE**
+
+To: [[Organization 1 Name]] 
+
+[[Address 1: Address]] 
+
+Attn: Chief Financial Officer  
+The undersigned pursuant to the provisions set forth in the attached Warrant (No. W-____), hereby irrevocably elects to (check one):
+
+_____   (A)   purchase ___ shares of the Preferred Stock, par value $.001 per share, of [[Organization 1 Name]] (the “**Preferred Stock**”), covered by such Warrant and herewith makes payment of $_____________, representing the full purchase price for such shares at the price per share provided for in such Warrant; or
+
+_____   (B)   convert ___ Warrant Shares into that number of shares of fully paid and nonassessable shares of Preferred Stock, determined pursuant to the provisions of Section 3(b) of the Warrant.
+
+The Preferred Stock for which the Warrant may be exercised or converted shall be known herein as the “Warrant Stock.”
+
+The undersigned is aware that the Warrant Stock has not been and will not be registered under the Securities Act of 1933, as amended (the “**Securities Act**”) or any state securities laws. The undersigned understands that reliance by the Company on exemptions under the Securities Act is predicated in part upon the truth and accuracy of the statements of the undersigned in this Purchase Form.
+
+The undersigned represents and warrants that (1) it has been furnished with all information which it deems necessary to evaluate the merits and risks of the purchase of the Warrant Stock, (2) it has had the opportunity to ask questions concerning the Warrant Stock and the Company and all questions posed have been answered to its satisfaction, (3) it has been given the opportunity to obtain any additional information it deems necessary to verify the accuracy of any information obtained concerning the Warrant Stock and the Company and (4) it has such knowledge and experience in financial and business matters that it is able to evaluate the merits and risks of purchasing the Warrant Stock and to make an informed investment decision relating thereto.
+
+The undersigned hereby represents and warrant that it is purchasing the Warrant Stock for its own account for investment and not with a view to the sale or distribution of all or any part of the Warrant Stock.
+
+The undersigned understands that because the Warrant Stock has not been registered under the Securities Act, it must continue to bear the economic risk of the investment for an indefinite period of time and the Warrant Stock cannot be sold unless it is subsequently registered under applicable federal and state securities laws or an exemption from such registration is available.
+
+The undersigned agrees that it will in no event sell or distribute or otherwise dispose of all or any part of the Warrant Stock unless (1) there is an effective registration statement under the Securities Act and applicable state securities laws covering any such transaction involving the Warrant Stock, or (2) the Company receives an opinion satisfactory to the Company of the undersigned’s legal counsel stating that such transaction is exempt from registration. The undersigned consents to the placing of a legend on its certificate for the Warrant Stock stating that the Warrant Stock has not been registered and setting forth the restriction on transfer contemplated hereby and to the placing of a stop transfer order on the books of the Company and with any transfer agents against the Warrant Stock until the Warrant Stock may be legally resold or distributed without restriction.
+
+The undersigned has considered the federal and state income tax implications of the exercise of the Warrant and the purchase and subsequent sale of the Warrant Stock.
+
+Please issue a certificate or certificates representing said shares in the name of the undersigned or in such other name or names as are specified below:
+
+Name: ________________________  
+
+Address: ______________________  
+_____________________________
+
+The undersigned represents that the aforesaid shares being acquired for the account of the undersigned for investment and not with a view to, or for resale in connection with, the distribution thereof and that the undersigned has no present intention of distributing or reselling such shares.
+
+______________________________ 
+
+(Signature)

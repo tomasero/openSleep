@@ -1,0 +1,90 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **2010 ANNUAL INCENTIVE PLAN** 
+
+^Purpose; Effective Date.
+
+This 2010 Annual Incentive Plan (the “Plan”) of [[Organization 1 Name]] (the “Company”) is designed to enable the Company and its subsidiaries to attract and retain key employees and to align the interests of such key employees with the interests of shareholders by promoting and rewarding the achievement of annual performance goals. This Plan was approved by the Compensation and Human Resources Committee on [[Date 1: Date]] (the “Grant Date”). Each Award granted under this Plan shall be subject to the terms and conditions of the [[Organization 1 Name]] Incentive Compensation Plan (the “Master Plan”). Each capitalized term which is not otherwise defined in this Plan shall have the meaning given to such term in the Master Plan. 
+
+^Administration.
+
+The Plan shall be administered by the Committee in accordance with Article 3 of the Master Plan. 
+
+^Participants and Performance Goals.
+
+Exhibit A identifies the Employees who have been selected by the Committee to become Participants in the Plan and the Target Award Opportunity and Performance Goals for each Participant. The Performance Goals shall be calculated from the Company’s publicly reported financial statements as of and for the twelve months ending [[Date 2: Date]]. 
+
+^Calculation of Actual Awards.
+
+^^A Participant’s payout for each Performance Goal shall be determined according to the following formula: 
+
+Award Percentage X Weight X Base Salary 
+
+For purposes of this formula: 
+
+“Award Percentage” shall mean the percentage shown for the Participant in the “Award Percentage” column of Table 1 on Exhibit A at the actual performance level which is achieved for the applicable Performance Goal as reflected in the “Performance Goal” column of Table 2 on Exhibit A. If the actual performance level for a Performance Goal falls between the Threshold and Target performance levels or between the Target and Superior performance levels, the Award Percentage shall be interpolated between the Award Percentage for the Threshold and Target performance levels or between the Target and Superior performance levels, as the case may be, as determined by the Committee in its sole discretion. 
+
+“Weight” shall mean the percentage shown for the Participant in the “Weight” column of Table 2 on Exhibit A for the applicable Performance Goal. 
+
+“Base Salary” shall mean base salary of the Participant on the Grant Date. 
+
+^^The aggregate amount payable to the Participant shall be the sum total of the payouts for the Participant’s Performance Goals calculated in accordance with Section 4(a) and shall be referred to as the Participant’s “Actual Award.” 
+
+^Payment of Awards.
+
+^^Restricted Stock. Each Participant’s Actual Award, if any, shall be paid in shares of Restricted Stock. The number of shares of Restricted Stock issuable to a Participant shall be calculated by dividing the dollar amount of the Actual Award by $[[USD Value 1: Number]], with the result being rounded up or down to the nearest whole share. 
+
+^^Vesting Conditions. Except as provided in Section 5(c), the shares of Restricted Stock issued pursuant to this Plan shall vest if and only if the Fair Market Value of the Stock attains a price of $[[USD Value 2: Number]] or greater and remains at or above that price for a period of 30 consecutive calendar days prior to [[Date 3: Date]]. 
+
+^^Mandatory Holding Period. The shares of Restricted Stock issued pursuant to this Plan, whether or not vested, may not be sold, transferred, pledged, assigned, or otherwise alienated or hypothecated, otherwise than by will or by the laws of descent and distribution, prior to [[Date 3]]. Notwithstanding the foregoing, upon the satisfaction of the Vesting Condition specified in Section 5(b), the Participant may elect to satisfy required tax withholdings by instructing the Company to withhold shares of the Restricted Stock in accordance with Section 15.2 of the Master Plan. 
+
+^^Accelerated Vesting. A Participant’s Vesting Condition specified in Section 5(b) shall lapse and the Participant’s holding period imposed Section 5(c) shall end on the first to occur of (i) the date on which that Participant becomes Retired; (ii) the date on which the Participant’s employment is involuntarily terminated without Cause; or (iii) at the discretion of the Committee, upon the effective date of a Change in Control. 
+
+^Termination of Employment.
+
+Notwithstanding any provision to the contrary in the Master Plan, if the Participant ceases to be a full-time employee of the Company for any reason prior to [[Date 2]], the Participant will cease to be a participant in this Plan and will not be eligible to receive any Actual Award pursuant to this Plan. 
+
+^Miscellaneous Provisions.
+
+^^Claw-Back Rights. The Committee will have the sole and absolute authority to make retroactive adjustments to any Awards paid to Participants where the payment was predicated upon the achievement of erroneous financial or strategic business results or conduct which the Committee determines, in its sole discretion, created unnecessary or excessive risk to the Company or constituted dishonest or unethical conduct for the purposes of increasing the amount of the Participant’s Award. Where applicable, the Company will seek to recover any amount determined to have been inappropriately received by a Participant under the Plan. 
+
+^^Amendment or Termination. Notwithstanding any provision to the contrary in the Master Plan, the Committee has full power to amend, modify, suspend, or terminate the Plan or the Awards granted under the Plan at any time and for any reason. 
+
+^^Regulatory Approvals. The Plan and any Award made hereunder shall be subject to all applicable federal and state laws, rules and regulations, and to such approvals by any government or regulatory agency as may be required. 
+
+^^No Effect on Employment or Service. Nothing in the Plan shall interfere with or limit in any way the right of the Company to terminate any Participant’s employment or service at any time, with or without cause. 
+
+^^No Right to Participation. No employee or officer of the Company or any subsidiary shall have the right to be selected to receive an Award under this Plan, or, having been so selected, have the right to receive a future Award. 
+
+^^Nontransferability of Awards. No Award granted under the Plan may be sold, transferred, pledged, assigned, or otherwise alienated or hypothecated, other than by will, by the laws of descent and distribution. All rights with respect to an Award granted to a Participant shall be available during his or her lifetime only to the Participant. 
+
+\centered Exhibit A 
+
+\centered Participants and Performance Goals 
+
+Table 1 - Participants and Target Awards 
+
+**Award Percentage** **(% of Base Salary)**
+**Participant**      **Position**      **Below Threshold**         **Threshold**         **Target**         **Superior**         **Target Award Opportunity**
+Dolan      President/CEO       %      37.5   %       %      112.5   %      $   345,000
+Price      FCB President       %      37.5   %       %      112.5   %      $   270,375
+Rout      CFO       %      26.25   %      52.5   %      78.75   %      $   189,000
+McMurdy      CIO       %      18.75   %      37.5   %      56.25   %      $   109,547
+Clements      EVP       %      18.75   %      37.5   %      56.25   %      $   88,022
+Tomb, D.      SVP       %      18.75   %      37.5   %      56.25   %      $   100,500
+Tomb, M.      SVP       %      18.75   %      37.5   %      56.25   %      $   65,897
+
+Table 2 - Performance Goals 
+
+**CEO and FCB President**
+**Performance Goal**
+**Measure**      **Weight**         **Threshold**         **Target**         **Superior**
+Return on Average Equity       %         6.64   %         8.61   %         10.38   %
+Earnings per Share       %      $   0.53         $   0.68         $   0.82
+Non-Performing Loans + Other Real Estate Owned / Total Loans       %         2.28   %         1.47   %         0.83   %
+
+**Other Participants**
+**Performance Goal**
+**Measure**      **Weight**         **Threshold**         **Target**         **Superior**
+Return on Average Equity       %         6.64   %         8.61   %         10.38   %
+Earnings per Share       %      $   0.53         $   0.68         $   0.82

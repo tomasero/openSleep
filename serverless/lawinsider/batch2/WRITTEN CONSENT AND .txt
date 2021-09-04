@@ -1,0 +1,135 @@
+\centered **WRITTEN CONSENT AND WAIVER**
+
+\centered **OF HOLDERS OF SERIES C CONVERTIBLE PREFERRED STOCK AND**
+
+\centered **SERIES E CONVERTIBLE PREFERRED STOCK**
+
+\centered **OF [[Organization 1 Name]]**
+
+WHEREAS, the undersigned are (i) holders (the “Series E Holders”) of the outstanding shares of Series E Convertible Preferred Stock, par value $.00001 per share (the “Series E Preferred Stock”) of [[Organization 1 Name]] (the “Corporation”), including the Requisite Holders (as defined in the Certificate of Designations, Preferences and Rights of the Series E Preferred Stock (the “Series E Certificate of Designations”)) and (ii) holders (the “Series C Holders” and, together with the Series E Holders, the “Holders”) of the outstanding shares of Series C [[Percentage 1: Number]]% Cumulative Convertible Preferred Stock, par value $.00001 per share (the “Series C Preferred Stock”) of the Corporation;
+
+WHEREAS, the Corporation is seeking to consummate a public offering and sale (the “Transaction”) of certain shares of its common stock, par value $.00001 per share (the “Common Stock”), and warrants to purchase shares of Common Stock (the “Warrants”) at a price and on terms to be determined, and it is expected that the issue price of the Common Stock and the exercise price of the Warrants will be below $[[USD Value 1: Number]] per share;
+
+WHEREAS, Section 5(b)(2) of the Series E Certificate of Designations provides that the consent of the Requisite Holders is required in order to issue shares of Common Stock at an effective price per share below $[[USD Value 1]], and the Certificate of Designations, Preferences and Rights of the Series C Preferred Stock (the “Series C Certificate of Designations”) requires certain actions on the part of the Corporation, and provides for certain adjustments to the conversion price of the Series C Preferred Stock, in the event shares of Common Stock are offered or sold at a price per share below $[[USD Value 1]]; and
+
+WHEREAS, the Series E Holders and Series C Holders are willing to consent to the Transaction on the terms, and for the consideration, set forth herein;
+
+NOW THEREFORE, the parties hereto agree as follows:
+
+^**Consent and Waiver of Series C Holders**. Pursuant to Section 4(d)(ii) of the Series C Certificate of Designations, the Series C Holders hereby WAIVE any rights to receive additional shares of Common Stock or other securities of the Corporation they would have had, and any adjustment to the conversion price of the Series C Preferred Stock that would otherwise have resulted, and any adjustment to the exercise price and number of shares issuable upon exercise of those certain warrants to purchase Common Stock issued to the Series C Holders on or about [[Date 1: Date]] that would otherwise have resulted, from the offer and sale of the shares of Common Stock and warrants to purchase shares of Common Stock in connection with the Transaction, and the issuance of the Incentive Warrants (as defined below) hereunder, including without limitation under Section 4(d) of the Series C Certificate of Designations, and hereby consent in all respects to the Transaction and the issuance of the Incentive Warrants hereunder. Except as expressly set forth herein, the rights, privileges and designations of the Series C Preferred Stock shall continue in full force and effect.
+
+^**Consent of Series E Holders**. In accordance with Section 5(b)(2) of the Series E Certificate of Designation, the Series E Holders hereby CONSENT in all respects, pursuant to Section 5(b)(2) of the Series E Certificate of Designation to the issuance of shares of Common Stock at a price per share, and the issuance of warrants to purchase shares of Common Stock with an exercise price per share, less than $[[USD Value 1]] in connection with the Transaction, and the issuance of the Incentive Warrants hereunder. Except as expressly set forth herein, the rights, privileges and designations of the Series E Preferred Stock shall continue in full force and effect.
+
+^**Incentive Warrants**. In consideration for the consents, waivers and covenants of the Holders contained herein, if the Transaction is consummated and in consideration for the foregoing, the Corporation shall issue to each Holder, not later than the later of (i) the 20th Trading Day following the consummation of the Transaction, and (ii) [[Date 2: Date]], a warrant, substantially in the form attached as **Exhibit A** hereto (collectively, the “Incentive Warrants”), to purchase a number of shares of Common Stock equal to such Holder’s Warrant Share Factor (if greater than zero), each such warrant to expire on the fifth anniversary of the date of issuance and to have an exercise price of $[[USD Value 2: Number]] per share of Common Stock issuable thereunder.
+
+Each Holder’s “Warrant Share Factor” shall be the number of shares of Common Stock obtained based on the following formula:
+
+\centered W = [(C * Pc) / (Px * 2)] – C
+
+WHERE:  
+^=   Warrant Share Factor.
+
+^=   Number of shares of Common Stock issuable upon such Holder’s Series C Preferred Stock or Series E Preferred Stock, as applicable.
+
+Pc   =   Pre-Transaction conversion price per share of Common Stock for Series C Preferred Stock or Series E Preferred Stock, as applicable.
+
+Px   =   the volume weighted average price of the Common Stock as reported on [[Organization 2 Name]] for the 20 Trading Day period immediately following the consummation of the Transaction.
+
+“Trading Day” shall mean a day on which quotations are published on the OTC Bulletin Board.
+
+^**Authorized Shares**. The parties acknowledge and understand that the Corporation will not have sufficient authorized and unissued shares of Common Stock available for issuance upon exercise of the Incentive Warrants. The Corporation agrees to use its reasonable best efforts to obtain, prior to [[Date 3: Date]], the requisite consent of its stockholders to amend its Certificate of Incorporation to increase the number of shares of Common Stock authorized thereunder to at least the minimum amount that would result in their being sufficient authorized, unissued and unreserved shares of Common Stock available for issuance upon exercise of all of the Incentive Warrants (the “Amendment”). In the event the Amendment is not effective on or before [[Date 3]], the Corporation shall pay to each Holder, as liquidated damages and not as a penalty, an amount in cash equal to [[Percentage 2: Number]]% of the aggregate liquidation preference applicable to the shares of Series E Preferred Stock or Series C Preferred Stock, as applicable, held by such Holder, and an additional amount equal to [[Percentage 3: Number]]% of such liquidation preference on the first day of each calendar month thereafter until the Amendment is effective. In furtherance of the foregoing, each Holder agrees to vote or cause to be voted all shares of the Corporation’s capital stock owned by such Holder, or over which such Holder has voting control, from time to time and at all times, in whatever manner as shall be necessary to approve the aforesaid increase to the number of authorized shares of Common Stock.
+
+^**“No-Short.”** Each Holder covenants that neither it nor any affiliate acting on its behalf or pursuant to any understanding with it will execute any Short Sales (as defined in Regulation SHO promulgated under the Securities Exchange Act of 1934, as amended) during the period commencing upon the consummation of the Transaction and ending on the 180th day following such consummation.
+
+^**Registration Rights**. If after one year after the issuance of the Incentive Warrants, a Holder is unable to immediately sell all of its common stock underlying the Warrants pursuant to Rule 144 promulgated under the Securities Act of 1933, as amended (“Rule 144”) without time, volume or other limitations under Rule 144, then the Company will use reasonable best efforts to register such shares with the Securities and Exchange Commission (the “Commission”) and use its reasonable best efforts to have the Commission declare such registration statement effective. Except as otherwise provided under this Section 6, the terms, conditions and procedures set forth in Sections 3 through 7 of that certain Registration Rights Agreement (including without limitation the provisions governing expenses, maintenance of registration, obligations of holders and indemnification) by and among the Company and certain of the Holders dated [[Date 4: Date]] shall govern the aforesaid registration as fully as if such terms were set forth herein and applicable to such registration, provided that under no circumstances shall the Company be obligated to pay liquidated damages in respect of such registration.
+
+^**Entire Agreement**. This Agreement is intended by the parties as a final expression of their agreement and intended, together with the Warrants, to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein.
+
+^**Choice of Law**. This Consent and Waiver shall be governed by and construed in accordance with the laws of the State of Delaware without regard to conflicts of laws principles that would result in the application of the substantive laws of another jurisdiction. Any action brought by any party against any other party concerning this Consent and Waiver shall be brought only in the civil or state courts of [[Address 1: Address]] the federal courts located in [[Address 2: Address]]. THE PARTIES AND THE INDIVIDUALS EXECUTING THIS CONSENT AND WAIVER AND OTHER AGREEMENTS REFERRED TO HEREIN OR DELIVERED IN CONNECTION HEREWITH ON BEHALF OF THE CORPORATION AGREE TO SUBMIT TO THE JURISDICTION OF SUCH COURTS AND WAIVE TRIAL BY JURY. The prevailing party shall be entitled to recover from the other party(ies) its reasonable attorney’s fees and costs. In the event that any provision of this Consent and Waiver or any other agreement delivered in connection herewith is invalid or unenforceable under any applicable statute or rule of law, then such provision shall be deemed inoperative to the extent that it may conflict therewith and shall be deemed modified to conform with such statute or rule of law. Any such provision which may prove invalid or unenforceable under any law shall not affect the validity or enforceability of any other provision of any agreement.
+
+^**Counterparts**. This Consent and Waiver may be executed in one or more counterparts, each of which shall be deemed an original and all of which taken together shall constitute one and the same instrument. Counterpart signature pages to this Consent and Waiver transmitted by facsimile transmission, by electronic mail in “portable document format” (“pdf”) form, or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, will have the same effect as physical delivery of the paper document bearing an original signature.
+
+\centered [Remainder of Page Intentionally Left Blank]
+
+IN WITNESS WHEREOF the undersigned have executed this Consent and Waiver as of the date first above written.
+
+**SERIES E HOLDERS:**
+
+**[[Organization 3 Name]], LTD.**   **[[Organization 4 Name]]**
+**[[Organization 3 Name]], L.P.**   **LIMITED**
+**[[Organization 5 Name]]**   **[[Organization 6 Name]], L.P.**
+**PARTNERS**   **[[Organization 7 Name]], L.L.C.**
+**[[Organization 8 Name]], LTD.**
+**[[Organization 9 Name]]**
+**[[Organization 10 Name]]**
+
+[[[[Organization 10 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] Entity => By: [[[[Organization 10 Name]] Signatory First Name]] [[[[Organization 10 Name]] Signatory Last Name]]
+Title: [[[[Organization 10 Name]] Signatory Title]]}}
+
+Address: 90 Grove Street   Address: c/o OrbiMed Advisors LLC
+[[Address 3: Address]]   767 Third Avenue, 30th Floor
+Attn: [[Person 1 First Name]] [[Person 1 Last Name]]   [[Address 4: Address]]
+
+**KNOLL SPECIAL OPPORTUNITIES** 
+**[[Organization 11 Name]]** 
+**[[Organization 12 Name]]**   
+[[[[Organization 13 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 13 Name]] Entity => By: [[[[Organization 13 Name]] Signatory First Name]] [[[[Organization 13 Name]] Signatory Last Name]]
+Title: [[[[Organization 13 Name]] Signatory Title]]}}
+
+Address: c/o [[Organization 14 Name]] 
+[[Address 5: Address]]  
+
+**[[Organization 15 Name]]**   **[[Organization 16 Name]], L.P.**
+[[[[Organization 15 Name]]   [[Organization 16 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 15 Name]]   [[Organization 16 Name]] Entity => By: [[[[Organization 15 Name]]   [[Organization 16 Name]] Signatory First Name]] [[[[Organization 15 Name]]   [[Organization 16 Name]] Signatory Last Name]]
+Title: [[[[Organization 15 Name]]   [[Organization 16 Name]] Signatory Title]]}}
+
+general partner   general partner
+
+[[General partner   general partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{General partner   general partner Entity => By: [[General partner   general partner Signatory First Name]] [[General partner   general partner Signatory Last Name]]
+Title: [[General partner   general partner Signatory Title]]}}
+
+
+**SERIES C HOLDERS:** 
+
+**[[Organization 17 Name]], LP**   **LONGVIEW EQUITY FUND, LP**
+
+[[[[Organization 17 Name]]   LONGVIEW EQUITY FUND LP Signatory Email: Identity | Signature]]
+__________________________________________
+{[[Organization 17 Name]]   LONGVIEW EQUITY FUND LP Entity => By: [[[[Organization 17 Name]]   LONGVIEW EQUITY FUND LP Signatory First Name]] [[[[Organization 17 Name]]   LONGVIEW EQUITY FUND LP Signatory Last Name]]
+Title: [[[[Organization 17 Name]]   LONGVIEW EQUITY FUND LP Signatory Title]]}}
+
+Address:   Address:
+
+**[[Organization 18 Name]]** 
+**EQUITY FUND, LP**  
+[[EQUITY FUND LP Signatory Email: Identity | Signature]]
+__________________________________________
+{{EQUITY FUND LP Entity => By: [[EQUITY FUND LP Signatory First Name]] [[EQUITY FUND LP Signatory Last Name]]
+Title: [[EQUITY FUND LP Signatory Title]]}}
+
+Address:    
+Agreed and accepted:  
+
+**[[Organization 1 Name]]**
+
+Dated: [[Date 5: Date]]
+
+[[Dated Date 5 Date Signatory Email: Identity | Signature]]
+__________________________________________
+{{Dated Date 5 Date Entity => By: [[Dated Date 5 Date Signatory First Name]] [[Dated Date 5 Date Signatory Last Name]]
+Title: [[Dated Date 5 Date Signatory Title]]}}
+
+
+\centered **EXHIBIT A**
+
+\centered **FORM OF WARRANT**
+
+\centered **(included as  to this filing)**

@@ -9,7 +9,7 @@ BLEUart bleuart;
 BLEBas  blebas;
 
 //Analog Pin Configuration
-int hr = A2 , eda = A0 , flex = A1 ;
+int hr = A5 , eda = A6 , flex = A4 ;
 
 int led = 12 ;
 
@@ -34,11 +34,13 @@ void loop()
     vals[1] = analogRead(hr);
     vals[2] = analogRead(eda);
 
+    //Serial.println(vals[0]);
+
     for (int _i=0; _i<numVals; _i++)
         memcpy(&buf[_i*sizeof(int)], &vals[_i], sizeof(int));
     bleuart.write( buf, cnt );
     delay(50);
-    digitalToggle(led);
+    //digitalToggle(led);
     waitForEvent();
 }
 
@@ -58,8 +60,8 @@ void bleSetup(){
     Bluefruit.begin();
     Bluefruit.setTxPower(4);
     Bluefruit.setName("sleepDuino");
-    Bluefruit.setConnectCallback(connect_callback);
-    Bluefruit.setDisconnectCallback(disconnect_callback);
+    Bluefruit.Central.setConnectCallback(prph_connect_callback);
+    Bluefruit.Central.setDisconnectCallback(prph_disconnect_callback);
     bledis.setManufacturer("MIT Media Lab");
     bledis.setModel("V1.2");
     bledis.begin();
@@ -75,21 +77,25 @@ void bleSetup(){
     Bluefruit.Advertising.start(0); 
 }
 
-void connect_callback(uint16_t conn_handle)
+void prph_connect_callback(uint16_t conn_handle)
 {
-  char central_name[32] = { 0 };
-  Bluefruit.Gap.getPeerName(conn_handle, central_name, sizeof(central_name));
+  // Get the reference to current connection
+  BLEConnection* connection = Bluefruit.Connection(conn_handle);
 
-  Serial.print("Connected to ");
-  Serial.println(central_name);
+  char peer_name[32] = { 0 };
+  connection->getPeerName(peer_name, sizeof(peer_name));
+
+  Serial.print("[Prph] Connected to ");
+  Serial.println(peer_name);
 }
 
-void disconnect_callback(uint16_t conn_handle, uint8_t reason)
+void prph_disconnect_callback(uint16_t conn_handle, uint8_t reason)
 {
   (void) conn_handle;
   (void) reason;
+
   Serial.println();
-  Serial.println("Disconnected");
+  Serial.println("[Prph] Disconnected");
 }
 
 void rtos_idle_callback(void){

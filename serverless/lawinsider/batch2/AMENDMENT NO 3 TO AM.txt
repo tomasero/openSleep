@@ -1,0 +1,133 @@
+^^**
+
+\centered **AMENDMENT NO. 3 TO AMENDED AND**
+
+\centered **RESTATED RECEIVABLES PURCHASE AGREEMENT**
+
+This AMENDMENT NO. 3 TO AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT, dated as of [[Date 1: Date]] (this “Amendment”), is by and among [[Party 1]], as Servicer, [[Party 2]], as Purchaser, and [[Party 3]], as Agent.
+
+WHEREAS, the parties hereto are parties to that certain Amended and Restated Receivables Purchase Agreement, dated as of [[Date 2: Date]] (as amended, supplemented or otherwise modified from time to time, the “Agreement”);
+
+WHEREAS, the parties hereto desire to amend the Agreement as set forth herein; and
+
+WHEREAS, concurrently herewith, the parties hereto are entering into an amended and restated Fee Letter (the “A&R Fee Letter”) dated as of the date hereof;
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+^Definitions. Capitalized terms defined in the Agreement and used but not otherwise defined herein shall have the meanings assigned thereto in the Agreement.
+
+^Amendments. The Agreement is hereby amended as follows:
+
+^^Section 1.6(b) of the Agreement is amended by replacing the reference to “two percent ([[Percentage 1: Number]]%) per annum” where it appears therein with a reference to “two and one-half ([[Percentage 2: Number]]%) per annum”
+
+^^The definition of “Bank Rate” set forth in Exhibit I to the Agreement is amended by replacing the reference to “two percent ([[Percentage 1]]%) per annum” where it appears in the *proviso* thereto with a reference to “two and one-half ([[Percentage 2]]%) per annum”.
+
+^^The definition of “Base Rate” set forth in Exhibit I to the Agreement is replaced in its entirety with the following:
+
+“Base Rate” means for any day, a fluctuating interest rate per annum as shall be in effect from time to time, which rate shall be at all times equal to the greatest of (i) the rate of interest most recently announced by NORD/LB at its branch in New York, New York as its prime commercial rate for United States loans made in the United States (which rate is not necessarily intended to be the lowest rate of interest determined by NORD/LB in connection with extensions of credit) plus one percent ([[Percentage 3: Number]]%) per annum, (ii) the latest Federal Funds Rate plus 
+
+one and one-half percent ([[Percentage 4: Number]]%) per annum and (iii) the Eurodollar Rate applicable to the Yield Period for which the Base Rate is then being determined.
+
+^^The definition of “CP Rate” set forth in Exhibit I to the Agreement is amended by replacing the reference to “two percent ([[Percentage 1]]%) per annum” where it appears in the last sentence thereof with a reference to “two and one-half ([[Percentage 2]]%) per annum”.
+
+^^The definition of “Termination Discount” set forth in Exhibit I to the Agreement is replaced in its entirety with the following:
+
+“Termination Discount” means, on any date of determination, an amount determined pursuant to the following formula:
+
+\centered I x [(COF x 1.50) + UFR] x (2 x DSO/360)
+
+Where:
+
+^=      the Investment on such date
+
+AD      =      the amount of Discount that accrues on the Investment on such date
+
+COF      =      AD x 360
+^DSO      =      Days Sales Outstanding on such date
+
+UFR      =      the “Utilization Fee Rate” (as defined in the Fee Letter on such date)
+
+^Representations and Warranties. On the date hereof, each of the Seller and Manitowoc hereby represents and warrants (as to itself) to the Purchaser and the Agent as follows:
+
+^^after giving effect to this Amendment and the A&R Fee Letter, no event or condition has occurred and is continuing which constitutes an Termination Event or Unmatured Termination Event;
+
+^^after giving effect to this Amendment and the A&R Fee Letter, the representations and warranties of such Person set forth in the Agreement and each other Transaction Document are true and correct as of the date hereof, as though made on and as of such date (except to the extent such representations and warranties relate solely to an earlier date and then as of such earlier date); and
+
+^^this Amendment and the A&R Fee Letter constitute the valid and binding obligation of such Person, enforceable against such Person in accordance with its terms.
+
+^Effectiveness. This Amendment shall be effective, as of the date hereof, upon receipt by the Agent of the following (in each case, in form and substance reasonably satisfactory to the Agent):
+
+^^counterparts of this Amendment duly executed by each of the parties hereto; and
+
+^^counterparts to the A&R Fee Letter, duly executed by each of the parties thereto.
+
+^Miscellaneous. The Agreement, as amended hereby, remains in full force and effect. Any reference to the Agreement from and after the date hereof shall be deemed to refer to the Agreement as amended hereby, unless otherwise expressly stated. This Amendment may be executed in any number of counterparts and by the different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which then taken together shall constitute one and the same Amendment. This Amendment may be executed by facsimile or delivery of a “.pdf” copy of an executed counterpart hereof. This Amendment shall be governed by, and construed in accordance with, the internal laws of the State of New York (including Sections 5-1401 and 5-1402 of the General Obligations Law of the State of New York, but without regard to any other conflict of laws provisions thereof) and the obligations, rights and remedies of the parties under this Amendment shall be determined in accordance with such laws.
+
+\centered *[Signature pages follow.]*
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed, as of the date first above written.
+
+MANITOWOC FUNDING,
+as Seller
+
+[[As Seller Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Seller Entity => By: [[As Seller Signatory First Name]] [[As Seller Signatory Last Name]]
+Title: [[As Seller Signatory Title]]}}
+
+
+*Amendment No. 3 to Amended and Restated* 
+
+*Receivables Purchase Agreement*
+
+\centered S-1
+
+[[Organization 1 Name]], INC.,
+as Servicer
+
+[[As Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Servicer Entity => By: [[As Servicer Signatory First Name]] [[As Servicer Signatory Last Name]]
+Title: [[As Servicer Signatory Title]]}}
+
+
+*Amendment No. 3 to Amended and Restated* 
+
+*Receivables Purchase Agreement*
+
+\centered S-2
+
+[[Party 3]], as Agent
+
+[[Party 3 as Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 as Agent Entity => By: [[Party 3 as Agent Signatory First Name]] [[Party 3 as Agent Signatory Last Name]]
+Title: [[Party 3 as Agent Signatory Title]]}}
+
+
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
+
+
+*Amendment No. 3 to Amended and Restated* 
+
+*Receivables Purchase Agreement*
+
+\centered S-3
+
+[[Party 2]],
+as Purchaser
+
+[[As Purchaser Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Purchaser Entity => By: [[As Purchaser Signatory First Name]] [[As Purchaser Signatory Last Name]]
+Title: [[As Purchaser Signatory Title]]}}
+
+
+*Amendment No. 3 to Amended and Restated* 
+
+*Receivables Purchase Agreement*
+
+\centered S-4

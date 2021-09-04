@@ -1,0 +1,489 @@
+\centered **SECURITY AGREEMENT** 
+
+\centered Dated as of [[Date 1: Date]] 
+
+\centered From 
+
+\centered The Grantors referred to herein 
+
+\centered as Grantors 
+
+\centered to 
+
+\centered [[Organization 1 Name]], N.A., 
+
+\centered as Agent 
+
+\centered **TABLE OF CONTENTS** 
+
+**Page**
+^Grant of Security     
+
+Section 2.      Security for Obligations     
+
+Section 3.      Grantors Remain Liable     
+
+Section 4.      Delivery and Control of Security Collateral     
+
+Section 5.      Maintaining the Account Collateral     
+
+Section 6.      Investing of Amounts in the Collateral Account     
+
+Section 7.      Release of Amounts     
+
+Section 8.      Representations and Warranties     
+
+Section 9.      Further Assurances     
+
+Section 10.      As to Equipment and Inventory     
+
+Section 11.      Insurance     
+
+Section 12.      Post-Closing Changes; Collections on Assigned Agreements, Receivables and Related Contracts     
+
+Section 13.      As to Intellectual Property Collateral     
+
+Section 14.      Voting Rights; Dividends; Etc.     
+
+Section 15.      As to the Assigned Agreements     
+
+Section 16.      As to Letter-of-Credit Rights     
+
+Section 17.      Commercial Tort Claims     
+
+Section 18.      Transfers and Other Liens; Additional Shares     
+
+Section 19.      Agent Appointed Attorney in Fact     
+
+Section 20.      Agent May Perform     
+
+Section 21.      The Agent’s Duties     
+
+Section 22.      Remedies     
+
+Section 23.      Indemnity and Expenses     
+
+Section 24.      Amendments; Waivers; Additional Grantors; Etc.     
+
+\centered i 
+
+Section 25.      Notices, Etc.     
+
+Section 26.      Continuing Security Interest; Assignments under the Credit Agreement     
+
+Section 27.      Release; Termination     
+
+Section 28.      Execution in Counterparts     
+
+Section 29.      Governing Law     
+
+Schedules
+
+Schedule I      -      Initial Pledged Debt
+Schedule II      -      Pledged Deposit Accounts
+Schedule III      -      Intellectual Property
+Schedule IV      -      Commercial Tort Claims
+Schedule V      -      Location, Chief Executive Office, Type of Organization, Jurisdiction of Organization and Organizational Identification Number
+Schedule VI      -      Changes in Name, Location, Etc.
+Schedule VII      -      Locations of Equipment and Inventory
+Schedule VIII      -      Letters of Credit
+
+Exhibits
+
+Exhibit A      -      Form of Intellectual Property Security Agreement
+Exhibit B      -      Form of Intellectual Property Security Agreement Supplement
+Exhibit C      -      Form of Security Agreement Supplement
+
+\centered ii 
+
+\centered **SECURITY AGREEMENT** 
+
+SECURITY AGREEMENT dated as of [[Date 1]] made by [[Organization 2 Name]], a Delaware corporation (the “Borrower”), and the Persons listed on the signature pages hereof (the Borrower and the Persons so listed being, collectively, the “Grantors”), to [[Organization 1 Name]], N.A., as agent (together with any successor agents appointed pursuant to the Credit Agreement (as hereinafter defined), the “Agent”) for the Secured Parties (as hereinafter defined). 
+
+\centered **PRELIMINARY STATEMENTS** 
+
+^The Grantors have entered into a Credit Agreement, dated as of [[Date 2: Date]] and amended as of [[Date 3: Date]], [[Date 4: Date]] and [[Date 1]] (as the same may be amended, amended and restated, extended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”) with the Agent, [[Organization 3 Name]], as syndication agent, and the Banks parties thereto from time to time. 
+
+^The Grantors have entered into a Collateral Assignment of Proceeds and Security Agreement, dated as of [[Date 2]] (as the same may be amended, amended and restated, extended, restated, supplemented or otherwise modified from time to time, the “Collateral Assignment”) with the Agent, pursuant to which the Grantors have granted to the Agent, for itself, the Banks, the Cash Management Banks and any Bank or Affiliate of a Bank that has entered into an interest rate protection agreement with any Grantor (collectively, the “Secured Parties”), a collateral assignment and security interest in the “Collateral” (as defined in the Collateral Assignment). 
+
+^Certain of the Grantors have entered into a Pledge Agreement, dated as of [[Date 2]] (as the same may be amended, amended and restated, extended, restated, supplemented or otherwise modified from time to time, the “Pledge Agreement”) with the Agent, pursuant to which such Grantors have granted to the Agent, for the benefit of the Secured Parties, a pledge and security interest in the “Pledged Collateral” (as defined in the Pledge Agreement). 
+
+^Each Grantor is, as of the date hereof, the owner of the indebtedness (the “Initial Pledged Debt”) set forth opposite such Grantor’s name on and as otherwise described in Schedule I hereto and issued by the obligors named therein. 
+
+^Each Grantor is, as of the date hereof, the owner of the deposit accounts (the “Pledged Deposit Accounts”) set forth opposite such Grantor’s name on Part I of Schedule II hereto. 
+
+^Upon the occurrence of an Event of Default, promptly following the Agent’s request, the Borrower shall establish an account (the “Collateral Account”) in the name of and the sole dominion of Agent, for the benefit of the Secured Parties. 
+
+^Each Grantor is, as of the date hereof, the owner of the securities accounts (the “Securities Accounts”) set forth opposite such Grantor’s name on Part II of Schedule II hereof. 
+
+^It is a condition precedent to Amendment No. 3 to the Credit Agreement and Amendment No. 2 to the Collateral Assignment of even date herewith (“Amendment No. 3”) that the Grantors shall have granted the security interest contemplated by this Agreement. Each Grantor will derive substantial direct and indirect benefit from the transactions contemplated by the Loan Documents. 
+
+^Terms defined in the Credit Agreement and not otherwise defined in this Agreement are used in this Agreement as defined in the Credit Agreement. Further, unless otherwise defined in this Agreement or in the Credit Agreement, terms defined in Article 8 or 9 of the UCC (as defined below) are used in this Agreement as such terms are defined in such Article 8 or 9. “UCC” means the Uniform Commercial Code as in effect from time to time in the Commonwealth of Massachusetts; provided, that, if perfection or the effect of perfection or non-perfection or the priority of the security interest in any Collateral is governed by the Uniform Commercial Code as in effect in a jurisdiction other than the State of New York, “UCC” means the Uniform Commercial Code as in effect from time to time in such other jurisdiction for purposes of the provisions hereof relating to such perfection, effect of perfection or non-perfection or priority. 
+
+NOW, THEREFORE, in consideration of the premises and in order to induce the Banks to enter into Amendment No. 3, each Grantor hereby agrees with the Agent for the ratable benefit of the Secured Parties as follows: 
+
+^Grant of Security. Each Grantor hereby grants to the Agent, for the ratable benefit of the Secured Parties, a security interest in such Grantor’s right, title and interest in and to the following, in each case, as to each type of property described below, whether now owned or hereafter acquired by such Grantor, wherever located, and whether now or hereafter existing or arising (collectively, the “ Collateral”): 
+
+^^all equipment in all of its forms, including, without limitation, all machinery, tools, motor vehicles, vessels, aircraft, furniture and fixtures, and all parts thereof and all accessions thereto, including, without limitation, computer programs and supporting information that constitute equipment within the meaning of the UCC (any and all such property being the “Equipment”); 
+
+^^all inventory in all of its forms, including, without limitation, (i) all raw materials, work in process, finished goods and materials used or consumed in the manufacture, production, preparation or shipping thereof, (ii) goods in which such Grantor has an interest in mass or a joint or other interest or right of any kind (including, without limitation, goods in which such Grantor has an interest or right as consignee) and (iii) goods that are returned to or repossessed or stopped in transit by such Grantor, and all accessions thereto and products thereof and documents therefor, including, without limitation, computer programs and supporting information that constitute inventory within the meaning of the UCC (any and all such property being the “Inventory”); 
+
+^^all accounts (including, without limitation, health-care-insurance receivables), chattel paper (including, without limitation, tangible chattel paper and electronic chattel paper), instruments (including, without limitation, promissory notes), deposit accounts, letter-of-credit rights, general intangibles (including, without limitation, payment intangibles) and other obligations of any kind, whether or not arising out of or in connection with the sale or lease of goods or the rendering of services and whether or not earned by performance, and all rights now or hereafter existing in and to all supporting obligations and in and to all security agreements, mortgages, Liens, leases, letters of credit and other contracts securing or otherwise relating to the foregoing property (any and all of such accounts, chattel paper, instruments, deposit accounts, letter-of-credit rights, general intangibles and other obligations, to the extent not referred to in clause (d), (e) or (f) below, being the “Receivables,” and any and all such supporting obligations, security agreements, mortgages, Liens, leases, letters of credit and other contracts being the “Related Contracts”); 
+
+^^the following (the “Security Collateral”): 
+
+^^^the Initial Pledged Debt and the instruments, if any, evidencing the Initial Pledged Debt, and all interest, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of the Initial Pledged Debt; 
+
+^^^all additional indebtedness from time to time owed to such Grantor (such indebtedness, together with the Initial Pledged Debt, being the “Pledged Debt”) and the instruments, if any, evidencing such indebtedness, and all interest, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such indebtedness; 
+
+^^^the Securities Accounts, the Collateral Account, all security entitlements with respect to all financial assets from time to time credited to the Securities Accounts or the Collateral Account, and all financial assets, and all dividends, distributions, return of capital, interest, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such security entitlements or financial assets and all warrants, rights or options issued thereon or with respect thereto; and 
+
+^^^all other investment property (excluding any “Pledged Collateral” (as defined in the Pledge Agreement) but including, without limitation, all (A) securities, whether certificated or uncertificated, (B) security entitlements, (C) securities accounts, (D) commodity contracts and (E) commodity accounts) in which such Grantor has now, or acquires from time to time hereafter, any right, title or interest in any manner, and the certificates or instruments, if any, representing or evidencing such investment property, and all dividends, distributions, return of capital, interest, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such investment property and all warrants, rights or options issued thereon or with respect thereto; 
+
+^^all agreements, contracts, leases, licenses, tax sharing agreements or hedging arrangements now or hereafter entered into by Grantor (such agreements, collectively, the “Assigned Agreements”), in each case as such agreements may be amended, amended and restated, supplemented or otherwise modified from time to time, excluding the “Collateral” (as defined in the Collateral Assignment) but including, without limitation, (i) all rights of such Grantor to receive moneys due and to become due under or pursuant to the Assigned Agreements, (ii) all rights of such Grantor to receive proceeds of any insurance, indemnity, warranty or guaranty with respect to the Assigned Agreements, (iii) claims of such Grantor for damages arising out of or for breach of or default under the Assigned Agreements, and (iv) the right of such Grantor to terminate the Assigned Agreements, to perform thereunder and to compel performance and otherwise exercise all remedies thereunder (all such Collateral being the “Agreement Collateral”); 
+
+^^the following (collectively, the “Account Collateral”): 
+
+^^^the Pledged Deposit Accounts and all funds and financial assets from time to time credited thereto (including, without limitation, all Cash Equivalents), and all certificates and instruments, if any, from time to time representing or evidencing the Pledged Deposit Accounts; 
+
+^^^all promissory notes, certificates of deposit, checks and other instruments from time to time delivered to or otherwise possessed by the Agent for or on behalf of such Grantor in substitution for or in addition to any or all of the then existing Account Collateral; and 
+
+^^^all interest, dividends, distributions, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of the then existing Account Collateral; and 
+
+^^the following (collectively, the “Intellectual Property Collateral”): 
+
+^^^all patents, patent applications, utility models and statutory invention registrations, all inventions claimed or disclosed therein and all improvements thereto (“Patents”); 
+
+^^^all trademarks, service marks, domain names, trade dress, logos, designs, slogans, trade names, business names, corporate names and other source identifiers, whether registered or unregistered (provided that no security interest shall be granted in the United States on intent-to-use trademark applications to the extent that, and solely during the period in which, the grant of a security interest therein would impair the validity or enforceability of such intent-to-use trademark applications under applicable federal law), together, in each case, with the goodwill symbolized thereby (“Trademarks”); 
+
+^^^all copyrights, including, without limitation, copyrights in Computer Software (as hereinafter defined), internet web sites and the content thereof, whether registered or unregistered (“Copyrights”); 
+
+^^^all computer software, programs and databases (including, without limitation, source code, object code and all related applications and data files), firmware and documentation and materials relating thereto, together with any and all maintenance rights, service rights, programming rights, hosting rights, test rights, improvement rights, renewal rights and indemnification rights and any substitutions, replacements, improvements, error corrections, updates and new versions of any of the foregoing (“Computer Software”); 
+
+^^^all confidential and proprietary information, including, without limitation, know-how, trade secrets, manufacturing and production processes and techniques, inventions, research and development information, databases and data, including, without limitation, technical data, financial, marketing and business data, pricing and cost information, business and marketing plans and customer and supplier lists and information (collectively, “Trade Secrets”), and all other intellectual, industrial and intangible property of any type, including, without limitation, industrial designs and mask works; 
+
+^^^all registrations and applications for registration for any of the foregoing, including, without limitation, those registrations and applications for registration set forth in Schedule III hereto, together with all reissues, divisions, continuations, continuations-in-part, extensions, renewals and reexaminations thereof; 
+
+^^^all tangible embodiments of the foregoing, all rights in the foregoing provided by international treaties or conventions, all rights corresponding thereto throughout the world and all other rights of any kind whatsoever of such Grantor accruing thereunder or pertaining thereto; 
+
+^^^all agreements, permits, consents, orders and franchises relating to the license, development, use or disclosure of any of the foregoing to which such Grantor, now or hereafter, is a party or a beneficiary, including, without limitation, the agreements set forth in Schedule III hereto (“IP Agreements”); and 
+
+^^^any and all claims for damages and injunctive relief for past, present and future infringement, dilution, misappropriation, violation, misuse or breach with respect to any of the foregoing, with the right, but not the obligation, to sue for and collect, or otherwise recover, such damages; 
+
+^^the commercial tort claims described in Schedule IV hereto (together with any commercial tort claims as to which the Grantors have complied with the requirements of Section 17, the “Commercial Tort Claims Collateral”); 
+
+^^all books and records (including, without limitation, customer lists, credit files, printouts and other computer output materials and records) of such Grantor pertaining to any of the Collateral; and 
+
+^^all proceeds of, collateral for, income, royalties and other payments now or hereafter due and payable with respect to, and supporting obligations relating to, any and all of the Collateral (including, without limitation, proceeds, collateral and supporting obligations that constitute property of the types described in clauses (a) through (i) of this Section 1) and, to the extent not otherwise included, all (A) payments under insurance (whether or not the Agent is the loss payee thereof), or any indemnity, warranty or guaranty, payable by reason of loss or damage to or otherwise with respect to any of the foregoing Collateral, and (B) cash; 
+
+provided, however, that notwithstanding anything herein to the contrary, in no event shall the security interest granted under this Section 1 attach to any lease, license, contract or agreement to which any Grantor is a party or any of its rights or interests thereunder if and for so long as the grant of such security interest shall constitute or result in a breach or termination of, or a default under, any such lease, license, contract or agreement pursuant to the terms thereof (other than to the extent that such terms would be rendered ineffective pursuant to Sections 9-405, 9-406, 9-407 or 9-408 of the UCC (or any successor provision or provisions) of any relevant jurisdiction or any other applicable law (including the Bankruptcy Code) or principles of equity); provided further, however, that (A) such security interest, to the extent severable, shall attach immediately to any portion of such lease, license, contract or agreement that does not result in any of the consequences specified above; and (B) the foregoing exclusion shall not in any way limit, impair or otherwise affect the Secured Parties’ continuing security interest upon any rights or interests of the Grantors in or to (I) monies due or to become due in respect of such lease, license, contract or agreement or (II) any and all proceeds from the sale, transfer, assignment, license, lease or other disposition of such lease, license, contract or agreement. 
+
+^Security for Obligations. This Agreement secures, in the case of each Grantor, the payment of all Obligations of such Grantor now or hereafter existing under the Loan Documents, under Secured Cash Management Agreements, and under Secured Interest Rate Protection Agreements, whether direct or indirect, absolute or contingent, and whether for principal, reimbursement obligations, interest, fees, premiums, penalties, indemnifications, contract causes of action, costs, expenses or otherwise (all such Obligations being the “ Secured Obligations”). Without limiting the generality of the foregoing, this Agreement secures, as to each Grantor, the payment of all amounts that constitute part of the Secured Obligations and would be owed by such Grantor to any Secured Party under the Loan Documents but for the fact that they are unenforceable or not allowable due to the existence of a bankruptcy, reorganization or similar proceeding involving a Loan Party. 
+
+^Grantors Remain Liable. Anything herein to the contrary notwithstanding, (a) each Grantor shall remain liable under the contracts and agreements included in such Grantor’s Collateral to the extent set forth therein to perform all of its duties and obligations thereunder to the same extent as if this Agreement had not been executed, (b) the exercise by the Agent of any of the rights hereunder shall not release any Grantor from any of its duties or obligations under the contracts and agreements included in the Collateral and (c) no Secured Party shall have any obligation or liability under the contracts and agreements included in the Collateral by reason of this Agreement or any other Loan Document, nor shall any Secured Party be obligated to perform any of the obligations or duties of any Grantor thereunder or to take any action to collect or enforce any claim for payment assigned hereunder. 
+
+^Delivery and Control of Security Collateral. 
+
+^^All certificates or instruments representing or evidencing Security Collateral (other than, except upon the request of the Agent after the occurrence and during the continuance of an Event of Default, Pledged Debt in a principal amount not in excess of $[[USD Value 1: Number]] individually and $[[USD Value 2: Number]] in the aggregate) shall be delivered to and held by or on behalf of the Agent pursuant hereto and shall be in suitable form for transfer by delivery, or shall be accompanied by duly executed instruments of transfer or assignment in blank, all in form and substance reasonably satisfactory to the Agent. The Agent shall have the right at any time to exchange certificates or instruments representing or evidencing Security Collateral for certificates or instruments of smaller or larger denominations. 
+
+^^With respect to any Security Collateral that constitutes an uncertificated security, the relevant Grantor will, upon the occurrence and during the continuance of an Event of Default, at the request of the Agent, cause the issuer thereof either (i) to register the Agent, for the benefit of the Secured Parties, as the registered owner of such security or (ii) to agree with such Grantor and the Agent that such issuer will comply with instructions with respect to such security originated by the Agent without further consent of such Grantor, such agreement to be in form and substance reasonably satisfactory to the Agent (such agreement being an “Uncertificated Security Control Agreement”). 
+
+^^With respect to any Securities Account, the Collateral Account and Security Collateral that constitutes a security entitlement as to which the financial institution acting as Agent hereunder is not the securities intermediary, the relevant Grantor will, upon the occurrence and during the continuance of an Event of Default, at the request of the Agent, cause the securities intermediary with respect to such Account or security entitlement either (i) to identify in its records the Agent, for the benefit of the Secured Parties, as the entitlement holder thereof or (ii) to agree with such Grantor and the Agent that such securities intermediary will comply with entitlement orders originated by the Agent without further consent of such Grantor, such agreement to be in form and substance satisfactory to the Agent (a “Securities Account Control Agreement”). 
+
+^^The Agent shall have the right, following the occurrence and during the continuance of an Event of Default, in its discretion and without notice to any Grantor, to transfer to or to register in the name of the Agent or any of its nominees any or all of the Security Collateral, subject only to the revocable rights specified in Section 14(a). In addition, the Agent shall have the right following the occurrence and during the continuance of an Event of Default to convert Security Collateral consisting of financial assets credited to the Securities Accounts or the Collateral Account to Security Collateral consisting of financial assets held directly by the Agent, and to convert Security Collateral consisting of financial assets held directly by the Agent to Security Collateral consisting of financial assets credited to the Securities Accounts or the Collateral Account. 
+
+^^Upon the request of the Agent following the occurrence and during the continuance of an Event of Default, each Grantor will notify each issuer of Security Collateral granted by it hereunder that such Security Collateral is subject to the security interest granted hereunder. 
+
+^Maintaining the Account Collateral. So long as the Loans or any other Obligation of any Loan Party under any Loan Document, under any Secured Cash Management Agreement, or under any Secured Interest Rate Protection Agreement, shall remain unpaid, upon the occurrence and during the continuance of an Event of Default, at the request of the Agent: 
+
+^^Each Grantor will maintain deposit accounts only with the financial institution acting as Agent hereunder or with a bank (a “Pledged Account Bank”) that has agreed with such Grantor and the Agent to comply with instructions originated by the Agent directing the disposition of funds in such deposit account without the further consent of such Grantor, such agreement to be in form and substance reasonably satisfactory to the Agent (a “Deposit Account Control Agreement”). 
+
+^^Each Grantor will (i) immediately instruct each Person obligated at any time to make any payment to such Grantor for any reason (an “Obligor”) to make such payment to a Pledged Deposit Account or the Collateral Account and (ii) deposit in a Pledged Deposit Account or the Collateral Account, at the end of each Business Day, all proceeds of Collateral and all other cash of such Grantor. 
+
+^^Each Grantor will instruct each Pledged Account Bank to transfer to the Collateral Account, at the end of each Business Day, in same day funds, an amount equal to the credit balance of the Pledged Deposit Account at such Pledged Account Bank. If any Grantor shall fail to give any such instructions to any Pledged Account Bank, the Agent may do so without further notice to any Grantor. 
+
+^^The Agent may, at any time and without notice to, or consent from, the Grantor, transfer, or direct the transfer of, funds from the Pledged Deposit Accounts or the Collateral Account to satisfy the Grantor’s obligations under the Loan Documents if an Event of Default shall have occurred and be continuing. 
+
+^^Each Grantor agrees that it will not add any bank that maintains a deposit account for such Grantor or open any new deposit account with any then-existing Pledged Account Bank unless (i) the Agent shall have received at least 10 Business Days’ prior written notice of such additional bank or such new deposit account and (ii) the Agent shall have received a Deposit Account Control Agreement authenticated by such new bank and such Grantor or a supplement to an existing Deposit Account Control Agreement with such then-existing Pledged Account Bank, covering such new deposit account (and, upon receipt by the Agent of such Deposit Account Control Agreement or supplement, Schedule II shall automatically be amended to include such deposit account). 
+
+^^Each Grantor agrees that it will not terminate any bank as a Pledged Account Bank or terminate any Account Collateral, except that the Grantor may terminate a deposit account and terminate a bank as a Pledged Account Bank with respect to such deposit account if it gives the Agent at least 10 Business Days’ prior written notice of such termination (and upon such termination, Schedule II hereto shall be automatically amended to delete such Pledged Account Bank and such deposit account). Upon any termination by a Grantor of any deposit account or any Pledged Account Bank with respect thereto, such Grantor will immediately (i) transfer all funds and property held in such terminated deposit account to another deposit account listed in Schedule II and (ii) notify all Obligors that were making payments to such deposit account to make all future payments to another deposit account listed in Schedule II or to the Collateral Account, in each case so that the Agent, for the benefit of the Secured Parties, will have a continuously perfected security interest in such Account Collateral, funds and property. 
+
+^Investing of Amounts in the Collateral Account. Upon the existence and continuation of an Event of Default, the Agent may, subject to the provisions of Sections 5, 7 and 22, from time to time (a) invest, or direct the applicable Pledged Account Bank to invest, amounts received with respect to the Collateral Account in such Cash Equivalents credited to the Collateral Account as the Borrower may select and the Agent may approve, and (b) invest interest paid on the Cash Equivalents referred to in clause (a) above, and reinvest other proceeds of any such Cash Equivalents that may mature or be sold, in each case in such Cash Equivalents credited in the same manner. Interest and proceeds that are not invested or reinvested in Cash Equivalents as provided above shall be deposited and held in the Collateral Account. In addition, upon the existence and continuation of an Event of Default, the Agent shall have the right at any time to exchange, or direct the applicable Pledged Account Bank to exchange, such Cash Equivalents for similar Cash Equivalents of smaller or larger determinations, or for other Cash Equivalents, credited to the Collateral Account. 
+
+^Release of Amounts. So long as no Event of Default shall have occurred and be continuing, the Agent will pay and release, or direct the applicable Pledged Account Bank to pay and release, to the applicable Grantor or at its order or, at the request of such Grantor, to be applied to the Obligations of the Grantors under the Loan Documents, all amounts then due and payable under the Loan Documents together with all accrued and unpaid interest and fees under the Credit Agreement; provided, for the avoidance of doubt, that nothing herein shall, absent the occurrence and during the continuance of an Event of Default, limit any Grantor’s right to direct each Pledged Account Bank directly. 
+
+^Representations and Warranties. Each Grantor represents and warrants as follows: 
+
+^^Such Grantor’s exact legal name, location, chief executive office, type of organization, jurisdiction of organization and organizational identification number is set forth in Schedule V hereto. Such Grantor has no tradenames, as of the date hereof other than those listed on Schedule V hereto. Within the five years preceding the date hereof, such Grantor has not changed its name, location, chief executive office, type of organization, jurisdiction of organization or organizational identification number from those set forth in Schedule V hereto except as set forth in Schedule VI hereto. 
+
+^^Such Grantor is the legal and beneficial owner of the Collateral granted or purported to be granted by it free and clear of any Lien, claim, option or right of others, except for the security interest created under this Agreement or permitted under the Credit Agreement. No effective financing statement or other similar instrument in effect covering all or any part of such Collateral or listing such Grantor or any current trade name of such Grantor as debtor is on file in any recording office, except such as may have been filed in favor of the Agent relating to the Loan Documents or as otherwise permitted under the Credit Agreement. 
+
+^^All of the Equipment and Inventory of such Grantor with a fair market value in excess of $[[USD Value 2]] are located, as of the date hereof, at the places specified therefor in Schedule VII hereto. 
+
+^^None of the Receivables or Agreement Collateral is evidenced by a promissory note or other instrument that has not been delivered to the Agent, except as permitted by Section 4(a). 
+
+^^Any Pledged Debt issued by a Grantor and pledged by another Grantor hereunder has been duly authorized, authenticated or issued and delivered, is the legal, valid and binding obligation of the issuers thereof, is evidenced by one or more promissory notes (which promissory notes have been delivered to the Agent) and is not in default on the date hereof. 
+
+^^Intentionally omitted. 
+
+^^Such Grantor has no investment property, other than investment property as to which such Grantor has complied with the requirements of Section 4 or investment property that is subject to the security interest granted pursuant to the Pledge Agreement. 
+
+^^Such Grantor has, as of the date hereof, no deposit accounts, other than the Pledged Deposit Accounts listed on Schedule II hereto and additional Pledged Deposit Accounts as to which such Grantor has complied with the applicable requirements of Section 5. 
+
+^^Such Grantor is not, as of the date hereof, a beneficiary or assignee under any letter of credit, other than the letters of credit described in Schedule VIII hereto and other letters of credit as to which such Grantor has complied with the requirements of Section 16. 
+
+^^This Agreement creates in favor of the Agent for the benefit of the Secured Parties a valid security interest in the Collateral granted by such Grantor, securing the payment of the Secured Obligations; all UCC filings and any filings with the Register of Copyrights or the Patent and Trademark Office necessary to perfect the security interest in the Collateral granted by such Grantor and that can be perfected by such action have been duly made or taken (or substantially simultaneously with the date hereof shall be) and are in full force and effect and such security interest is first priority (subject to the Liens permitted under the Credit Agreement). 
+
+^^No authorization or approval or other action by, and no notice to or filing with, any governmental authority or regulatory body or any other third party is required for (i) the grant by such Grantor of the security interest granted hereunder or for the execution, delivery or performance of this Agreement by such Grantor (except as have been obtained or made and are in full force and effect), (ii) the perfection or maintenance of the security interest created hereunder (except for (A) the filing of financing and continuation statements under the UCC, which financing statements have been duly filed or will be duly filed immediately after the date hereof, (B) the recording of the Intellectual Property Security Agreements with the U.S. Patent and Trademark Office and the U.S. Copyright Office, which Agreements have been duly recorded or will be delivered for recording immediately after the date hereof in the U.S. Patent and Trademark Office or the U.S. Copyright Office and, to the extent reasonably requested by the Agent, any other governmental authorities necessary to perfect the security interest granted in the Intellectual Property Collateral, (C) the actions described in Section 4 with respect to the Security Collateral, which actions have been taken in compliance therewith and are in full force and effect, and (D) other actions taken in connection with the perfection or maintenance of the Liens created under this Agreement), or (iii) the exercise by the Agent of its voting or other rights provided for in this Agreement or the remedies in respect of the Collateral pursuant to this Agreement (except as may be required in connection with the disposition of any portion of the Security Collateral by laws affecting the offering and sale of securities generally and consent from the FCC in connection with the exercise of certain remedies). 
+
+^^The Inventory that has been produced or distributed by such Grantor has been produced in compliance with all requirements of applicable law, including, without limitation, the Fair Labor Standards Act, other than could not reasonably be expected to have a Material Adverse Effect. 
+
+^^As to itself and its material Intellectual Property Collateral: 
+
+^^^To such Grantor’s knowledge, the operation of such Grantor’s business as currently conducted or as contemplated to be conducted and the use of the material Intellectual Property Collateral in connection therewith do not, in any material respect, conflict with, infringe, misappropriate, dilute, misuse or otherwise violate the intellectual property rights of any third party. 
+
+^^^Such Grantor is the exclusive owner of all right, title and interest in and to the material Intellectual Property Collateral (other than Intellectual Property Collateral used by such Grantor pursuant to an IP Agreement), and is entitled to use all Intellectual Property Collateral subject only to the terms of the IP Agreements. 
+
+^^^The Intellectual Property Collateral set forth on Schedule III hereto includes all of the registered patents, patent applications, domain names, trademark registrations and applications, copyright registrations and applications and IP Agreements owned by such Grantor as of the date hereof. 
+
+^^^The material Intellectual Property Collateral is subsisting and has not been adjudged invalid or unenforceable in whole or part, and to the best of such Grantor’s knowledge, is valid and enforceable. Such Grantor is not aware of any uses of any item of material Intellectual Property Collateral that could be expected to lead to such item becoming invalid or unenforceable. 
+
+^^^Such Grantor has made or performed all filings, recordings and other acts and has paid all required fees and taxes to maintain and protect its interest in all material Intellectual Property Collateral in each jurisdiction where such Grantor does business, and to protect and maintain its interest therein including, without limitation, recordations of any of its interests in the Patents and Trademarks with the U.S. Patent and Trademark Office and in corresponding national and international patent offices in each jurisdiction where such Grantor does business, and recordation of any of its interests in the Copyrights with the U.S. Copyright Office and in corresponding national and international copyright offices in each jurisdiction where such Grantor does business, except payment of fees and taxes being contested in good faith by appropriate proceedings and for which adequate reserves have been established in accordance with GAAP. Such Grantor has used proper statutory notice in connection with its use of each material patent, trademark and copyright in the Intellectual Property Collateral. 
+
+^^^No claim, action, suit, investigation, litigation or proceeding has been asserted or is pending or threatened in writing against such Grantor (i) based upon or challenging or seeking to deny or restrict the Grantor’s rights in or use of any material Intellectual Property Collateral, (ii) alleging that the Grantor’s rights in or use of any material Intellectual Property Collateral or that any services provided by, processes used by, or products manufactured or sold by, such Grantor infringe, misappropriate, dilute, misuse or otherwise violate, in each case, in any material respect, any patent, trademark, copyright or any other proprietary right of any third party, or (iii) alleging that any material Intellectual Property Collateral is being licensed or sublicensed in violation or contravention of the terms of any license or other agreement. No Person is engaging in any activity that infringes, misappropriates, dilutes, misuses or otherwise violates the material Intellectual Property Collateral or the Grantor’s rights in or use thereof. Except as set forth on Schedule III hereto, as of the date hereof, such Grantor has not granted any license, release, covenant not to sue, non-assertion assurance, or other right to any Person with respect to any part of the material Intellectual Property Collateral. 
+
+^^^With respect to each IP Agreement in respect of material Intellectual Property Collateral, as of the date hereof: (A) such IP Agreement is valid and binding and in full force and effect and represents the entire agreement between the respective parties thereto with respect to the subject matter thereof; (B) such IP Agreement will not cease to be valid and binding and in full force and effect on terms identical to those currently in effect as a result of the rights and interest granted herein, nor will the grant of such rights and interest constitute a breach or default under such IP Agreement or otherwise give any party thereto a right to terminate such IP Agreement; (C) such Grantor has not received any notice of termination or cancellation under such IP Agreement; (D) such Grantor has not received any notice of a breach or default under such IP Agreement, which breach or default has not been cured; (E) such Grantor has not granted to any other third party any rights, adverse or otherwise, under such IP Agreement; and (F) neither such Grantor nor any other party to such IP Agreement is in breach or default thereof in any material respect, and no event has occurred that, with notice or lapse of time or both, would constitute such a breach or default or permit termination, modification or acceleration under such IP Agreement. 
+
+^^^To such Grantor’s knowledge, (A) none of the material Trade Secrets of such Grantor has been used, divulged, disclosed or appropriated to the detriment of such Grantor for the benefit of any other Person other than such Grantor; (B) no employee, independent contractor or agent of such Grantor has misappropriated any material Trade Secrets of any other Person in the course of the performance of his or her duties as an employee, independent contractor or agent of such Grantor; and (C) no employee, independent contractor or agent of such Grantor is in default or breach of any term of any employment agreement, non-disclosure agreement, assignment of inventions agreement or similar agreement or contract relating in any way to the protection, ownership, development, use or transfer of such Grantor’s material Intellectual Property Collateral. 
+
+^^^No Grantor or material Intellectual Property Collateral is subject to any outstanding consent, settlement, decree, order, injunction, judgment or ruling restricting the use of any material Intellectual Property Collateral or that would impair the validity or enforceability of such Intellectual Property Collateral. 
+
+^^Such Grantor has no commercial tort claims other than those listed in Schedule IV hereto and additional commercial tort claims as to which such Grantor has complied with the requirements of Section 17. 
+
+^Further Assurances. 
+
+^^Each Grantor agrees that from time to time, at the expense of such Grantor, such Grantor will promptly execute and deliver, or otherwise authenticate, all further instruments and documents, and take all further action that may be necessary or desirable, or that the Agent may reasonably request, in order to perfect and protect any pledge or security interest granted or purported to be granted by such Grantor hereunder or to enable the Agent to exercise and enforce its rights and remedies hereunder with respect to any Collateral of such Grantor. Without limiting the generality of the foregoing, each Grantor will promptly with respect to Collateral of such Grantor: (i) at the request of the Agent, mark conspicuously each document included in Inventory, each chattel paper included in Receivables, each Related Contract, each Assigned Agreement and, each of its records pertaining to such Collateral with a legend, in form and substance reasonably satisfactory to the Agent, indicating that such document, chattel paper, Related Contract, Assigned Agreement or Collateral is subject to the security interest granted hereby; (ii) at the request of the Agent, if any such Collateral shall be evidenced by chattel paper, deliver and pledge to the Agent hereunder such chattel paper duly indorsed and accompanied by duly executed instruments of transfer or assignment, all in form and substance reasonably satisfactory to the Agent; (iii) file such financing or continuation statements, or amendments thereto, and such other instruments or notices, as may be necessary or desirable, or as the Agent may reasonably request, in order to perfect and preserve the security interest granted or purported to be granted by such Grantor hereunder; (iv) at the request of the Agent, take all action to ensure that the Agent’s security interest, for the benefit of the Secured Parties, is noted on any certificate of title related to any Collateral evidenced by a certificate of title; and (v) at the request of the Agent, deliver to the Agent evidence that all other actions that the Agent may deem reasonably necessary or desirable in order to perfect and protect the security interest granted or purported to be granted by such Grantor under this Agreement has been taken. 
+
+^^Each Grantor hereby authorizes the Agent to file one or more financing or continuation statements, and amendments thereto, including, without limitation, one or more financing statements indicating that such financing statements cover all assets or all personal property (or words of similar effect) of such Grantor, regardless of whether any particular asset described in such financing statements falls within the scope of the UCC or the granting clause of this Agreement. A photocopy or other reproduction of this Agreement shall be sufficient as a financing statement where permitted by law. Each Grantor ratifies its authorization for the Agent to have filed such financing statements, continuation statements or amendments filed prior to the date hereof. 
+
+^^Each Grantor will furnish to the Agent from time to time statements and schedules further identifying and describing the Collateral of such Grantor and such other reports in connection with such Collateral as the Agent may reasonably request, all in reasonable detail. 
+
+^As to Equipment and Inventory. 
+
+^^Upon the occurrence and during the continuance of an Event of Default, each Grantor will provide to the Agent a schedule listing all locations of its Equipment and Inventory. 
+
+^^Each Grantor will cause its Equipment to be maintained and preserved in the same condition, repair and working order as when new, ordinary wear and tear and casualty and condemnation excepted, and will forthwith, or in the case of any loss or damage to any of such Equipment as soon as practicable after the occurrence thereof, make or cause to be made all repairs, replacements and other improvements in connection therewith that are necessary or desirable to such end. 
+
+^^Each Grantor will pay promptly when due all material property and other taxes, assessments and governmental charges or levies imposed upon (except to the extent being contested in good faith by appropriate proceedings and if such Grantor shall have set aside adequate reserves with respect thereto) and all claims (including, without limitation, claims for labor, materials and supplies) against, its Equipment and Inventory. In producing its Inventory, each Grantor will comply in all material respects with all requirements of applicable law, including, without limitation, the Fair Labor Standards Act. 
+
+^Insurance. 
+
+^^Each Grantor will, at its own expense, maintain insurance with respect to its Equipment and Inventory in such amounts, against such risks, in such form and with such insurers, as is required pursuant to Section 6.6 of the Credit Agreement. 
+
+^^Reimbursement under any liability insurance maintained by any Grantor pursuant to this Section 11 may be paid directly to the Person who shall have incurred liability covered by such insurance. In case of any loss involving damage to Equipment or Inventory when subsection (c) of this Section 11 is not applicable, the applicable Grantor will make or cause to be made the necessary repairs to or replacements of such Equipment or Inventory, and any proceeds of insurance properly received by or released to such Grantor shall be used by such Grantor, except as otherwise required hereunder or by the Credit Agreement, to pay or as reimbursement for the costs of such repairs or replacements. 
+
+^^So long as no Event of Default shall have occurred and be continuing, all insurance payments received by the Agent in connection with any loss, damage or destruction of any Inventory or Equipment will be released by the Agent to the applicable Grantor, subject to any mandatory prepayment required under Section 2.7 of the Credit Agreement. Upon the occurrence and during the continuance of any Event of Default, all insurance payments in respect of such Equipment or Inventory shall be paid to the Agent and shall, in the Agent’s sole discretion, (i) be released to the applicable Grantor to be applied as set forth in the first sentence of this subsection (c) or (ii) be held as additional Collateral hereunder or applied as specified in Section 22(b). 
+
+^Post-Closing Changes; Collections on Assigned Agreements, Receivables and Related Contracts. 
+
+^^No Grantor will change its name, type of organization, jurisdiction of organization, organizational identification number or location from those set forth in Section 8(a) of this Agreement without first giving at least 10 Business Days’ prior written notice to the Agent and taking all action required by the Agent for the purpose of perfecting or protecting the security interest granted by this Agreement. Each Grantor will hold and preserve its records relating to the Collateral, including, without limitation, the Assigned Agreements and Related Contracts, and will permit representatives of the Agent at any time during normal business hours and upon reasonable advance notice to inspect and make abstracts from such records and other documents. 
+
+^^Except as otherwise provided in this subsection (b), each Grantor will continue to collect, at its own expense, all amounts due or to become due such Grantor under the Assigned Agreements, Receivables and Related Contracts. In connection with such collections, such Grantor may take such action as such Grantor may deem necessary or advisable to enforce collection of the Assigned Agreements, Receivables and Related Contracts; *provided*, *however*, that the Agent shall have the right at any time, upon the occurrence and during the continuance of an Event of Default and upon written notice to such Grantor of its intention to do so, to notify the Obligors under any Assigned Agreements, Receivables and Related Contracts of the assignment of such Assigned Agreements, Receivables and Related Contracts to the Agent and to direct such Obligors to make payment of all amounts due or to become due to such Grantor thereunder directly to the Agent and, upon such notification and at the expense of such Grantor, to enforce collection of any such Assigned Agreements, Receivables and Related Contracts, to adjust, settle or compromise the amount or payment thereof, in the same manner and to the same extent as such Grantor might have done, and to otherwise exercise all rights with respect to such Assigned Agreements, Receivables and Related Contracts, including, without limitation, those set forth set forth in Section 9-607 of the UCC. After receipt by any Grantor of the notice from the Agent referred to in the proviso to the preceding sentence, (i) all amounts and proceeds (including, without limitation, instruments) received by such Grantor in respect of the Assigned Agreements, Receivables and Related Contracts of such Grantor shall be received in trust for the benefit of the Agent hereunder, shall be segregated from other funds of such Grantor and shall be forthwith paid over to the Agent in the same form as so received (with any necessary indorsement) to be deposited in the Collateral Account and applied as provided in Section 22(b) and (ii) such Grantor will not adjust, settle or compromise the amount or payment of any Receivable or amount due on any Assigned Agreement or Related Contract, release wholly or partly any Obligor thereof or allow any credit or discount thereon. No Grantor will permit or consent to the subordination of its right to payment under any of the Assigned Agreements, Receivables and Related Contracts to any other indebtedness or obligations of the Obligor thereof. 
+
+^As to Intellectual Property Collateral. (a) Subject to the last sentence of this Section 13(a), with respect to each item of its material Intellectual Property Collateral, each Grantor agrees to take, at its expense, all reasonably necessary steps, including, without limitation, in the U.S. Patent and Trademark Office, the U.S. Copyright Office and any other governmental authority, to (i) maintain the validity and enforceability of such Intellectual Property Collateral and maintain such Intellectual Property Collateral in full force and effect, and (ii) pursue the registration and maintenance of each patent, trademark, or copyright registration or application, now or hereafter included in such Intellectual Property Collateral of such Grantor, including, without limitation, the payment of required fees and taxes, the filing of responses to office actions issued by the U.S. Patent and Trademark Office, the U.S. Copyright Office or other governmental authorities, the filing of applications for renewal or extension, the filing of affidavits under Sections 8, 9 and 15 of the U.S. Trademark Act, the filing of divisional, continuation, continuation-in-part, reissue and renewal applications or extensions, the payment of maintenance fees and the participation in interference, reexamination, opposition, cancellation, infringement and misappropriation proceedings. No Grantor shall, without the written consent of the Agent, discontinue use of or otherwise abandon any material Intellectual Property Collateral, or abandon any right to file an application for patent, trademark, or copyright, unless such Grantor shall have previously determined that such use or the pursuit or maintenance of such Intellectual Property Collateral is no longer necessary or desirable in the conduct of such Grantor’s business and that the loss thereof would not be reasonably likely to have a Material Adverse Effect. 
+
+^^Each Grantor agrees promptly to notify the Agent if such Grantor becomes aware (i) that any item of material Intellectual Property Collateral may have become abandoned, placed in the public domain, invalid or unenforceable, or of any adverse determination or development regarding such Grantor’s ownership of any of the Intellectual Property Collateral or its right to register the same or to keep and maintain and enforce the same, or (ii) of any adverse determination or the institution of any proceeding (including, without limitation, the institution of any proceeding in the U.S. Patent and Trademark Office or any court) regarding any item of the material Intellectual Property Collateral. 
+
+^^In the event that any Grantor becomes aware that any item of material Intellectual Property Collateral is being infringed or misappropriated by a third party, such 
+
+Grantor shall take such actions, at its expense, as such Grantor or the Agent deems reasonable and appropriate under the circumstances to protect or enforce such Intellectual Property Collateral, including, without limitation, suing for infringement or misappropriation and for an injunction against such infringement or misappropriation. 
+
+^^Each Grantor shall use proper statutory notice in connection with its use of each item of its material Intellectual Property Collateral. No Grantor shall do or permit any act or knowingly omit to do any act whereby any of its material Intellectual Property Collateral may lapse or become invalid or unenforceable or placed in the public domain. 
+
+^^Each Grantor shall take all steps which it deems reasonable and appropriate under the circumstances to preserve and protect each item of its material Intellectual Property Collateral, including, without limitation, maintaining the quality of any and all products or services used or provided in connection with any of the Trademarks, consistent with the quality of the products and services as of the date hereof, and taking all steps necessary to ensure that all licensed users of any of the Trademarks use such consistent standards of quality. 
+
+^^With respect to its material Intellectual Property Collateral, each Grantor agrees to execute or otherwise authenticate an agreement, in substantially the form set forth in Exhibit A hereto or otherwise in form and substance satisfactory to the Agent (an “Intellectual Property Security Agreement”), for recording the security interest granted hereunder to the Agent in such Intellectual Property Collateral with the U.S. Patent and Trademark Office, the U.S. Copyright Office and any other governmental authorities necessary to perfect the security interest hereunder in such Intellectual Property Collateral. 
+
+^^Each Grantor agrees that should it obtain an ownership interest in any item of the type set forth in Section 1(g) that is not on the date hereof a part of the Intellectual Property Collateral (“After-Acquired Intellectual Property”) (i) the provisions of this Agreement shall automatically apply thereto, and (ii) any such After-Acquired Intellectual Property and, in the case of trademarks, the goodwill symbolized thereby, shall automatically become part of the Intellectual Property Collateral subject to the terms and conditions of this Agreement with respect thereto. Each fiscal quarter, concurrently with its delivery of the Compliance Certificate, each Grantor shall give written notice to the Agent identifying any material After-Acquired Intellectual Property acquired during such fiscal quarter, and such Grantor shall execute and deliver to the Agent with such written notice, or otherwise authenticate, an agreement substantially in the form of Exhibit B hereto or otherwise in form and substance satisfactory to the Agent (an “IP Security Agreement Supplement”) covering such After-Acquired Intellectual Property, which IP Security Agreement Supplement shall be recorded with the U.S. Patent and Trademark Office, the U.S. Copyright Office and any other governmental authorities necessary to perfect the security interest hereunder in such After-Acquired Intellectual Property. 
+
+^Intentionally omitted.As to the Assigned Agreements. (a) Each Grantor will at its expense: 
+
+^^^perform and observe all terms and provisions of the Assigned Agreements to be performed or observed by it, maintain the Assigned Agreements to which it is a party in full force and effect, enforce the Assigned Agreements to which it is a party in accordance with the terms thereof and take all such action to such end as may be reasonably requested from time to time by the Agent; and 
+
+^^^take all steps which it deems reasonable and appropriate under the circumstances with respect to cancellations, terminations, amendments, supplements, modifications, and waivers of any Primary Television Affiliation Agreement with [[Organization 4 Name]] to which it is a party. 
+
+^^Each Grantor hereby consents on its behalf and on behalf of its Subsidiaries to the assignment and pledge to the Agent for benefit of the Secured Parties of each Assigned Agreement to which it is a party by any other Grantor hereunder. 
+
+^^Each Grantor agrees, and will effectively so instruct each other party to each Assigned Agreement to which it is a party, after the occurrence and during the continuance of an Event of Default, that all payments due or to become due under or in connection with such Assigned Agreement will be made directly to a Pledged Deposit Account. 
+
+^^All moneys received or collected pursuant to subsection (c) above shall be applied as provided in Section 22(b). 
+
+^As to Letter-of-Credit Rights. 
+
+^^Each Grantor will promptly use commercially reasonable efforts, after the occurrence and during the continuance of an Event of Default, to cause the issuer of each letter of credit and each nominated person (if any) with respect thereto to consent to the assignment of the proceeds of all Related Contracts consisting of letters of credit to which it is or hereafter becomes a beneficiary or assignee pursuant to a consent in form and substance reasonably satisfactory to the Agent and deliver written evidence of such consent to the Agent. 
+
+^^Each Grantor will, after the occurrence and during the continuance of an Event of Default, (i) notify (and such Grantor hereby authorizes the Agent to notify) the issuer and each nominated person with respect to each of the Related Contracts consisting of letters of credit that the proceeds thereof have been assigned to the Agent hereunder and any payments due or to become due in respect thereof are to be made directly to the Agent or its designee and (ii) arrange for the Agent to become the transferee beneficiary of letter of credit. 
+
+^Commercial Tort Claims. Each Grantor will promptly give notice to the Agent of any commercial tort claim that may arise after the date hereof with respect to which the Grantors, either individually or in the aggregate, reasonably expect to be awarded a monetary judgment of $[[USD Value 3: Number]] or more and will immediately execute or otherwise authenticate a supplement to this Agreement, and otherwise take all necessary action, to subject such commercial tort claim to the security interest created under this Agreement. 
+
+^Transfers and Other Liens. Each Grantor agrees that it will not (a) sell, assign or otherwise dispose of, or grant any option with respect to, any of the Collateral, other than sales, assignments and other dispositions of Collateral, and options relating to Collateral, permitted under the terms of the Credit Agreement, or (b) create or suffer to exist any Lien upon or with respect to any of the Collateral of such Grantor except for the pledge, assignment and security interest created under this Agreement and Liens permitted under the Credit Agreement. 
+
+^Agent Appointed Attorney in Fact. Each Grantor hereby irrevocably appoints the Agent such Grantor’s attorney in fact, with full authority in the place and stead of such Grantor and in the name of such Grantor or otherwise, from time to time, upon the occurrence and during the continuance of an Event of Default, in the Agent’s discretion, to take any action and to execute any instrument that the Agent may deem necessary or advisable to accomplish the purposes of this Agreement, including, without limitation: 
+
+^^to obtain and adjust insurance required to be paid to the Agent pursuant to Section 11, 
+
+^^to ask for, demand, collect, sue for, recover, compromise, receive and give acquittance and receipts for moneys due and to become due under or in respect of any of the Collateral, 
+
+^^to receive, indorse and collect any drafts or other instruments, documents and chattel paper, in connection with clause (a) or (b) above, and 
+
+^^to file any claims or take any action or institute any proceedings that the Agent may deem necessary or desirable for the collection of any of the Collateral or otherwise to enforce compliance with the terms and conditions of any Assigned Agreement or the rights of the Agent with respect to any of the Collateral. 
+
+^Agent May Perform. If any Grantor fails to perform any agreement contained herein and an Event of Default exists, the Agent may, but without any obligation to do so and without notice, itself perform, or cause performance of, such agreement, and the expenses of the Agent incurred in connection therewith shall be payable by such Grantor under Section 22. 
+
+^The Agent’s Duties. 
+
+^^The powers conferred on the Agent hereunder are solely to protect the Secured Parties’ interest in the Collateral and shall not impose any duty upon it to exercise any such powers. Except for the safe custody of any Collateral in its possession and the accounting for moneys actually received by it hereunder, the Agent shall have no duty as to any Collateral, as to ascertaining or taking action with respect to calls, conversions, exchanges, maturities, tenders or other matters relative to any Collateral, whether or not any Secured Party has or is deemed to have knowledge of such matters, or as to the taking of any necessary steps to preserve rights against any parties or any other rights pertaining to any Collateral. The Agent shall be deemed to have exercised reasonable care in the custody and preservation of any Collateral in its possession if such Collateral is accorded treatment substantially equal to that which it accords its own property. 
+
+^^Anything contained herein to the contrary notwithstanding, the Agent may from time to time, when the Agent deems it to be necessary, appoint one or more subagents (each a “Subagent”) for the Agent hereunder with respect to all or any part of the Collateral. In the event that the Agent so appoints any Subagent with respect to any Collateral, (i) the assignment and pledge of such Collateral and the security interest granted in such Collateral by each Grantor hereunder shall be deemed for purposes of this Security Agreement to have been made to such Subagent, in addition to the Agent, for the ratable benefit of the Secured Parties, as security for the Secured Obligations of such Grantor, (ii) such Subagent shall automatically be vested, in addition to the Agent, with all rights, powers, privileges, interests and remedies of the Agent hereunder with respect to such Collateral, and (iii) the term “Agent,” when used herein in relation to any rights, powers, privileges, interests and remedies of the Agent with respect to such Collateral, shall include such Subagent; provided, however, that no such Subagent shall be authorized to take any action with respect to any such Collateral unless and except to the extent expressly authorized in writing by the Agent. 
+
+^Remedies. If any Event of Default shall have occurred and be continuing: 
+
+^^The Agent may exercise in respect of the Collateral, in addition to other rights and remedies provided for herein or otherwise available to it, all the rights and remedies of a secured party upon default under the UCC (whether or not the UCC applies to the affected Collateral) and also may: (i) require each Grantor to, and each Grantor hereby agrees that it will at its expense and upon request of the Agent forthwith, assemble all or part of the Collateral as directed by the Agent and make it available to the Agent at a place and time to be designated by the Agent that is reasonably convenient to both parties; (ii) without notice except as specified below, sell the Collateral or any part thereof in one or more parcels at public or private sale, at any of the Agent’s offices or elsewhere, for cash, on credit or for future delivery, and upon such other terms as the Agent may deem commercially reasonable; (iii) occupy any premises owned or leased by any of the Grantors where the Collateral or any part thereof is assembled or located for a reasonable period in order to effectuate its rights and remedies hereunder or under law, without obligation to such Grantor in respect of such occupation; and (iv) exercise any and all rights and remedies of any of the Grantors under or in connection with the Collateral, or otherwise in respect of the Collateral, including, without limitation, (A) any and all rights of such Grantor to demand or otherwise require payment of any amount under, or performance of any provision of, the Assigned Agreements, the Receivables, the Related Contracts and the other Collateral, (B) withdraw, or cause or direct the withdrawal, of all funds with respect to the Account Collateral and (C) exercise all other rights and remedies with respect to the Assigned Agreements, the Receivables, the Related Contracts and the other Collateral, including, without limitation, those set forth in Section 9-607 of the UCC. Each Grantor agrees that, to the extent notice of sale shall be required by law, at least ten days’ notice to such Grantor of the time and place of any public sale or the time after which any private sale is to be made shall constitute reasonable notification. The Agent shall not be obligated to make any sale of Collateral regardless of notice of sale having been given. The Agent may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, without further notice, be made at the time and place to which it was so adjourned. 
+
+^^Any cash held by or on behalf of the Agent and all cash proceeds received by or on behalf of the Agent in respect of any sale of, collection from, or other realization upon all or any part of the Collateral may, in the discretion of the Agent, be held by the Agent as collateral for, and/or then or at any time thereafter applied (after payment of any amounts payable to the Agent pursuant to Section 23) in whole or in part by the Agent for the ratable benefit of the Secured Parties against, all or any part of the Secured Obligations, in the manner set forth in Section 11.3 of the Credit Agreement. 
+
+Any surplus of such cash or cash proceeds held by or on the behalf of the Agent and remaining after payment in full of all the Secured Obligations shall be paid over to the applicable Grantor or to whomsoever may be lawfully entitled to receive such surplus. 
+
+^^All payments received by any Grantor under or in connection with any Assigned Agreement or otherwise in respect of the Collateral shall be received in trust for the benefit of the Agent, shall be segregated from other funds of such Grantor and shall be forthwith paid over to the Agent in the same form as so received (with any necessary indorsement). 
+
+^^The Agent may, without notice to any Grantor except as required by law and at any time or from time to time, charge, set off and otherwise apply all or any part of the Secured Obligations against any funds held with respect to the Account Collateral or in any other deposit account. 
+
+^^In the event of any sale or other disposition of any of the Intellectual Property Collateral of any Grantor, the goodwill symbolized by any Trademarks subject to such sale or other disposition shall be included therein, and such Grantor shall supply to the Agent or its designee such Grantor’s know-how and expertise, and documents and things relating to any Intellectual Property Collateral subject to such sale or other disposition, and such Grantor’s customer lists and other records and documents relating to such Intellectual Property Collateral and to the manufacture, distribution, advertising and sale of products and services of such Grantor. 
+
+^^If the Agent shall determine to exercise its right to sell all or any of the Security Collateral of any Grantor pursuant to this Section 22, each Grantor agrees that, upon request of the Agent, such Grantor will, at its own expense: 
+
+^^^execute and deliver, and cause each issuer of such Security Collateral contemplated to be sold and the directors and officers thereof to execute and deliver, all such instruments and documents, and do or cause to be done all such other acts and things, as may be reasonably necessary or, in the opinion of the Agent, advisable to register such Security Collateral under the provisions of the Securities Act of 1933 (as amended from time to time, the “Securities Act”), to cause the registration statement relating thereto to become effective and to remain effective for such period as prospectuses are required by law to be furnished and to make all amendments and supplements thereto and to the related prospectus that, in the opinion of the Agent, are necessary or advisable, all in conformity with the requirements of the Securities Act and the rules and regulations of the Securities and Exchange Commission applicable thereto; 
+
+^^^use its best efforts to qualify the Security Collateral under the state securities or “Blue Sky” laws and to obtain all necessary governmental approvals for the sale of such Security Collateral, as requested by the Agent; 
+
+^^^cause each such issuer of such Security Collateral to make available to its security holders, as soon as practicable, an earnings statement that will satisfy the provisions of Section 11(a) of the Securities Act; 
+
+^^^provide the Agent with such other information and projections as may be necessary or, in the opinion of the Agent, advisable to enable the Agent to effect the sale of such Security Collateral; and 
+
+^^do or cause to be done all such other acts and things as may be necessary to make such sale of such Security Collateral or any part thereof valid and binding and in compliance with applicable law. 
+
+^^The Agent is authorized, in connection with any sale of the Security Collateral pursuant to this Section 22, to deliver or otherwise disclose to any prospective purchaser of the Security Collateral: (i) any registration statement or prospectus, and all supplements and amendments thereto, prepared pursuant to subsection (f)(i) above; (ii) any information and projections provided to it pursuant to subsection (f)(iv) above; and (iii) any other information in its possession relating to such Security Collateral. 
+
+^^Each Grantor acknowledges the impossibility of ascertaining the amount of damages that would be suffered by the Secured Parties by reason of the failure by such Grantor to perform any of the covenants contained in subsection (f) above and, consequently, agrees that, if such Grantor shall fail to perform any of such covenants, it will pay, as liquidated damages and not as a penalty, an amount equal to the value of the Security Collateral on the date the Agent shall demand compliance with subsection (f) above. 
+
+^Indemnity and Expenses. Each Grantor agrees to indemnify, defend and save and hold harmless each Secured Party and each of their Affiliates and their respective officers, directors, members, employees, agents and advisors as set forth in Section 14 of the Credit Agreement. 
+
+^Amendments; Waivers; Additional Grantors; Etc. 
+
+^^No amendment or waiver of any provision of this Agreement, and no consent to any departure by any Grantor herefrom, shall in any event be effective unless the same shall be in writing and signed by the Agent and each Grantor affected thereby, and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given. No failure on the part of the Agent or any other Secured Party to exercise, and no delay in exercising any right hereunder, shall operate as a waiver thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of any other right. 
+
+^^Upon the execution and delivery by any Person of a security agreement supplement in substantially the form of Exhibit C hereto (each a “Security Agreement Supplement”), such Person shall be referred to as an “Additional Grantor” and shall be and become a Grantor hereunder, and each reference in this Agreement and the other Loan Documents to “Grantor” shall also mean and be a reference to such Additional Grantor, each reference in this Agreement and the other Loan Documents to the “Collateral” shall also mean and be a reference to the Collateral granted by such Additional Grantor and each reference in this Agreement to a Schedule shall also mean and be a reference to the schedules attached to such Security Agreement Supplement. 
+
+^Notices, Etc. All notices and other communications provided for hereunder shall be made in accordance with Section 18 of the Credit Agreement. 
+
+^Continuing Security Interest; Assignments under the Credit Agreement. This Agreement shall create a continuing security interest in the Collateral and shall (a) remain in full force and effect until the later of (i) the payment in full in cash of the Secured Obligations and (ii) the termination of the Credit Agreement, (b) be binding upon each Grantor, its successors and assigns and (c) inure, together with the rights and remedies of the Agent hereunder, to the benefit of the Banks and their respective successors, transferees and assigns. Without limiting the generality of the foregoing clause (c), any Bank may assign or otherwise transfer all or any portion of its rights and obligations under the Credit Agreement (including, without limitation, all or any portion of the Loan owing to it and the Note or Notes, if any, held by it) to any other Person, and such other Person shall thereupon become vested with all the benefits in respect thereof granted to such Bank herein or otherwise, in each case as provided in Section 17 of the Credit Agreement. 
+
+^Release; Termination. (a) Upon any sale, lease, transfer or other disposition of any item of Collateral of any Grantor in accordance with the terms of the Loan Documents (other than sales of Inventory in the ordinary course of business and dispositions of obsolete or unused Equipment in the ordinary course of business), the Agent will, at such Grantor’s expense, execute and deliver to such Grantor such documents as such Grantor shall reasonably request to evidence the release of such item of Collateral from the assignment and security interest granted hereby in accordance with Section 13.11 of the Credit Agreement. 
+
+^^Upon the later of (i) the payment in full in cash of the Secured Obligations and (ii) the termination of the Credit Agreement the pledge and security interest granted hereby shall terminate and all rights to the Collateral shall revert to the applicable Grantor. Upon any such termination, the Agent will, acting at the direction of the Majority Banks, at the applicable Grantor’s expense, promptly execute and deliver to such Grantor such documents as such Grantor shall reasonably request to evidence such termination. 
+
+^Execution in Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement. 
+
+Delivery of an executed counterpart of a signature page to this Agreement by telecopier shall be effective as delivery of an original executed counterpart of this Agreement. 
+
+^Governing Law. THIS AGREEMENT IS A CONTRACT UNDER THE LAWS OF THE COMMONWEALTH OF MASSACHUSETTS AND SHALL FOR ALL PURPOSES BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF SAID COMMONWEALTH (EXCLUDING THE LAWS APPLICABLE TO CONFLICTS OR CHOICE OF LAW). THE PARTIES HERETO CONSENT TO THE JURISDICTION IN ANY OF THE FEDERAL OR STATE COURTS LOCATED IN THE COMMONWEALTH OF MASSACHUSETTS IN CONNECTION WITH ANY MATTER RELATING TO THIS AGREEMENT. 
+
+\centered *[Signature Pages Follow]* 
+
+IN WITNESS WHEREOF, each Grantor has caused this Agreement to be duly executed and delivered by its officer thereunto duly authorized as of the date first above written. 
+
+[[Organization 2 Name]]
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+[[Organization 5 Name]], INC.
+
+[[[[Organization 5 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]]. Entity => By: [[[[Organization 5 Name]]. Signatory First Name]] [[[[Organization 5 Name]]. Signatory Last Name]]
+Title: [[[[Organization 5 Name]]. Signatory Title]]}}
+
+
+KATV
+
+[[KATV Signatory Email: Identity | Signature]]
+__________________________________________
+{{KATV Entity => By: [[KATV Signatory First Name]] [[KATV Signatory Last Name]]
+Title: [[KATV Signatory Title]]}}
+
+
+KTUL
+
+[[KTUL Signatory Email: Identity | Signature]]
+__________________________________________
+{{KTUL Entity => By: [[KTUL Signatory First Name]] [[KTUL Signatory Last Name]]
+Title: [[KTUL Signatory Title]]}}
+
+
+WSET, INCORPORATED
+
+[[WSET INCORPORATED Signatory Email: Identity | Signature]]
+__________________________________________
+{{WSET INCORPORATED Entity => By: [[WSET INCORPORATED Signatory First Name]] [[WSET INCORPORATED Signatory Last Name]]
+Title: [[WSET INCORPORATED Signatory Title]]}}
+
+
+\centered Signature Page to the Security Agreement 
+
+[[Organization 6 Name]]
+
+[[[[Organization 7 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]]. Entity => By: [[[[Organization 7 Name]]. Signatory First Name]] [[[[Organization 7 Name]]. Signatory Last Name]]
+Title: [[[[Organization 7 Name]]. Signatory Title]]}}
+
+
+TV ALABAMA, INC.
+
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+
+[[Organization 9 Name]], INC.
+
+[[[[Organization 9 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]]. Entity => By: [[[[Organization 9 Name]]. Signatory First Name]] [[[[Organization 9 Name]]. Signatory Last Name]]
+Title: [[[[Organization 9 Name]]. Signatory Title]]}}
+
+
+[[Organization 10 Name]].
+
+[[[[Organization 10 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]]. Entity => By: [[[[Organization 10 Name]]. Signatory First Name]] [[[[Organization 10 Name]]. Signatory Last Name]]
+Title: [[[[Organization 10 Name]]. Signatory Title]]}}
+
+
+\centered Signature Page to the Security Agreement 
+
+[[Organization 1 Name]], N.A.,  as the Agent and as Bank
+
+[[[[Organization 1 Name]]  as the Agent and as Bank Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]  as the Agent and as Bank Entity => By: [[[[Organization 1 Name]]  as the Agent and as Bank Signatory First Name]] [[[[Organization 1 Name]]  as the Agent and as Bank Signatory Last Name]]
+Title: [[[[Organization 1 Name]]  as the Agent and as Bank Signatory Title]]}}
+
+
+\centered Signature Page to the Security Agreement

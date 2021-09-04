@@ -1,0 +1,45 @@
+.1  
+
+\centered AMENDMENT TO PURCHASE AND SALE AGREEMENT  AND JOINT ESCROW INSTRUCTIONS 
+
+THIS AMENDMENT TO PURCHASE AND SALE AGREEMENT AND JOINT ESCROW INSTRUCTIONS (“Amendment”) is made as of [[Date 1: Date]], by and between [[Seller]], a [[State of Formation: State]] [[Organization: EntityType]] (“Seller”), and [[Buyer]], a [[State of Formation: State]] [[Organization: EntityType]] (“Buyer”). 
+
+\centered RECITALS: 
+
+^Seller and Buyer previously entered into that certain Purchase and Sale Agreement and Joint Escrow Instructions dated [[Date 2: Date]] (the “Agreement”), concerning the Property. Capitalized terms not otherwise defined herein shall have the meanings assigned to them in the Agreement. 
+
+^Seller and Buyer have agreed upon the form of Data Center Lease and Flex Space Lease and desire to add such forms to the Agreement as Exhibits H-2 and H-3, respectively. 
+
+\centered AGREEMENT: 
+
+NOW, THEREFORE, in consideration of the foregoing Recitals, the mutual covenants and agreements contained in this Amendment, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Buyer and Seller hereby agree to amend the Agreement as follows: 
+
+^Form of Data Center Lease. The form of Data Center Lease attached hereto as Exhibit H-2 is hereby added to Exhibit H-2 of the Agreement. All references in the Agreement to the Data Center Lease shall hereafter mean the form of Data Center Lease attached hereto as Exhibit H-2. 
+
+^Form of Flex Space Lease. The form of Flex Space Lease attached hereto as Exhibit H-3 is hereby added to the Agreement as Exhibit H-3. All references in the Agreement to the Flex Space Lease shall hereafter mean the form of Flex Space Lease attached hereto as Exhibit H-3. 
+
+^Miscellaneous.  
+
+^^Effect of Amendment. Except to the extent the Agreement is modified by this Amendment, the remaining terms and conditions of the Agreement shall remain unmodified and in full force and effect. In the event of conflict between the terms and conditions of the Agreement and the terms and conditions of this Amendment, the terms and conditions of this Amendment shall prevail and control. 
+
+^^Entire Agreement. The Agreement, together with this Amendment, embodies the entire understanding between Seller and Buyer with respect to its subject matter and can be changed only by an instrument in writing signed by Seller and Buyer. 
+
+^^Counterparts. This Amendment may be executed in one or more counterparts, including facsimile counterparts, each of which shall be deemed an original but all of which, taken together, shall constitute one in the same Amendment. 
+
+^^^^^ 
+IN WITNESS WHEREOF, this Amendment has been executed as of the day and year first set forth above. 
+
+
+[[IN WITNESS WHEREOF this Amendment has been executed as of the day and year first set forth above. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF this Amendment has been executed as of the day and year first set forth above. Entity => By: [[IN WITNESS WHEREOF this Amendment has been executed as of the day and year first set forth above. Signatory First Name]] [[IN WITNESS WHEREOF this Amendment has been executed as of the day and year first set forth above. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF this Amendment has been executed as of the day and year first set forth above. Signatory Title]]}}
+
+Chief Legal Officer and Secretary
+
+
+[[Chief Legal Officer and Secretary Signatory Email: Identity | Signature]]
+__________________________________________
+{{Chief Legal Officer and Secretary Entity => By: [[Chief Legal Officer and Secretary Signatory First Name]] [[Chief Legal Officer and Secretary Signatory Last Name]]
+Title: [[Chief Legal Officer and Secretary Signatory Title]]}}
+

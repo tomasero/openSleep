@@ -1,0 +1,53 @@
+^^**  
+
+\centered **[[Organization 1 Name]]** 
+
+\centered **AMENDMENT NO. 2 TO THE PROMISSORY NOTE ISSUED [[Date 4: Date]]** 
+
+This Amendment No. 2 (the “**Amendment**”) to the Promissory Note issued [[Date 1: Date]] (the “**Note**”), as amended by the Note Amendment Agreement dated [[Date 2: Date]] (the “**Prior Amendment**”) is made as of this [[Date 3: Date]], by and between [[Company]], (the “**Company**”) and [[Debtor]] (“**Debtor**”). Each of the Company and Debtor shall be referred to as a “**Party**” or, collectively, as the “**Parties**.” All capitalized terms used but not defined in this Amendment shall have the meanings assigned to such terms in the Note. 
+
+WHEREAS, Debtor has executed the Note in an original principal amount of US$[[USD Value 1: Number]] in favor of the Company; 
+
+WHEREAS, the Parties entered into a Security Agreement dated [[Date 4]] (the “**Security Agreement**”) and a General Security Agreement dated November 8, 2006 (the “**General Security Agreement**” and together with the Security Agreement, the “**Security Agreements**”) pursuant to which Debtor pledged her Pledged Securities (as defined in the Security Agreements) as collateral for her obligations under the Note; 
+
+WHEREAS, the Parties entered into the Prior Amendment to, among other things, extend the maturity of the Note as an incentive to Debtor to continue employment with the Company; 
+
+WHEREAS, pursuant to Section 7(b) of the Note, the terms of the Note may be amended from time to time by written agreement of the Parties; 
+
+WHEREAS, the Parties desire to revise the definition of Maturity Date contained in the Note as an incentive to Debtor to provide consulting services to the Company following the end of Debtor’s employment with the Company; and 
+
+WHEREAS, the Parties have considered the current market interest rates as compared to the rates at the time the Note was executed and agree that the reasonable interest rate on the Note is still [[Percentage 1: Number]]% per annum. 
+
+NOW, THEREFORE, in consideration of the mutual promises made herein, the Parties hereby agree as follows: 
+
+^Amendment to Note.  
+
+^^Amendment of Maturity Date. The first sentence of Section 2 of the Note shall be amended and restated in its entirety to read as follows: “The principal amount of this Promissory Note, together with interest accrued to the date of payment, is due and payable by Debtor on [[Date 5: Date]] (the “***Maturity Date***”).” Except for such amendment, the provisions of the Note shall remain unchanged and shall continue in full force and effect. 
+
+^^^^^ 
+^Additional Provisions.  
+
+^^Severability. In the event that any provision hereof becomes or is declared by a court of competent jurisdiction to be illegal, unenforceable or void, this Amendment shall continue in full force and effect without said provision. 
+
+^^Counterparts. This Amendment may be executed in counterparts, and each counterpart shall have the same force and effect as an original and shall constitute an effective, binding agreement on the part of each of the undersigned. Execution and delivery of this Amendment by exchange of facsimile copies bearing the facsimile signature of a party shall constitute a valid and binding execution and delivery of the Amendment by such party. Such facsimile copies shall constitute enforceable original documents. 
+
+^^Prior Agreements. This Amendment and the Note supersede in their entirety all prior agreements relating to the Note, written or oral. 
+
+^^Governing Law. This Amendment and all actions arising out of or in connection with this Amendment shall be governed by and construed in accordance with the laws of the State of Washington, without regard to the conflict of laws provisions of the State of Washington, or of any other state. 
+
+^^Enforceability of Oral Agreements. ORAL AGREEMENTS OR ORAL COMMITMENTS TO LOAN MONEY, EXTEND CREDIT, OR TO FORBEAR FROM ENFORCING REPAYMENT OF A DEBT ARE NOT ENFORCEABLE UNDER WASHINGTON LAW. 
+
+IN WITNESS WHEREOF, the undersigned has executed this Amendment as of the date first set forth above. 
+
+**[[Organization 1 Name]]**
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]], M.D.
+President & Chief Executive Officer
+
+**DEBTOR**
+/s/ [[Debtor]]
+[[Debtor]]

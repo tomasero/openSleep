@@ -1,0 +1,837 @@
+**CONFIDENTIAL TREATMENT REQUESTED** 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered **DEVELOPMENT AND SUPPLY AGREEMENT** 
+
+This Development and Supply Agreement (“**Agreement**”) is dated and made effective as of the Effective Date (as defined below) by and between Luna Innovations Incorporated, a [[State of Formation: State]] [[Organization: EntityType]], together with [[Organization 1 Name]], Inc., a [[State of Formation: State]] [[Organization: EntityType]] (acting jointly and severally, individually and collectively, “**Luna**”), and [[Hansen]], Inc., a [[State of Formation: State]] [[Organization: EntityType]] (“**Hansen**”). Luna and Hansen are referred to herein each individually as a “**Party**” and collectively as the “**Parties**”. 
+
+\centered **RECITALS** 
+
+**WHEREAS**, Luna and Hansen are parties to the case [[Hansen]] Inc. v. [[Organization 2 Name]]*, no. 07-088551, in the Superior Court of the State of California, County of Santa Clara relating to certain disputes arising out of those certain Terms and Conditions of Sale and Service executed by Hansen on [[Date 1: Date]] and Luna on [[Date 2: Date]] and that certain Mutual Nondisclosure Agreement between Hansen and Luna dated [[Date 3: Date]] (the “**Litigation**”); 
+
+**WHEREAS**, Luna and Hansen wish to settle the Litigation in the context of the First Amended Joint Plan of Reorganization of Luna Innovations Incorporated, et al. under Chapter 11 of the Bankruptcy Code (as may be amended, “**Amended Plan**”) in Luna’s Chapter 11 Case No. 09-71811 (“**Chapter 11 Case**”) pending in the U.S. Bankruptcy Court for the Western District of Virginia (“**Bankruptcy Court**”) which Amended Plan was approved by the Bankruptcy Court’s Order Confirming First Amended Joint Plan of Reorganization of Luna Innovations Incorporated, et al. (“**Confirmation Order**”). This Agreement is one of the “Hansen Settlement Documents” (as defined in the Settlement Agreement) referenced and incorporated in the Amended Plan and Confirmation Order (“**Settlement Documents**”); 
+
+**WHEREAS**, in connection with the settlement of the Litigation through the Amended Plan, Luna and Hansen are entering into that certain License Agreement Between Hansen and Luna dated of even date herewith (the “**License Agreement**”), and Luna and Intuitive are entering into that certain License Agreement between Intuitive and Luna dated of even date herewith (the “**Intuitive-Luna License**”) in each case regarding the grant of certain licenses to fiber optic shape sensing or localization technologies; and 
+
+**WHEREAS**, also in connection with the settlement of the Litigation through the Amended Plan, Luna and Hansen desire that Luna develop for Hansen a localization and shape sensing solution for Hansen’s robotic system, and to manufacture and supply such system for Hansen, all in accordance with the terms and conditions hereof. 
+
+**NOW, THEREFORE**, in view of the mutual covenants, representations, warranties and other terms and conditions contained herein and for other valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Parties hereto agree as follows: 
+
+\centered **AGREEMENT** 
+
+^Definitions. The following initially capitalized words shall have the following meanings (and derivative forms shall be interpreted accordingly), and the terms “include,” “includes,” “including” and derivative forms of them shall be deemed followed by the phrase “without limitation” regardless of whether such phrase appears there (and with no implication being drawn from its inconsistent inclusion or non-inclusion): 
+
+^^“**Additional Performance Period**” has the meaning given to such term in Section 4.1.3. 
+
+^^“**Affiliates**” means any corporation or other entity that is directly or indirectly controlling, controlled by or under common control with a Party. For purposes of this definition, “control” of an entity means the direct or indirect ownership of securities representing fifty percent ([[Percentage 1: Number]]%) or more of the total voting power entitled to vote in elections of such entity’s board of directors or other governing authority, or equivalent interests conferring the power to direct or cause the direction of the governance or policies of such entity. 
+
+^^“**Amended Plan**” has the meaning given to such term in the recitals. 
+
+^^“**Applicable Laws**” means all applicable laws, rules and regulations. 
+
+^^“**Bankruptcy Court**” has the meaning given to such term in the recitals. 
+
+^^“**Budget Cap**” has the meaning given to such term in Section 4.1.3. 
+
+^^“**Chapter 11 Case**” has the meaning given to such term in the recitals. 
+
+^^“**Commercial Supply Agreement**” has the meaning given to such term in Section 3.3.1. 
+
+^^“**Commercial Transfer Price**” has the meaning given to such term in Section 3.3.2. 
+
+^^“**Confidential Information**” has the meaning given to such term in Section 7.1. 
+
+^^“**Confirmation Order**” has the meaning given to such term in the recitals. 
+
+^^“[**] Fees**” has the meaning given to such term in Section 4.1.1. 
+
+^^“[**] Milestones**” means the development milestones and corresponding timelines set forth on Exhibit A, as may be amended from time to time in accordance with Section 2.2. 
+
+^^“**Development Plan**” means the development plan described in Section 2. 
+
+^^“**Development Program**” means the efforts and activities relating to development of [[Organization 3 Name]] to be conducted under this Agreement. 
+
+^^“[**] Price**” has the meaning given to such term in Section 3.2. 
+
+^^“**Discloser**” has the meaning given to such term in Section 7.1. 
+
+^^“**Effective Date**” means the Effective Date of the Amended Plan after entry of the Confirmation Order by the Bankruptcy Court, which the Parties hereby confirm to be [[Date 4: Date]]. 
+
+^^“**End Product**” means any Product developed, marketed, manufactured or sold by or for Hansen or its Affiliates incorporating or utilizing any Luna Product. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^“[**] Field**” has the meaning given to such term in the License Agreement. 
+
+^^“[**] Product**” has the meaning given to such term in Section 3.8.1. 
+
+^^“**Fiber Optic Shape Sensing/Localization Technology**” has the meaning given to such term in the License Agreement. 
+
+^^“**[[Organization 4 Name]]**” has the meaning given to such term in Section 8.2. 
+
+^^“**Hansen Licensed IP**” has the meaning given to such term in the License Agreement. 
+
+^^“**Holdback Amount**” has the meaning given to such term in Section 4.1.1. 
+
+^^“**Indemnifying Party**” has the meaning given to such term in Section 8.3. 
+
+^^“**Intellectual Property Rights**” means any and all of the following in any jurisdiction throughout the world (and any rights or interests therein): (a) patents, patent applications and patent and invention disclosures, together with all issuances, continuations, continuations-in-part, divisions, revisions, supplementary protection certificates, extensions and re-examinations thereof, and any other United States or foreign patent rights entitled to the same priority claim (in whole or in part) as any of the foregoing; (b) confidential or proprietary information, know-how and trade secrets; (c) copyrights and all applications, registrations, and renewals in connection with the foregoing; (d) trademarks, service marks, trade names, trade dress and all registrations to and applications for registration of any of the foregoing; and (e) any and all other intellectual or industrial property or proprietary rights. 
+
+^^“**Interrogator**” has the meaning given to such term in Section 1.36. 
+
+^^“**Joint Patents**” has the meaning given to such term in Section 5.2.2. 
+
+^^“**License Agreement**” has the meaning given to such term in the recitals. 
+
+^^“**Licensed IP**” has the meaning given to such term in the License Agreement. 
+
+^^“**Licensed Patent**” has the meaning given to such term in the License Agreement. 
+
+^^“**Litigation**” has the meaning given to such term in the recitals. 
+
+^^“**Losses**” has the meaning given to such term in Section 8.1. 
+
+^^“**Luna Indemnitees**” has the meaning given to such term in Section 8.1. 
+
+^^“**Luna Product**” means [****]. 
+
+^^“[**] Field**” has the meaning given to such term in the License Agreement. 
+
+^^“**New Inventions**” has the meaning given to such term in Section 5.2. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^“[**] Field**” has the meaning given to such term in the License Agreement. 
+
+^^“[**] Product**” has the meaning given to such term in Section 3.8.1. 
+
+^^“[**] Field**” has the meaning given to such term in the License Agreement. 
+
+^^“**Product**” means any device, instrument, diagnostic, therapeutic, product, system and application and any related service and/or process. 
+
+^^“**Project Manager**” has the meaning given to such term in Section 2.3. 
+
+^^“**Promissory Note**” means that certain Secured Promissory Note entered into between the Parties as one of the Settlement Documents. 
+
+^^“**Recipient**” has the meaning given to such term in Section 7.1. 
+
+^^“**Section 365(n) Contract**” has the meaning given to such term in Section 10.6. 
+
+^^“**Sensor**” has the meaning given to such term in Section 1.36. 
+
+^^“**Settlement Agreement**” means that certain Confidential Settlement Agreement and Mutual Release entered into by the Parties concurrently herewith. 
+
+^^“**Settlement Documents**” has the meaning given to such term in the recitals. 
+
+^^“**Specifications**” means the technical and functional specifications for the applicable Luna Product (including applicable tests to confirm compliance therewith) set forth in the Development Plan and as otherwise provided for in Section 2.2. 
+
+^^“**Subsidiaries**” has the meaning given to such term in the License Agreement. 
+
+^^“**Support Memorandum**” has the meaning given to such term in Section 2.6. 
+
+^^“**Technology**” means any technical information, know-how, processes, procedures, methods, formulae, protocols, techniques, software, computer code (including both object and source code), documentation, works of authorship, data, designations, designs, devices, prototypes, substances, components, inventions (whether or not patentable), mask works, ideas, trade secrets and other information or materials, in tangible or intangible form. 
+
+^^“**Third Party Claim**” has the meaning given to such term in Section 8.1. 
+
+^^“**Third Party Technology**” means any Technology (together with all Intellectual Property Rights therein or thereunder) owned or controlled by a third party that is included by or for Luna in or with any Luna Product or provided to Hansen by Luna in connection with the Development Program or is otherwise necessary for the manufacture, use or sale of any Luna Product. 
+
+^^“[**] Field**” has the meaning given to such term in the License Agreement. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^Development 
+
+^^Development Program. Luna shall use its commercially reasonable best efforts to develop for Hansen a [****] for Hansen’s system in accordance with the Development Plan and the Development Milestones. As a part of such commercially reasonable best efforts, Luna shall provide reasonably adequate and appropriately-skilled staffing for Luna’s development work for Hansen hereunder, which in any event shall include Luna devoting to the Development Program the services of the key personnel designated in the Development Plan at the minimum percentage amounts of their total work time set forth therein (as measured over each calendar quarterly period during the Development Program by reference to direct labor time records). Furthermore, Luna shall use its commercially reasonable best efforts to perform the activities, and develop the Technology, as and when described in the Development Plan and the Amended Plan, and Luna shall use its commercially reasonable best efforts to achieve each Development Milestone within the applicable timelines and/or by the applicable deadlines for such Development Milestone set forth on Exhibit A. Without limiting the foregoing, (i) the Parties acknowledge that Luna already has certain ongoing development obligations to [[Organization 5 Name]], certain internal product development efforts, and under certain government contracts as of the Effective Date but Luna shall give the Development Program for Hansen at least equal priority to such other obligations (and balance its development work for Hansen and such other parties accordingly), (ii) Luna shall give the Development Program for Hansen at least equal priority to any other development project or similar activities (whether for itself, its Affiliates or for third parties) not described in (i) above, including pursuant to an agreement entered into after the Effective Date, and (iii) Luna may need to hire additional highly qualified employees, possibly because of the loss of employees, and the ability and timing of hiring such employees cannot be guaranteed. The Parties acknowledge that technical and scientific issues and realities may make either or both the Development Plan or the Development Milestones impractical or infeasible. Hansen shall compensate Luna for such development and related activities solely as provided for in Article 4 below. 
+
+^^Development Plan. Luna’s development work hereunder shall be conducted pursuant to a written development plan (the “**Development Plan**”). The Development Plan shall include a detailed workplan (including incorporation of, or reference to, the Development Milestones) and budget covering the Development Program activities to be conducted under this Agreement. The initial Development Plan is attached hereto as Exhibit B (and the Development Milestones are attached as Exhibit A). The Parties may from time to time modify the Development Plan (including the Development Milestones), as mutually agreed. Furthermore, the Development Plan and Development Milestones may be modified in accordance with the process described below in Sections 2.2.1 through 2.2.4. The Specifications shall be part of the Development Plan, or, to the extent not so specified in the Development Plan, independently established in writing in a document executed by both Parties, and any changes thereto (and/or any initial determination thereof) shall be done in accordance with this Section 2.2. The Development Plan (including the Specifications) and Development Milestones may not be modified other than in accordance with this Section 2.2. 
+
+**2.2.1** If Hansen wishes to request changes to the Development Plan (including the Specifications) and/or the Development Milestones, Hansen shall notify Luna and propose a draft of the modified Development Plan and/or modified Development Milestones for review by Luna. Luna shall provide reasonable consultation and assistance to Hansen in Hansen’s efforts to modify the Development Plan and the Development Milestones. Luna shall provide Hansen with any comments on the proposed modifications and a reasonable estimate of changes to the budget, if any, necessitated by the modifications within [****] days of Hansen’s request. If Luna has concerns with respect to the timelines for any substantial new Development Milestones or substantial modifications to existing Development 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Milestones (whether on their own or as a result of modifications to the Development Plan) proposed by Hansen, Luna shall provide Hansen with a reasonably detailed explanation for Luna’s concerns and a proposal with reasonably estimated timelines for such Development Milestones. Hansen shall consider Luna’s concerns and proposed budget and timelines in good faith in finalizing the modified Development Plan and/or Development Milestones. No sooner than [****] days after first providing to [[Person 1 First Name]] [[Person 1 Last Name]]’s proposed modifications to the Development Plan and/or the Development Milestones in accordance with the foregoing, Hansen may formally propose a final modified Development Plan and/or modified Development Milestones by providing a copy thereof to Luna. Luna shall thereupon have [****] days to approve such modified Development Plan and/or Development Milestones, such approval not to be unreasonably withheld. 
+
+**2.2.2** Upon any such approval by Luna under Section 2.2.1, such modified Development Plan (including modified Specifications if applicable) and/or modified Development Milestones shall become the Development Plan and/or Development Milestones (as applicable) hereunder and shall replace the previous Development Plan and/or previous Development Milestones (as applicable), except to the extent the modified version expressly incorporates such previous Development Plan and/or Development Milestones or otherwise expressly provides for existing portions thereof to remain in effect. 
+
+**2.2.3** If Luna does not approve the proposed modifications under Section 2.2.1 within the [**] day period specified above, the Parties shall discuss in good faith for a period of at least [****] days to reach mutual agreement on the proposed modifications. Otherwise, absent such agreement within such [**] day period, Hansen shall have the right at any time after such [****] day period to submit its proposed modifications (including any determination of Specifications, if applicable) to binding dispute resolution under Section 2.6 hereunder, and (to the extent not otherwise resolved prior to completion of any arbitration thereunder) the arbitrator under any arbitration pursuant to Section 2.6 shall be empowered hereunder to determine whether or not Luna’s failure to approve is reasonable (and therefore if Hansen’s proposed modifications shall become effective hereunder) and/or determine an alternative form of the modifications that is fair to Luna in light of Luna’s objections to Hansen’s formally proposed modifications but which also most nearly achieves Hansen’s goals and objectives of such proposed modifications. 
+
+**2.2.4** If Luna wishes to request changes to the Development Plan (including the Specifications) and/or Development Milestones, it shall notify Hansen thereof and inform Hansen of the proposed modifications. Luna and Hansen shall thereupon discuss such modifications. No sooner than [**] days after first providing to Hansen Luna’s proposed modifications to the Development Plan and/or the Development Milestones in accordance with the foregoing, Luna may formally propose a final modified Development Plan and/or modified Development Milestones by providing a copy thereof to Hansen. Hansen shall thereupon have [**] days to approve such modified Development Plan and/or Development Milestones, such approval not to be unreasonably withheld so long as such proposed modifications are consistent with the reasonable development of a commercially viable End Product and do not significantly increase the budget. If Hansen approves such modification, such modified Development Plan (including modified Specifications if applicable) and/or modified Development Milestones shall become the Development Plan and/or Development Milestones (as applicable) hereunder and shall replace the previous Development Plan and/or previous Development Milestones (as applicable), except to the extent the modified version expressly incorporates such previous Development Plan and/or Development Milestones or otherwise expressly provides for existing portions thereof to remain in effect. If Hansen does not approve the proposed modifications within the [****] day period specific above, Section 2.2.3 shall apply with respect thereto, with the Parties in such section reversed. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^Project Managers. Each Party shall appoint a principal point of contact to be its project manager (each, a “**Project Manager**”) who shall coordinate and act as liaison with the other Party with respect to Development Program activities under this Agreement. The initial Project Managers for each Party shall be [**] for Hansen and [**] for Luna. A Party may replace its Project Manager by written notice to the other Party. The Project Managers, in and of themselves, shall not have any decision-making authority and shall have no power to amend or waive compliance with this Agreement or the Development Plan or create any estoppel or defense. Each Party’s respective Project Managers shall meet or confer at mutually agreeable times (but at least [****]) to discuss the status of the Development Program. Luna’s Project Manager shall have no direct role in or with respect to any products or services provided by Luna to [[Organization 5 Name]], a [[State of Formation: State]] [[Organization: EntityType]]. 
+
+^^Reports; Source Code Escrow. Luna shall keep Hansen informed of its progress with respect to its Development Program activities under this Agreement at the junctures set forth in the Development Plan and as follows. Luna shall provide Hansen with written development reports upon Hansen’s reasonable request (made no more frequently than once per month) and also to the extent provided for in the Development Plan or Development Milestones, but in any event no less frequently than within [****] days after the end of each calendar month, which reports will include a meaningful summary of progress against the Development Plan and activities accomplished by Luna in relation thereto through the end of the applicable month, including a summary of Technology generated or developed under the Development Program since the date of the last report, significant results, adverse event reports, information and data generated, manufacturing developments, significant challenges anticipated and updates regarding significant intellectual property matters. Upon Hansen’s reasonable request at reasonable intervals, Luna will provide Hansen with a copy of tangible and intangible embodiments of Technology generated or developed under the Development Program, including prototypes and models, documents (including specifications and diagrams) and software object code (and, to the extent provided below, software source code), at such times as are reasonable under the circumstances (e.g., after completion of a new version thereof or when a reasonable stopping point in development is reached with respect thereto or a pause in development thereof is warranted); provided, however, that, to the extent the cost of such embodiments, prototypes and models is not included in the Development Plan or is not otherwise covered by Section 3.2, Hansen shall reimburse Luna for the cost (calculated at the same rate as the rate described in Section 4.1) thereof (without any effect on any Budget Cap in the case of such reimbursement). Luna shall make its personnel working on the Development Program reasonably available to Hansen for periodic consultations, by phone or in person (which shall be part of the services provided pursuant to Section 2.1 and compensated for under Section 4.1 (including subject to the budget provisions therein)), as provided for in the Development Plan and Development Milestones, and otherwise as reasonably requested by Hansen. With respect to source code, the following shall apply: 
+
+**2.4.1** Luna shall cooperate with Hansen to provide any software source code with respect to the Luna Product to the extent required by any Applicable Laws, including regulatory requirements of the FDA and other applicable governmental entities in respect of the Luna Product and/or the End Product within such time periods as reasonably required for compliance. Luna shall provide to Hansen the portions of software source code with respect to the Luna Product to the extent set forth as a deliverable in the Development Plan (including in the Development Milestones) in accordance with the schedule therefore in the Development Plan (including in the Development Milestones). 
+
+**2.4.2** Following the Effective Date, Luna shall deposit in escrow all source code for software necessary to operate the Luna Product (including source code for software within the Interrogator, as may exist as of the Effective Date and as updated), as imaged on a hard drive with all of 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. the files and utilities necessary to compile or synthesize the source code, together with any documentation, libraries, tools, utilities and other related materials reasonably necessary for the installation, testing, deployment, operation, modification or use of such software source code (collectively, “**Luna Product Deposit Materials**”) with [**] (or, if [****] is not reasonably available, with another reputable software escrow company to be mutually agreed by the Parties). Luna shall periodically update such Luna Product Deposit Materials with the latest versions thereof, but no less frequently than once each [****]. The Luna Product Deposit Materials shall be released to Hansen in the event any of the following occurs (but not in any other case): (i) refusal of Luna to perform continued development, maintenance, upgrading and support of the software within the Luna Product Deposit Materials under Luna’s standard rates and under other reasonable and customary terms (it being understood that Luna has no obligation to do so hereunder outside of the Development Program) or failure of Luna to provide such services after agreeing to do so (following notice and an opportunity to cure such failure within [**] days), and (ii) the bankruptcy, liquidation or insolvency of Luna or an assignment for the benefit of creditors by Luna. All fees and expenses payable to [****] (or such other escrow company, if any) for the establishment and maintenance of such escrow arrangement shall be borne and paid by Hansen. 
+
+**2.4.3** Following the Effective Date, Luna shall deposit in escrow all source code for software included within the Licensed IP, as imaged on a hard drive with all of the files and utilities necessary to compile or synthesize the source code, together with any documentation, libraries, tools, utilities and other related materials reasonably necessary for the installation, testing, deployment, operation, modification or use of such software source code (collectively, “**Technology Deposit Materials**”) with [**] (or, if [****] is not reasonably available, with another reputable software escrow company to be mutually agreed by the Parties). Luna shall periodically update such Technology Deposit Materials with the latest versions thereof at least annually. The Technology Deposit Materials shall be released to Hansen in the event any of the following occurs (but not in any other case): (i) a default occurs under the Promissory Note which default is not cured within any time allotted for such cure under such Promissory Note, and (ii) the bankruptcy, liquidation or insolvency of Luna or an assignment for the benefit of creditors by Luna. The escrow arrangement for the Technology Deposit Materials shall terminate upon payment in full of the Promissory Note (at which point all such Technology Deposit Materials, if not already released to Hansen, shall be returned to Luna). All fees and expenses payable to [**] (or such other escrow company, if any) for the establishment and maintenance of such escrow arrangement shall be borne and paid by Hansen, except that Luna shall pay any annual escrow maintenance fees of [****] (or such other escrow company). 
+
+**2.4.4** Within [**] days following the Effective Date, the Parties shall negotiate and enter into an escrow agreement between the Parties and [****] (or such other escrow company, if any) to establish the escrow arrangement described above under the terms and conditions described above (and other reasonable and customary terms and conditions). Luna shall make the initial deposit of the materials described above into escrow within [**] days after such agreement is entered into. In the event the Parties fail to execute such escrow agreement within [****] days after the Effective Date, either Party may refer the matter to dispute resolution under Section 2.6 for the purpose of finalizing and executing such escrow agreement (with the arbitrator being someone with expertise in software transactions and/or the negotiation of escrow agreements with respect thereto and with each Party submitting their last proposed draft of the escrow agreement with their Support Memorandum thereunder). 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^Liquidated Damages**.** 
+
+**2.5.1** The Parties acknowledge that Hansen is relying on Luna performing its obligations under Section 2.1 above in order to provide Hansen with important technical solutions that are critical to Hansen’s business and that Hansen would suffer significant harm, and lose the benefit of a critical development and supply arrangement, if Luna fails to meet its obligations under Section 2.1. The Parties acknowledge that the liquidated damages set forth in this Section 2.5 are reasonable under the circumstances existing on the Effective Date and reasonably approximate the amount of damage that would be sustained by Hansen as a result of Luna’s failure to meet its obligations under Section 2.1, and that it is impracticable or extremely difficult to determine the actual damages that would be sustained by Hansen as a result thereof. The Parties further acknowledge and agree that the amount of the liquidated damages set forth in this Section 2.5 is not a penalty. If a court of competent jurisdiction nonetheless determines, by a final, non-appealable judgment, that the amount of the liquidated damages exceeds the maximum amount permitted by law, then the amount of the liquidated damages shall be reduced to the maximum amount permitted by law in the circumstances, as determined by such court of competent jurisdiction. 
+
+**2.5.2** In the event Luna breaches Section 2.1 of this Agreement and (a) Luna fails to cure such breach within sixty (60) days after notice thereof from Hansen to Luna describing such breach in reasonable detail as well as those steps known to Hansen, if any, that Luna could take to cure such breach (or, within only thirty (30) days after such a notice with respect to a second (same or similar) breach of Section 2.1 described in such a Hansen notice in the event a first breach of the same or similar nature subject to a Hansen notice hereunder was duly cured by Luna), or (b) such breach is the third (same or similar) breach of Section 2.1 described in a Hansen notice of breach following Luna’s timely cure of two prior breaches of the same or similar nature described in previous Hansen notices hereunder, then, in the case of either (a) or (b), Luna shall pay Hansen without offset, recoupment or defense, which are hereby waived by Luna, liquidated damages in the amount of Ten Million Dollars ($[[USD Value 1: Number]]) plus the amount of Development Fees actually paid by Hansen pursuant to Section 4.1 below, due and payable within five (5) days after the end of the applicable cure period described above (in the case of (a)), or, with respect to the third breach under (b), within five (5) days of Hansen’s notice referencing such third breach. In the event that Luna disputes that Luna has breached Section 2.1 of the Agreement or disputes that it has failed to cure such breach within the applicable cure period (or Luna otherwise disputes the payment of liquidated damages that Hansen claims are due hereunder), either Party may by written notice submit the matter to resolution pursuant to Section 2.6 below. For the avoidance of doubt, if Luna breaches Section 2.1 but subsequently cures such breach and/or achieves the next Development Milestone on a timely basis, in either case prior to a notice of breach from Hansen under this Section 2.5.2, Hansen shall thereupon have no right to provide notice of such breach to Luna under this Section 2.5.2. 
+
+**2.5.3** [****]. 
+
+^^Certain Development Disputes**.** If either Party has any dispute regarding Luna’s performance under Section 2.1 above, or any failures with respect thereto (including the payment of liquidated damages under Section 2.5 and any dispute regarding if and when a given Development Milestone is achieved or otherwise with respect to payments owed under Section 4.1 (without limiting Section 4.2)) or otherwise pursuant to Sections 2.4, 3.3 and 3.8, then prior to taking any other action with respect to such dispute (e.g., litigation), except as may be required to preserve a Party’s rights with respect to the dispute process described in the Amended Plan, the complaining Party shall refer the dispute to the Chief Executive Officers of the Parties for good-faith discussions over a period of not less than [****] days. Each Party will make such executives reasonably available for such discussions. If the 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Parties are unable to resolve any such dispute through such discussions within such [**] days, then either Party may initiate resolution of the matter in accordance with the following expedited dispute resolution process (which shall be the exclusive dispute resolution process for any such dispute, except for, to the extent applicable, the dispute process described in the Amended Plan). Upon either Party’s request at such point, the Parties shall submit such dispute to arbitration proceedings under the Comprehensive Arbitration Rules and Procedures of [****] as modified by this Section. The arbitration shall take place in New York City, New York before a single arbitrator. The Parties shall jointly select the arbitrator, and should they fail to agree on such arbitrator within [****] days of this Section being invoked, the Parties shall request that [****] appoint an appropriate arbitrator who shall be a neutral, independent and impartial individual with expertise in the development of medical devices. Within [****] days after an arbitrator is selected (or appointed, as the case may be), each Party will deliver to both the arbitrator and the other Party a memorandum (the “**Support Memorandum**”) in support of its position with respect to the dispute (including any data or information in support thereof). Within [**] days after receipt of the other Party’s Support Memorandum, each Party may submit to the arbitrator (with a copy to the other Party) a rebuttal to the other Party’s Support Memorandum. Neither Party may have communications (either written or oral) with the arbitrator other than for the sole purpose of engaging the arbitrator or as expressly permitted in this Section; however, the arbitrator may convene a hearing if the arbitrator so chooses to hear oral argument and discussion regarding the dispute in question. The Parties shall direct the arbitrator to decide the applicable dispute within [****] days after the arbitrator’s selection (or appointment, as the case may be). The decision of the arbitrator shall be final, binding, and unappealable and shall be deemed the decision of the Parties hereunder and may be entered by any Party in a court of competent jurisdiction. Nothing in this Section 2.6 shall limit or restrict Hansen’s ability to enforce or defend its rights under this Agreement pursuant to the dispute process described in the Amended Plan. 
+
+^^Further Assurances and Assistance**.** Each Party agrees to take or cause to be taken such further actions, and to execute, deliver and file or cause to be executed, delivered and filed such further documents and instruments, and to obtain such consents, as may be reasonably required or requested by the other Party (to the extent consistent with this Agreement and at the other Party’s expense) in order to effectuate fully the purposes, terms and conditions of this Agreement. Without limiting the foregoing, each Party shall provide the other Party with assistance, information and cooperation reasonably requested by such other Party (and at such other Party’s expense) in connection with such other Party’s compliance with regulatory requirements and Applicable Laws with respect to the [[Organization 3 Name]] and/or End Products (with respect to the Luna Product portion thereof) and as required to obtain regulatory approvals and industry certifications for [[Organization 3 Name]] or End Products (with respect to the Luna Product portion thereof), including without limitation in connection with all regulatory filings, approvals and registrations for [[Organization 3 Name]] and End Products (with respect to the Luna Product portion thereof). 
+
+^Manufacture and Supply 
+
+^^Generally**.** If Hansen so desires (but subject to Section 3.3.5 below), Luna shall manufacture and supply [[Organization 3 Name]] to Hansen in such amounts requested by Hansen up to Hansen’s requirements of [[Organization 3 Name]] for development and commercialization of [[Organization 3 Name]] or End Products, in accordance with the Specifications for such [[Organization 3 Name]]. Luna represents and warrants that all [[Organization 3 Name]] furnished to Hansen by Luna hereunder (a) shall be manufactured in accordance with all Applicable Laws (including current Good Manufacturing Practice regulations and Quality System regulations, in each case promulgated by the US Food and Drug Administration (or its counterparts in jurisdictions outside the United States) and applicable International Conference on Harmonization 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. manufacturing rules and guidelines), the ISO 13485 standard for Medical Devices and other generally recognized industry standards and certifications, such other ISO standards (if any) or UL certifications (it being acknowledged that these other standards and certifications and the cost of meeting them will be incorporated into the Development Plan), (b) shall be free from defects in material or workmanship, and (c) shall conform to the Specifications therefor in all material respects. If Luna wishes to use third party manufacturers to meet its manufacturing and supply obligations under this Article 3 for [[Organization 3 Name]], Luna shall provide Hansen with prior written notice of Luna’s intent with respect thereto specifying the identity of the intended third party manufacturer and a draft agreement of the terms under which Luna proposes to engage such third party manufacturer, which draft agreement shall contain at least the terms and conditions of this Article 3 and other applicable terms and conditions of this Agreement and shall (at Hansen’s option) include the right for Hansen to be included as a third party beneficiary to such agreement. All such proposed third party manufacturers and agreements shall be subject to Hansen’s review and prior written consent before Luna may use, or validly conclude an agreement engaging, any third party manufacturer for [[Organization 3 Name]], and Luna acknowledges that Hansen may reasonably condition or withhold its consent thereto on a case-by-case basis. This Section 3.1 shall not prevent Luna from including components in [[Organization 3 Name]] purchased from third parties, subject to Section 5.3. The Parties shall appoint project managers for purposes of the manufacture and supply arrangements set forth in this Article 3 with similar roles and authorities as the Project Managers described in Section 2.3 with respect to the Development Program. For the avoidance of doubt, the manufacture and supply provisions in this Article 3 shall also include [[Organization 3 Name]] that Hansen desires to order for its Subsidiaries and permitted sublicensees, and the provisions above and below in this Article 3 shall be interpreted to allow for the purchasing of [[Organization 3 Name]] from Luna by or for such Subsidiaries and sublicensees, as may be directed by Hansen from time to time. Except to the extent expressly provided for in Section 3.3.5 and 3.8, nothing in this Agreement shall be construed (a) as imposing any requirement on Hansen (or its designees) to order or purchase Products or any other products in any quantity from Luna or (b) to limit Hansen’s (or its designees’) ability to manufacture, or have a third party manufacture, Products or any other products. 
+
+^^Supply for Development**.** As and to the extent requested by Hansen, Luna shall manufacture and supply to Hansen, in accordance with Section 3.1, [[Organization 3 Name]] for purposes of developing and/or obtaining regulatory approval of the [[Organization 3 Name]] or End Products (including for non-clinical and clinical studies) and other similar and related purposes at the Development Transfer Price, but not for commercial sale. Hansen shall keep Luna reasonably informed of its anticipated requirements of [[Organization 3 Name]] for such purposes, whether through the Project Manager meetings pursuant to Section 2.3 (if applicable), or otherwise. Hansen may order [[Organization 3 Name]] for the development-related purposes described above under this Section 3.2 from Luna by providing Luna with a binding purchase order indicating: (i) the quantities of Luna Product ordered (provided such quantities are consistent with the terms of this Agreement), (ii) the requested delivery date [**], and (iii) a delivery location. Upon receipt of any such conforming purchase order, Luna shall manufacture and supply Luna Product in accordance therewith. Any term in such purchase order that is inconsistent with this Agreement shall not be binding upon Luna; otherwise Luna shall send a confirmation to Hansen within [****] of receiving any such conforming purchase order. “**Development Transfer Price” means [****]. 
+
+^^Commercial Supply 
+
+**3.3.1 Commercial Supply Agreement**. If Hansen commercially launches an End Product containing a Luna Product Luna shall manufacture and supply to Hansen up to Hansen’s requirements of [[Organization 3 Name]] (but subject to Section 3.3.5 below) for commercial sale (presumably as incorporated into End Products) in accordance with this Section 3.3. If Hansen so decides to launch such an End Product containing a Luna Product, the Parties shall [****]. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**3.3.2 Commercial Transfer Price**. Luna shall supply to Hansen [[Organization 3 Name]] for commercial sale (or marketing or promotional purposes) (presumably as incorporated into End Products) at the Commercial Transfer Price. [****]. 
+
+**3.3.3 Quality Agreement****.** Promptly upon Hansen’s request, Hansen and Luna (and/or Luna’s third party manufacturer of Luna Product if applicable for regulatory purposes) shall negotiate and execute a reasonable and customary quality agreement governing manufacture of Luna Product consistent with Applicable Laws (including regulatory requirements). 
+
+**3.3.4 Advance Requirements Forecasts****.** Hansen shall provide Luna with reasonable advance notice (but no less frequently than on a rolling three month basis) of its forecasted supply needs so as to allow Luna the ability to prepare to meet such supply needs. The Commercial Supply Agreement shall specify the extent to which such forecasts are binding and/or can be modified by Hansen. 
+
+**3.3.5** [****]. 
+
+**3.3.6 Other Provisions**. The Commercial Supply Agreement shall contain provisions governing, inter alia, product recalls and withdrawals, inventory and buffer stocks, reasonably cost reduction efforts, facility licensures and permits (and the maintenance thereof), adverse event procedures, term and termination provisions [****] and government inspections. 
+
+^^Delivery**.** All shipments and deliveries of [[Organization 3 Name]] shall be made FCA at the delivery location specified in the purchase order therefor (Incoterms 2000). [****]. Luna shall provide appropriate documentation (including documentation required to comply, and for Hansen to comply, with all Applicable Laws (including regulatory requirements) and to establish compliance with applicable industry standards and certifications with respect to such Luna Product) as well as an invoice stating the Development Transfer Price or Commercial Transfer Price, as applicable, and describing in detail the calculation thereof, with all shipments of Luna Product hereunder. 
+
+^^Payment for Luna Product; Acceptance of Luna Product**.** All payments for [[Organization 3 Name]] (at the Development Transfer Price or Commercial Transfer Price, as the case may be) shall be due within [****] days from the date Luna delivers Luna Product to the delivery location specified in the applicable purchase order. Hansen shall have [****] days from the date of receipt by Hansen to reject any Luna Product that does not conform to Hansen’s purchase order therefor (with respect to supply of [[Organization 3 Name]] for commercial sale, to the extent the terms of such purchase order are consistent with those of the Commercial Supply Agreement) or does not conform in all material respects to the Specifications therefor or otherwise does not comply in all material respects with the requirements of Section 3.1, or else such Luna Product shall be deemed accepted. If Hansen rejects Luna Product in accordance with the foregoing, then, at Hansen’s election: (i) Hansen shall not be obligated to pay for such rejected Luna Product (and Luna shall refund to Hansen any amounts paid for such rejected Luna Product and reimburse Hansen for any amounts incurred for return shipment or destruction of such rejected Luna Product if Luna requests return or destruction thereof) or (ii) Luna shall manufacture and deliver replacement conforming Luna Product within a reasonably prompt period of time, which such replacement conforming Luna Product shall be subject to the terms of this Article 3, including the acceptance process set forth in this Section 3.5. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^Records; Inspections**.** Luna shall keep and maintain complete and accurate records, reports and other documents as may be reasonably required to confirm its compliance with this Article 3 and Applicable Laws with respect to its manufacturing activities hereunder. Luna shall permit Hansen representatives to enter Luna’s facilities upon reasonable prior notice and at reasonable intervals, during normal business hours for the purpose of reviewing such records, reports and documents and making quality assurance audits of the facilities and of the procedures and processes used by Luna in storing, manufacturing and shipping [[Organization 3 Name]] and for the purpose of confirming compliance with Article 3 and Applicable Laws. Luna shall ensure that any third party manufacturer to which Luna subcontracts manufacture of [[Organization 3 Name]] shall grant Hansen at least equivalent rights to inspect the facilities of such third party manufacturer. 
+
+^^Manufacturing Technology Transfer**.** Without limiting Hansen’s rights to manufacture or have manufactured [[Organization 3 Name]], in the event that (a) Luna is unable to meet Hansen’s reasonable supply needs of [[Organization 3 Name]] (to the extent in accordance with this Agreement) [****]. 
+
+^^[**] **Supply Arrangements for Other Products**.** 
+
+**3.8.1** [**] **Field**.** 
+
+^^For the period of [****] years after the Effective Date, in the event that (i) Hansen elects to [****]. 
+
+^^During the period beginning on the [****] anniversary of the Effective Date and continuing thereafter, [****]. 
+
+**3.8.2 Non-Robotic Medical Field Outside Orthopedics, Endoluminal or Vascular**.** For a period of [**] years from the Effective Date, in the event that [****]. 
+
+^Compensation 
+
+^^Development Fees**.** Hansen shall pay Luna for its development work done pursuant to Section 2.1 above in accordance with this Section 4.1. 
+
+**4.1.1** [**] **Fees****. [****]. 
+
+**4.1.2 Invoicing and Payment**. [****]. 
+
+**4.1.3** [****]. 
+
+**4.1.4** [****]. 
+
+^^Audit Luna shall keep and maintain complete and accurate books, records and accounts as may be reasonably required to confirm its compliance with this Agreement and the amounts payable hereunder (including under Section 4.1 and under Article 3). Hansen shall have the right once per twelve month period, upon reasonable advance notice and during normal business hours to have an independent third party auditor (one that is not otherwise engaged by Hansen for other auditing or tax purposes) audit such books, records and accounts to verify the accuracy of the reports and amount of payments payable hereunder. [****]. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^Intellectual Property 
+
+^^Acknowledgement of License Agreement**.** The Parties acknowledge that they are concurrently entering into the separate License Agreement governing the terms and conditions of licenses under certain Technology (and Intellectual Property Rights therein or thereunder) relevant to the development activities contemplated under this Agreement, including with respect to Fiber Optic Shape Sensing/Localization Technology. Nothing herein shall limit the rights and licenses expressly granted to, acquired by or confirmed for Hansen or Luna in the License Agreement. For the avoidance of doubt, any Technology (and Intellectual Property Rights therein or thereunder) developed, made, created, conceived or reduced to practice (in whole or in part) by or for Luna in connection with Luna’s development activities or performance under this Agreement shall be included in the Licensed IP (including as used in Section 2.1 of the License Agreement) for all purposes under the License Agreement, including for purposes of the licenses granted to Hansen under the terms and conditions of the License Agreement (except, with respect to Joint Patents, to the extent assigned to Hansen hereunder). Furthermore, the Parties acknowledge and agree that the licenses granted to Hansen under the License Agreement are essential to this Agreement and necessary for Hansen to enjoy the benefits of the Development Program and other terms and conditions of this Agreement, and that, without such licenses, the purposes and performance of this Agreement would be entirely frustrated and materially impaired. Accordingly, without limiting the terms and conditions of the License Agreement (or any rights or remedies for any breach thereof), the Parties agree that any termination of the licenses granted to Hansen under the License Agreement or any narrowing of (i) the scope of such licenses or (ii) the degree of their exclusivity (which narrowing results in a material impairment of the purposes or performance of this Agreement and/or the License Agreement), shall be a material breach of this Agreement. 
+
+^^New Inventions**.** To the extent a Party develops, makes, conceives or reduces to practice a new patentable invention under the Development Program (“**New Inventions**”), subject to the License Agreement, ownership of the patent rights to such New Invention between the Parties shall be governed as follows: 
+
+**5.2.1 Hansen Inventions****.** Hansen shall own all patent rights to any New Inventions that Hansen solely develops, makes, conceives or reduces to practice (i.e., no employee or consultant of Luna is an “inventor” thereof under applicable patent law). Hansen shall have the sole right to file any patent application on any such New Invention and to control the prosecution and enforcement thereof. Hansen shall promptly notify Luna in writing of any such New Inventions within thirty (30) days of documenting same. 
+
+**5.2.2 Joint Inventions**.** Hansen shall own all patent rights to any New Inventions that Hansen and Luna jointly develop, make, conceive or reduce to practice (i.e., an employee or consultant of each of Hansen and Luna is an “inventor” thereof under applicable patent law) (to the extent any patent application is filed thereon, together with any patents issuing thereon and other patent rights arising therefrom or claiming priority thereto, a “Joint Patent**”). Hansen shall have the sole right to file any patent application on any such New Invention (and to control the prosecution and enforcement thereof); provided that (i) Luna shall cooperate in the filing of any such patent application to the extent consistent with applicable patent law and (ii) Hansen shall provide Luna with a copy of each such patent application. The Parties acknowledge that any Joint Patent(s) are subject to the applicable terms and conditions of the License Agreement and Section 5.2.5 below. Each Party shall promptly notify the other in writing of any such New Inventions within thirty (30) days of documenting same. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**5.2.3 Luna Inventions**.** Luna shall own all patent rights to any New Inventions that Luna solely develops, makes, conceives or reduces to practice (i.e., no employee or consultant of Hansen is an “inventor” thereof under applicable patent law). Luna shall have the sole right to file any patent application on any such New Invention and to control the prosecution and enforcement thereof, subject to the provisions below. The Parties acknowledge that any such New Inventions are subject to the applicable terms and conditions of the License Agreement and the Intuitive-Luna License, to the extent applicable to such New Inventions (including Sections 5.1 and 5.2 of the License Agreement, but without limiting the additional terms and conditions regarding patent prosecution and enforcement below, and including in any event the inclusion of such New Inventions and Intellectual Property Rights therein or thereto within the Licensed IP licensed to Hansen under the License Agreement). Luna shall promptly notify Hansen in writing of any such New Inventions within thirty (30) days of documenting same. Upon Hansen’s reasonable request, Hansen shall have the right to review and provide input on all patent filings and responses regarding the New Inventions prior to their filing or submission with any applicable patent office. Prior to dropping prosecution of any claim within any patent applications on any New Inventions, Luna shall notify Hansen thereof and Hansen, at is option, shall have the right to continue the prosecution of such claim and Luna shall provide Hansen reasonable cooperation and assistance in connection therewith. Hansen shall have the sole and exclusive right to enforce any patents on New Inventions with respect to any infringement or alleged infringement thereof in the [****] Field, the [****] Field and the [**] Field and the [****] Field, and the terms and conditions of Section 5.2(b) of the License Agreement shall otherwise apply with respect thereto. 
+
+**5.2.4 Patent Ownership**. Luna hereby assigns (and agrees to assign, identify, document and deliver) to Hansen all right, title and interest in and to any Joint Patent. Luna shall execute and deliver all documents reasonably required by Hansen to evidence, perfect, record or enforce such assignment and/or the Joint Patents, and appoints Hansen as its attorney-in-fact to execute and deliver such documents if Hansen is unable, after making reasonable inquiry, to obtain Luna’s signature. Hansen shall have the sole right (in its sole discretion) to control and oversee all filing, prosecuting, maintaining and enforcing any and all Joint Patents at its own expense, and Luna shall reasonably cooperate with Hansen and provide all reasonable assistance (and execute such documents) in connection with any action Hansen may take with respect thereto, in all cases at Hansen’s sole cost and expense. Notwithstanding anything to the contrary herein, the Parties agree that applicable patent law shall govern who is an inventor of any New Invention. In the event of any disagreement about ownership, inventorship or similar matters arising out of this Agreement or otherwise related to New Inventions, the Parties hereby agree first to have their Chief Executive Officers or their designees meet and confer to attempt to resolve such disagreement. If such disagreement is not resolved within [****] days of either party’s referral of such disagreement for resolution by such Chief Executive Officers or their designees, the Parties agree to submit such disagreement to final and binding arbitration administered by the American Arbitration Association under its Patent Arbitration Rules before one single neutral arbitrator. Such arbitration shall occur in New York City, New York. The decision of the arbitrator shall be final, binding, and unappealable and shall be deemed the decision of the Parties hereunder and may be entered by any Party in a court of competent jurisdiction. 
+
+**5.2.5** [**] **License to Joint Patents outside of** [****] **Fields****. Hansen hereby grants Luna an irrevocable, perpetual, fully paid-up, royalty-free, nonexclusive, transferable, sublicensable, worldwide license under the Joint Patent(s) to research, develop, make, have made, use, have used, import, sell, have sold, offer to sell, sell and transfer and otherwise commercialize and exploit under any such Joint Patents in all fields of use outside the [****]. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**5.2.6 Retained Rights****.** For purpose of clarification and not of limitation (and without limiting any other provisions of this Agreement or any terms and conditions of the License Agreement), nothing in this Section 5.2 shall assign the ownership of any Technology of any Party (other than the Joint Patents to Hansen as provided above) nor limit the use of any Technology of any Party, except, with respect to Luna, to the extent any such use by Luna is covered by the valid and enforceable claims of any issued Joint Patent. 
+
+^^Third Party Technology**.** Luna shall inform Hansen prior to including Third Party Technology in or with any [[Organization 3 Name]] (or otherwise providing such Third Party Technology to Hansen in connection with the development of [[Organization 3 Name]] hereunder). To the extent any such Third Party Technology is so included or provided, Luna shall provide Hansen with written notice informing Hansen thereof and acknowledging Hansen’s rights thereto (and confirming such rights are as provided for in the License Agreement). To the extent any such Third Party Technology is required for Luna to manufacture and supply [[Organization 3 Name]] hereunder, and any royalties with respect thereto are to be included in the formula for the Development Transfer Price or the Commercial Transfer Price under Sections 3.2 and 3.3.2, respectively, then Hansen must provide its prior written consent; provided, however, that if Hansen does not consent thereto, notwithstanding anything else herein to the contrary, Luna shall have no duty to supply such [[Organization 3 Name]]. If Luna includes Third Party Technology with or in any [[Organization 3 Name]] (or otherwise provides such Third Party Technology to Hansen in connection with the development of [[Organization 3 Name]] hereunder) without such Third Party Technology having been licensed or sublicensed to Hansen in accordance with the foregoing, or if Luna infringes any third party patents or misappropriates any trade secrets in the course of its performance of the Development Program hereunder, then in all such cases, Luna shall indemnify, defend and hold harmless the [[Organization 4 Name]] from and against any loss, damage, liability, judgment, fine, or amount paid in settlement (with Luna’s consent) and expense or cost of defense arising from any claim, demand, action, proceeding, in all such cases suffered or incurred by the [[Organization 4 Name]] resulting from Hansen’s use and exploitation of such Third Party Technology. 
+
+^Representations and Warranties 
+
+^^By Hansen**.** Hansen hereby represents, warrants and covenants as follows: 
+
+**6.1.1** Hansen is a corporation duly organized, validly existing and in good standing under the laws of the state of Delaware. 
+
+**6.1.2** The execution, delivery and performance of this Agreement by Hansen (i) are within its corporate powers, (ii) have been duly authorized by all necessary corporate action on Hansen’s part, and (iii) do not and shall not contravene or constitute a default under, and are not and shall not be inconsistent with, any law or regulation, any judgment decree or order, or any contract, agreement or other undertaking applicable to Hansen. 
+
+^^By Luna**.** Luna hereby represents, warrants and covenants as follows: 
+
+**6.2.1** Luna is a corporation duly organized, validly existing and in good standing under the laws of the state of Delaware. 
+
+**6.2.2** The execution, delivery and performance of this Agreement by Luna (i) are within its corporate power, (ii) have been duly authorized by all necessary corporate action on Luna’s part, and (iii) do not and shall not contravene or constitute a default under, and are not and shall not be inconsistent with, any law or regulation, any judgment, decree or order, or any contract, agreement or other undertaking applicable to Luna. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**6.2.3** Luna shall perform under Section 2.1 above in a professional and workmanlike manner, consistent with industry standards, and in compliance with Applicable Laws. 
+
+**6.2.4** Luna is not now nor has in the past been debarred or disqualified or the subject of debarment or disqualification proceedings by any regulatory authority having jurisdiction and will not knowingly use in connection with its Development Program activities hereunder any employee, consultant or investigator that has been debarred or disqualified or the subject of debarment or disqualification proceedings by any regulatory authority having jurisdiction. Luna covenants that it will notify Hansen, subject to any confidentiality obligations and the preservation of attorney-client privilege, immediately after Luna’s receipt of information of any debarment or disqualification (or the initiation of any action or proceeding therefor) of any person performing Development Program activities for Luna hereunder. 
+
+**6.2.5** Luna has reviewed and approved the Development Plan and the Development Milestones as of the Effective Date with the intent and expectation that such Development Plan and Development Milestones can be successfully achieved and Luna is not aware as of the Effective Date (as can be shown by clear and convincing evidence) of any technical or scientific issues or realities that are likely to render the Development Plan and Development Milestones impractical or infeasible or likely to not be achieved within the proposed time frames and budget. 
+
+^^Disclaimer**.** EXCEPT AS EXPRESSLY PROVIDED FOR IN THIS AGREEMENT, NEITHER PARTY MAKES, AND EACH PARTY HEREBY DISCLAIMS, ANY AND ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+^Confidentiality 
+
+^^Definition**.** “**Confidential Information**” means all non-public written, visual, oral and electronic data and information disclosed by one Party (“**Discloser**”) to the other Party (“**Recipient**”) under this Agreement or the License Agreement that relates to the Discloser’s business, technology, products, processes, techniques, research, development and marketing and is marked as confidential or proprietary or disclosed under circumstances reasonably indicating that it is confidential or proprietary. All Hansen Licensed IP, Hansen New Inventions and unpublished patent applications for Joint Patents shall be Confidential Information of Hansen and Hansen shall be the Discloser (and Luna the Recipient) thereof; and all Licensed IP and Luna New Inventions shall be Confidential Information of Luna and Luna shall be the Discloser (and Hansen the Recipient) thereof. All Confidential Information (including without limitation all copies, extracts and portions thereof) shall remain the property of Discloser. Except as expressly agreed otherwise by the Parties, Recipient does not acquire any Intellectual Property Rights under any disclosure hereunder except the limited right to use such Confidential Information in accordance with this Agreement and/or the License Agreement. 
+
+^^Restrictions**.** Recipient shall hold all Confidential Information of Discloser in strict confidence and shall not disclose any such Confidential Information to any third party except as expressly provided in this Section 7.2. Recipient may disclose the Confidential Information of Discloser 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. only to regulatory authorities and employees, agents, contractors, Subsidiaries and actual and potential licensees and sublicensees (solely to the extent, in the case of any such licensee or sublicensee, such Confidential Information to be disclosed is licenseable or sublicenseable to such licensee or sublicensee), in all such cases who have a reason to know such information for purposes of Recipient’s performance of its obligations or exercise of its rights under this Agreement and/or the License Agreement and (except with respect to regulatory authorities) who are bound in writing by restrictions regarding disclosure and use at least as protective of Discloser as the terms and conditions in this Agreement. Recipient shall not use any Confidential Information of Discloser for the benefit of itself or any third party or for any purpose other than to perform its obligations and exercise its rights under this Agreement and/or the License Agreement. Recipient shall take at least the same degree of care that it uses to protect its own confidential and proprietary information and materials of similar nature and importance (but in no event less than reasonable care) to protect the confidentiality and avoid the unauthorized use, disclosure, publication, or dissemination of the Confidential Information of Discloser. 
+
+^^Scope**.** The foregoing restrictions on disclosure and use shall not apply with respect to any Confidential Information of Discloser to the extent such Confidential Information: (a) was or becomes publicly known through no wrongful act or omission of the Recipient or its Affiliates and their respective employees, agents and representatives; (b) was rightfully known by Recipient (except, for purposes of Luna as Recipient, with respect to Joint Patents and Hansen Licensed IP) before receipt from Discloser; (c) becomes rightfully known to Recipient (except, for purposes of Luna as Recipient, with respect to Joint Patents and Hansen Licensed IP) from a source other than Discloser without breach of a duty of confidentiality to Discloser or its Affiliates; or (d) is independently developed by Recipient (except, for purposes of Luna as Recipient, with respect to Joint Patents and Hansen Licensed IP) without the use of or access to the Confidential Information of Discloser. In addition, Recipient may use or disclose Confidential Information of Discloser to the extent (i) approved by Discloser in writing or (ii) Recipient is legally compelled to disclose such Confidential Information, provided, however, that prior to any such compelled disclosure, Recipient shall give Discloser reasonable advance notice of any such disclosure and shall cooperate with Discloser in protecting against any such disclosure and/or obtaining a protective order narrowing the scope of such disclosure and/or use of such Confidential Information. 
+
+^Indemnification; Limitation of Liability 
+
+^^By Hansen**.** Subject to Section 8.3, Hansen will defend, indemnify and hold harmless Luna and its officers, directors, shareholders, employees, contractors and agents (collectively, the “**Luna Indemnitees**”) from and against any losses, damages, liabilities, judgments, fines, amounts paid in settlement, expenses and costs of defense (including reasonable attorneys’ fees and witness fees) (collectively, “**Losses**”) resulting from any demand, claim, action or proceeding brought or initiated by a third party (each a “**Third Party Claim**”) against any Luna Indemnitee(s) to the extent arising from: [****]. The foregoing indemnification shall not apply to the extent that such Losses arise from or relate to any Luna Indemnitee’s gross negligence, intentionally harmful misconduct or breach of this Agreement or the Commercial Supply Agreement or to the extent Luna has an indemnification obligation pursuant to Section 8.2 for such Losses. 
+
+^^By Luna**.** Subject to Section 8.3, Luna will defend, indemnify and hold harmless Hansen and its Affiliates, officers, directors, shareholders, licensees, designees, customers, employees, contractors and agents (collectively, the “**[[Organization 4 Name]]**”) from and against any Losses resulting from any Third Party Claim against any Hansen Indemnitee(s) to the extent arising from: [****]. The foregoing indemnification shall not apply to the extent that such Losses arise from or relate to any Hansen 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Indemnitee’s gross negligence, intentionally harmful misconduct or breach of this Agreement or the Commercial Supply Agreement or to the extent Hansen has an indemnification obligation pursuant to Section 8.1 for such Losses. 
+
+^^Indemnity Procedures**.** The Party seeking indemnification hereunder shall give the other Party (the “**Indemnifying Party**”): (a) prompt written notice of any Third Party Claim for which indemnification is sought; (b) sole control over the defense or settlement of such Third Party Claim; and (c) reasonable assistance, at the Indemnifying Party’s expense, in the defense and settlement of the Third Party Claim. In no event, however, may the Indemnifying Party settle any Third Party Claim in a manner that diminishes the rights or interests of the other Party under this Agreement and/or obligates the other Party to make any payment or take any action without the written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed. If the Indemnifying Party fails to assume the defense, or if the Parties cannot agree as to the application of Section 8.1 or Section 8.2 in any given instance, then the Party seeking indemnification may conduct the defense and reserves the right to seek indemnification under this Agreement upon resolution with the third party of the underlying matter. 
+
+^^Limitation of Liability**.** EXCEPT FOR BREACH OF ARTICLE 7 OR THE INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTIONS 8.1 OR 8.2, AND EXCLUDING SECTION 2.5 AND WITHOUT LIMITING ANY LIQUIDATED DAMAGES PAYABLE THEREUNDER, IN NO EVENT SHALL A PARTY BE LIABLE TO THE OTHER PARTY FOR SPECIAL, CONSEQUENTIAL, INCIDENTAL, INDIRECT, OR PUNITIVE DAMAGES OR LOST PROFITS ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY. 
+
+^Term and Termination 
+
+^^Term**.** This Agreement shall become effective on the Effective Date and shall remain in force and effect until [****]. 
+
+^^Termination by Hansen**.** In addition to any available remedies at law or in equity, this Agreement may be terminated by Hansen by giving notice of termination to Luna: (a) in the event that Luna files or institutes any bankruptcy, liquidation or receivership proceedings, or in the event that Luna makes an assignment of a substantial portion of its assets for the benefit of its creditors; provided, however, that, in the case of any involuntary bankruptcy proceeding such right to terminate shall only become effective if Luna consents to the involuntary bankruptcy or such proceeding is not dismissed within sixty (60) days after the filing thereof; (b) if Luna breaches [****] and fails to cure such breach in accordance with this Agreement within sixty (60) days after receipt of the initial notification by Hansen of such breach or such longer period of time as provided in this Agreement; and (c) [****]. Except as expressly provided in the foregoing or in Section 2.5.3, Hansen shall have no right to terminate this Agreement. 
+
+^^Termination by Luna**.** In addition to any available remedies at law or in equity, this Agreement may be terminated by Luna by giving notice of termination to Hansen: (a) in the event that Hansen files or institutes any bankruptcy, liquidation or receivership proceedings, or in the event that Hansen makes an assignment of a substantial portion of its assets for the benefit of its creditors; provided, however, that, in the case of any involuntary bankruptcy proceeding such right to terminate shall only become effective if Hansen consents to the involuntary bankruptcy or such proceeding is not dismissed within sixty (60) days after the filing thereof; and (b) if Hansen breaches [****] and fails to cure such 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. breach within thirty (30) days after receipt of notification by Luna of such breach (provided; however, that if Hansen disputes [**], Luna shall not have the right to terminate this Agreement unless and until it is finally determined, in accordance with Section 2.6 (or the other applicable dispute resolution provisions of this Agreement) that Hansen is obligated to [**] and Hansen subsequently fails to cure such breach (e.g., [****]), within thirty (30) days of such final determination (it being understood that Luna shall not have the right to terminate this Agreement if Hansen so cures following such final determination in dispute resolution). Except as expressly provided in the foregoing, Luna shall have no right to terminate this Agreement. 
+
+^^Effect of Termination**.** Expiration or termination of this Agreement (including under Section 2.5) for any reason shall not release either Party from any obligation or liability which, at the time of such expiration or termination, has already accrued to the other Party or which is attributable to a period prior to such expiration or termination. The following Sections and Articles shall survive the expiration or termination of this Agreement for any reason: Section 2.4, 2.5, 2.6, Article 5, Article 7, Article 8, Article 9, and Article 10. 
+
+^Miscellaneous 
+
+^^Entire Agreement**.** Subject to Section 10.6 below, this Agreement (and its Exhibits), together with the Settlement Agreement, the other Settlement Documents, and the Amended Plan and Confirmation Order, contain the entire agreement and understanding of the Parties with respect to the subject matter hereof, and supersede and merge all prior and contemporaneous understandings and agreements between the Parties, whether written or oral, with respect to such subject matter. This Agreement shall not be modified, amended or cancelled other than in a writing signed by authorized representatives of both Parties. 
+
+^^No Implied Waiver**.** Any waiver of any obligation under this Agreement or any other Settlement Document must be in writing. The failure of either Party to enforce at any time any provision of or right under this Agreement shall not be construed to be a waiver of such provision or right or any other provision, and shall not affect the right of such Party to enforce such provision or right or any other provision. No waiver of any breach hereof shall be construed to be a waiver of any other breach. 
+
+^^Assignment**.** This Agreement and the rights of the Parties hereunder may not be assigned by either Party to this Agreement without the prior written consent of the other Party; provided, however, this Agreement (along with the rights granted hereunder) may be assigned by either Party without the other Party’s consent as part of a merger, consolidation or acquisition of the assigning Party; 
+
+sale of all or substantially all the assets of the assigning Party; or a similar reorganization of the assigning Party. Subject to the foregoing, the respective obligations of the Parties hereto shall bind, and the respective rights of the Parties shall inure to the benefit of, the Parties’ respective permitted assignees and successors. 
+
+^^Governing Law; Jurisdiction; Venue**.** 
+
+**10.4.1 Choice of Law****.** This Agreement shall be governed by, and interpreted in accordance with: (a) the Bankruptcy Code, and (b) in the case of applicable nonbankruptcy law, the laws of the State of Delaware, without regard to conflicts of laws, or applicable federal law as to a particular subject where federal law governs, such as for example, the Patent Act governing patents or the Copyright Act governing copyrights. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**10.4.2 Bankruptcy Court Jurisdiction****.** Except as provided in Section 10.4.3 and Section 10.4.4, any disputes arising under this Agreement, or related to the meaning, effect and interpretation of the Amended Plan, the Confirmation Order or this Agreement (which Agreement is a part of the Amended Plan and Confirmation Order), shall be subject to the jurisdiction of the Bankruptcy Court. 
+
+**10.4.3 Exceptions to Bankruptcy Court Jurisdiction****.** In the event: (a) the Bankruptcy Court lacks or declines to exercise jurisdiction over a dispute arising under this Agreement, for any reason; (b) the reference of jurisdiction to the Bankruptcy Court is withdrawn, for any reason; (c) the dispute or enforcement is related to any intellectual property rights of Hansen or Luna, including without limitation any alleged infringement or misappropriation or misuse thereof; or (d) the dispute or enforcement arises from or with respect to any provision of, or incorporated into, any of Sections 2.1, 2.2, 2.3, 2.4, 2.5, 4, 5, or 6.3 of the License Agreement or causes of action relating thereto or arising therefrom, or any of Sections 2.1, 2.2, 3, 4, 5, 7, 8 or 10.3 of this Agreement or causes of action relating thereto or arising therefrom, then the state or federal courts for or in New Castle County, Delaware shall have jurisdiction over any disputes arising under or related to this Agreement. 
+
+**10.4.4 Alternative Dispute Resolution****.** Notwithstanding Sections 10.4.2 and 10.4.3 above and Section 10.4.5 below, in the event some provision of a particular Settlement Document expressly creates an alternative dispute resolution provision as to a particular type of dispute, such as Sections 2.6 or 5.2.4 of this Agreement (or provisions of this Agreement expressly invoking Section 2.6), then such disputes shall be resolved as so specified in the applicable Agreement. 
+
+**10.4.5 Consent to Jurisdiction****.** Each Party hereby (a) consents and submits to the venue and co-exclusive jurisdiction of the Bankruptcy Court and the courts of New Castle County in the State of Delaware and the Federal courts of the United States sitting in such part of the District of Delaware (without prejudice to either the retained rights and jurisdiction of the Bankruptcy Court), (b) agrees that all claims may be heard and determined in such courts, (c) irrevocably waives (to the extent permitted by applicable law) any objection that it now or hereafter may have to the laying of venue of any such action or proceeding brought in any of the foregoing courts, and any objection on the ground that any such action or proceeding in any such court has been brought in an inconvenient forum, and (d) agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner permitted by law. Each of the Parties hereby consents to service of process by any party in any suit, action or proceeding in accordance with such applicable law. 
+
+**10.4.6 Resolving Conflicts****.** If there is any question as to whether the proper jurisdiction or venue for any dispute is in the Bankruptcy Court or in the Delaware Court, the Bankruptcy Court may decide that issue. 
+
+**10.4.7 Miscellaneous****.** The prevailing Party in any final judgment of any such controversy, claim or dispute, or the non-dismissing Party in the event of a dismissal without prejudice, shall be entitled to receive from the other Party the reasonable attorneys’ fees (and all related costs and expenses) and all other costs and expenses paid or incurred by such prevailing Party in connection with such controversy, claim or dispute and in connection with enforcing any judgment or order with respect thereto. 
+
+^^Severability**.** If for any reason a provision of this Agreement, or portion thereof, is finally determined to be unenforceable under Applicable Laws, that provision, or portion thereof, shall 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. nonetheless be enforced, as to circumstances, persons, places and otherwise, to the maximum extent permissible by Applicable Laws so as to give effect to the intent of the Parties, and the remainder of this Agreement shall continue in full force and effect. 
+
+^^Effect of Plan/Confirmation Order**.** The Parties agree that this Section 10.6(a) is a settlement proposal that shall apply only to the extent approved by the Confirmation Order. The Parties each agree to use commercially reasonable efforts to support the full rights sought by the Parties hereunder, including without limitation by appropriate proffers or other proof in the plan confirmation process. To the maximum extent possible under applicable law (as affected by the Confirmation Order), this Agreement is not an “executory contract” for the purposes of 11 U.S.C. § 365. Rather, this Agreement constitutes a settlement allocation and partition of intellectual property and other rights disputed in the Litigation and in Hansen’s related claims in the Chapter 11 Case but resolved by the Amended Plan and the Confirmation Order. To the extent that a final judgment by a court of competent jurisdiction rules otherwise than that, the executory parts of this Agreement (herein sometimes called a “**Section 365(n) Contract**”) shall be interpreted so that the greatest possible rights and licenses of the licensee Party thereto shall be held to be “executed,” thereby minimizing any “executory” parts of the Agreement. As to any Section 365(n) Contract, the parties hereto acknowledge and agree that the rights and licenses granted by the licensor Party to the licensee Party and its Affiliates hereunder are rights with respect to intellectual property (including without limitation “intellectual property” within the meaning of 11 U.S.C. § 101), and: (a) all reports, drawings, samples, prototypes and other books and records and embodiments of the intellectual property shall be deemed “embodiments” of the intellectual property protected by 11 U.S.C. § 365 hereunder; (b) any Settlement Document or obligations thereunder that the licensee Party designates as such an “agreement supplementary” to such Section 365(n) Contract in its discretion at any time before the Confirmation Hearing in a “Plan Supplement” to the Amended Plan, shall be, to the extent permitted by applicable law (as affected by the Confirmation Order) and so designated by the licensee, an “agreement supplementary” to such Section 365(n) Contract, but no other Settlement Document or obligations shall be an “agreement supplementary” to such Section 365(n) Contract; and (c) there are no “royalty payments” due from Hansen or Luna as a licensee under such Section 365(n) Contract or, since 11 U.S.C. § 365(n)(2) applies only to the Section 365(n) Contract, but not to any “agreement supplementary” to such contract, under any such supplementary agreement. In the event of any conflict between (i) the provisions of this Section 10.6(a), or (ii) the rights contemplated by 11 U.S.C. § 365(n), and the Amended Plan or the Confirmation Order, the Amended Plan and Confirmation Order shall govern and control. Hansen and Luna each shall be deemed to have made a request for enforcement of all of its rights and licenses pursuant to 11 U.S.C. § 365(n)(4), without further action by either licensee Party. 
+
+^^Headings**.** The headings and captions used in this Agreement are for convenience only and shall not be considered in construing or interpreting this Agreement. 
+
+^^Interpretation**.** This Agreement has been negotiated by all Parties, and each Party has been advised by competent legal counsel. This Agreement shall be interpreted in accordance with its terms and without any construction in favor of or against either Party. 
+
+^^Counterparts**.** This Agreement may be executed in counterparts, each of which shall be deemed an original, but which collectively shall constitute one and the same instrument. 
+
+^^Force Majeure**.** No Party shall be responsible for delays to the extent resulting from causes beyond such Party’s control, including without limitation fire, explosion, flood, war, strike, crisis, terrorist attack, earthquake, power failure, or riot, provided that the nonperforming Party notifies the other Party thereof and uses commercially reasonable efforts to mitigate or remove such causes of nonperformance. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^Relationship of the Parties. Luna’s relationship with Hansen shall be that of an independent contractor and nothing in this Agreement should be construed to create a partnership, joint venture, agency or employer-employee relationship between the Parties. Luna is not the agent of Hansen and is not authorized and shall not have any authority to make any representation, contract or commitment on behalf of Hansen, or otherwise bind Hansen in any respect whatsoever. Luna (and its employees and agents) shall not be entitled to any of the benefits Hansen may make available to its employees, such as group insurance, profit-sharing or retirement benefits. Luna shall be solely responsible for all tax returns and payments required to be filed with or made to any federal, state or local tax authority with respect to Luna’s performance of services and receipt of amounts under this Agreement. Hansen may regularly report amounts paid to Luna with the Internal Revenue Service as required by law. Because Luna is an independent contractor, Hansen shall not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain worker’s compensation insurance on Luna’s (or its employees’ or agents’) behalf. Luna shall comply with, and agrees to accept exclusive liability for its own non-compliance with all Applicable Laws regarding its employees, consultants, taxes, benefits and payroll, including obligations such as payment of all taxes, social security, disability and other contributions based on amounts paid to Luna, its agents or employees under this Agreement. Luna hereby agrees to indemnify, hold harmless and defend Hansen against any and all such liability, taxes or contributions, including penalties and interest. 
+
+^^Notices. Except as may be otherwise provided herein, all notices, requests, waivers, consents and approvals made pursuant to this Agreement shall be in writing and shall be conclusively deemed to have been duly given (a) when hand delivered to the other Party; (b) when sent by facsimile, with receipt confirmation, to the number set forth below if sent between 8:00 a.m. and 5:00 p.m. recipient’s local time on a business day, or on the next business day if sent by facsimile to the number set forth below if sent other than between 8:00 a.m. and 5:00 p.m. recipient’s local time on a business day; or (c) the next business day after deposit with a national overnight delivery service, postage prepaid, addressed to the applicable parties as set forth below with next business day delivery guaranteed, provided that the sending Party receives a confirmation of delivery from the delivery service provider. Each person making a communication hereunder by facsimile shall attempt to promptly confirm by telephone to the person to whom such communication was addressed each communication made by it by facsimile pursuant hereto but the absence of such confirmation shall not affect the validity or delivery status of any such communication. A Party may change or supplement the addresses given below, or designate additional addresses, for purposes of this Section by giving the other Party written notice of the new address in the manner set forth above. 
+
+If to [[Hansen]], Inc. 
+
+[[Address 1: Address]] 
+
+Attn: [[Person 2 First Name]] [[Person 2 Last Name]] 
+
+Facsimile: [[Phone 1]] 
+
+Email: [[Email 1]] 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+If to [[Organization 2 Name]] 
+
+One Riverside Circle, Suite 400 
+
+[[Address 2: Address]] 
+
+Attn: 
+
+Facsimile: 
+
+If to [[Organization 1 Name]], Inc. 
+
+One Riverside Circle, Suite 400 
+
+[[Address 2: Address]] 
+
+Attn: 
+
+Facsimile: 
+
+^^Luna Party. For purposes of this Agreement, [[Organization 2 Name]] and [[Organization 1 Name]], Inc. may be treated by Hansen as one entity, such that, for example, a notice or consent from [[Organization 2 Name]] shall be deemed a valid and effective notice or consent also from [[Organization 1 Name]], Inc. (and vice versa) and a payment from [[Organization 2 Name]] shall fully satisfy Hansen’s obligation with respect to such payment hereunder as to both entities. [[Organization 2 Name]] and [[Organization 1 Name]], Inc. shall exercise their rights jointly under this Agreement, and will not take conflicting positions vis a vis Hansen. 
+
+\centered [Signature Page Follows] 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**IN WITNESS WHEREOF**, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date. 
+
+**LUNA INNOVATIONS INCORPORATED**            [[Hansen]], INC.**
+
+[[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Entity => By: [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory First Name]] [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Last Name]]
+Title: [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Title]]}}
+
+
+**[[Organization 1 Name]], INC.**
+
+[[[[Organization 1 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]. Entity => By: [[[[Organization 1 Name]]. Signatory First Name]] [[[[Organization 1 Name]]. Signatory Last Name]]
+Title: [[[[Organization 1 Name]]. Signatory Title]]}}
+
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered **Exhibit A** 
+
+\centered **Development Milestones** 
+
+[****] 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered **Exhibit B** 
+
+\centered **Development Plan** 
+
+[****] 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**CONFIDENTIAL TREATMENT REQUESTED** 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered **AMENDMENT NO. 1 TO** 
+
+\centered **DEVELOPMENT AND SUPPLY AGREEMENT** 
+
+This Amendment No. 1 to Development and Supply Agreement (this “**Amendment**”) is entered into as of [[Date 5: Date]], by and between Luna Innovations Incorporated, a [[State of Formation: State]] [[Organization: EntityType]], together with [[Organization 1 Name]], Inc., a Delaware corporation (acting jointly and severally, individually and collectively, “**Luna**”), and [[Hansen]], Inc., a Delaware corporation (“**Hansen**”). 
+
+\centered **RECITALS** 
+
+WHEREAS, Luna and Hansen are parties to that certain Development and Supply Agreement (the “**Agreement**”); 
+
+WHEREAS, Luna is entering in a loan agreement with [[Organization 7 Name]], a California corporation, pursuant to which Hansen is executing that certain Subordination Agreement, effective as of [[Date 6: Date]], by and between [[Organization 7 Name]], and Hansen (the “**Subordination Agreement**”); and 
+
+WHEREAS, as an inducement to Hansen to enter into the Subordination Agreement, Luna and Hansen desire to amend Sections 4.1 and 9.4 of the Agreement to suspend, under the circumstances as specified in this Amendment, Hansen’s obligation to make payments to Luna as set forth therein. 
+
+NOW, THEREFORE, for good and valuable consideration, receipt of which is hereby acknowledged, Luna and Hansen hereby agree to amend the Agreement as follows: 
+
+\centered **AMENDMENT** 
+
+^Definitions. Except as otherwise provided herein, capitalized terms used in this Amendment shall have the definitions set forth in the Agreement. 
+
+^Amendments to Article 1. 
+
+^of the Agreement shall be amended to include new Sections 1.57, 1.58 and 1.59 to read in their entirety as follows: 
+
+“1.57 “**Subordination Agreement**” means that certain Subordination Agreement entered into as of [[Date 6]] by and between [[Organization 7 Name]], a California corporation, and Hansen.” 
+
+“1.58 “**Blockage Period**” has the meaning given to such term in the Subordination Agreement; provided, however, that for purpose of this Amendment a Blockage Period shall be deemed to continue until the applicable Deferred Payment is permitted under the last sentence of Section 3(b) of the Subordination Agreement.” 
+
+“1.59 “**Deferred Payment**” has the meaning given to such term in the Subordination Agreement. 
+
+^Amendments to Section 4.1. 
+
+The first sentence of Section 4.1.1 of the Agreement shall be amended to read in its entirety as follows: 
+
+“[****]” 
+
+The first sentence of Section 4.1.2 of the Agreement shall be amended to read in its entirety as follows: 
+
+“[****]” 
+
+In addition, Section 4.1 of the Agreement shall be amended to include a new Section 4.1.5 that shall read in its entirety as follows: 
+
+“Notwithstanding the foregoing, during any Blockage Period and continuing until the end of the Blockage Period and when Luna has paid Hansen the applicable Deferred Payment, Hansen may defer any and all payments due to Luna under Section 4.1 of this Agreement.” 
+
+^Amendment to Section 9.4. Section 9.4 of the Agreement shall be amended to read in its entirety as follows: 
+
+“Expiration or termination of this Agreement (including under Section 2.5) for any reason shall not release either Party from any obligation or liability which, at the time of such expiration or termination, has already accrued to the other Party or which is attributable to a period prior to such expiration or termination. The following Sections and Articles shall survive the expiration or termination of this Agreement for any reason: Sections 2.4, 2.5, 2.6, 4.1.5, Article 5, Article 7, Article 8, Article 9, and Article 10.” 
+
+^Terms and Conditions of Agreement. Except as expressly modified hereby, all terms, conditions and provisions of the Agreement shall continue in full force and effect. 
+
+^Conflicting Terms. In the event of any inconsistency or conflict between the Agreement and this Amendment, the terms, conditions and provisions of this Amendment shall govern and control. 
+
+^Term and Termination. This Amendment shall become effective upon its execution by each of Luna and Hansen and shall remain in force and effect until such date as the Subordination Agreement is terminated in accordance with its terms. 
+
+^Entire Agreement. This Amendment and the Agreement constitute the entire and exclusive agreement between the parties with respect to this subject matter. All previous discussions and agreements with respect to this subject matter are superseded by the Agreement and this Amendment. This Amendment may be executed in one or more counterparts, each of which shall be an original and all of which taken together shall constitute one and the same instrument. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered [*Signature Page to Follow*] 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**IN WITNESS WHEREOF**, the Parties have caused this Amendment to be executed by their duly authorized representatives as of the date first listed above. 
+
+**LUNA INNOVATIONS INCORPORATED**            [[Hansen]], INC.**
+
+[[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Entity => By: [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory First Name]] [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Last Name]]
+Title: [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Title]]}}
+
+
+**[[Organization 1 Name]], INC.**
+
+[[[[Organization 1 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]. Entity => By: [[[[Organization 1 Name]]. Signatory First Name]] [[[[Organization 1 Name]]. Signatory Last Name]]
+Title: [[[[Organization 1 Name]]. Signatory Title]]}}
+
+
+\centered SIGNATURE PAGE TO AMENDMENT NO. 1 TO DEVELOPMENT AND SUPPLY AGREEMENT 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**CONFIDENTIAL TREATMENT REQUESTED** 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered **AMENDMENT NO. 2 TO** 
+
+\centered **DEVELOPMENT AND SUPPLY AGREEMENT** 
+
+This Amendment No. 2 to Development and Supply Agreement (this “**Amendment**”) is entered into as of [[Date 7: Date]], by and between Luna Innovations Incorporated, a Delaware corporation, together with [[Organization 1 Name]], Inc., a Delaware corporation (acting jointly and severally, individually and collectively, “**Luna**”), and [[Hansen]], Inc., a Delaware corporation (“**Hansen**”). 
+
+\centered **RECITALS** 
+
+WHEREAS, Luna and Hansen are parties to that certain Development and Supply Agreement having an effective date of [[Date 4]] and amended by Amendment No. 1 to Development and Supply Agreement dated as of [[Date 5]] (collectively, the “**Agreement**”); 
+
+WHEREAS, Luna and Hansen desire to amend Exhibit A and Exhibit B of the Agreement to clarify certain prototype specifications and to extend the deadlines for certain milestones. 
+
+NOW, THEREFORE, for good and valuable consideration, receipt of which is hereby acknowledged, Luna and Hansen hereby agree to amend the Agreement as follows: 
+
+\centered **AMENDMENT** 
+
+^Definitions. Except as otherwise provided herein, capitalized terms used in this Amendment shall have the definitions set forth in the Agreement. 
+
+^Amendments to Exhibit A [****]. Exhibit A of the Agreement shall be amended as follows: 
+
+**[******] 
+
+^Amendments to Exhibit A and Exhibit B [****]. 
+
+^^Exhibit A of the Agreement shall be amended as follows: 
+
+^^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following sentence: 
+
+“[****]” 
+
+^^Exhibit B of the Agreement shall be amended as follows: 
+
+^^^In Exhibit B[****]: 
+
+“[****]” 
+
+shall be replaced with the following sentence: 
+
+“[****]” 
+
+^Amendments to Exhibit A regarding data interface. Exhibit A of the Agreement shall be amended as follows: 
+
+^^In Exhibit A[****] containing the following sentence: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****] containing the following sentence: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****] containing the following sentence: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****] containing the following sentence: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^Amendments to Exhibit A and Exhibit B regarding milestone deadlines. Exhibit A and Exhibit B of the Agreement shall be amended as follows: 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit B[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^In Exhibit B[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^In Exhibit B[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^^^In Exhibit B[****]: 
+
+“[****]” 
+
+shall be replaced with the following: 
+
+“[****]” 
+
+^Amendments to Exhibit A and Exhibit B regarding [****]. Exhibit A and Exhibit B of the Agreement shall be amended as follows: 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced by the following sentence: 
+
+“[****]” 
+
+^^In Exhibit B[****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^^For avoidance of doubt[****]. 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^Amendment to Exhibit A regarding [****]. Exhibit A of the Agreement shall be amended as follows: 
+
+^^In Exhibit A, [****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^^In Exhibit A, [****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be deleted in its entirety. 
+
+^Amendment to Exhibit A [****]. Exhibit A of the Agreement shall be amended as follows: 
+
+^^In Exhibit A[****]: 
+
+ [****] 
+
+ [****] 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+^^In Exhibit A, [****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^^In Exhibit A[****]: 
+
+“[****]” 
+
+shall be replaced with the following language: 
+
+“[****]” 
+
+^Terms and Conditions of Agreement. Except as expressly modified hereby, all terms, conditions and provisions of the Agreement shall continue in full force and effect. 
+
+^Conflicting Terms. In the event of any inconsistency or conflict between the Agreement and this Amendment, the terms, conditions and provisions of this Amendment shall govern and control. 
+
+^Term and Termination. This Amendment shall become effective upon its execution by each of Luna and Hansen. 
+
+^Entire Agreement. This Amendment and the Agreement constitute the entire and exclusive agreement between the parties with respect to this subject matter. All previous discussions and agreements with respect to this subject matter are superseded by the Agreement and this Amendment. This Amendment may be executed in one or more counterparts, each of which shall be an original and all of which taken together shall constitute one and the same instrument. 
+
+\centered [*Signature Page to Follow*] 
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+**IN WITNESS WHEREOF**, the Parties have caused this Amendment to be executed by their duly authorized representatives as of the date first listed above. 
+
+**LUNA INNOVATIONS INCORPORATED**            [[Hansen]], INC.**
+
+[[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Entity => By: [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory First Name]] [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Last Name]]
+Title: [[LUNA INNOVATIONS INCORPORATED            [[Organization 6 Name]] Signatory Title]]}}
+
+
+**[[Organization 1 Name]], INC.**
+
+[[[[Organization 1 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]. Entity => By: [[[[Organization 1 Name]]. Signatory First Name]] [[[[Organization 1 Name]]. Signatory Last Name]]
+Title: [[[[Organization 1 Name]]. Signatory Title]]}}
+
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+\centered SIGNATURE PAGE TO AMENDMENT NO. 2 TO DEVELOPMENT AND SUPPLY AGREEMENT

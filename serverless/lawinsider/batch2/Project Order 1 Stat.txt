@@ -1,0 +1,456 @@
+\centered **Project Order #1**
+
+\centered **Statement of Work #1.18**
+
+\centered Submitted by
+
+[[Organization 1 Name]] 
+[[Address 1: Address]] 
+Phone: [[Phone 1]] 
+Fax: [[Phone 1]]  
+**[[Date 1: Date]]**
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work   
+
+\centered **Table of Contents**
+
+Statement of Work  
+
+Scope of work  
+
+Expectations from Vendor  
+
+Expectations from Client  
+
+Intellectual Property  
+
+Change Management  
+
+Plan and Schedule  
+
+Pricing  
+
+Terms and Conditions  
+
+Support Files  
+
+\centered ***Extranime, Inc*** ***Proprietary – Confidential***
+
+\centered ***Page 2 of 11***
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+**Statement of Work**
+
+This Statement of Work for Project Order #1(“Project Order #1”) is made and entered into as of this [[Date 2: Date]] (the “Effective Date”), by and between **Extranome Inc.** (hereinafter referred to as "Vendor"), and [[Organization 2 Name]],  (hereinafter referred to as “Client”) (collectively, the “Parties”). This Project Order #1 is governed by the terms and conditions set forth herein and in the Agreement # soft.2/11012008 from [[Date 3: Date]]. In the event of a conflict between the Agreement # soft.2/11012008 from [[Date 3]] and this Project Order #1, the terms and conditions of this Project Order #1 shall prevail.
+
+**Scope of work**
+
+The scope of work is defined in the separate Software Requirements Specifications (SRS), technical part defined as part of design documentation (DD) and all time lines and milestones are defined by LOE and Project Plans per agreed scope of work.
+
+**Tasks completed in [[Date 4: Date]]**
+
+^^MyHealthTrends for Weight Control and MyHealthTrends for Pain ([[Percentage 1: Number]]%)
+
+2.1.1   Quality Assurance efforts
+
+Following releases have been tested:  
+·   MyHealthTrends for Pain
+
+^^Server S/W v3.1.28, Client S/W v3.1.6.23 in QA and Prod environment
+
+^^Server S/W v3.1.29, Client S/W v3.1.6.24 in QA environment
+
+·   MyHealthTrends for Weight Control
+
+^^Server S/W v3.1.28, Client S/W v3.1.6.23 in QA and Prod environment
+
+^^Server S/W v3.1.29, Client S/W v3.1.6.24 in QA environment
+
+New bugs opened in [[Date 4]]:  
+**3657** tri [MP] Replace the "Crave button" with "Pain button"
+
+**3658** tri Error message is displayed when user cancels "register patient device" action 
+
+**3659** nor Reports of patient not in the Census is not displayed if practitioner has no patients in Census 
+
+**3660** min Performance issue with Monthly report in IE 
+
+**3669** nor [MP] Error while saving "Other" title 
+
+**3670** maj [MP] Report can't be printed because print window is not opened 
+
+**3673** nor Daily report for wrong date is displayed when Practitioner tries to see comments from Weekly report 
+
+**3674** nor [MP] In Preview mode practitioner cannot open and enter comments 
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 3 of 11***    
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+**3675** nor [MP] After opening Print window comments cannot be entered 
+
+**3676** maj [MP] Install script references a "MyPainAway" 
+
+**3677** nor [MP] Not all comments are displayed in Weekly Telemetric View 
+
+**3692** enh [MP] Hide a "Pain Severity Calculation Analysis" report for Patient's perspective 
+
+**3706** min Issue with HTML tags in comments 
+
+**3710** nor [MP] Patient's device is not presented in Practitioner device list 
+
+**3711** nor [MP] JS Error in IE when Practitioner view report for specified Patient 
+
+**3713** tri [MP] Issue with password recovery e-mail letter 
+
+**3715** tri [MP] Can't view "Available Actions" for device when user name is long
+
+2.1.2   Development efforts
+
+Have been resolved and implemented following bugs and enhancements:
+
+**3489** min "Cravings comparison by time periods" report displays incorrect data if time zone is different to default tz 
+
+**3498** maj Exception while practitioner plugs in/unplugs usb device 
+
+**3500** min Issue with sorting patients in MY Census
+
+**3551** nor Wrong positioning of offline daily report while daily report is opened from weekly/monthly report
+
+**3578** nor Incorrect displaying of monthly report "Cravings comparison by Time Periods"
+
+**3584** min Graphical issue on Cravings comparison by Time Periods
+
+**3587** min Issue with "Cravings comparison by Time Periods" time scale
+
+**3657** tri [MP] Replace the "Crave button" with "Pain button"
+
+**3658** tri Error message is displayed when user cancels "register patient device" action
+
+**3659** nor Reports of patient not in the Census is not displayed if practitioner has no patients in Census
+
+**3660** min Performance issue with Monthly report in IE
+
+**3669** nor [MP] Error while saving "Other" title
+
+**3670** maj [MP] Report can't be printed because print window is not opened
+
+**3673** nor [MP] Daily report for wrong date is displayed when Practitioner tries to see comments from Weekly report
+
+**3674** nor [MP] In Preview mode practitioner cannot open and enter comments
+
+**3675** nor [MP] After opening Print window comments cannot be entered
+
+**3676** maj [MP] Install script references a "MyPainAway"
+
+**3677** nor [MP] Not all comments are displayed in Weekly Telemetric View
+
+**3692** enh [MP] Hide a "Pain Severity Calculation Analysis" report for Patient's perspective
+
+**3706** min Issue with HTML tags in comments
+
+**3710** nor [MP] Patient's device is not presented in Practitioner device list
+
+**3711** nor [MP] JS Error in IE when Practitioner view report for specified Patient
+
+**3713** tri [MP] Issue with password recovery e-mail letter
+
+**3715** tri [MP] Cannot view "Available Actions" for device when user name is long
+
+2.1.3   ITOPS efforts
+
+IT maintenance for PROD and QA environments performed.
+
+2.1.4   Enhancements: Scope 11 – HHC v5.1
+
+·   Transition firmware v 3.1.4 has been written to implement Upgrade Device Firmware protocol to test UDF feature on devices v3.1.
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 4 of 11***    
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+·   Client Windows software (HhcConsole application) has been enhanced to allow the end-user to upgrade device firmware without usage a third party In-System Programming tools..
+
+·   PCB and hardware components for manufacturing a prototype of HHC v5.1have been ordered.
+
+^^Baeta Marketing Pages Repository ([[Percentage 2: Number]]%)
+
+2.2.1   ITOPS efforts
+
+IT maintenance for PROD and QA environments performed.
+
+^^MyHealthID ([[Percentage 2]]%)
+
+2.3.1   ITOPS efforts
+
+IT maintenance for PROD and QA environments performed.
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 5 of 11***  
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+**Tasks planned for [[Date 5: Date]]**   
+^^ITOPS maintenance
+
+Perform IT maintenance for products “MHT for Pain”, “MHT for Weight Control”, “MyHealthID”, “Baeta Marketing Pages Repository”, hosted in QA and PROD environment.
+
+^^“MyHealthTrends for Weight Control” and “MyHealthTrends for Pain”
+
+Complete release for Server S/W v3.1.30 and Client S/W v3.1.6.25 for both products and pass it in QA and PROD environment.
+
+Continue bug fixing for bugs still not resolved in previous builds and for new bugs if they be revealed during QA phase.
+
+Perform QA for new releases.  
+Tasks for “Scope 11 – HHC v5.1”: 
+·   Manufacture a HHC v5.1 prototype.
+
+·   Complete firmware HHC v5.1.1 which will allow accumulate and upload raw acceleration data into PC and support second events.
+
+·   Complete PC Software to analyze raw acceleration data.
+
+\centered 2.6   **MyHealthTrends for Smoking Cessation ([[Percentage 3: Number]]% LOE)**  
+
+IT maintenance for PROD and QA environments performed.
+
+^^**MyHealthTrends for Weight Control and MyHealthTrends for Pain ([[Percentage 4: Number]]% LOE)**
+
+2.7.1 Quality Assurance efforts:   
+Following releases have been tested:  
+·   MyHealthTrends for Pain, Server S/W v3.1.26, Client S/W v3.1.6.22
+
+·   MyHealthTrends for Weight Control, Server S/W v3.1.26, Client S/W v3.1.6.22
+
+Bugs verified: 
+**3434** enh Practitioner Account Creation for Patients without Computers
+
+**3479** min No data displayed in "My Records" tab
+
+**3496** min List of devices is not refreshed if patient refreshes data on the web
+
+**3509** enh Position cursor to email field when registering patient device 
+
+**3512** min "Compare with" value of one device report is applied to another device report 
+
+**3546** min "Cravings by day of Week" data displaying issue 
+
+**3552** min No "Logout" button on "My Report" page if user has one device 
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 6 of 11***  
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+New bugs opened in reported period: 
+**3434** enh Practitioner Account Creation for Patients without Computers (reopened)
+
+**3545** nor Reports for selected device number are not displayed when My Reports page is opened for the first time
+
+**3546** min "Cravings by day of Week" data displaying issue
+
+**3548** min Comment for event is not saved in offline reports 
+
+**3551** nor Wrong positioning of offline daily report while daily report is opened from weekly/monthly report
+
+**3552** min No "Logout" button on "My Report" page if user has one device
+
+**3578** nor Incorrect displaying of monthly report "Cravings comparison by Time Periods" 
+
+**3583** enh Remember last user logged in on practitioner SWA 
+
+**3584** min Graphical issue on Cravings comparison by Time Periods 
+
+**3587** min Issue with "Cravings comparison by Time Periods" time scale 
+
+**3596** min [MP] Purchase link is incorrect 
+
+**3597** enh [MP] Practitioner should have ability to enter Diagnostic data as is available for Patient 
+
+**3598** min [MP] Mild pain appears on "Functional Pain Impact" graphic while there is no clicks for this hour 
+
+**3608** tri [MP] Status is partially displayed in notification area pop up window if Name is of max size 
+
+**3611** min [MP] Disable entering comment in offline mode
+
+2.7.2 Development efforts   
+Bugs resolved and enhancements: 
+**3090** enh Provide the interface to download the client applications 
+
+**3434** enh Practitioner Account Creation for Patients without Computers
+
+**3479** min No data displayed in "My Records" tab 
+
+**3484** tri Long user name looks wrong on website
+
+**3496** min List of devices is not refreshed if patient refreshes data on the web
+
+**3500** min Issue with sorting patients in MY Census
+
+**3509** enh Position cursor to email field when registering patient device
+
+**3512** min "Compare with" value of one device report is applied to another device report
+
+**3545** nor Reports for selected device number are not displayed whe My Reports page is opened for the first time
+
+**3546** min "Cravings by day of Week" data displaying issue
+
+**3548** min Comment for event is not saved in offline reports
+
+**3552** min No "Logout" button on "My Report" page if user has one device
+
+**3578** nor Incorrect displaying of monthly report "Cravings comparison by Time Periods"
+
+**3583** enh Remember last user logged in on practitioner SWA
+
+**3596** min [MP] Purchase link is incorrect
+
+**3597** enh [MP] Practitioner should have ability to enter Diagnostic data as is available for Patient
+
+**3598** min [MP] Mild pain appears on "Functional Pain Impact" graphic while there are no clicks for this hour
+
+**3608** tri [MP] Status is partially displayed in notification area pop up window if Name is of max size
+
+**3611** min [MP] Disable entering comment in offline mode
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 7 of 11***  
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+2.7.3 ITOPS efforts    
+IT maintenance for PROD and QA environments performed.
+
+2.7.4 Enhancements: Scope 11 – HHC v5.1   
+Analysis of requirements for enhanced functionality of HHC v5.1 was performed.
+
+An Electrical schematic for device prototype to register events on the one second basis and to record user activity by using embedded 3-axis accelerometer was designed. Draft Design Document v1.3 has been provided to Customer for review of the proposed method of Calorie Burn calculation.
+
+^^**Baeta Marketing Pages Repository ([[Percentage 3]]% LOE)**
+
+2.8.1 ITOPS efforts   
+IT maintenance for PROD and QA environments performed.
+
+\centered 2.9   **MyHealthID ([[Percentage 3]]% LOE)**  
+
+2.9.1 ITOPS efforts   
+IT maintenance for PROD and QA environments performed.
+
+Tasks to be performed in the month of [[Date 4]]:
+
+**ITOPS Maintenance**  
+Perform IT maintenance for products “MHT for Pain”, “MHT for Weight Control”, “MyHealthID”, “Baeta Marketing Pages Repository”, hosted in QA and PROD environment.
+
+**MyHealthTrends for Weight Control and MyHealthTrends for Pain**
+
+Continue bug fixing for bugs still not resolved in previous builds and for new bugs if they are revealed during QA phase.
+
+**3551** nor Wrong positioning of offline daily report while daily report is opened from weekly/monthly report
+
+**3584** min Graphical issue on Cravings comparison by Time Periods
+
+**3587** min Issue with "Cravings comparison by Time Periods" time scale
+
+Provide new releases and deploy them to QA and PROD.
+
+Perform QA for new releases.  
+Design phase continues for “Scope 11 – HHC v5.1” and “Scope 12 – iPhone Client Application for Pain”.
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 8 of 11***  
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+^Expectations from Vendor  
+^All Vendor personnel will be provided with a computer having a configuration adequate to perform their respective tasks.
+
+^Vendor will furnish weekly status reports. These reports will be based on the tasks assigned to and performed by them.
+
+^Vendor will bring to the notice of Client any issue, technical or otherwise that may be a potential risk to the task to be performed and will keep Client informed of the remediation steps taken to mitigate such risks.
+
+^Vendor’s team will interact closely with the Client at all stages of the Project.
+
+^Vendor will recommend changes to the environment, including the use of newer releases of the system and framework software, if it can justify that such changes will result in a better end product.
+
+^Vendor will ensure that the work they do can be verified and audited.
+
+^Vendor will provide all required environment for the work and support by IT&S team for smooth development as needed unless dedicated resources required.
+
+^Expectations from Client  
+^Client will determine the prioritization of the tasks to be performed.
+
+^Client will provide all assistance required in the understanding of the scope during the entire length of the Project.
+
+^Client will cover, after mutual agreement, all costs for specific software, systems, machines, technologies and licenses which are not part of standard development tools and technologies and specific to [[Organization 2 Name]] work.
+
+^Client will cover all travel related expenses and travel allowance at actual costs if this is required and approved by [[Organization 2 Name]]
+
+^**Intellectual Property**   
+Intellectual Property of all work undertaken on behalf of Client shall vest with [[Organization 2 Name]]
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 9 of 11***  
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+**Change Management**
+
+Once a design document has been approved by Client, all changes in the scope of work will have to be approved by both parties after due consideration to the impact that it may have on the schedule and effort. Such changes may result in the financial considerations for the Project to be revised.
+
+**Plan and Schedule**
+
+The plan for developing of the application as stated in the section Scope of Work is as follows:
+
+[[Organization 1 Name]] will have assigned software engineers and designers for the projects personnel at their own premises.
+
+^All work will be performed based on separate Software Requirements Specifications and Project Plans.
+
+**Pricing**
+
+The statement of work performs as time and materials (T&M) agreement with initial team of:
+
+·   1 Project Manager
+
+·   1 Technical Lead / Senior Software Developer
+
+·   1 Graphic Designer
+
+·   2 Software Engineers
+
+The cost of initial team is $[[USD Value 1: Number]] per month. The costs covers costs of labor, base work environment and license costs. All specific to the project licenses, machines, parts or equipment are additional to this cost.
+
+Any additional resources are subject to a separate agreement or $[[USD Value 2: Number]] per hour with prior agreement by the Client.
+
+**Terms and Conditions**
+
+The work is based on 40 hours week, 12 months a year excluding official holidays and vacations, from 9:00am EST to 5:00pm EST schedule. All vacation and holidays will be communicated to the Client in advance and if this is required - Vendor will provide adequate replacement during the member(s) leave of absence.
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 10 of 11***  
+
+[[Organization 2 Name]] – Project Order #1 Statement Of Work  
+
+[[[[Organization 2 Name]] – Project Order #1 Statement Of Work Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] – Project Order #1 Statement Of Work Entity => By: [[[[Organization 2 Name]] – Project Order #1 Statement Of Work Signatory First Name]] [[[[Organization 2 Name]] – Project Order #1 Statement Of Work Signatory Last Name]]
+Title: [[[[Organization 2 Name]] – Project Order #1 Statement Of Work Signatory Title]]}}
+
+\centered **[[Organization 2 Name]]**      **Extranome, Inc** 
+
+Len Pushkanster      Alexander Gak 
+
+[[Organization 2 Name]]      [[Organization 1 Name]] 1 Bridge Plaza Suite 275      253 Warren Av Fort Lee, NJ 07024      Fort Lee, NJ 07024 Phone: [[Phone 2]]      Phone: [[Phone 3]]  
+
+\centered **Extranime, Inc Proprietary – Confidential**  
+
+\centered ***Page 11 of 11***

@@ -1,0 +1,110 @@
+^**
+
+\centered [[Company]]
+
+\centered Restricted Stock Award Agreement
+
+\centered [Non-Employee Director]
+
+Director:      «Director_Name»
+Number of Shares:      «Number_of_Shares»
+Award Date:      «Award_Date»
+
+THIS AGREEMENT (the “Agreement”) is made as of the date set forth above (the “Award Date”) between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and the above-referenced non-employee director (the “Director”).
+
+For valuable consideration, receipt of which is acknowledged, the parties hereto agree as follows.
+
+^ \centered 1. Issuance of Shares and Vesting. 
+
+Effective as of Award Date, the Company hereby grants to the Director «Number_of_Shares» shares (the “Shares”) of the Company’s common stock, par value $.01 per share (“Common Stock”), as an Award of Restricted Stock pursuant to the Company’s 2010 Stock Incentive Plan (such Plan, as it may previously have been or may hereafter be amended, the “Plan”). All of the terms and conditions of the Plan are incorporated herein by reference, and any capitalized terms that are not defined herein shall have the meanings ascribed to such terms in the Plan. The Director hereby accepts the Award and agrees to acquire and hold the Shares subject to the terms and provisions set forth in the Plan and the additional terms and provisions contained herein.
+
+Provided the Director shall continue to serve as a director of the Company during the period (the “Vesting Period”) commencing on the Award Date and ending immediately prior to the Company’s annual meeting of shareholders which shall occur during the calendar year following the Award Date (such time being the “Vesting Date”), one hundred ([[Percentage 1: Number]]%) percent of the Shares shall vest on the Vesting Date. Furthermore, one hundred ([[Percentage 1]]%) of the Shares shall immediately vest (and the Vesting Period shall be deemed to have ended) in the event that, prior to the Vesting Date, either (i) the Director shall die or become permanently disabled (in the sole judgment of the Company’s Board of Directors) or a Change of Control of the Company shall occur. A Change of Control of the Company shall be deemed to have occurred if the Company is a party to any merger, consolidation or sale of assets, or there is a tender offer for the Company’s common stock, or a contested election of the Company’s directors, and as a result of any such event, either (i) the directors of the Company in office immediately before such event cease to constitute a majority of the Board of Directors of the Company, or of the company succeeding to the Company’s business, or (ii) any company, person or entity (including one or more persons and/or entities acting in concert as a group) other than an affiliate of the Company 
+
+gains “control” (ownership of more than fifty ([[Percentage 2: Number]]%) percent of the outstanding voting stock of the Company) over the Company. The concept of “control” shall be deemed to mean the direct or indirect ownership, beneficially or of record, of voting stock of the Company.
+
+^ \centered 2. Forfeiture of Unvested Shares. 
+
+If the Director shall cease prior to the Vesting Date to serve as a director of the Company for any reason other than as described in Section 1 (including, without limitation, voluntary resignation or removal by the Company’s shareholders), the Company shall automatically reacquire any of the Shares which have not vested in accordance with Section 1 (the “Unvested Shares”) as of the effective date of such cessation (the “Termination Date”) and the Director shall forfeit such Unvested Shares unconditionally and shall have no further right or interest in such Shares unless the Company agrees in writing to waive its reacquisition right as to some or all of the Unvested Shares.
+
+^ \centered 3. Administration of Stock Certificates. 
+
+^^ \centered (a) Concurrently with or promptly following the execution hereof, the Company shall deliver the Unvested Shares either in certificated or uncertificated form (as the Committee shall elect) to American Stock Transfer & Trust Company (such company or any other agent as the Committee may select during the Vesting Period being referred to hereafter as the “Administrative Agent”). During the Vesting Period, the Administrative Agent shall hold the Shares for the benefit of the Director, but subject to the provisions of this Agreement. Notwithstanding such deposit of the Shares with the Administrative Agent, the Director shall retain during the Vesting Period the right to vote and enjoy all other rights and incidents of ownership of the Shares except as may be restricted hereunder. 
+
+^^ \centered (b) During the Vesting Period, the Administrative Agent shall keep true and accurate records of all the Shares. The Company shall indemnify and hold harmless the Administrative Agent against any and all costs or expenses (including attorneys’ fees and expenses), judgments, fines, losses, claims, damages, liabilities and amounts paid in settlement in connection with any claim, action, suit, proceeding or investigation arising out of or pertaining to this Agreement. 
+
+^^ \centered (c) Following the close of each calendar quarter during which any of the Shares shall become Vested Shares, the Administrative Agent shall, upon the written request of the Participant but subject to potential delivery to the Company of a portion of such Vested Shares to the extent required to pay withholding taxes in accordance with Section 7 hereof, deliver to the Director stock certificates representing such number of Vested Shares which ceased to be Unvested Shares during such calendar quarter. Following the close of the calendar quarter in which there shall remain on deposit with the Administrative Agent no Shares which have not yet become Vested Shares or been forfeited to the Company, but subject to potential delivery to the Company of a portion of such Vested Shares to the extent required to pay withholding taxes in accordance with Section 7 hereof, the Administrative Agent shall deliver to the Participant stock certificates representing the Vested Shares (if any) remaining in the possession of the Administrative Agent. The Director hereby authorizes the Administrative Agent to deliver to the Company any and all Shares that are forfeited under the provisions of this Agreement or that are required to pay withholding taxes in accordance with Section 7 hereof.    
+
+^ \centered 4. Restrictions on Transfer. 
+
+The Director shall not sell, assign, transfer, pledge, hypothecate or otherwise dispose of, by gift, sale, operation of law or otherwise (collectively “transfer”), any Unvested Shares or any interest therein.
+
+^ \centered 5. Effect of Prohibited Transfer. 
+
+The Company shall not be required (a) to transfer on its books any of the Shares which shall have been sold or transferred in violation of any of the restrictions imposed by this Agreement, or (b) to treat as owner of such Shares or to pay dividends to any transferee to whom any such Shares shall have been so sold or transferred.
+
+^ \centered 6. Adjustments for Stock Splits, Stock Dividends, Etc. 
+
+If from time to time during the Vesting Period there is any stock split-up, stock dividend, stock distribution or other reclassification of the Common Stock of the Company, any and all new, substituted or additional securities to which the Director is entitled by reason of Director’s ownership of Shares shall be immediately subject to the vesting requirements, restrictions on transfer and other provisions of this Agreement in the same manner and to the same extent as such Shares.
+
+^ \centered 7. Withholding Taxes. 
+
+^^ \centered (a) The Director acknowledges and agrees that in the case of the issuance of Restricted Stock that is “substantially vested” (within the meaning of Treasury Regulations Section 1.83-3(b)), the Committee may require the Director to remit to the Company an amount sufficient to satisfy any federal, foreign, state or local withholding tax requirements (or make other arrangements satisfactory to the Company with regard to such taxes, including withholding from regular cash compensation, providing other security to the Company, or remitting or foregoing the receipt of Shares having a fair market value on the date of delivery sufficient to satisfy such obligations) prior to the issuance of any Shares pursuant to this Award of Restricted Stock. 
+
+^^ \centered (b) The Director acknowledges and agrees that in the case of Restricted Stock that is not “substantially vested” upon issuance, if the Committee determines that under applicable law and regulations the Company could be liable for the withholding of any federal, foreign, state or local tax with respect to such Shares, the Committee may require the Director to remit to the Company an amount sufficient to satisfy any such potential liability (or make other arrangements satisfactory to the Company with respect to such taxes, including withholding from regular cash compensation providing other security to the Company, or remitting or foregoing the receipt of Shares having a fair market value on the date of delivery sufficient to satisfy such obligations) at the time such Shares of Restricted Stock are delivered to the Director, at the time the Director makes an election under Section 83(b) of the Internal Revenue Code of 1986, as amended (the “Code”), with respect to such Shares, or at the time such Shares become “substantially vested,” and/or to agree to augment such security from time to time in any amount reasonably deemed necessary by the Committee to preserve the adequacy of such security. The Director acknowledges that the Shares of Restricted Stock are subject to the forfeiture obligation under     
+
+^^ \centered Section 2 of this Agreement and such forfeiture obligation may be treated as a substantial risk of forfeiture within the meaning of Section 83 of the Code, and that, in the absence of an election under Section 83(b) of the Code, such treatment could delay the determination of the tax consequences of such issuance for both the Company and the Director (possibly to the Director’s detriment). If the Director files a timely election under Section 83(b) of the Code, the Director shall provide the Company with an original copy of such timely filed election and a certified mail or overnight courier receipt of such filing within 10 days of the time the election is filed. 
+
+^ \centered 8. Severability. 
+
+The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law.
+
+^ \centered 9. Waiver; Termination. 
+
+Any provision contained in this Agreement may be waived, either generally or in any particular instance, by the Company. This Agreement may be terminated as provided in the Plan.
+
+^ \centered 10. Binding Effect. 
+
+This Agreement shall be binding upon and inure to the benefit of the Company and the Director and their respective heirs, executors, administrators, legal representatives, successors and assigns, subject to the restrictions on transfer set forth in Section 4 of this Agreement.
+
+^ \centered 11. Notice. 
+
+All notices required or permitted hereunder shall be in writing and deemed effectively given (i) upon personal delivery, (ii) one (1) day after delivery to an overnight courier service which provides for a receipt upon delivery, or (iii) three (3) days after deposit with the United States Post Office, by registered or certified mail, postage prepaid, addressed, if to the Company, to [[Company]], [[Address 1: Address]]-9149, Attention: Treasurer; if to the Custodian, to the Company’s aforesaid address, Attention: Treasurer; and if to the Director, to the address shown beneath his or her respective signature to this Agreement; or at such other address or addresses as either party shall designate to the other in accordance with this Section 11.
+
+^ \centered 12. Pronouns. 
+
+Whenever the context may require, any pronouns used in this Agreement shall include the corresponding masculine, feminine or neuter forms, and the singular form of nouns and pronouns shall include the plural, and vice-versa.
+
+^ \centered 13. Entire Agreement. 
+
+This Agreement, together with the Plan, constitutes the entire agreement between the parties, and supersedes all prior agreements and understandings, relating to the subject matter of this Agreement.
+
+^ \centered 14. Amendment. 
+
+This Agreement may be amended or modified only by a written instrument executed by both the Company and the Director.
+
+^ \centered 15. Governing Law. 
+
+This Agreement shall be construed, interpreted and enforced in accordance with the laws of the Commonwealth of Massachusetts.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Award Date.
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+ACCEPTED:
+
+(Signature of Director)
+
+«Director_Name»
+(Printed Name of Director)
+
+«Address_1»
+(Residence Street Address)
+
+«Address_2»
+(City) (State) (Zip Code)

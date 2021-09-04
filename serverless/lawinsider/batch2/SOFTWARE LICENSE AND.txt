@@ -1,0 +1,405 @@
+CONFIDENTIAL  
+
+\centered **SOFTWARE LICENSE AND SUPPORT SERVICES AGREEMENT** 
+
+This Software License and Support Services Agreement (the “Agreement”) is made and entered into, by and between [[Organization 1 Name]] ([[State of Formation: State]] [[Organization: EntityType]] organized under the laws of the People’s Republic of China (hereinafter “Licensor”) and [[Organization 2 Name]] ![(CHINESE CHARACTER)](f55857f5585759.gif), a limited liability company organized under the laws of the People’s Republic of China (“Licensee” and together with Licensor, the “Parties” and each a “Party”) and is made effective as of the Effective Date (defined below). 
+
+\centered **RECITALS** 
+
+**WHEREAS,** [[Organization 3 Name]], a company organized under the laws of the Cayman Islands (“SINA”), and [[Organization 4 Name]] Limited, a company organized under the laws of the Cayman Islands (“CRIC”), entered into that certain Share Purchase Agreement dated [[Date 1: Date]] (the “Share Purchase Agreement”), pursuant to which SINA subscribes from CRIC the Subscription Shares (as defined in the Share Purchase Agreement); 
+
+**WHEREAS,** Licensor owns certain software as more particularly described below that are related to the Business which it desires to license to Licensee and Licensee desires to obtain a license from Licensor to such software to use in connection with its operation of the Business on the terms and conditions set forth herein; and 
+
+**WHEREAS,** Licensor and Licensee entered into that certain Software License Agreement dated [[Date 2: Date]] (the “Original Agreement”) and Licensor and Licensee desire to amend and restate the Original Agreement on or prior to the consummation of the transactions contemplated by the Share Purchase Agreement. 
+
+**NOW, THEREFORE,** for and in consideration of the mutual covenants and agreement of the Parties and the faithful performance thereof, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto agree as follows: 
+
+**DEFINITIONS**  
+
+As used herein, the following terms shall have the meanings ascribed to them below. 
+
+“Action” has the meaning set forth in Section 7.1. 
+
+“Affiliate” means, when used with respect to any specified Person, a Person that directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, such specified Person. For the purposes of this definition, “control” (including the terms “controlled by” and “under common control with”) with respect to the relationship between or among two or more Persons, means the possession, directly or indirectly or as trustee, personal representative or executor, of the power to direct or cause the direction of 
+
+^^^^^ 
+the affairs or management of a Person, whether through the ownership of voting securities, as trustee, personal representative or executor, by contract, credit arrangement or otherwise. 
+
+“Agency Agreement” means that certain Advertising Sale Agency Agreement by and between [[Organization 3 Name]] and [[Organization 5 Name]], dated as of [[Date 3: Date]]. 
+
+“Authorized Users” means any officers, employees, authorized sublicensees, consultants or contractors of Licensee. 
+
+“Big Four International Accounting Firms” means [[Organization 6 Name]], Ernst & Young, KPMG, and PricewaterhouseCoopers. 
+
+“Business” means an online real estate media platform in the PRC that (i) provides information and updates related to real estate, home furnishing and construction in the PRC and provides real estate, home furnishing and construction advertising services, and (ii) operates a business-to-business and business-to-consumer Internet platform targeting participants in the PRC real estate industry, in each case, as currently conducted or contemplated to be conducted on the websites owned or operated by Licensee or any of Licensee’s Affiliates in the PRC. 
+
+“Business Day” means any day that is not a Saturday, a Sunday or other day on which banks are required or authorized by Law to be closed in Beijing. 
+
+“Change of Control” means (i) the consummation of any acquisition or purchase, directly or indirectly, by any Person or related group of Persons, that results in a Competitor owning more ordinary shares in CRIC than E-House and SINA, and in each case, their respective controlled Affiliates, own in the aggregate or (ii) an event pursuant to which a Competitor acquires the right to nominate a member to the board of directors of CRIC. 
+
+“Claimant” has the meaning set forth in Section 9.12. 
+
+“Commission” has the meaning set forth in Section 9.12. 
+
+“Competitor” means any Person whose business includes an online portal. 
+
+“Confidential Information” has the meaning set forth in Section 8.1. 
+
+“Current Software Products” means the web blog, mailbox, pod cast, iAsk, text messaging, wireless application protocol products that are provided to end users by Licensor free of any fees and any other Software products that are provided to end users by Licensor free of any fees, in each case in the form provided to end users, as of the Effective Date or thereafter during the Term. 
+
+“Defects” has the meaning set forth in Section 4.1. 
+
+“Dispute” has the meaning set forth in Section 9.12. 
+
+^^^^^ 
+“Documentation” means user documentation, technical manuals and other documentation, whether in electronic, on-line or hard copy format. 
+
+“Effective Date” means the Closing Date as set forth in the Share Purchase Agreement. 
+
+“E-House Licensed Data and Information” means the data and information licensed to [[Organization 4 Name]] Limited and its subsidiaries, for the operation of the CRIC system pursuant to the Master Transaction Agreement. 
+
+“Governmental Authority” means any federal, national, supranational, state, provincial, local or other government, governmental, regulatory or administrative authority, agency or commission or any court, tribunal, or judicial or arbitral body. 
+
+“Improvements” has the meaning set forth in Section 2.4. 
+
+“Infrastructure” means all infrastructure necessary to (i) operate the Licensee Websites and (ii) facilitate Licensee’s use of the Licensed Software including all physical hardware containing, used in conjunction with and/or relating to the Licensed Software. 
+
+“Initial Term” has the meaning set forth in Section 5.1. 
+
+“Law” means any federal, national, supranational, state, provincial, local or similar statute, law, ordinance, regulation, rule, code, order, requirement or rule of law (including common law). 
+
+“Licensed Software” means (i) the proprietary Software used for internet content, advertising publishing and other functionality as identified on Exhibit A attached hereto; (ii) Current Software Products and the interfaces owned by Licensor and necessary to facilitate Licensee’s use of Current Software Products; (iii) Licensor Databases; (iv) Licensor Improvements; and (v) related Documentation and hardware, in each case to the extent such items (other than Licensor Improvements) exist and have been delivered to Licensee under the Original Agreement. 
+
+“Licensee Improvements” has the meaning set forth in Section 4.2. 
+
+“Licensee Parties” has the meaning set forth in Section 7.1. 
+
+“Licensee Websites” means the websites located at www.leju.com and the channels located at house.sina.com.cn, jiaju.sina.com.cn and construction.sina.com.cn. 
+
+“Licensor Databases” means the databases and compilations maintained by Licensor, including data and collections of data relating to email information, user information, advertising customer information and advertising monitoring. 
+
+“Licensor Improvements” has the meaning set forth in Section 2.4. 
+
+“Licensor Parties” has the meaning set forth in Section 7.2. 
+
+^^^^^ 
+“Master Transaction Agreement” means the Master Transaction Agreement entered into by and between E-House (China) Holdings Limited and [[Organization 4 Name]] Limited, dated as of [[Date 4: Date]].
+
+“Object Code” means computer program code that is readable and useable by machines, but not generally readable by humans without reverse assembly, reverse compiling or reverse engineering.
+
+“Person” means any individual, partnership, firm, corporation, limited liability company, association, trust, unincorporated organization or other entity, as well as any syndicate or group that would be deemed to be a person under Section 13(d)(3) of the Securities Exchange Act of 1934, as amended.
+
+“PRC” or “Territory” means the People’s Republic of China, excluding Hong Kong, Macau and Taiwan.
+
+“Recipient” has the meaning set forth in Section 8.2.
+
+“Respondent” has the meaning set forth in Section 9.12.
+
+“Rules” has the meaning set forth in Section 9.12.
+
+“Service Levels” means the service levels (e.g., with respect to uptime, response times, etc.) to be agreed by the Parties within sixty (60) days after the Effective Date, which Service Levels shall in no event be less than the Service Levels Licensor provides to itself in connection with its own operations.
+
+“Software” means computer programs in Object Code form, including any software implementations of algorithms, models and methodologies, data, databases, compilations and other electronic data files.
+
+“Support Services” has the meaning set forth in Section 2.8.
+
+“Term” has the meaning set forth in Section 5.1.
+
+“Transition Period” has the meaning set forth in Section 2.9.
+
+“Upgrades” has the meaning set forth in Section 2.5.
+
+**GRANT OF LICENSE** 
+
+^^Grant of License. Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee, and Licensee hereby accepts from Licensor, a limited, non-exclusive, non-transferable (except as set forth in Section 9.7) and non-sublicensable (except as expressly set forth in this Section 2.1) license to use, operate, modify, reproduce, distribute, perform, display and create derivative works of the Licensed Software in connection with the Business during the Term. The foregoing license shall be sublicensable, without prior written
+
+^^^^^ 
+consent of Licensor, to Licensee’s Affiliates that are controlled by Licensee solely for the purpose of operating the Business in the Territory during the Term. Except as provided in Section 2.7 and Section 2.10, Licensee’s use of the Licensed Software under the terms of this Agreement shall be free of any fees. Licensee shall be responsible for the compliance of the terms and conditions of this Agreement by all of its sublicensees. Without limiting the foregoing, in the event any sublicensee undertakes any action (or inaction) that would be deemed a breach of this Agreement had Licensee taken such action (or inaction), such action (or inaction) shall be deemed a breach by Licensee under this Agreement. 
+
+^^Reservation of Rights. All rights in and to the Licensed Software not expressly granted herein are hereby reserved exclusively by Licensor. 
+
+^^Current Software Products. Notwithstanding anything in this Agreement to the contrary, Current Software Products shall not include any present or future products that are provided to end users for a fee, including fee-based mailboxes and games. If Licensee desires to obtain the rights to use fee-based products, both Parties shall use good faith efforts to negotiate commercially reasonable terms and conditions governing Licensee’s use of such fee-based products, which terms and conditions shall be at least as favorable to Licensee as the most favorable terms and conditions agreed by Licensor with an unaffiliated third party with respect to such products, taking into account all of the terms and conditions of the agreement as a whole. 
+
+^^Improvements. Licensee acknowledges that Licensor is under no obligation to create any improvements, modifications, translations, updates, upgrades or other derivative works to the Licensed Software (collectively, “Improvements”). In the event that Licensor creates any Improvements during the Term and makes such Improvements available to others for use or testing (the “Licensor Improvements”), Licensor shall also offer Licensee access to such Licensor Improvements on the same terms and conditions and in the same timeframe as being offered to others, free of any fees except as set forth in Section 2.7 or 2.10. 
+
+^^Infrastructure.  
+
+^^Licensor shall provide to Licensee all Infrastructure that is provided to Licensee as of the Effective Date, free of any fees except as set forth in Section 2.10. 
+
+^^In the event that Licensor implements during the Term any improvements, modifications, translations or upgrades to the Infrastructure (“Upgrades”), it shall provide (or otherwise make available) such Upgrades to Licensee no later than it implements such Upgrades in connection with its own operations, free of any fees except as set forth in Section 2.10. 
+
+^^Licensee Requests for Infrastructure or Upgrades. Licensee may, from time to time, request new Infrastructure or Upgrades from Licensor that are for use in connection with Licensee’s operation of the Business but that are not used by Licensor in connection with its business. The Parties shall, using reasonable best efforts and in a timely manner, discuss the terms and conditions on which Licensor can provide the requested Infrastructure or Upgrades to Licensee. If, despite such reasonable best efforts, the Parties cannot agree on the terms and conditions for the provision of such Infrastructure or Upgrades, then Licensor shall have no obligation to provide such Infrastructure or Upgrades to Licensee. 
+
+^^^^^ 
+^^Fees. In the event E-House Research and Training Institute becomes entitled to charge, invoice, or otherwise receive from, Licensee any royalties, fees or other remuneration for use of the E-House Licensed Data and Information pursuant to amendments to the Master Transaction Agreement or through other means, Licensor and Licensee shall use good faith efforts to amend this Agreement such that Licensor becomes entitled to charge, invoice, or otherwise receive fees from Licensee to use and operate the Licensed Software, such fees to be agreed upon by the Parties, provided that (i) such fees shall be commercially reasonable and (ii) such fees shall not exceed the fees charged by Licensor to unaffiliated third parties for use of the Licensed Software, taking into account any consideration received by Licensor from such third party (including, but not limited to, discounted services offerings from the third party). 
+
+^^Support Services. During the Term, Licensor shall continue to provide all support services to Licensee and, upon Licensee’s request, [[Organization 7 Name]] (“Beijing Yisheng Leju”), that Licensor provided to Licensee and/or Beijing Yisheng Leju as of the Effective Date, including the maintenance, technical support and hardware support as described in more detail below (collectively, “Support Services”). Subject to Section 2.10, all Support Services shall be provided free of any fees. Licensor shall provide Support Services in accordance with the Service Levels. 
+
+^^Routine Maintenance. Licensor shall be responsible for the routine maintenance of Licensed Software. Licensor shall undertake the foregoing obligation in a commercially reasonable manner and in a manner designed to minimize interruption to the Business. To the extent any scheduled maintenance of the Licensed Software would cause a material interruption to the operation of the Business of Licensee, Licensor shall inform Licensee at least thirty (30) days prior to such maintenance and shall complete such maintenance as promptly as practicable. 
+
+^^Technical Support. Licensor shall provide Licensee with such technical support as may be required in connection with the Business from time to time including, but not limited to, performance of the following: 
+
+^^^project management services, including responding to user requests and handling user applications; 
+
+^^^providing technical consultation to users, including user operations training and addressing operations questions; 
+
+^^^providing users with information regarding application processing, and active and prompt communications in the event of any unexpected circumstances; 
+
+^^^providing contact details in order to respond to user emergencies and to provide practical solutions based on the specific circumstances; and 
+
+^^accepting and addressing user complaints and communicate investigative findings back to user. 
+
+^^^^^ 
+^^Infrastructure Support. Licensor shall provide support services for (i) the Infrastructure; and (ii) any Upgrades or functional replacements of any the Infrastructure implemented by Licensor during the Term. Such Infrastructure support services shall include, but not be limited to, the following: 
+
+^^^maximizing the uptime of any servers; 
+
+^^^making upgrades to such Infrastructure as is necessary for the Business to remain current and consistent with the general standards for technology used in connection with Licensor’s other businesses; 
+
+^^^implementing in a timely manner all upgrades and modifications to such Infrastructure provided by any third party vendor of such Infrastructure, as applicable; and 
+
+^^^ensuring that such Infrastructure is of sufficient capacity to process the data, information and products of the Business. 
+
+^^Development Services. Licensee may, from time to time, request custom Software development services from Licensor. The Parties shall, using reasonable best efforts and in a timely manner, discuss the terms and conditions on which Licensor can provide the requested development services to Licensee. If, despite such reasonable best efforts, the Parties cannot agree on the terms and conditions under which Licensor provides such Software development services, then Licensor shall have no obligation to provide such Software development services. 
+
+^^Licensor’s Equity Holding. Notwithstanding anything in this Agreement to the contrary, if Licensor’s and its Affiliates’ aggregate equity interest in CRIC falls below twenty percent ([[Percentage 1: Number]]%) of the issued and outstanding ordinary shares of CRIC, Licensor shall so notify Licensee. During the ninety (90) day period after Licensee’s receipt of such notice (“Transition Period”), Licensee may either (i) terminate its rights to use Licensor Databases and to receive the Support Services as well as Licensee’s rights under Sections 2.4, 2.5(b), 2.6 and 2.8, effective as of the last day of the Transition Period, and Licensor shall cooperate with Licensee during the Transition Period to transition the provision of the Support Services to Licensee or a third party designated by Licensee or (ii) if Licensee wishes to continue using the Licensor Databases and/or the Support Services, both Parties shall use good faith efforts to negotiate the fees payable to Licensor in connection with Licensee’s continued use of the Licensor Databases and/or the Support Services, provided that such fees shall be commercially reasonable and shall be at least as favorable to Licensee as the fees for which Licensor provides the Licensor Databases and the Support Services, as applicable, to unaffiliated third parties, taking into account any consideration received by Licensor from such third party (including, but not limited to, discounted services offerings from the third party). If, despite such good faith efforts, the Parties cannot agree on such fees during the Transition Period, then Licensee’s rights to use Licensor Databases and to receive the Support Services, as well as Licensee’s rights under Sections 2.4, 2.5(b), 2.6 and 2.8 are terminated, effective as of the last day of the Transition Period. 
+
+^^^^^ 
+^^Incremental Fees.  
+
+^^To the extent that there are any reasonable, incremental costs for use of the Licensed Software or the Infrastructure, or provision of the Support Services, due to a change in the Business needs, Licensee shall reimburse Licensor for all such costs. For example, if Licensor, prior to the Effective Date, employs ten (10) full time employees dedicated to providing the Support Services and, as a result of a change in the Business, must hire an additional full time employee to provide such Support Services, Licensee shall reimburse Licensor for the costs related to such full time employee, provided that, if such full time employee also engages in work on behalf of Licensor or its Affiliates, Licensee shall reimburse Licensor on a pro rata basis only for the time spent by such full time employee in providing the Support Services to Licensee. Licensor shall provide Licensee with an invoice detailing any and all such costs and such invoice shall be paid in accordance with the terms of the invoice or such other payment terms as may be agreed to by the Parties. 
+
+^^No more than once every year, Licensee may have an independent certified public accountant from one of the Big Four International Accounting Firms conduct an audit of the relevant portions of Licensor’s books of account solely to verify the costs invoiced to Licensee under this Agreement. For purposes of such audit, Licensor shall provide access to Licensor’s books of account, during business hours, to such accountant, provided Licensor shall have no less than ten (10) Business Days’ prior notice of such audit. Such accountant shall be subject to a confidentiality agreement with Licensor but the accountant shall be permitted to disclose the results of the audit to Licensee. If any such audit should disclose any overpayment of costs, Licensor shall promptly reimburse Licensee such overpaid amount. If any such audit should disclose an underpayment of costs, Licensor may issue an invoice to Licensee for the underpaid amount and Licensee shall pay such invoice in accordance with the reasonable invoice terms or such other terms as may be agreed to by the Parties. Licensee shall be responsible for the costs of any such audits; provided, however, if (i) the audit results in an overpayment by Licensee of more than ten percent ([[Percentage 2: Number]]%) of the total amounts paid by Licensee to Licensor for the relevant audit period and (ii) such overpaid amount is greater than one million RMB Yuan (¥1,000,000), Licensor shall bear the cost of such audit. 
+
+^^Territory Restrictions. Licensee shall not host or cause the Licensed Software to be hosted outside the Territory. 
+
+^^Delivery or Access. In the event that Licensee identifies any Licensed Software which it does not possess or have access to as of the Effective Date, Licensee shall notify Licensor and Licensor shall promptly deliver (or provide access) to Licensee such Licensed Software. 
+
+**LICENSEE’S OBLIGATIONS**  
+
+^^Proper Use. Licensee covenants that the Licensed Software shall be used only in a manner consistent with the provisions of this Agreement. Without Licensor’s prior written consent, Licensee shall not transfer (except as permitted pursuant to Section 9.7) or create a security interest upon the Licensed Software or this Agreement. 
+
+^^^^^ 
+^^Proprietary Legends. Licensee shall not remove or obscure any trademark, copyright notice or other proprietary or restrictive notice or legend contained or included in any or all of the Licensed Software provided by Licensor, and Licensee shall reproduce and copy all such notices and legends on all permissible copies made hereunder, including such copies as may be necessary for archival or backup purposes. 
+
+^^Identification. Except as required pursuant to Section 3.2, Licensee shall not, nor authorize any other Person to, advertise or otherwise identify Licensor as the developer or source of the Licensed Software. 
+
+^^Restrictions on Licensee’s Use.  
+
+^^Except as expressly authorized herein, Licensee shall not (a) copy, reverse engineer, decompile, reverse compile, reverse assemble or disassemble all or any portion of the Licensed Software; (b) allow access to the Licensed Software by any user or third party other than the Authorized Users; or (c) provide, disclose, divulge or make available to, or permit use of the Licensed Software by any third party. 
+
+^^If Licensee desires to migrate operation of the Licensee Websites, including the Licensed Software, to Infrastructure owned or controlled by Licensee or a third party designated by Licensee, Licensor shall use commercially reasonable efforts to cooperate with Licensee in such efforts. 
+
+^^Licensee shall not implement any Licensee Improvements, plug-ins or other applications that adversely impact the Licensed Software, Infrastructure, or their performance, including, but not limited to, (i) destabilizing or corrupting the Licensed Software or Infrastructure, (ii) slowing down performance of the Licensed Software or access to any of Licensor’s websites, or (iii) affecting the integrity of the Licensor Databases or the data maintained in the Licensor Databases. In the event any such Licensee Improvements, plug-ins or other applications are implemented by Licensee, Licensee shall promptly remove or disable the offending Software upon notice from Licensor of the adverse impact. Without limiting the foregoing, Licensee shall notify Licensor of any Licensee Improvements, plug-ins or other applications that may adversely impact the Licensed Software, Infrastructure, or their performance prior to implementation so that Licensee and Licensor may work together in good faith to determine any potential impact of such Software and/or workarounds. 
+
+**OWNERSHIP**  
+
+^^Licensor Ownership. Licensee acknowledges that, as between Licensor and Licensee, Licensor is the owner of all right, title and interest, including intellectual property rights, in, to and under the Licensed Software, regardless of any technical, programming or financial assistance or cooperation provided to Licensor by or on behalf of Licensee to facilitate the operation and maintenance of the Licensed Software or the correction of any system or design errors, bugs or defects thereto (“Defects”). Licensee shall, upon the reasonable request by, and at the cost of, Licensor, take further actions and execute additional documents to establish and perfect Licensor’s ownership rights in, to and under the Licensed Software. 
+
+^^^^^ 
+Licensee shall not contest, challenge or otherwise make any claim or take any action adverse to Licensor’s ownership of or interest in the Licensed Software and any Improvements. 
+
+^^Licensee Ownership. Licensor acknowledges that, as between Licensor and Licensee, Licensee is the owner of all right, title and interest, including intellectual property rights, in, to and under any and all Improvements to the Licensed Software created by or on behalf of Licensee (including by Licensor pursuant to Section 2.8) (collectively, “Licensee Improvements”), regardless of any technical, programming or financial assistance or cooperation provided to Licensee by or on behalf of Licensor to facilitate the operation and maintenance of the Licensee Improvements or the correction of any Defects thereto but subject, in all respects, to Licensor’s rights in the Licensed Software. Licensor hereby assigns all right, title and interest, including all intellectual property rights that Licensor may have or acquire in and to the Licensee Improvements to Licensee. Licensor shall, upon the reasonable request by, and at the cost of, Licensee, take further actions and execute additional documents to establish and perfect Licensee’s ownership rights in, to and under the Licensee Improvements. 
+
+^^Licensor Improvements. Licensee hereby assigns all right, title and interest, including all intellectual property rights that Licensee may have or acquire in and to the Licensor Improvements to Licensor. Licensee shall, upon the reasonable request by, and at the cost of, Licensor, take further actions and execute additional documents to establish and perfect Licensor’s ownership rights in, to and under the Licensor Improvements. 
+
+**TERM AND TERMINATION**  
+
+^^Term. The initial term of this Agreement (the “Initial Term”) shall commence on the Effective Date and shall continue for a period of ten (10) years thereafter. Beginning twelve (12) months prior to the expiration of the Initial Term, the Parties shall use good faith efforts to negotiate an extension of the term of this Agreement (the Initial Term together with any applicable extension, the “Term”). 
+
+^^Termination for Bankruptcy. Either Party may immediately terminate this Agreement in the event that the other Party (a) becomes insolvent or unable to pay its debts as they mature; (b) makes an assignment for the benefit of its creditors; (c) seeks relief, or if proceedings are commenced against such other Party or on its behalf, under any bankruptcy, insolvency or debtors’ relief law and such proceedings have not been vacated or set aside within seven (7) days from the date of commencement thereof. 
+
+^^Termination for Breach.  
+
+^^By Licensor. Licensor may terminate this Agreement at any time in the event that the Licensee is in material default or breach of any provision of this Agreement, and, if such default or breach is capable of cure, such default or breach continues uncured for a period of thirty (30) days after receipt of written notice thereof; provided, however, that in the event that the Licensee has in good faith commenced cure within such thirty (30) day period, but cannot practically complete such cure within such thirty (30) day period, the Parties shall negotiate a reasonable additional time to cure. 
+
+^^^^^ 
+^^By Licensee. Licensee may terminate this Agreement at any time in the event that the Licensor is in material default or breach of any provision of this Agreement, and, if such default or breach is capable of cure, such default or breach continues uncured for a period of thirty (30) days after receipt of written notice thereof; provided, however, that in the event that the Licensor has in good faith commenced cure within such thirty (30) day period, but cannot practically complete such cure within such thirty (30) day period, the Parties shall negotiate a reasonable additional time to cure. 
+
+^^Termination for a Change of Control. Licensor may terminate this Agreement by providing prior written notice to Licensee upon the occurrence of a Change of Control. 
+
+^^Termination in the Event of Termination of Agency Agreement. In the event that the Agency Agreement is terminated pursuant to Section 9.02(c)(iii) or 9.02(d)(i) thereof, this Agreement shall automatically be terminated as of the effective date of the termination of the Agency Agreement and shall thereafter be of no further force or effect except as set forth in Section 5.7. 
+
+^^Effect of Termination. Upon termination (but not expiration) of this Agreement for any reason, Licensee shall be entitled to use the Licensed Software for a limited period of time, not to exceed ninety (90) days, during which it shall diligently work to transition to another solution. Upon expiration of this Agreement or of such 90-day period, as applicable, Licensee shall immediately discontinue all use of and access to the Licensed Software, including any archival and maintenance copies, and at Licensor’s request, destroy or promptly return all portions of the Licensed Software to Licensor and certify that such action was taken. 
+
+^^Survival. The duties and obligations of the Parties under Articles IV, V, VII, VIII and IX and Section 6.3 of this Agreement shall survive any termination or expiration of this Agreement. 
+
+**REPRESENTATIONS AND WARRANTIES** 
+
+^^Representations and Warranties.  
+
+^^By Each Party. Each of Licensee and Licensor represents and warrants to the other Party that: (a) it is a corporation duly incorporated, validly existing and in good standing under the applicable Law; (b) the execution, delivery and performance of this Agreement and the consummation of the transactions contemplated hereby are within its corporate powers; (c) it has taken necessary steps to obtain authority and all necessary consents and approvals of any other third party and Governmental Authority to execute and perform this Agreement; (d) this Agreement has been duly executed and delivered by it and constitutes its valid and binding obligation, enforceable against it in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, or other laws affecting the rights of creditors’ generally or by general principals of equity; and (e) the execution, delivery and performance of this Agreement will not conflict with or result in any breach of its charter or 
+
+^^^^^ 
+certificate of incorporation, bylaws, or other governing document, or any instrument, obligation, or contract to which it or its properties is bound. 
+
+^^By Licensor. Licensor represents and warrants that: 
+
+^^^It has the right to grant the licenses granted to Licensee hereunder; 
+
+^^^The Licensed Software, the Infrastructure and the Support Services together constitute all of the Software, Infrastructure and Support Services provided by Licensor to Licensee as of the Effective Date; and 
+
+^^^The rights granted hereunder in connection with the Licensed Software and Infrastructure are substantially similar to the rights that were provided to Licensee in respect of the Licensed Software and Infrastructure prior to the Effective Date. 
+
+^^No Other Warranties. In no event shall Licensor be liable to Licensee for any failure of the Licensed Software if any component of the Licensed Software has been (i) installed or operated by Licensee in a manner inconsistent with the provisions of this Agreement or modified by a Person other than Licensor (including Licensee) without the written approval of Licensor; (ii) damaged by negligence or misuse by other than Licensor or by fire, casualty, or other external causes; or (iii) subjected to unusual physical or electrical stress. 
+
+^^Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES AND UNDERTAKINGS SET FORTH IN THIS AGREEMENT OR THE SHARE PURCHASE AGREEMENT, THE LICENSED SOFTWARE IS LICENSED “AS IS,” AND LICENSOR DISCLAIMS ALL WARRANTIES RESPECTING THE LICENSED SOFTWARE PROVIDED UNDER THIS AGREEMENT, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, VALIDITY, NONINFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE OR ANY WARRANTIES THAT MAY BE OTHERWISE IMPLIED FROM ANY COURSE OF DEALING OR COURSE OF PERFORMANCE OR USAGE. EXCEPT AS EXPRESSLY SET FORTH HEREIN OR IN THE SHARE PURCHASE AGREEMENT, LICENSEE ASSUMES THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LICENSED SOFTWARE AND ANY RESULTS DERIVED THEREFROM. 
+
+^^Indemnification by Licensor. Licensor shall defend, indemnify and hold harmless Licensee and its Affiliates, and their respective officers, directors, employees, agents, shareholders, successors and assigns, (collectively, the “Licensee Parties”) from and against any claim, suit, demand or action (“Action”), and any and all direct losses suffered or incurred by Licensee in connection with any third party claims (a) arising out of or resulting from any breach by Licensor of any provision of this Agreement, or (b) that Licensee’s use of the Licensed Software infringes on any intellectual property rights of such third party, provided, however, that Licensee’s use is consistent with the terms of this Agreement and that the Action is not caused by the use of the Licensed Software or any component thereof in combination with any other 
+
+^^^^^ 
+system, equipment or Software where but for such use, the Action for infringement would not lie. Licensor’s obligation to indemnify Licensee shall be conditioned on (a) Licensee’s provision to Licensor of prompt notice of such an Action (except where any delay does not materially prejudice Licensor); (b) Licensee’s reasonable cooperation with Licensor in the defense and settlement of such an Action at Licensor’s cost; and (c) Licensor having exclusive control of the defense, settlement and/or compromise of such an Action (provided that Licensor may not settle any Action in a manner that adversely affects Licensee without Licensee’s prior written consent, not to be unreasonably withheld or delayed). 
+
+^^Indemnification by Licensee. Licensee shall defend, indemnify and hold harmless Licensor and its Affiliates, and their respective officers, directors, employees, agents, shareholders, successors and assigns, (collectively, the “Licensor Parties”) from and against any Action, and any and all direct losses suffered or incurred by Licensor in connection with any third party claims arising out of or resulting from any breach by Licensee of any provision of this Agreement. Licensee’s obligation to indemnify Licensor shall be conditioned on (a) Licensor’s provision to Licensee of prompt notice of such an Action (except where any delay does not materially prejudice Licensee); (b) Licensor’s reasonable cooperation with Licensee in the defense and settlement of such an Action at Licensee’s cost; and (c) Licensee having exclusive control of the defense, settlement and/or compromise of such an Action (provided that Licensee may not settle any Action in a manner that adversely affects Licensor without Licensor’s prior written consent, not to be unreasonably withheld or delayed). 
+
+^^Infringement. Licensor shall have the exclusive right, but not the obligation, with respect to the Licensed Software to prosecute claims of infringement, misappropriation or similar claims that stem from the activities of a third party. In the event that Licensor elects to bring any action, Licensee shall reasonably assist Licensor at Licensor’s cost in such action if so requested, and shall lend its name to such action if requested by Licensor or required by applicable Law. No settlement of any such action which materially restricts the scope of, or materially and adversely affects the enforceability of, any intellectual property rights in the Licensed Software may be entered into by Licensor without the prior written consent of Licensee, which consent shall not unreasonably withheld or delayed. All costs and expenses incurred in an action brought by Licensor shall be borne by Licensor and all recoveries in such an action shall be for the benefit of Licensor. 
+
+^^Compliance with Laws. Licensee shall not use the Licensed Software in contravention of any applicable Law. 
+
+**CONFIDENTIALITY**  
+
+^^Licensed Software. (a) Licensee acknowledges that the Licensed Software is Confidential Information of Licensor. For purposes of this Agreement, “Confidential Information” shall mean information, documents and other tangible things, provided by either Party to the other, in whatever form, relating to such Party’s business and marketing, including such Party’s financial information, personal information, customer lists, product plans and marketing plans, whether alone or in its compiled form and whether marked as confidential or 
+
+^^^^^ 
+not, and, for the avoidance of doubt, Licensed Software shall be deemed to be Confidential Information of Licensor. 
+
+^^Confidential Information. In connection with this Agreement, either Party (the “Recipient”) may obtain certain Confidential Information of the other Party. The Recipient shall maintain in confidence all Confidential Information and shall not disclose such Confidential Information to any third party without the express written consent of the other Party except to those of its employees, subcontractors, consultants, representatives and agents as are necessary in connection with activities as contemplated by this Agreement. In maintaining the confidentiality of Confidential Information, the Recipient shall exercise the same degree of care that it exercises with its own confidential information, and in no event less than a reasonable degree of care. The Recipient shall ensure that each of its employees, subcontractors, consultants, representatives and agents holds in confidence and makes no use of the Confidential Information for any purpose other than those permitted under this Agreement or otherwise required by applicable Law. Upon request by the other Party, the Recipient shall return, destroy or otherwise handle as instructed by the other Party, any documents or software containing such Confidential Information, and shall not continue to use such Confidential Information. 
+
+^^Exceptions. The obligation of confidentiality contained in Section 8.2 shall not apply to the extent that (i) the Recipient is required to disclose information by order or regulation of a Governmental Authority or a court of competent jurisdiction; provided, however, that, to the extent permitted by applicable Law, the Recipient shall not make any such disclosure without first notifying the other Party and allowing the other Party a reasonable opportunity to seek injunctive relief from (or a protective order with respect to) the obligation to make such disclosure; or (ii) the Recipient can demonstrate that (a) the disclosed information was at the time of such disclosure to the Recipient already in (or thereafter enters) the public domain other than as a result of actions of the Recipient, its directors, officers, employees or agents in violation hereof, (b) the disclosed information was rightfully known to the Recipient prior to the date of disclosure (other than pursuant to disclosure by the other Party pursuant to other agreements in effect between the Parties), or (c) the disclosed information was received by the Recipient on an unrestricted basis from a source unrelated to any Party and not under a duty of confidentiality to the other Party. 
+
+**GENERAL PROVISIONS**  
+
+^^Taxes. Each Party shall be responsible for taxes that should be borne by it in accordance with applicable Law. If any Party pays any taxes that should have been borne by the other Party in accordance with Law, such other Party shall reimburse such Party within seven (7) days after its receipt of documentation evidencing such tax payment so incurred by such Party. 
+
+^^Expenses. Except as otherwise specified in this Agreement, all costs and expenses, including, fees and disbursements of counsel, financial advisors and accountants, incurred in connection with this Agreement and the transactions contemplated by this Agreement shall be borne by the party incurring such costs and expenses, whether or not the Closing shall have occurred. 
+
+^^^^^ 
+^^Notices. All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given, made or received (i) on the date of delivery if delivered in person or by messenger service, (ii) on the date of confirmation of receipt of transmission by facsimile (or, the first (1st) Business Day following such receipt if (a) such date of confirmation is not a Business Day or (b) confirmation of receipt is given after 5:00 p.m., Beijing time) or (iii) on the date of confirmation of receipt if delivered by an internationally recognized overnight courier service or registered or certified mail (or, the first (1st) Business Day following such receipt if (a) such date of confirmation is not a Business Day or (b) confirmation of receipt is given after 5:00 p.m., Beijing time) to the respective parties hereto at the following addresses (or at such other address for a party as shall be specified in a notice given in accordance with this Section 9.3): 
+
+if to Licensor:  
+
+
+20/F Beijing Ideal International Plaza
+
+No. 58 Northwest 4th Ring Road
+
+Haidian District, Beijing, 100090
+
+People’s Republic of China
+
+Facsimile: +86 10 8260 7166
+
+Attention: Head of Legal Department ([[Person 1 First Name]] [[Person 1 Last Name]]) 
+
+with a copy (which shall not constitute notice) to: 
+
+Shearman & Sterling LLP
+
+12th Floor East Tower, Twin Towers
+
+B-12 Jianguomenwai Dajie
+
+Beijing 100022
+
+People’s Republic of China
+
+Facsimile: +86 10 6563 6001
+
+Attention: [[Person 2 First Name]] [[Person 2 Last Name]], Esq. 
+
+if to Licensee:  
+[[Organization 2 Name]]
+
+c/o [[Organization 4 Name]] Limited
+
+No. 383 Guangyan Road
+
+Shanghai 200072
+
+People’s Republic of China
+
+Facsimile: +86 (21) 6086 7111
+
+Attention: President 
+
+with a copy (which shall not constitute notice) to: 
+
+[[Organization 8 Name]]
+
+42/F, Edinburgh Tower, The Landmark 
+^Queen’s Road Central, Hong Kong 
+
+^^^^^ 
+Facsimile: +852 3740 4727
+
+Attention: [[Person 3 First Name]] [[Person 3 Last Name]], Esq. and [[Person 4 First Name]] [[Person 4 Last Name]], Esq. 
+
+^^Public Announcements. Other than (i) the filing with the SEC of the Form F-l, any amendments thereto and any other documents filed in connection with the Form F-l, including the filing of this Agreement or (ii) any communications with the relevant stock exchange or regulators in connection with the IPO, in each case, as deemed necessary or desirable in the sole discretion of CRIC, neither party to this Agreement shall make, or cause to be made, any press release or public announcement in respect of this Agreement or the transactions contemplated by this Agreement or otherwise communicate with any news media without the prior written consent of the other party unless otherwise required by Law or applicable stock exchange regulation, and the parties to this Agreement shall cooperate as to the timing and contents of any such press release, public announcement or communication. 
+
+^^Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any Law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect for so long as the economic or legal substance of the transactions contemplated by this Agreement is not affected in any manner materially adverse to either party hereto. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated by this Agreement are consummated as originally contemplated to the greatest extent possible. 
+
+^^Entire Agreement. This Agreement constitutes the entire agreement of the Parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, with respect to the subject matter hereof and thereto (including the Original Agreement). 
+
+^^Assignment. This Agreement and any rights or authority granted hereunder shall not be assigned or transferred by either Party, including by operation of law, merger or otherwise, without the express written consent of the other Party, provided that Licensor may assign this Agreement without consent to any of its Affiliates and Licensee may assign this Agreement without consent to an Affiliate that is controlled by Licensee. 
+
+^^Amendment. This Agreement may not be amended or modified except (a) by an instrument in writing signed by, or on behalf of, both Parties or (b) by a waiver in accordance with Section 9.9. 
+
+^^Waiver. Either Party may (a) extend the time for the performance of any of the obligations or other acts of the other Party, (b) waive any inaccuracies in the representations and warranties of the other Party contained herein or in any document delivered by the other party pursuant hereto or (c) waive compliance with any of the agreements of the other Party or conditions to such Party’s obligations contained herein. Any such extension or waiver shall be valid only if set forth in an instrument in writing signed by the Party to be bound thereby. No waiver of any representation, warranty, agreement, condition or obligation granted pursuant to this Section 9.9 or otherwise in accordance with this Agreement shall be construed as 
+
+^^^^^ 
+^^waiver of any prior or subsequent breach of such representation, warranty, agreement, condition or obligation or any other representation, warranty, agreement, condition or obligation. The failure of either party hereto to assert any of its rights hereunder shall not constitute a waiver of any of such rights. 
+
+^^No Third Party Beneficiaries. Except for the provisions of Article VII relating to indemnified parties, this Agreement shall be binding upon and inure solely to the benefit of the Parties and their respective successors and permitted assigns and nothing herein, express or implied (including the provisions of Article VII relating to indemnified parties), is intended to or shall confer upon any other Person any legal or equitable right, benefit or remedy of any nature whatsoever, including any rights of employment for any specified period, under or by reason of this Agreement. 
+
+^^Governing Law. This Agreement and any dispute or claim arising out of or in connection with it or its subject matter shall be governed by, and construed in accordance with, the laws of the People’s Republic of China (without regard to its conflicts of laws rules that would mandate the application of the laws of another jurisdiction). 
+
+^^Dispute Resolution. (a) Any dispute, controversy or claim arising out of or relating to this Agreement, or the breach, termination or invalidity thereof (each, a “Dispute”), shall to the extent possible be settled through friendly consultation among the Parties hereto. The claiming Party (the “Claimant”) shall promptly notify the other Party (the “Respondent”) in a dated written notice that a Dispute has arisen and describe the nature of the Dispute. Any Dispute which remains unresolved within sixty (60) days after the date of such written notice shall be submitted to the China International Economic and Trade Arbitration Commission (the “Commission”) to be finally settled by arbitration in Beijing, PRC in accordance with the Commission’s then effective rules (the “Rules”) and this Section 9.12. The language of the arbitration shall be Mandarin Chinese. 
+
+^^The arbitration tribunal shall consist of three (3) arbitrators. The Claimant shall appoint one (1) arbitrator, the Respondent shall appoint one (1) arbitrator, and the two (2) arbitrators so appointed shall appoint a third arbitrator. If the Claimant and the Respondent fail to appoint one (1) arbitrator, or the two (2) arbitrators appointed fail to appoint the third arbitrator within the time periods set by the then effective Rules, the relevant appointment shall be made promptly by the Commission. 
+
+^^Any award of the arbitration tribunal established pursuant to this Section 9.12 shall be final and binding upon the Parties, and enforceable in any court of competent jurisdiction. The Parties shall use their best efforts to effect the prompt execution of any such award and shall render whatever assistance as may be necessary to this end. The prevailing Party (as determined by the arbitrators) shall be entitled to reimbursement of its costs and expenses, including reasonable attorney’s fees, incurred in connection with the arbitration and any judicial enforcement, unless the arbitrators determine that it would be manifestly unfair to honor this agreement of the Parties and determine a different allocation of costs. 
+
+^^^^^ 
+^^The foregoing provisions in this Section 9.12 shall not preclude any Party from seeking interim or conservatory remedies, including injunctive relief, from any court having jurisdiction to grant such relief. 
+
+^^No Presumption. The Parties acknowledge that each has been represented by counsel in connection with this Agreement and the transactions contemplated by this Agreement. Accordingly, any applicable Law that would require interpretation of any claimed ambiguities in this Agreement against the Party that drafted it has no application and is expressly waived. If any claim is made by a Party relating to any conflict, omission or ambiguity in the provisions of this Agreement, no presumption or burden of proof or persuasion will be implied because this Agreement was prepared by or at the request of any Party or its counsel. 
+
+^^Specific Performance. The parties hereto acknowledge and agree that irreparable damage would occur if any of the provisions of this Agreement are not performed in accordance with their specific terms and that any breach of this Agreement could not be adequately compensated in all cases by monetary damages alone. Accordingly, in addition to any other right or remedy to which a party hereto may be entitled, at law or in equity, it shall be entitled to enforce any provision of this Agreement by a decree of specific performance and to temporary, preliminary and permanent injunctive relief to prevent breaches or threatened breaches of any of the provisions of this Agreement, without posting any bond or other undertaking. 
+
+^^Force Majeure. Neither Party shall be liable for failure to perform any of its obligations under this Agreement during any period in which such Party cannot perform due to hacker attack, fire, flood or other natural disaster, war, embargo, riot or the intervention of any Governmental Authority, provided, however, that the Party so delayed immediately notifies the other Party of such delay. In no event shall such nonperformance by Licensee be excused due to any such event for longer than ninety (90) days. 
+
+^^Counterparts. This Agreement may be executed and delivered (including by facsimile transmission) in one or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original, but all of which taken together shall constitute one and the same agreement. 
+
+^^Termination of Original Agreement. Each Party agrees that the Original Agreement is hereby terminated as of the Effective Date and shall be of no further force or effect and, for the avoidance of doubt, no provisions of the Original Agreement survive such termination. 
+
+\centered *[SIGNATURES ON NEXT PAGE]* 
+
+^^^^^ 
+**IN WITNESS WHEREOF**, each Party hereto has caused this Agreement to be executed by its duly authorized representatives on the date first set forth above. 
+
+[[Organization 1 Name]] (China) Co. Ltd.
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Organization 2 Name]]
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+^^^^^ 
+\centered **EXHIBIT A** 
+
+\centered **LICENSED SOFTWARE** 
+
+Advertising Publishing  
+Content Publishing  
+Sales Management  
+Procurement Reimbursement  
+Financial management  
+Flow statistics  
+Monitoring and Censoring  

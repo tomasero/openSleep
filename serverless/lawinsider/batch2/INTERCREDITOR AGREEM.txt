@@ -1,0 +1,163 @@
+\centered **INTERCREDITOR AGREEMENT**
+
+\centered **SUBORDINATING PRIORITY**
+
+This INTERCREDITOR AGREEMENT (the "Agreement") is made as of this [[Date 1: Date]] by and among **[[Schwartz]]**, NY 10036 ("Schwartz"), **[[s Notes]]**,** an individual having an address at [[Address 1: Address]] ("[[s Notes]]"), **[[Senior Lender]]** having an address at [[Address 2: Address]] ("3-DRSI", and, collectively with Schwartz and [[s Notes]], the "Senior Lender"), **[[Junior Lender]]** with a place of business at [[Address 3: Address]], Attention: Chief Executive Officer (the "Junior Lender"), and **[[Borrower]]** with a place of business at [[Address 4: Address]], Attention: **[[s Notes]]** (the "Borrower").
+
+\centered WITNESSETH:
+
+WHEREAS, Borrower is indebted to Senior Lender under (i) that certain Amended and Restated Promissory Note dated as of the date hereof in the original principal amount of $[[USD Value 1: Number]] evidencing Borrower's indebtedness to Schwartz, (ii) that certain Amended and Restated Promissory Note dated as of the date hereof in the original principal amount of $[[USD Value 2: Number]] evidencing Borrower's indebtedness to [[s Notes]], and (iii) that certain Amended and Restated Promissory Note dated as of the date hereof in the original principal amount of $[[USD Value 3: Number]] evidencing Borrower's indebtedness to 3-DRSI (each a "Note" and, collectively, the "Senior Lender's Notes"); and
+
+WHEREAS, the Senior Lender's Notes are secured, respectively, by those certain security agreements entered into as of the date hereof, by and between (i) Borrower and Schwartz, (ii) Borrower and [[s Notes]], and (iii) Borrower and 3-DRSI (collectively, the "Senior Lender's Security Agreements")
+
+WHEREAS, Borrower is indebted to Junior Lender under that certain Promissory Note dated as of the date hereof in the original principal amount of $[[USD Value 4: Number]] (the "Junior Lender's Note"), which is secured by that certain Security Agreement entered into as of the date hereof, by and between Borrower and Junior Lender (the "Junior Lender's Security Agreement"); and
+
+WHEREAS, pursuant to the Senior Lender's Security Agreements, Borrower has granted Senior Lender (a) a continuing first priority security interest in all of the Property (as defined in that certain Asset Purchase Agreement dated [[Date 2: Date]], by and among Borrower, Junior Lender, and [[Organization 1 Name]], a Delaware corporation and wholly-owned subsidiary of Junior Lender (the "APA")) other than (i) the Account Receivables and (ii) the Post-Closing Receivables (as such terms are defined in the APA), and (b) a continuing second priority security interest to Junior Lender in (i) the Account Receivables and (ii) the Post-Closing Receivables; and
+
+WHEREAS, pursuant to the Junior Lender's Security Agreement, Borrower has granted Junior Lender (a) a continuing first priority security interest in (i) the Account Receivables and (ii) the Post-Closing Receivables, and (b) a continuing second priority security interest to Senior Lender in all of the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables (hereinafter, the Account Receivables, the Post-Closing Receivables, and the other Property are collectively referred to as the "Collateral"); and
+
+WHEREAS, (a) Senior Lender and Junior Lender desire to establish their respective rights with respect to the Collateral, (b) Junior Lender desires to subordinate its security interest in the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables to Senior Lender's security interest therein, and (c) Senior Lender desires to subordinate its security interest in (i) the Account Receivables and (ii) the Post-Closing Receivables to Junior Lender's security interest therein.
+
+NOW THEREFORE, the parties hereto hereby agree as follows:
+
+^**Rights and Remedies With Respect to Property other than Account** **Receivables and Post-Closing Receivables**. Junior Lender agrees that notwithstanding the respective dates of execution or delivery, or the relative order or time of filing or recording, the priority of the liens and security interests which secure the Junior Lender's Note with respect to its rights in and to the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables shall at all times be subordinate to the liens and security interests which secure the Senior Lender's Notes with respect to the rights in and to the Property othe r than (i) the Account Receivables and (ii) the Post-Closing Receivables enjoyed by Senior Lender.
+
+^**Rights and Remedies With Respect to the Account Receivables and the Post-****Closing Receivables**. Senior Lender agrees that notwithstanding the respective dates of execution or delivery, or the relative order or time of filing or recording, the priority of the liens and security interests which secure the Senior Lender's Notes with respect to its rights in and to (i) the Account Receivables and (ii) the Post-Closing Receivables shall at all times be subordinate to the liens and security interests which secure the Junior Lender's Note with respect to the rights in and to (i) the Account Receivables and (ii) the Post-Clos ing Receivables enjoyed by Junior Lender.
+
+^**Foreclosure on the Property other than the Account Receivables and the Post-****Closing Receivables**. If, following an Event of Default (as defined in the Junior Lender's Note), Junior Lender elects to foreclose or otherwise enforce any lien or security interest with respect to Junior Lender's rights in and to the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables under the Junior Lender's Security Agreement, then:
+
+^^Junior Lender shall, prior to commencing any foreclosure or enforcement action, provide thirty (30) days prior written notice to Senior Lender; and
+
+^^Senior Lender shall, on or before the expiration of such thirty (30) day period, have the right (but not the obligation) also to foreclose or otherwise enforce any lien or security interest with respect to Senior Lender's rights in and to the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables under the Senior Lender's Security Agreements;
+
+**provided, however,** that if under this Section 3 Senior Lender timely elects to foreclose or otherwise enforce any lien or security interest with respect to Senior Lender's rights in and to the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables under Senior Lender's Security Agreements, Junior Lender thereafter shall at all times subordinate Junior Lender's liens and security interests in the public records to the liens and security interests of Senior Lender as to all the Property other than (i) the Account Receivables and (ii) the Post-Closing Recei vables subject to the foreclosure or enforcement action, all to the effect and for the purpose of preventing the foreclosure or enforcement action by Junior Lender from discharging or in any way adversely affecting Senior Lender's security interest in the Property other than (i) the Account Receivables and (ii) the Post-Closing Receivables. Borrower hereby expressly acknowledges and agrees that an Event of Default (as defined in the Junior Lender's Note) shall be an Event of Default (as defined in the Senior Lender's Notes) and shall entitle Senior Lender to commence a foreclosure or enforcement action in accordance with the Senior Lender's Security Agreements.
+
+^**Foreclosure on Account Receivables and Post-Closing Receivables.** If, following an Event of Default (as defined in the Senior Lender's Notes), Senior Lender elects to foreclose or otherwise enforce any lien or security interest with respect to Senior Lender's rights in and to (i) the Account Receivables and (ii) the Post-Closing Receivables under the Senior Lender's Security Agreements, then:
+
+^^Senior Lender shall, prior to commencing any foreclosure or enforcement action, provide thirty (30) days prior written notice to Junior Lender; and
+
+^^Junior Lender shall, on or before the expiration of such thirty (30) day period, have the right (but not the obligation) also to foreclose or otherwise enforce any lien or security interest with respect to Junior Lender's rights in and to (i) the Account Receivables and (ii) the Post-Closing Receivables under the Junior Lender's Security Agreement;
+
+**provided, however,** that if under this Section 4 Junior Lender timely elects to foreclose or otherwise enforce any lien or security interest with respect to Junior Lender's rights in and to (i) the Account Receivables and (ii) the Post-Closing Receivables under Junior Lender's Security Agreement, Senior Lender thereafter shall at all times subordinate Senior Lender's liens and security interests in the public records to the liens and security interests of Junior Lender as to all (i) the Account Receivables and (ii) the Post-Closing Receivables subject to the foreclosure or enforcement action, all to the effect and for the purpose of preventing the foreclosure or enforcement action by Senior Lender from discharging or in any way adversely affecting Junior Lender's security interest in (i) the Account Receivables and (ii) the Post-Closing Receivables. Borrower hereby expressly acknowledges and agrees that an Event of Default (as defined in the Senior Lender's Notes) shall be an Event of Default (as defined in the Junior Lender's Note) and shall entitle Junior Lender to commence a foreclosure or enforcement action in accordance with the Junior Lender's Security Agreement.
+
+^**Limitations on Payment; Cross-Default; Cost of Collection**.
+
+^^Notwithstanding anything to the contrary in this Agreement, Junior Lender shall at all times have the right to ask, demand, take and receive payments from Borrower as and when same may become due pursuant to the Junior Lender's Note, without limitation. Additionally, at any time from and after the date Senior Lender gives Junior Lender written notice that an "Event of Default" exists under the Senior Lender's Notes, (i) Junior Lender may immediately exercise its rights with respect to (A) the Account Receivables and (B) the Post-Closing Receivables under the Junior Lender's Security Agreement (including, without limitation, foreclosing or otherwise enforcing any lien or security interest with respect thereto), and/or (ii) subject to the provisions of Section 3 above, Junior Lender may immediately exercise its rights with respect to the Property other than (A) the Account Receivables and (B) the Post-Closing Receivables under the Junior Lender's Security Agreement (including, without limitation, foreclosing or otherwise enforcing any lien or security interest with respect thereto). Senior Lender agrees that, if Senior Lender gives to Junior Lender written notice that an Event of Default exists under the Senior Lender's Notes, Senior Lender will give Junior Lender written notice that such Event of Default has been cured or waived within three (3) business days of such cure or waiver.
+
+^^So long as the Junior Lender's Note (or any portion thereof) remains unpaid and outstanding, Senior Lender shall not ask, demand, take or receive from Borrower (and Borrower shall in no event make) any payments of principal under the Senior Lender's Notes.
+
+^^Except as expressly set forth in Section 5(b) above, Senior Lender shall at all times have the right to ask, demand, take and receive payments from Borrower as and when same may become due pursuant to the Senior Lender's Notes, without limitation. Additionally, at any time from and after the date Junior Lender gives Senior Lender written notice that an "Event of Default" exists under the Junior Lender's Note, (i) Senior Lender may immediately exercise its rights with respect to the Property other than (A) the Account Receivables and (B) the Post-Closing Receivables under the Senior Lender's Security Agreements (including, without limitation, foreclosing or otherwise enforcing any lien or security interest with respect thereto), and/or (ii) subject to the provisions of Section 4 above, Senior Lender may immediately exercise its rights with respect (A) the Account Receivables and (B) the Post-Closing Receivables under the Senior Lender's Security Agreements (including, without limitation, foreclosing or otherwise enforcing any lien or security interest with respect thereto). Junior Lender agrees that, if Junior Lender gives to Senior Lender written notice that an Event of Default exists under Junior Lender's Note, Junior Lender will give Senior Lender written notice that such Event of Default has been cured or waived within three (3) business days of such cure or waiver.
+
+^^Upon the occurrence of an Event of Default under (i) Senior Lender's Notes, (ii) Senior Lender's Security Agreements, (iii) Junior Lender's Note, and/or (iii) Junior Lender's Security Agreement, Borrower promises to pay all costs and expenses of each lender, including attorneys' fees, incurred by the applicable lender in connection with collection of the principal of the applicable note or interest thereon when due, whether at maturity, as therein provided, or by reason of acceleration of maturity unde r the terms thereof, and/or in the protection or realization of any collateral, now or hereafter given as security for the repayment thereof.
+
+^**Rights of Schwartz, [[s Notes]] and 3-DRSI**. Schwartz, [[s Notes]] and 3-DRSI hereby agree that their respective rights under the Senior Lender's Notes, the Senior Lender's Security Agreements, and this Agreement, including, without limitation, their rights to receive payment from the Borrower, shall be in direct proportion to the principal balance plus accrued interest then outstanding on each of their respective Notes.
+
+^**Notice of Default**. The parties agree to provide each other party with notice in the event any of them declares Borrower to be in default with respect to the Senior Lender's Notes or Junior Lender's Note. Although the parties have agreed to provide notices of default, the failure of a party to provide the notices of default described herein shall not negate or in any way adversely affect or impair the validity of the declaration of default declared by the party declaring Borrower in default.
+
+^**No Third Party Beneficiaries**. This Agreement and the terms and provisions hereof are solely for the benefit of the parties hereto and shall not benefit in any way any person not specifically a party to this Agreement, including, but not limited to, Borrower or any guarantors. Subject to the terms and conditions of this Agreement, the parties hereto specifically reserve any and all of their respective rights, liens and security interests and right to assert liens and security interests against Borrower and any third parties, including guarantors.
+
+^**Rights are Independent of Time of Attachment or Perfection**. The parties agree that their respective rights and priorities set forth herein shall exist and be enforceable independent of the time or order of attachment or perfection of the respective liens and security interests, or the time or order of the filing of financing statements or the receipt of possession or control of any Collateral. Each party, nevertheless, agrees to make such filings and recordings in the public records to evidence the subordinations and priorities made herein as the other parties may reasonably request.
+
+^**Agreement Conditioned Upon Validity and Perfection**. The priority of each party with respect to the Collateral specified in this Agreement is expressly conditioned upon the nonavoidability and perfection of the security interests to which it applies and if a security interest as to which another security interest is junior in priority is not perfected or is avoidable for any reason, then the priority arrangements provided for in this Agreement shall be ineffective as to the particular Collateral which is the subject of the unperfected or avoidable security interest. Notwithstanding the foregoing, no party to this Agreement shall contest the validity, perfection or priority of any lien or sec urity interest held by any other party to this Agreement.
+
+^**Termination, Recision or Modification**. The subordinations, agreements, and priorities set forth in this Agreement shall remain in full force and effect regardless of whether any party hereto in the future seeks to rescind, amend, terminate or reform, by liquidation or otherwise, its respective agreements with Borrower.
+
+^**Remedies**. In the event of the commencement of foreclosure or similar action by any of the parties hereto with respect to Collateral, the parties hereto agree to cooperate with each other in the exercise of their respective remedies, including, without limitation, rights of entry to premises upon which the Collateral is located. If any party to this Agreement shall be in possession of any Collateral subject to its lien and security interest after having had the indebtedness and other obligations due to it paid in full, it shall deliver (unless otherwise restricted by law and subject in all events to the receipt of an indemnification of all liabilities arising from such delivery) or surrender possession of the same to the other parties hereto as such other parties may be entitled thereto in accordance with the priorities established pursuant to this Agreement, without recourse or warranty.
+
+^**Waiver of Marshalling**. Each party to this Agreement hereby waives any right to require the other parties to marshal any of the Collateral or any other security they may have or otherwise to compel the other parties to seek recourse against or satisfaction of the indebtedness owed to them from one source before seeking recourse or satisfaction from another source.
+
+^**Relation of Parties**. This Agreement is entered into solely for the purposes set forth in the Recitals above, and, except as is expressly otherwise provided herein, none of the parties to this Agreement assumes any responsibility to the other parties to advise such other parties of information known to such party regarding the financial condition of Borrower or regarding the Collateral or of any other circumstances bearing upon the risk of nonpayment of the obligations of Borrower to the parties hereto. Each party shall be responsible for managing its relationship with Borrower and none of the parties shall be deemed to be th e agent of any other party for any purpose. Each of the parties hereto may alter, amend, supplement, release, discharge or otherwise modify any terms of the documents evidencing and embodying their respective rights to payment from Borrower without notice to or consent of the other parties.
+
+^**Notices**. Any notice required or permitted in connection with this Agreement shall be in writing and shall be made by hand delivery, by Federal Express, or other similar overnight delivery service, or by certified mail, return receipt requested, postage prepaid, addressed to the parties at the appropriate address set forth below or to such other address as may be hereafter specified by written notice by the parties and shall be considered given as of the date of hand delivery, one (1) calendar day after delivery to Federal Express or similar overnight delivery service, or two (2) calendar days after the date of mailing, independent of the date of mail delivery or whether mail delivery is ever in fact accomplished, as the case may be:
+
+If to Senior Lender:   [[Organization 2 Name]]
+
+[[Address 5: Address]]
+
+Attn: [[Person 1 First Name]] [[Person 1 Last Name]]
+
+and
+
+[[Party 2]]
+
+[[Address 6: Address]] and
+
+**[[s Notes]]**
+
+[[Address 7: Address]]
+
+If to Junior Lender:   [[Organization 3 Name]]
+
+[[Address 8: Address]].Y. 10019
+
+Attn: Chief Executive Officer
+
+with a copy to
+
+[[Organization 4 Name]] Frome Rosenzweig & Wolosky LLP
+
+Park Avenue Tower
+
+[[Address 9: Address]]
+
+Attention: [[Person 2 First Name]] [[Person 2 Last Name]], Esq.
+
+Facsimile No.: [[Phone 1]]
+
+If to Borrower:   [[Organization 5 Name]]
+
+[[Address 10: Address]]
+
+Attention: **[[s Notes]]**
+
+^**Binding Nature**. This Agreement shall be binding upon the parties and their respective successors and assigns.
+
+^**Effective Date**. This Agreement shall be effective as of the date first set forth above.
+
+^**Term of Agreement**. This Agreement shall continue in full force and effect and shall be irrevocable by any party hereto until the earlier to occur of the following:
+
+^^The parties mutually agree in writing to terminate this Agreement; or
+
+^^All of the obligations owed by Borrower to the parties hereto are fully paid and satisfied and the respective security interests have been terminated and released of record.
+
+^**Section Headings**. Section and subsection headings have been inserted herein for convenience only and form no part of this Agreement and shall not be deemed to affect the meaning or construction of any of the covenants, agreements, conditions or terms hereof.
+
+^**Governing Law**. This Agreement shall be construed in accordance with and governed by the laws of the County of New York, State of New York without giving effect to its principles of conflicts of law. Borrower hereby consents to service of process, and to be sued, in the State of New York and consents to the jurisdiction of the courts of the County of New York, State of New York and the United States District Court for the Southern District of New York, for the purpose of any suit, action, or other proceeding arising hereunder, and expressly waives any and all objections it may have to venue in any such courts.
+
+^**Counterparts**. This Agreement may be executed in one or more counterparts, including by facsimile or pdf, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+\centered [SIGNATURE PAGE FOLLOWS]
+
+**IN WITNESS WHEREOF,** the parties hereto have executed this Agreement as of the date first above set forth.
+
+/s/ [[Party 2]]
+[[Party 2]]
+
+^^/ **[[s Notes]]**
+**[[s Notes]]**
+
+[[Organization 2 Name]]
+
+[[3-DRS INTERNATIONAL LTD Signatory Email: Identity | Signature]]
+__________________________________________
+{{3-DRS INTERNATIONAL LTD Entity => By: [[3-DRS INTERNATIONAL LTD Signatory First Name]] [[3-DRS INTERNATIONAL LTD Signatory Last Name]]
+Title: [[3-DRS INTERNATIONAL LTD Signatory Title]]}}
+
+
+[[Organization 3 Name]]
+
+[[[[Organization 3 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]. Entity => By: [[[[Organization 3 Name]]. Signatory First Name]] [[[[Organization 3 Name]]. Signatory Last Name]]
+Title: [[[[Organization 3 Name]]. Signatory Title]]}}
+
+
+[[Organization 5 Name]]
+
+[[[[Organization 5 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] Entity => By: [[[[Organization 5 Name]] Signatory First Name]] [[[[Organization 5 Name]] Signatory Last Name]]
+Title: [[[[Organization 5 Name]] Signatory Title]]}}
+
+
+\centered S-2

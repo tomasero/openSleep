@@ -1,0 +1,242 @@
+^^**  
+
+\centered TEMPORARY EXTENSION AGREEMENT
+
+\centered AND SECOND AMENDMENT TO CREDIT AGREEMENT
+
+THIS TEMPORARY EXTENSION AGREEMENT AND SECOND AMENDMENT TO CREDIT AGREEMENT, dated as of [[Date 1: Date]] (the "**Agreement**"), is entered into among [[Organization 1 Name]], a New York corporation (the "**Borrower**"), the Guarantors party hereto, the Lenders party hereto and [[Organization 2 Name]], N.A., as Administrative Agent (the "**Administrative Agent**"), Swing Line Lender and L/C Issuer.
+
+\centered W I T N E S S E T H
+
+WHEREAS, the Borrower, the Guarantors, the Lenders, the Swing Line Lender, the L/C Issuer and the Administrative Agent entered into that certain Credit Agreement, dated as of [[Date 2: Date]] (as amended and modified from time to time, the "**Credit Agreement**");
+
+WHEREAS, the Borrower previously has notified the Administrative Agent and the Lenders that (a) the Borrower has undertaken a review of whether certain revenues and associated costs under certain customer contracts, recognized during fiscal years 2002 through 2008 and the first two quarters of fiscal year 2009 by its Computer Systems segment, should be recognized in periods other than the periods in which they were recognized, and (b) the Borrower has identified certain errors during fiscal years 2002 through 2008 and the first two quarters of fiscal year 2009 in the application of accounting literature to revenue recognition for certain of these multi-year customer arrangements for telephone systems with multiple deliverables, some of which included customized software (collectively, the "Revenue Recognition Considerations"), by virtue of which it will or may be necessary to restate one or more financial statements heretofore furnished to the Administrative Agent and the Lenders;
+
+WHEREAS, the Borrower acknowledges that, pending completion of the Revenue Recognition Considerations, it is desirable that the Loan Parties delay furnishing to the Administrative Agent and the Lenders the financial statements required under Section 7.01(a) of the Credit Agreement, with respect to fiscal year 2009 (ended [[Date 3: Date]]), which delay also will affect delivery of the certificate of their independent certified public accountants required under Section 7.02(a) of the Credit Agreement and the Compliance Certificate required under Section 7.02(b) of the Credit Agreement (collectively, the "**2009 Financial Statement Deliverables**");
+
+WHEREAS, the parties hereto have agreed (a) to temporarily extend the time for the Loan Parties to deliver the 2009 Financial Statement Deliverables, (b) to temporarily disregard the impact of the Revenue Recognition Considerations on (i) the computation of the financial covenants set forth in Section 8.11 of the Credit Agreement and (ii) the accuracy of the representations and warranties set forth in Sections 6.05(a) and (b) of the Credit Agreement and (c) to amend the Credit Agreement as set forth herein;
+
+NOW, THEREFORE, IN CONSIDERATION of the premises and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows:
+
+^**Definitions**. Unless the context otherwise requires, capitalized terms used but not otherwise defined herein shall have the meanings assigned in the Credit Agreement.
+
+^**Reaffirmation of Existing Debt**. The Loan Parties acknowledge and confirm as of the date hereof (a) that the Borrower's obligation to repay the outstanding principal amount of the Loans and reimburse the L/C Issuer for any drawing on a Letter of Credit is unconditional and not subject to any offsets, defenses or counterclaims, (b) that the Administrative Agent and the Lenders have performed 
+
+fully all of their respective obligations under the Credit Agreement and the other Loan Documents, and (c) by entering into this Agreement, the Lenders do not waive or release (except as specifically provided in Section 3 hereof) any term or condition of the Credit Agreement or any of the other Loan Documents or any of their rights or remedies under such Loan Documents or applicable law or any of the obligations of any Loan Party thereunder.
+
+^**Temporary Extension**.  
+^^The Lenders hereby agree to temporarily extend the deadline for delivery of the 2009 Financial Statement Deliverables until the Extension Date (defined below). "**Extension Date**" means the earliest of (i) [[Date 4: Date]], (ii) the date of completion of the audit for fiscal year 2009 or (iii) the occurrence of any Default. The period from the date hereof through the Extension Date shall be referred to as the "**Extension Period**".
+
+^^During the Extension Period, the Lenders hereby agree to temporarily disregard the impact, if any, of the Revenue Recognition Considerations (i) on the computation of the financial covenants set forth in Section 8.11 of the Credit Agreement and (ii) the accuracy of the representations and warranties set forth in Sections 6.05(a) and (b) of the Credit Agreement.
+
+^**Amendments to Credit Agreement**.  
+^^Section 1.01. The definition of "**Consolidated EBITDA**" in Section 1.01 of the Credit Agreement is hereby amended to read as follows:
+
+"**Consolidated EBITDA**" means, for any period for the Borrower and its Subsidiaries on a consolidated basis, an amount equal to Consolidated Net Income for such period **plus** (i) the following to the extent deducted in calculating such Consolidated Net Income: (a) Consolidated Interest Charges for such period, (b) the provision for federal, state, local and foreign income taxes payable by the Borrower and its Subsidiaries for such period, (c) the amount of depreciation and amortization expense for such period, (d) extraordinary losses for such period, (e) losses on the sales of assets outside of the ordinary course of business for such period, (f) non-recurring restructuring and impairment charges for such per iod (provided that the aggregate amount of all such charges that are incurred after [[Date 5: Date]] and added back to Consolidated Net Income pursuant to this subclause (f) shall not exceed $[[USD Value 1: Number]] during the term of this Agreement of which no more than $[[USD Value 2: Number]] can consist of cash charges and/or accruals of or reserves for cash expenses in any future period)) and (g) expenses accrued for the fiscal quarter ended [[Date 3]] in connection with the California Arbitration Settlement, in an aggregate amount not to exceed $[[USD Value 3: Number]] **minus** (ii) the following to the extent included in calculating such Consolidated Net Income: (a) extraordinary gains for such period and (b) gains on the sales of assets outside of the ordinary course of business for such period, all as determined in accordance with GAAP.
+
+^^Section 1.01. The following new definition is hereby added to Section 1.01 of the Credit Agreement in the appropriate alphabetical order to read as follows:
+
+"**California Arbitration Settlement**" means the settlement of a certain arbitration proceeding pending in the State of California and heretofore described in writing by the Borrower to the Administrative Agent and the Lenders.
+
+^**Extension Period Covenant**. During the Extension Period, the Loan Parties shall maintain unrestricted cash and Cash Equivalents, on a consolidated basis, in excess of the aggregate amount of all Indebtedness of the Loan Parties, on a consolidated basis.
+
+^**Applicable Rate**. The Applicable Rate in effect from the date of this Agreement through and including the Extension Date shall be determined based upon Pricing Tier V.
+
+^**Conditions Precedent**. This Agreement shall be effective upon satisfaction of the following conditions precedent:
+
+^^Receipt by the Administrative Agent of copies of this Agreement duly executed by the Loan Parties, the Required Lenders and the Administrative Agent.
+
+^^Receipt by the Administrative Agent of unaudited, company-prepared financial statements for the fiscal year ended [[Date 3]] and a duly completed Compliance Certificate, based on such company-prepared financial statements, demonstrating that no Default exists and the Loan Parties are in compliance with the financial covenants set forth in Section 8.11 of the Credit Agreement.
+
+^^Receipt by the Administrative Agent, for the account of each Lender executing this Agreement, of a fee of [[Percentage 1: Number]]% of such Lender's Revolving Commitment; provided that such fee shall reduce any other amendment fee payable to such Lender within 90 days after the date of this Agreement.
+
+^^Receipt by the Administrative Agent of all fees and expenses owed by the Loan Parties to the Administrative Agent.
+
+^**Effect**. Except as expressly modified and amended in this Agreement, all of the terms, provisions and conditions of the Credit Agreement are and shall remain in full force and effect, and the obligations of the Loan Parties hereunder and under the other Loan Documents are hereby ratified and confirmed and shall remain in full force and effect. Any and all other documents heretofore, now or hereafter executed and delivered pursuant to the terms of the Credit Agreement are hereby amended so that any reference to the Credit Agreement shall mean a reference to the Credit Agreement as amended hereby.
+
+^**Representations and Warranties**. Each Loan Party represents and warrants to the Lenders that (i) the representations and warranties set forth in Article VI of the Credit Agreement are true and correct in all material respects on and as of the date of this Agreement, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct as of such earlier date, (ii) no Default exists and (iii) as of the date hereof, no Loan Party has any counterclaims, offsets, credits or defenses to the Loan Documents and the performance of their respective obligations thereunder, or if a Loan Party has any such claims, counterclaims, o ffsets, credits or defenses to the Loan Documents or any transaction related to the Loan Documents, the same are hereby waived, relinquished and released in consideration of the Lenders' execution and delivery of this Agreement.
+
+^**Successors and Assigns**. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+^**Authorization; Enforceability**. Each Loan Party hereby represents and warrants as follows:
+
+^^It has taken all necessary corporate or other organizational action to authorize the execution, delivery and performance of this Agreement.
+
+^^This Agreement has been duly executed and delivered by such Person. This Agreement constitutes a legal, valid and binding obligation, enforceable against such Person in accordance with their terms, except as such enforceability may be limited by (i) applicable Debtor 
+
+Relief Laws and (ii) general principles of equity (regardless of whether such enforceability is considered in a proceeding at law or in equity).
+
+^^No consent, approval, authorization or order of, or filing, registration or qualification with, any court or Governmental Authority or third party is required in connection with the execution, delivery or performance by any Loan Party of this Agreement other than (i) those that have already been obtained and are in full force and effect and (ii) those the failure of which to be obtained or made would not reasonably be expected to have a Material Adverse Effect.
+
+^**Incorporation of Agreement**. Except as specifically modified herein, the terms of the Loan Documents shall remain in full force and effect. The execution, delivery and effectiveness of this Agreement shall not operate as a waiver of any right, power or remedy of the Administrative Agent under the Loan Documents, or constitute a waiver or amendment of any provision of the Loan Documents, except as expressly set forth herein. The breach of any provision or representation under this Agreement shall constitute an immediate Event of Default under the Credit Agreement, and this Agreement shall constitute a Loan Document from and after the date hereof.
+
+^**Headings**. The headings of the sections hereof are provided for convenience only and shall not in any way affect the meaning or construction of any provision of this Agreement.
+
+^**Severability**. If any provision of any of this Agreement is determined to be illegal, invalid or unenforceable, such provision shall be fully severable and the remaining provisions shall remain in full force and effect and shall be construed without giving effect to the illegal, invalid or unenforceable provisions.
+
+^**Counterparts**. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be an original, but all of which shall constitute one and the same instrument. Delivery of executed counterparts of this Agreement by telecopy or pdf shall be effective as an original.
+
+^**GOVERNING LAW**. THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK.
+
+\centered [The remainder of this page is intentionally left blank.]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the date first above written.
+
+BORROWER:   [[Organization 1 Name]],
+
+
+[[BORROWER   [[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{BORROWER   [[Organization 3 Name]] Entity => By: [[BORROWER   [[Organization 3 Name]] Signatory First Name]] [[BORROWER   [[Organization 3 Name]] Signatory Last Name]]
+Title: [[BORROWER   [[Organization 3 Name]] Signatory Title]]}}
+
+
+GUARANTORS:   [[Person 1 First Name]] [[Person 1 Last Name]] OF GEORGIA, INC. (f/k/a DataNational of Georgia, Inc.),
+
+
+[[GUARANTORS   [[Person 1 First Name]] [[Person 1 Last Name]] OF GEORGIA INC. f/k/a DataNational of Georgia Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{GUARANTORS   [[Person 1 First Name]] [[Person 1 Last Name]] OF GEORGIA INC. f/k/a DataNational of Georgia Inc. Entity => By: [[GUARANTORS   [[Person 1 First Name]] [[Person 1 Last Name]] OF GEORGIA INC. f/k/a DataNational of Georgia Inc. Signatory First Name]] [[GUARANTORS   [[Person 1 First Name]] [[Person 1 Last Name]] OF GEORGIA INC. f/k/a DataNational of Georgia Inc. Signatory Last Name]]
+Title: [[GUARANTORS   [[Person 1 First Name]] [[Person 1 Last Name]] OF GEORGIA INC. f/k/a DataNational of Georgia Inc. Signatory Title]]}}
+
+
+[[Organization 4 Name]] (f/k/a [[Organization 5 Name]]),
+
+
+[[[[Organization 6 Name]]. f/k/a DataNational Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]]. f/k/a DataNational Inc. Entity => By: [[[[Organization 6 Name]]. f/k/a DataNational Inc. Signatory First Name]] [[[[Organization 6 Name]]. f/k/a DataNational Inc. Signatory Last Name]]
+Title: [[[[Organization 6 Name]]. f/k/a DataNational Inc. Signatory Title]]}}
+
+
+VOLT DIRECTORIES, S.A., LTD.,
+
+
+[[[[Organization 7 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] Entity => By: [[[[Organization 7 Name]] Signatory First Name]] [[[[Organization 7 Name]] Signatory Last Name]]
+Title: [[[[Organization 7 Name]] Signatory Title]]}}
+
+
+[[Organization 8 Name]],
+
+
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+
+[[Organization 9 Name]], INC.,
+
+
+[[[[Organization 9 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]]. Entity => By: [[[[Organization 9 Name]]. Signatory First Name]] [[[[Organization 9 Name]]. Signatory Last Name]]
+Title: [[[[Organization 9 Name]]. Signatory Title]]}}
+
+
+[[Organization 1 Name]] 
+TEMPORARY WAIVER AND SECOND AMENDMENT TO CREDIT AGREEMENT
+
+[[Organization 10 Name]],
+
+
+[[[[Organization 10 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] Entity => By: [[[[Organization 10 Name]] Signatory First Name]] [[[[Organization 10 Name]] Signatory Last Name]]
+Title: [[[[Organization 10 Name]] Signatory Title]]}}
+
+
+[[Organization 11 Name]],
+
+
+[[[[Organization 12 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 12 Name]] Entity => By: [[[[Organization 12 Name]] Signatory First Name]] [[[[Organization 12 Name]] Signatory Last Name]]
+Title: [[[[Organization 12 Name]] Signatory Title]]}}
+
+
+VOLT ASIA ENTERPRISES, LTD.,
+
+
+[[[[Organization 13 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 13 Name]] Entity => By: [[[[Organization 13 Name]] Signatory First Name]] [[[[Organization 13 Name]] Signatory Last Name]]
+Title: [[[[Organization 13 Name]] Signatory Title]]}}
+
+
+[[Organization 14 Name]],
+
+
+[[[[Organization 14 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 14 Name]]. Entity => By: [[[[Organization 14 Name]]. Signatory First Name]] [[[[Organization 14 Name]]. Signatory Last Name]]
+Title: [[[[Organization 14 Name]]. Signatory Title]]}}
+
+
+[[Organization 14 Name]],
+
+
+[[[[Organization 14 Name]]: Identity | Signature]]
+__________________________________________
+{{[[Organization 14 Name]] Entity => By: [[[[Organization 14 Name]] Name]] [[[[Organization 14 Name]] Last Name]]
+Title: [[[[Organization 14 Name]] Title]]}}
+
+
+[[Organization 15 Name]].,
+
+
+[[[[Organization 15 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 15 Name]]. Entity => By: [[[[Organization 15 Name]]. Signatory First Name]] [[[[Organization 15 Name]]. Signatory Last Name]]
+Title: [[[[Organization 15 Name]]. Signatory Title]]}}
+
+
+[[Organization 1 Name]] 
+TEMPORARY WAIVER AND SECOND AMENDMENT TO CREDIT AGREEMENT
+
+ADMINISTRATIVE AGENT:   [[Organization 2 Name]], N.A.,
+as Administrative Agent
+
+[[As Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Administrative Agent Entity => By: [[As Administrative Agent Signatory First Name]] [[As Administrative Agent Signatory Last Name]]
+Title: [[As Administrative Agent Signatory Title]]}}
+
+
+LENDERS:   [[Organization 2 Name]], N.A.,
+as a Lender, L/C Issuer and Swing Line Lender
+
+[[As a Lender L/C Issuer and Swing Line Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{As a Lender L/C Issuer and Swing Line Lender Entity => By: [[As a Lender L/C Issuer and Swing Line Lender Signatory First Name]] [[As a Lender L/C Issuer and Swing Line Lender Signatory Last Name]]
+Title: [[As a Lender L/C Issuer and Swing Line Lender Signatory Title]]}}
+
+
+[[Organization 16 Name]]
+
+[[[[Organization 17 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 17 Name]] Entity => By: [[[[Organization 17 Name]] Signatory First Name]] [[[[Organization 17 Name]] Signatory Last Name]]
+Title: [[[[Organization 17 Name]] Signatory Title]]}}
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+[[[[Organization 18 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 18 Name]] Entity => By: [[[[Organization 18 Name]] Signatory First Name]] [[[[Organization 18 Name]] Signatory Last Name]]
+Title: [[[[Organization 18 Name]] Signatory Title]]}}
+
+
+[[Organization 19 Name]], NATIONAL ASSOCIATION
+
+[[[[Organization 19 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 19 Name]] Entity => By: [[[[Organization 19 Name]] Signatory First Name]] [[[[Organization 19 Name]] Signatory Last Name]]
+Title: [[[[Organization 19 Name]] Signatory Title]]}}
+
+
+[[Organization 1 Name]] 
+TEMPORARY WAIVER AND SECOND AMENDMENT TO CREDIT AGREEMENT

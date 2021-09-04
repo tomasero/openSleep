@@ -1,0 +1,47 @@
+[[Date 1: Date]]
+
+Mr. [[Person 1 First Name]] [[Person 1 Last Name]]
+
+Suite 2403, Pacific Place Apartments 
+
+Pacific Place, 88 Queensway 
+
+Hong Kong
+
+Re: Amendment to Employment Agreement
+
+Dear Eberhard,
+
+This letter sets forth the mutual agreement between you and [[Organization 1 Name]] (the “Company”) concerning an amendment to your employment agreement with the Company dated as of [[Date 2: Date]], as amended [[Date 3: Date]] and [[Date 4: Date]] (the “Employment Agreement”). This amendment to the Employment Agreement will be effective as of the date of this letter.
+
+Section 5 of the Employment Agreement is amended to read in its entirety:
+
+Subject to Paragraph 6 hereof, your employment and appointment hereunder shall be for a fixed term commencing on the date hereof and expiring on [[Date 5: Date]], unless extended or earlier terminated as provided in accordance with the terms hereof (“the Term”). On [[Date 5]], and each anniversary thereof, the Term shall be automatically extended for an additional period of one (1) year, unless you or the Company give written notice of at least ninety (90) days prior to the end of the then current Term indicating that the Term will not be so extended.
+
+Except for the modifications set forth above, the Employment Agreement shall remain in full force and effect in accordance with its terms. Please sign below to acknowledge your agreement to the terms and conditions of this amendment to the Employment Agreement.
+
+Yours sincerely, 
+
+[[Yours sincerely Signatory Email: Identity | Signature]]
+__________________________________________
+{{Yours sincerely Entity => By: [[Yours sincerely Signatory First Name]] [[Yours sincerely Signatory Last Name]]
+Title: [[Yours sincerely Signatory Title]]}}
+
+[[Person 2 First Name]] [[Person 2 Last Name]], Director 
+
+/s/ Dr. [[Person 3 First Name]] [[Person 3 Last Name]]
+
+Dr. [[Person 3 First Name]] [[Person 3 Last Name]], Director
+
+[[Dr. [[Person 3 First Name]] [[Person 3 Last Name]] Director Signatory Email: Identity | Signature]]
+__________________________________________
+{{Dr. [[Person 3 First Name]] [[Person 3 Last Name]] Director Entity => By: [[Dr. [[Person 3 First Name]] [[Person 3 Last Name]] Director Signatory First Name]] [[Dr. [[Person 3 First Name]] [[Person 3 Last Name]] Director Signatory Last Name]]
+Title: [[Dr. [[Person 3 First Name]] [[Person 3 Last Name]] Director Signatory Title]]}}
+
+[[Person 4 First Name]] [[Person 4 Last Name]], Director
+
+Confirmed and agreed by 
+
+^^/ [[Person 1 First Name]] [[Person 1 Last Name]]
+
+[[Person 1 First Name]] [[Person 1 Last Name]]

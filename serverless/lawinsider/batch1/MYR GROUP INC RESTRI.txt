@@ -1,0 +1,60 @@
+\centered [[Company]]
+
+\centered **RESTRICTED STOCK AWARD AGREEMENT**
+
+\centered **(Independent Director)**
+
+This AGREEMENT (this “Agreement”) is made as of [ ] (the “Date of Grant”) by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [ ] (“Grantee”).
+
+^Grant of Restricted Stock. Pursuant to the [[Company]] 2007 Long-Term Incentive Plan (the “Plan”) and subject to the terms and conditions thereof and the terms and conditions hereinafter set forth, the Company hereby grants to Grantee [ ]shares of Common Stock (the “Restricted Stock”).
+
+^Rights of Grantee. The shares of Restricted Stock subject to this grant shall be fully paid and nonassessable and shall be either (a) represented by certificates held in custody by the Company until all restrictions thereon have lapsed, together with a stock power or powers executed by the Grantee in whose name such certificates are registered, endorsed in blank and covering such shares of Restricted Stock, or (b) held at the Company’s transfer agent in book entry form with appropriate restrictions relating to the transfer of such shares of Restricted Stock, and endorsed with an appropriate legend referring to the restrictions hereinafter set forth. Grantee shall have all the rights of a stockholder with respect to such shares, including the right to vote the shares and receive all dividends and other distributions paid or made with respect thereto.
+
+^Restrictions on Transfer of Shares of Restricted Stock. The shares of Restricted Stock may not be transferred, assigned or subject to any encumbrance, pledge or charge, until the shares of Restricted Stock have vested as provided in Sections 4 and hereof; provided, however, that the Grantee’s rights with respect to the Restricted Shares may be transferred by will or pursuant to the laws of descent and distribution. Any purported transfer in violation of the provisions of this Section 3 shall be void, and the other party to any such purported transaction shall not obtain any rights to or interest in the Restricted Shares.
+
+^Vesting of Restricted Shares. Subject to the terms and conditions of this Agreement and the Plan, the shares of Restricted Stock shall vest in accordance with the vesting schedule set forth on Exhibit A hereto provided the Grantee remains a member of the Board until the applicable vesting dates listed on Exhibit A.
+
+^Accelerated Vesting of Restricted Shares. Notwithstanding the provisions of Section 4 hereof, the shares of Restricted Stock covered by this Agreement shall become immediately vested in full if a Change in Control occurs while Grantee is a member of the Board.
+
+^Forfeiture of Shares. Except to the extent the shares of Restricted Stock covered by this Agreement have vested pursuant to Sections 4 or hereof, Grantee’s right to receive the shares of Restricted Stock covered by this Agreement shall be forfeited automatically and without further notice on the date that Grantee ceases to be a member of the Board prior to the thirdanniversary of the Date of Grant for any reason other than as described in Section 5.
+
+^No Employment Contract. Nothing contained in this Agreement shall (a) confer upon Grantee any right to be employed by or remain employed by the Company, or (b) limit or affect in any manner the right of the Company to terminate the employment of Grantee at any time.
+
+^Withholding Taxes. To the extent that the Company is required to withhold any federal, state, local or foreign taxes in connection with any delivery of shares of Restricted Stock to the Grantee, and the amounts available to the Company for such withholding are insufficient, it shall be a condition to the receipt of such delivery that the Grantee shall pay such taxes or make arrangements that are satisfactory to the Company for payment thereof. The Grantee may elect that all or any part of such withholding requirement be satisfied by retention by the Company of a portion of the shares of Restricted Stock delivered to the Grantee. If such election is made, the shares so retained shall be credited against such withholding requirement at the Fair Market Value on the date of such delivery. In no event, however, shall the Company accept shares for payment of taxes in excess of required tax withholding rates.
+
+^Restrictive Covenants. If the Grantee engages in any conduct in breach of any noncompetition, nonsolicitation or confidentiality obligations to the Company under any agreement, policy or plan, then such conduct shall also be deemed to be a breach of the terms of the Plan and this Agreement. Upon such breach, Grantee’s right to receive the shares of Restricted Stock covered by this Agreement shall be forfeited automatically and without further notice and, if and to the extent any shares of Restricted Stock covered by this Agreement have vested pursuant to Sections 4 or within a period of 18 months prior to such breach, the Grantee shall be required to return to the Company, upon demand, such shares or the net proceeds of any sales. For purposes of this Section 9, net proceeds shall mean the amount realized upon the disposition of the shares, less any applicable taxes withheld by the Company.
+
+^Recovery of Restricted Stock. If (a) the Company restates any part of its financial statements for any fiscal year or years during which the shares of Restricted Stock covered by this Agreement have been granted due to material noncompliance with any financial reporting requirement under the U.S. securities laws applicable to such fiscal year or years (a “Restatement”) and (b) the Committee determines that Grantee is personally responsible for causing the Restatement as a result of Grantee’s personal misconduct or any fraudulent activity on the part of Grantee, then the Committee has discretion to, based on applicable facts and circumstances and subject to applicable law, cause the Grantee’s right to receive the shares of Restricted Stock covered by this Agreement to be forfeited automatically and without further notice and, if and to the extent any shares of Restricted Stock covered by this Agreement have vested pursuant to Sections 4 or within a period of 18 months prior to the Restatement, the Grantee shall be required to return to the Company, upon demand, such shares or the net proceeds of any sales. For purposes of this Section 10, net proceeds shall mean the amount realized upon the disposition of the shares, less any applicable taxes withheld by the Company.
+
+^Relation to Plan. This Agreement is subject to the terms and conditions of the Plan. In the event of any inconsistency between the provisions of this Agreement and the Plan, the Plan shall govern. The Committee acting pursuant to the Plan, as constituted from time to time, shall, except as expressly provided otherwise herein or in the Plan, have the right to determine any questions that arise in connection with the grant of shares of Restricted Stock.
+
+^Miscellaneous. All decisions or interpretations of the Committee with respect to any question arising under the Plan or this Agreement shall be binding, conclusive and final. The waiver by the Company of any provision of this Agreement shall not operate as or be construed to be a subsequent waiver of the same provision or of any other provision of this Agreement. Grantee agrees to execute such other agreements, documents or assignments as may be necessary or desirable to effect the purposes of this Agreement.
+
+^Capitalized Terms. All capitalized terms used in this Agreement that are not defined herein shall have the meanings given them in the Plan unless the context clearly requires otherwise.
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed on its behalf by its duly authorized officer, as of the day and year first above written.
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+The undersigned Grantee hereby acknowledges receipt of an executed copy of this Agreement and accepts the right to receive any shares of Restricted Stock or other securities covered hereby, subject to the terms and conditions of the Plan and the terms and conditions herein above set forth.
+
+Grantee
+
+Date:
+
+\centered **Exhibit A**
+
+\centered **Time Based Restricted Stock Vesting Schedule**
+
+\centered **Grant of Date** [ ]
+
+**Date**      \centered **Total Shares of Restricted Stock Vested**
+\centered [ ]
+\centered [ ]
+\centered [ ]

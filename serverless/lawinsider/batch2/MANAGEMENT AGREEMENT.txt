@@ -1,0 +1,73 @@
+\centered 
+
+\centered **MANAGEMENT AGREEMENT** 
+
+This Management Agreement (the “Agreement”) dated this _____ day of [[Date 1: Date]], and is made effective as of the __________ day of __________, 20_____, by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”) and Mr. [[ Ross]] (“Mr. Ross”). 
+
+\centered **RECITALS:** 
+
+WHEREAS, Mr. Ross shall operate the day-to-day business of the Company and shall handle all other matters relating to the business of the Company; and 
+
+WHEREAS, the Company desires to avail itself of the expertise of Mr. Ross. 
+
+\centered **AGREEMENT:** 
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the covenants and conditions herein set forth, the parties hereto agree as follows:
+
+^**Appointment.** 
+
+The Company hereby appoints Mr. Ross to render the services described in Section 2 hereof for the term of this Agreement.
+
+^**Services.** 
+
+During the term of this Agreement, Mr. Ross shall render to the Company, as the Company’s Chief Executive Officer, President, Chief Financial Officer, Secretary and as a Director (the “Services”) in relation to the operations of the Company, strategic planning, and financial oversight and including, without limitation, advisory and consulting services in relation to the selection, retention and supervision of independent auditors, the selection, retention and supervision of outside legal counsel, the selection, retention and supervision financial advisors or consultants and the structuring and implementation of equity participation plans, employee benefit plans and other incentive arrangements for certain key executives of the Company. 
+
+^**Fees.** 
+
+In consideration of the performance of the Services contemplated by Section 2 hereof, the Company agrees to pay to Mr. Ross an aggregate monthly fee (the “Fee”) of $[[USD Value 1: Number]] per calendar month. Such Fee may be converted into shares of the Company's common stock at a conversion rate to be determined by and between the Company and Mr. Ross from time to time. The Fee shall be payable on the last day of each calendar quarter. 
+
+^**Out-of-Pocket Expenses** 
+
+In addition to the compensation payable to Mr. Ross pursuant to Section 3 hereof, the Company shall, at the direction of Mr. Ross, pay directly, or reimburse Mr. Ross for, its reasonable Out-of-Pocket Expenses. For the purposes of this Agreement, the term “Out-of-Pocket Expenses” shall mean the amounts actually paid by Mr. Ross in cash in connection with its performance of the Services, including, without limitation, reasonable (i) fees and disbursements (including, underwriting fees) of any independent auditors, outside legal counsel, consultants, investment bankers, financial advisors and other independent professionals and organizations, (ii) costs of any outside services or independent contractors such as financial printers, couriers, business publications or similar services and (iii) transportation, per diem, telephone calls, word processing expenses or any similar expense not associated with its ordinary operati ons. All reimbursements for Out-of-Pocket Expenses shall be made promptly upon or as soon as practicable after presentation by Mr. Ross to the Company of the statement in connection therewith. 
+
+^**Indemnification** 
+
+The Company will indemnify and hold harmless Mr. Ross from and against any and all losses, costs, expenses, claims, damages and liabilities (the “Liabilities”) to which Mr. Ross may become subject under any applicable law, or any claim made by any third party, or otherwise, to the extent they relate to or arise out of the performance of the Services contemplated by this Agreement or the engagement of Mr. Ross pursuant to, and the performance by Mr. Ross of the Services contemplated by, this Agreement. The Company will not be liable under the foregoing indemnification provision to the extent that any loss, claim, damage, liability, cost or expense is determined by a court, in a final judgment from which no further appeal may be taken, to have resulted solely from the gross negligence or willful misconduct of Mr. Ross. If Mr. Ross is reimbursed hereunder for any expenses, such reimbursement of expenses shall be refunded to the extent it is finally judicially determined that the Liabilities in question resulted solely from the gross negligence or willful misconduct of Mr. Ross. 
+
+^**Termination** 
+
+This Agreement shall be in effect on the date hereof and shall continue until such time as Mr. Ross or one or more of its affiliates collectively control, in the aggregate, less than [[Percentage 1: Number]]% of the equity interests of the Company, or such earlier time as the Company and Mr. Ross may mutually agree. The provisions of Sections 5, 7 and 8 and otherwise as the context so requires shall survive the termination of this Agreement. 
+
+^**Other Activities** 
+
+Nothing herein shall in any way preclude Mr. Ross from engaging in any business activities or from performing services for its or their own account or for the account of others, including for companies that may be in competition with the business conducted by the Company. 
+
+^**General.** 
+
+No amendment or waiver of any provision of this Agreement, or consent to any departure by either party from any such provision, shall be effective unless the same shall be in writing and signed by the parties to this Agreement, and, in any case, such amendment, waiver or consent shall be effective only in the specific instance and for the specific purpose for which given. 
+
+^^This Agreement and the rights of the parties hereunder may not be assigned without the prior written consent of the parties hereto; provided, however, that Mr. Ross may assign or transfer its duties or interests hereunder to a Mr. Ross affiliate at the sole discretion of Mr. Ross. 
+
+^^This Agreement shall constitute the entire agreement between the parties with respect to the subject matter hereof, and shall supersede all previous oral and written (and all contemporaneous oral) negotiations, commitments, agreements and understandings relating hereto. 
+
+^^This Agreement shall be governed by, and enforced in accordance with, the laws of the State of Nevada (excluding the choice of law principles thereof). The parties to this Agreement hereby agree to submit to the non-exclusive jurisdiction of the federal and state courts located in the state of Nevada in any action or proceeding arising out of or relating to this Agreement. 
+
+^^This Agreement may be executed in two or more counterparts, and by different parties on separate counterparts. Each set of counterparts showing execution by all parties shall be deemed an original, and shall constitute one and the same instrument. 
+
+^^The waiver by any party of any breach of this Agreement shall not operate as or be construed to be a waiver by such party of any subsequent breach. 
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed and delivered by their duly authorized officers or agents as set forth below. 
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+[[ Ross]]
+[[ Ross Signatory Email: Identity | Signature]]
+__________________________________________
+{{ Ross Entity => By: [[ Ross Signatory First Name]] [[ Ross Signatory Last Name]]
+Title: [[ Ross Signatory Title]]}}

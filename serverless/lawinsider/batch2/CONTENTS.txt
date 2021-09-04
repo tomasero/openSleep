@@ -1,0 +1,522 @@
+\centered **[[Organization 1 Name]]**
+
+\centered **INCOME SECURITY PLAN**
+
+\centered As Amended and Restated Effective [[Date 1: Date]]
+
+\centered **CONTENTS**
+
+^PURPOSE AND TERM  
+^^Purpose  
+^^Type of Plan  
+^^Term; Effect of Change in Control  
+
+SECTION 2.   DEFINITIONS  
+^^Definitions  
+
+SECTION 3.   UNPAID COMPENSATION AND SEVERANCE BENEFITS  
+^^Right to Unpaid Compensation and Severance Benefits  
+^^Severance Benefits for Tier 1 Participants and Tier 2 Participants  
+^^Severance Benefits for Tier 1 Participants  
+^^Severance Benefits for Tier 2 Participants  
+^^Termination Due to Disability or Death  
+^^Termination for Cause or by the Participant Without Good Reason  
+^^Notice of Termination  
+^^Payment of Severance Benefits  
+
+SECTION 4.   RELEASE AND RESTRICTIVE COVENANTS  
+^^Release  
+^^Restrictive Covenants  
+^^Services of Participant  
+
+SECTION 5.   TRUST  
+^^Establishment of Trust  
+^^Trust Assets  
+
+SECTION 6.   EXCISE TAXES  
+^^Limitation for Excess Parachute Payments  
+
+SECTION 7.   CLAIMS PROCEDURE  
+^^Original Claim  
+^^Review of Denied Claim  
+^^General Rules  
+
+SECTION 8.   RIGHTS TO SEVERANCE BENEFITS AND LEGAL FEES  
+^^Severance Benefits Payments  
+^^Legal Fees and Expenses  
+
+SECTION 9.   SUCCESSORS  
+^^Successors to the Company  
+^^Assignment by the Participant  
+
+\centered i
+
+^MISCELLANEOUS  
+^^Administration and Committee Powers  
+^^Employment Status  
+^^Entire Plan and Other Change in Control Plans  
+^^Notices  
+^^Includable Compensation  
+^^Tax Withholding  
+^^Severability  
+^^Amendment and Waiver  
+^^Applicable Law  
+^^Rules of Construction  
+
+\centered ii
+
+\centered **[[Organization 1 Name]] INCOME SECURITY PLAN**
+
+\centered **As Amended and Restated Effective [[Date 1]]**
+
+^ \centered SECTION 1. PURPOSE AND TERM 
+
+^^ \centered 1.1 Purpose. The purpose of this Income Security Plan (this “Plan”) is to provide income security protection to certain executives of [[Organization 1 Name]] (the “Company”) in order to (a) ensure that such executives make good corporate decisions with respect to a possible Change in Control (as defined in Section 2.1) of the Company, even if such a Change in Control may have adverse personal consequences (such as the loss of the executive’s employment with the Company), (b) maximize stockholder value by keeping such executives engaged during periods of uncertainty relating to a possible Change in Control, and (c) provide such executives with the ability to transition to new employment if their employment with the Company is terminated as a result of a Change in Control. 
+
+^^ \centered 1.2 Type of Plan. This Plan is a severance pay plan maintained primarily for the benefit of a select group of management or highly compensated individuals within the meaning of ERISA (as defined in Section 2.1). This Plan will be administered and interpreted (i) in a manner consistent with such intent and (ii) in accordance with Section 409A of the Code (as defined in Section 2.1) and other applicable Tax (as defined in Section 2.1) laws and regulations, including, without limitation, any regulations promulgated pursuant to Section 409A of the Code. Notwithstanding the foregoing, neither the Company nor any of its officers, directors, agents or affiliates will be obligated, directly or indirectly, to any Participant for any Taxes that may be imposed on such Participant (a) on account of any amounts due or paid under this Plan (except as otherwise expressly provided in Section 6) or (b) on account of any failure to comply with any provision of the Code. 
+
+^^ \centered 1.3 Term; Effect of Change in Control. 
+
+^^^ \centered (a) This Plan is effective on [[Date 2: Date]] (the “Effective Date”) and will continue in effect until this Plan is terminated by the Committee (as defined in Section 2.1). The Committee may terminate this Plan at any time. If a notice terminating this Plan is properly delivered by the Committee, this Plan, along with all corresponding rights, duties and covenants, will immediately terminate; provided, however, that in the event a Change in Control occurs within 12 months after receipt of such notice, such termination of the Plan will be deemed null and void, and the participation of the Participants in this Plan will not be affected by such notice (unless such termination of this Plan or participation by any Participant herein is required by the terms of any final order or a federal or state court or regulatory agency of competent jurisdiction). 
+
+^^^ \centered (b) Notwithstanding Section 1.3(a), in the event that a Change in Control occurs during the term of the Plan, the Committee may not terminate the Plan during the period beginning on the date of such Change in Control through the third anniversary date    
+
+^^^ \centered of the Change in Control. This Plan will thereafter automatically terminate with respect to any Participant who has not experienced a Qualifying Termination prior to such third anniversary. 
+
+^ \centered SECTION 2. DEFINITIONS 
+
+^^ \centered 2.1 Definitions. The following capitalized terms used in this Agreement will have the meanings set forth below: 
+
+^^^ \centered (a) “Annual Base Salary” means, at any time, the then regular annual rate of cash compensation that a Participant is receiving as annual salary, excluding all other kinds of compensation. 
+
+^^^ \centered (b) “Annual Incentive Plan” means any incentive compensation plan of the Company with a performance period of one year or less (other than an Equity Incentive Plan) in which a Participant participates on the date of any Qualifying Termination of such Participant, unless the Committee otherwise determines that such plan is a Long-Term Cash Incentive Plan. 
+
+^^^ \centered (c) “Beneficial Owner” or “Beneficial Ownership” will have the meaning given to such term in Rule 13d-3 under the Exchange Act. 
+
+^^^ \centered (d) “Board” or “Board of Directors” means the Board of Directors of the Company. 
+
+^^^ \centered (e) “Cause” means the occurrence of any of the following: 
+
+^^^^ \centered (i) the Participant willfully and continually fails to substantially perform his or her duties of employment (other than because of a mental or physical impairment) for a period of at least 30 days after being given notice of such failure; 
+
+^^^^ \centered (ii) the Participant (A) engages in any act of dishonesty, wrongdoing or moral turpitude (whether or not a felony) or (B) violates the Company’s Code of Conduct or a Company policy, which violation has an adverse effect upon the Company; or 
+
+^^^^ \centered (iii) the Participant breaches his or her duty of loyalty or commits an unauthorized disclosure of proprietary or confidential information of the Company. 
+
+^^^ \centered (f) “Change in Control” means the occurrence of any of the following: 
+
+^^^^ \centered (i) the acquisition by any Person of Beneficial Ownership of [[Percentage 1: Number]]% or more of the outstanding shares of the Company’s Voting Securities; 
+
+^^^^ \centered (ii) the consummation of a reorganization, merger or consolidation of the Company or sale or other disposition of all or substantially all of the assets of     
+
+
+^^^^ \centered the Company (a “Corporate Transaction”), unless such Corporate Transaction is a transaction pursuant to which all or substantially all of the Persons who are the Beneficial Owners of the Company immediately prior to the Corporate Transaction will beneficially own, directly or indirectly, [[Percentage 2: Number]]% or more of the outstanding shares of Voting Securities of the resulting or combined entity; 
+
+^^^^ \centered (iii) individuals who, as of the Effective Date, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that (A) any individual who becomes a member of the Board subsequent to the Effective Date, whose election (or nomination for election by the Company’s stockholders) was approved by the vote of at least a majority of the Directors then comprising the Incumbent Board will be deemed a member of the Incumbent Board and (B) any individual who is initially elected as a member of the Board as a result of any actual or threatened solicitation of proxies or consents by or on behalf of any Person other than the Board will not be deemed a member of the Incumbent Board; 
+
+^^^^ \centered (iv) approval by the stockholders of the Company of a complete liquidation or dissolution of the Company; or 
+
+^^^^ \centered (v) any other circumstances (whether or not following a Change Event) which the Board determines to be a Change in Control for purposes of this Plan after giving due consideration to the nature of the circumstances then presented and the purposes of this Plan. Any such determination made by the Board will be irrevocable except by vote of a majority of the members of the Board who voted in favor of making such determination. 
+
+For purposes of this Section 2.1(f), a “Change in Control” will not result from any transaction precipitated by the Company’s insolvency, appointment of a conservator or determination by a regulatory agency that the Company is insolvent.
+
+^^^ \centered (g) “Change Event” means either of the following: 
+
+^^^^ \centered (i) the acquisition by any Person (other than the Company or a subsidiary or an employee benefit plan (including its trustee of the Company) of Beneficial Ownership, directly or indirectly, of shares of Voting Securities of the Company directly or indirectly representing [[Percentage 3: Number]]% or more of the total number of the then outstanding shares of the Company’s Voting Securities (excluding the sale or issuance of any Voting Securities directly by the Company, or any transaction in which the acquisition of such Voting Securities is made by such Person from five or fewer stockholders in a transaction or transactions approved in advance by the Board); or 
+
+^^^^ \centered (ii) the public announcement by any Person of an intention to acquire the Company through a tender offer, exchange offer or other unsolicited proposal. 
+
+^^^ \centered (h) “Code” means the U.S. Internal Revenue Code of 1986, as amended from time to time.    
+
+
+^^^ \centered (i) “Committee” means the Personnel and Compensation Committee of the Board, or, if no Personnel and Compensation Committee exists, then a committee of independent Board members appointed by the Board to administer this Plan. 
+
+^^^ \centered (j) “Common Stock” means the common stock, par value $.01 per share, of the Company. 
+
+^^^ \centered (k) “Disability” or “Disabled” will have the meaning given to such term in the Company’s governing long-term disability plan or, if no such plan exists, such term will mean total and permanent disability as determined under the rules of the Social Security Administration. 
+
+^^^ \centered (l) “ERISA” means the Employee Retirement Income Security Act of 1974, as amended from time to time. 
+
+^^^ \centered (m) “Equity Incentive Plan” means any incentive compensation plan of the Company providing for the grant of Stock Awards in which a Participant participates on the date of any Qualifying Termination of such Participant. 
+
+^^^ \centered (n) “Exchange Act” means the Securities Exchange Act of 1934, as amended from time to time. 
+
+^^^ \centered (o) “Group Health Plan” means any group health plan generally available to all employees of the Company in which a Participant participates on the date of any Qualifying Termination of such Participant. 
+
+^^^ \centered (p) “Good Reason” means, without a Participant’s express written consent, the occurrence after a Change Event or a Change in Control, as the case may be, of any one or more of the following: 
+
+^^^^ \centered (i) a material reduction of such Participant’s authorities, duties or responsibilities as an executive and/or officer of the Company from those in effect immediately prior to such Change Event or Change in Control, other than (A) an insubstantial reduction or (B) a substantial reduction that is remedied by the Company within 30 days after receipt of notice thereof given by the Participant within 90 days after such circumstances first arise; 
+
+^^^^ \centered (ii) the Company’s requiring the Participant to be based at a location in excess of 50 miles from the Participant’s principal job location immediately prior to such Change Event or Change in Control, unless such requirement is withdrawn by the Company within 30 days after notice thereof given by the Participant within 90 days after such circumstances first arise; 
+
+^^^^ \centered (iii) a material reduction by the Company of the Participant’s Annual Base Salary in effect immediately prior to such Change Event or Change in Control, or as such Annual Base Salary has been increased thereafter, unless such reduction is remedied by the Company within 30 days after notice thereof given by the Participant within 90 days after such circumstances first arise;    
+
+
+^^^^ \centered (iv) the failure of the Company to continue in effect, or the failure to continue the Participant’s participation on substantially the same basis in, any Annual Incentive Plan, Long-Term Cash Incentive Plan or Equity Compensation Plan in which the Participant participates immediately prior to such Change Event or Change in Control, where the result is a material reduction in the Participant’s total compensation, unless such failure is remedied by the Company within 30 days after notice thereof given by the Participant within 90 days after such circumstances first arise; and 
+
+^^^^ \centered (v) if such Change in Control results in a successor to the Company, the failure of the Company to obtain a satisfactory agreement from such successor to assume and agree to perform the Company’s obligations under this Plan, as contemplated by Section 9.1, unless such failure is remedied within 30 days after notice thereof given by the Participant within 90 days after such circumstances first arise. 
+
+Unless the Participant becomes Disabled, the Participant’s right to terminate employment for Good Reason will not be affected by the Participant’s incapacity due to physical or mental illness. The Participant’s continued employment will not constitute consent to, or a waiver of rights with respect to, any action or circumstance constituting Good Reason.
+
+^^^ \centered (q) “Long-Term Cash Incentive Plan” means (i) any cash incentive compensation plan of the Company with a performance period of more than one year (other than an Equity Incentive Plan) or (ii) or any other cash incentive compensation plan the Committee determines is a Long-Term Cash Incentive Plan (other than an Equity Incentive Plan), in each case in which a Participant participates on the date of any Qualifying Termination of such Participant. 
+
+^^^ \centered (r) “Notice of Termination” means a written notice indicating the specific provision in this Plan relied upon for the termination of employment of any Participant. Such notice will set forth in reasonable detail the facts and circumstances claimed to provide the basis for such termination pursuant to such provision. 
+
+^^^ \centered (s) “Participant” means any of the Tier 1 Participants or Tier 2 Participants. 
+
+^^^ \centered (t) “Performance Vesting Stock Award” means any Stock Award the vesting and payment of which is based on achievement of performance goals rather than solely on the continued employment of a Participant. 
+
+^^^ \centered (u) “Perquisites” means any automobile allowance, financial planning services, employment outplacement services or other perquisites provided to a Participant under any benefit plan or program of the Company that provides special benefits to a select group of management or highly compensated employees in which such Participant participates on the date of any Qualifying Termination of such Participant.    
+
+
+^^^ \centered (v) “Person” will have the meaning given to such term in Section 3(a)(9) of the Exchange Act and used in Sections 13(d) and 14(d) thereof (including a “group” as defined in Section 13(d)). 
+
+^^^ \centered (w) “Qualified 401(k) Plan” means any Retirement Plan of the Company with a voluntary elective deferral arrangement intended to be qualified under Sections 401(a) and 401(k) of the Code in which a Participant participates on the date of any Qualifying Termination of such Participant. 
+
+^^^ \centered (x) “Qualifying Termination” means a Post-Change in Control Qualifying Termination (as defined in Section 3.1(a)) or a Pre-Change in Control Qualifying Termination (as defined in Section 3.1(b)), as the case may be; provided, however that a Qualifying Termination will not occur unless the Participant’s termination of employment qualifies as a “separation from service” (within the meaning of Section 409A of the Code). 
+
+^^^ \centered (y) “Retirement Plan” means any “employee pension benefit plan” (within the meaning of Section 3(2) of ERISA) of the Company, including, without limitation, any Qualified 401(k) Plan and any SERP. 
+
+^^^ \centered (z) “SERP” means (i) the Company’s Supplemental Executive Retirement Plan, or (ii) any other non-qualified supplemental retirement plan or agreement pursuant to which any Participant is entitled to receive supplemental retirement benefits on the date of any Qualifying Termination of such Participant. 
+
+^^^ \centered (aa) “Severance Benefits” mean the severance benefits provided for in Section 3.2, 3.3 and 3.4. 
+
+^^^ \centered (bb) “Stock Award” means any equity-based incentive award (including any award, without limitation, of stock options, stock appreciation rights, restricted stock or restricted stock units, or any Performance Vesting Stock Awards). 
+
+^^^ \centered (cc) “Target Level” means the “target” performance level (or other reasonably expected median performance goal) established for purposes of any Annual Incentive Plan, Long-Term Cash Incentive Plan or Performance Vesting Stock Award. 
+
+^^^ \centered (dd) “Tax” or “Taxes” means all taxes, charges, fees, levies or other assessments and impositions of any kind, payable to any governmental entity, including, without limitation, all net income, profits, gross income, alternative minimum, payroll, employment, social security, Medicare, unemployment, withholding, disability, workers’ compensation, excise, or other taxes or fees, assessments or charges of any kind whatsoever, including, without limitation, all interest and penalties thereon, and additions to tax or additional amounts imposed by any taxing authority. 
+
+^^^ \centered (ee) “Tier 1 Participant” means each of the Chief Executive Officer, Chief Financial Officer, Chief Operating Officer and General Counsel of the Company. 
+
+^^^ \centered (ff) “Tier 2 Participant” means (i) any executive officer of the Company (other than a Tier 1 Participant) required to file reports of beneficial ownership with the     
+
+
+^^^ \centered Securities and Exchange Commission pursuant to Section 16(a) of the Exchange Act and the rules and regulations promulgated thereunder and (ii) any employee selected by the Committee as a covered employee eligible under this Plan (employees selected by the Committee will be referred to as “Selected Tier 2 Participants”). The Committee will select Selected Tier 2 Participants annually at the meeting in which it sets executive compensation for the next fiscal year. Selected Tier 2 Participants will remain eligible as a Participant under this Plan for the fiscal year for which the Committee approved eligibility. During the fiscal year, the Committee may change the status of a Selected Tier 2 Participant if he or she has a change in employment status (examples: removal from eligibility because of a demotion or added as eligible because of a promotion). Notwithstanding the foregoing, a Selected Tier 2 Participant may not lose covered employee status as a Selected Tier 2 Participant by the Committee if he or she was a Participant and was eligible for benefits under Section 3.1, Rights to Unpaid Compensation and Severance Benefits, for a Change in Control occurrence. 
+
+^^^ \centered (gg) “Unpaid Compensation” means any of the following: 
+
+^^^^ \centered (i) any unpaid Annual Base Salary, accrued vacation pay and unreimbursed business expenses owed to any Participant through the date of the Qualifying Termination of such Participant; 
+
+^^^^ \centered (ii) any amount payable to such Participant as of the date of such Participant’s Qualifying Termination under any Annual Incentive Plan in effect for the most recently completed fiscal year, to the extent not previously paid; and 
+
+^^^^ \centered (iii) any amount payable to such Participant as of the date of such Participant’s Qualifying Termination under any Long-Term Cash Incentive Plan in effect for any completed performance period, to the extent not previously paid. 
+
+^^^ \centered (hh) “Voting Securities” means any shares of capital stock of any entity that are generally entitled to vote in elections for members of the board of directors. 
+
+^ \centered SECTION 3. UNPAID COMPENSATION AND SEVERANCE BENEFITS 
+
+^^ \centered 3.1 Right to Unpaid Compensation and Severance Benefits. 
+
+^^^ \centered (a) Subject to the terms and conditions of this Plan, a Participant will be entitled to receive from the Company any Unpaid Compensation and the Severance Benefits described in Sections 3.2, 3.3 and 3.4 (as applicable) if (i) during the term of this Plan, a Change in Control occurs and (ii) within 36 months thereafter, the Participant’s employment with the Company is terminated by the Company without Cause or voluntarily by the Participant for Good Reason, in the latter case within two years after the circumstances comprising Good Reason first arise. The termination of a Participant’s employment that entitles the Participant to Severance Benefits pursuant to this Section 3.1(a) is referred to in this Plan as a “Post-Change in Control Qualifying Termination.” A “Post-Change in Control Qualifying Termination” will not include a termination of a Participant’s employment by reason of death or Disability, the Company’s termination of a    
+
+
+^^^ \centered Participant’s employment for Cause or a Participant’s voluntary termination without Good Reason. 
+
+^^^ \centered (b) Subject to the terms and conditions of this Plan, a Participant will also be entitled to receive from the Company any Unpaid Compensation and the Severance Benefits described in Sections 3.2, 3.3 and 3.4 (as applicable) if (i) during the term of this Plan, a Change Event and a Change in Control occur and (ii) within 12 months after such Change Event and no more than 12 months prior to such Change in Control, such Participant’s employment with the Company is terminated by the Company without Cause or voluntarily by the Participant for Good Reason, in the latter case within two years after the circumstances comprising Good Reason first arise; provided, however, that the Participant will only be entitled to receive such Severance Benefits if the Participant can demonstrate that such termination by the Company or event constituting Good Reason (A) occurred at the specific request of a third party with which the Company had entered into negotiations or an agreement regarding a subsequent Change in Control or (B) otherwise occurred in connection with (or in anticipation of) such Change in Control. The termination of a Participant’s employment that entitles the Participant to Severance Benefits pursuant to this Section 3.1(b) is referred to in this Plan as a “Pre-Change in Control Qualifying Termination.” A “Pre-Change in Control Qualifying Termination” will not include a termination of a Participant’s employment by reason of death or Disability, the Company’s termination of a Participant’s employment for Cause or a Participant’s voluntary termination without Good Reason. 
+
+^^^ \centered (c) Any Unpaid Compensation will be paid in cash to a Participant in a single lump sum within 30 days after the date of the Qualifying Termination of such Participant. 
+
+^^ \centered 3.2 Severance Benefits for Tier 1 Participants and Tier 2 Participants. In the event the Company is obligated to provide Severance Benefits to any Participant pursuant to Section 3.1, such Participant will receive the following with payment as provided in this Section 3 unless the Participant has validly and effectively elected deferral of any such payment or award under another plan (in which case the payment or award would be made under the terms of the other plan): 
+
+^^^ \centered (a) The cash amount such Participant would receive under the Annual Incentive Plan in effect for the fiscal year in which such Participant’s Qualifying Termination occurs. If such Qualifying Termination occurs within the first three quarters of any fiscal year, such cash amount will be determined based on the assumption that the Target Level of performance under such Annual Incentive Plan had been achieved. If the Qualifying Termination occurs in the fourth quarter of any fiscal year, such cash amount will be determined based on projected actual performance (unless Target Level performance would result in a larger cash payment, in which event the amount of the cash payment will be determined based on the assumption that Target Level performance had been achieved). In each case, the cash amount will be adjusted on a pro rata basis to reflect the number of days the Participant was actually employed during such fiscal year. 
+
+^^^ \centered (b) The cash amount such Participant would receive under any Long-Term Cash Incentive Plan in effect at the time such Participant’s Qualifying Termination occurs,     
+
+
+^^^ \centered assuming the Target Level of performance under such Long-Term Cash Incentive Plan had been achieved. 
+
+^^^ \centered (c) Any Stock Awards of the Participant (other than Performance Vesting Stock Awards) will become immediately vested and payable in full in the form of stock on the date of a Qualifying Termination of the Participant and will be paid, distributed or transferred to the Participant in accordance with their terms. 
+
+^^^ \centered (d) Any Performance Vesting Stock Awards of the Participant will become immediately vested and payable in the form of stock on the date of a Qualifying Termination of such Participant, assuming the Target Level of performance under such Performance Vesting Stock Award had been achieved and will be paid, distributed or transferred to the Participant in accordance with their terms. 
+
+^^^ \centered (e) A cash amount, determined in the sole discretion of the Committee, with a value equal to any Perquisites that would have been provided to the Participant for a period of one year following the Qualifying Termination of such Participant. 
+
+^^ \centered 3.3 Severance Benefits for Tier 1 Participants. In the event the Company is obligated to provide Severance Benefits to any Tier 1 Participant pursuant to Section 3.1, such Tier 1 Participant will receive (in addition to the Severance Benefits described in Section 3.2) the following: 
+
+^^^ \centered (a) A cash amount equal to the sum of: (i) three times the Tier 1 Participant’s Annual Base Salary in effect on the date of his or her Qualifying Termination, plus (ii) three times the Tier 1 Participant’s then current bonus opportunity established under any Annual Incentive Plan, assuming the Target Level of performance under such Annual Incentive Plan had been achieved. 
+
+^^^ \centered (b) A cash amount equal to three times the maximum match (determined on an annual basis) the Tier 1 Participant would have received under any Qualified 401(k) Plan for the calendar year in which such Tier 1 Participant’s Qualifying Termination occurs, assuming such Tier 1 Participant had (i) earned “recognized compensation” during such calendar year equal to or greater than the maximum dollar amount permitted under the Code and (ii) deferred into the Qualified 401(k) Plan such maximum dollar amount for the calendar year. 
+
+^^^ \centered (c) A cash amount, determined in the sole discretion of the Committee, with a value equal to the benefits that would have been provided to the Participant for a period of three years after the date of such Participant’s Qualifying Termination under the Group Health Plan. 
+
+^^^ \centered (d) An additional supplemental retirement benefit equal to the increase to the Tier 1 Participant’s benefit under any SERP that would have occurred if the amount of such Tier 1 Participant’s benefit payable under the SERP was determined based on the assumption that the Tier 1 Participant had been continuously employed by the Company for the three-year period following the date of such Tier 1 Participant’s Qualifying Termination (with respect to both the Tier 1 Participant’s age and years of service);     
+
+
+^^^ \centered provided, however, that neither the time nor the form of payment of such Tier 1 Participant’s benefit under the SERP will be affected by such additional age and service credit, and such supplemental retirement benefit will be paid at the time and in the form the benefit under the SERP is paid. In determining the amount of such additional supplemental retirement benefit, a Tier 1 Participant’s “recognized compensation” will be deemed to include his or her Annual Base Salary and any payments received by the Tier 1 Participant pursuant to any Annual Incentive Plan during the year preceding his or her Qualifying Termination. 
+
+^^Notwithstanding the provisions of subsections (a) - (d) of this Section 3.3, the multiplier or period of years used to determine the benefits in each such subsection (i.e., three) shall be reduced two tenths (0.2) effective on each of the fifth through ninth anniversaries of the date the Tier 1 Participant was appointed to his or her then-current position, provided that the Tier 1 Participant has not experienced a Qualifying Termination prior to any such anniversary, so that the multiplier or period of years shall be two effective on the ninth such anniversary. If a Tier 1 Participant is appointed to a new position in which he or she remains or again becomes a Tier 1 Participant, the multiplier or period of years under subsections (a)  (d) shall be restored to three, subject to the future application of this subsection (e) based on the anniversaries of the Tier 1 Participant’s appointment to his or her new position.
+
+^^ \centered 3.4 Severance Benefits for Tier 2 Participants. In the event the Company is obligated to provide Severance Benefits to any Tier 2 Participant pursuant to Section 3.1, such Tier 2 Participant will receive (in addition to the Severance Benefits described in Section 3.2) the following: 
+
+^^^ \centered (a) A cash amount equal to the sum of: (i) two times the Tier 2 Participant’s Annual Base Salary in effect on the date of his or her Qualifying Termination, plus (ii) two times the Tier 2 Participant’s then current bonus opportunity established under any Annual Incentive Plan, assuming the Target Level of performance under such Annual Incentive Plan had been achieved. 
+
+^^^ \centered (b) A cash amount equal to two times the maximum match (determined on an annual basis) the Tier 2 Participant could have received under any Qualified 401(k) Plan for the calendar year in which such Tier 2 Participant’s Qualifying Termination occurs, assuming such Tier 2 Participant had (i) earned “recognized compensation” during such calendar year equal to or greater than the maximum dollar amount permitted under the Code and (ii) deferred into the Qualified 401(k) Plan such maximum dollar amount for the calendar year. 
+
+^^^ \centered (c) A cash amount, determined in the sole discretion of the Committee, with a value equal to the benefits that would have been provided to the Participant for a period of two years after the date of such Participant’s Qualifying Termination under the Group Health Plan. 
+
+^^^ \centered (d) An additional supplemental retirement benefit equal to the increase to the Tier 2 Participant’s benefit under any SERP that would have occurred if the amount of     
+
+
+^^^ \centered such Tier 2 Participant’s benefit payable under the SERP was determined based on the assumption that the Tier 2 Participant had been continuously employed by the Company for the two-year period following the date of such Tier 2 Participant’s Qualifying Termination (with respect to both the Tier 2 Participant’s age and years of service); provided, however, that neither the time nor the form of payment of such Tier 2 Participant’s benefit under the SERP will be affected by such additional age and service credit, and such supplemental retirement benefit will be paid at the time and in the form the benefit under the SERP is paid. In determining the amount of such additional supplemental retirement benefit, a Tier 2 Participant’s “recognized compensation” will be deemed to include his or her Annual Base Salary and any payments received by the Tier 2 Participant pursuant to any Annual Incentive Plan during the year preceding his or her Qualifying Termination. 
+
+^^ \centered 3.5 Termination Due to Disability or Death. Following a Change in Control, if a Participant’s employment with the Company is terminated due to Disability or death, the Company will pay any Unpaid Compensation through the date of such termination to the Participant or his or her designated beneficiaries (or, if there are no such designated beneficiaries, to the Participant’s estate), respectively. The payment of any other amounts or benefits to the Participant or his or her beneficiaries or estate will be determined in accordance with any Annual Incentive Plan, Long-Term Cash Incentive Plan, Equity Incentive Plan, the Company’s retirement, disability, insurance and survivors’ benefits plans and programs and other applicable plans and programs of the Company then in effect. 
+
+^^ \centered 3.6 Termination for Cause or by the Participant Without Good Reason. Following a Change in Control, if a Participant’s employment with the Company is terminated either by the Company for Cause or voluntarily by such Participant without Good Reason, the Company will pay the Participant (a) any Unpaid Compensation through the date of such termination, plus (b) all other amounts to which the Participant is entitled under any compensation plans of the Company, at the time such payments are due. The Company will have no further obligations to such Participant under this Plan. 
+
+^^ \centered 3.7 Notice of Termination. Any termination of a Participant’s employment by the Company for Cause or by the Participant for Good Reason will be communicated by Notice of Termination to such Participant or the Committee, as the case may be. 
+
+^^ \centered 3.8 Payment of Severance Benefits. The Severance Benefits described in Sections 3.2(a), (b) and (e), Sections 3.3(a), (b) and (c) and Sections 3.4(a), (b) and (c) will be paid in cash to a Participant in a single lump sum not later than the 15th day of the third calendar month following the date of the Qualifying Termination of such Participant (or, if such Participant dies before payment is made, to the Participant’s designated beneficiaries or estate not later than the 15th day of the third calendar month after the date of such Participant’s Qualifying Termination); provided, however, that no payment shall be made, and the Participant shall not be entitled to any Severance Benefits, unless the Participant has executed and not revoked the Settlement Agreement and General Release of Claims described in Section 4.1, and the period for such revocation has expired, before such payment is made or would otherwise be required.    
+
+
+^ \centered SECTION 4. RELEASE AND RESTRICTIVE COVENANTS 
+
+^^ \centered 4.1 Release. The Severance Benefits are in consideration of a Participant’s release of all claims against the Company pursuant to an agreement with terms substantially similar to the terms of the Separation Agreement and General Release of Claims set forth as Exhibit A to this Plan (the “Release”). If a Participant does not execute the Release or if he or she effectively revokes it, the Participant will not be entitled to any Severance Benefits. 
+
+^^ \centered 4.2 Restrictive Covenants. The Company’s obligation to provide the Severance Benefits to a Participant will be conditioned on the Participant’s continuing compliance with the confidentiality and non-disparagement, non-competition and non-solicitation covenants set forth in the Release. 
+
+^^ \centered 4.3 Services of Participant. The Company’s obligation to provide the Severance Benefits to a Participant will be conditioned upon the Participant’s continuing compliance with the covenants to provide services to the Company set forth in the Release. 
+
+^ \centered SECTION 5. TRUST 
+
+^^ \centered 5.1 Establishment of Trust. At any time but in no event later than the date of a Change in Control, the Company will establish a trust fund (the “Trust”) for the benefit of the Participants to secure the Severance Benefits to be provided under this Plan. The Company will fund the Trust with cash or with a letter of credit not later than such date of the Change in Control, or such earlier date if authorized by the Committee. Notwithstanding the foregoing, any obligations owed by the Company under this Plan are unfunded and unsecured liabilities of the Company. In the event of the Company’s insolvency or bankruptcy, the assets of the Trust will be treated like other corporate assets of the Company and will be subject to the claims of the Company’s creditors. Claims for benefits under this Plan will be treated like any other claim by the Company’s unsecured creditors, with no special preference for Participants. 
+
+^^ \centered 5.2 Trust Assets. Interest earned on amounts deposited by the Company into the Trust will be for the account of the Company, and, after payment of all cash Severance Benefits to the Participants under this Plan, any surplus amount held in the Trust will be retained by the Company. In the event any Participant who is eligible for Severance Benefits becomes subject to Taxes on the full amount held in the Trust for such Participant’s benefit, the Company will directly pay any such taxes due from the Trust. 
+
+^ \centered SECTION 6. EXCISE TAXES 
+
+^^^ \centered 6.1 Limitation for Excess Parachute Payments. 
+
+^^^ \centered (a) In the event a Participant becomes entitled to receive payments of Severance Benefits under the Plan, the Company will cause an independent accounting or other qualified firm (the “Tax Advisor”) promptly to review, at the Company’s sole expense, the applicability of Section 4999 of the Code to those payments. The Tax Advisor will determine whether the payment of Severance Benefits or any other amounts by the Company to a Participant or for a Participant’s benefit (whether paid or payable pursuant to the terms of this Plan or otherwise) (the “Total Payments”), would be subject     
+
+^^^ \centered to the excise Tax imposed by Section 4999 of the Code, and any interest or penalties with respect to such excise Tax (the excise Tax, together with any such interest and penalties, are collectively referred to herein as the “Excise Tax”). 
+
+^^^ \centered (b) If the Tax Advisor determines that Total Payments to any Participant would be subject to the Excise Tax, then the aggregate present value of Severance Benefits under the Plan shall be reduced to the extent necessary so that the aggregate present value of the Total Payments (determined in each case pursuant to Section 280G of the Code and applicable regulations promulgated thereunder) does not exceed the greatest amount that could be paid to the Participant such that the receipt of payments under this Plan would not give rise to any Excise Tax. In the event that a cutback described in this Section 6.1(b) is required, amounts payable to the Participant in cash shall be reduced first, followed by a reduction of other benefits, as determined by the Tax Advisor. The Tax Advisor shall make a final determination as to whether a reduction in the aggregate present value of the Total Payments to the Participant is required pursuant to this Section 6.1(b) not later than the latest date provided in Section 3.8 of this Plan for payment of Severance Benefits. 
+
+^^^ \centered (c) A Participant will in good faith cooperate with the Tax Advisor in making the determination of whether a reduction to Severance Benefits is required (including, without limitation, providing the Tax Advisor with information or documentation as reasonably requested by the Tax Advisor). 
+
+^^^ \centered (d) Any determination by the Tax Advisor regarding whether a reduction to Severance Benefits is required will be conclusive and binding upon the Participant and the Company for all purposes. 
+
+^ \centered SECTION 7. CLAIMS PROCEDURE 
+
+^^ \centered 7.1 Original Claim. Any Participant, former Participant, or beneficiary of such Participant or former Participant, if he or she so desires, may file with the Committee a written claim for Severance Benefits under this Plan. Within 90 days after the filing of such a claim, the Committee will notify the claimant in writing whether the claim is upheld or denied (in whole or in part), or will furnish the claimant a written notice describing specific special circumstances requiring a specified amount of additional time (but not more than 180 days from the date the claim was filed) to reach a decision on the claim. If the claim is denied in whole or in part, the Committee will state in writing: 
+
+^^^ \centered (a) the specific reasons for the denial; 
+
+^^^ \centered (b) the pertinent provisions of this Plan on which the denial is based; and 
+
+^^^ \centered (c) any additional material or information necessary for the claimant to perfect the claim, and an explanation of why such material or information is necessary. 
+
+^^Review of Denied Claim. Within 60 days after receipt of notice that the claim has been denied in whole or in part, the claimant may file with the Committee a written request for a review and may, in conjunction therewith, submit written issues and comments. Within 60 days after the filing of such a request for review, the Committee shall notify the claimant in writing whether, upon review, the claim was upheld or denied in whole or in part or shall furnish the claimant a written notice describing specific special circumstances requiring a specified amount of additional time (but not more than 120 days from the date the request for review was filed) to reach a decision on the request for review.
+
+^^General Rules. The following general rules will apply to all claims for Severance Benefits:
+
+^^^ \centered (a) No inquiry or question from a Participant regarding Severance Benefits will be deemed to be a claim or request for review of a denied claim, unless made in accordance with the procedures described in Section 7.1. The Committee may require that any claim for benefits be filed on forms to be furnished to the claimant upon request; 
+
+^^^ \centered (b) All decisions on claims and requests for review of denied claims will be made by the Committee; 
+
+^^^ \centered (c) The Committee may, in its discretion, hold one or more hearings on a claim or a request for a review of a denied claim; 
+
+^^^ \centered (d) A claimant may be represented by a lawyer or other representative (at the claimant’s own expense), but the Committee reserves the right to require the claimant to furnish written notice that such lawyer or other representative is authorized to represent the claimant; 
+
+^^^ \centered (e) The decision of the Committee on a claim or request for review of a denied claim will be provided to the claimant in writing. If a decision or notice is not received by a claimant within the time specified, the claim or request for a review of a denied claim will be deemed to have been denied; and 
+
+^^^ \centered (f) Prior to filing a claim or request for review of a denied claim, the claimant or his or her lawyer or other representative will have a reasonable opportunity to review a copy of this Plan and all other pertinent documents in the possession of the Company. 
+
+^ \centered SECTION 8. RIGHTS TO SEVERANCE BENEFITS AND LEGAL FEES 
+
+^^^ \centered 8.1 Severance Benefits Payments. 
+
+^^^ \centered (a) This Plan establishes in a Participant a right to the Severance Benefits to which such Participant is entitled hereunder, subject to the conditions of Section 4 and to the Committee’s right to terminate or amend this Plan in accordance with Section 1.3 and 10.8. The Company’s obligation to make the payments or distributions with respect to Severance Benefits will not be affected by any circumstances (including, without limitation, any offset, counterclaim, recoupment, defense or other right which the Company may have against the Participant). Notwithstanding the foregoing sentence, the Company will have no obligation to make any payment to any Participant under this Plan to the extent (but only to the extent) that such payment is prohibited by the terms of any final order of a federal or state court or regulatory agency of competent jurisdiction. Such     
+
+^^^ \centered final order will not affect, impair or invalidate any provision of this Plan not expressly subject to such order. 
+
+^^^ \centered (b) A Participant will not be obligated to seek other employment in mitigation of the Severance Benefits the Company is required to provide under this Plan, and the obtaining of any such other employment will in no event effect any reduction of the Company’s obligations to provide Severance Benefits under this Plan. 
+
+^^ \centered 8.2 Legal Fees and Expenses. The Company will pay all reasonable legal fees, costs of litigation, prejudgment interest and other expenses that are incurred in good faith by a Participant as a result of (a) the Company’s refusal to provide the Severance Benefits to which the Participant becomes entitled under this Plan, (b) the Company (or any third party) contesting the validity, enforceability or interpretation of this Plan or (c) any conflict between the Participant and the Company pertaining to this Plan; provided, however, that if a court determines that the Participant’s claims were brought without a reasonable belief in the merits of such claims, the Company will have no obligations under this Section 8.2. 
+
+^ \centered SECTION 9. SUCCESSORS 
+
+^^ \centered 9.1 Successors to the Company. The Company will require any successor to the Company (whether direct or indirect, by purchase, merger, reorganization, consolidation, acquisition of property or stock, liquidation or otherwise) to expressly assume and agree to perform this Plan in the same manner and to the same extent that the Company would be required to perform if no such succession had taken place. Regardless of whether such an agreement to such express assumption is obtained, this Plan will be binding upon any successor in accordance with the operation of law, and such successor will be deemed to be the “Company” for purposes of this Plan. 
+
+^^ \centered 9.2 Assignment by the Participant. This Plan will inure to the benefit of and be enforceable by the Participant’s personal or legal representatives or designated beneficiaries. If the Participant dies while any amount would still be payable to such Participant had he or she continued to live, all such amounts will be paid in accordance with the terms of this Plan to such Participant’s designated (or, if there are no such designated beneficiaries, to the Participant’s estate). 
+
+^ \centered SECTION 10. MISCELLANEOUS 
+
+^^ \centered 10.1 Administration and Committee Powers. This Plan will be administered by the Committee. The Committee will have full power, discretion and authority to interpret and construe this Plan, and the Committee’s interpretation and construction of this Plan will be conclusive and binding on the Participants, the Company and all other Persons. 
+
+^^ \centered 10.2 Employment Status. This Plan is not, and nothing herein will be deemed to create, an employment contract between the Participant and the Company. The Company may at any time change any Participant’s compensation, title, employment responsibilities, job location and any other aspect of the Company’s employment relationship with such Participant, or terminate such Participant’s employment prior to a Change in Control (subject to such     
+
+^^ \centered termination being determined to be a Pre-Change in Control Qualifying Termination pursuant to Section 3.1(b)). 
+
+^^ \centered 10.3 Entire Plan and Other Change in Control Plans. 
+
+^^^ \centered (a) This Plan contains the entire understanding of the Company and the Participant with respect to the subject matter hereof. In addition, the payment of any Severance Benefits in the event of a Participant’s termination of employment will be in lieu of any severance benefits payable under any other severance plan, program or policy of the Company to which the Participant might otherwise be entitled. 
+
+^^^ \centered (b) This Plan completely supersedes any and all prior change in control severance agreements, understandings or plans (including, without limitation, the Income Security Plan, as in effect immediately prior to the Effective Date), oral or written, entered into between the Company and a Participant. 
+
+^^ \centered 10.4 Notices. All notices, requests, demands, and other communications hereunder will be sufficient if in writing and will be deemed to have been duly given if delivered by hand or if sent by registered or certified mail to the Participant at the last address he or she has filed in writing with the Company, or, in the case of the Company, at its principal executive offices. 
+
+^^ \centered 10.5 Includable Compensation. Severance Benefits provided hereunder will not be considered “includable compensation,” “recognized compensation,” “recognized earnings” or “final average earnings” for purposes of determining the Participant’s benefits under any other plan or program of the Company, unless otherwise expressly provided in such other plan or program. 
+
+^^ \centered 10.6 Tax Withholding. The Company will withhold from any amounts payable under this Plan all federal, state or other Taxes legally required to be withheld. 
+
+^^ \centered 10.7 Severability. In the event any provision of this Plan is held illegal or invalid for any reason, the illegality or invalidity will not affect the remaining parts of this Plan, and this Plan will be construed and enforced as if the illegal or invalid provision had not been included. 
+
+^^ \centered 10.8 Amendment and Waiver. 
+
+^^^ \centered (a) Any provision of this Plan may be amended or modified (which modification may include the termination of any Participant’s participation in this Plan) by the Committee at any time; provided, however, that (i) during the period beginning on the date of a Change in Control and ending on the third anniversary date of such Change in Control, no provision of this Plan may be amended or modified (unless such modification or waiver is agreed to in writing by any affected Participant) and (ii) if a Change Event occurs during the 12-month period immediately prior to the date of a Change in Control, any amendment or modification to this Plan during such 12-month period will be deemed null and void (unless such modification or amendment is agreed to in writing by any affected Participant).    
+
+^^^ \centered (b) Any provisions of this Agreement may be waived in writing by the Company or the Participant, as the case may be. 
+
+^^ \centered 10.9 Applicable Law. The laws of the State of Delaware will be the controlling law in all matters relating to this Plan without giving effect to principles of conflicts of laws. 
+
+^^ \centered 10.10 Rules of Construction. Captions are provided in this Plan for convenience only, and such captions will not serve as a basis for interpretation or construction hereof. Unless otherwise expressly provided or unless the context otherwise requires, the terms defined in this Plan include the plural and the singular.    
+
+\centered **Exhibit A**
+
+\centered **[Form Agreement for Executive Severance Plan]**
+
+\centered **SEPARATION AGREEMENT**
+
+\centered **AND**
+
+\centered **GENERAL RELEASE OF CLAIMS**
+
+This Separation Agreement and General Release of Claims (“Agreement” or “General Release”) is made and entered into by and between [employee name], for himself/herself and on behalf of his agents, assigns, heirs, executors, administrators, attorneys and representatives (“[employee name]”) , and [[Organization 1 Name]], a Delaware corporation, any related corporations or affiliates, subsidiaries, predecessors, successors and assigns, present or former officers, directors, stockholders, board members, agents, employees, and attorneys, whether in their individual or official capacities, delegates, benefit plans and plan administrators, and insurers (“Company” or “ATK”).
+
+WHEREAS, [employee name]’s employment shall end as provided in this General Release. In consideration of [employee name]’s signing and complying with this General Release, ATK agrees to provide [employee name] with certain payments and other valuable consideration described below. Further, ATK and [employee name] desire to resolve and settle any and all potential disputes or claims related to his/her employment or termination of employment with ATK.
+
+WHEREAS, ATK has expended significant time and resources on promotion, advertising, and the development of goodwill and a sound business reputation through which it has developed a list of customers and prospective customers and identified those customers’ and prospective customers’ needs for ATK’s services and products. This information and goodwill are valuable, special and unique assets of ATK’s business, which [employee name] acknowledges constitute confidential, proprietary and trade secret information belonging to ATK.
+
+WHEREAS, ATK has expended significant time and resources on technology, research, and development through which it has developed products, processes, technologies and services that are valuable, special and unique assets of ATK’s business, which [employee name] acknowledges constitute confidential, proprietary and trade secret information belonging to ATK.
+
+WHEREAS, the disclosure to or use by third parties of any of ATK’s confidential, proprietary and/or trade secret information, or [employee name]’s unauthorized use of such information, would seriously harm ATK’s business and cause monetary loss that would be difficult, if not impossible, to measure.
+
+THEREFORE, ATK and [employee name] (the “Parties”) mutually agree to the following terms and conditions:
+
+\centered A-1
+
+
+^ \centered *Termination of Employment.* [Employee name]’s employment with ATK is terminated effective [termination date] (“Date of Termination”). 
+
+^^ \centered Final Paycheck. ATK will pay [employee name] for all salary earned through the Date of Termination within 30 days of Date of Termination. ATK will also pay for any accrued, but unused, vacation/PTO. [Employee name]’s continuing right, if any, under all other ATK employee benefits plans will be governed by those plans. 
+
+^^ \centered Restricted Stock. [Employee name] [does/does] not have any unvested and outstanding shares of restricted stock. 
+
+^^ \centered Performance Shares and Cash Incentive Payments. [Employee name] has xx Performance Awards as specifically stated below. These awards were granted under ATK’s 2005 Stock Incentive Plan, as amended, or ATKs Executive Officer Incentive Plan, and the awards are subject to the terms of the applicable plan, award agreements and ATK’s compensation system. Nothing in this Agreement creates any additional rights with respect to these awards. [Employee name] understands he/she will remain eligible to receive a prorated number of the performance shares and a prorated cash incentive payment earned (if any) based on the amount of active service time during the Performance period. Specifically: 
+
+^^ \centered (i) For the Performance Award for the ATK fiscal years 20xx through 20xx the proration is [fraction] of shares and cash. 
+^^ \centered (ii) For the Performance Award for the ATK fiscal years 20xx through 20ss the proration is [fraction] of shares and cash. 
+^^ \centered (iii) For the Performance Award for the ATK fiscal years 20xx through 20xx the proration is [fraction] of shares and cash. 
+
+^^ \centered ATK expects to make payment of these awards within 2 ½ months following the completion of the respective performance periods. The number of shares delivered and the amount of any cash payout depends on whether and to what extent (if any) ATK meets the objectives set forth pursuant to the respective Performance Awards and terms of the applicable plan. All payments will be taxed in accordance with the federal and state tax laws that apply and ATK practice and will be subject to the terms of the applicable Performance Award Agreement and the related plan. 
+
+^^ \centered Stock Options. [employee name] will immediately forfeit all unvested (not exercisable) stock options on the Date of Termination. All stock options that are exercisable on [employee name]’s Date of Termination remain exercisable until the earlier of (i) the option’s expiration date under the Non-Qualified Stock Option Agreement from which it was granted, or (ii) three years from [employee name]’s termination date. All terms of the Non-Qualified Stock Option Agreement(s) apply. 
+
+^^ \centered Deferred Compensation. Any compensation [employee name] deferred under the [[Organization 1 Name]] Nonqualified Deferred Compensation Plan (or predecessor plan) shall be paid in accordance with his/her pre-selected distribution options and the terms of that plan.  
+
+\centered A-2
+
+
+^ \centered *Severance Benefits. In exchange for the promises of this agreement, and after the applicable revocation period has ended, ATK will provide [employee name] with the severance benefits contained in the Executive Severance Plan and with any additional benefits identified in this Paragraph 2 (together referred to as “Severance Benefits”), provided that [employee name] has not revoked this General Release during the rescission period outlined in Paragraph 8 below.* 
+
+^^ \centered Severance Pay. Pursuant to ATK’s Executive Severance Plan, ATK will pay [employee name] a single lump-sum severance payment in the amount of $xxxxx, which is equal to xx months base pay. This severance payment will be subject to all applicable withholdings and will be taxable as payroll wages at the supplemental wage withholding rate. No 401(k) deductions will be taken from the payment nor is it pensionable earnings (for example, it is not “Earnings” or “Recognized Compensation”) for purposes of any ATK qualified or non-qualified employee benefits plans. This severance payment may be subject to additional deductions as described below in Paragraph 4. 
+
+^^ \centered Notice or Pay in Lieu of Notice. Pursuant to ATK’s Executive Severance Plan, ATK will provide [employee name] with at least two weeks’ notice of the Date of Termination, or will pay [employee name] two weeks of base pay at his/her regular rate in lieu of notice (“in lieu of” pay). [employee name]’s “in lieu of” pay will be subject to all applicable withholdings and will be taxable as payroll wages at the supplemental wage withholding rate. No 401(k) deductions will be taken from [employee name]’s “in lieu of” pay nor is it pensionable earnings (for example, it is not “Earnings” or “Recognized Compensation”) for purposes of any ATK qualified or non-qualified employee benefits plans. 
+
+^^ \centered Additional Lump Sum. [Employee name] is eligible to receive a single lump-sum payment in the amount of $[[USD Value 1: Number]]/$[[USD Value 2: Number]] to offset the cost of continuing health care coverage. This amount will be subject to all applicable withholdings and will be taxable as payroll wages. No 401(k) deductions will be taken from the payment nor is it pensionable earnings (for example, it is not “Earnings” or “Recognized Compensation”) for purposes of any ATK qualified or non-qualified employee benefits plans. 
+
+^^ \centered Annual Incentive Compensation. [Employee name] will be eligible to receive an annual cash incentive payment pursuant to the ATK Executive Officer Incentive Plan (“EIP”) in respect of the fiscal year ending [[Date 3: Date]], 20xx. The amount paid (if any) under the EIP will be based on the financial performance achieved as compared to the performance goals established at the beginning of ATK’s current fiscal year, subject to the terms of the EIP and ATK’s compensation system. The EIP amount (if any) will be paid in a single lump sum payment in cash (or deferred if the Nonqualified Deferred Compensation Plan provides for this as a previously elected deferral) at the time all other EIP participants receive payment of their annual cash incentive payments for such fiscal year. Such payment will be prorated based on his/her xx months of employment in FY0x. 
+
+^^ \centered Outplacement Services. [Employee name] will be entitled to participate in executive level outplacement services through Lee Hecht Harrison.  
+
+\centered A-3
+
+
+^^ \centered Independent Consideration. [Employee name] understands and agrees that he/she is only eligible for Severance Benefits because he/she has signed and not revoked this General Release. [employee name] acknowledges that he/she is not otherwise entitled to receive such additional and valuable consideration. Except as otherwise provided in Paragraph 7, by [employee name]’s signature on this General Release, he/she waives all rights to any other benefits or cash payments. Further, [employee name] agrees that these Severance Benefits are adequate consideration for the promises herein. 
+
+^^ \centered Delivery of Severance Pay and Additional Lump Sum. ATK will pay [employee name] the cash amounts under paragraph 2(a) and (c), the severance payment and additional lump sum, not later than the 15th day of the third calendar month after his/her Date of Termination, provided the time period for his/her right to revoke under paragraph 8 has also elapsed. That delivery date may be delayed further if necessary to be compliant with Section 409A of the Internal Revenue Code of 1986, as amended. 
+
+^ \centered *Post Employment Restrictions.* 
+
+^ \centered (a) Confidentiality and Non-Disparagement. [Employee name] acknowledges that in the course of his/her employment with ATK, he/she has had access to ATK’s confidential, proprietary and trade secret information. [employee name] agrees to maintain the confidentiality of ATK’s confidential, proprietary and trade secret information, and will not disclose or otherwise make such information available to any person, company, or other party, or use such information for [employee name]’s own benefit. Further, [employee name] agrees not to make any disparaging or defamatory comments about any ATK employee, director, or officer, the Company, or any aspect of his/her employment or termination from employment with ATK. 
+
+^^Competition Restrictions. From [date through date  6 months - 12 months] (“Noncompetition Restricted Period”), [employee name] agrees that he/she will not, directly or indirectly, personally engage in, own, manage, operate, join, control, consult with, participate in the ownership, operation or control of, or be employed by any person or entity that develops, manufactures, distributes, markets or sells services or products competitive with those that ATK manufactures, markets or sells to any customer anywhere in the world. If during the Restricted Period [employee name] wishes to obtain other employment which [employee name] in good faith believes would not violate this Paragraph 3(b), he/she agrees to meet and confer in good faith with ATK regarding the applicability of this Paragraph 3(b) to such employment, prior to accepting such employment.
+
+^^Nonsolicitation. From [date through date  6 months - 12 months] (“Nonsolicitation Restricted Period”), [employee name] will not, directly or indirectly, solicit any of ATK’s employees for the purpose of hiring them or inducing them to leave their employment with ATK, nor will [employee name] own, manage, operate, join, control, consult with, participate in the ownership, management, operation or control of, be employed by, or be connected in any manner with any person or entity that engages in the conduct proscribed by this paragraph during the restricted period.
+
+\centered A-4
+
+^^Breach of Post-Employment Restrictions. If [employee name] breaches any of his/her obligations under this Paragraph 3, then he/she will not be entitled to, and shall return, 25 percent of the Severance Pay provided in Paragraph 2(a). ATK will be entitled to attorneys’ fees and costs incurred in seeking injunctive relief and damages including collecting the repayment of applicable consideration. Such action on the part of ATK will not in any way affect the enforceability of the General Release of Claims provided in Paragraph 5, which is adequately supported by the remaining Severance Benefits provided in Paragraph 2.
+
+^ \centered 4. Return of ATK Property. Before his/her last day of employment, [employee name] agrees to return all ATK property in his/her possession or control including, but not limited to, confidential or proprietary information, credit card, computer, documents, records, correspondence, identification badge, files, keys, software, and equipment. Further, [employee name] agrees to repay to ATK any amounts that he/she owes for personal credit card expenses, wage advances, employee store purchases, and used, but unaccrued, vacation/PTO time. These amounts, if any, may be withheld from [employee name]’s severance payment. 
+
+^ \centered 5. General Release of Claims. Except as stated in Paragraph 7, [employee name] hereby releases and forever discharges ATK from all claims and causes of action, whether or not [employee name] currently has knowledge of such claims and causes of action, arising, or which may have arisen, prior to [employee name]’s execution of this Agreement and out of or in connection with his/her employment or termination of employment with ATK. This General Release includes, but is not limited to, claims, demands or actions arising under any federal or state law such as the Age Discrimination in Employment Act (“ADEA”), the Older Workers Benefit Protection Act (“OWBPA”), Title VII of the Civil Rights Act of 1964 (“Title VII”), the Civil Rights Act of 1991, the Americans with Disabilities Act (“ADA”), the Equal Pay Act, 42 U.S.C. §§ 1981, 1983 and 1985, the Family Medical Leave Act (“FMLA”), the Employee Retirement Income Security Act of 1978 (“ERISA”), the Worker Adjustment Retraining and Notification Act (“WARN”), the National Labor Relations Act (“NLRA”), the Occupational Safety and Health Act (“OSHA”), the Sarbanes-Oxley Act, and the Rehabilitation Act, all as amended. This General Release specifically includes any rights or claims arising under the Minnesota Human Rights Act, the Minnesota Equal Pay for Equal Work Law, Minn. Stats. §§ 181.81, 176.82, 181.931-935, and 181.940-944, and any other statutes and common law of the State of Minnesota, all as amended. 
+
+^ \centered *This General Release includes any rights or claims arising under any state human rights or fair employment practices act, or any other federal, state or local statute, ordinance, regulation or order regarding conditions of employment, compensation for employment, termination of employment, or discrimination or harassment in employment on the basis of age, gender, race, religion, disability, national origin, sexual orientation, or any other protected characteristic, and the common law of any state.* 
+
+^ \centered *[Employee name] agrees that this General Release extends to all claims, demands or causes of action which he/she may have against ATK which arose prior to [employee name]’s execution of this Agreement based upon statutory or common law claims for breach of contract, breach of employee handbooks or other policies, breach of promises, fraud, wrongful discharge,*  
+
+\centered A-5
+
+
+^ \centered *defamation, emotional distress, whistleblower claims, negligence, assault, battery, or any other theory, whether legal or equitable.* 
+
+[Employee name] agrees that this General Release includes all damages available under any theory of recovery, including, without limitation, any compensatory damages (including all forms of back-pay or front-pay), attorneys’ fees, liquidated damages, punitive damages, treble damages, emotional distress damages, pain and suffering damages, consequential damages, incidental damages, statutory fines or penalties, and/or costs or disbursements. Except as stated in Paragraph 7, [employee name] is completely and fully waiving any rights under the above stated statutes, regulations, laws, or legal or equitable theories.
+
+^ \centered 6. Breach of General Release of Claims. If [employee name] breaches any provision of the General Release of Claims provided in Paragraph 5, then he/she will not be entitled to, and shall return, 75 percent of the Severance Pay provided in Paragraph 2(a). ATK will be entitled to attorney’s fees and costs incurred in its defense including collecting the repayment of applicable consideration. Such action on the part of ATK will not in any way affect the enforceability of the Post-Employment Restrictions provided in Paragraph 3, which are adequately supported by the remaining Severance Benefits provided in Paragraph 2. 
+
+^ \centered 7. Exclusions from General Release. [Employee name] is not waiving his/her rights to any vested pension and/or 401(k) benefits pursuant to these ERISA plans. [employee name] also is not waiving his/her right to enforce the terms of this General Release or to challenge the knowing and voluntary nature of this General Release under the ADEA as amended; or his/her right to assert claims, demands or causes of action, including but not limited to claims under the ADEA, that arise after [employee name] executes this General Release. [employee name] agrees that ATK reserves any and all defenses, which it has or might have against any claims, demands or causes of action brought by [employee name]. This includes, but is not limited to, ATK’s right to seek available costs and attorneys’ fees, and to have any money or other damages that might be awarded to [employee name], reduced by the amount of money paid to him/her under to this General Release. Nothing in this General Release interferes with [employee name]’s right to file a charge with the Equal Employment Opportunity Commission (“EEOC”), or to participate in an EEOC investigation or proceeding. Nevertheless, [employee name] understands that he/she has waived his/her right to recover any individual relief or money damages, which may be awarded on such a charge. 
+
+^ \centered 8. Right to Revoke. This General Release does not become effective for a period of 15 days after [employee name] signs it and [employee name] has the right to cancel it during that time. Any decision to revoke this General Release must be made in writing and hand-delivered to ATK or, if sent by mail, postmarked within the 15 day time period and addressed to [name and title], [[Organization 1 Name]], 7480 Flying Cloud Drive, Minneapolis, MN 55344. [Employee name] understands that if he/she decides to revoke this General Release, he/she will not be entitled to any Severance Benefits. 
+
+^ \centered 9. Unemployment Compensation Benefits. If [employee name] applies for unemployment compensation, ATK will not challenge his/her entitlement to such benefits. [Employee name]   
+
+\centered A-6
+
+
+^ \centered *understands that ATK does not decide whether a person is eligible for unemployment compensation benefits, or the amount of the benefit.* 
+
+^ \centered 10. No Wrongdoing. By entering into this General Release, ATK does not admit that it has acted wrongfully with respect to [employee name]’s employment or that he/she has any rights or claims against it. 
+
+^ \centered 11. No Adequate Remedy at Law. [Employee name] acknowledges and agrees that his/her breach of the Post-Employment Restrictions provided in Paragraph 3 would cause irreparable harm to ATK and the remedy at law would be inadequate. Accordingly, if [employee name] violates such Paragraph, ATK is entitled to injunctive relief in addition to any other legal or equitable remedies. 
+
+^ \centered 12. Choice of Law and Venue. The terms of this General Release will be governed by the laws of Minnesota (without regard to conflict of laws principles). Any legal action to enforce this General Release shall be brought in a competent court of law in Hennepin County, Minnesota. 
+
+^ \centered 13. Severability. If any of the terms of this General Release are deemed to be invalid or unenforceable by a court of law, the validity and enforceability of the remaining provisions of this General Release will not in any way be affected or impaired. In the event that any court having jurisdiction of the Parties should determine that any of the post-employment restrictions set forth in Paragraph 3 of this General Release are overbroad or otherwise invalid in any respect, [employee name] acknowledges and agrees that the court so holding shall construe those provision to cover only that scope, duration or extent of those activities which may validly and enforceably be restricted, and shall enforce the restrictions as so construed. The Parties acknowledge the uncertainty of the law in this respect and expressly stipulate that this Agreement shall be construed in a manner which renders its provisions valid and enforceable to the maximum extent (not exceeding its express terms) possible under applicable law. 
+
+^ \centered 14. No Assignment. This General Release is personal to [employee name] and cannot be assigned to any other person or entity. 
+
+^ \centered 15. Attorneys’ Fees. [Employee name] understands that he/she is responsible to pay his/her own costs and attorneys’ fees, if any, that are incurred in consulting with an attorney about this General Release. 
+
+^ \centered 16. Entire Agreement. This General Release constitutes the entire agreement between ATK and [employee name] regarding the subject matter included in this document. [Employee name] agrees that there are no promises or understandings outside of this General Release, except with respect to his/her continuing obligations not to reveal ATK’s proprietary, confidential, and trade secret information, as well as his/her obligations to maintain the confidentiality of secret or top secret information. This General Release supercedes and replaces all prior or contemporaneous discussions, negotiations or General Releases, whether written or oral, except as set forth herein. Any modification or addition to this General Release must be in writing, signed by an officer of ATK and [employee name].  
+
+\centered A-7
+
+
+^ \centered 17. Eligibility and Opportunity to Review. 
+
+^^ \centered All employees who are eligible to participate in the Executive Severance Plan must execute and not revoke this General Release in order to receive Severance Benefits. 
+
+^^ \centered [Employee name] certifies that he/she is signing this General Release voluntarily and with full knowledge of its consequences. [employee name] understands that he/she has 21 days from the date he/she received this General Release to consider it, and that he/she does not have to sign it before the end of the 21 day period. [Employee name] is advised to use this time to consult with an attorney prior to executing this General Release. [Employee name] agrees that if he/she signs this General Release prior to the twenty-first day, he/she did so because he/she had sufficient time to review and consider the General Release and to consult with an attorney if he/she wished to do so. 
+
+^^ \centered [Employee name] understands that the offer to accept this General Release remains open for 21 days. Changes to this General Release, whether material or immaterial, do not restart the 21 day period. If [employee name] has not signed this General Release within 21 days of receiving it, then this offer expires and ATK will be under no obligation to accept this General Release or to provide any Severance Benefits. 
+
+^ \centered 18.**Understanding and Acknowledgement****. [employee name] understands all of the terms of this General Release and has not relied on any oral statements or explanation by ATK. [Employee name] has had adequate time to consult with legal counsel and to consider whether to sign this General Release, and [employee name] is signing this General Release knowingly and voluntarily.** 
+
+[Employee name] executes this General Release by his/her signature below.
+
+Date:         [Insert employee name]
+
+Employee’s Signature
+
+Date:         [[Organization 1 Name]]
+
+[[Date         [[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{Date         [[Organization 1 Name]] Entity => By: [[Date         [[Organization 1 Name]] Signatory First Name]] [[Date         [[Organization 1 Name]] Signatory Last Name]]
+Title: [[Date         [[Organization 1 Name]] Signatory Title]]}}
+
+
+\centered A-8

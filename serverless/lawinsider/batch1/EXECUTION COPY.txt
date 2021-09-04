@@ -1,0 +1,150 @@
+.1**    
+**License Reference Number L095638A**  
+
+\centered    PATENT LICENSE  
+
+**PATENT LICENSE AGREEMENT** (“Patent Agreement”) between [[IBM]], a [[State of Formation: State]] [[Organization: EntityType]] (“IBM”), and [[NEXX]], a [[State of Formation: State]] [[Organization: EntityType]] (“NEXX”).
+
+WHEREAS, concurrent with the execution of this Patent Agreement, the parties are entering into an agreement entitled “Joint Development Agreement between [[IBM]] and [[NEXX]]” (“JDA”) under which IBM and NEXX shall be licensing to each other certain technology, more specifically defined in the JDA;
+
+WHEREAS, in light of the JDA both parties desire to grant to one another and acquire from one another a license to certain patents, as more specifically defined herein,
+
+WHEREAS, for the purposes of this Patent Agreement the definitions in Section 1 of this Patent Agreement shall take precedence in this Patent Agreement, unless a definition in the JDA is used that is not in Section 1 of this Patent Agreement, in which case the definition of the JDA on the Patent Agreement Date shall take precedence. However, any amendment to the JDA other than to this Patent Agreement shall not apply to this Patent Agreement unless specifically amended in this Patent Agreement and signed by the IBM signator of this Patent Agreement below or his designee,
+
+NOW THEREFORE, in consideration of the premises and mutual covenants herein contained and contained in the JDA, IBM and NEXX agree as follows:
+
+^**Definitions**  
+“Patent Agreement Date” shall mean the date by which this Patent Agreement is signed by both parties.
+
+“Effective Date” shall mean the date defined as the Effective Date in the JDA.
+
+“Futures Date” shall mean the date one year and one day after the termination or expiration of the JDA.
+
+“IHS Product” shall mean an Information Handling System or any instrumentality or aggregate of instrumentalities (including, without limitation, any component, subassembly, computer program or supply) designed for incorporation in an Information Handling System. Any instrumentality or aggregate of instrumentalities primarily designed for use in the fabrication (including testing) of an IHS Product shall not be considered to be an IHS Product.
+
+“Information Handling System” shall mean any instrumentality or aggregate of instrumentalities primarily designed to compute, classify, process, transmit, receive, retrieve, originate, switch, store, display, manifest, measure, detect, record, reproduce, handle or utilize any form of information, intelligence or data for business, scientific, control or other purposes.
+
+“IBM Licensed Patent” shall mean all patents throughout the world that would necessarily be infringed by use of the [[Organization 1 Name]] within the scope of the licenses granted under the JDA to make, use and/or sell NEXX Licensed Product, as those terms are defined in the. JDA, and:
+
+^^issued or issuing on patent applications entitled to an effective filing date prior to the Futures Date; and
+
+^^under which patents or the applications therefor IBM or any of its Subsidiaries has as of the Patent Agreement Date, or thereafter obtains, the right to grant licenses to NEXX of or within the scope granted herein without such grant or 'the exercise of rights thereunder resulting in the payment of royalties or other consideration by IBM or its Subsidiaries to third parties (except for payments among IBM and its Subsidiaries, and payments to third parties for inventions made by said third parties while employed by IBM or any of its Subsidiaries).
+
+Licensed Patents shall include: patent applications entitled to an effective filing date prior to Futures Date which satisfy part (b) of this definition; and patent applications (including reissues, continuations, divisionals and. continuations-in-part) and patents issuing thereon, which claim priority from a Licensed Patent owned by IBM or any of its Subsidiaries on or after the Patent Agreement Date, and which patent applications are filed on or after the Patent Agreement Date by a subsequent assignee of said Licensed Patent, by IBM or by IBM's Subsidiary, but only to the extent the claims of said patent applications are entitled to said priority.
+
+“IBM Licensed Products” shall mean IHS Products.
+
+“NEXX Licensed Patents” shall mean all patents throughout the world that read on the [[Organization 1 Name]] and/or the [[Organization 2 Name]], as those terms are defined in the JDA, and:
+
+^^issued or issuing on patent applications entitled to an effective filing date prior to the Futures Date; and
+
+^^under which patents or the applications therefor NEXX or any of its Subsidiaries has as of the Patent Agreement Date, or thereafter obtains, the right to grant licenses to IBM of or within the scope granted herein without such grant or the exercise of rights thereunder resulting in the payment of royalties or other consideration, by NEXX or its Subsidiaries to third parties (except for payments among NEXX and its Subsidiaries, and payments to third parties for inventions made by said third parties while employed by NEXX or any of its Subsidiaries).
+
+Licensed Patents shall include: patent applications entitled to an effective filing date prior to Futures Date which satisfy part (b) of this definition; and patent applications (including reissues, continuations, divisionals and continuations-'in-part) and patents. issuing thereon, which claim priority from a . Licensed Patent owned by NEXX or any of its Subsidiaries on or after the Patent Agreement Date, and which patent applications are filed on or after the Patent Agreement Date by a subsequent assignee of said Licensed Patent,. by NEXX or by NEXX's Subsidiary, but only to the extent the claims of said patent applications are entitled to said priority.
+
+“NEXX Licensed Products” shall have the meaning set forth in the JDA.
+
+“Subsidiary” shall have the meaning set forth in the JDA.
+
+^**Grants of Rights and Release**  
+2.1.1 Each party, as Grantor, on behalf of itself and its Subsidiaries grants to the other party, as Grantee, a nonexclusive and worldwide license under Grantor Licensed Patents:
+
+^^to make (including the right to use any apparatus and practice any method in making), use, import, have imported,offer for sale, lease, sell and/or otherwise transfer Grantee Licensed Products; and
+
+^^to have Grantee Licensed Products made by anothermanufacturer for the use, importation, offer for sale, lease, sale and/or other transfer by Grantee only when the conditions set forth in Section 2.2 are met.
+
+The license granted by NEXX to IBM is fully paid up.
+
+2.1.2 NEXX, on behalf of itself and its Subsidiaries, grants to IBM, a nonexclusive, paid up and worldwide license under NEXX Licensed Patents:
+
+^^to use, import, and have imported apparatus for manufacturing IHS Products; and
+
+^^to make (including the right to use any apparatus and practice any method in making) and have made, subject to the same terms and conditions of Section 4.2.2 of the JDA, apparatus for manufacturing IHS Products for the use and importation by IBM only when the conditions set forth in Section 2.2 are met.
+
+^^The license granted in Section 2.1.1(b) and 2.1.2(b) to Grantee to have products made by another manufacturer:
+
+^^shall only apply to products sold to Grantee after the Patent Agreement Date;
+
+^^shall only apply to Grantee Licensed Products and/or portions thereof for which the specifications were created by Grantee (either solely or jointly with one or more third parties) or for Grantee;
+
+^^shall only be under claims of Grantor's Licensed Patents, the infringement of which would be necessitated by compliance with such specifications; and
+
+^^shall not apply to (i) any products in the form manufactured or marketed by said other manufacturer prior to Grantee's furnishing of said specifications, or (ii) any methods used by said other manufacturer.
+
+Unless Grantee informs Grantor to the contrary, Grantee shall be deemed to have authorized said other manufacturer to make . Grantee's Licensed Products under the license granted to Grantee in this section when the conditions specified in this Section 2.2 are fulfilled. In response to a written request identifying a product and a manufacturer, Grantee shall in a timely manner inform Grantor of the quantity of such product, if any, manufactured by such manufacturer pursuant to the license granted in Section 2.1.1(b) and 2.1.2(b).
+
+^^Except as expressly provided herein, no license or immunity is granted under this Patent Agreement by either party, either directly or by implication, estoppel or otherwise to any third parties acquiring items from either party for the combination of such acquired items with other items (including items acquired from either party hereto) or for the use of such combination.
+
+^^Subject to Section 2.5, the licenses granted herein include the right of each party to grant sublicenses to its Subsidiaries existing on or after the Patent Agreement Date, which sublicenses may include the right of sublicensed Subsidiaries to sublicense other Subsidiaries of said party. No sublicense shall be broader in any respect at any time during the life of this Patent Agreement than the license held at that time by the party that granted the sublicense.
+
+^^A sublicense granted to a Subsidiary shall terminate on the earlier of:
+
+^^the date such Subsidiary ceases to be a Subsidiary of a party hereto; and
+
+^^the date of termination or expiration of the license of the party or Subsidiary that granted the sublicense.
+
+If a Subsidiary ceases to be a Subsidiary and holds any patents under which a party hereto is licensed, such license shall continue for the term defined herein.
+
+^^In the event that neither a party nor any of its Subsidiaries has the right to grant a license under any particular Licensed Patent of the scope set forth in Section then the license granted herein under said Licensed Patent shall be of the broadest scope which said party or any of its Subsidiaries has the right to grant within the scope set forth above.
+
+^**Payment**  
+^^Consideration for the license granted to NEXX hereunder shall be [[Percentage 1: Number]]% of the Selling Price of NEXX Licensed Products and shall constitute a portion of the royalty paid for a particular Licensed Product under Section 5.1 of the JDA.
+
+^^No license is granted under this Patent Agreement for any NEXX Licensed Product for which the royalty under Section 5.1 of the JDA is not paid.
+
+^**Term and Termination**  
+^^The term of the licenses granted under this Patent Agreement shall commence on the Effective Date and continue for the life of the Licensed Patents, unless earlier terminated pursuant to this Section 4; provided, however, that this Patent Agreement shall be void ab initio if the JDA does not become effective for any reason prior to [[Date 1: Date]].
+
+^^The licenses granted to a party under this Patent Agreement, and all sublicenses granted by such party, shall terminate if the licenses granted to such party under the-JDA terminate for any reason.
+
+^**Means of Payment and Communication**
+
+^^Notices and other communications shall include the License Reference Number above and be sent by email, facsimile, reputable overnight courier, or by registered or certified mail to the following addresses and shall be effective upon sending:
+
+\centered For IBM: Director of Licensing IBM Corporation North Castle Drive, MD-NC119 [[Address 1: Address]]-1785 Facsimile: [[Phone 1]] Email: **[[Email 1]]**   For NEXX: CFO [[Person 1 First Name]] [[Person 1 Last Name]] [[NEXX]] [[Address 2: Address]]-3929 Facsimile: [[Phone 2]] Email:  
+
+^**Miscellaneous**  
+^^Neither party shall assign or grant any right under any of its Licensed Patents unless such assignment or grant is made subject to the terms of this Patent Agreement.
+
+^^Except as otherwise permitted in this Section 6.2, neither party shall assign any of its rights (other than the right to receive payments) or delegate any of its obligations under this Patent Agreement without the written consent of the other party. Any attempt to do so shall be void. However, a party which undergoes reorganization may assign such rights, privileges and obligations to its legal successor, provided that after the reorganization, the successor and its Subsidiaries will have essentially the same assets as such party and its Subsidiaries had prior to the reorganization. In addition, this Patent Agreement, including the rights, privileges and obligations of a party, shall be assignable by a party in connection with an assignment of such party's rights, privileges and obligations under the JDA, but in such case, only t o the assignee of such rights, privileges and obligations under the JDA.
+
+^^Neither party shall use or refer to this Patent Agreement or any of its provisions in any promotional activity.
+
+^^Each party represents and warrants that it has the full right and power to grant the license set forth in Section 2. Neither party makes any other representation or warranty, express or implied, nor shall either party have any liability in respect of any infringement of patents or other rights of third parties due to the other party's operation under the license herein granted.
+
+^^Nothing contained in this Patent Agreement shall be construed as conferring any rights by implication, estoppel or otherwise, under any non-patent intellectual property right, or any patents or patent applications, other than the Licensed Patents. Neither party is required hereunder to furnish or disclose to the other any technical or other information (including copies of Licensed Patents) except as specifically provided herein.
+
+^^Neither party shall have any obligation hereunder to institute any action or suit against third parties for infringement of any of its Licensed Patents or to defend any action or suit brought by a third party which challenges or concerns the validity of any of its Licensed Patents. Neither party shall have any right to institute any action or suit against third parties for infringement of any of the other party's Licensed Patents. Neither party, nor any of its Subsidiaries, is required to file any patent application, or to secure any patent or patent rights, or to maintain any patent in force.
+
+^^This Patent Agreement shall not be binding upon the parties until it has been signed hereinbelow by or on behalf of each party. No amendment or modification hereof shall be valid or binding upon the parties unless made in writing and signed as aforesaid, except that either party may amend its address in Section 5.1 by written notice to the other party.
+
+^^If any section of this Patent Agreement is found by competent authority to be invalid, illegal or unenforceable in any respect for any reason, the validity, legality and enforceability of such section in every other respect and the remainder of this Patent Agreement shall continue in effect so long as the Patent Agreement still expresses the intent of the parties. However, if the intent of the parties cannot be preserved, this Patent Agreement shall be either renegotiated or terminated.
+
+^^This Patent Agreement shall be construed, and the legal relations between the parties hereto shall be determined, in accordance with the law of the State of New York, USA, as such law applies to contracts signed and fully performed in New York.
+
+^^The headings of sections are inserted for convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Patent Agreement.
+
+^^Neither party shall be considered the author of this Patent Agreement for the purpose of interpreting any provision herein.
+
+^^Until the Futures Date, each party, on behalf of itself.and its Subsidiaries, agrees not to disclose any term or condition of this Patent Agreement to any third party without the prior written consent of the other party. This obligation is subject to the following exceptions:
+
+^^disclosure is permissible if required by government or court order, provided the'party required to disclose first gives the other prior written notice to enable it to seek a protective order, if otherwise required by law, if required to enforce rights under this Patent Agreement; and to the extent reasonably necessary, on a confidential basis, to its accountants, attorneys, financial advisors, its present or future providers of venture capital and/or potential investors in or acquirers of such party;
+
+^^each party may use similar terms and conditions in other agreements; and
+
+^^each party may disclose only the scope of the licenses and immunities granted hereunder (but not any financial terms) to the extent reasonably necessary, on a confidential basis, to its customers, potential customers, and other third parties with which it has a current or potential commercial relationship.
+
+^^This Agreement and any amendments hereto may be signed in one or more counterparts, each of which, when signed and delivered, shall be deemed to be an original. All such counterparts together shall constitute one and the same valid and binding agreement, even if all of the parties have not signed the same counterpart. Signatures to this Agreement may be delivered by facsimile, in which case the facsimile copy of an original signature shall be deemed to be an original signature.
+
+This Patent Agreement embodies the entire understanding of the parties with respect to the Licensed Patents, and replaces any prior oral or written communications between them.
+
+Agreed to:         Agreed to:
+[[NEXX]]         [[IBM]]
+
+[[NEXX         IBM Signatory Email: Identity | Signature]]
+__________________________________________
+{{NEXX         IBM Entity => By: [[NEXX         IBM Signatory First Name]] [[NEXX         IBM Signatory Last Name]]
+Title: [[NEXX         IBM Signatory Title]]}}
+
+
+Date: 2/11/09         Date: 2/11/09

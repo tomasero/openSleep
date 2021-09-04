@@ -1,0 +1,66 @@
+\centered **[[[Organization 1 Name]] letterhead]** 
+
+\centered [[Date 1: Date]] 
+
+Mr. [[Person 1 First Name]] [[Person 1 Last Name]] 
+
+[address] 
+
+[address] 
+
+Re: Offer of Employment 
+
+Dear Brian: 
+
+On behalf of [[Organization 1 Name]] (the “Company”), I am pleased to offer you the position of Chief Financial Officer. In this position, you would also serve as [[Organization 1 Name]]’ principal financial officer and principal accounting officer as those terms are defined under the rules of the Securities and Exchange Commission. We would like you to begin serving in this role on [[Date 2: Date]]. 
+
+This is a full-time position and you will be expected to devote all of your working time and ability to the performance of your duties. From [[Date 2]] to [[Date 3: Date]], you may provide transition services to your former employer provided that it does not interfere with your responsibilities at the Company. Any outside business activities will require prior authorization by the Chief Executive Officer. You will report to the Company’s Chief Executive Officer. 
+
+You will be paid a base annual salary of $[[USD Value 1: Number]] (less taxes and applicable withholdings) according to the Company’s normal payroll practices and policies. The statement of annual salary does not imply a guarantee of employment for any specific length of time. If your employment terminates, you will be paid a prorated amount through your actual last day of employment. 
+
+In fiscal year 2010, you will not be eligible for a cash bonus under the [[Organization 1 Name]] incentive plan. In fiscal year 2011 (which begins [[Date 4: Date]]), you will be eligible for a cash bonus of [[Percentage 1: Number]]% of your base salary at the target level based on achievement of specific goals to be determined by the Compensation Committee of the Board of Directors. The incentive target will be based upon a Board-approved Fiscal Year 2010 Plan and appropriate metrics in that Plan. As an executive officer of [[Organization 1 Name]], [[Organization 1 Name]] is willing to enter into an agreement (“Change in Control Agreement”) with you providing that if a “change in control” occurs and your employment is terminated without “cause,” or by you for “good reason” within twelve months of a change in control, [[Organization 1 Name]] will pay you a cash severance payment in a single sum within 60 days of the date of termination equal to [[Percentage 2: Number]]% of your annual target compensation (base salary and bonus) in effect on such date. A copy of the Change in Control Agreement is attached to this letter. 
+
+^am also pleased to inform you that as part of your employment offer, and following approval by the Compensation Committee of the Board of Directors, you will be granted an incentive stock option to purchase [[Shares 1: Number]] shares of the Company’s common stock at an exercise price determined by the closing market price of the stock on the date of grant. These options shall vest as follows: [[Percentage 3: Number]]% of the shares shall vest on the first anniversary of the grant date; and thereafter 1/36th of the shares underlying the option will vest on the monthly anniversary of the date of 
+
+Mr. [[Person 1 First Name]] [[Person 1 Last Name]] 
+
+[[Date 1]] 
+
+Page 2 
+
+grant for each of the next 36 months. The stock option grant will be evidenced by an agreement and will be subject in all respects to the terms and conditions of the [[Organization 1 Name]] Amended and Restated 1991 Stock Option Plan, as amended. 
+
+You will be eligible for the full range of Company benefits. [[Organization 1 Name]] offers medical, dental, life, flexible spending account, 401(k), AD&D, short-term and long-term disability coverage. The costs of benefits will vary depending upon the coverage you elect. You will be eligible to participate in our medical and dental, life, AD&D, short-term and long-term disability and flexible spending programs on the first of the month following your date of employment. You will be eligible to participate in our 401(k) program following an initial 90-day waiting period. If you have any questions on benefits, please feel free to contact [[Person 2 First Name]] [[Person 2 Last Name]] at [[Phone 1]]. You will be entitled to accrue up to 120 hours of vacation annually. 
+
+All necessary and reasonable business travel expenses you incur will be reimbursed in accordance with the [[Organization 1 Name]] Business Travel Policy. 
+
+As a condition of your employment and for purposes of federal immigration law, you are required to provide the Company documentary evidence of your identity and eligibility for employment in the United States. In order to ensure timely processing of your paycheck, such documentation must be provided to us within three business days of your date of employment. 
+
+You will also be required to sign a [[Organization 1 Name]] Agreement Regarding Employment, Inventions, Confidential Information and Non-Competition (copy attached) as a condition of your employment. This letter, along with the foregoing agreement relating to proprietary rights, confidentiality and non-competition and the Change in Control Agreement, sets forth the terms of your employment with the Company and supersedes any prior representations or agreements between us, whether written or oral. This letter may not be modified or amended except by a written agreement signed by the Chief Executive Officer and by you. 
+
+This offer of employment will expire [[Date 5: Date]], if not formally accepted. If the provisions of this offer are acceptable to you, please sign one copy of this offer letter and return it to me at your earliest convenience. The second original copy is for your personal files. I would ask that you sign both, keep one copy and return the other copy to me (along with a signed copy of this letter, the [[Organization 1 Name]] Agreement Regarding Employment, Inventions, Confidential Information and Non-Competition and the Change in Control Agreement). 
+
+In the meantime, please feel free to contact me if you have any questions. 
+
+Sincerely, 
+
+[[Sincerely Signatory Email: Identity | Signature]]
+__________________________________________
+{{Sincerely Entity => By: [[Sincerely Signatory First Name]] [[Sincerely Signatory Last Name]]
+Title: [[Sincerely Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]], Jr.
+Chief Executive Officer
+
+Mr. [[Person 1 First Name]] [[Person 1 Last Name]] 
+
+[[Date 1]] 
+
+Page 3 
+
+^have read and understand the terms of this offer of employment by [[Organization 1 Name]] I accept the offer of employment by [[Organization 1 Name]] and agree to be bound by these terms of employment. 
+
+*/s/ [[Person 1 First Name]] [[Person 1 Last Name]]*
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+Dated:      [[Date 6: Date]]

@@ -1,0 +1,31 @@
+\centered 
+
+\centered **PROMISSORY NOTE**
+
+$[[USD Value 1: Number]]              [[Date 1: Date]]
+
+**FOR VALUE RECEIVED**, the undersigned (herein “Maker”), promises to pay to the order of NRH (“Payee”), the principal sum of Seven Hundred Thousand Dollars ($[[USD Value 2: Number]]) (or such other adjusted amount in accordance with the terms of the Purchase Agreement dated the date hereof between Maker and Payee), with an interest rate of [[Percentage 1: Number]]%, on [[Date 2: Date]] (the “Maturity Date”), unless Payee consents to an extension of the Maturity Date, in lawful money of the United States of America unless Payee agrees to another form of payment.
+
+^If the Maker shall make a general assignment for the benefit of creditors, or shall admit in writing its inability to pay its debts as they become due, or shall file a petition in bankruptcy, or shall be adjudicated a bankrupt or insolvent, then, and upon the happening of any such event, the Payee at its option, may declare the entire unpaid balance of the principal hereunder immediately due and payable with interest thereon as herein provided. 
+
+^Amounts not paid when due hereunder shall bear interest from the due date until such amounts are paid at the rate of twenty-one percent ([[Percentage 2: Number]]%) per annum; provided, however, that in the event such interest rate would violate any applicable usury law, the default rate shall be the highest lawful interest rate permitted under such usury law.
+
+^Presentment, demand, protest or notice of any kind are hereby waived by the Maker. Maker may not set off against any amounts due to Payee hereunder any claims against Payee or other amounts owed by Payee to Maker.
+
+^In the case any one or more of the events of default specified in paragraph 1 above shall have happened and be continuing, the Payee may proceed to protect and enforce its rights either by suit in equity and/or by action at law, or by other appropriate proceedings.
+
+^The Maker agrees to pay all reasonable costs of collection, including attorneys' fees which may be incurred in the collection of this Note or any portion thereof and, in case an action is instituted for such purposes, the amount of all attorneys' fees shall be such amount as the court shall adjudge reasonable.
+
+^This Note is made and delivered in, and shall be governed, construed and enforced under the laws of the State of Texas.
+
+^No delay or omission of the Payee to exercise any right hereunder, whether before or after the happening of any event of default, shall impair any such right or shall operate as a waiver thereof or of any event of default hereunder nor shall any single or partial exercise thereof preclude any other or further exercise thereof, or the exercise of any other right.
+
+^This Note shall be subject to prepayment, at the option of the Maker, in whole or in part, at any time and from time to time, without premium or penalty.
+
+^This Note or any benefits or obligations hereunder may not be assigned or transferred by the Maker.
+
+**MAKER:**
+
+**[[Organization 1 Name]]**
+
+*/s/ [[Person 1 First Name]] [[Person 1 Last Name]]*

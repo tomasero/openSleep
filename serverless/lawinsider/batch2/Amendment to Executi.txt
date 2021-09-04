@@ -1,0 +1,27 @@
+\centered Amendment to Executive Employment Agreement
+
+This Amendment (the "Amendment") to Executive Employment Agreement is entered into and is effective as of [[Date 1: Date]], by and between [[Executive]], an individual (the "Executive") and [[Employer]], a [[State of Formation: State]] [[Organization: EntityType]] (the "Employer"). The Employer and Executive are each a "party" and are together "parties" to this Amendment.
+
+\centered RECITALS
+
+The Employer and Executive have entered into that certain Executive Employment Agreement, dated [[Date 2: Date]] (the "Employment Agreement"); 
+
+For good and valuable consideration, receipt of which is hereby acknowledged by both the Employer and Executive, the parties desire to amend the Employment Agreement as set forth below.
+
+\centered AMENDMENT
+
+1.Section 6.5(b) of the Employment Agreement shall be deleted in its entirety and replaced with the following:
+
+^^Notwithstanding anything to the contrary in this Agreement, if the Executive is a "disqualified individual" (as defined in Section 280G(c) of the Internal Revenue Code of 1986, as amended (the "Code")), and the severance benefits provided for in this Section 6.5, together with any other payments and benefits which the Executive has the right to receive from the Employer and its Affiliates (the "Aggregate Severance"), would be subject to the excise tax imposed by Section 4999 of the Code, including any interest and penalties imposed with respect to such excise tax (the "Excise Tax"), then the severance benefits provided hereunder shall be either (1) reduced (but not below zero) so that the present value of the Aggregate Severance equals the Safe Harbor Amount (as defined below) and so that no portion of the Aggregate Severance shall be subject to the Excise Tax, or (2) paid in full, whichever produces the better net after-tax position to the Executive (taking into account the Excise Tax and any other applicable taxes). The determination as to whether any such reduction in the Aggregate Severance is necessary shall be made initially by the Employer in good faith. If applicable, the reduction of the amounts payable hereunder in accordance with clause (1) of the first sentence of the preceding paragraph shall be made in the following order and in such a manner as to maximize the value of the Aggregate Severance paid to the Executive (i) cash severance pay that is exempt from Section 409A, (ii) any lump sum payment intended to pay for continued medical benefits under COBRA, (iii) any other cash severance pay, (iv) any other cash payable that is a severance benefit other than stock appreciation rights, (v) any stock appreciation rights, (vi) any restricted stock, and (vii) stock options. If the Aggregate Severance is reduced in accordance with the preceding sentence and through error or otherwise the Aggregate Severance exceeds the Safe Harbor Amount, the Executive shall immediately repay such excess to the Employer upon notification that an overpayment has been made. For purposes of this Section, "Safe Harbor Amount" means an amount equal to one dollar ($[[USD Value 1: Number]]) less than three (3) times the Executive's "base amount" for the "base period," as those terms are defined under Section 280G of the Code.  
+2.Sections 6.5(c), (d) and (e) of the Employment Agreement shall be deleted in their entirety.
+
+3.The foregoing amendments to the Employment Agreement shall be effective as of the date written above. Except as modified above, the Employment Agreement remains in full force and effect and this Amendment may be amended or altered only in a writing signed by the Employer and Executive. 
+
+4.This Amendment constitutes the entire agreement between the Employer and Executive relating to the Sections of the Employment Agreement discussed above and supersedes and replaces any prior verbal or written agreements between the parties as to the subject matter of those provisions.
+
+IN WITNESS WHEREOF, Executive and the Employer have executed this Amendment as of the date first above written.
+
+EXECUTIVE  [[EXECUTIVE Signatory Email: Identity | Signature]]
+__________________________________________
+{{EXECUTIVE Entity => By: [[EXECUTIVE Signatory First Name]] [[EXECUTIVE Signatory Last Name]]
+Title: [[EXECUTIVE Signatory Title]]}}

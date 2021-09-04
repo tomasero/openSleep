@@ -1,0 +1,290 @@
+\centered **AMENDMENT NO. 6 TO LOAN AGREEMENT**
+
+**THIS AMENDMENT NO. 6 TO LOAN AGREEMENT** is made as of [[Date 1: Date]] by and between **[[Organization 1 Name]],** a [[State of Formation: State]] [[Organization: EntityType]] (“M&I”), and **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the “Borrower”).
+
+**IN CONSIDERATION OF** the mutual covenants, conditions and agreements set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby expressly acknowledged, it is hereby agreed that:
+
+When used herein, the following terms shall have the meanings specified:
+
+^^**Amendment**. “Amendment” shall mean this Amendment No. 6 to Loan Agreement.
+
+^^**Loan Agreement**. “Loan Agreement” shall mean the Loan Agreement between M&I and the Borrower, dated as of [[Date 2: Date]] together with the Exhibits and Schedules attached thereto, as amended by an Amendment No. 1 to Loan Agreement dated as of [[Date 3: Date]], a Letter Agreement dated as of [[Date 4: Date]], a Letter Agreement dated as of [[Date 5: Date]], a Letter Agreement dated as of [[Date 6: Date]], an Amendment No. 2 to Loan Agreement dated as of [[Date 7: Date]], an Amendment No. 3 to Loan Agreement dated as of [[Date 8: Date]], an Amendment No. 4 to Loan Agreement dated as of [[Date 9: Date]], and an Amendment No. 5 to Loan Agreement dated as of [[Date 10: Date]].
+
+^^**Other Terms**. The other capitalized terms used in this Amendment shall have the definitions specified in the Loan Agreement.
+
+The Loan Agreement is amended as of the date hereof as follows:
+
+^^Section 1.3 – Interest. Section 1.3(a) of the Loan Agreement is hereby amended in its entirety to read as follows:
+
+^^All Revolving Credit Loans shall be LIBOR Loans unless M&I elects to convert such LIBOR Loans to Prime Rate Loans pursuant to Section 1.12 or Section 1.13 of the Loan Agreement.
+
+^^Section 1.4 - Interest Options. The following sentence is hereby added to the end of Section 1.4(a) of the Loan Agreement:
+
+None of the Revolving Credit Loans shall be Prime Rate Loans unless M&I elects to convert LIBOR Loans to Prime Rate Loans pursuant to Section 1.12 or Section 1.13 of the Loan Agreement.
+
+QB\8070287.4    
+
+^- Interest Options. A new Section 1.4(c) which shall read as follows is hereby added to the Loan Agreement:
+
+^^**Interest Rate Floor.** Notwithstanding anything to the contrary set forth herein and regardless of what actual LIBOR or Prime Rate may be, the interest rate for all Revolving Credit Loans shall never be less than four percent ([[Percentage 1: Number]]%) per annum (the “Interest Rate Floor”). The Interest Rate Floor as set forth herein shall be applicable as to all Revolving Credit Loans as of the effective date of this Amendment.
+
+^^Section 1.5 - Notice of Borrowing; Conversion. Section 1.5 of the Loan Agreement is hereby amended in its entirety to read as follows:
+
+^^**Notice of Borrowing**.  
+
+^^Each Revolving Credit Loan shall be made on written notice or telephonic notice from an authorized representative of the Borrower to the Person designated by M&I. Such notice shall be given at least one (1) Business Day prior to the day of the requested borrowing date (which must be a Business Day). Each notice shall specify the date and amount of such Revolving Credit Loan. Each new Revolving Credit Loan shall be a LIBOR Loan unless such Revolving Credit Loans have been converted to Prime Rate Loans pursuant to Section 1.12 or Section 1.13 of the Loan Agreement. Each such notice shall be effective upon receipt, provided that any notice received after 2:00 p.m., Milwaukee time, may be deemed by M&I, in its sole discretion, effective as of the next Business Day. Borrower shall promptly confirm any such telephonic request in writing.
+
+^^LIBOR Rate Loans shall continue as such unless and until they are converted into Prime Rate Loans by M&I pursuant to Section 1.12 or Section 1.13 of this Loan Agreement or repaid.
+
+^^Section 1.6 - Warranty. Section 1.6 of the Loan Agreement is hereby amended in its entirety to read as follows:
+
+^^**Warranty**. Each notice of borrowing and each request for the issuance of a Letter of Credit, shall automatically constitute a warranty by Borrower to M&I that, on the date of the requested date of such borrowing or request for issuance of a Letter of Credit: (a) all of the representations and warranties of Borrower contained in this Loan Agreement shall be true and correct on such date as though made on such date; and (b) no Default or Event of Default shall exist on such date.
+
+QB\8070287.4    
+
+^- Financial Covenants. Section 5.13(c) of the Loan Agreement is hereby amended in its entirety to read as follows:
+
+^^**Maximum Total Funded Debt to EBITDA Ratio**. Borrower and its consolidated Subsidiaries shall not permit the ratio of Total Funded Debt to EBITDA to exceed the following ratios as of the following dates, all as determined, in the case of Total Funded Debt, on the date of determination, and in the case of EBITDA, for the preceding four fiscal quarters of the Borrower and its consolidated Subsidiaries ending on the date of determination:
+
+\centered **Date of Determination**   
+
+\centered **Maximum Ratio**
+[[Date 11: Date]] and at the end of each fiscal quarter thereafter   \centered 3.00:1
+
+^^Section 7.1 - Definitions - Add-On. The definition of “Add-On” in Section 7.1 of the Loan Agreement is amended in its entirety to read as follows:
+
+“Add-On” shall mean the following percentages for the following types of Loans and fees, based upon the Borrower’s ratio of Total Funded Debt to EBITDA, calculated on a consolidated basis:
+
+\centered **Level:**   \centered **Total Funded Debt to EBITDA Ratio:**   \centered **Add-On for LIBOR Loans:**   
+
+\centered **Commitment Fee:**
+\centered I   greater than or equal to 2.5:1   \centered [[Percentage 2: Number]]%   
+
+\centered .[[Percentage 3: Number]]%
+\centered II   less than 2.5.0:1, but greater than or equal to 2.0:1   \centered [[Percentage 4: Number]]%   
+
+\centered .[[Percentage 5: Number]]%
+\centered III   less than 2.0:1, but greater than or equal to 1.5:1   \centered [[Percentage 6: Number]]%   
+
+\centered .[[Percentage 5]]%
+\centered IV   less than 1.5:1 but greater than or equal to 1.0:1   \centered [[Percentage 7: Number]]%   
+
+\centered .[[Percentage 5]]%
+\centered V   less than 1.0:1   \centered [[Percentage 8: Number]]%   
+
+\centered .[[Percentage 5]]%
+
+The initial Add-On as of the effective date of the Amendment No. 6 to Loan Agreement shall beLevel IV. Effective as of [[Date 12: Date]], the Add-On shall be Level III. Beginning with the date
+
+QB\8070287.4    
+
+that the quarterly financial statements and Officer’s Certificate is to be delivered to M&I pursuant to Sections 5.4 (a) and 5.4(c) for the fiscal quarter ending on [[Date 11]], the Add-On shall be adjusted by reference to the Total Funded Debt to EBITDA Ratio of the Borrower at the end of the immediately preceding fiscal quarter as determined, in the case of Total Funded Debt, on the date of determination, and in the case of EBITDA, for the preceding four fiscal quarters of the Borrower and its consolidated Subsidiaries ending on the date of determination. Any change in the Add-On shall be effective as of the first day of the calendar month following M&I’s receipt of the quarterly financial statements and Officer’s Certificate required under Sections 5.4(a) and 5.4(c) of this Loan Agreement. If the Borrower fails to deliver timely the financial information required by Section 5.4(a) and the Officer’s Certificate pursuant to Section 5.4(c), then for the period commencing on the date such information was due through the date that is five days after the date on which such information is delivered, the Add-On shall be based on pricing level I.
+
+^^Section 7.1 – Definitions - Revolving Credit Termination Date. The definition of “Revolving Credit Termination Date” in Section 7.1 is amended in its entirety to read as follows:
+
+“Revolving Credit Termination Date” shall mean the earlier of: (a) [[Date 13: Date]]; and (b) the date that the Revolving Credit Commitment is terminated pursuant to Section 6.1 of this Loan Agreement.
+
+^^**Exhibit B**. Exhibit B to the Loan Agreement is replaced with Exhibit B to this Amendment.
+
+^^**Exhibit C**. Exhibit C to the Loan Agreement is replaced with Exhibit C to this Amendment.
+
+^^**Miscellaneous Amendments**. The Loan Agreement, the Revolving Credit Note, and all other agreements, documents, instruments and materials executed and delivered heretofore or hereafter pursuant to the Loan Agreement are deemed hereby to be amended so that any reference therein to the Loan Agreement shall be a reference to such documents as amended by or pursuant to this Amendment. Any references contained in the Loan Agreement or any related documents to the Revolving Credit Note shall refer to the Revolving Credit Note in the form of Exhibit C attached to this Amendment.
+
+The Borrower hereby represents and warrants to M&I that:
+
+^^**Loan Agreement**. All of the representations and warranties made by the Borrower in the Loan Agreement are true and correct on the date of this Amendment. No Default or Event of Default under the Loan Agreement has occurred and is continuing as of the date of this Amendment.
+
+^^**Authorization; Enforceability**. The making, execution and delivery of this Amendment and the Revolving Credit Note, and performance of and compliance with the terms of the Loan Agreement as amended and of the Revolving Credit Note, have been duly authorized
+
+QB\8070287.4    
+
+^^by all necessary corporate action by the Borrower. This Amendment and the Revolving Credit Note constitute the valid and binding obligations of the Borrower, enforceable against the Borrower in accordance with their respective terms.
+
+^^**Absence of Conflicting Obligations**. The making, execution and delivery of this Amendment and the Revolving Credit Note, and performance and compliance with the terms of the Loan Agreement as amended and of the Revolving Credit Note, do not violate any presently existing provision of law or the Articles of Incorporation or Bylaws of the Borrower or any Subsidiary or any agreement to which the Borrower or any Subsidiary is a party or by which any of them are bound.
+
+^^**Waivers and Consents**. The Borrower acknowledges, reaffirms, restates and renews the waivers and consents provided by it in the Loan Agreement, which waivers and consents are incorporated herein by reference and are deemed made as of the date hereof and shall be deemed renewed, automatically and without further action of the Borrower, as of the date of each Revolving Credit Loan and the issuance of any Letter of Credit.
+
+^^**WAIVER OF RIGHT TO JURY TRIAL**. M&I AND THE BORROWER ACKNOWLEDGE AND AGREE THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AMENDMENT OR THE LOAN AGREEMENT OR WITH RESPECT TO THE TRANSACTIONS CONTEMPLATED HEREBY AND THEREBY WOULD BE BASED UPON DIFFICULT AND COMPLEX ISSUES AND, THEREFORE, THE PARTIES AGREE THAT ANY LAWSUIT ARISING OUT OF ANY SUCH CONTROVERSY SHALL BE TRIED IN A COURT OF COMPETENT JURISDICTION BY A JUDGE SITTING WITHOUT A JURY.
+
+^^**SUBMISSION TO JURISDICTION; SERVICE OF PROCESS**. AS A MATERIAL INDUCEMENT TO M&I TO ENTER INTO THIS AMENDMENT:
+
+^^THE BORROWER AGREES THAT ALL ACTIONS OR PROCEEDINGS IN ANY MANNER RELATING TO OR ARISING OUT OF THIS AMENDMENT OR THE LOAN AGREEMENT MAY BE BROUGHT ONLY IN COURTS OF THE STATE OF WISCONSIN LOCATED IN MILWAUKEE COUNTY OR THE FEDERAL COURT FOR THE EASTERN DISTRICT OF WISCONSIN AND THE BORROWER CONSENTS TO THE JURISDICTION OF SUCH COURTS. THE BORROWER WAIVES ANY OBJECTION IT MAY NOW OR HEREAFTER HAVE TO THE VENUE OF ANY SUCH COURT AND ANY RIGHT IT MAY HAVE NOW OR HEREAFTER HAVE TO CLAIM THAT ANY SUCH ACTION OR PROCEEDING IS IN AN INCONVENIENT COURT; and
+
+^^Nothing contained herein shall affect the right of M&I to serve process in any other manner permitted by Law or to commence an action or proceeding in any other jurisdiction.
+
+^^**Continuance of the Loan Agreement**. Except as specifically amended by this Amendment, the Loan Agreement and all other agreements, documents, instruments and
+
+QB\8070287.4    
+
+^^materials executed and delivered heretofore or hereafter pursuant to the Loan Agreement shall remain in full force and effect.
+
+^^**Expenses and Attorney’s Fees**. The Borrower shall pay all fees and expenses incurred by M&I, including the reasonable fees of counsel, in connection with the preparation of this Amendment and the consummation of the transactions contemplated by this Amendment, and the protection or enforcement of the rights of M&I under this Amendment.
+
+^^**Survival**. All agreements, representations and warranties made in this Amendment or in any documents delivered pursuant to this Amendment shall survive the execution of this Amendment and the delivery of any such document.
+
+^^**Governing Law**. This Amendment and the other documents issued pursuant to this Amendment shall be governed by, and construed and interpreted in accordance with, the laws of the State of Wisconsin applicable to contracts made and wholly performed within such state.
+
+^^**Counterparts; Headings**. This Amendment may be executed in several counterparts, each of which shall be deemed an original, but such counterparts shall together constitute but one and the same agreement. Article and Section headings in this Amendment are inserted for convenience of reference only and shall not constitute a part hereof.
+
+^^**Severability**. Any provision of this Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this Amendment or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+^^**Effectiveness**. This Amendment shall be effective as of the date first written above upon receipt by M&I of the following items:
+
+^^this Amendment duly executed by the Borrower;
+
+^^the Revolving Credit Note duly executed by the Borrower;
+
+^^a certificate of the secretary or an assistant secretary of the Borrower dated the date hereof as to: (i) the incumbency and signature of the officers of the Borrower who have signed or will sign this Amendment, the Revolving Credit Note and the other documents required hereunder; and (ii) the adoption and continuing effect of resolutions of the Board of Directors of the Borrower authorizing the execution and delivery of this Amendment, the Revolving Credit Note and the other documents required hereunder;
+
+^^an executed amendment to the Note Agreement dated as of [[Date 7]], described in clause (f) of the definition of Permitted Indebtedness contained in the Loan Agreement, which shall be in a form acceptable to M&I; and
+
+^^such additional supporting documents and materials as M&I may reasonably request.
+
+QB\8070287.4    
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Amendment No. 6 to Loan Agreement as of the date first written above.
+
+**[[Organization 1 Name]]** By:______________________________________ Title:______________________________________ Attest:______________________________________ Title:______________________________________
+**[[Borrower]]** [[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+
+\centered [Signature Page to Amendment No. 6 to Loan Agreement]
+
+QB\8070287.4
+
+\centered **EXHIBIT B**
+
+\centered **OFFICER’S CERTIFICATE**
+
+[[Organization 1 Name]]  
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]]  
+[[Address 1: Address]]  
+Re: **[[Borrower]]**  
+Gentlemen:  
+This Officer’s Certificate is delivered to you pursuant to the terms of a Loan Agreement dated as of [[Date 2]], as amended (as amended, the “Loan Agreement”) between **[[Borrower]]** (the “Borrower”) and [[Organization 1 Name]] (“M&I”). Capitalized terms used herein and not otherwise defined shall have the meanings assigned to them in the Loan Agreement.
+
+The undersigned hereby represents and warrants on behalf of the Borrower (and not in his individual capacity) to M&I that:
+
+^The undersigned is an officer of the Borrower and is duly authorized to execute and deliver this Officer’s Certificate.
+
+^The representations and warranties of the Borrower contained in the Loan Agreement are true and accurate in all material respects on and as of the date of this Officer’s Certificate.
+
+^No Default or Event of Default under the Loan Agreement has occurred and is continuing.
+
+^Enclosed with this certificate are the financial statements described in Section 5.4(a) [or: 5.4(b)] of the Loan Agreement for the quarter [or: year] ended __________________, 200_ (the “Financials”). To the best of our knowledge, the Financials were prepared in accordance with generally accepted accounting principles and fairly present, in all material respects, the financial condition and results of operations of the Borrower and an its Subsidiaries as of the date of, and for the period covered by, the Financials, subject to audit and normal year-end adjustments.
+
+If a Default or an Event of Default exists, specify (a) the facts and circumstances of such Default or Event of Default, and (b) the actions that the Borrower has taken, is taking or proposes to take to remedy such Default or Event of Default. 
+
+For the certificate delivered with the annual financial statements, delete the phrase “subject to audit and normal year-end adjustments.” 
+
+QB\8070287.4    
+
+^As determined pursuant to the Loan Agreement and based on the consolidated Financials for the Borrower and all consolidated Subsidiaries:
+
+^the Total Funded Debt to EBITDA Ratio as of ____________________, 200___ is:   __________:1.0
+the maximum Total Funded Debt to EBITDA Ratio covenant is the following ratio as of the following dates:
+
+\centered **Date of Determination**   
+
+\centered **Maximum Ratio**
+[[Date 11]] and at the end of each fiscal quarter thereafter   \centered 3.00 to 1.0
+
+^the Net Worth as of _________, 200___ is:   $_______________
+the Net Worth covenant is:   $[[USD Value 1: Number]] plus [[Percentage 9: Number]]% of the positive consolidated Net Income for each fiscal quarter from and after [[Date 14: Date]] on a cumulative basis [any adjustment for pension liabilities permitted by Section 5.13(a) is $_______________]
+^the EBITDA as of ____________________, 200___ is:   $_______________
+the minimum EBITDA covenant is at least the following amount as of the following dates:
+\centered **Date of Determination**   
+
+\centered **Minimum EBITDA**
+[[Date 15: Date]] and at the end of each fiscal quarter thereafter   \centered $[[USD Value 2: Number]]
+
+QB\8070287.4    
+
+Dated: ___________, 200___.  
+**[[Borrower]]**  
+[[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+
+\centered [Signature Page to Officer’s Certificate]
+
+QB\8070287.4
+
+\centered **EXHIBIT C**
+
+\centered **AMENDED AND RESTATED REVOLVING CREDIT NOTE**
+
+$[[USD Value 3: Number]] Milwaukee, Wisconsin 
+[[Date 3]] 
+as amended and restated on [[Date 8]],
+
+on [[Date 9]] 
+on [[Date 10]] 
+and on [[Date 1]]  
+FOR VALUE RECEIVED, **[[Borrower]]**, a Wisconsin corporation (the “Borrower”), hereby promises to pay to the order of [[Organization 1 Name]], a Wisconsin banking corporation (“M&I”), on the Revolving Credit Termination Date (as defined in the Loan Agreement referred to below) (or such earlier maturity date resulting from acceleration) the principal sum of THIRTY-FIVE MILLION DOLLARS ($[[USD Value 3]]) or such lesser amount of revolving credit loans which are owing from the Borrower to M&I under the Revolving Credit Commitment provided for in the Loan Agreement referenced below.
+
+The unpaid principal shall bear interest from the date hereof until paid at an annual rate, computed on the basis of a 360-day year, as set forth in the Loan Agreement. Interest accrued on the outstanding principal balance shall be payable on the last day of each month, commencing on [[Date 16: Date]], and continuing thereafter until the outstanding principal balance is repaid in full, with all accrued interest paid with the final payment of principal. Interest will be payable in the amounts in accordance with the terms of the Loan Agreement. The Borrower hereby agrees to pay such interest.
+
+In the event that any amount of the principal of, or interest on, this Note is not paid when due (whether at stated maturity, by acceleration or otherwise), the entire principal amount outstanding under this Note shall bear interest at the annual rate equal to the rate otherwise in effect under the Loan Agreement plus three percent ([[Percentage 10: Number]]%) from the due date until all such overdue amounts have been paid in full.
+
+Payments of both principal and interest and other amounts due hereunder are to be made in lawful money of the United States of America at the offices of [[Organization 1 Name]], Attention: Commercial Loan Department, 770 North Water Street, Wisconsin 53202, or at such other place as the holder shall designate in writing to the maker.
+
+The makers and all endorsers hereby severally waive presentment for payment, protest and demand, notice of protest, demand and of dishonor and nonpayment of this Note. The Borrower hereby agrees to pay all reasonable fees and expenses incurred by M&I or any subsequent holder, including the reasonable fees of counsel, in connection with the protection and enforcement of the rights of M&I or any subsequent holder of this Note, including without limitation, the collection of any amounts due under this Note and the protection and enforcement of such rights in any bankruptcy, reorganization or insolvency proceedings involving the Borrower, both before and after judgment.
+
+QB\8070287.4    
+
+This Note constitutes the Revolving Credit Note described in that certain Loan Agreement, as amended (the Loan Agreement, as previously amended and as further amended from time to time, is referred to herein as the “Loan Agreement”) dated as of [[Date 2]] by and between M&I and the Borrower to which Loan Agreement reference is hereby made for a statement of the terms and conditions under which the Revolving Credit Loans evidenced hereby may be made and a description of the terms and conditions upon which this Note may be prepaid in whole or in part. In case an Event of Default, as defined in the Loan Agreement, shall occur, the entire unpaid principal and accrued interest may be automatically due and payable or may be declared due and payable as provided in the Loan Agreement.
+
+This Note is an amendment and restatement of that certain Amended and Restated Revolving Credit Note executed by the Borrower payable to the order of M&I in the original principal amount of $[[USD Value 4: Number]] dated as of [[Date 3]], as amended and restated on [[Date 8]], [[Date 9]], and [[Date 10]] (the “Prior Note”) and evidences an extension and continuation of the indebtedness evidenced by the Prior Note. The Borrower hereby acknowledges and agrees that such indebtedness has not been repaid or extinguished and that the execution hereof does not constitute a novation of the Prior Note. Moreover, this Note shall be entitled to all security and collateral to which the Prior Note was entitled, without change or diminution in the priority of any lien or security interest granted to secure the Prior Note.
+
+**[[Borrower]]**  
+[[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+
+\centered [Signature Page to Amended and Restated Revolving Credit Note]
+
+QB\8070287.4
+
+\centered **AMENDED AND RESTATED REVOLVING CREDIT NOTE**
+
+$[[USD Value 3]] Milwaukee, Wisconsin 
+[[Date 3]] 
+as amended and restated on [[Date 8]],
+
+on [[Date 9]] 
+on [[Date 10]] 
+and on [[Date 1]]  
+FOR VALUE RECEIVED, **[[Borrower]]**, a Wisconsin corporation (the “Borrower”), hereby promises to pay to the order of [[Organization 1 Name]], a Wisconsin banking corporation (“M&I”), on the Revolving Credit Termination Date (as defined in the Loan Agreement referred to below) (or such earlier maturity date resulting from acceleration) the principal sum of THIRTY-FIVE MILLION DOLLARS ($[[USD Value 3]]) or such lesser amount of revolving credit loans which are owing from the Borrower to M&I under the Revolving Credit Commitment provided for in the Loan Agreement referenced below.
+
+The unpaid principal shall bear interest from the date hereof until paid at an annual rate, computed on the basis of a 360-day year, as set forth in the Loan Agreement. Interest accrued on the outstanding principal balance shall be payable on the last day of each month, commencing on [[Date 16]], and continuing thereafter until the outstanding principal balance is repaid in full, with all accrued interest paid with the final payment of principal. Interest will be payable in the amounts in accordance with the terms of the Loan Agreement. The Borrower hereby agrees to pay such interest.
+
+In the event that any amount of the principal of, or interest on, this Note is not paid when due (whether at stated maturity, by acceleration or otherwise), the entire principal amount outstanding under this Note shall bear interest at the annual rate equal to the rate otherwise in effect under the Loan Agreement plus three percent ([[Percentage 10]]%) from the due date until all such overdue amounts have been paid in full.
+
+Payments of both principal and interest and other amounts due hereunder are to be made in lawful money of the United States of America at the offices of [[Organization 1 Name]], Attention: Commercial Loan Department, 770 North Water Street, Wisconsin 53202, or at such other place as the holder shall designate in writing to the maker.
+
+The makers and all endorsers hereby severally waive presentment for payment, protest and demand, notice of protest, demand and of dishonor and nonpayment of this Note. The Borrower hereby agrees to pay all reasonable fees and expenses incurred by M&I or any subsequent holder, including the reasonable fees of counsel, in connection with the protection and enforcement of the rights of M&I or any subsequent holder of this Note, including without limitation, the collection of any amounts due under this Note and the protection and enforcement of such rights in any bankruptcy, reorganization or insolvency proceedings involving the Borrower, both before and after judgment.
+
+QB\8070287.4    
+
+This Note constitutes the Revolving Credit Note described in that certain Loan Agreement, as amended (the Loan Agreement, as previously amended and as further amended from time to time, is referred to herein as the “Loan Agreement”) dated as of [[Date 2]] by and between M&I and the Borrower to which Loan Agreement reference is hereby made for a statement of the terms and conditions under which the Revolving Credit Loans evidenced hereby may be made and a description of the terms and conditions upon which this Note may be prepaid in whole or in part. In case an Event of Default, as defined in the Loan Agreement, shall occur, the entire unpaid principal and accrued interest may be automatically due and payable or may be declared due and payable as provided in the Loan Agreement.
+
+This Note is an amendment and restatement of that certain Amended and Restated Revolving Credit Note executed by the Borrower payable to the order of M&I in the original principal amount of $[[USD Value 4]] dated as of [[Date 3]], as amended and restated on [[Date 8]], [[Date 9]], and [[Date 10]] (the “Prior Note”) and evidences an extension and continuation of the indebtedness evidenced by the Prior Note. The Borrower hereby acknowledges and agrees that such indebtedness has not been repaid or extinguished and that the execution hereof does not constitute a novation of the Prior Note. Moreover, this Note shall be entitled to all security and collateral to which the Prior Note was entitled, without change or diminution in the priority of any lien or security interest granted to secure the Prior Note.
+
+**[[Borrower]]**  
+[[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+
+\centered [Signature Page to Amended and Restated Revolving Credit Note]
+
+QB\8070287.4

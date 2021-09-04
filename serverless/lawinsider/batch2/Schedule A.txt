@@ -1,0 +1,54 @@
+\centered **Schedule A** 
+
+**Trade Date**      **CUSIP**      **Settlement Date**      **Maturity Date**      **Next Pay Date**      **Call Type**      **Call Style**      **Rate Type/Rate Sub- Type3,4**      **Next Call/Amort Date**      **Coupon Percent**      **FHLBank Par ($)**
+5/4/2010      3133XYBX2      5/18/2010      5/18/2015      8/18/2010      Optional Principal Redemption      Bermudan      Conversion Capped Floater      8/18/2010            $[[USD Value 1: Number]]
+
+^Call/Amortization Type Description: 
+
+***Optional Principal Redemption Bonds*** (Callable Bonds) may be redeemed by the FHLBank in whole or in part at its discretion on predetermined call dates, according to the terms of the bond. 
+
+***Indexed Amortizing Notes*** (Indexed Principal Redemption Bonds) repay principal based on a predetermined amortization schedule or formula that is linked to the level of a certain index, according to the terms of the bond. 
+
+***Scheduled Amortizing Notes*** repay principal based on a predetermined amortization schedule, according to the terms of the bond. 
+
+^Call Style Description: 
+
+Indicates whether the bond is redeemable at the option of the FHLBank, and if so redeemable, the type of redemption provision. The types of redemption provisions are: 
+
+***American Bonds*** are redeemable continuously on and after the first redemption date until maturity. 
+
+***Bermudan Bonds*** are redeemable on specified recurring dates on and after the first redemption date until maturity. 
+
+***European Bonds*** are redeemable on a particular date only. 
+
+***Canary Bonds*** are redeemable on specified recurring dates on and after the first redemption date until a specified date prior to maturity. 
+
+***Multi-European Bonds*** are redeemable on particular dates only. 
+
+^Rate Type Description: 
+
+***Conversion Bonds*** have coupons that convert from fixed to variable, or variable to fixed, or a mix of capped coupons and non-capped coupons, or from one variable type to another, or from one U.S. or other currency index to another, according to the terms of the bond. 
+
+***Fixed Bonds*** generally pay interest at constant fixed rates over the life of the bond, according to the terms of the bond. 
+
+***Variable Bonds*** may pay interest at different rates over the life of the bond, according to the terms of the bond. 
+
+^Rate Sub-Type Description: 
+
+***Constant Bonds*** generally pay interest at fixed rates over the life of the bond, according to the terms of the bond. 
+
+***Step Down*** bonds generally pay interest at decreasing fixed rates for specified intervals over the life of the bond, according to the terms of the bond. 
+
+***Step Up*** bonds generally pay interest at increasing fixed rates for specified intervals over the life of the bond, according to the terms of the bond. 
+
+***Step Up/Down*** bonds generally pay interest at various fixed rates for specified intervals over the life of the bond, according to the terms of the bond. 
+
+***Capped Floater*** bonds have an interest rate that cannot exceed a stated or calculated ceiling, according to the terms of the bond. 
+
+***Stepped Floater*** bonds pay interest based on an increasing spread over an index, according to the terms of the bond. 
+
+***Range*** bonds may pay interest at different rates depending upon whether a specified index is inside or outside a specified range, according to the terms of the bond. 
+
+***Single Index Floater Bonds*** pay interest at a rate that increases as an index rises and decreases as an index declines, according to the terms of the bond. 
+
+***Ratchet Floater*** bonds pay interest subject to increasing floors, according to the terms of the bond, such that subsequent coupons may not be lower than the previous coupon.

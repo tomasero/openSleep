@@ -1,0 +1,22 @@
+\centered PROMISSORY NOTE
+
+$[[USD Value 1: Number]]   \centered Memphis, Tennessee   [[Date 1: Date]]
+
+FOR VALUE RECEIVED, on or before [[Date 2: Date]], the undersigned Maker (“Maker”) promises to pay to the order of [[Organization 1 Name]], Inc. ("Holder"), at its office at 2055 South Folsom Street, [[Address 1: Address]], or at such other place as Holder may from time to time designate, the principal sum of SIX MILLION and No/100 Dollars ($[[USD Value 1]]).
+
+If default occurs in the payment of any outstanding balance of the sum evidenced hereby within thirty (30) days of written notice from the Holder to Maker that such sum is due and payable, the Holder’s sole remedy shall be to exercise its rights under that certain Stock Pledge and Security Agreement of even date herewith (“Pledge Agreement”). This Note is secured by [[Shares 1: Number]] shares of Holder’s common stock (the “ATG Stock”) as set forth in said Pledge Agreement.
+
+This Note may be prepaid in part or in full at any time. After any payment or satisfaction of debt hereunder, whether from performance by Maker in its efforts to increase the sales of Holder or as otherwise mutually agreed between Maker and Holder, Holder shall release from the lien of the Pledge Agreement at such time as Maker request the equivalent number of shares of ATG Stock on a prorated basis as are represented by the sums so paid or deemed satisfied using 4 cents per share as the release price.
+
+The undersigned expressly waives presentment for payment, demand, protest, notice of dishonor, notice of protest and notice of non-payment of this Note and further waives all benefit of valuation, appraisement and exemption laws, and agrees that this Note, or any payment here­under, may be extended from time to time without in any way affecting the liability of the undersigned.
+
+In the event this Note is placed in the hands of an attorney for protection of the security, or if Holder incurs any costs incident to the protection of the security, Maker agrees to pay on demand a reasonable attorney's fee.
+
+This Note shall be construed and enforceable in accordance with the laws of the state of Tennessee, in which state such indebtedness is incurred, and in which this Note is made and delivered.
+
+
+
+[[This Note shall be construed and enforceable in accordance with the laws of the state of Tennessee in which state such indebtedness is incurred and in which this Note is made and delivered. Signatory Email: Identity | Signature]]
+__________________________________________
+{{This Note shall be construed and enforceable in accordance with the laws of the state of Tennessee in which state such indebtedness is incurred and in which this Note is made and delivered. Entity => By: [[This Note shall be construed and enforceable in accordance with the laws of the state of Tennessee in which state such indebtedness is incurred and in which this Note is made and delivered. Signatory First Name]] [[This Note shall be construed and enforceable in accordance with the laws of the state of Tennessee in which state such indebtedness is incurred and in which this Note is made and delivered. Signatory Last Name]]
+Title: [[This Note shall be construed and enforceable in accordance with the laws of the state of Tennessee in which state such indebtedness is incurred and in which this Note is made and delivered. Signatory Title]]}}

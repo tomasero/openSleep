@@ -1,0 +1,43 @@
+\centered **AMENDMENT OF**
+
+\centered **CHANGE OF CONTROL AGREEMENT**
+
+WHEREAS, [[Organization 1 Name]] (the “Company”), [[Organization 1 Name]] (“Holdings”), [[Organization 2 Name]], LTD. (“Group”), [[Organization 3 Name]] (“Everest Services”) and [[Taranto]] (“Taranto”) are parties to an Amended and Restated Change of Control Agreement effective as of [[Date 1: Date]] (the “Change of Control Agreement”), which amended and restated the Change of Control Agreement entered into as of [[Date 2: Date]], and all amendments thereto.
+
+WHEREAS, the Change of Control Agreement is intended to track and exist in concert with the Employment Agreement entered into between the Company, Holdings, Group, Everest Services and Taranto and effective as of [[Date 3: Date]] (the “Employment Agreement”), and all amendments thereto.
+
+WHEREAS, the Employment Agreement was amended as of [[Date 4: Date]], to reflect an extension of Taranto’s term of employment under the Employment Agreement to continue through [[Date 5: Date]], unless sooner terminated in accordance with the Employment Agreement.
+
+WHEREAS, the parties have agreed to a further modification to the Change of Control Agreement and it is now desirable to amend the Change of Control Agreement to reflect consistency with the Employment Agreement.
+
+WHEREAS, the Company, Holdings, Group and Everest Services have consented to such amendment.
+
+NOW, THEREFORE, the Change of Control Agreement is hereby amended, effective as of [[Date 4]], by substituting the following for Paragraph F of Section 3 of the Change of Control Agreement:
+
+“F. This Agreement shall terminate on the earliest of: (i) one year following a Material Change; (ii) termination by Taranto of his employment with Everest Services under circumstances not following a Material Change; (iii) Everest Services’ termination of Taranto’s employment for Due Cause; or (iv) [[Date 5]]. Termination of this Agreement shall not relieve the Everest Parties of their respective obligations to Taranto under this Agreement relating to a Material Change which occurs prior to such termination.”
+
+IN WITNESS WHEREOF, the parties have executed this amendment to the Change of Control Agreement as of [[Date 6: Date]].
+
+[[Organization 1 Name]]      [[Organization 1 Name]]
+[[Organization 1 Name]]
+
+[[[[Organization 4 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]]. Entity => By: [[[[Organization 4 Name]]. Signatory First Name]] [[[[Organization 4 Name]]. Signatory Last Name]]
+Title: [[[[Organization 4 Name]]. Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]      [[Person 1 First Name]] [[Person 1 Last Name]]
+Senior Vice President      Senior Vice President
+
+[[Organization 2 Name]], LTD.      [[Organization 3 Name]]
+
+[[[[Organization 2 Name]].      [[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]].      [[Organization 3 Name]] Entity => By: [[[[Organization 2 Name]].      [[Organization 3 Name]] Signatory First Name]] [[[[Organization 2 Name]].      [[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]].      [[Organization 3 Name]] Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]      [[Person 1 First Name]] [[Person 1 Last Name]]
+Senior Vice President      Senior Vice President
+
+\centered **/S/ [[Taranto]]
+\centered [[Taranto]]

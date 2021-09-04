@@ -1,0 +1,508 @@
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+\centered **MUTUAL TERMINATION AGREEMENT AND RELEASE** 
+
+This Mutual Termination Agreement and Release, dated as of [[Date 1: Date]] (this “Agreement”), is made among [[Organization 1 Name]] (USA), Inc., an Ohio corporation (“[[Organization 1 Name]]”), [[Organization 2 Name]] (USA), Inc., an Ohio corporation and a wholly owned subsidiary of [[Organization 1 Name]] (“Network Operations”), [[Organization 3 Name]] (USA), Inc., an Ohio corporation and a wholly owned subsidiary of [[Organization 1 Name]] (“[[Organization 3 Name]]”, and, together with [[Organization 1 Name]], Network Operations and their affiliates, “DHL”), [[Organization 4 Name]], Inc., a Delaware corporation (“ATSG”), and [[Organization 5 Name]], a Delaware corporation and a wholly owned subsidiary of ATSG (“ABX”). Each of [[Organization 1 Name]], Network Operations, [[Organization 3 Name]], ATSG and ABX shall be referred to herein as a “Party” and collectively as the “Parties”. Terms that appear in this Agreement with their initial letters capitalized and are not otherwise defined shall have the meanings assigned them in the ACMI Agreement (as defined below). 
+
+\centered RECITALS 
+
+WHEREAS, in connection with the acquisition of Airborne, Inc., a Delaware corporation (“Airborne”), by DHL on [[Date 2: Date]], ABX issued that certain First Non-Negotiable Promissory Note, dated as of [[Date 2]], in the amount of $[[USD Value 1: Number]] (as amended and supplemented, including the [[Date 3: Date]] amendment and restatement thereof with a principal amount of $[[USD Value 2: Number]] the “Note”), which is now held by [[Organization 3 Name]], as the successor to Airborne 
+
+WHEREAS, Network Operations, as the successor to Airborne, and ABX are parties to that certain ACMI Service Agreement, dated as of [[Date 2]] (as amended and supplemented, the “ACMI Agreement”), pursuant to which ABX provides certain air transportation services on an “ACMI” basis (*i.e.*, by providing aircraft, crew, maintenance and insurance) to support Network Operations’ operations in the United States and between the United States and elsewhere in North America or internationally; 
+
+WHEREAS, [[Organization 1 Name]], issued that certain Performance Guaranty, dated as of [[Date 2]], to ABX in support of the obligations of Network Operations under the ACMI Agreement (the “ACMI Guaranty”); 
+
+WHEREAS, [[Organization 3 Name]], as the successor to Airborne, and ABX were parties to that certain Hub and Line-Haul Services Agreement, dated as of [[Date 2]] (as amended and supplemented, the “HLA Agreement”), pursuant to which ABX provided [[Organization 3 Name]] with certain hub, line-haul and maintenance services at its sorting facilities to support [[Organization 3 Name]]’s operations in the United States; 
+
+WHEREAS, [[Organization 1 Name]] issued that certain Performance Guaranty, dated as of [[Date 2]], to ABX in support of the obligations of [[Organization 3 Name]] under the HLA Agreement (the “HLA Guaranty” and together with the ACMI Guaranty, the “Existing Guaranties”); 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+WHEREAS, the HLA Agreement expired in accordance with its terms on [[Date 4: Date]]; 
+
+WHEREAS, [[Organization 1 Name]] and ABX are parties to that certain Severance and Retention Agreement, dated as of [[Date 5: Date]] (as amended and supplemented, the “S&R Agreement” and, together with the ACMI Agreement and the HLA Agreement, the “Service Agreements”), pursuant to which the parties agreed to implement certain severance and retention arrangements for ABX’s employees in connection with DHL’s restructuring of its US operations; 
+
+WHEREAS, the Parties desire, among other matters, to terminate the ACMI Agreement and the S&R Agreement, to settle any and all amounts owed between the Parties under the Service Agreements, to resolve any obligations that might otherwise survive the termination of the Service Agreements, to acknowledge the expiration of HLA Agreement and to make certain other agreements, as set forth below; 
+
+WHEREAS, concurrently with the execution hereof, Network Operations and ABX or its affiliate are entering into the following agreements, each of which takes effect at 12:00 a.m., eastern daylight time, on [[Date 6: Date]]: (a) the Air Transportation Services Agreement between Network Operations and ABX; (b) the Second Amendment of the Lease Assumption and Option Agreement and Exercise of Lease Option between Network Operations and ABX; (c) a separate aircraft lease agreement between [[Organization 6 Name]], Inc. (“CAM”), as lessor, and Network Operations, as lessee, for each of the Boeing model 767-200 series aircraft bearing the following U.S. registration numbers and manufacturer’s serial numbers : (N787AX; 23020), (N794AX; 23144), (N793AX; 23143), (N752AX; 23434), (N792AX; 23142), (N797AX; 23147) and (N798AX; 23431); and (d) a separate sublease agreement between Network Operations, as sublessor, and ABX, as sublessee, with respect to each of the above referenced aircraft (collectively, the “New Agreements”); and 
+
+WHEREAS, as an inducement to ATSG and ABX to enter into this Agreement, [[Organization 7 Name]], a corporation formed under the laws of Germany (“Guarantor”), is concurrently herewith entering into the guaranty in the form attached hereto as Exhibit A (the “New Guaranty”); 
+
+ACCORDINGLY, in consideration of the covenants, agreements and understandings herein contained, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows: 
+
+^\centered TERMINATION OF AGREEMENTS; MUTUAL RELEASE 
+
+^Termination 
+
+^^Subject to Section 1.2, effective as of 11:59:59 p.m., eastern daylight time, on [[Date 7: Date]] (the “Effective Termination Time”), (i) Network Operations and ABX hereby terminate the ACMI Agreement by mutual consent, and agree to resolve all rights and obligations owing under the ACMI Agreement in accordance with the terms of this Agreement and (ii) [[Organization 1 Name]] and ABX hereby terminate the S&R Agreement by mutual consent, and agree to resolve all rights and obligations owing under the S&R Agreement in accordance with the terms of this Agreement. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^^Notwithstanding anything to the contrary in the ACMI Agreement, but subject to Section 1.2 hereof, ABX and Network Operations hereby agree that from and as of the Effective Termination Time, Network Operations (including, for the avoidance of doubt, any of its affiliates) shall not be responsible for any cost, liability or obligation under the ACMI Agreement except to the extent that such cost, liability or obligation is expressly set forth in this Agreement or the Final Reconciliation Statement (as defined below). In addition, except to the extent set forth in Section 2.3 relating to Put Aircraft (as defined below), effective as of the date hereof, ABX agrees that it does not have any right to put any aircraft to Network Operations pursuant to the terms of the ACMI Agreement and that DHL does not have any liabilities or obligation with respect to any purported put of an aircraft after the date hereof pursuant to any term of the ACMI Agreement. 
+
+^^Notwithstanding anything to the contrary in the HLA Agreement, but subject to Section 1.2 hereof, the parties hereby acknowledge and agree that (i) the HLA Agreement expired in accordance with its terms on [[Date 4]], and (ii) from and as of [[Date 4]], [[Organization 3 Name]] (including, for the avoidance of doubt, any of its affiliates) shall not be responsible for any cost, liability or obligation under the HLA Agreement except to the extent that such cost, liability or obligation is expressly set forth in this Agreement or the Final Reconciliation Statement. 
+
+^^ABX and [[Organization 1 Name]] hereby agree that, effective as of 11:59:59 p.m., eastern daylight time, on the date that is 30 calendar months following the Effective Termination Time (the “Guaranty Termination Time”), by virtue of this Agreement and without any further action on the part of ABX or DPWN, the Existing Guaranties shall automatically terminate by mutual consent. 
+
+^Effect of Termination 
+
+^^At the Effective Termination Time, the Service Agreements, including the provisions contained therein which by their terms would otherwise survive the termination of such agreements, shall, except to the extent otherwise expressly provided in this Section 1.2(a), be void and of no further force or effect and there shall be no liability or obligation under the Service Agreements on the part of any party thereto to any other party or any of such party’s past, present or future officers, directors, employees, stockholders, members, managers, subsidiaries, affiliates (including any controlling persons) or partners, or any past, present or future officers, directors, employees, stockholders, members, managers, subsidiaries, affiliates, partners, heirs, executors, administrators, successors or assigns of any of the foregoing (collectively, with respect to any person, the “Related Parties” of such person); *provided*, *however*, that, notwithstanding anything to the contrary herein: 
+
+^^^the final proviso of Section 4.3 (Use of Groundco Assets), the last sentence of Section 9.2 (Groundco Employees as Agents of Airco), and Sections 8.1 (Airco Indemnification), 8.3 (Groundco Indemnification), 8.9 (Limitation on Indemnification), 8.10 (Indemnification Procedures), 16.1 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+(Trademarks; Tradenames and Logos), 16.2 (Confidentiality), 16.3 (Survival; Severability), 17.1 (Dispute Resolution), 17.4 (Binding Effect; Assignment), 17.9 (Amendments; Waivers), 17.11 (Severability), 17.13 (No Third-Party Rights) and 17.14 (Specific Performance) of the ACMI Agreement shall survive such termination; 
+
+^^^Sections 7.1 (Indemnification and Insurance), 13 (Nondisclosure), 14.1 (Miscellaneous), 14.3 (Miscellaneous) and 14.4 (Miscellaneous), as well as the last sentence of Section 14.6 (Miscellaneous) of the HLA Agreement shall survive such termination; and 
+
+^^^Sections 7 (Binding Effect; Assignment), 12 (Amendments; Waivers), 14 (Severability), 15 (No Third-Party Rights), 16 (Specific Performance), 17 (Governing Law), as well as the first sentence of Section 18 (Confidentiality) of the S&R Agreement shall survive such termination. 
+
+^^At the Guaranty Termination Time, the Existing Guaranties, including the provisions contained therein which by their terms would otherwise survive the termination of such agreements, shall, except to the extent otherwise expressly provided in this Section 1.2(b), be void and of no further force or effect and there shall be no liability or obligation under the Existing Guaranties on the part of any party thereto to any other party or any of such party’s Related Parties; *provided*, *however*, that, notwithstanding anything to the contrary herein, in the event that, at or prior to the Guaranty Termination Time, a bona fide Action (as defined below) has been asserted by ABX against (i) Network Operations (or any assignee or successor thereof) under any of the surviving provisions of the ACMI Agreement (as identified in Section 1.2(a)(i) above), or (ii) [[Organization 3 Name]] (or any assignee or successor thereof) under any of the surviving provisions of the HLA Agreement (as identified in Section 1.2(a)(ii) above), and in either case such Action remains pending or in dispute as of the Guaranty Termination Time, the obligations of [[Organization 1 Name]] (or any assignee or successor thereof) under the ACMI Guaranty or the HLA Guaranty (as the case may be) shall continue to survive and remain in full force and effect with respect to such Action until such Action is finally resolved. 
+
+^Mutual Release; Indemnification 
+
+^^Effective as of the Effective Termination Time, but subject to the following provisos of this Section 1.3(a), each Party hereto, for and on behalf of itself and, to the fullest extent permitted by applicable law, its Related Parties, does hereby unequivocally release and discharge each other Party and any of their respective Related Parties, from any and all actions, causes of action, choses in action, cases, claims, suits, debts, dues, sums of money due, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, agreements, promises, variances, trespasses, injuries, harms, damages, judgments, remedies, extents, executions, demands, liens and liabilities of every kind and nature, in law, equity or otherwise, whether made directly or derivatively, and whether accrued, absolute, contingent or otherwise (collectively, “Actions”), that in any way arise from or out of, are based upon, or are in connection with or relate to the Service Agreements, including any breach, non-performance, action or failure to act under the Service Agreements or in connection therewith and the events leading up to the termination or expiration of the Service Agreements, in each case, which have been asserted 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+against a Party or any of its Related Parties or which, whether currently known or unknown, suspected or unsuspected, foreseen or unforeseen, anticipated or unanticipated, such Party or its Related Parties, or any successors or assigns thereof, ever could have asserted or ever could assert, in any capacity, against the other Parties or their respective Related Parties, in any capacity, relating to any Action from any time in connection with or relating to the Service Agreements (collectively, the “Released General Claims”); *provided*, *however*, that (i) no Party shall be released from any breach of this Agreement, including any failure to pay any amount due to another Party in accordance with this Agreement or the Final Reconciliation Statement (once it is final and binding upon the Parties in accordance with the term of this Agreement with respect to the item or amount in question), (ii) Guarantor shall not be released from any breach of the New Guaranty, including any failure to pay any amount due to ABX in accordance therewith, (iii) no Party shall be released from any Actions asserted after the Effective Termination Time under the confidentiality, nondisclosure and indemnification provisions of the Service Agreements which arise from or out of, are based upon, or are in connection with or relate to events occurring prior to, on or after the Effective Termination Time, and (iv) any Actions which may arise in accordance with preceding clauses (i), (ii) and (iii) are explicitly excluded from the definition of Released General Claims. 
+
+^^Without limiting the generality of the foregoing, each of ATSG and ABX, for and on behalf of itself and, to the fullest extent permitted by applicable law, its Related Parties, does hereby unequivocally release and discharge DHL and any of its Related Parties, from any and all Actions that in any way arise from or out of, are based upon, or are in connection with or relate to any “employee benefit plan” (as defined in Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended, and the regulations thereunder) and any other statutory or non-statutory benefit or compensatory plan, program, policy, arrangement or agreement (including workers’ compensation arrangements, severance arrangements or qualified or non-qualified pension plans), in each case that have been maintained, or contributed to, by ATSG or ABX since [[Date 2]], and any and all other liabilities of ATSG or ABX that relate to any such plan, program, policy, arrangement or agreement, including Actions involving (i) the funding or funded status (including any underfunding) of any such plan, document, benefit or arrangement or (ii) any breach, non-performance, action or failure to act under the Service Agreements or in connection therewith, in each case, which have been asserted against DHL or any of its Related Parties or which, whether currently known or unknown, suspected or unsuspected, foreseen or unforeseen, anticipated or unanticipated, ever could have been asserted or ever could be asserted against DHL or any of its Related Parties, in any capacity, relating to any Action from or after [[Date 2]] in connection with the foregoing (collectively, the “Released Benefit Claims” and, together with the Released General Claims, the “Released Claims”); *provided*, *however*, that (i) Network Operations shall not be released from any failure to pay any amount due to ATSG or ABX in respect of pension liabilities in accordance with the Final Reconciliation Statement or from any Actions which may arise in connection therewith, and (ii) neither DHL nor the Guarantor shall be released from any failure to pay any amount due to ABX in respect of workers’ compensation liabilities in accordance with Section 2.6 hereof or in accordance with the New Guaranty or from any Actions which may arise in connection therewith. The parties acknowledge and agree that the Service Agreements impose no obligation on Network Operations, [[Organization 3 Name]] or any of their respective Related Parties with respect to any pension plan (whether or not tax-qualified) or comparable document, benefit or arrangement maintained by ATSG or ABX since [[Date 2]], other than the reimbursement of a 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+specified portion of the annual accounting charge associated with ABX’s pension plans. From the Effective Termination Time, ATSG and ABX shall jointly and severally indemnify and hold harmless DHL and each of its Related Parties (the “DHL Indemnified Parties”) from and against all Actions (including reasonable fees, costs and expenses (including attorneys’ fees and disbursements) actually incurred and paid by the DHL Indemnified Parties) asserted against the DHL Indemnified Parties in connection with any Released Benefit Claims on or after the Effective Termination Time. ATSG and ABX shall have the right to control the defense of any such Action for which indemnification is sought by the DHL Indemnified Parties under this Section 1.3(b). In the event neither ATSG nor ABX assumes control of the defense of any such Action, the DHL Indemnified Party against whom such Action is asserted will be entitled to advancement of reasonable expenses expected to be incurred in the defense of such Action from ATSG and ABX within 10 calendar days of receipt by ATSG and ABX from such DHL Indemnified Party of a written request therefor, which request shall specify in reasonable detail the projected allocation and uses of such advanced amounts. Any such advanced amounts, to the extent not actually incurred and paid by such DHL Indemnified Party in the defense of such Action, shall promptly be returned to ATSG or ABX (as the case may be) upon the final disposition of such Action. If either ATSG or ABX, or any of their respective successors or assigns, shall (i) consolidate with or merge into any other person and shall not be the continuing or surviving corporation or entity of such consolidation or merger, or (ii) transfer all or substantially all of its properties and assets to any person, then, and in each such case, such Party shall use its commercially reasonable efforts to ensure that proper provisions shall be made so that the successors and assigns of such Party shall expressly assume all of the obligations of such Party set forth in this Section 1.3(b). In addition, ATSG and ABX shall pay all reasonable expenses, including reasonable attorneys’ fees, which are actually incurred and paid by any DHL Indemnified Party in connection with its enforcement of the foregoing rights provided in this Section 1.3(b), but only if and to the extent such DHL Indemnified Party ultimately prevails in such enforcement. 
+
+^^It is understood and agreed that, except as otherwise expressly set forth in the preceding paragraphs of this Section 1.3, the preceding paragraphs of this Section 1.3 are a full and final release covering all known as well as unknown or unanticipated debts, claims or damages of the Parties and their Related Parties relating to or arising out of the Service Agreements and, in the case of ATSG and ABX, relating to or arising out of any pension plan or comparable document, benefit or arrangement maintained by ATSG or ABX since [[Date 2]], and any and all other liabilities of ATSG or ABX that relate to any such pension plan or comparable document, benefit or arrangement. Therefore, each of the Parties expressly waives any rights it may have under statute or common law principle under which a general release does not extend to claims which such Party does not know or suspect to exist in its favor at the time of executing the release, which if known by such Party must have affected such Party’s settlement with the other. In connection with such waiver and relinquishment, the Parties acknowledge that they or their attorneys or agents may hereafter discover claims or facts in addition to or different from those which they now know or believe to exist with respect to the Released Claims, but that it is their intention hereby fully, finally and forever to settle and release all of the Released Claims, as further set forth in the preceding paragraphs of this Section 1.3. In furtherance of this intention, the releases herein given shall, except as otherwise expressly set forth in the preceding paragraphs of this Section 1.3, be and remain in effect as full and complete mutual releases with regard to the Released Claims notwithstanding the discovery or existence of any such additional or different claim or fact. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^^Each Party acknowledges that it has been advised by legal counsel and is familiar with the provisions of California Civil Code Section 1542, which provides as follows: 
+
+^GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR. 
+
+Each Party, being aware of said code section, agrees to expressly waive any rights it may have thereunder, as well as under any other statute or common law principles of similar effect, with respect to any other Party under the Service Agreements, except to the extent otherwise expressly set forth in the preceding paragraphs of this Section 1.3. 
+
+^\centered SETTLEMENT OF AMOUNTS DUE UNDER THE 
+
+\centered SERVICE AGREEMENTS; RELATED ITEMS 
+
+^Reconciliation Statement 
+
+[[2 Reconciliation Statement Signatory Email: Identity | Signature]]
+__________________________________________
+{{2 Reconciliation Statement Entity => By: [[2 Reconciliation Statement Signatory First Name]] [[2 Reconciliation Statement Signatory Last Name]]
+Title: [[2 Reconciliation Statement Signatory Title]]}}
+
+^Review and Adjustment Procedures 
+
+^^The Draft Reconciliation Statement shall become final and binding (such statement, once final and binding upon the Parties, the “Final Reconciliation Statement” and, together with the Draft Reconciliation Statement, the “Reconciliation Statement”) upon the Parties at 11:59 p.m., eastern daylight time, on [[Date 9: Date]] (such time on such date, the “Objection Cut-Off Time”), unless DHL provides ABX with written notice (the “Objection Notice”) of its good faith objection to any of the items, amounts or calculations included in the Draft Reconciliation Statement (the “Objections”) prior to the Objection Cut-Off Time. The 
+
+Note: It is expected that Appendix A will represent the exact form of Draft Reconciliation Statement to be delivered by ABX pursuant to Section 2.1, but will only reflect sample numbers determined as of a date reasonably in advance of the parties’ execution of this Agreement. Accordingly, although the categories or classes of amounts owed by one party to the other that appear in Appendix A will be the same categories and classes that appear in the Draft Reconciliation Statement, the parties acknowledge that the numbers reflected in the Draft Reconciliation Statement may differ from the sample numbers reflected in Appendix A.
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+Objection Notice will contain reasonable written explanations of the Objections and the amendment and adjustments which DHL believes should be made to the Draft Reconciliation Statement. For the avoidance of doubt, the Parties acknowledge and agree that DHL may raise an Objection based on its good faith belief that ABX has failed to comply with its obligations under Section 2.5. If a Notice of Objection is delivered to ABX prior to the Objection Cut-Off Time, then (i) the Draft Reconciliation Statement as to the particular items, or portions thereof, that are not the subject of an Objection shall become final and binding upon the Parties at the Objection Cut-Off Time and (ii) the Draft Reconciliation Statement as to any particular items, or portions thereof, that are the subject of an Objection shall become final and binding upon the Parties on the earlier of (A) the date that ABX, Network Operations and [[Organization 3 Name]] agree, in writing, upon the resolution of such Objection or (B) the date on which such Objection is finally resolved in writing by the Independent Auditor, in each case pursuant to the resolution procedures set forth in Section 2.2(b). 
+
+^^The process for resolving any Objections shall be: 
+
+^^^For the 30 day period following the receipt of the Objection Notice, ABX and DHL will attempt in good faith to resolve in writing the Objections. 
+
+^^^If ABX and DHL are unable to resolve their disagreements with respect to any of the Objections within the time period specified in Section 2.2(b)(i), they shall refer any unresolved Objections to [[Organization 8 Name]] LLP or, if [[Organization 8 Name]] LLP shall for some reason be unable to act with respect to the unresolved Objections, to a nationally-recognized firm of independent certified public accountants as to which the Parties mutually agree (the “Independent Auditor”), who will determine, based solely on the information submitted by ABX and DHL (and not by independent review), and only with respect to the unresolved Objections so submitted, whether and to what extent the items, amounts or calculations included in the Draft Reconciliation Statement that are the subject of the unresolved Objections require adjustment. The Independent Auditor will resolve each remaining unresolved Objection in favor of either ABX or DHL by determining which party’s submission was, in the aggregate, calculated more in accordance with the terms and conditions set forth herein. The Independent Auditor’s determination of the unresolved Objections will be final and binding upon the Parties. ABX and DHL will use their commercially reasonable efforts to cause the Independent Auditor to make its determination as promptly as practicable, but in no event later than 30 calendar days following submission of the unresolved Objections to the Independent Auditor for final resolution. The fees and expenses of the Independent Auditor will be allocated between ABX and DHL in the same proportion as the aggregate amount of the disputed items submitted to the Independent Auditor that are unsuccessfully disputed by such Party (as finally determined by the Independent Auditor) bears to the total amount of disputed items submitted to the Independent Auditor. ABX’s portion of the fees and expenses of the Independent Auditor shall not be reimbursable by DHL under the Service Agreements, this Agreement or any of the New Agreements. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^Agreement on the Payment of Certain Amounts 
+
+^^The following items and amounts have been agreed upon by the Parties for purposes of the Reconciliation Statement:
+
+^^^the aggregate amount of the Base Markup and the Incremental Markup for purposes of the ACMI Agreement is $[*] for each of the fiscal quarters ended [[Date 10: Date]] and [[Date 7]];
+
+^^^the administrative or corporate overhead expenses of ABX allocated to the provision of Third Party Services (and hence not subject to reimbursement by Network Operations) for purposes of the ACMI Agreement shall be $[*] for each of the fiscal quarters ended [[Date 10]] and [[Date 7]];
+
+^^^the outstanding amount owed to ABX under the Service Agreements in respect of accrued but unused vacation time paid to terminated employees of ABX (“Accrued Vacation”) is $11.235 million (representing (A) the agreed total Accrued Vacation charge of $14.4 million, less (B) $[[USD Value 4: Number]] million that has been paid by DHL prior to the date hereof), and, except as set forth in the Final Reconciliation Statement, ABX is not entitled to, and will not seek, reimbursement under the Service Agreements for any additional amounts related to Accrued Vacation or other vacation-related amounts;
+
+^^^the aggregate amount owed to ABX as the Put Price for (A) the 31 DC-9 aircraft that ABX put to Network Operations under the ACMI Agreement on [[Date 11: Date]] and [[Date 12: Date]], and (B) the 5 767 aircraft that ABX put to Network Operations under the ACMI Agreement on [[Date 13: Date]] (such DC-9 aircraft and 767 aircraft, collectively, the “Put Aircraft”), is (x) $[[USD Value 3: Number]], less (y) any amounts actually paid by DHL with respect to the Put Aircraft prior to the settlement of the amounts due under the Final Reconciliation Statement (such final amount, the “Final Put Price”);
+
+^^^neither ABX nor any of its affiliates shall be reimbursed for any costs and expenses incurred by ABX or any of its affiliates in connection with (A) the negotiation and execution of an amendment to its existing sublease at the Wilmington Air Park (“ILN”) providing for the extension of such sublease, (B) the negotiation and execution of a sublease between ATSG or any of its affiliates and the Clinton County Port Authority (“CCPA”) with respect to ILN, or (C) except for costs to be included in Part 2 of the Final Reconciliation Statement under the caption “Facility Lease and Station Terminations,” occupying, operating or maintaining premises at ILN;
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^^^except as otherwise provided for in Section 2.6 of this Agreement, neither ABX nor any of its affiliates shall be reimbursed for any and all amounts, liabilities and obligations related to any workers compensation claims by the employees of ABX or its affiliates incurred in connection with the provision of services to DHL under the Service Agreements (or for which reimbursement or other payment is otherwise being sought by ABX or its affiliates from DHL); and
+
+^^^each of those items and amounts contained in Part 2 of the Draft Reconciliation Statement, except for the amount to be included in Part 2 of the Final Reconciliation Statement under the caption “Professional Fees”.
+
+^^For the avoidance of doubt, with respect to any item or amount expressly agreed to in clauses (i), (ii), (iii), (iv), (vi) or (vii), of Section 2.3(a), (i) DHL is not entitled to provide an Objection Notice with respect to any such item or amount; *provided*, *however*, that DHL may raise an Objection with respect to any such items or amounts to the extent that there is a discrepancy between Section 2.3(a) and the Draft Reconciliation Statement (in which case Section 2.3(a) shall control), and (ii) ABX shall not seek reimbursement under the Service Agreements with respect to any such item or amount except as expressly agreed to in Section 2.3(a) of this Agreement. Further, DHL is not entitled to provide an Objection Notice with respect to an item or amount that was previously settled under the Service Agreements for any accounting period prior to [[Date 14: Date]], except to the extent that an amount for such item is included in the Draft Reconciliation Statement, and except with respect to an amount associated with an item cited in Part 4 of Appendix A. 
+
+^^The Parties acknowledge and agree that (i) ABX has made a provision for, and is liable for, not less than $[*] for salary costs (plus the directly related employer payroll taxes) associated with retroactive compensation payments to flight crewmember employees incurred by ABX in connection with the New Pilots CBA (as defined below), (ii) ABX has already accrued the retroactive compensation payments (and directly related employer payroll taxes) referred to in the foregoing clause (i), and (iii) the Final Reconciliation Statement shall include, to the extent that DHL has not already done so, reimbursement of ABX for such retroactive compensation payment (and directly related employer payroll taxes); *provided*, *however*, that in no event shall Network Operations be liable for (x) any such retroactive compensation payment in excess of $[*] in the aggregate (including all amounts previously paid by DHL with respect to such retroactive compensation payment), and (y) aggregate employer payroll taxes related to such retroactive compensation payment in excess of $[*] (including all amounts previously paid by DHL with respect to such related employer payroll taxes). The sum of the amounts specified in clauses (x) and (y) of the immediately preceding sentence are hereinafter referred to as the “Retroactive Compensation Cap”. ABX agrees that it will not seek, and Network Operations and its affiliates shall have no liability for, any additional salary costs or any other costs (including employer payroll taxes related to this retroactive compensation) under the ACMI Agreement in respect of retroactive compensation payments incurred or accrued in connection with the New Pilots CBA above and beyond the Retroactive Compensation Cap. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^^Following payment in full by DHL of the Final Put Price, ABX shall, on or prior to [[Date 15: Date]], transfer title to the Put Aircraft to Network Operations or its affiliate (as determined by DHL) in the manner provided in Exhibit C to the ACMI Agreement and free from any and all encumbrances other than the encumbrances set forth on Appendix B hereof. ABX shall deliver the Put Aircraft to DHL or its affiliate at such location(s) within the continental United States as DHL shall reasonably request; *provided* that, if the Put Aircraft are not then situated at the location(s) requested by DHL, DHL shall reimburse ABX for any and all fees, charges, taxes, costs and expenses incurred in transporting the Put Aircraft to such location(s), including but not limited to flight and ground crew, fuel and maintenance costs incurred in preparing the Put Aircraft for transport. 
+
+^Payments 
+
+Network Operations shall, by 5:00 p.m., eastern daylight time, on [[Date 15]], pay or cause to be paid by wire transfer of immediately available funds to the account designated by ABX in Appendix C hereto the amounts it owes to ABX hereunder (as specified in the Final Reconciliation Statement) that are final and binding upon the Parties as of the Objection Cut-Off Time (including those amounts identified and agreed to in Section 2.3(a) hereof). ABX shall, as promptly as practicable after receipt of the foregoing payment by Network Operations, and in any event by 5:00 p.m., eastern daylight time, on [[Date 16: Date]], pay by wire transfer of immediately available funds to the account designated by DHL in Appendix C hereto an amount equal to $15.0 million, which amount is in partial prepayment of the Note in accordance with that certain letter agreement, dated [[Date 17: Date]], between ABX and [[Organization 1 Name]]. Each of ABX, Network Operations and [[Organization 3 Name]], as applicable, shall promptly (and in any event within 2 business days of the date on which any amount becomes final and binding upon the Parties) pay by wire transfer of immediately available funds to the account designated by the other Party in Appendix C hereto any amounts under the Final Reconciliation Statement that become final and binding upon the Parties in accordance with Section 2.2 after the Objection Cut-Off Time. For the avoidance of doubt, no Party shall have any obligation to make a payment to another Party hereto of any amount contained in the Final Reconciliation Statement unless such amount (a) has been identified and agreed to in Section 2.3(a) hereof, or (b) has otherwise become final and binding upon the Parties in accordance with Section 2.2. 
+
+^Access to Information 
+
+From the date hereof through the later of (i) the Objection Cut-Off Time and (ii) the date upon which the final Objection is resolved in accordance with Section 2.2, upon reasonable notice and at reasonable times, ABX will give DHL and its representatives reasonable access to supporting records and analyses and financial personnel to the extent necessary to permit DHL to review and validate those amounts contained in the Draft Reconciliation Statement which have not yet been identified and agreed to in Section 2.3(a) hereof or otherwise become final and binding upon the Parties in accordance with Section 2.2. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^Workers’ Compensation 
+
+^^Upon execution of the New Agreements, DHL will pay ABX and/or its affiliate (as determined by ABX) $[*] related to the ABX workers’ compensation liability accrual under the Service Agreements. This payment, combined with the $[*] of accrued amounts previously reimbursed by DHL under the Service Agreements, results in a total amount of ABX workers’ compensation liability accrual reimbursed by DHL under the Service Agreements [*] (the “Initial WC Reimbursement Amount”). The Initial WC Reimbursement Amount represents an initial estimate of claims (inclusive of state assessments, legal fees and administrative costs, but not the management of the claims which is addressed separately in Section 2.6(f)) arising from workers’ compensation injuries incurred in connection with the provision of services to DHL under the Service Agreements through the date of termination or expiration, as applicable, of each of the Service Agreements (hereinafter, “WC Claims”).
+
+^^From the date hereof until the final amount of the WC Claims is determined and settled in accordance with the process outlined in this Section 2.6, ABX will report its cumulative payment of WC Claims development on a quarterly basis and DHL will reimburse ABX within 5 business days of the receipt of such report for any amounts paid out by ABX in settlement of WC Claims in excess of the Initial WC Reimbursement Amount plus any subsequent payments made by DHL pursuant to this Section 2.6. 
+
+^^The actuarial principal estimate of $[*] contained in the actuarial valuation previously obtained by ABX (a true and complete copy of which has been provided to DHL) in estimating the expected liability for WC Claims under the Service Agreements as of [[Date 18: Date]], shall be considered the “Opening WC Valuation.” ABX shall, by 5:00 p.m., eastern standard time, on [[Date 19: Date]] (or earlier upon the agreement of the Parties), deliver to DHL, an actuarial principal estimate from a qualified actuarial firm of the outstanding workers compensation liability related to the WC Claims as of [[Date 20: Date]]. DHL may accept the actuarial principal estimate or shall have the right to obtain a second actuarial valuation from a qualified actuarial firm of the then outstanding workers compensation liability related to the WC Claims. If DHL accepts the actuarial principal estimate contained in the ABX valuation or if the actuarial principal estimates contained in the two valuations are within [[Percentage 1: Number]]% of each other, the actuarial principal estimate contained in the ABX valuation will be accepted as the “Closing WC Valuation.” If the actuarial principal estimate contained in the two valuations are not within [[Percentage 1]]% of each other, but ABX accepts the actuarial principal estimate contained in the DHL valuation, the actuarial principal valuation contained in the DHL valuation will become the “Closing WC Valuation.” In the event that (i) DHL does not accept the ABX valuation, (ii) the actuarial principal estimate contained in the two valuations are not within [[Percentage 1]]% of each other or (iii) ABX does not accept the DHL valuation, the final settlement of the workers compensation liability related to the WC Claims will be delayed and the foregoing process will be repeated on an annual basis (or earlier upon the agreement of the Parties) until the earliest to occur of (A) DHL accepts the actuarial principal estimate then obtained by ABX, (B) the actuarial principal estimate contained in the two valuations are within [[Percentage 1]]% of each other or (C) ABX accepts the actuarial principal estimate then obtained by DHL. In the event that a Closing WC Valuation has not been established under the foregoing process prior to ABX’s obtaining a third valuation in accordance with the foregoing process, then the third such ABX valuation will constitute Closing WC Valuation. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^^If: 
+
+^^^the aggregate value of the Closing WC Valuation plus the amount of any cash distributions made by ABX for WC Claims after [[Date 18]] (the “Final WC Claims Amount”) is greater than the Initial WC Reimbursement Amount plus any additional funding provided by DHL (the “Final WC Reimbursement Amount”), then DHL will pay the difference to ABX within 30 days of the date on which Closing WC Valuation is established;
+
+^^^the Final WC Claims Amount is less than the Final WC Reimbursement Amount and is also less than the Opening WC Valuation, then the Parties will allocate the difference as follows: (A) [*]% of the first $[*] of the amount by which the Final WC Claims Amount is less than the Opening WC Valuation will be credited to ABX; (B) [*]% of the next $[*] of the amount by which the Final WC Claims Amount is less than the Opening WC Valuation (in excess of the first $[*] in the aggregate) will be credited to each of ABX and DHL; and (C) [*]% of any remaining money (in excess of the first $[*] in the aggregate) will be credited to DHL, and any payments necessary to give effect to the foregoing will be made by the appropriate Party within 30 days of the date on which Closing WC Valuation is established;
+
+^^^the total of the Final WC Claims Amount plus any aggregate amount allocated to ABX pursuant to clause (ii) above is less than the Final Reimbursement Amount, then such difference will be repaid to DHL by ABX within 30 days of the date on which Closing WC Valuation is established.
+
+^^If the Parties agree to settle the workers compensation liability related to the WC Claims at a date prior to the [[Date 20]] valuation date or defer such settlement in accordance with Section 2.6(c), each Party will be entitled to receive [*]% of the amount determined in accordance with Section 2.6(d) based on the actuarial principal estimate as of the date of settlement without any pro-ration or other adjustment based on using a date other than [[Date 20]]. 
+
+^^In consideration for ABX managing the workers compensation claims, and in addition to any amounts otherwise payable by DHL to ABX pursuant to this Section 2.6, DHL will pay ABX equal monthly installments totaling $[*] per annum for a period of 3 years, commencing upon the Effective Termination Time. No such additional fee will be payable after the third anniversary of the date hereof. In the event that the Parties settle the workers compensation liability prior to the end of the third anniversary of the date hereof or DHL terminates the Air Transportation Services Agreement, then, in conjunction with such settlement or termination, DHL shall pay to ABX an amount equal to the remaining monthly installments that ABX would have otherwise been entitled to receive under this Section 2.6 for continuing to manage such workers compensation claims. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^Additional Matters. 
+
+The Parties also hereby agree as follows: 
+
+^^At the end of each calendar month following the Effective Termination Time, the principal amount of the Note shall be reduced in equal installments of $[*] for the first 59 months and shall be further reduced by $[*] at the end of the 60th month, resulting in the Note being extinguished in its entirety as of the end of the 60th month; *provided, however,* that if Network Operations has terminated the Air Transportation Services Agreement as a result of an ABX event of default thereunder (as provided under the Air Transportation Services Agreement) prior to the end of the 60th month, then no further installment reductions shall occur from and after the date of any such termination and the remaining principal amount of the Note as of the date of such termination (after giving effect to all prior installment reductions under this Section 2.7(a)) will remain outstanding and payable in accordance with its terms. In the event that Network Operations terminates the Air Transportation Services Agreement for its convenience (as provided under the Air Transportation Services Agreement) prior to the end of the 60th month, the remaining principal amount of the Note will be extinguished in its entirety as of the date of such termination. The Parties will amend the Note as of [[Date 21: Date]] of each year to reflect the cumulative reduction in the principal amount thereof. 
+
+^^Concurrently with the execution of the New Agreements, DHL will pay ABX and/or one of its affiliates (as determined by ABX) an amount totaling $[*] by wire transfer of immediately available funds to the account(s) designated by ABX in Appendix C. Thereafter, on each of the first and second anniversaries of the date on which the New Agreements are executed, DHL will further pay ABX and/or one of its affiliates (as determined by ABX) an additional amount totaling $[*] by wire transfer of immediately available funds to the account(s) designated by ABX in Appendix C (or to such other account(s) as ABX may designate in writing at least 2 business days prior to the relevant anniversary); *provided*, *however*, that, with respect to any such additional amount to be paid by DHL to ABX on the first or second anniversary of the date on which the New Agreements are executed, if (i) the Air Transportation Services Agreement has been terminated by DHL as a result of an event of default by ABX thereunder (as provided under the Air Transportation Services Agreement) on or prior to such anniversary, then, DHL shall have no obligation to pay such additional amount to ABX pursuant to this Section 2.7(b), which amount shall be treated as liquidated damages and shall be DHL’s sole monetary remedy under this Section 2.7(b), or (ii) ABX is in default of the Air Transportation Services Agreement on such anniversary, then DHL shall have no obligation to pay such additional amount to ABX pursuant to this Section 2.7(b) unless and until ABX cures such default, (it being understood that DHL shall pay to ABX such additional amount as of the date that ABX cures such default). For the avoidance of doubt, (x) assuming no event described in clauses (i) or (ii) of the immediately preceding proviso has occurred on or prior to the first or second anniversary of the date on which the New Agreements are executed, the aggregate amount of all payments that will be made by DHL under this Section 2.7(b) is $[*], and (y) the payment by DHL to an affiliate of ABX (at the direction of ABX) of any amount which DHL is obligated to pay under this Section 2.7(b) shall be in full satisfaction of such payment obligation. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^ILN Sublease; Environmental Indemnification 
+
+^^Except as otherwise agreed to in writing by the Parties, DHL and ABX shall amend that certain Wilmington Air Park Sublease between [[Organization 3 Name]], as the successor to Airborne, and ABX, dated [[Date 2]], on or before [[Date 7]], to provide that the term thereof shall remain in full force and effect until the earlier to occur of (i) [[Date 22: Date]], or (ii) such time as DHL conveys ILN to the CCPA. 
+
+^^[[Organization 3 Name]], [[Organization 1 Name]] and Network Operations shall jointly and severally indemnify and hold harmless ABX and each of its Related Parties (the “ABX Indemnified Parties”) from and against all Actions (including reasonable fees, costs and expenses (including attorney’s fees and disbursements) actually incurred and paid by the ABX Indemnified Parties) asserted against the ABX Indemnified Parties in connection with (i) the fish kill incident alleged by the Ohio Environmental Protection Agency to have taken place on or about [[Date 23: Date]], or (ii) any failure by DHL to bring the storm water treatment facilities at ILN into regulatory compliance prior to the donation of ILN to the CCPA by DHL. [[Organization 3 Name]], [[Organization 1 Name]] and Network Operations shall have the right to control the defense of any such Action for which indemnification is sought by the ABX Indemnified Parties under this Section 2.8(b). In the event none of [[Organization 3 Name]], [[Organization 1 Name]] or Network Operations assumes control of the defense of any such Action, the ABX Indemnified Party against whom such Action is asserted will be entitled to advancement of reasonable expenses expected to be incurred in the defense of such Action from [[Organization 3 Name]], [[Organization 1 Name]] and Network Operations within 10 calendar days of receipt by [[Organization 3 Name]], [[Organization 1 Name]] and Network Operations from such ABX Indemnified Party of a written request therefor, which request shall specify in reasonable detail the projected allocation and uses of such advanced amounts. Any such advanced amounts, to the extent not actually incurred and paid by such ABX Indemnified Party in the defense of such Action, shall promptly be returned to [[Organization 3 Name]], [[Organization 1 Name]] or Network Operations (as the case may be) upon the final disposition of such Action. If any of [[Organization 3 Name]], [[Organization 1 Name]] or Network Operations, or any of their respective successors or assigns, shall (x) consolidate with or merge into any other person and shall not be the continuing or surviving corporation or entity of such consolidation or merger, or (y) transfer all or substantially all of its properties and assets to any person, then, and in each such case, such Party shall use its commercially reasonable efforts to ensure that proper provisions shall be made so that the successors and assigns of such Party shall expressly assume all of the obligations of such Party set forth in this Section 2.8(b). In addition, [[Organization 3 Name]], [[Organization 1 Name]] and Network Operations shall jointly and severally pay all reasonable expenses, including reasonable attorneys’ fees, which are actually incurred and paid by any ABX Indemnified Party in connection with its enforcement of the foregoing rights provided in this Section 2.8(b), but only if and to the extent such ABX Indemnified Party ultimately prevails in such enforcement. 
+
+^\centered REPRESENTATIONS AND WARRANTIES 
+
+^Mutual Representations and Warranties 
+
+Each Party represents and warrants to the other Parties as follows: 
+
+^^Such Party is duly organized and validly existing under the laws of the jurisdiction of its organization and is in good standing in such jurisdiction. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^^Such Party has all requisite legal and corporate power and authority to execute, deliver and perform the obligations under this Agreement and has taken all necessary action to authorize such execution, delivery and performance. 
+
+^^This Agreement constitutes a valid and binding obligation of such Party, enforceable against such Party in accordance with its terms, subject to (i) the effects of bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or other similar laws affecting creditors’ rights generally and (ii) general equitable principles (whether considered in a proceeding in equity or at law). 
+
+^^The execution and delivery of this Agreement by such Party does not, and the performance by such Party of the transactions contemplated by this Agreement does not (i) conflict with, or result in a violation or breach of, any provision of its charter or bylaws (or equivalent organizational documents), (ii) conflict with, or result in any violation or breach of, or constitute (with or without notice of lapse of time, or both) a default under or require a consent or waiver under, any of the terms, conditions or provisions of any contractual restriction binding on such Party or affecting such Party or any of its assets, or (iii) conflict with or violate any order of any governmental authority applicable to such Party or any of its assets. 
+
+^^All consents, approvals, authorizations, notices to or filings with any governmental authority or any third party that are required to have been obtained by such Party with respect to this Agreement and the transactions contemplated hereby have been obtained and are in full force and effect and all conditions of any such consents, approvals, authorizations, notices or filings have been complied with. 
+
+^^The obligations under this Agreement constitute legal, valid and binding obligations of such Party, enforceable in accordance with their respective terms. 
+
+^Additional Representations and Warranties of ABX and ATSG 
+
+^^ABX hereby represents and warrants to [[Organization 3 Name]], [[Organization 1 Name]] and Network Operations that its flight crewmember employees have ratified a tentative agreement to amend the collective bargaining agreement between ABX and the International Brotherhood of Teamsters, the collective bargaining representative for such employees, which tentative agreement shall become effective on the effective date of the New Agreements (the “New Pilots CBA”). 
+
+^^Each of ABX and ATSG hereby represents and warrants to [[Organization 3 Name]], [[Organization 1 Name]] and Network Operations that, to its actual knowledge, there are no Released Benefit Claims currently pending as of the date hereof. 
+
+^\centered ADDITIONAL COVENANTS 
+
+^Covenant Not to Sue 
+
+Each Party, on behalf of itself and, to the fullest extent permitted by applicable law, its Related Parties, hereby covenants to each other Party and their respective Related Parties not to, 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+with respect to any Released Claim, directly or indirectly encourage or solicit or voluntarily assist or participate in any way in the filing, reporting or prosecution by such Party or its Related Parties or any third party of a claim (including a third party or derivative claim) against any other Party or its Related Parties relating to any Released Claim, except to the extent (a) such Party is required or compelled to do so in connection with any legal or regulatory proceeding instituted or prosecuted by any governmental or regulatory authority or any third party, (b) such claim involves the determination of whether or not an Action is a Released Claim, or (c) such claim otherwise involves the enforcement by any of the Indemnified Parties of any of their rights provided in Section 1.3(d). The covenants contained in this Section 4.1 shall survive this Agreement indefinitely regardless of any statute of limitations. 
+
+^Nondisparagement 
+
+Other than as reasonably necessary in connection with any *bona fide* dispute among the Parties, to respond in an appropriate manner to any legal process or to give appropriate testimony or file any necessary documents in any legal or regulatory proceeding, each Party agrees that for a period of 3 years after the date hereof, such Party will not, and will use commercially reasonable efforts to cause its subsidiaries, affiliates and representatives not to, directly or indirectly make any statements (public or private statements), whether orally or in writing that disparage, denigrate or malign the other Parties or their respective Related Parties concerning the subject matter of this Agreement, the Service Agreements, the Existing Guaranties, the New Guaranty or the business or practices of the other Parties or their Related Parties. 
+
+^Publicity 
+
+Each Party shall make commercially reasonable efforts not to disclose publicly or describe its commercial relationship with the other Parties to any other person, except as required by the provisions of any applicable law, legal process or any listing agreement with a stock exchange on which such Party’s securities are traded (in each case for which it is obligated regarding its ordinary business operations), provided that each Party may describe its commercial relationship with the other Parties to its officers, directors, employees, affiliates, creditors and professional advisors, including accountants, auditors and legal counsel. ATSG and ABX have an obligation to file this Agreement with the U.S. Securities and Exchange Commission and the Parties shall cooperate in seeking confidential treatment of such portions hereof as may be agreed to by the Parties. 
+
+^No Wrongdoing 
+
+It is expressly understood and agreed that this Agreement and any negotiations or proceedings in connection herewith, do not constitute and shall not be construed as, or deemed to be, either evidence or an admission or concession on the part of any Party of any liability or wrongdoing whatsoever. The act of entering into or carrying out this Agreement and any negotiations or proceedings related hereto shall not be used, offered or received into evidence in any Action in any court, administrative agency or other tribunal for any purposes whatsoever other than to enforce the provisions of this Agreement, provided that this Agreement may be filed or submitted by the Parties to support a claim of res judicata, collateral estoppel, other theory of claim or issue preclusion, release, discharge or satisfaction. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^\centered MISCELLANEOUS 
+
+^Notices 
+
+All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given when delivered personally or upon confirmation of receipt when transmitted by facsimile transmission or electronic mail, or deemed duly given on the next business day when sent by overnight courier (providing proof of delivery) to the Parties at the following addresses (or at such other address for a Party as shall be specified by like notice): 
+
+if to DHL, to: 
+
+[[Organization 1 Name]] (USA), Inc. 
+
+1200 South Pine Island Road 
+
+Plantation, Florida 33324 
+
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]] - EVP, General Counsel & Secretary 
+
+Facsimile No.: [[Phone 1]] 
+
+Email: [[Email 1]] 
+
+if to ATSG or ABX: 
+
+[[Organization 5 Name]] 
+
+[[Address 1: Address]] 
+
+Attention: [[Person 2 First Name]] [[Person 2 Last Name]], VP, General Counsel & Secretary 
+
+Facsimile No.: 937- 382-2452 
+
+Email: [[Email 2]] 
+
+^Counterparts 
+
+This Agreement may be executed in counterparts (including by facsimile), all of which shall be considered one and the same agreement and shall become effective when four or more counterparts have been signed by all Parties and delivered to the other Parties. 
+
+^Governing Law 
+
+This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, regardless of the laws that might otherwise govern under applicable principles of conflicts of laws thereof. 
+
+^Entire Agreement 
+
+This Agreement, including the appendices hereto, the New Guaranty, the surviving provisions of the Service Agreements, and the Existing Guaranties (until the termination thereof in accordance with Section 1.2(b)) constitute the entire agreement, and supersedes all prior agreements and understandings (including the Service Agreements and, following the termination thereof in accordance with Section 1.2(b), the Existing Guaranties), both written and oral, among the Parties with respect to the subject matter of this Agreement. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^Consent to Jurisdiction 
+
+Each of the Parties hereto (a) irrevocably consents to submit itself to the personal jurisdiction of the Supreme Court of the State of New York, the Court of Common Pleas of Hamilton County, Ohio, any federal court within the Southern District of New York and any federal court within the Southern District of Ohio in the event any dispute arises out of this Agreement or the transactions contemplated by this Agreement, (b) agrees that it will not attempt to deny or defeat such personal jurisdiction by motion or other request for leave from any such court and (c) agrees that it will not bring any action relating to this Agreement or the transactions contemplated by this Agreement in any court other than the Supreme Court of the State of New York, the Court of Common Pleas of Hamilton County, Ohio, any federal court within the Southern District of New York or any federal court within the Southern District of Ohio. Any judgment from any such court described above may, however, be enforced by any Party in any other court in any other jurisdiction. Each Party irrevocably consents to the service of process outside the territorial jurisdiction of the courts referred to in this Section 5.5 in any such action or proceeding by mailing copies thereof by registered United States mail, postage prepaid, return receipt requested, to its address as specified in or pursuant to Section 5.1 of this Agreement; *provided*, *however*, that the foregoing shall not limit the right of a Party to effect service of process on the other Party by any other legally available method. 
+
+^Amendment; Waiver 
+
+This Agreement may not be amended except by an instrument in writing signed by each Party. Any waiver must be in writing signed by the Party against whom enforcement of the waiver is sought. 
+
+^Right to Specific Performance 
+
+The Parties to this Agreement agree that irreparable damage may occur in the event that any of the provisions of this Agreement is not performed in accordance with their specific terms or are otherwise breached. The Parties shall be entitled to an injunction or injunctions, without bond, to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement in any court having jurisdiction, in addition to any other remedy to which they are entitled at law or in equity. 
+
+^No Assignment; Binding Effect 
+
+This Agreement may not be assigned by any Party hereto without the prior written consent of the other Parties hereto and any attempt to do so will be void, except for assignments and transfers by operation of any laws. Subject to the preceding sentence and Section 5.10 hereof, this Agreement is binding upon, inures to the benefit of and is enforceable by the Parties and their respective successors and assigns. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+^Third Party Beneficiaries 
+
+Nothing in this Agreement, whether express or implied, is intended to or shall confer any rights, benefits or remedies under or by reason of this Agreement on any persons other than the Parties and their respective successors and permitted assigns, nor is anything in this Agreement intended to relieve or discharge the obligation or liability of any third Persons to any Party, nor shall any provisions give any third Persons any right of subrogation or action against any Party; *provided*, *however*, that, notwithstanding the foregoing, each Party acknowledges and agrees that (a) each Party’s Related Parties are express third party beneficiaries of the releases of such Related Parties contained in Section 1.3 and the covenants not to sue such Related Parties in Section 4.1 of this Agreement, (b) DHL’s Related Parties are express third party beneficiaries of the indemnification contained in Section 1.3, and (c) ABX’s Related Parties are express third party beneficiaries of the indemnification contained in Section 2.8(b), and in each case such Related Parties are entitled to enforce rights under such sections to the same extent that such Related Parties could enforce such rights if they were a party to this Agreement. 
+
+^Interpretation 
+
+When a reference is made in this Agreement to an “Article” or a “Section,” such reference shall be to an Article or a Section of this Agreement unless otherwise indicated. The headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement. Whenever the words “include”, “includes” or “including” are used in this Agreement, they shall be deemed to be followed by the words “without limitation”. The words “hereof”, “herein” and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The definitions contained in this Agreement are applicable to the singular as well as the plural forms of such terms and to the masculine as well as to the feminine and neutral genders of such term. References to a person are also to its permitted successors and assigns. The use of the words “or,” “either” and “any” shall not be exclusive. The Parties have participated jointly in the negotiation and drafting of this Agreement; consequently, in the event of an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the Parties hereto, and no presumption or burden of proof shall arise favoring or disfavoring any Party by virtue of the authorship of any provision of this Agreement. Wherever a conflict exists between this Agreement and any other agreement among the Parties, the terms of this Agreement shall control but solely to the extent of such conflict. 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+IN WITNESS WHEREOF, this Agreement has been executed by the Parties hereto as of the date first above written. 
+
+[[Organization 1 Name]] (USA), INC
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Organization 3 Name]] (USA), INC.
+
+[[[[Organization 3 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]. Entity => By: [[[[Organization 3 Name]]. Signatory First Name]] [[[[Organization 3 Name]]. Signatory Last Name]]
+Title: [[[[Organization 3 Name]]. Signatory Title]]}}
+
+
+[[Organization 2 Name]] (USA), INC.
+
+[[[[Organization 2 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. Entity => By: [[[[Organization 2 Name]]. Signatory First Name]] [[[[Organization 2 Name]]. Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. Signatory Title]]}}
+
+
+[[Organization 4 Name]], INC.
+
+[[[[Organization 4 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]]. Entity => By: [[[[Organization 4 Name]]. Signatory First Name]] [[[[Organization 4 Name]]. Signatory Last Name]]
+Title: [[[[Organization 4 Name]]. Signatory Title]]}}
+
+
+[[Organization 5 Name]]
+
+[[[[Organization 9 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]]. Entity => By: [[[[Organization 9 Name]]. Signatory First Name]] [[[[Organization 9 Name]]. Signatory Last Name]]
+Title: [[[[Organization 9 Name]]. Signatory Title]]}}
+
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+\centered **Appendix A** 
+
+\centered **Form of Reconciliation Statement** 
+
+**Part 1. Cost Recovery Adjustments Statement** 
+
+\centered **(Numbers to be updated as of [[Date 7]])** 
+
+\centered [*] 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+**Part 2. Additional Termination Settlement Provisions** 
+
+\centered [*] 
+
+***   This amount is subject to DHL Review in accordance with Sections 2.2 and 2.5 of the Agreement.**
+
+**Part 3. Additional Provisions under the S&R Agreement** 
+
+\centered **(Numbers to be updated as of [[Date 7]])** 
+
+\centered [*] 
+
+**Part 4. Accounting Items from 2009 Subject to Additional Review** 
+
+^Credits for the insurance premium returns and the Transition Center for periods prior to 12/31/09.
+
+^The completion of review and resulting adjustment, if any, associated with the accounting for fuel.
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+\centered **Appendix B** 
+
+\centered **Put Aircraft Encumbrances** 
+
+^NWB Security Agreement 
+
+Security Agreement and Assignment of Lease, dated as of [[Date 24: Date]], among [[Organization 10 Name]], as mortgagor, and [[Organization 11 Name]], as mortgagee, individually and as agent for Home Federal Savings and Loan Association and [[Organization 12 Name]], as lenders, which was recorded by the Federal Aviation Administration on [[Date 25: Date]] and assigned Conveyance No. G73930. 
+
+^IDB Security Agreement 
+
+Security Agreement, dated [[Date 26: Date]], by [[Organization 13 Name]] as debtor, in favor of [[Organization 14 Name]], Miami Agency, which was recorded by the Federal Aviation Administration on [[Date 27: Date]] and assigned Conveyance No. BB22367, as reaffirmed and supplemented by the following described instruments: 
+
+**Instrument**      **Date of Instrument**      **FAA Recording Date**      **FAA Conveyance No.**
+Reaffirmation and modification of Security Agreement      6/30/95      7/12/95      JJ14920
+Addition to Security Agreement      10/31/95      11/24/95      UU013045
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+\centered **Appendix C** 
+
+\centered **Wire Transfer Instructions** 
+
+^Payments to ABX. DHL shall make all payments to ABX under this Agreement in the lawful currency of the U.S. by unconditional wire transfer of immediately available funds to the following account, or to such other account(s) as may be designated by ABX to DHL in writing from time to time: 
+
+Account Name: [[Organization 5 Name]] 
+
+Financial Institution: [*] 
+
+Address: [*] 
+
+ABA Number: [*] 
+
+Account Number: [*] 
+
+^Payments to DHL. ABX shall make all payments to DHL under this Agreement in the lawful currency of the U.S. by unconditional wire transfer of immediately available funds to the following account, or to such other account(s) as may be designated by DHL to ABX in writing from time to time: 
+
+Account Name: [[Organization 3 Name]] (USA), Inc. 
+
+Financial Institution: [*] 
+
+Address: [*] 
+
+ABA Number: [*] 
+
+Account Number: [*] 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+\centered **Appendix D** 
+
+\centered **Workers’ Compensation Calculation** 
+
+\centered [*] 
+
+\centered Those portions of this Agreement marked with an [*] have been omitted pursuant to a request for confidential 
+
+\centered treatment and have been filed separately with the SEC. 
+
+\centered **Exhibit A** 
+
+\centered **New Guaranty** 
+
+\centered [*See Attached.*]

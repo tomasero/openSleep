@@ -1,0 +1,286 @@
+.1**  
+
+\centered **Amendment No. 1 to Amended and Restated Trust Agreement** 
+
+\centered Dated as of [], 2010 
+
+^^^^^ 
+This **Amendment No. 1 to Amended and Restated Trust Agreement**, dated as of [], 2010 (this “*Amendment*”), is entered into among (i) **[[Organization 1 Name]]**, a Delaware corporation (including any successors or assigns, the “*Depositor*”) and (ii) [[Person 1 First Name]] [[Person 1 Last Name]], an individual, [[Person 2 First Name]] [[Person 2 Last Name]], an individual, and [[Person 3 First Name]] [[Person 3 Last Name]], an individual, each of whose address is c/o [[Organization 1 Name]], [[Address 1: Address]] (each, an “*Administrative Trustee*,” and collectively, the “*Administrative Trustees*”) pursuant to Section 12.2(b) of the Amended and Restated Trust Agreement, dated [[Date 1: Date]], of [[Organization 2 Name]]. 
+
+\centered **Recital of the Depositor**  
+
+The Issuer Trustees have heretofore duly declared and established a statutory trust (the “*Issuer Trust*”), pursuant to the Delaware Statutory Trust Act by entering into that certain Trust Agreement, dated [[Date 2: Date]] (the “*Original Trust Agreement*”), as amended and restated by that certain Amended and Restated Trust Agreement, dated [[Date 1]] (the Original Trust Agreement, as so amended and restated, the *“Trust Agreement*”), and by the execution and filing with the Secretary of State of the State of Delaware of a Restated Certificate of Trust, filed on [[Date 3: Date]], attached to the Trust Agreement as Exhibit A (the “*Certificate of Trust*”). 
+
+Pursuant to certain Notices of Removal of Administrative Trustees and Appointment of Replacements, each dated as of [[Date 4: Date]], [[Person 4 First Name]] [[Person 4 Last Name]] and [[Person 5 First Name]] [[Person 5 Last Name]] (the “*Removed Administrative Trustees*”) were removed from the position of Administrative Trustees of the Trust and [[Person 2 First Name]] [[Person 2 Last Name]] and [[Person 1 First Name]] [[Person 1 Last Name]] were appointed to succeed the Removed Administrative Trustees and such appointment was thereby accepted as of the date thereof. 
+
+The Administrative Trustees, the Depositor (as the Holder of all of the Common Securities) and Holders representing a Majority in Liquidation Amount of the Outstanding Trust Preferred Securities of each Affected Class have affirmatively consented to this Amendment in accordance with Section 12.2(b) of the Trust Agreement and the Issuer Trustees have received and accepted the Opinion of Counsel contemplated thereby. 
+
+**NOW, THEREFORE,** this Amendment witnesseth: For and in consideration of the agreements and obligations set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Trust Agreement is hereby amended as follows: 
+
+\centered **Defined Terms** 
+
+Section 1.1 *Definitions.* Capitalized terms used in this Amendment and not otherwise defined shall have the respective meanings assigned thereto in the Trust Agreement. 
+
+\centered **Amendments to the Trust Agreement** 
+
+Section 2.1 *Amendment of* Section 1.1 of the Trust Agreement. Section 1.1 of the Trust Agreement is hereby amended as follows: 
+
+^^The following definition of “*Amended and Restated Stock Purchase Contract Agreement*” is added: 
+
+““*Amended and Restated Stock Purchase Contract Agreement*” means the Amended and Restated Stock Purchase Contract Agreement, dated as of [  ], 2010, between the Depositor 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+and the Property Trustee (acting on behalf of the Issuer Trust), as the same may be amended from time to time.” 
+
+^^The following definition of “*Amended and Restated Collateral Agreement*” is added: 
+
+““*Amended and Restated Collateral Agreement*” means the Amended and Restated Collateral Agreement, dated as of [  ], 2010, among the Depositor, the Collateral Agent, the Custodial Agent, the Securities Intermediary, the Issuer Trust (acting through the Property Trustee) and the Securities Registrar for the ITS, as amended from time to time.” 
+
+^^The current definition of “*Corresponding Assets*” is deleted in its entirety and replaced with the following: 
+
+““*Corresponding Assets*” means, with respect to each $[[USD Value 1: Number]] Liquidation Amount of Trust Securities: 
+
+^^in the case of Normal ITS and Common Securities, (i) from the Time of Delivery to but not including the Remarketing Settlement Date for a Successful Remarketing, $[[USD Value 1]] principal amount of Pledged Notes and a Pro Rata Interest in a Stock Purchase Contract, (ii) from and including the Remarketing Settlement Date for a Successful Remarketing to but not including the Stock Purchase Date, the U.S. Bank Deposit made with the net proceeds of each $[[USD Value 1]] principal amount of Pledged Notes sold in such Successful Remarketing on such Remarketing Settlement Date and a Pro Rata Interest in a Stock Purchase Contract, and (iii) from and including the Stock Purchase Date and thereafter for so long as Normal ITS are outstanding, 1/100th of a share of Preferred Stock; 
+
+^^in the case of Stripped ITS, (i) from the date of issuance for each Stripped ITS to but not including the Stock Purchase Date, $[[USD Value 1]] principal amount of Pledged Treasury Securities and a Pro Rata Interest in a Stock Purchase Contract, and (ii) from and including the Stock Purchase Date and thereafter for so long as Stripped ITS are outstanding, 1/100th of a share of Preferred Stock, subject to Section 4.8; and 
+
+^^in the case of Capital ITS, from the date of issuance for each Capital ITS, $[[USD Value 1]] principal amount of Notes, subject to Section 5.14.” 
+
+^^The current definition of “*Deferred Contract Payment Amount*” is deleted in its entirety and replaced with the following: 
+
+““*Deferred Contract Payment Amount*” means, at any time for each $[[USD Value 2: Number]] stated amount of Stock Purchase Contracts, the amount of the Contract Payments accrued on such stated amount that has been deferred and not paid by reason of the Depositor’s exercise of its right to defer payment of Contract Payments pursuant to Section 2.7 of the Stock Purchase Contract Agreement (including a comparable amount in respect of any Contract Payments deferred in respect of Fractional Contracts (as defined in the Stock Purchase Contract Agreement)), together with interest accrued on such amount in accordance with the terms of the Stock Purchase Contract Agreement.” 
+
+^^The following definition of “*Depositor Affiliated Owner*” is added: 
+
+““*Depositor Affiliated Owner*” means the Depositor, its Affiliates or any other Person designated by the Depositor.” 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+^^The following definition of “*Exchange Offer Prospectus*” is added: 
+
+““*Exchange Offer Prospectus*” means the prospectus and consent solicitation statement, dated May [  ], 2010 filed with the Commission as part of Depositor’s Registration Statement on Form S-4 on May [7], 2010, related to Depositor’s offer to exchange the Normal ITS for Depositor’s Depositary Shares, each representing a 1/100th interest in a Share of Preferred Stock.” 
+
+^^The current definition of “*Indenture Supplement*” is deleted in its entirety and replaced with the following: 
+
+““*Indenture Supplement*” means the Third Supplemental Indenture to the Base Indenture, dated as of [[Date 5: Date]], between the Depositor and the Note Trustee, as supplemented by the Eighth Supplemental Indenture to the Base Indenture, dated as of [  ], 2010, between the Depositor and the Note Trustee, as further amended or supplemented from time to time.” 
+
+^^The current definition of “*Like Amount*” is deleted in its entirety and replaced with the following: 
+
+““*Like Amount*” means:  
+
+^^with respect to a distribution of Notes to Holders of Normal ITS, Capital ITS or Common Securities in connection with a dissolution or liquidation of the Issuer Trust or a redemption in kind of Capital ITS pursuant to Section 4.2(c), Notes having a principal amount equal to the Liquidation Amount of the Trust Securities of the Holder to whom such Notes are distributed; 
+
+^^with respect to a distribution of Notes to a Third-Party Agent in connection with a retirement of Normal ITS pursuant to Section 4.9, Notes having a principal amount equal to the Liquidation Amount of the applicable Subject Normal ITS; 
+
+^^with respect to a distribution of Stock Purchase Contracts to a Third-Party Agent in connection with an early retirement of Normal ITS pursuant to Section 4.9, the number of Stock Purchase Contracts equal to the number of Subject Stock Purchase Contracts (as defined in the Stock Purchase Contract Agreement); 
+
+^^with respect to a distribution of Pledged Treasury Securities to Holders of Stripped ITS in connection with a dissolution or liquidation of the Issuer Trust, Pledged Treasury Securities having a principal amount equal to the Liquidation Amount of the Stripped ITS of the Holder to whom such Pledged Treasury Securities are distributed; 
+
+^^with respect to a distribution of Preferred Stock or fractional interests in Preferred Stock to Holders of Trust Securities in connection with a dissolution or liquidation of the Issuer Trust, Preferred Stock or a fractional interest in a share of Preferred Stock (which may be effected by the Issuer Trust through the creation of depositary shares) having a liquidation preference equal to the Liquidation Amount of the Trust Securities of the Holder to whom such shares of Preferred Stock or a fractional interest in a share of Preferred Stock (including through a depositary share) are distributed; 
+
+^^with respect to any distribution of Additional Amounts to Holders of Normal ITS, Capital ITS or Common Securities, Notes having a principal amount 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+equal to the Liquidation Amount of the Normal ITS, Capital ITS or Common Securities in respect of which such distribution is made; 
+
+^^with respect to a redemption of Preferred Stock, 1/100th of a share of Preferred Stock for each Normal ITS or Common Security; 
+
+^^with respect to an Exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS pursuant to Section 5.13(b), a number of Stripped ITS and a number of Capital ITS in each case equal to the number of Normal ITS included in such Exchange (e.g., if 1,000 Normal ITS are being Exchanged, the Holder will receive 1,000 Stripped ITS and 1,000 Capital ITS in accordance with and subject to Section 5.13); 
+
+^^with respect to an Exchange of Stripped ITS and Capital ITS for Normal ITS and Qualifying Treasury Securities, a number of Normal ITS equal to the number of Stripped ITS and the number of Capital ITS being Exchanged (e.g., if 1,000 Stripped ITS and 1,000 Capital ITS are being Exchanged, the Holder will receive upon the Exchange 1,000 Normal ITS together with $[[USD Value 3: Number]] principal amount of Qualifying Treasury Securities released from the Pledge, in accordance with and subject to Section 5.13(e)); 
+
+^^with respect to Notes (including Pledged Notes as applicable) being deposited or delivered in connection with an Exchange, Notes having a principal amount equal to $[[USD Value 1]] for each Normal ITS involved in the Exchange; 
+
+^^with respect to Section 5.16(c), $[[USD Value 1]] principal amount of Notes for each $[[USD Value 1]] Liquidation Amount of Trust Preferred Securities of each Affected Class; and 
+
+^^with respect to Section 5.16(d), 1/100th of a Stock Purchase Contract with a stated amount of $[[USD Value 2]] for each $[[USD Value 1]] Liquidation Amount of Trust Preferred Securities of the Affected Classes (or a comparable interest in the case of a Fractional Contract).” 
+
+^^The current definition of “*Notes*” is deleted in its entirety and replaced with the following: 
+
+““*Notes*” means the $[[USD Value 4: Number]] initial aggregate principal amount of the Depositor’s Remarketable Junior Subordinated Notes due 2042 issued pursuant to the Indenture, or such lesser aggregate principal amount as shall remain outstanding from time to time.” 
+
+^^The following definition of “*Pro Rata Interest in a Stock Purchase Contract*” is added: 
+
+““*Pro Rata Interest in a Stock Purchase Contract*” means, with respect to each $[[USD Value 1]] Liquidation Amount of Trust Preferred Securities, an interest in a Stock Purchase Contract representing the right to acquire a 1/100th interest in a share of Preferred Stock, together with such other rights, privileges, obligations and responsibilities as are associated with such Stock Purchase Contract (including the right to receive Contract Payments), in each case, on the terms and conditions set forth in such Stock Purchase Contract.” 
+
+^^The current definition of “*Remarketing Date*” is deleted in its entirety and replaced with the following definition of “*Remarketing Period*” and the term “Remarketing Period” shall replace “Remarketing Date” in every instance where it is used in the Trust Agreement, except for Section 5.14: 
+
+““*Remarketing Period*” has the meaning specified in the Indenture.” 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+^^The current definition of “*Trust Property*” is deleted in its entirety and replaced with the following: 
+
+““*Trust Property*” means (a) the Notes for so long as they are owned by the Issuer Trust in accordance with this Trust Agreement, (b) the Stock Purchase Contracts for so long as they are owned by the Issuer Trust in accordance with this Trust Agreement, (c) the Preferred Stock once acquired by the Issuer Trust pursuant to the Stock Purchase Contracts, (d) treasury securities (that are required to be Qualifying Treasury Securities when delivered) delivered to the Property Trustee (or the Collateral Agent) pursuant to Section 5.13 or Section 5.14, (e) the rights of the Issuer Trust under the Transaction Agreements, and (f) all proceeds and rights in respect of the foregoing and any other property and assets for the time being held or deemed to be held by the Issuer Trust or the Property Trustee on behalf of the Issuer Trust pursuant to the Trust Agreement.” 
+
+^^The following definition of “*Third-Party Agent*” is added: 
+
+““*Third-Party Agent*” has the meaning specified in Section 4.9.” 
+
+^^The following definition of “*Subject Normal ITS*” is added: 
+
+““*Subject Normal ITS*” has the meaning specified in Section 4.9.” 
+
+^^The following definition of “*Depositor Affiliated Normal ITS*” is added: 
+
+““*Depositor Affiliated Normal ITS*” has the meaning specified in Section 4.9.” 
+
+^^The following definition of “*Retirement Date*” is added: 
+
+““*Retirement Date*” has the meaning specified in Section 4.9.” 
+
+^^The following definition of “*Retirement Notice*” is added: 
+
+““*Retirement Notice*” has the meaning specified in Section 4.9.” 
+
+Section 2.2 *Amendment of Section 2.**4(c)* *of the Trust Agreement*. The current Section 2.4(c) of the Trust Agreement is deleted in its entirety and replaced with the following: 
+
+“(c) In order to give effect to (i) Exchanges as provided in Section 5.13 or (ii) the retirement of Normal ITS as provided in Section 4.9, the Securities Registrar may endorse [[Organization 3 Name]] Preferred Securities Certificates to reduce or increase the number of Normal ITS, Stripped ITS or Capital ITS evidenced by each such [[Organization 3 Name]] Preferred Securities Certificate, *provided* that no such endorsement shall result in a [[Organization 3 Name]] Preferred Securities Certificate evidencing a number of Normal ITS, Stripped ITS or Capital ITS exceeding the maximum number set forth on the face of such Certificate.” 
+
+Section 2.3 *Amendment of Section 2.**7(a)(i)* *of the Trust Agreement*. New clauses (L) and (M) are hereby added to Section 2.7(a)(i) of the Trust Agreement as follows: 
+
+“(L) the taking of any action in connection with the retirement of Normal ITS in accordance with Section 4.9 of this Trust Agreement; and 
+
+^causing the Issuer Trust to execute, deliver and perform the Amended and Restated Stock Purchase Contract Agreement, the Amended and Restated Collateral Agreement, and such other agreements as may be necessary or desirable in order to carry out the foregoing.” 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+^*Amendment of Section 2.**7(a)(ii)* *of the Trust Agreement.* New clauses (P) and (Q) are hereby added to Section 2.7(a)(ii) of the Trust Agreement as follows: 
+
+“(P) the taking of any action in connection with the retirement of Normal ITS in accordance with Section 4.9 of this Trust Agreement; and 
+
+^causing the Issuer Trust to execute, deliver and perform the Amended and Restated Stock Purchase Contract Agreement, the Amended and Restated Collateral Agreement, and such other agreements as may be necessary or desirable in order to carry out the foregoing, to the extent that such amendments are authorized by Section 12.2(b), and such other agreements as may be necessary or desirable in order to carry out the foregoing.” 
+
+Section 2.5 *Amendment of Article IV of the Trust Agreement.* A new Section 4.9 is hereby added to Article IV of the Trust Agreement as follows: 
+
+“Section 4.9 *Retirement of Certain Normal ITS.* 
+
+If at any time a Depositor Affiliated Owner acquires or becomes obligated to acquire Normal ITS pursuant to contract, a tender offer, an exchange offer, a negotiated transfer or any other transaction (such Normal ITS, the “*Depositor Affiliated Normal ITS*”), the Depositor shall have the right to submit a notice (the “*Retirement Notice*”) to the Property Trustee and the Securities Registrar electing to retire all or a portion of such Depositor Affiliated Normal ITS (the “*Subject Normal ITS*”) through the exchange of such Subject Normal ITS for a Like Amount of Notes and Stock Purchase Contracts. The Retirement Notice (i) shall specify the Liquidation Amount of the Subject Normal ITS with respect to which such election is being made and the date on which the proposed retirement is to occur (the “*Retirement Date*”) (which, without the consent of the Property Trustee and the Securities Registrar, shall not be less than 2 Business Days following the date that such Retirement Notice is so submitted), provided that such Retirement Date shall not be a date within the period beginning with the record date for a Distribution and ending with the applicable Distribution Date for such Distribution, (ii) shall be conditioned upon the applicable Depositor Affiliated Owner having delivered or caused to be delivered to the Securities Registrar or its designee the Subject Normal ITS by Noon, New York City time, on the Retirement Date through the Clearing Agency and (iii) shall designate the Third-Party Agent (as defined below). Upon the delivery of the Subject Normal ITS to the Securities Registrar or its designee on the Retirement Date, the Securities Registrar will provide written notice thereof to the Property Trustee and the Collateral Agent, and the Collateral Agent shall release Pledged Notes of a Like Amount with respect to such Subject Normal ITS from the Pledge and deliver them to the Property Trustee who shall distribute such Like Amount of Notes and Stock Purchase Contracts with respect to such Subject Normal ITS to the Depositor Affiliated Owner designated by the Depositor in the Retirement Notice (the “*Third-Party Agent*”) in the manner directed by the Depositor to the Property Trustee in writing. Following the exchange of Subject Normal ITS for such Like Amount of Notes and Stock Purchase Contracts, the Securities Registrar shall cancel the Subject Normal ITS and such Subject Normal ITS will no longer be Outstanding for any purpose and all rights of the Holder or its Affiliate(s) with respect to such Subject Normal ITS will cease, including, but not limited to, any rights with respect to accrued but unpaid Distributions. 
+
+Notwithstanding anything else in this Trust Agreement to the contrary, in order to effectuate the exchanges contemplated by this Section 4.9, the Issuer Trust is hereby authorized to execute, deliver and perform, and the Depositor, the Securities Registrar, the Property Trustee or any Administrative Trustee on behalf of the Issuer Trust, acting singly or collectively, is hereby authorized to execute and deliver on behalf of the Issuer Trust, one or more exchange agreements, cancellation letters, and any and all other documents, agreements, or certificates contemplated by or related to the exchanges made pursuant to this Section 4.9, in each case without further vote or approval of any other Person.” 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+^*Amendment of Section 5.**11(b)* *of the Trust Agreement.* The current Section 5.11(b) of the Trust Agreement is deleted in its entirety and replaced with the following: 
+
+“(b) Any [[Organization 3 Name]] Preferred Securities Certificate shall represent such number of the Outstanding Trust Preferred Securities of the applicable Class as shall be specified therein and may provide that it shall represent the aggregate number of Outstanding Trust Preferred Securities of the applicable Class from time to time endorsed thereon and that the aggregate number of Outstanding Trust Preferred Securities of the applicable Class represented thereby may from time to time be reduced or increased, as appropriate, to reflect transfer, redemptions, exchange (including the Exchanges pursuant to Section 5.13) or cancellations (pursuant to Section 4.9). Any endorsement of a [[Organization 3 Name]] Preferred Securities Certificate to reflect the number, or any increase or decrease in the number, of Outstanding Trust Preferred Securities of the applicable Class represented thereby shall be made by the Securities Registrar (i) in such a manner and upon instructions given by such Person or Persons as shall be specified in such Trust Preferred Securities of the applicable Class or in a Depositor order to be delivered to the Securities Registrar pursuant to Section 5.3 or (ii) otherwise in accordance with written instructions or such other written form or instructions as is customary for the Clearing Agency for such Trust Preferred Securities, from such Clearing Agency or its nominee on behalf of any Person having a beneficial interest in such [[Organization 3 Name]] Preferred Securities Certificate. Subject to the provisions of Section 5.4, the Securities Registrar shall deliver and redeliver any [[Organization 3 Name]] Preferred Securities Certificate in the manner and upon instructions given by the Person or Persons specified in such [[Organization 3 Name]] Preferred Securities Certificate or in the applicable Depositor order (and an Administrative Trustee shall execute such [[Organization 3 Name]] Preferred Securities Certificate as shall be necessary in order to give effect to the foregoing).” 
+
+Section 2.7 *Amendment of Section 5.**14(d)* *of the Trust Agreement*. The current Section 5.14(d) of the Trust Agreement is deleted in its entirety and replaced by the following: 
+
+“(d) Subject to the conditions set forth in this Trust Agreement, a Holder of Normal ITS may make a Contingent Exchange Election by: 
+
+^^^during the period that commences with the Collateral Agent’s and the Securities Registrar’s opening of normal business hours on the tenth Business Day immediately preceding the first day of a Remarketing Period and ending at 3:00 P.M., New York City time, on the second Business Day immediately preceding the first day of such Remarketing Period, transferring the Normal ITS that are the subject of such Contingent Exchange Election to the Securities Registrar, accompanied by a duly executed and completed “Notice of Contingent Exchange Election” in the form printed on the reverse side of the form of Normal ITS Certificate; and 
+
+^^^by not later than 3:00 P.M., New York City time, on the second Business Day immediately preceding the first day of a Remarketing Period, depositing with the Collateral Agent, the treasury security that is the Qualifying Treasury Security on the date of deposit, in the amount of $[[USD Value 1]] for each Normal ITS that is subject to the Contingent Exchange Election.” 
+
+Section 2.8 *Amendment of Section 5.**14(f)* *of the Trust Agreement*. The current Section 5.14(f) of the Trust Agreement is deleted in its entirety and replaced by the following: 
+
+“(f) Subject to the conditions set forth in this Trust Agreement, a Holder of Capital ITS may make a Contingent Disposition Election by, during the period that commences with the Securities Registrar’s opening of normal business hours on the tenth Business Day immediately preceding the first day of a Remarketing Period and ending at 3:00 P.M., New York City time, on the second Business Day immediately preceding the first day of such Remarketing Period, 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+transferring the Capital ITS that are the subject of such Contingent Disposition Election to the Securities Registrar, accompanied by a duly completed “*Notice of Contingent Disposition Election*” in the form printed on the reverse side of the form of Capital ITS Certificate.” 
+
+Section 2.9 *Amendment of Section 5.**18(a)(i)* *of the Trust Agreement*. The following new Section 5.18(a)(i) of the Trust Agreement is hereby added and the existing Sections 5.18(a)(i) through (vi) shall be renumbered accordingly: 
+
+“(i) the beginning and ending dates of the Remarketing Period and the applicable Remarketing Settlement Date and Stock Purchase Date in the event the Remarketing is Successful;” 
+
+Section 2.10 *Amendment of Section 6.**1(c)* *of the Trust Agreement*. The current Section 6.1(c) of the Trust Agreement is deleted in its entirety and replaced with the following: 
+
+“(c) For so long as any Stock Purchase Contracts are outstanding, the Issuer Trustees may consent to any amendment to or modification of the Stock Purchase Contract Agreement or the Collateral Agreement, without having obtained the prior approval of the Holders of any Trust Preferred Securities to such amendment or modification, for the purposes of (i) evidencing the succession of another person to the Issuer Trust’s or the Property Trustee’s obligations thereunder, (ii) adding to the covenants therein for the benefit of the Issuer Trust or the Property Trustee or to surrender any of the Depositor’s rights or powers thereunder, (iii) evidencing and providing for the acceptance of appointment of a successor Collateral Agent, Custodial Agent or Securities Intermediary under the Collateral Agreement, (iv) curing any ambiguity, or correcting or supplementing any provisions that may be inconsistent, (v) conforming the terms of the Stock Purchase Contract Agreement or the Collateral Agreement, to the descriptions thereof in the Prospectus and the Exchange Offer Prospectus, (vi) retiring Trust Preferred Securities held by a Depositor Affiliated Owner or Trust Preferred Securities with respect to which a Depositor Affiliated Owner has an obligation to purchase, or (vii) making any other provisions with respect to such matters or questions, provided that such action pursuant to this clause (vii) shall not adversely affect the interest of the Holders of Trust Preferred Securities of any Class in any material respect. The Issuer Trustees may, with the consent of the Holders of not less than a Majority in Liquidation Amount of the Normal ITS and Stripped ITS then Outstanding, considered together as a single Class, agree to any other amendment to or modification of the Stock Purchase Contract Agreement or the Collateral Agreement, including such amendments or modifications set forth in the Amended and Restated Stock Purchase Contract Agreement and the Amended and Restated Collateral Agreement, except that, without obtaining the prior written consent of each Holder of Normal ITS and Capital ITS then Outstanding, the Issuer Trustees may not agree to any amendment or modification (not including the amendments and modifications set forth in the Amended and Restated Stock Purchase Contract Agreement and the Amended and Restated Collateral Agreement) that would (A) change any payment dates for Contract Payments, (B) change the amount or type of Pledged Notes or Pledged Treasury Securities required to be pledged under the Collateral Agreement, impair the right of the Property Trustee (on behalf of the Issuer Trust) to receive distributions on Pledged Notes or Pledged Treasury Securities or otherwise adversely affect the Issuer Trust’s rights in or to the Pledged Notes or Pledged Treasury Securities, (C) change the place or currency or reduce any Contract Payments, (D) impair the Property Trustee’s right (or any Holder’s right pursuant to Section 5.16(d)) to institute suit for the enforcement of the Stock Purchase Contracts or payment of any Contract Payments, or (E) reduce the number of shares of Preferred Stock purchasable under the Stock Purchase Contracts, increase the price to purchase Preferred Stock upon settlement of the Stock Purchase Contracts, change the Stock Purchase Date or otherwise adversely affect the Issuer Trust’s rights under the Stock Purchase Contracts.” 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+^*Amendment of Section 11.1 of the Trust Agreement*. The current Section 11.1 of the Trust Agreement is deleted in its entirety and replaced with the following: 
+
+“Each Holder of Trust Preferred Securities agrees, by acceptance of Trust Preferred Securities, and each Owner agrees, by acceptance of a beneficial interest in Trust Preferred Securities, to treat for all U.S. federal income tax purposes (i) the Issuer Trust as one or more grantor trusts or agency arrangements, (ii) itself as the owner of the Corresponding Assets for the related Class of Trust Preferred Securities, (iii) the Notes as indebtedness of the Depositor, (iv) the stated interest on the Notes as ordinary interest income that is includible in the Holder’s or Owner’s gross income at the time the interest is paid or accrued in accordance with the Holder’s or Owner’s regular method of tax accounting, and otherwise to treat the Notes as described in the Prospectus and, as applicable, the Exchange Offer Prospectus and (v) the acquisition by the Depositor of Subject Normal ITS, in connection with a retirement of Normal ITS (as described in Section 4.9), as consisting of the following transactions: (A) the distribution by the Issuer Trust to the Third-Party Agent, on behalf of the Holders of Subject Normal ITS, of a Like Amount of Notes and Stock Purchase Contracts in redemption of the Subject Normal ITS, (B) the retirement of such Like Amount of Notes for consideration equal to $[[USD Value 1]] per $[[USD Value 1]] principal amount of such Notes, (C) the termination or settlement of such Like Amount of Stock Purchase Contracts which shall thereafter no longer be treated as outstanding for any purpose.” 
+
+Section 2.12 *Amendment of Section 12.**2(a)* *of the Trust Agreement.* The current Section 12.2(a) of the Trust Agreement is deleted in its entirety and replaced with the following: 
+
+“(a) This Trust Agreement may be amended from time to time by the Administrative Trustees and the Holders of all of the Common Securities, without the consent of any Holder of the Trust Preferred Securities, the Property Trustee or the Delaware Trustee (i) to cure any ambiguity, correct or supplement any provision herein that may be inconsistent with any other provision herein, or to make any other provisions with respect to matters or questions arising under this Trust Agreement, which shall not be inconsistent with the other provisions of this Trust Agreement, (ii) to modify, eliminate or add to any provisions of this Trust Agreement to such extent as shall be necessary to ensure that the Issuer Trust will not be taxable as a corporation or classified as a partnership for U.S. federal income tax purposes at all times that any Trust Securities are outstanding, to ensure that the Issuer Trust will not be required to register as an “investment company” under the Investment Company Act or to ensure the treatment of the Trust Preferred Securities as Tier 1 regulatory capital under the prevailing Federal Reserve Board rules and regulations, (iii) to provide that Trust Preferred Securities Certificates may be executed by an Administrative Trustee by facsimile signature instead of manual signature, in which case such amendment(s) shall also provide for the appointment by the Depositor of an authentication agent, the fees and expenses of which will be paid by the Depositor, a form of authentication certificate, and provisions to the effect that Trust Preferred Securities Certificates that have been executed by an Administrative Trustee by facsimile signature shall not be entitled to any benefit under the Trust Agreement or be valid or obligatory for any purpose unless the certificate of authentication thereon has been executed by the authentication agent by manual signature, (iv) to conform the terms of this Trust Agreement to the description of this Trust Agreement and the Trust Securities in the Prospectus and the Exchange Offer Prospectus, or (v) to provide for the retirement of Trust Preferred Securities held by a Depositor Affiliated Owner or Trust Preferred Securities with respect to which a Depositor Affiliated Owner has an obligation to purchase; *provided*, *however*, that in the case of either clause (i) or (ii), such action shall not adversely affect in any material respect the interests of any Holder, the Property Trustee or the Delaware Trustee; *provided*, *further*, that in the case of clause (iv), the Depositor shall deliver to the Property Trustee an Officers’ Certificate and an Opinion of Counsel (who may be counsel to the Depositor or the Issuer Trust), in each case confirming that such amendment has the effect of conforming the terms of this Trust Agreement to the descriptions of this Trust Agreement and the Trust Securities in the Prospectus. Any such 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+amendment shall become effective when notice is given to the Property Trustee and the Holders of the Trust Preferred Securities.” 
+
+\centered **Miscellaneous** 
+
+Section 3.1 *Separability Clause.*  
+
+In case any provision in the Trust Agreement, as amended by this Amendment, shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby. 
+
+Section 3.2 *Governing Law.*  
+
+This Amendment shall be governed by and construed in accordance with the laws of the State of Delaware (without regard to conflicts of laws principles). 
+
+Section 3.3 *Successors and Assigns.*  
+
+All covenants and agreements in the Trust Agreement, as amended by this Amendment, by each party thereto shall bind its successors and assigns, whether so expressed or not. 
+
+Section 3.4 *Effect of Headings.*  
+
+The Article and Section headings herein are for convenience only and shall not affect the construction hereof. 
+
+Section 3.5 *Trust Indenture Act; Conflict with Trust Indenture Act.* 
+
+If any provision of the Trust Agreement, as amended by this Amendment, limits, qualifies or conflicts with a provision of the Trust Indenture Act that is required under the Trust Indenture Act to be a part of and govern the Trust Agreement, as amended by this Amendment, the latter provision shall control. If any provision of the Trust Agreement, as amended by this Amendment, modifies or excludes any provision of the Trust Indenture Act that may be so modified or excluded, the latter provision shall be deemed to apply to the Trust Agreement, as amended by this Amendment, as so modified or to be excluded, as the case may be. 
+
+\centered * * * * 
+
+This Amendment may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all such counterparts shall together constitute but one and the same instrument. 
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+
+^^^^^ 
+**In Witness Whereof**, this Amendment has been executed and is effective as of the day and year first above written. 
+
+\centered 
+
+[[Organization 1 Name]], as Depositor 
+
+[[[[Organization 1 Name]] as Depositor Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] as Depositor Entity => By: [[[[Organization 1 Name]] as Depositor Signatory First Name]] [[[[Organization 1 Name]] as Depositor Signatory Last Name]]
+Title: [[[[Organization 1 Name]] as Depositor Signatory Title]]}}
+
+[[Person 2 First Name]] [[Person 2 Last Name]] as Administrative Trustee 
+
+[[Person 1 First Name]] [[Person 1 Last Name]] as Administrative Trustee 
+
+[[Person 3 First Name]] [[Person 3 Last Name]] as Administrative Trustee  
+
+Amendment No. 1 to 
+
+Amended and Restated Trust Agreement 
+ 

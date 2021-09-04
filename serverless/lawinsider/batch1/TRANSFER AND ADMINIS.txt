@@ -1,0 +1,107 @@
+\centered **FOURTH AMENDMENT TO THE**
+
+\centered **TRANSFER AND ADMINISTRATION AGREEMENT**
+
+THIS FOURTH AMENDMENT TO THE TRANSFER AND ADMINISTRATION AGREEMENT, dated as of [[Date 1: Date]] (this “*Amendment*”), is entered into by and among (i) [[Organization 1 Name]] (the “SPV”), (ii) [[Organization 2 Name]]., as Originator (the “*Originator*”), (iii) [[Organization 3 Name]], as Seller (the “*Seller*”) and as Servicer (the “*Servicer*”), (iv) [[Organization 4 Name]] LLC, as a conduit investor (“*Enterprise Funding*”) and (v) [[Organization 5 Name]], NATIONAL ASSOCIATION, as an Alternate Investor (“*Alternate Investor*”) and Agent (the “*Agent*”). Capitalized terms used and not otherwise defined herein are used as defined in the Transfer and Administration Agreement, including by reference therein, dated as of [[Date 2: Date]] (as amended, amended and restated, supplemented or otherwise modified through the date hereof, the “*Transfer Agreement*”), among the SPV, the Originator, the Seller, the Alternate Investors party thereto, the Conduit Investors party thereto, the Class Agents party thereto and the Agent.
+
+WHEREAS, the parties hereto desire to amend the Transfer Agreement in certain respects as provided herein;
+
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+^ \centered SECTION 1.  Amendments to the Transfer Agreement. The following amendment is made to the Transfer Agreement:  
+^^ \centered (a)Section 6.1(a)(i)(a) of the Transfer Agreement is hereby amended and restated in its entirety as follows: 
+
+^^ \centered “(a) Within ninety (90) days after the close of the SPV’s and the Performance Guarantor’s fiscal years, (A) unaudited financial statements, prepared in accordance with GAAP on a consolidated basis for the SPV and (B) audited financial statements, prepared in accordance with GAAP on a consolidated basis for the Performance Guarantor and its Subsidiaries, in each case, including balance sheets as of the end of such period, related statements of operations, shareholder’s equity and cash flows; provided that the audited financial statements for the Performance Guarantor and its Subsidiaries shall be accompanied by an unqualified audit report certified by independent registered public accountants of national or regional recognition, acceptable to the Agent, prepared in accordance with GAAP and by a certificate of said accountants that, in the course of the foregoing, they have obtained no knowledge of any Termination Event or Potential Termination Event, or if, in the opinion of such accountants, any Termination Event or Potential Termination Event shall exist, stating the nature and status thereof, and”   
+
+^ \centered SECTION 2.  Effective Date. This Amendment shall become effective as of the date (the “*Effective Date*”) that the Agent shall have received counterparts hereof duly executed by each of the parties hereto.  
+^ \centered SECTION 3.  Representations and Warranties.  
+Each of the Originator, the SPV, the Seller and the Servicer hereby certifies that, subject to the effectiveness of this Amendment, each of the representations and warranties set forth in the Transfer Agreement is true and correct on the date hereof, as if each such representation and warranty were made on the date hereof.
+
+^ \centered SECTION 4.  Transfer Agreement in Full Force and Effect as Amended. 
+
+Except as specifically amended hereby, the Transfer Agreement shall remain in full force and effect. All references to the Transfer Agreement shall be deemed to mean the Transfer Agreement as modified hereby. The parties hereto agree to be bound by the terms and conditions of the Transfer Agreement, as amended by this Amendment, as though such terms and conditions were set forth herein.
+
+^ \centered SECTION 5.  Consent of Performance Guarantor. 
+
+The Performance Guarantor hereby consents to the amendments to the Transfer Agreement set forth in this Amendment.
+
+^ \centered SECTION 6.  Miscellaneous.  
+^^ \centered 6.1This Amendment may be executed in any number of counterparts, and by the different parties hereto on the same or separate counterparts, each of which when so executed and delivered shall be deemed to be an original instrument but all of which together shall constitute one and the same agreement. Delivery of an executed counterpart of a signature page by facsimile or other electronic transmission shall be effective as delivery of a manually executed counterpart of this Amendment. This Amendment shall become effective upon the Agent’s receipt of counterparts of this Amendment, duly executed by all parties hereto (including the Performance Guarantor). 
+
+6.2The descriptive headings of the various sections of this Amendment are inserted for convenience of reference only and shall not be deemed to affect the meaning or construction of any of the provisions hereof.
+
+^^ \centered 6.3This Amendment may not be amended or otherwise modified except as provided in the Transfer Agreement. 
+
+^^ \centered 6.4Any provision in this Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.    
+
+6.5THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT SHALL BE GOVERNED BY AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK (WITHOUT REFERENCE TO THE CONFLICTS OF LAW PRINCIPLES THEREOF OTHER THAN SECTION 5-1401 OF THE NEW YORK GENERAL OBLIGATIONS LAW).
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first above written.
+
+[[Organization 1 Name]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Organization 2 Name]]., as Originator
+
+[[[[Organization 2 Name]]. as Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. as Originator Entity => By: [[[[Organization 2 Name]]. as Originator Signatory First Name]] [[[[Organization 2 Name]]. as Originator Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. as Originator Signatory Title]]}}
+
+
+[[Organization 3 Name]], as Seller and as Servicer
+
+[[[[Organization 3 Name]] as Seller and as Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] as Seller and as Servicer Entity => By: [[[[Organization 3 Name]] as Seller and as Servicer Signatory First Name]] [[[[Organization 3 Name]] as Seller and as Servicer Signatory Last Name]]
+Title: [[[[Organization 3 Name]] as Seller and as Servicer Signatory Title]]}}
+
+
+\centered [signatures continued on next page]
+
+Fourth Amendment to [[Organization 6 Name]]
+
+\centered S-1
+
+[[Organization 5 Name]], NATIONAL ASSOCIATION, as an Alternate Investor and Agent
+
+[[[[Organization 5 Name]] NATIONAL ASSOCIATION as an Alternate Investor and Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] NATIONAL ASSOCIATION as an Alternate Investor and Agent Entity => By: [[[[Organization 5 Name]] NATIONAL ASSOCIATION as an Alternate Investor and Agent Signatory First Name]] [[[[Organization 5 Name]] NATIONAL ASSOCIATION as an Alternate Investor and Agent Signatory Last Name]]
+Title: [[[[Organization 5 Name]] NATIONAL ASSOCIATION as an Alternate Investor and Agent Signatory Title]]}}
+
+
+ENTERPRISE FUNDING, as a Conduit Investor
+
+[[ENTERPRISE FUNDING as a Conduit Investor Signatory Email: Identity | Signature]]
+__________________________________________
+{{ENTERPRISE FUNDING as a Conduit Investor Entity => By: [[ENTERPRISE FUNDING as a Conduit Investor Signatory First Name]] [[ENTERPRISE FUNDING as a Conduit Investor Signatory Last Name]]
+Title: [[ENTERPRISE FUNDING as a Conduit Investor Signatory Title]]}}
+
+
+\centered [signatures continued on next page]
+
+Fourth Amendment to [[Organization 6 Name]]
+
+\centered S-2
+
+\centered **Acknowledged and consented to by:**
+
+[[Organization 7 Name]]., as the Performance Guarantor
+
+[[[[Organization 7 Name]]. as the Performance Guarantor Signatory Email: Identity | Signature]]
+__________________________________________
+{[[Organization 7 Name]]. as the Performance Guarantor Entity => By: [[[[Organization 7 Name]]. as the Performance Guarantor Signatory First Name]] [[[[Organization 7 Name]]. as the Performance Guarantor Signatory Last Name]]
+Title: [[[[Organization 7 Name]]. as the Performance Guarantor Signatory Title]]}}
+
+
+\centered [end of signatures]
+
+Fourth Amendment to [[Organization 6 Name]]
+
+\centered S-3

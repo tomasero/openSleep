@@ -1,0 +1,83 @@
+\centered **[[Organization 1 Name]]**
+
+\centered **INCENTIVE STOCK OPTION AGREEMENT**
+
+\centered **Agreement**
+
+^Grant of Option. This Incentive Stock Option Agreement evidences the grant by [[Organization 1 Name]] (the “Company”), as of [[Date 1: Date]], to [[Person 1 First Name]] [[Person 1 Last Name]] (the “Optionee”) an option (the “Option”) to purchase up [[Shares 1: Number]] shares of the Company’s Common Stock, par value $[[USD Value 1: Number]] per share (the “Shares”) at an exercise price per share of $[[USD Value 2: Number]] (the “Exercise Price”). The Option shall be subject to the terms and conditions set forth herein. The Option was issued pursuant to the Company’s 2005 Incentive Compensation Plan (the “Plan”), which is [[Party 1]] herein for all purposes. Subject to the terms of Section 14 hereof, the Option is an Incentive Stock Option, and not a Non-Qualified Stock Option. The Optionee hereby acknowledges receipt of a copy of the Plan and agrees to be bound by all of the terms and conditions hereof and thereof and all applicable laws and regulations.
+
+^Definitions. Unless otherwise provided herein, terms used herein that are defined in the Plan and not defined herein shall have the meanings attributed thereto in the Plan.
+
+^Exercise Schedule. Except as otherwise provided in Sections 6 or 9 of this Agreement, or in the Plan, the Option will become exercisable (“vest”) in accordance with the schedule set forth in the Notice, provided that the Continuous Service of the Optionee continues through and on the applicable vesting date (each, a “Vesting Date”):
+
+**Percentage of Shares**      \centered **Vesting Date**
+
+%   [[Date 2: Date]]
+
+^^%   Each of [[Date 3: Date]], [[Date 4: Date]], and [[Date 5: Date]] and [[Date 6: Date]]
+
+^^%   Each of [[Date 3]], [[Date 4]], and [[Date 7: Date]] and [[Date 8: Date]]
+
+^^%   Each of [[Date 3]], [[Date 4]], and [[Date 9: Date]] and [[Date 10: Date]]
+
+To the extent that the Option has become exercisable with respect to a percentage of Shares, the Option may thereafter be exercised by the Optionee, in whole or in part, at any time or from time to time prior to the expiration of the Option as provided herein. Except as otherwise specifically provided herein, there shall be no proportionate or partial vesting in the periods prior to each Vesting Date, and all vesting shall occur only on the appropriate Vesting Date. Upon the 
+
+termination of the Optionee’s Continuous Service with the Company and its Related Entities, any unvested portion of the Option shall terminate and be null and void.
+
+^Method of Exercise. The vested portion of this Option shall be exercisable in whole or in part by written notice which shall state the election to exercise the Option, the number of Shares in respect of which the Option is being exercised, and such other representations and agreements as to the holder’s investment intent with respect to such Shares as may be required by the Company pursuant to the provisions of the Plan. Such written notice shall be signed by the Optionee and shall be delivered in person or by certified mail to the Secretary of the Company. The written notice shall be accompanied by payment of the Exercise Price. This Option shall be deemed to be exercised after both (a) receipt by the Company of such written notice accompanied by the Exercise Price and (b) arrangements that are satisfactory to the Committee in its sole discretion have been made for Optionee’s payment to the Company of the amount, if any, that is necessary to be withheld in accordance with applicable Federal or state withholding requirements. No Shares will be issued pursuant to the Option unless and until such issuance and such exercise shall comply with all relevant provisions of applicable law, including the requirements of any stock exchange upon which the Shares then may be traded.
+
+^Method of Payment. Payment of the Exercise Price shall be by any of the following, or a combination thereof, at the election of the Optionee: (a) cash; (b) check; (c) with Shares that have been held by the Optionee for at least 6 months (or such other Shares as the Company determines will not cause the Company to recognize for financial accounting purposes a charge for compensation expense), (d) pursuant to a “cashless exercise” procedure, by delivery of a properly executed exercise notice together with such other documentation, and subject to such guidelines, as the Committee shall require to effect an exercise of the Option and delivery to the Company by a licensed broker acceptable to the Company of proceeds from the sale of Shares (or, to the extent permitted by the Committee, a margin loan) sufficient to pay the Exercise Price and any applicable income or employment taxes, or (e) such other consideration or in such other manner as may be determined by the Committee in its absolute discretion.
+
+^Termination of Options. Any unexercised portion of the Option shall automatically and without notice terminate and become null and void at the time of the earliest to occur of the following:
+
+^^unless the Committee otherwise determines in writing in its sole discretion, ninety (90) days after the date on which the Optionee’s Continuous Service with the Company and its Related Entities is terminated for any reason other than by reason of (i) termination of the Optionee’s Continuous Service by the Company or a Related Entity for Cause (as defined in Optionee’s Employment Agreement dated [[Date 11: Date]]), (ii) a Disability of the Optionee, (iii) the Optionee’s death, (iv) the occurrence of a Constructive Termination (as defined in Optionee’s Employment Agreement dated [[Date 11]]) or (v) a termination by the Company or a Related Entity for a reason other than for Cause;
+
+^^immediately upon the termination of the Optionee’s Continuous Service with the Company and its Related Entities for Cause;
+
+^^twelve (12) months after the date on which the Optionee’s Continuous Service with the Company and its Related Entities is terminated by reason of a Disability;
+
+^^twelve (12) months after the date of termination of the Optionee’s Continuous Service with the Company and its Related Entities by reason of the death of the Optionee (or, if later, three (3) months after the date on which the Optionee shall die if such death shall occur during the one year period specified in paragraph (c) of this Section 6);
+
+^^twelve (12) months after the Optionee is Constructively Terminated;
+
+^^twelve (12) months after the date of termination of Optionee’s Continuous Service by the Company without Cause; or
+
+^^the tenth (10th) anniversary of the date as of which the Option is granted.
+
+^Transferability. The Option granted hereby is not transferable otherwise than by will or under the applicable laws of descent and distribution, and during the lifetime of the Optionee the Option shall be exercisable only by the Optionee, or the Optionee’s guardian or legal representative. In addition, the Option shall not be assigned, negotiated, pledged or hypothecated in any way (whether by operation of law or otherwise), and the Option shall not be subject to execution, attachment or similar process. Upon any attempt to transfer, assign, negotiate, pledge or hypothecate the Option, or in the event of any levy upon the Option by reason of any execution, attachment or similar process contrary to the provisions hereof, the Option shall immediately become null and void. The terms of this Option shall be binding upon the executors, administrators, heirs, successors and assigns of the Optionee.
+
+^No Rights of Stockholders. Neither the Optionee nor any personal representative (or beneficiary) shall be, or shall have any of the rights and privileges of, a stockholder of the Company with respect to any shares of Stock purchasable or issuable upon the exercise of the Option, in whole or in part, prior to the date of exercise of the Option.
+
+^Acceleration of Exercisability of Option. In the event that, prior to the termination of the Option pursuant to Section 6 hereof, and during the Optionee’s Continuous Service, there is a Change in Control, all unvested shares under the Option will immediately vest and the Optionee shall have the right to exercise the Option at or prior to the closing of the Change in Control transaction. In the event that the Optionee chooses not to exercise the Option at or prior to the Change in Control transaction, the Option will be accorded the same treatment as other outstanding vested options under the Plan are accorded under the terms of the Change in Control transaction.
+
+^No Right to Continued Employment or Service. Neither the Option nor this Agreement shall confer upon the Optionee any right to continued employment or service with the Company or any Related Entity.
+
+^Law Governing. This Agreement shall be governed in accordance with and governed by the internal laws of the State of Delaware.
+
+^Interpretation / Provisions of Plan Control. This Agreement is subject to all the terms, conditions and provisions of the Plan, including, without limitation, the amendment provisions thereof, and to such rules, regulations and interpretations relating to the Plan adopted by the Committee as may be in effect from time to time. If and to the extent that this Agreement conflicts or is inconsistent with the terms, conditions and provisions of the Plan, the Plan shall control, and this Agreement shall be deemed to be modified accordingly. The Optionee accepts the Option subject to all of the terms and provisions of the Plan and this Agreement. The undersigned Optionee hereby accepts as binding, conclusive and final all decisions or interpretations of the Committee upon any questions arising under the Plan and this Agreement.
+
+^Notices. Any notice under this Agreement shall be in writing and shall be deemed to have been duly given when delivered personally or when deposited in the United States mail, registered, postage prepaid, and addressed, in the case of the Company, to the Company’s Secretary at 27 Drydock Avenue, [[Address 1: Address]], or if the Company should move its principal office, to such principal office, and, in the case of the Optionee, to the Optionee’s last permanent address as shown on the Company’s records, subject to the right of either party to designate some other address at any time hereafter in a notice satisfying the requirements of this Section.
+
+^Incentive Stock Option Treatment. The terms of this Option shall be interpreted in a manner consistent with the intent of the Company and the Optionee that the Option qualify as an Incentive Stock Option under Section 422 of the Code. If any provision of the Plan or this Agreement shall be impermissible in order for the Option to qualify as an Incentive Stock Option, then the Option shall be construed and enforced as if such provision had never been included in the Plan or the Option. If and to the extent that the number of Options granted pursuant to this Agreement exceeds the limitations contained in Section 4(b) of the Plan on the value of Shares with respect to which this Option may qualify as an Incentive Stock Option, the excess portion of the Option shall be deemed a Non-Qualified Stock Option.
+
+^Counterparts. This Agreement may be executed in two or more separate counterparts, each of which shall be an original, and all of which together shall constitute one and the same agreement.
+
+IN WITNESS WHEREOF [[Organization 1 Name]] has hereunto set its hand and seal as of the [[Date 12: Date]].
+
+
+
+[[IN WITNESS WHEREOF [[Organization 1 Name]] has hereunto set its hand and seal as of the Date 12 Date. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF [[Organization 1 Name]] has hereunto set its hand and seal as of the Date 12 Date. Entity => By: [[IN WITNESS WHEREOF [[Organization 1 Name]] has hereunto set its hand and seal as of the Date 12 Date. Signatory First Name]] [[IN WITNESS WHEREOF [[Organization 1 Name]] has hereunto set its hand and seal as of the Date 12 Date. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF [[Organization 1 Name]] has hereunto set its hand and seal as of the Date 12 Date. Signatory Title]]}}
+
+OPTIONEE’S ACKNOWLEDGEMENT
+
+The Optionee acknowledges receipt of a copy of the Plan and represents that he or she has reviewed the provisions of the Plan and this Option Agreement in their entirety, is familiar with and understands their terms and provisions, and hereby accepts this Option subject to all of the terms and provisions of the Plan and the Option Agreement. The Optionee further represents that he or she has had an opportunity to obtain the advice of counsel prior to executing this Option Agreement.
+
+Dated:   [[Date 13: Date]]      **OPTIONEE:**
+
+[[Dated   Date 13 Date      OPTIONEE Signatory Email: Identity | Signature]]
+__________________________________________
+{{Dated   Date 13 Date      OPTIONEE Entity => By: [[Dated   Date 13 Date      OPTIONEE Signatory First Name]] [[Dated   Date 13 Date      OPTIONEE Signatory Last Name]]
+Title: [[Dated   Date 13 Date      OPTIONEE Signatory Title]]}}

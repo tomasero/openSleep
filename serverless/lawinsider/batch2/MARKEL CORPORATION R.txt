@@ -1,0 +1,83 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **RESTRICTED STOCK UNIT** 
+
+\centered **AWARD AGREEMENT** 
+
+**AWARDED TO**      **AWARD DATE**      **VESTING SCHEDULE**
+
+[[Date 1: Date]]      **Vesting Date**      **Percentage of Units**
+[[Date 2: Date]]      [[Percentage 1: Number]]%
+[[Date 3: Date]]      [[Percentage 2: Number]]%
+
+[[Organization 1 Name]] (the “Company”) grants you (the “Participant”) restricted stock units (“Units”). The Units are forfeitable and nontransferable until they are vested, and shares of Company Stock will be issued in respect of the Units only as and when specified by this Agreement. The Compensation Committee of the Company’s Board of Directors (the “Committee”) will administer this Agreement, and any decision of the Committee will be final and conclusive. Capitalized terms not defined herein have the meanings provided in the [[Organization 1 Name]] Omnibus Incentive Plan (the “Plan”). 
+
+The terms of the award are: 
+
+^Vesting For Units. If Participant has not separated from service before [[Date 2]] (the “Initial Vesting Date”), [[Percentage 1]]% of the Units will become vested and nonforfeitable. As promptly as practicable after the Initial Vesting Date, the Company will issue to Participant shares of Company Stock in respect of [[Percentage 1]]% of his or her vested Units. If Participant has not separated from service before [[Date 3]] (the “Final Vesting Date”), the remaining [[Percentage 2]]% of the Units will become vested and nonforfeitable. Shares to be issued in respect of the remaining [[Percentage 2]]% of the Units are referred to as “Balance Shares.” 
+
+^Issuance of Balance Shares. 
+
+^^Notwithstanding the vesting schedule for Units set forth in Section 1, but subject to earlier issuance of a portion of the Balance Shares as provided in Section 2(b), the Company will not issue Balance Shares to Participant for vested Units until [[Date 4: Date]] (or the first business day thereafter) of the year following the year in which Participant separates from service from the Company (the “Separation Issue Date”). On the Separation Issue Date, and on the first and second anniversaries of the Separation Issue Date, or as promptly as practicable thereafter, Participant will receive shares of Company Stock in respect of 33 1/[[Percentage 3: Number]]% of his or her Balance Shares (as such number may have been reduced by issuances under Section 2(b)). 
+
+^^If, at any time after [[Date 3]] and before Participant separates from service, the Fair Market Value of Company Stock, based on the average of the reported daily high and low prices on the New York Stock Exchange (or such other exchange on which Company Stock is traded as is designated by the Committee) for a period of five consecutive trading days, exceeds the threshold amounts set forth below (“Fair Market Value Thresholds”), then Participant will, as promptly as practicable, receive [[Percentage 4: Number]]% of his or her Balance Shares for each Fair Market Value Threshold that is reached. 
+
+\centered Fair Market Value Thresholds 
+
+First Threshold      $   359.60
+Second Threshold      $   719.20
+Third Threshold      $   899.00
+Fourth Threshold      $   1,078.80
+
+^Forfeiture of Units. If Participant separates from service before the Initial Vesting Date or the Final Vesting Date due to death, Disability (as defined below), Early Retirement or Retirement, the number of Units set forth in this Award will be vested on a pro rata basis based on a fraction equal to the number of full months from the Award Date until the date of separation divided by 60 (less any Units that may have previously vested in accordance with Section 1), and shares will be issued on the basis set forth in Section 1 and in Section 2(a), as if separation from service had occurred on [[Date 5: Date]], subject to Section 5 below. Any remaining unvested Units will be forfeited as of the date of separation. If Participant separates from service before the Initial Vesting Date or the Final Vesting Date for any other reason other than those set forth in the first sentence of this Section 3 or in Section 4, any unvested Units will be forfeited. 
+
+^Change in Control. Any unvested Units will become fully vested and non-forfeitable if, within 12 months after a Change in Control (as defined in the Plan), Participant separates from service due to Involuntary Termination. For this purpose, Involuntary Termination means that Participant’s employment is involuntarily terminated without Cause or Participant terminates employment for Good Reason. In either case, shares will be issued for such Units on the basis set forth in Sections 1 and in Section 2(a) as if separation from service had occurred on [[Date 5]], subject to Section 5 below. 
+
+^Six Month Delay for Specified Employees. With respect to a Participant who separates from service before the Vesting Date for any reason other than death or Disability, if such Participant is a “specified employee” (as defined in Section 409A(a)(2)(B)(i) of the Code and the generally applicable Internal Revenue Service guidance thereunder) on the date of Participant’s separation, then, notwithstanding anything in this Agreement to the contrary, no shares will be issued for Participants Units until the date that is six months after the date of separation (or until the date of death, if earlier). Any shares which Participant would otherwise have been entitled to receive during the first six months following the date of separation will be issued instead on the date which is six months after the date of separation (or on the date of death, if earlier). Whether Participant is a “specified employee” will be determined under guidelines established by the Company for this purpose. 
+
+^Disability Defined. For purposes of this Agreement, Participant has incurred a “Disability” if Participant (a) is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in Participant’s death or can be expected to last for a continuous period of not less than 12 months or (b) is, by reason of any medically determinable physical or mental impairment which can be expected to result in Participant’s death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than three months under an accident and health plan covering employees of Participant’s employer. 
+
+^Separation from Service Defined. References throughout this Agreement to Participant’s “separation from service” and variations thereof will have the meaning set forth in Section 1.409A-1(h) of the Treasury Regulations, as amended from time to time, applying the default terms thereof. 
+
+^Forfeiture and Restitution. If Participant violates any covenant set forth in this Section 8, the Committee may, in its sole discretion, (A) cancel the award of Restricted Stock Units hereunder, whether or not vested, and/or (B) require Participant to repay by delivery of an equivalent number of shares any payment received hereunder within the previous three years. In consideration of the grant of Units to Participant hereunder, Participant agrees as follows: 
+
+^^All information relating to or used in the business and operations of the Company and its subsidiaries and corporate affiliates (including, without limitation, marketing methods and procedures, customer lists, lists of professionals referring customers to the Company and its subsidiaries and corporate affiliates, sources of supplies and materials and business systems and procedures), whether prepared, compiled, developed or obtained by Participant or by the Company or any of its subsidiaries or corporate affiliates before or during Participant’s employment with the Company or any of its subsidiaries or corporate affiliates, are and will be confidential information and trade secrets (“Confidential Information”) and the exclusive property of the Company, its subsidiaries and corporate affiliates. Confidential Information does not include information which (i) is or was already in Participant’s possession before commencement of employment with the Company or any of its subsidiaries or corporate affiliates, (ii) is or becomes generally available to the public other than as a result of a disclosure by Participant or (iii) becomes available to Participant on a non-confidential basis from a source other than the Company, provided that such source is not known by Participant to be bound by a confidentiality agreement or other obligation of secrecy with respect to such information. 
+
+^^All records of and materials relating to Confidential Information or other information, whether in written form or in a form produced or stored by any electrical or mechanical means or process and whether prepared, compiled or obtained by Participant or by the Company or any of its subsidiaries or corporate affiliates before or during Participant’s employment with the Company or any of its subsidiaries or corporate affiliates, are and will be the exclusive property of the Company or its subsidiaries or corporate affiliates, as the case may be. 
+
+^^Except as the Company may expressly authorize or direct in writing, Participant will not copy, reproduce, disclose or divulge to others, use or permit others to see any Confidential Information or any records of or materials relating to any Confidential Information. Participant further agrees not to remove from the custody or control of the Company or its subsidiaries or corporate affiliates any records of or any materials relating to Confidential Information or other information and that, to the extent Participant has any such records or materials in his or her possession, to deliver the same to the Company promptly following the Separation Date. 
+
+^^Following Participant’s separation from service with the Company, Participant will furnish such information and render such assistance and cooperation as may be reasonably requested by the Company in connection with any litigation or legal proceedings concerning the Company or any of its subsidiaries or affiliates, subject to reimbursement of Participant for reasonable expenses incurred in providing such assistance which will be paid as soon as administratively feasible after the applicable expense is incurred but no later than the last day of the calendar year following the calendar year in which the applicable expense was incurred. 
+
+^^For a period of three years from Participant’s separation from service with the Company: 
+
+^^^Participant will not have a financial interest in, cause business to be done on behalf of or serve as a principal, partner, director, officer, agent, employee, contractor, or consultant for any corporation, partnership, sole proprietorship, limited liability company, unincorporated association, trust or other business entity which offers insurance coverage or related services in competition with the Company or its affiliates. Notwithstanding the foregoing, (i) this provision will only prohibit Participant from performing services in a consulting, executive, sales, marketing, risk management or underwriting capacity for, or serving as a principal, partner, director or officer of, any such person in a position or capacity similar to the capacity in which the Participant was employed by or served the Company, and (ii) Participant will not be prohibited from making any investments in any company whose stock is listed on a national securities exchange or actively traded in the over-the-counter market, so long as such investment does not give Participant the right to control or influence the policy decisions of any such business or enterprise. 
+
+^^^Participant will not, directly or indirectly, solicit any person engaged or employed by the Company or any of its affiliates (a “Company Employee”) to voluntarily leave the employ of Company or any agent of the Company or any of its affiliates to cease being an agent of any such entity, nor will Participant in any manner seek to engage or employ any such Company Employee (whether or not for compensation) as an officer, employee, consultant, agent, adviser or independent contractor for any other person. 
+
+^Transfer Restrictions. Participant’s rights to the Units are not subject to sale, assignment, transfer, pledge, hypothecation or encumbrance; any such attempted action shall be void, and no benefit or interest in the Units shall be, in any manner, liable for or subject to Participant’s debts, contracts, liabilities or torts. 
+
+^Tax Withholding. Unless alternative arrangements are made by Participant, the Company will withhold from the payment for the vested Units shares with a fair market value equal to any required foreign, federal, state, or local income, employment or other taxes imposed on the payment. The fair market value will be the average of the high and low sale price of the Company’s common stock on the New York Stock Exchange on the Vesting Date (or other applicable date on which payment is made as provided herein). 
+
+^Binding Effect. Subject to the limitations stated above, this Agreement will be binding upon and inure to the benefit of Participant’s legatees, distributees, and personal representatives and the successors of the Company. 
+
+^Change in Capital Structure. The Units and the Fair Market Value Thresholds will be adjusted as the Committee determines is equitably required to account for a dividend in the form of stock, spin-off, stock split-up, subdivision or consolidation of shares of Company Stock or other similar changes in capitalization. 
+
+^Interpretation. This Agreement will be construed under and be governed by the laws of the Commonwealth of Virginia. THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA OR THE CIRCUIT COURT FOR THE COUNTY OF HENRICO WILL HAVE EXCLUSIVE JURISDICTION OVER ANY DISPUTES ARISING OUT OF OR RELATED TO THE PLAN OR THIS AGREEMENT. 
+
+^Code Section 409A. This Agreement is intended to comply with the applicable requirements of Sections 409A(a)(2) through (4) of the Code, and will be interpreted to the extent context reasonably permits in accordance with this intent. The parties agree to modify this Agreement or the timing (but not the amount) of any payment to the extent necessary to comply with Section 409A of the Code and avoid application of any taxes, penalties, or interest thereunder. However, in the event that any amounts payable under this Agreement are subject to any taxes, penalties or interest under Section 409A of the Code or otherwise, Participant will be solely liable for the payment thereof. 
+
+^Fractional Shares. Notwithstanding any provision hereof to the contrary, no fractional shares of Company Stock will be issued. With respect to any provision hereof requiring the issuance of a percentage of Units, the number of shares of Company Stock to be issued will be the number of whole shares making up that percentage, with any fraction rounded down. 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be signed, as of the award date shown above. 
+
+
+
+[[IN WITNESS WHEREOF the Company has caused this Agreement to be signed as of the award date shown above. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the Company has caused this Agreement to be signed as of the award date shown above. Entity => By: [[IN WITNESS WHEREOF the Company has caused this Agreement to be signed as of the award date shown above. Signatory First Name]] [[IN WITNESS WHEREOF the Company has caused this Agreement to be signed as of the award date shown above. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the Company has caused this Agreement to be signed as of the award date shown above. Signatory Title]]}}
+
+Chairman
+
+Agreed to:

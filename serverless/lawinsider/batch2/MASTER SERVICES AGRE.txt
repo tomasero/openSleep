@@ -1,0 +1,1296 @@
+**Please note that the representations and warranties of each party set forth in the Master Services Agreement have been made solely for the benefit of the other party. You should not rely on such representations and warranties, which (i) have been qualified in some circumstances by confidential disclosures to the other party in connection with the agreement, (ii) were made only as of the date of the Master Services Agreement or such other date as is specified in the agreement, and (iii) may have been included in the agreement for the purpose of allocating risk between the parties rather than establishing matters as facts.**
+
+\centered ***MASTER SERVICES AGREEMENT*** 
+
+\centered ***by and between*** 
+
+\centered ***[[Organization 1 Name]]*** 
+
+\centered ***and*** 
+
+\centered ***InComm Holdings, Inc.*** 
+
+\centered ***[[Date 1: Date]]*** 
+
+***CONFIDENTIAL***
+
+*****Where this marking appears throughout this Exhibit 10.1,** 
+
+**information has been omitted pursuant to a request for** 
+
+**confidential treatment and such information has been filed** 
+
+**with the Securities and Exchange Commission separately.** 
+
+[[Organization 2 Name]] 
+
+\centered **TABLE OF CONTENTS** 
+
+**PAGE**
+
+^^Purpose     
+^^Special Terms Relating to Growth and Restructurings     
+^^Benefits of Agreement     
+^^Non-Exclusive Relationship/No Volume Commitment     
+^^Definitions     
+^^Conflicts in Interpretation     
+^^Audited Financial Statements     
+
+^^Service Addenda     
+2.1.1      Service Addenda as of the Effective Date     
+2.1.2      Future Service Addenda     
+^^Statements of Work     
+^^Covenant of Cooperation     
+^^Supplier Affiliates’ Personnel     
+^^Compliance With Vendor Ethics Policy     
+
+^^Time and Method of Payment     
+3.1.1      Invoicing     
+3.1.2      Payments     
+3.1.3      Credits Owed by Supplier to [[Organization 1 Name]]     
+^^Disputed Amounts; Timely Invoicing; Timely Disputes     
+3.2.1      Disputed Amounts     
+3.2.2      Timely Invoicing     
+3.2.3      Timely Disputes     
+^^Taxes     
+3.3.1      General     
+3.3.2      Exemptions     
+3.3.3      Special Provision Relating to State Sales and Use Taxes     
+3.3.4      Protested Taxes     
+^^Contracting Expenses     
+
+^^Services     
+^^Pricing and Terms and Conditions Warranty     
+^^Intellectual Property Warranty     
+^^Warranty of Authority     
+^^Pending Litigation Warranty     
+^^***     
+^^Additional Warranties     
+
+[[Organization 2 Name]]      -i-
+
+^^Warranty Disclaimer     
+
+^^Term     
+^^Events of Default     
+^^Rights and Remedies of Supplier Upon Default of [[Organization 1 Name]]     
+^^Rights and Remedies of [[Organization 1 Name]] Upon Default of Supplier     
+5.4.1      General     
+5.4.2      Right to Set Off     
+^^Liability Limitations     
+5.5.1      Disclaimer of Non-Direct Damages     
+5.5.2      Exclusions from Liability Limitations     
+5.5.3      Lost Profits     
+^^Termination for Force Majeure     
+^^Termination for Supplier Charge in Control     
+^^Termination Without Cause     
+^^Transition Rights     
+^^No Interruption of Services     
+^^Attorneys’ Fees     
+^^Non-Exclusive Remedies     
+^^Survival     
+
+^^Intellectual Property Rights     
+^^Confidential Information     
+6.2.1      Duty of Care     
+6.2.2      Disclosures of Confidential Information     
+6.2.3      Uses of Confidential Information     
+6.2.4      Return or Destruction of Confidential Information     
+6.2.5      Notification Obligation     
+6.2.6      Injunctive Relief     
+6.2.7      Ownership     
+6.2.8      Survival     
+^^Personal Information Statutes     
+
+^^General     
+^^Proprietary Rights Infringement Indemnification     
+7.2.1      General     
+7.2.2      Remedies     
+7.2.3      Additional Indemnification Obligations     
+^^Procedures for Indemnification     
+7.3.1      General     
+7.3.2      Defense Assumed     
+7.3.3      Defense Declined     
+
+[[Organization 2 Name]]      -ii-
+
+7.3.4      Settlement of Claims     
+7.3.5      Contributory Negligence; Right of Contribution     
+^^Insurance     
+
+^^Executive Level Performance Review     
+^^Voluntary, Non-Binding Mediation     
+^^Equitable Relief     
+
+^^Notices     
+^^Approval of Subcontractors     
+^^Audits     
+9.3.1      Records Retention     
+9.3.2      Procedures     
+9.3.3      Audit Discrepancies     
+^^Force Majeure     
+^^Binding Nature and Assignment     
+^^Media Releases and Public Disclosures of Agreement     
+^^Counterparts; Electronic Signatures     
+^^Severability     
+^^Waiver     
+^^Governing Law/Exclusive Jurisdiction     
+^^Compliance with Laws     
+^^No Construction Against Drafter     
+^^Relationship of Parties     
+^^Time is of the Essence     
+^^Non Intervention     
+^^Entire Agreement; Modifications     
+9.16.1      General     
+9.16.2      Prior Agreement     
+9.16.3      Modifications     
+
+[[Organization 2 Name]]      -iii-
+
+\centered **SCHEDULES, ATTACHMENTS AND EXHIBITS** 
+
+Schedule 1.5      Defined Terms
+Schedule 2      Checklist for Developing Service Addenda and Statements of Work
+Schedule 2.5      Vendor Ethics Policy
+Schedule 7.4      Insurance Requirements
+
+Exhibit 1      Service Addenda
+Service Addendum One  Domestic Long Distance Services
+Service Addendum Two  [[Organization 3 Name]]
+
+[[Organization 2 Name]]      -iv-
+
+\centered **MASTER SERVICES AGREEMENT** 
+
+This Master Services Agreement (“***Agreement***”) is made and entered into this [[Date 2: Date]] (the “***Effective Date***”), by and between [[Organization 1 Name]], a Delaware corporation with its principal place of business at [[Address 1: Address]] (including its permitted successors and assigns, “***[[Organization 1 Name]]***”), and InComm Holdings, Inc., a Georgia corporation with its principal place of business at 250 Williams Street, Suite 250, [[Address 2: Address]] (including its permitted successors and assigns, “***Supplier***” or “***InComm***”). 
+
+\centered **RECITALS****:** 
+
+**WHEREAS**, InComm (through its Affiliates) is a provider of: (a) domestic and international long distance termination services through its Affiliate, [[Organization 4 Name]], a Colorado corporation; (b) bill payment and transaction processing services through its Affiliate, [[Organization 5 Name]], a Florida corporation; and (c) certain other services; and 
+
+**WHEREAS**, [[Organization 1 Name]] offers an integrated set of wireless telecommunications products and services to its customers; and 
+
+**WHEREAS**, [[Organization 1 Name]] wants to purchase from InComm, and InComm (through its Affiliates) wants to supply to [[Organization 1 Name]], the Services specifically described in the Service Addendum or Statement of Work that is applicable to each particular Service, all in accordance with the terms and conditions set forth in this Agreement. 
+
+**NOW, THEREFORE**, in consideration of the mutual covenants and agreements hereinafter set forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, [[Organization 1 Name]] and InComm, intending to be legally bound, hereby agree to the foregoing and as follows: 
+
+^^Purpose. This Agreement sets forth the terms and conditions under which InComm (through its Affiliates) shall provide Services to [[Organization 1 Name]], its Affiliates and its Designated Entities. InComm and the applicable InComm Affiliate shall execute each Service Addendum and Statement of Work, and in doing so, such InComm Affiliate shall become a party to this Agreement and shall be jointly and severally liable with InComm for performance of this Agreement (including, without limitation, the applicable Service Addendum or Statement of Work). Except to the extent expressly specified otherwise in the Terms and Conditions or in the applicable Service Addendum or Statement of Work, all references to “Supplier” (but not “InComm,” “InComm Holdings” or similar derivations), or to Supplier as a “party” or one of the “parties,” that are contained in the Terms and Conditions as incorporated into the Service Addendum or Statement of Work shall be deemed to mean the InComm Affiliate that executes the applicable Service Addendum or Statement of Work. Unless the context clearly requires a different interpretation, all references to Sections, Articles, Schedules, Exhibits and Attachments that are contained in the Terms and Conditions are to Sections, Articles, Schedules, Exhibits and Attachments of or to the Terms and Conditions. 
+
+[[Organization 2 Name]]     
+
+^^Special Terms Relating to Growth and Restructurings. If a party or one of its Affiliates acquires a new Affiliate (or, in [[Organization 1 Name]]’ case, a new Affiliate or Designated Entity) following the Effective Date and such new Affiliate (or, in [[Organization 1 Name]]’ case, new Affiliate or Designated Entity) is a party to one (1) or more agreements with the other party or one of such other party’s Affiliates (or, in [[Organization 1 Name]]’ case, an Affiliate or Designated Entity) for the provision or receipt of services (each, a “***Pre-Existing Agreement***”), then within *** following a party’s written request, the parties shall meet, telephonically or otherwise, and discuss in good faith the terms and conditions under which such Pre-Existing Agreement may be included as part of this Agreement and/or the possible termination of such Pre-Existing Agreement. However, under no circumstances will either party or its Affiliates (or, in [[Organization 1 Name]]’ case, an Affiliate or Designated Entity) be under any obligation *** . 
+
+^^Benefits of Agreement. All rights and benefits granted hereunder to [[Organization 1 Name]] may be exercised and enjoyed by any [[Organization 1 Name]] Affiliate or Designated Entity, and [[Organization 1 Name]] shall have the right to sell, resell and/or otherwise make available all Services purchased under this Agreement to its Affiliates and/or Designated Entities, subject to the terms of this Agreement. References to [[Organization 1 Name]] and to Supplier in this Agreement shall include the parties’ respective Affiliates (and, in [[Organization 1 Name]]’ case, Designated Entities), as applicable and where the context so requires. For purposes of determining available discounts and [[Organization 1 Name]]’ compliance with any exclusivity, routing, volume and/or quantity obligations under a Service Addendum or a Statement of Work, as applicable, the total volume of purchases made by [[Organization 1 Name]], its Affiliates and Designated Entities pursuant to this Agreement shall be considered to determine whether the applicable discount, exclusively, routing, volume, quantity or other measurement factor has been achieved or satisfied. 
+
+^^Non-Exclusive Relationship/No Volume Commitment. Except to the extent expressly agreed otherwise in a Service Addendum or Statement of Work: (a) this Agreement establishes a non-exclusive relationship between the parties and does not grant Supplier an exclusive privilege to furnish to [[Organization 1 Name]] any or all of the services that [[Organization 1 Name]] may require, need or desire, and [[Organization 1 Name]] expressly reserves the right to contract with others for the purchase of services comparable or identical to the Services that are the subject of this Agreement; and (b) *** [[Organization 1 Name]] shall not be obligated to *** . If and to the extent a Service Addendum or Statement of Work includes exclusivity, routing, volume and/or quantity obligations, such obligations shall not apply: (c) except to the extent expressly agreed otherwise in a Service Addendum or Statement of Work: (i) during any Transition Period; (ii) during any period that a Force Majeure Event prevents, hinders or delays performance of the Services; or (iii) in respect of any Person that becomes an Affiliate or Designated Entity of [[Organization 1 Name]] following the Effective Date; or (d) under any other circumstances that may be described in a Service Addendum or Statement of Work. 
+
+^^Definitions. Capitalized terms used herein shall have the meanings ascribed to them in the Terms and Conditions including, without limitation, the meanings set forth in the attached **Schedule 1.5**. Additional definitions may be set forth in the applicable Service Addendum or Statement of Work. 
+
+[[Organization 2 Name]]     
+
+^^Conflicts in Interpretation. The following order of precedence shall be followed in resolving any conflicts between the terms of this Agreement: 
+
+^^first, the terms of any Service Addendum or Statement of Work, including all Schedules, Exhibits, Attachments and Addenda thereto, provided that no order of precedence shall be applied among such Service Addenda or Statements of Work; 
+
+^^second, the terms contained in the body of the Terms and Conditions; and 
+
+^^third, the terms contained in the Schedules, Exhibits, Attachments and Addenda to the Terms and Conditions (excluding Service Addenda attached as part of **Exhibit 1** and Statements of Work, which, for purposes of precedent, shall be treated as set forth in **subsection (a)** above), provided that no order of precedence shall be applied among such Schedules, Exhibits, Attachments and Addenda. 
+
+^^***Audited Financial Statements***. *** .
+
+^^Service Addenda. 
+
+***2.1.1 Service Addenda as of the Effective Date***. Attached hereto as part of **Exhibit 1** are the following Service Addenda: (a) Service Addendum One, Domestic Long Distance Services; and (b) Service Addendum Two, [[Organization 3 Name]]. InComm (through its Affiliates) shall provide the Services described in such Service Addenda in accordance with the terms and conditions of the Agreement (including the applicable Service Addendum). 
+
+***2.1.2 Future Service Addenda***. [[Organization 1 Name]] and Supplier may mutually agree in writing following the Effective Date to develop and attach hereto as part of **Exhibit 1** one or more additional Service Addenda. Each Service Addendum shall incorporate by reference the Terms and Conditions and shall contain contract terms and conditions that are specific to the Services to be acquired from Supplier under that Service Addendum including, without limitation: 
+
+^^a description of the Services;
+
+^^complete pricing information for the Service(s);
+
+^^SLAs for the Service(s), if applicable; and
+
+^^other relevant terms and conditions.
+
+[[Organization 2 Name]]     
+
+Each future Service Addendum must be signed by a Senior Vice President or higher-level corporate officer of [[Organization 1 Name]], and by an Executive Vice President or higher-level officer of Supplier, in order to be effective against the applicable party. Neither party shall be entitled to rely upon or to enforce the terms of any Service Addendum that is not authorized as provided in the preceding sentence. Once so authorized, InComm (through its Affiliates) shall provide the Services described in each such Service Addendum in accordance with the terms and conditions of the Agreement (including the applicable Service Addendum). Attached hereto as **Schedule 2** is a checklist to which the parties can refer when developing future Service Addenda. 
+
+^^Statements of Work. Any Services that are not within the scope of a specific Service Addendum may be acquired from Supplier pursuant to a mutually agreed Statement of Work. Each Statement of Work must be signed by a Senior Vice President or higher-level corporate officer of [[Organization 1 Name]], and by an Executive Vice President or higher-level officer of Supplier, in order to be effective against the applicable party. Neither party shall be entitled to rely upon or to enforce the terms of any Statement of Work that is not authorized as provided in the preceding sentence. Once so authorized, InComm (through its Affiliates) shall provide the Services described in each such Statement of Work in accordance with the terms and conditions of the Agreement (including the applicable Statement of Work). Attached hereto as **Schedule 2** is a checklist to which the parties can refer when developing Statements of Work. 
+
+^^Covenant of Cooperation. Supplier acknowledges that [[Organization 1 Name]] is now and will continue during the Term to work directly and indirectly with both Supplier and its Affiliates and a number of Third Parties to develop, install, maintain and support [[Organization 1 Name]]’ telecommunications products, systems and services. Having acknowledged the foregoing, each of [[Organization 1 Name]] and Supplier agrees to cooperate with the other and with their respective Affiliates (and, in [[Organization 1 Name]]’ case, its Designated Entities) and all applicable Third Parties designated by the other party, which cooperation Supplier acknowledges may involve the disclosure of Supplier Confidential Information to [[Organization 1 Name]], its Affiliates, Designated Entities and [[Organization 1 Name]]-designated Third Parties, provided that: (a) Supplier shall not be required to disclose any information whose disclosure is prohibited by licensing or other similar contractual limitations to which Supplier is bound; and (b) disclosures of Supplier Confidential Information to Third Parties is acknowledged by [[Organization 1 Name]] to be subject to Section 6.2.2 including, without limitation, Section 6.2.2(b), of the Terms and Conditions. 
+
+^^Supplier Affiliates’ Personnel. Supplier’s Affiliates shall provide sufficient qualified Personnel with appropriate experience to perform such Affiliates’ obligations under each applicable Service Addendum and Statement of Work. 
+
+^^Compliance With Vendor Ethics Policy. Supplier and its Affiliates shall comply with [[Organization 1 Name]]’ Vendor Ethics Policy, a current copy of which is attached hereto as **Schedule 2.5**. 
+
+[[Organization 2 Name]]     
+
+^^Time and Method of Payment. 
+
+***3.1.1 Invoicing***. Supplier shall have the right to issue invoices for the Services in accordance with the invoicing terms specified in the applicable Service Addendum or Statement of Work. All such invoices shall be detailed and clearly describe the amounts invoiced (including relevant calculations) and any applicable credits. Unless otherwise agreed by the parties in writing, all Supplier invoices shall be expressed in, and all amounts payable under this Agreement shall be payable in, United States dollars. [[Organization 1 Name]] shall pay all undisputed amounts owed to Supplier under this Agreement within the period of time following [[Organization 1 Name]]’ receipt of Supplier’s invoice that is specified in the applicable Service Addendum or Statement of Work, or if none is specified, then within *** following [[Organization 1 Name]]’ receipt of Supplier’s invoice. Undisputed, overdue invoices shall bear interest at the rate of *** percent *** per month, or the maximum rate permitted by Law, whichever is less. Supplier shall submit all invoices to the following address: 
+
+[[Organization 1 Name]] 
+
+[[Address 3: Address]] 
+
+or to such other address as may be specified by [[Organization 1 Name]] upon written notice to Supplier. 
+
+***3.1.2 Payments***. [[Organization 1 Name]] shall submit all payments to Supplier at the following address: 250 Williams Street, Suite M-100, [[Address 4: Address]], Attention: *** . 
+
+***3.1.3 Credits Owed by Supplier to [[Organization 1 Name]]***. Any *** that accrue in accordance with the terms of this Agreement shall *** . The parties agree that the actual damages resulting from performance failures are difficult to calculate and that the *** reflect the parties’ best estimate of the diminished value of the Services as a result of any failure to provide the Services in accordance with the applicable SLAs, and accordingly do not constitute nor shall be construed or interpreted as penalties. All *** or other credits owed by Supplier to [[Organization 1 Name]] shall be *** . 
+
+^^Disputed Amounts; Timely Invoicing; Timely Disputes. 
+
+***3.2.1 Disputed Amounts***. If an invoiced amount is disputed in good faith by [[Organization 1 Name]] then, until resolution of the dispute occurs pursuant to , [[Organization 1 Name]] may *** , and within the time period specified in Section 3.2.3, sending a written notice to Supplier (with notice being sent to the person specified in Section 3.1.2 at the address specified in such Section) that describes with reasonable particularity the nature of the dispute and the disputed amount. Within sixty (60) days following its receipt of [[Organization 1 Name]]’ dispute notice, Supplier shall notify [[Organization 1 Name]] in writing as to whether it agrees with the dispute, describing therein with reasonable particularity the reasons supporting any disagreement with the dispute. If and to the extent Supplier agrees with [[Organization 1 Name]]’ position respecting the dispute, [[Organization 1 Name]] shall not be required to pay the disputed amount. If and to the extent Supplier disagrees with [[Organization 1 Name]]’ position respecting the dispute, the parties promptly shall attempt to resolve the dispute in accordance with the terms set forth in . *** . 
+
+[[Organization 2 Name]]     
+
+***3.2.2 Timely Invoicing***. Supplier shall issue each invoice for Services under a Service Addendum or Statement of Work within *** following the date that the applicable Service was provided. Subject to the exception described below in this Section 3.2.2 relating to financial audits, Supplier may not, and Supplier waives its right to, invoice [[Organization 1 Name]] for any Services more than *** following the date that the applicable Service was provided. Notwithstanding anything to the contrary in this Section, Supplier shall have the right to invoice [[Organization 1 Name]] for Services more than *** following the date that the applicable Service was provided to the extent that: (a) Supplier conducts a financial audit pursuant to Section 9.3 of the Terms and Conditions; and (b) such audit reveals that: (i) such Services were provided during the *** period preceding the date on which [[Organization 1 Name]] received the audit notice from Supplier; and (ii) Supplier previously failed to invoice [[Organization 1 Name]] for such Services but as a result of the audit desires to do so. 
+
+***3.2.3 Timely Disputes***. If [[Organization 1 Name]] wants to dispute an invoice, [[Organization 1 Name]] must so notify Supplier (with notice being sent to the person specified in Section 3.1.2 at the address specified in such Section) within *** following the date of its receipt of the applicable invoice. If [[Organization 1 Name]] *** as described in Section 3.2.1, [[Organization 1 Name]] *** shall provide to Supplier a written explanation of the reasons for doing so. Subject to the exception described below in this Section 3.2.3 relating to financial audits, [[Organization 1 Name]] may not, and [[Organization 1 Name]] waives its right to, dispute an invoice more than *** following the date of its receipt of the applicable invoice. Notwithstanding anything to the contrary in this Section, [[Organization 1 Name]] shall have the right to dispute an invoice more than *** following the date of its receipt of the applicable invoice to the extent that: (a) [[Organization 1 Name]] conducts a financial audit pursuant to Section 9.3 of the Terms and Conditions; and (b) such audit reveals that: (i) the Services to which the invoice relates were provided during the *** period preceding the date on which Supplier received the audit notice from [[Organization 1 Name]]; and (ii) [[Organization 1 Name]] previously failed to dispute such invoice but as a result of the audit desires to do so. 
+
+^^***Taxes****.*
+
+***3.3.1 General.*** Supplier’s prices are exclusive of any national, federal, state, provincial, local or other sales, use, excise, value-added, customs and other taxes or like charges arising hereunder and [[Organization 1 Name]] shall reimburse Supplier, or pay all such taxes and charges directly, as appropriate. If Supplier has paid or will pay such taxes or charges on [[Organization 1 Name]]’ behalf, Supplier shall separately list on its invoices any such taxes or charges, except where [[Organization 1 Name]] furnishes evidence of a lawful exemption. If value-added tax on the supplies of Supplier is payable by [[Organization 1 Name]] under a reverse charge procedure (*i.e.*, shifting of liability, accounting or payment requirement to recipient of supplies), [[Organization 1 Name]] shall ensure that Supplier will not effectively be held liable for this value-added tax by the relevant taxing authorities or other parties. Where applicable, Supplier shall ensure that its invoices to [[Organization 1 Name]] are issued in such a way that these invoices meet the requirements for deduction of input value-added tax by [[Organization 1 Name]]. [[Organization 1 Name]] shall in no event be liable for the payment of any taxes or like charges based upon the net income of Supplier. 
+
+[[Organization 2 Name]]     
+
+***3.3.2 Exemptions.*** Supplier shall not collect otherwise applicable taxes or like charges if a valid tax exemption certificate is furnished by [[Organization 1 Name]] to Supplier. If Supplier collects taxes and [[Organization 1 Name]] either: (a) subsequently determines that the taxes were not due; or (b) had previously issued to Supplier a valid exemption certificate or (c) [[Organization 1 Name]] subsequently provides a valid exemption certificate, Supplier will make all reasonable efforts to assist [[Organization 1 Name]] in obtaining a refund of such taxes collected in error, including, but not limited to, issuing a credit memo and/or filing a refund claim on behalf of [[Organization 1 Name]] if requested to do so in writing by [[Organization 1 Name]]. 
+
+***3.3.3 Special Provision Relating to State Sales and Use Taxes***. If [[Organization 1 Name]] receives Services in the United States from Supplier and such transfer is subject to sales or use tax of a particular state in the United States, [[Organization 1 Name]] will reimburse Supplier for any such taxes paid by Supplier over and above the purchase price for such goods; provided, however, that [[Organization 1 Name]] shall not reimburse Supplier for any such taxes charged against Supplier or [[Organization 1 Name]] on account of Supplier’s mis-delivery or other failure to comply with [[Organization 1 Name]]’ delivery instructions. 
+
+***3.3.4 Protested Taxes***. Supplier shall promptly notify [[Organization 1 Name]] in writing of: (a) any Tax Assessment by a state or local taxing authority; and (b) any decision with respect to a Tax Assessment which has been appealed or protested; provided, however, that Supplier shall in all instances give [[Organization 1 Name]] written notice of such event no later than *** prior to the date by which a response, protest, contest, or other appeal of such Tax Assessment must be filed. In the first instance, Supplier shall have the exclusive right to contest any Tax Assessment at its own expense. If all or any portion of a Tax Assessment must be paid in order to contest the imposition of any such Tax Assessment in connection with a contest that Supplier elects to pursue, or to avoid the existence of a lien on the assets of Supplier during the pendency of such contest, Supplier shall be responsible for such payment and shall be entitled to the benefit of any refund or recovery. [[Organization 1 Name]] shall pay all valid final and non-appealable Tax Assessments (or reimburse Supplier in the event Supplier pays any or all valid final and non-appealable Tax Assessments) upon presentation by Supplier of proof of a valid final and non-appealable Tax Assessment. [[Organization 1 Name]]’ liability for valid final and non-appealable Tax Assessments will be limited to the actual tax that was originally due without respect to any sampling projection that may occur during a tax audit. A “***valid final and non-appealable Tax Assessment***” shall mean one that is issued by a state or local taxing authority in accordance with the applicable Law and which is not subject to any further administrative or judicial review and all times for appeal, reconsideration, or requests for reassessment have run without an appeal, reconsideration, or request for reassessment having been taken. If Supplier elects not to contest a Tax Assessment, Supplier must either: (c) waive its right to reimbursement from [[Organization 1 Name]] for that Tax Assessment in which event [[Organization 1 Name]] shall have no right to contest the Tax Assessment and [[Organization 1 Name]] shall have no liability for such Tax Assessment; or (d) promptly notify [[Organization 1 Name]] in writing that it is: (1) not responding, protesting, contesting, or appealing the Tax Assessment; and (2) seeking reimbursement for the Tax Assessment as if it were a valid final and non-appealable Tax Assessment which notice shall set forth the legal and/or factual basis for not contesting the Tax Assessment along with a copy of the Tax Assessment; provided, however, that Supplier shall in all instances give [[Organization 1 Name]] written notice of such decision to not protest, contest or appeal such Tax Assessment no later than *** prior to the date by which a response, contest, protest or other appeal of such Tax Assessment must be filed; provided, further, that Supplier may not elect the option set forth in **subsection (d)** (e.g., to notify [[Organization 1 Name]] and not protest, contest, or appeal a Tax Assessment) unless Supplier has a good faith belief that there is no reasonable basis in Law or fact for a contest, protest, or appeal of such Tax Assessment; provided, finally, that in the event that Supplier elects the option set forth in **subsection (d)** and fails to notify [[Organization 1 Name]] in writing in time to allow [[Organization 1 Name]] to file a response, protest, or contest, Supplier shall be deemed to have waived its right to seek reimbursement from [[Organization 1 Name]] for that Tax Assessment. In the instance Supplier notifies [[Organization 1 Name]] that it is not contesting the Tax Assessment, [[Organization 1 Name]] may elect, at its sole discretion, to pursue the contest of the Tax Assessment in good faith, at its own expense, or to pay to Supplier the Tax Assessment. If [[Organization 1 Name]] elects to contest a Tax Assessment and, further, in the event that all or a portion of a Tax Assessment must be paid in order to contest the imposition of any such Tax Assessment or to avoid the existence of a lien on the assets of Supplier during the pendency of such contest, [[Organization 1 Name]] shall be responsible for such payment. If any such contest must be pursued in the name of Supplier, Supplier shall permit [[Organization 1 Name]] to pursue and control the contest in the name of Supplier, and Supplier shall have the opportunity to participate fully in the preparation of such contest at its own expense. In any contest of a Tax Assessment, the party bringing the protest shall promptly furnish the other party with written notice of the pending proceeding, copies of all filings in any proceeding, protest, contest, or legal challenge, all rulings issued in connection therewith, all correspondence between such party and the state or local taxing authority, the final resolution thereof, and any action therein that would affect Supplier’s obligation to collect and remit, and the party bringing the contest shall allow the other party to participate in such contest with its own counsel at its own expense. 
+
+[[Organization 2 Name]]     
+
+^^Contracting Expenses. Each party shall bear all costs and expenses paid or incurred by it in connection with the planning, preparation, negotiation and consummation of the Agreement (including each Service Addendum and Statement of Work). 
+
+^^Services. Supplier represents and warrants to [[Organization 1 Name]] that it shall perform the Services in a good, workmanlike and professional manner in accordance with Supplier’s standards for the Services and industry practices and standards that generally are applicable to the Services in the country in which the Services are provided; provided, however, that where this Agreement specifies a particular standard or criteria for performance, this warranty is not intended to and does not diminish that standard or criteria for performance. Without limiting the generality of the foregoing, Supplier represents and warrants to [[Organization 1 Name]] that the Services shall at all times *** . Without limiting any other rights and remedies that may then be available to [[Organization 1 Name]], Supplier’s failure to provide Services that *** to [[Organization 1 Name]] and may be the basis for an Event of Default and termination as provided in **Sections 5.2(d)** and 5.4 of the Terms and Conditions. The amounts and terms and conditions governing *** shall be set forth in the applicable Service Addendum or Statement of Work. 
+
+[[Organization 2 Name]]     
+
+^^Pricing and Terms and Conditions Warranty. The applicable Service Addendum or Statement of Work may include a Supplier representation and warranty regarding the *** for Comparable Services. 
+
+^^Intellectual Property Warranty. Supplier represents and warrants to [[Organization 1 Name]] that: (a) there are no lawsuits pending against Supplier that allege that the Services infringe upon the Intellectual Property Rights of any Third Party (“***Third Party IP Right***”); and (b) *** , there is no Third Party demand or threatened claim, suit or proceeding against Supplier alleging violation or infringement of a Third Party IP Right. Supplier will not have breached the terms of this Section if *** Supplier: (c) *** , and (d) fully indemnifies, defends and holds harmless the [[Organization 1 Name]] Indemnified Parties in respect of such event as set forth in Section 7.2. 
+
+^^Warranty of Authority. Each party represents and warrants to the other party that: (a) it has the right to enter into this Agreement (including each Service Addendum and Statement of Work executed hereunder); and (b) there are no outstanding assignments, grants, licenses, encumbrances, obligations or agreements (whether written, oral or implied) that are inconsistent with this Agreement (including each Service Addendum and Statement of Work executed hereunder). 
+
+^^Pending Litigation Warranty. Each party represents and warrants to the other party that, as of the Effective Date, there is no action, suit, claim, investigation or proceeding pending, or to the best of such party’s knowledge, threatened against, by or affecting such party or the Services which, if adversely decided, might adversely affect such party’s ability to enter into this Agreement. Supplier represents and warrants to [[Organization 1 Name]] that, as of the Effective Date, there is no action, suit, claim, investigation or preceding pending, or, to the best of Supplier’s knowledge, threatened against, by or affecting Supplier and/or the Services which if adversely decided, might adversely affect: (a) Supplier’s performance of its obligations hereunder; or (b) receipt of the Services by [[Organization 1 Name]], its Affiliates and Designated Entities. 
+
+^^*** .. 
+
+^^Additional Warranties. Supplier’s performance under this Agreement shall include, in addition to the warranties set forth in this , all representations and warranties expressly set forth in elsewhere in the Agreement (including in any Service Addendum or Statement of Work).
+
+^^Warranty Disclaimer.**THE WARRANTIES SET FORTH IN THIS AGREEMENT (INCLUDING IN ANY SERVICE ADDENDUM OR STATEMENT OF WORK) ARE THE ONLY WARRANTIES MADE BY A PARTY, AND NO OTHER WARRANTY, EXPRESS OR IMPLIED, WILL APPLY INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.** 
+
+[[Organization 2 Name]]     
+
+^^Term. Unless earlier terminated as provided herein: (a) the Agreement shall remain in effect during the Term; and (b) the term during which Services shall be provided to [[Organization 1 Name]], its Affiliates and Designated Entities shall be set forth in the applicable Service Addendum or Statement of Work and shall in all events extend through the length of any Transition Period. 
+
+^^Events of Default. Each of the following events shall constitute an event of default (each, an “***Event of Default***”), the occurrence of which shall constitute a material breach of this Agreement: 
+
+^^Either party’s material breach of any representation or warranty set forth in this Agreement (including in any Service Addendum or Statement of Work), which material breach shall constitute a Supplier Event of Default or [[Organization 1 Name]] Event of Default, as applicable, unless such material breach is cured within *** days following the breaching party’s receipt of written notice from the non-breaching party setting forth the nature of such breach with reasonable particularity; 
+
+^^Supplier fails to maintain insurance coverage in accordance with the terms of Section 7.4, which failure shall constitute a Supplier Event of Default unless within *** following Supplier’s receipt of written notice of such failure: (i) such failure is cured; and (ii) Supplier provides [[Organization 1 Name]] with evidence of insurance coverage in accordance with the terms of Section 7.4 for the period during which insurance coverage was not maintained; 
+
+^^[[Organization 1 Name]] fails to timely pay any undisputed amount owed to Supplier, which failure shall constitute a [[Organization 1 Name]] Event of Default unless such failure is cured within *** days following [[Organization 1 Name]]’ receipt of written notice of non-payment from Supplier that describes with reasonable particularity the amounts Supplier claims it is owed; 
+
+^^Supplier (through its Affiliates) fails to achieve *** in a manner that constitutes an Event of Default as expressly agreed to by the parties in an applicable Service Addendum or Statement of Work, which failure shall constitute a Supplier Event of Default *** ; 
+
+^^A party fails to perform any other material obligation under this Agreement (including under a Service Addendum or Statement of Work), which failure shall constitute an Event of Default respecting the applicable party unless such failure is cured within *** days following such party’s receipt of written notice from the other party setting forth the nature of such failure with reasonable particularity; 
+
+^^The institution of bankruptcy, receivership, insolvency, reorganization or other similar proceedings by or against Supplier under any section or chapter of the Bankruptcy Code, as amended, or under any similar Laws, if such proceedings have not been dismissed or discharged within *** days after they are instituted; or the insolvency or making of an assignment for the benefit of creditors or the admittance by Supplier of any involuntary debts as they mature or the institution of any reorganization arrangement or other readjustment of debt plan of Supplier not involving the Bankruptcy Code; or any corporate action taken by the Board of Directors of Supplier in furtherance of any of the above actions, any of which events shall constitute a Supplier Event of Default; and 
+
+[[Organization 2 Name]]     
+
+^^Appointment of a receiver for all or substantially all of Supplier’s assets, or any corporate action taken by Supplier’s Board of Directors in furtherance of the above action, any of which events shall constitute a Supplier Event of Default. 
+
+^party shall notify the non-performing party within *** following the date on which it knows an Event of Default has occurred, and if the Event of Default is based upon an action or omission for which there is no corresponding notice and opportunity to cure, then the non-performing party must exercise its right of termination within *** of the delivery of said notice, and failure to exercise such right within such time period shall be deemed a waiver of the right to terminate based on the applicable Event of Default. 
+
+^^Rights and Remedies of Supplier Upon Default of [[Organization 1 Name]]. Upon the occurrence of a [[Organization 1 Name]] Event of Default, subject to the terms of **Sections 5.9, 5.10** and 5.12, Supplier shall be entitled to: 
+
+^^terminate this Agreement (including any Service Addenda and/or Statements of Work), in whole or in part; and/or 
+
+^^subject to the terms of Section 5.5, recover damages from [[Organization 1 Name]]; and/or 
+
+^^if applicable, seek to obtain the additional rights and remedies set forth in Section 8.3. 
+
+^^Rights and Remedies of [[Organization 1 Name]] Upon Default of Supplier. 
+
+***5.4.1 General***. Upon the occurrence of a Supplier Event of Default, subject to the terms of Section 5.12, [[Organization 1 Name]] shall be entitled to: 
+
+^^terminate this Agreement (including any Service Addenda and/or Statements of Work), in whole or in part; 
+
+^^subject to the terms of Section 5.5, recover damages from Supplier; 
+
+^^if applicable, obtain the additional remedies described in Section 5.9; and/or 
+
+^^if applicable, seek to obtain the additional rights and remedies set forth in Section 8.3. 
+
+***5.4.2 Right to Set Off***.In accordance with the terms set forth in this Section 5.4.2, [[Organization 1 Name]] shall have the right to set off any undisputed amounts owed to Supplier against *** (including in any Service Addendum or Statement of Work). In order to exercise the set-off rights granted under this Section, [[Organization 1 Name]] must provide written notice to Supplier (with notice being sent to the person specified in Section 3.1.2 at the address specified in such Section) at least *** prior to exercising such right, setting forth in such notice the basis for such set-off claim with reasonable particularity and including with such notice documentation reasonably supportive of the set-off claim (“***Set-Off Notice***”). Within *** following its receipt of a Set-Off Notice, Supplier shall notify [[Organization 1 Name]] in writing as to whether it agrees with or objects to the Set-Off Notice, and if Supplier objects to the Set-Off Notice, then Supplier shall specify in such notice with reasonable particularity the reason for its objections and include with such notice documentation reasonably supportive of its objections (“***Set-Off Response***”). If Supplier agrees with the Set-Off Notice, then [[Organization 1 Name]] may exercise its set-off rights. If Supplier objects to the Set-Off Notice, then promptly following [[Organization 1 Name]]’ receipt of the Set-Off Response, the parties shall meet in an effort to resolve the issues relating to the Set-Off Notice. If the parties have not resolved such issues within *** following [[Organization 1 Name]]’ receipt of the Set-Off Response, then [[Organization 1 Name]] may exercise its set-off rights, and the parties shall treat the Set-Off Notice as a dispute and submit it to the dispute resolution procedures set forth in of the Terms and Conditions. 
+
+[[Organization 2 Name]]     
+
+^^Liability Limitations. 
+
+***5.5.1 Disclaimer of Non-Direct Damages***. EXCEPT AS PROVIDED IN SECTIONS *** , NEITHER PARTY SHALL BE LIABLE FOR ANY DAMAGES FOR LOST PROFITS, LOST REVENUES, OR LOSS OF GOODWILL, OR FOR CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY OR PUNITIVE DAMAGES, ARISING OUT OF OR RELATING TO THIS AGREEMENT (INCLUDING ANY SERVICE ADDENDUM OR STATEMENT OF WORK), REGARDLESS OF THE FORM IN WHICH ANY ACTION IS BROUGHT (*****E.G.***, CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.** 
+
+***5.5.2 Exclusions from Liability Limitations***. Notwithstanding anything that may be contained in this Agreement to the contrary, the liability limitations and remedies limitations contained in Section 5.5.1 shall not apply to: (a) *** (b) personal injury, including death, and damage to tangible property caused by the negligent or intentional acts of a party or its Personnel; (c) *** ; or (d) attorneys’ fees and costs recoverable by a party, including as provided in Section 5.11. 
+
+***5.5.3 Lost Profits***. If [[Organization 1 Name]] breaches any *** that may be included in a Service Addendum or Statement of Work and fails to cure such breach within *** following [[Organization 1 Name]]’ receipt of written notice from Supplier setting forth the nature of such failure with reasonable particularity, then notwithstanding any contrary terms that may be contained in Section 5.5.1, the liability limitations and remedies limitations contained in Section 5.5.1 shall not prevent Supplier from seeking to recover profits it lost as a result thereof, provided that any recovery of such lost profits shall not exceed: 
+
+^^in respect of Service Addendum One (Domestic Long Distance Service): (i) if the breach occurred during *** following the effective date of such Service Addendum, *** ; or (ii) if the breach occurred after *** following the effective date of such Service Addendum, the dollar amount of the termination fees that would have been payable by [[Organization 1 Name]] *** effective as of the date on which the breach first occurred; or 
+
+[[Organization 2 Name]]     
+
+^^in respect of Service Addendum Two ([[Organization 3 Name]]): (i) if the breach occurred during *** following the effective date of such Service Addendum, *** ; or (ii) if the breach occurred after *** following the effective date of such Service Addendum, the dollar amount of the termination fees that would have been payable by [[Organization 1 Name]] *** effective as of the date on which the breach first occurred; or 
+
+^^in respect of any other Service Addendum or Statement of Work, the dollar amount of the termination fees that would have been payable by [[Organization 1 Name]] *** effective as of the date on which the breach first occurred. 
+
+^^Termination for Force Majeure. If: (a) a Force Majeure Event substantially prevents, hinders or delays Supplier’s performance of its obligations hereunder for a period of *** or more; and (b) such delay *** , subject to Supplier’s obligations under **Sections 5.9** and 5.10, [[Organization 1 Name]] may at any time terminate the Agreement by delivering a written termination notice to Supplier *** , except for the obligation to pay for Services satisfactorily performed by Supplier prior to the occurrence of the Force Majeure Event. For the avoidance of doubt, any termination pursuant to this Section shall not constitute a termination under any other provision of this Agreement. 
+
+^^Termination for Supplier Change in Control. In its sole and absolute discretion, [[Organization 1 Name]] shall have the right to terminate this Agreement (including all Service Addenda and Statements of Work): (a) upon the occurrence of a Supplier Change in Control that results in Supplier being directly or indirectly owned or controlled by a [[Organization 1 Name]] Competitor; (b) if Supplier sells to a [[Organization 1 Name]] Competitor all or substantially all of the assets used to provide the Services; or (c) *** . Upon the occurrence of any of the events described in the foregoing **subsections (a)** or (b): (d) [[Organization 1 Name]] shall notify the Supplier successor in writing of its intent to terminate pursuant to this Section 5.7 and will allow the successor *** days following receipt of such notice to respond in writing to [[Organization 1 Name]]’ concerns and take appropriate steps to address each of such concerns; and (e) [[Organization 1 Name]] will in good faith review and consider such written response from the successor. If [[Organization 1 Name]] nonetheless wants to terminate this Agreement pursuant to the foregoing **subsections (a)** or (b), or if [[Organization 1 Name]] wants to terminate this Agreement pursuant to the foregoing **subsection (c)**: (f) [[Organization 1 Name]] shall deliver a written termination notice to Supplier; and (g) such termination shall be *** , but subject to Supplier’s obligations under **Sections 5.9** and 5.10. For the avoidance of doubt, any termination pursuant to this Section shall not constitute a termination under any other provision of this Agreement. 
+
+^^Termination Without Cause. [[Organization 1 Name]] shall have the right to terminate a Service Addendum or Statement of Work without cause in accordance with the terms and conditions set forth therein, which terms and conditions may include a requirement that [[Organization 1 Name]] pay a termination fee in connection with any such termination. In such event: (a) except to the extent otherwise requested by [[Organization 1 Name]] pursuant to Section 5.9, Supplier immediately shall discontinue providing the terminated Services; (b) [[Organization 1 Name]] shall be obligated to pay to Supplier the fees for Services provided by Supplier up through and including the conclusion of the Transition Period under the applicable Service Addendum or Statement of Work; and (c) the parties shall comply with any other requirements or obligations respecting termination for convenience that may be set forth in the applicable Service Addendum or Statement of Work. 
+
+[[Organization 2 Name]]     
+
+^^Transition Rights. Upon a complete or partial termination (including expiration) of this Agreement (including any Service Addendum or Statement of Work) for any reason, [[Organization 1 Name]] shall have the right, for the period of time specified in the applicable Service Addendum or Statement of Work (which period shall be *** if not otherwise specified in the applicable Service Addendum or Statement of Work) (such period, the “***Transition Period***”) to receive the Services and all other Services reasonably necessary and appropriate to allow [[Organization 1 Name]] to effectuate an orderly transition to other replacement services; provided, however, that if Supplier completely or partially terminates this Agreement (including any Service Addendum or Statement of Work) following a Section 5.2(c) Event of Default, as conditions to such rights, [[Organization 1 Name]] must: (a) cure any payment default(s); (b) pay *** for ongoing Services (unless otherwise agreed by the parties, the amount *** will be equal to *** ; and (c) as applicable, pay *** (in accordance with the terms set forth in ) any invoiced amounts *** , or receive a credit *** . Promptly following the conclusion of the Transition Period under the applicable Service Addendum, the parties shall *** during the Transition Period, and Supplier promptly shall *** , or [[Organization 1 Name]] shall *** in accordance with the terms set forth in . Unless specified otherwise in the applicable Service Addendum or Statement of Work, the Services provided by Supplier (through its Affiliates) during the Transition Period shall be provided at the then-applicable rates under the Agreement. 
+
+^^No Interruption of Services. Irrespective of whether the parties have availed themselves of the dispute resolution procedures set forth in , Supplier shall not take any action, or omit to take any action, with the intent to deny, withdraw, interrupt or otherwise restrict provision or receipt of the Services during the Term by [[Organization 1 Name]], its Affiliates and/or its Designated Entities unless, and then only to the extent: (a) the parties have agreed in advance and in writing to such denial, withdrawal, interruption or other restriction; (b) Supplier has determined in good faith that such denial, withdrawal, interruption or other restriction is reasonably necessary to prevent or limit damage to Supplier’s systems (*e.g.*, damage that may be caused by Disabling Codes or unanticipated traffic volumes that, if unchecked, could overload Supplier’s systems to the point of failure) or a Third Party’s perpetration of fraud, provided that: (i) Supplier promptly shall notify [[Organization 1 Name]]’ Chief Financial Officer verbally of such event (which verbal notification shall be confirmed in writing promptly following the occurrence of the circumstances causing such denial, withdrawal, interruption or other restriction), including in such notice reasonable details respecting such event; and (ii) Supplier shall take all reasonable measures to limit to the shortest time possible under the circumstances the period of time during which such denial, withdrawal, interruption or other restriction is in effect; (c) authority to do so is conferred by a court of competent jurisdiction; or (d) the Term of this Agreement or any applicable Service Addendum or Statement or Work has ended (as a result of expiration or termination) and the Transition Period has expired; provided, however, that in the case of Supplier’s termination of this Agreement or any applicable Service Addendum or Statement of Work following a Section 5.2(c) Event of Default, Supplier will continue to provide the Services to [[Organization 1 Name]], its Affiliates and its Designated Entities during the applicable Transition Period only if and to the extent [[Organization 1 Name]] complies with the requirements set forth in **Sections 5.9(a)**, (b) and (c) of the Terms and Conditions, as applicable, and provided further that any denial, withdrawal, interruption or other restriction that occurs as a result of [[Organization 1 Name]]’ failure to comply with the requirements set forth in **Sections 5.9(a)**, (b) and (c) shall: (i) remain in effect only until such time as [[Organization 1 Name]] cures such failure; and (ii) give rise to an option for Supplier on written notice given to [[Organization 1 Name]] promptly following the occurrence of any such denial, withdrawal, interruption or other restriction, to reduce the length of the Transition Period from *** in length). 
+
+[[Organization 2 Name]]     
+
+^^Attorneys’ Fees. If a party brings a claim, suit or proceeding against the other party arising out of or relating to the Agreement, or pertaining to a declaration of rights under the Agreement, the trier of fact may, in the exercise of its discretion, award the party it finds to be the prevailing party in such claim, suit or proceeding that portion or all of its fees, costs and expenses (including, without limitation, court costs and reasonable fees for attorneys and expert witnesses) that it deems to be appropriate under the facts and circumstances. The term “prevailing party” for purposes of this Section shall include a defendant or plaintiff, as applicable, who has by motion, judgment, verdict or dismissal by an arbitrator, arbitration panel or a court, successfully: (a) defended against any claim, suit or proceeding that has been asserted against it, in the case of a defendant; and/or (b) asserted any claim, suit or proceeding against a defendant, in the case of a plaintiff. 
+
+^^Non-Exclusive Remedies. Subject to the terms and restrictions set forth in the Terms and Conditions, the remedies provided in this Agreement are neither exclusive nor mutually exclusive, and the parties shall be entitled to any and all such remedies, and any and all other remedies that may be available to the parties at law or in equity, by statute or otherwise, individually or in any combination thereof. 
+
+^^Survival. Any terms of the Agreement (including any Service Addendum or Statement of Work) that expressly or by their nature reasonably would be presumed to survive beyond the Term (including any Service Addendum or Statement of Work) shall so survive including, without limitation, the terms set forth in the following Sections of the Agreement: **Sections 1.4**, 1.6,**, 3.1**, 3.2 (for twelve (12) months following the Termination Date only), 3.3, **4.8, 5.3,** ***, 5.5, 5.9, 5.10, 5.11, 5.12, 5.13, 7.1, 7.2, 7.3, 7.4** (only in respect of Supplier’s obligation to provide copies of its insurance policies to [[Organization 1 Name]]), 9.1, 9.3 (for twelve (12) months following the Termination Date only), 9.6, 9.8, 9.9, 9.10, 9.11, 9.12, 9.13 and 9.16, **Article 6** and **Section D(2)** of Schedule 7.4**. 
+
+\centered **CONFIDENTIALITY AND SECURITY** 
+
+^^Intellectual Property Rights. Each party is and shall remain the sole and exclusive owner of its Pre-Existing Materials. “***Pre-Existing Materials***” means any and all technology or other materials, and Intellectual Property Rights therein and thereto, either: (a) developed, licensed or owned by a party, its Affiliates or, in [[Organization 1 Name]]’ case, a Designated Entity, before the Effective Date; or (b) acquired and/or developed by a party, its Affiliates or, in [[Organization 1 Name]]’ case, a Designated Entity, without charge to the other party, its Affiliates or, in [[Organization 1 Name]]’ case, a Designated Entity, and without using any of the Confidential Information of a party, its Affiliates or, in [[Organization 1 Name]]’ case, a Designated Entity. 
+
+[[Organization 2 Name]]     
+
+^^Confidential Information. 
+
+***6.2.1 Duty of Care***. The Recipient shall use the same degree of care and protection with respect to the Discloser’s Confidential Information that it exercises with respect to its own Confidential Information, but in all events at least a reasonable degree of care. 
+
+***6.2.2 Disclosures of Confidential Information***. Except as hereinafter permitted in this Section, without the prior written consent of the Discloser, which consent the Discloser may withhold in its sole discretion, the Recipient shall not directly or indirectly disclose, distribute, republish or transmit the Discloser’s Confidential Information to any Third Party. Notwithstanding the foregoing: 
+
+^^the Recipient may disclose the Discloser’s Confidential Information as permitted under the terms of the Agreement; 
+
+^^[[Organization 1 Name]] may disclose Supplier Confidential Information to *** who or that have a reasonable need to know, provided that disclosures to its auditors must be made pursuant to written confidentiality obligations that are no less stringent than those set forth in this Section 6.2 and that cover the portions of the Supplier Confidential Information that will be disclosed, and subject to the terms of the foregoing **subsection (a)**, [[Organization 1 Name]] may disclose Supplier Confidential Information to *** only with Supplier’s prior written consent, which consent shall not be unreasonably withheld, delayed or conditioned, provided that any such approved disclosures must be made pursuant to written confidentiality obligations that are no less stringent that those set forth in this Section 6.2 and that cover the portions of the Supplier Confidential Information that will be disclosed; 
+
+^^Supplier may disclose [[Organization 1 Name]] Confidential Information to its auditors and to those of its Authorized Users who or that have a reasonable need to know, provided that disclosures to its auditors must be made pursuant to written confidentiality obligations that are no less stringent than those set forth in this Section 6.2 and that cover the portions of the [[Organization 1 Name]] Confidential Information that will be disclosed, and subject to the terms of the foregoing **subsection (a)**, Supplier may disclose [[Organization 1 Name]] Confidential Information to other Third Parties only with [[Organization 1 Name]]’ prior written consent, which consent shall not be unreasonably withheld, delayed or conditioned, provided that any such approved disclosures must be made pursuant to written confidentiality obligations that are no less stringent that those set forth in this Section 6.2 and that cover the portions of the [[Organization 1 Name]] Confidential Information that will be disclosed; 
+
+[[Organization 2 Name]]     
+
+^^the Recipient may disclose the Discloser’s Confidential Information to its attorneys, accountants, financial advisors, banks and other financing sources and other similar advisors who or that have a reasonable need to know such Confidential Information; and 
+
+^^the Recipient may disclose the Discloser’s Confidential Information if the disclosure is required by Law (including to the Securities and Exchange Commission and/or in accordance with the rules and requirements of any stock exchange), or by subpoena, order of a court or regulatory or governmental agency or other similar legal process, provided that such disclosure is made in accordance with the terms of Section 6.2.5. 
+
+***6.2.3 Uses of Confidential Information***. Without the prior written consent of the Discloser, which consent the Discloser may withhold in its sole discretion, the Recipient shall not directly or indirectly use or allow its Personnel to use the Discloser’s Confidential Information except as reasonably necessary in connection with the Agreement including, without limitation, in connection with a party’s performance of its obligations under the Agreement and/or a party’s exercise of rights granted under the Agreement. 
+
+***6.2.4 Return or Destruction of Confidential Information***. Subject to the further terms of this Section, upon the expiration or termination of the Agreement and the expiration of the Transition Period, and at any other time upon the Discloser’s written request, the Recipient promptly shall: (a) return to the Discloser, or delete or destroy, all Discloser Confidential Information (and all copies thereof) then in its possession or control, in whatever form, or, in the case of a written request by the Discloser, the Confidential Information specified in such request as then in the Recipient’s possession or control, in whatever form; and (b) unless the Discloser otherwise consents in writing, deliver to the Discloser, or delete or destroy, any copies, duplicates, summaries, abstracts or other representations of any such Confidential Information or any part thereof, in whatever form, then in the possession or control of the Recipient. Notwithstanding any of the foregoing: (c) the Recipient may retain copies of the Discloser Confidential Information to the extent required by Law and/or to the extent otherwise permitted under this Agreement; and (d) if any return, deletion or destruction of Confidential Information will have an adverse effect on Supplier’s ability to deliver Services or [[Organization 1 Name]]’ ability to receive Services, then the parties shall discuss reasonably available alternatives to such return, deletion or destruction. 
+
+***6.2.5 Notification Obligation***. If the Recipient becomes aware of any unauthorized use or disclosure of the Discloser’s Confidential Information, the Recipient promptly and fully shall notify the Discloser of all facts known to it concerning such unauthorized use or disclosure and shall use its commercially reasonable efforts to mitigate any potential harm or further unauthorized use or disclosure of such Confidential Information. In addition, if the Recipient or any of its Personnel are requested or required (by oral questions, interrogatories, requests for information or documents in legal proceedings, subpoena, civil investigative demand or other similar process) to disclose any of the Discloser’s Confidential Information, the Recipient, to the extent permitted by Law, shall not disclose the Confidential Information without providing the Discloser with reasonable prior written notice of any such request or requirement so that the Discloser may seek a protective order or other appropriate remedy and/or waive compliance with the provisions of this Agreement. Notwithstanding the foregoing, the Recipient shall use commercially reasonable efforts to preserve the confidentiality of the Discloser’s Confidential Information including, without limitation, by cooperating with the Discloser at the Discloser’s expense to obtain an appropriate protective order or other reliable assurance that confidential treatment will be accorded the Confidential Information by such tribunal. 
+
+[[Organization 2 Name]]     
+
+***6.2.6 Injunctive Relief***. If the Recipient or anyone acting on its behalf or operating under its control, including its Personnel and representatives, publishes, transmits, releases, discloses or uses any Discloser Confidential Information in violation of the terms of this Section 6.2, or if the Discloser anticipates that the Recipient may violate or continue to violate any restriction set forth in this Section 6.2, then subject to the terms of Section 9.10, the Discloser may seek to have the provisions of this Section 6.2 specifically enforced by a court having equity jurisdiction, without being required to post bond or other security, it being acknowledged and agreed that any such violation may cause irreparable injury to the Discloser and that monetary damages may not provide an adequate remedy. 
+
+***6.2.7 Ownership***. Each party retains ownership of its Confidential Information. 
+
+***6.2.8 Survival***. The terms of this Section 6.2 shall survive the expiration or termination of this Agreement for *** . 
+
+^^Personal Information Statutes. Supplier acknowledges that [[Organization 1 Name]] Confidential Information includes personal information pertaining to residents of different states and that most states (including the state of Texas at Tex. Bus. & Com. Code §48.001 et seq.) have adopted statutes (each, a “***Personal Information Statute***”) aimed at protecting individuals whose personal information is collected and/or maintained by entities such as [[Organization 1 Name]], its Affiliates and Designated Entities. Having acknowledged the foregoing, Supplier agrees that if there is any unauthorized access to or disclosure of [[Organization 1 Name]] Confidential Information that is the subject of a Personal Information Statute, to the extent such unauthorized access or disclosure is attributable to a breach by Supplier of its obligations under the Agreement with respect to [[Organization 1 Name]] Confidential Information, Supplier shall: (a) promptly report such unauthorized disclosure or access to [[Organization 1 Name]]; (b) mitigate, to the extent practicable, any harmful effect of such disclosure or access that is known to Supplier; and (c) cooperate with [[Organization 1 Name]] in the providing of any notices that [[Organization 1 Name]] deems reasonably appropriate respecting such unauthorized access or disclosure. Additionally, Supplier shall bear: (d) *** Supplier to comply with its legal obligations relating to such breach; and (e) in addition to any other damages for which Supplier may be liable, *** by [[Organization 1 Name]], its Affiliates and/or Designated Entities in complying with its or their legal obligations relating to such breach. Nothing contained herein shall be deemed to affect Supplier’s indemnification obligations under Section 7.1. 
+
+^^General. The party against whom a claim for indemnification is made (the “***Indemnifying Party***”) shall indemnify, defend and hold harmless the other party and such other party’s Affiliates (and, in the case of [[Organization 1 Name]], the Designated Entities), and their respective members, directors, officers, managers, shareholders, employees, representatives, agents, dealers, attorneys, successors and assigns (collectively, the “***Indemnified Parties***”), from and against any and all notices, charges, claims, demands, liabilities, damages, proceedings, obligations, judgments, actions, causes of action, suits, complaints, losses, costs and expenses (including, without limitation, reasonable attorneys’ fees and court costs and fees, including costs of appeal) (collectively, “***Losses***”) arising out of, in connection with, or relating to: (a) personal injury, including death, and/or tangible property damage caused by the willful, negligent or intentional acts or omissions (including, without limitation, active or passive negligence) of the Indemnifying Party or its Personnel; or (b) a Third Party Action that arises out of, in connection with, or relating to, a failure by the Indemnifying Party or its Personnel to comply with the terms of this Agreement; provided, however, that a party shall not be obligated to indemnify, defend, or hold harmless the other party for the other party’s own negligence or willful misconduct. 
+
+[[Organization 2 Name]]     
+
+^^Proprietary Rights Infringement Indemnification. 
+
+***7.2.1 General***. In the event of any Third Party Action against any [[Organization 1 Name]] Indemnified Party alleging: (a) *** (each, an “***Infringement Claim***”), Supplier, at its expense, will indemnify, defend and hold harmless the [[Organization 1 Name]] Indemnified Parties from and against any and all Losses arising out of any such Infringement Claim. Without [[Organization 1 Name]]’ prior written consent, Supplier will not agree to any settlement or any compromise that does not provide a full and complete release of the [[Organization 1 Name]] Indemnified Parties from any and all liability with respect to such Infringement Claim. If the terms of such a proposed settlement would require a [[Organization 1 Name]] Indemnified Party to take any action (including, without limitation, to pay money damages that will not be paid in full by Supplier, or to refrain from taking any action), Supplier shall obtain [[Organization 1 Name]]’ prior written consent to those terms of the settlement. 
+
+***7.2.2 Remedies***. If receipt of any Service by [[Organization 1 Name]] and/or its Affiliates and/or its Designated Entities is enjoined or in Supplier’s opinion is likely to be enjoined or subject to an Infringement Claim, Supplier, at its expense and at Supplier’s option (following consultation with [[Organization 1 Name]]), will either: (a) *** . If, *** , none of the foregoing options can be implemented by Supplier within *** , [[Organization 1 Name]] may terminate the affected Services (without liability for such termination) and Supplier shall, *** procure for [[Organization 1 Name]], its Affiliates and Designated Entities a transitional period of continued receipt of such Service as provided in Section 5.9 of the Terms and Conditions, and in any event make available to [[Organization 1 Name]], its Affiliates and Designated Entities the other transition services described therein. 
+
+***7.2.3 Additional Indemnification Obligations***. If and to the extent Supplier reasonably believes that any development services requested by [[Organization 1 Name]] under a Service Addendum or Statement of Work might give rise to a Third Party claim of intellectual property rights infringement or misappropriation, then Supplier shall so notify [[Organization 1 Name]] promptly in writing prior to performing the services, and: (a) at [[Organization 1 Name]]’ request, the parties will work together to develop a solution that the parties agree is non-infringing; (b) [[Organization 1 Name]] may decide not to proceed with its development services request; or (c) if [[Organization 1 Name]] nonetheless elects to move forward with its development services request, then the parties may agree in the applicable Service Addendum or Statement of Work to intellectual property indemnification obligations that are in addition to those set forth in this Section 7.2. 
+
+[[Organization 2 Name]]     
+
+^^Procedures for Indemnification. 
+
+***7.3.1 General***. Promptly after becoming aware of same, the Indemnified Party shall notify the Indemnifying Party of any Third Party Action covered under the terms of **Sections 7.1** or 7.2, as applicable, for which the Indemnified Party seeks indemnification. For a period that shall not exceed *** days following any such notification, as provided herein, the Indemnified Party and Indemnifying Party shall investigate and discuss in good faith whether such claim is subject to indemnification under **Sections 7.1** or 7.2, as applicable. During such discussions, the Indemnified Party shall give the Indemnifying Party reasonable access to all records, data and Personnel of the Indemnified Party as may be reasonably necessary to make such determination. If the parties are unable to agree on whether the Indemnifying Party is required to indemnify the Indemnified Party under the terms of **Sections 7.1** or 7.2, as applicable, the Indemnifying Party, at its option, shall either assume or decline defense of the Third Party Action, including negotiations for its settlement or compromise. 
+
+***7.3.2 Defense Assumed***. If the Indemnifying Party assumes defense of a Third Party Action as described herein, the Indemnified Party shall reasonably cooperate at the Indemnifying Party’s sole expense (provided that the Indemnifying Party shall not be required to pay the Indemnified Party for time spent by the employees of the Indemnified Party or its Affiliates providing such reasonable cooperation) with the Indemnifying Party in the defense of such Third Party Action and may be represented, at the Indemnified Party’s expense, by counsel of its choice, provided that, where the Indemnifying Party has assumed defense of a Third Party Action, the Indemnifying Party shall have sole control over such defense. The Indemnifying Party shall not be responsible for defending Third Party Actions other than those described in **Sections 7.1** or 7.2, as applicable, even if brought in the same suit. In addition to the foregoing, if a court of competent jurisdiction later determines that a Third Party Action for which the Indemnifying Party assumed defense was not eligible for indemnification under **Sections 7.1** or 7.2, as applicable, within *** following such determination, the Indemnified Party shall reimburse the Indemnifying Party in full for all Losses incurred in connection with such Third Party Action. 
+
+***7.3.3 Defense Declined***. If the Indemnifying Party declines to assume defense of any Third Party Action, and it is later determined by a court of competent jurisdiction that such Third Party Action was eligible for indemnification under **Sections 7.1** or 7.2, as applicable, within *** following such determination, the Indemnifying Party shall reimburse the Indemnified Party in full for all Losses incurred in connection with such Third Party Action.
+
+***7.3.4 Settlement of Claims***. The Indemnifying Party shall not settle any Third Party Action without the prior written consent of the Indemnified Parties if such settlement: (a) materially diminishes any of the Indemnified Party’s rights under this Agreement or seeks to impose additional obligations on the Indemnified Party; or (b) arises out of or is a part of any criminal action, suit or proceeding or contains a stipulation or admission or acknowledgement of any liability or wrongdoing (whether in contract, tort or otherwise) on the part of the Indemnified Party. 
+
+[[Organization 2 Name]]     
+
+***7.3.5 Contributory Negligence; Right of Contribution***. Nothing contained herein shall bar a claim for contributory negligence between the parties or a party’s right of contribution. 
+
+^^Insurance. Without in any way limiting the Supplier’s indemnification obligations under this Agreement including, without limitation, **Sections 7.1** or **7.2,** Supplier shall maintain in effect at all times during the Term insurance with a carrier with an A.M. Best rating of A-XII or better. Such insurance shall include, without limitation, the minimum requirements and minimum limits set forth herein and in **Schedule 7.4**, and Supplier shall designate [[Organization 1 Name]], its Affiliates and Designated Entities as “additional insureds” on such insurance policies as specified in **Schedule 7.4**. Supplier shall, on or before the Effective Date and thereafter upon [[Organization 1 Name]]’ reasonable written request, provide [[Organization 1 Name]] with validated copies of all applicable endorsements naming [[Organization 1 Name]], its Affiliates and Designated Entities as “additional insureds”, as required, and evidencing such coverage in the minimum amounts, which shall also state that [[Organization 1 Name]] shall be provided a minimum of *** prior written notice of: (i) any proposed cancellation, (ii) an expiration without renewal, or (iii) any proposed change in carriers or material terms of coverage. Excluding Third Party carriers providing long-distance services to Supplier, Supplier shall require, obtain or otherwise arrange for levels of insurance coverage for all subcontractors that, at a minimum, satisfies the Supplier’s minimum requirements under this Agreement including, without limitation, with respect to limits, terms and conditions of such coverage. Supplier shall use commercially reasonable efforts to have [[Organization 1 Name]] added as an additional insured on its subcontractors’ insurance policies. Supplier shall maintain, in its files, evidence of all subcontractors’ insurance coverage and shall provide proof of such coverage to [[Organization 1 Name]]. If coverage is denied or reimbursement of a properly presented claim is disputed by the carrier for insurance provided as described above, upon written request, Supplier shall provide [[Organization 1 Name]] with a copy of the involved insurance policy or policies within *** of receipt of such request. The terms of this Section shall not be deemed to limit the liability of Supplier hereunder, or to limit any rights [[Organization 1 Name]] may have including, without limitation, rights of indemnity or contribution. The minimum limits of insurance required under this Agreement shall not be construed to affect or reduce in any manner the limit of insurance afforded [[Organization 1 Name]] under such policies. Language in any insurance policy purchased by Supplier limiting the limit of liability thereunder to any minimum limit required in this Agreement shall not apply. 
+
+^^Executive Level Performance Review. Upon request, appropriate executive officers of [[Organization 1 Name]] and Supplier shall meet in an effort to resolve any dispute. Written minutes of such meetings shall be kept by the parties. If these representatives are unable to resolve the dispute within *** days after the representatives have commenced negotiations, or *** have passed since the initial request for negotiations at this level, then the dispute may be submitted to non-binding mediation in accordance with Section 8.2. 
+
+^^Voluntary, Non-Binding Mediation. If executive-level performance review does not result in successful resolution of the dispute, the parties may, but shall not be obligated to, mutually agree in writing to submit the dispute to non-binding mediation. Mediation must occur within *** after the parties agree to submit the dispute to mediation, and the duration of the mediation shall be limited to *** . The parties mutually shall select an independent mediator experienced in commercial contract telecommunications disputes, and each shall designate a representative(s) to meet with the mediator in good faith in an effort to resolve the dispute. The specific format for the mediation shall be left to the discretion of the mediator and the designated party representatives and may include the preparation of agreed-upon statements of fact or written statements of position furnished to the other party. 
+
+[[Organization 2 Name]]     
+
+^^Equitable Relief. Notwithstanding anything that may be contained herein to the contrary, the parties shall be entitled to seek injunctive or other equitable relief whenever the facts or circumstances would permit a party to seek such injunctive or other equitable relief. 
+
+^^Notices. Any written notice required or permitted to be delivered pursuant to this Agreement shall be in writing and shall be deemed delivered: (a) upon delivery if delivered in person; (b) one (1) business day after deposit with a national overnight courier, provided that confirmation of such overnight delivery is received by the sender; or (c) as otherwise permitted pursuant to the applicable Service Addendum or Statement of Work, in each case (except in the cases described in **Sections 3.2.1, 3.2.3** and **5.4.2**) addressed to the following addresses or to the addresses otherwise required by the applicable Service Addendum or Statement of Work: 
+
+If to [[Organization 1 Name]]:      If to Supplier:
+
+[[Organization 1 Name]]  [[Address 5: Address]]  Attention: Chief Financial Officer      [[Organization 4 Name]]  250 Williams Street, Suite 250  [[Address 2: Address]]  Attention: ***
+
+With a copy to:      With a copy to:
+
+[[Organization 1 Name]]  [[Address 5: Address]]  Attention: Legal Department      InComm Holdings, Inc.  250 Williams Street, Suite 250  [[Address 2: Address]]  Attention: ***
+
+or to such other address as may be specified by either party upon written notice given to the other. 
+
+^^Subcontractors. Services performed by Supplier subcontractors (including their Personnel) shall be deemed Services performed by Supplier, and Supplier will be responsible for such performance by its subcontractors as if such Services were performed by Supplier. Notwithstanding the terms of the applicable subcontract, [[Organization 1 Name]]’ acceptance of any subcontractor or the availability or unavailability of subcontractor insurance, Supplier shall be responsible for the acts and omissions of its subcontractors (including their Personnel) to the same extent as if such acts or omissions were committed by Supplier and Supplier were responsible for such acts or omissions pursuant to the terms of this Agreement. [[Organization 1 Name]] shall be responsible for the acts and omissions of its Affiliates and Designated Entities (including their Personnel) to the same extent as if such acts or omissions were committed by [[Organization 1 Name]] and [[Organization 1 Name]] were responsible for such acts or omissions pursuant to the terms of this Agreement, including, without limitation, [[Organization 1 Name]] shall be liable for any and all payment obligations and charges incurred by its Affiliates and Designated Entities under this Agreement. 
+
+[[Organization 2 Name]]     
+
+^^Audits. 
+
+***9.3.1 Records Retention***. The parties each shall retain all records and information specifically required to be retained under the terms of a Service Addendum or Statement of Work or otherwise reasonably necessary to verify amounts invoiced and paid under the Agreement and [[Organization 1 Name]]’ compliance with any exclusivity, routing, volume, purchase and other similar requirements under this Agreement or any Service Addendum or Statement of Work (collectively, the “***Records***”). Each party shall retain Records for the applicable calendar year (or portion thereof) occurring during the Term for a period of *** from the end of such calendar year, or such longer period of time as may be required under the applicable Service Addendum or Statement of Work, or by applicable Law. 
+
+***9.3.2 Procedures***. Audits shall: 
+
+^^be conducted by *** designated by the auditing party, and the individual representatives of such *** auditor who will be conducting the audit shall be identified by name to the audited party in advance; 
+
+^^be subject to the confidentiality provisions set forth in the Agreement (including, without limitation, **Sections 6.2.2(b)** and (c)); 
+
+^^occur no more than *** ; 
+
+^^be conducted during mutually agreed business hours; 
+
+^^be conducted upon reasonable prior written notice; 
+
+^^be designed so as not to unreasonably interfere with a party’s business operations; 
+
+^^be performed in compliance with the audited party’s security rules (which shall in no event be applied in a manner that prevents or unreasonably interferes with performance of the audit); and 
+
+^^only cover the period between the date that the audited party received the written notice described in the foregoing **subsection (e)** and the *** period preceding such date. 
+
+***9.3.3 Audit Discrepancies***. If an audit reveals that [[Organization 1 Name]] breached its obligations to Supplier under a Service Addendum or Statement of Work in the manner described in the applicable Service Addendum or Statement of Work, then [[Organization 1 Name]] may be obligated to reimburse Supplier *** as provided in such Service Addendum or Statement of Work, and Supplier shall be entitled to exercise any other legal and equitable remedies available to Supplier under this Agreement (including the applicable Service Addendum or Statement of Work) or applicable Law. If an audit reveals that Supplier improperly invoiced [[Organization 1 Name]] for Services, or breached its obligations to [[Organization 1 Name]] under a Service Addendum or Statement of Work in the manner described in the applicable Service Addendum or Statement of Work, then: (a) Supplier may be obligated to reimburse [[Organization 1 Name]] *** as provided in such Service Addendum or Statement of Work, (b) *** ; and (c) [[Organization 1 Name]] shall be entitled to exercise any other legal and equitable remedies available to [[Organization 1 Name]] under this Agreement (including the applicable Service Addendum or Statement of Work) or applicable Law. 
+
+[[Organization 2 Name]]     
+
+^^Force Majeure. A party shall be excused from performing its obligations hereunder, in whole or in part, to the extent: (a) caused by the other party or by an act of God, war, riot, civil commotion, explosion, fire, government action, court order, epidemic, or any other similar cause; (b) any such cause was not foreseen, was not foreseeable, and was beyond the reasonable control of the non-performing party; and (c) the non-performing party’s performance is actually delayed, hindered or prevented, and then only during the period of time that performance is actually delayed, hindered or prevented (each, a “***Force Majeure Event***”). A Force Majeure Event shall not have occurred to the extent the non-performing party is solely at fault in failing to prevent or mitigate, or for causing, such failure to perform, unless within *** following the occurrence thereof the non-performing party cures such failure to perform, in which event the portion of such *** period required by the non-performing party to cure such failure to perform shall qualify as a Force Majeure Event. The non-performing party promptly shall (but in any event within *** of the occurrence of the events or circumstances that may constitute a Force Majeure Event), notify the party to which performance is due by telephone (to be confirmed in writing within *** of the inception of such events or circumstances) and describe at a reasonable level of detail such events or circumstances, the material steps being taken to address such events or circumstances, possible alternatives or workarounds that may be available, the expected duration of such events or circumstances and any other information reasonably requested by [[Organization 1 Name]]. 
+
+^^Binding Nature and Assignment. Subject to all other provisions herein contained, this Agreement shall be binding on the parties and their successors and permitted assigns. Except as provided in this Section 9.5, neither party shall assign or otherwise transfer this Agreement, or any part hereof, nor delegate any of its duties hereunder, to any Third Party without the prior written consent of the other party, which consent must be given by a Senior Vice-President or higher-level corporate officer of [[Organization 1 Name]] and by an Executive Vice President or higher-level officer of Supplier and may be withheld, delayed or conditioned in such other party’s sole and absolute discretion. Notwithstanding the foregoing: (a) at any time upon written notice to Supplier, [[Organization 1 Name]] shall have the right to assign this Agreement to any acquirer of, or successor in interest to, [[Organization 1 Name]], whether by merger, consolidation, purchase, operation of Law or otherwise, or to any Affiliate or Designated Entity, and upon Supplier’s written request, [[Organization 1 Name]] shall cause any such acquirer or successor in interest to assume [[Organization 1 Name]]’ obligations under the Agreement in writing; and (b) at any time upon written notice to [[Organization 1 Name]] (but in all events subject to the terms of Section 5.7), Supplier shall have the right to assign this Agreement to any acquirer of, or successor in interest to, Supplier, whether by merger, consolidation, purchase, operation of Law or otherwise, and upon [[Organization 1 Name]]’ written request, Supplier shall cause any such acquirer or successor in interest to assume Supplier’s obligations under the Agreement in writing. Any assignments not permitted hereunder shall be void *ab initio*. Subject to the requirements of, and restrictions set forth in, this Section, any rights granted to a party under this Agreement shall inure to the benefit of any acquirer of, or successor in interest to, such party, whether by merger, consolidation, purchase, operation of Law or otherwise. 
+
+[[Organization 2 Name]]     
+
+^^Media Releases and Public Disclosures of Agreement. Without the prior written consent of the other party (which for [[Organization 1 Name]] must be a Vice-President or higher-level officer of [[Organization 1 Name]]), except as may be required under applicable Law, SEC requirements, or listing requirements, neither party shall issue or release any statement, article, advertisement, public or private announcement (including, without limitation, any announcement made via e-mail or any posting on the Internet or World Wide Web), media release or other similar publicity relating in any manner to: (a) any aspect of this Agreement; (b) any aspect of any Services; or (c) the fact that the parties have engaged in any discussions or negotiations regarding any of the foregoing. Neither party shall use the name or any trademark or logo of the other party without the prior written consent of the other party relating to the Services provided hereunder. Notwithstanding the foregoing, within thirty (30) days following the Effective Date, the parties will prepare and issue a mutually agreed press release to announce the formation of the [[Organization 1 Name]] and Supplier relationship. 
+
+^^Counterparts; Electronic Signatures. This Agreement (including each Service Addendum and Statement of Work) may be executed in one (1) or more duplicate originals, both of which together shall be deemed one and the same instrument. Counterparts may be executed in either original or electronically transmitted form (*e.g.*, faxes or emailed portable document format (PDF) form), and the parties hereby adopt as original any signatures received via electronically transmitted form. 
+
+^^Severability. If any provision of this Agreement (including any Service Addendum or Statement of Work) is found by a court of competent jurisdiction to be invalid or unenforceable, such invalidity or unenforceability shall not invalidate or render unenforceable any other part of this Agreement (including any Service Addendum or Statement of Work), but the Agreement (including Service Addenda and Statements of Work) shall be construed as not containing the particular provision or provisions held to be invalid or unenforceable. 
+
+^^Waiver. No delay or omission by either party to exercise any right occurring upon any noncompliance or default by the other party with respect to any of the terms of this Agreement shall impair any such right or power or be construed to be a waiver thereof. A waiver by either of the parties of any of the covenants, conditions or agreements to be performed by the other shall not be construed to be a waiver of any succeeding breach thereof or of any covenant, condition or agreement herein contained. 
+
+[[Organization 2 Name]]     
+
+^^Governing Law/Exclusive Jurisdiction*.* The Laws of the State of Texas will govern the construction and enforcement of all of the rights, duties, and obligations arising under, or relating in any manner to, the subject matter of this Agreement, notwithstanding any conflicts of Law principles that would apply the Laws of another jurisdiction. **EXCEPT AS PROVIDED BELOW IN THIS SECTION, ANY ACTION, SUIT OR PROCEEDING BROUGHT BY A PARTY THAT IN ANY WAY ARISES OUT OF OR RELATES TO THIS AGREEMENT SHALL BE BROUGHT SOLELY AND EXCLUSIVELY IN THE STATE OR FEDERAL COURTS LOCATED IN DALLAS, TEXAS, AND EACH PARTY IRREVOCABLY ACCEPTS AND SUBMITS TO THE SOLE AND EXCLUSIVE PERSONAL JURISDICTION OF SUCH COURTS IN PERSONUM, GENERALLY AND UNCONDITIONALLY WITH RESPECT TO ANY ACTION, SUIT OR PROCEEDING BROUGHT BY OR AGAINST IT BY THE OTHER PARTY**. **EXCEPT AS PROVIDED BELOW IN THIS SECTION, NEITHER PARTY SHALL BRING ANY ACTION, SUIT OR PROCEEDING IN ANY WAY ARISING OUT OF OR RELATING TO THE AGREEMENT IN ANY OTHER COURT OR IN ANY OTHER JURISDICTION AND SHALL NOT ASSERT ANY CLAIM, WHETHER AS AN ORIGINAL ACTION OR AS A COUNTERCLAIM OR OTHERWISE, AGAINST THE OTHER IN ANY OTHER COURT OR JURISDICTION**. Each party irrevocably waives and agrees not to assert, by way of motion, as a defense or otherwise, any objection that it may now or hereafter have to the venue of any of the aforesaid actions, suits or proceedings in the courts referred to above, and further waives and agrees not to plead or claim in any such court that any such action or proceeding brought in any such court has been brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper, or that the Agreement or the subject matter hereof or thereof may not be enforced in or by such court. As the only exceptions to any of the above: (a) if a party is entitled to seek injunctive or other equitable relief which is not available in the venue specified in this Section, this Section shall not be deemed to be a bar to the party seeking such relief if such relief is wholly non-monetary injunctive or other equitable relief; and (b) if neither the federal courts nor the state courts sitting in Dallas, Texas will accept jurisdiction over the action, suit or proceeding, then the action, suit or proceeding may be brought in any court of competent jurisdiction located in the United States. 
+
+^^Compliance With Laws. Each party shall comply with all applicable Laws including, without limitation, procurement of all required permits or certifications, in connection with its performance under this Agreement, except where such party’s failure will not have a material adverse effect on such party, it business or its ability to perform its obligations in accordance with the terms of this Agreement (including the Service Addenda and Statements of Work). 
+
+^^No Construction Against Drafter. The parties agree that any principle of construction or rule of law that provides that an agreement shall be construed against the drafter of the agreement in the event of any inconsistency or ambiguity in such agreement shall not apply to the terms and conditions of this Agreement. 
+
+^^Relationship of Parties. The parties acknowledge that they are independent contractors, and nothing set forth in this Agreement shall be deemed or construed to render the parties as joint venturers, partners or employer and employee. Under no circumstances shall [[Organization 1 Name]] be considered the employer of any Supplier Personnel, nor shall Supplier have any right with respect to any employee of [[Organization 1 Name]]. 
+
+[[Organization 2 Name]]     
+
+^^Time is of the Essence. The Services are critical to [[Organization 1 Name]]’ business and time is of the essence with regard to each of Supplier’s obligation hereunder. 
+
+^^Non Intervention. In connection with the provision of Services, Supplier agrees not to influence, directly or indirectly, any regulatory, legislative, or judicial body so as to prevent, delay or otherwise interfere with receipt of the Services by [[Organization 1 Name]], its Affiliates and Designated Entities. Supplier is free to conduct activities that it reasonably believes are: (a) in the interest of safety and health; (b) appropriate in connection with matters relating to interference between authorized users of the nation’s airwaves; (c) appropriate to address any requests for information or assistance directed to Supplier by any governmental agency; (d) required by Law; or (e) required to participate in evolving industry standards or supply Services that comply with such standards. 
+
+^^Entire Agreement; Modifications. 
+
+***9.16.1 General***. Subject to the terms of Section 9.16.2, this Agreement, together with all of the Schedules, Exhibits (including Service Addenda), Attachments and Addenda, sets forth the entire, final and exclusive agreement between the parties as to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written, between the parties. 
+
+***9.16.2 Prior Agreement***. The Prior Agreement is hereby terminated and of no further force or effect as of the Effective Date, provided that: 
+
+^^subject to the terms of the following **subsections (c)** and (f), termination of the Prior Agreement shall not affect any rights, liabilities or obligations that accrued under the Prior Agreement as of the Effective Date including, without limitation, [[Organization 1 Name]]’ obligation to pay Supplier’s Affiliate in accordance with the terms of the Prior Agreement for services rendered by Supplier’s Affiliate under the Prior Agreement; 
+
+^^*** 
+
+^^*** 
+
+^^from and after the Effective Date, all Information (as defined in Section 4 of the Prior Agreement) shall be treated as Confidential Information under this Agreement; 
+
+^^*** 
+
+^^neither party shall have the right to assert any claims against the other relating to underpayments or overpayments for services rendered by Supplier’s Affiliate to [[Organization 1 Name]] under the Prior Agreement respecting any time period that precedes the Effective Date by more than *** . 
+
+[[Organization 2 Name]]     
+
+***9.16.3 Modifications***. These Terms and Conditions and each Service Addendum and Statement of Work executed hereunder may be modified only pursuant to a writing executed by authorized representatives of [[Organization 1 Name]] and Supplier. Supplier expressly agrees that all amendments to this Agreement executed by [[Organization 1 Name]] after the Effective Date must be signed by a Senior Vice President or higher-level corporate officer of [[Organization 1 Name]] in order to be effective and enforceable against [[Organization 1 Name]]. [[Organization 1 Name]] expressly agrees that all amendments to this Agreement executed by Supplier after the Effective Date must be signed by an Executive Vice President or higher-level officer of Supplier in order to be effective and enforceable against Supplier. The parties expressly disclaim the right to claim the enforceability or effectiveness of: (d) any amendments to this Agreement that are not executed by a Senior Vice President or higher-level corporate officer of [[Organization 1 Name]], or that are not executed by an Executive Vice President or higher-level officer of Supplier; (e) any oral modifications to this Agreement; and (f) any other amendments that are based on course of dealing, waiver, reliance, estoppel or other similar legal theory. The parties expressly disclaim the right to enforce any rule of Law that is contrary to the terms of this Section. 
+
+**IN WITNESS WHEREOF**, authorized representatives of the parties have executed these Terms and Conditions effective as of the Effective Date. 
+
+**[[Organization 1 Name]]**      **INCOMM HOLDINGS, INC.**
+
+By:      \centered /s/ * * *      By:      \centered /s/ * * *
+
+Printed Name:      \centered * * *      Printed Name:      \centered * * *
+
+Title:      \centered * * *      Title:      \centered * * *
+
+Acknowledged and agreed solely in respect of the terms set forth in Section 9.16.2:
+
+**[[Organization 6 Name]]**
+
+By:      \centered /s/ * * *
+
+Printed Name:      \centered * * *
+
+Title:      \centered * * *
+
+[[Organization 2 Name]]     
+
+\centered **SCHEDULE 1.5** 
+
+\centered **DEFINED TERMS** 
+
+Whenever used in this Agreement (including in any Service Addendum or Statement of Work), the following terms shall have the meaning ascribed to them below. Other capitalized terms used in this Agreement are defined in the context in which they are used and shall have the meanings ascribed to them therein. The terms defined in this **Schedule 1.5** include the plural as well as the singular and are gender neutral. 
+
+“***Affiliate(s)***” means any person, firm, corporation (including, without limitation, service corporation and professional corporation), partnership (including, without limitation, general partnership, limited partnership and limited liability partnership), limited liability company, joint venture, business trust, association or other entity that now or in the future, directly or indirectly: (a) controls, is controlled by or is under common control with a party; or (b) is managed, operated or directed by a party. For purposes of the foregoing, “control” shall mean, with respect to: (c) a corporation, the ownership, directly or indirectly, of *** or more of the voting power to elect the directors thereof or, for purposes of foreign corporations, if less than *** , the amount allowed by applicable Law, provided that such ownership provides the applicable party with the authority to direct the management of such entity; and (d) any other entity, the power to direct the management of such entity. 
+
+“***Agreement***” means this Master Services Agreement by and between [[Organization 1 Name]] and Supplier, inclusive of all Schedules, Exhibits, Attachments, Addenda and other documents incorporated herein by reference, and all Service Addenda and Statements of Work executed pursuant to this Master Services Agreement. 
+
+“***Authorized User***” means: (a) for [[Organization 1 Name]]: (i) [[Organization 1 Name]] and its employees; and (ii) [[Organization 1 Name]]’ Affiliates and Designated Entities and their employees; and (b) for Supplier: (i) Supplier and its employees; and (ii) Supplier’s Affiliates and their employees. 
+
+“***Bankruptcy Code***” means the United States Bankruptcy Code, as amended. 
+
+“***Change in Control***” means: (a) any transaction or combination of transactions as a result of which either a Person or a group of persons that customarily has acted in concert and that presently is in control of Supplier ceases to be in control of Supplier; (b) the sale, transfer, exchange or other disposition (including disposition in full or in part) of more than *** of the beneficial ownership (as defined in Rule 13(d) of the Securities Exchange Act of 1934) of the voting power of Supplier, or of the assets of Supplier that constitute a substantial or material business segment of Supplier, other than a merger in which the holders of the common stock of Supplier immediately prior to the merger have substantially the same proportionate ownership of common stock or membership interest or other equity of the surviving entity immediately after the merger; provided that a Change in Control shall not include any consolidation or merger effected exclusively to change the domicile of Supplier; or (c) all or substantially all of the assets or the business of the unit, division, operating group or Affiliate of Supplier that is responsible for providing the Services is sold, transferred or otherwise experiences a change in ownership or control, excluding a change in ownership or control after which InComm is the ultimate or indirect majority owner of, or otherwise in control of, the affected InComm Affiliate. Notwithstanding the foregoing a Change of Control shall not have occurred to the extent control of Supplier remains with: (i) an entity that directly or indirectly controls Supplier as of the Effective Date; (ii) any controlling stockholder, *** owned subsidiary, or immediate family member (in the case of an individual) of any Person referred to in the foregoing **subsection (i)**; or (iii) any trust, corporation, partnership or other entity, the beneficiaries, stockholders, partners, owners or Person beneficially owning an *** controlling interest of which consists of any one or more persons referred to in the foregoing **subsections (i)** or (ii). 
+
+[[Organization 2 Name]]      \centered **SCHEDULE 1.5**   \centered Page 1 of 5
+
+“***Comparable Services***” means services that are the same type of service (*i.e.*, domestic long distance service is a “type” of service) as the Services Supplier is required to provide to [[Organization 1 Name]] under the applicable Service Addendum or Statement of Work. 
+
+“***Confidential Information***” means, for each party, material, data and/or information owned by that party or that relates to that party’s business and/or its operations, excluding material, data and/or information that: (a) was at the time of disclosure to the Recipient in the public domain; (b) after disclosure to the Recipient was published or otherwise made a part of the public domain through no fault of Recipient Personnel; (c) was in the possession of the Recipient at the time of disclosure to it, if Recipient was not then under an obligation of confidentiality with respect thereto; (d) after disclosure to the Recipient, was received from a Third Party (excluding, when [[Organization 1 Name]] is the Discloser, Authorized Users who or that constitute a Third Party) who had a lawful right to disclose such information to the Recipient without an obligation of confidentiality; or (e) was independently developed by Recipient Personnel without reference to Discloser Confidential Information. 
+
+“***Designated Entity***” means any Person to which [[Organization 1 Name]] or one of its Affiliates leases or provides Services and with respect to which [[Organization 1 Name]] or one of its Affiliates has an equity or membership interest of *** . 
+
+“***Discloser***” means the party that has disclosed Confidential Information. 
+
+“***Effective Date***” is defined in the introductory paragraph of the Terms and Conditions. 
+
+“***Events of Default***” is defined in Section 5.2 of the Terms and Conditions. 
+
+“***FCC***” means the Federal Communications Commission or any successor agency performing the same or similar functions. 
+
+“***Force Majeure Event***” is defined in Section 9.4 of the Terms and Conditions. 
+
+“***InComm***” is defined in the opening paragraph of the Terms and Conditions. 
+
+“***Indemnified Parties***” is defined in Section 7.1 of the Terms and Conditions.
+
+“***Indemnifying Party***” is defined in Section 7.1 of the Terms and Conditions*.* 
+
+“***Infringement Claim***” is defined in Section 7.2.1 of the Terms and Conditions.
+
+[[Organization 2 Name]]      \centered **SCHEDULE 1.5**   \centered Page 2 of 5
+
+“***Intellectual Property Rights***” means patents, trademarks, trade names, copyrights, trade secrets and/or any other intellectual property rights. 
+
+“***Law(s)***” mean all laws, statutes, regulations, rules, ordinances, executive orders, supervisory requirements, directives, circulars, opinions, interpretive letters and other official releases of or by any applicable governmental authority, department or agency, including, without limitation, laws relating to data privacy or data protection. 
+
+“***Losses***” is defined in Section 7.1 of the Terms and Conditions. 
+
+“***[[Organization 1 Name]]***” is defined in the opening paragraph of the Terms and Conditions. 
+
+“***[[Organization 1 Name]] Competitor***” means any Third Party that: (a) *** . 
+
+“***” *** . 
+
+“***[[Organization 1 Name]] Entities***” is defined in Section 9.16.2 of the Terms and Conditions. 
+
+“***Person***” shall mean any individual, corporation, company, partnership, joint venture, association, trust, unincorporated organization or governmental authority. 
+
+“***Personal Information Statute***” is defined in Section 6.3 of the Terms and Conditions. 
+
+“***Personnel***” means: (a) the employees of a party or its Affiliates and, in the case of [[Organization 1 Name]], Designated Entities; and (b) subject to the terms of Section 9.2, the subcontractors and agents of a party or its Affiliates and, in the case of [[Organization 1 Name]], Designated Entities. “***[[Organization 1 Name]] Personnel***” refers to the Personnel of [[Organization 1 Name]], and “***Supplier Personnel***” refers to the Personnel of Supplier. 
+
+“***Pre-Existing Agreement***” is defined in Section 1.2 of the Terms and Conditions. 
+
+“***Pre-Existing Materials***” is defined in Section 6.1 of the Terms and Conditions. 
+
+“***Prior Agreement***” means that certain Service Agreement between [[Organization 6 Name]] and [[Organization 1 Name]] dated [[Date 3: Date]], as amended, including, without limitation, the *** . 
+
+“***Recipient***” means the party that has received Confidential Information. 
+
+“***Records***” is defined in Section 9.3.1 of the Terms and Conditions. 
+
+“***Service Addendum***” means a document that sets forth the terms and conditions pursuant to which Supplier will provide a specific type of Services to [[Organization 1 Name]] (*e.g.*, domestic long distance services (see Service Addendum One attached hereto as part of **Exhibit 1**) and [[Organization 3 Name]] (see Service Addendum Two attached hereto as part of **Exhibit 1**)). 
+
+[[Organization 2 Name]]      \centered **SCHEDULE 1.5**   \centered Page 3 of 5
+
+***“Service Level Agreement”*** means, *** . 
+
+“***” *** . 
+
+“***Services***” means, individually or collectively, any services that may be provided by Supplier to [[Organization 1 Name]], its Affiliates or Designated Entities under the Agreement, as described in a Service Addendum or a Statement of Work. 
+
+“***Set-Off Notice***” is defined in Section 5.4.2 of the Terms and Conditions. 
+
+“***Set-Off Response***” is defined in Section 5.4.2 of the Terms and Conditions. 
+
+***“SLA”*** is synonymous with Service Level Agreement. 
+
+“***Supplier Entities***” is defined in Section 9.16.2 of the Terms and Conditions. 
+
+“***Statement of Work***” means a document that sets forth the terms and conditions pursuant to which Supplier will provide specific Services to [[Organization 1 Name]] that are not otherwise included within the scope of Services to be provided pursuant to a Service Addendum. 
+
+“***Supplier***” is defined in the opening paragraph of the Terms and Conditions. 
+
+“***Tax Assessment***” means all federal, state, or local sales, use, excise, gross receipts, municipal fees, transfer, transaction or similar taxes, fees, or surcharges, but excludes: (a) any tax, fee, assessment, or surcharge on either party’s corporate existence, status, or income; (b) property taxes, fees, assessment, or surcharges; (c) any corporate franchise tax, fee, assessment, or surcharge; and (d) taxes, fees, assessment, and surcharges which are imposed directly on a party’s gross or retail revenues. 
+
+“***Term***” means the date by which the terms of all Service Addenda and the terms of all Statements of Work have ended (whether through expiration or earlier termination) plus the length of any Transition Period. 
+
+“***Termination Date***” means the date on which the Term ends. 
+
+“***Terms and Conditions***” means this Agreement, exclusive of all Service Addenda and Statements of Work executed under this Agreement. 
+
+“***Third Party***” means Persons other than Supplier and its Affiliates and [[Organization 1 Name]] and its Affiliates and Designated Entities. 
+
+“***Third Party Action***” means any demand, claim, allegation, cause of action, investigation, suit or proceeding, in each case made by or on behalf of a Third Party. 
+
+“***Third Party IP Right***” is defined in Section 4.3 of the Terms and Conditions. 
+
+“***Transition Period***” is defined in Section 5.9 of the Terms and Conditions. 
+
+[[Organization 2 Name]]      \centered **SCHEDULE 1.5**   \centered Page 4 of 5
+
+“***valid final and non-appealable Tax Assessment***” is defined in Section 3.3.4 of the Terms and Conditions. 
+
+[[Organization 2 Name]]      \centered **SCHEDULE 1.5**   \centered Page 5 of 5
+
+\centered **SCHEDULE 2** 
+
+\centered **CHECKLIST FOR DEVELOPING SERVICE** 
+
+\centered **ADDENDA AND STATEMENTS OF WORK** 
+
+\centered **Section of the Agreement**      \centered **Description**
+
+Section 1.1, Purpose      ***
+
+Section 1.4, Non-Exclusive Relationship/No Volume Commitment      ***
+
+Section 1.5, Definitions      ***
+
+Section 2.1.2, Future Service Addenda      ***
+
+Section 3.1.1, Invoicing      ***
+
+Section 4.1, Services      ***
+
+Section 4.2, Pricing and Terms and Conditions      ***
+
+Section 4.8, Additional Warranties      ***
+
+Section 5.1, Term      ***
+
+Section 5.2, Events of Default      ***
+
+Section 5.8, Termination Without Cause      ***
+
+Section 5.9, Transition Rights      ***
+
+Section 7.2.3, Additional Indemnification Obligations      ***
+
+Section 9.1, Notices      ***
+
+Section 9.3.1, Records Retention      ***
+
+Section 9.3.3, Audit Discrepancies      ***
+
+Schedule 1.5, Definitions  “Service Level Agreement”      ***
+
+Schedule 1.5, Definitions  “Services”      ***
+
+[[Organization 2 Name]]      \centered **SCHEDULE 2**   \centered Page 1 of 1
+
+\centered **SCHEDULE 2.5** 
+
+\centered **VENDOR ETHICS POLICY** 
+
+\centered *** 
+
+[[Organization 2 Name]]      **SCHEDULE 2.5**
+
+\centered **SCHEDULE 7.4** 
+
+\centered **INSURANCE REQUIREMENTS** 
+
+^**Workers’ Compensation**
+
+^Minimum Limits
+
+Coverage A      Statutory
+Coverage B
+Bodily Injury by Accident      *** each accident
+Bodily Injury by Disease      *** policy limit
+Bodily Injury by Disease      *** each employee
+
+^The policy shall be written to meet the statutory requirements for the state in which the work is to be performed, including Occupational Disease. Supplier provides workers’ compensation insurance through either qualified self-insurance or third party insurance.
+
+^The policy and/or Supplier shall include a waiver of subrogation in favor of [[Organization 1 Name]], its Affiliates and Designated Entities.
+
+^**Commercial General Liability**
+
+^Minimum Limits
+
+General Aggregate: *** 
+
+Products/Completed Operations Aggregate: *** 
+
+Personal/Advertising Injury: *** any one person 
+
+Bodily Injury/Property Damage: *** per occurrence 
+
+^The policy shall be written on an occurrence basis using ISO Form CG 0001 or equivalent. The policy shall provide Premises/Operations, Products/Completed Operations, Independent Contractors, Personal Injury, Explosion, Collapse and Underground Property Damage, Broad Form Property Damage and Contractual Liability coverage.
+
+^The policy shall include [[Organization 1 Name]], its Affiliates and Designated Entities as additional insureds for both premises/operations and products/completed operations liability, but only as to the obligations undertaken by Supplier pursuant to the Agreement.
+
+^The policy shall include a waiver of subrogation in favor of [[Organization 1 Name]], its Affiliates and Designated Entities, but only as to the obligations undertaken by Supplier pursuant to the Agreement.
+
+[[Organization 2 Name]]      \centered **SCHEDULE 7.4**   \centered Page 1 of 2
+
+^Supplier’s insurance will be primary and will not contribute with insurance maintained by [[Organization 1 Name]], but only as to the obligations undertaken by Supplier pursuant to the Agreement.
+
+^**Commercial Automobile Liability**
+
+^Minimum Limits  Bodily Injury / Property Damage: *** Combined Single Limit each accident.
+
+^The policy shall be written to cover all Owned, Non-owned and Hired vehicles.
+
+^The policy shall include [[Organization 1 Name]], its Affiliates and Designated Entities as additional insureds.
+
+^Supplier’s insurance will be primary and will not contribute with insurance maintained by [[Organization 1 Name]].
+
+^**Technology Errors and Omissions**
+
+^Minimum Limits *** per occurrence and *** aggregate
+
+^Supplier shall maintain policies without endangering any aggregate limits by purchasing an extended reporting coverage for an adequate amount of time, but in no event less than five (5) years to cover damages arising out of any Service provided under this Agreement.
+
+^**Excess/Umbrella Insurance**
+
+^Minimum Limits  Excess coverage not less than *** over Commercial General Liability, Automobile Liability and Employer’s Liability coverages set forth above.
+
+[[Organization 2 Name]]      \centered **SCHEDULE 7.4**   \centered Page 2 of 2
+
+\centered **EXHIBIT 1** 
+
+\centered **SERVICE ADDENDA ATTACHED** 
+
+\centered [Attached Hereto] 
+
+[[Organization 2 Name]]      **EXHIBIT 1**
+
+\centered **EXHIBIT 1** 
+
+\centered **SERVICE ADDENDUM ONE** 
+
+\centered **DOMESTIC LONG DISTANCE SERVICES** 
+
+\centered [Attached Hereto] 
+
+[[Organization 2 Name]]  Exhibit 1      **SERVICE ADDENDUM ONE**
+
+\centered **EXHIBIT 1** 
+
+\centered **SERVICE ADDENDUM ONE** 
+
+\centered **DOMESTIC LONG DISTANCE SERVICE** 
+
+This Service Addendum One  Domestic Long Distance Service (“***SA-1***”) is entered into this [[Date 2]] (the “***SA-1 Effective Date***”) pursuant to the Master Services Agreement between [[Organization 1 Name]] and InComm dated [[Date 1]], the terms of which are incorporated herein by this reference, and is entered into by and between [[Organization 1 Name]], InComm and InComm’s Affiliate, [[Organization 4 Name]], a Colorado corporation (“***US South”***). This SA-1 describes the terms and conditions under which US South will provide Domestic Long Distance Service (including Extended Service), [[Organization 7 Name]] and [[Organization 8 Name]] (all of the foregoing as defined in Section 1.0 of this SA-1) to [[Organization 1 Name]], its Affiliates and Designated Entities. *** . All capitalized terms used, but not otherwise defined, in this SA-1 shall have the meanings ascribed to them in the Terms and Conditions. Any telecommunications-related capitalized terms used, but not otherwise defined, in this SA-1 or in the Terms and Conditions shall have the meanings ascribed to them under generally applicable industry standards. 
+
+^^**DOMESTIC LONG DISTANCE SERVICE.**
+
+^^US South will provide to [[Organization 1 Name]], its Affiliates and/or Designated Entities domestic long distance termination service for calls made by the end user subscribers of [[Organization 1 Name]], its Affiliates and Designated Entities (the “***Customers***”) originating on the networks of [[Organization 1 Name]], its Affiliates and/or Designated Entities *** , to the called automated number identification terminating in: (a) the contiguous forty-eight (48) states (excluding, for the avoidance of doubt, Guam, Hawaii and the U.S. Virgin Islands); and (b) Alaska and Puerto Rico (“***Extended Service***”) (the services described in the foregoing **subsections (a)** and (b) are collectively referred to herein as the “***Domestic Long Distance Service***”). Domestic Long Distance Service includes four (4) categories (each, a “***Category***,” and collectively, the “***Categories***”): (w) Wireless; (x) Wireless Direct; (y) [[Organization 1 Name]]-to-[[Organization 1 Name]]; and (z) other. For purposes of this SA-1, the Categories are defined as follows:
+
+^^^The “***Wireless***” Category includes all Domestic Long Distance Service calls originated by Customers and terminated to any [[Organization 9 Name]] provider’s subscribers according to Telecordia’s Local Exchange Routing Guide (LERG) in the categories of “PCS” and “Wireless,” excluding [[Organization 1 Name]], its Affiliates and/or Designated Entities and those wireless carriers included in the Wireless Direct Category;
+
+^^^The “***Wireless Direct***” Category includes all calls originated by Customers and terminated to any of the wireless carriers with which US South has established direct peering relationships as set forth on the attached **Exhibit A**, as such Exhibit may be amended from time to time by US South with notice to [[Organization 1 Name]],
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^^provided that a particular entity shall remain on **Exhibit A** only as long as US South maintains a direct peering relationship with such entity;
+
+^^^The “***[[Organization 1 Name]]-to-[[Organization 1 Name]]***” Category includes all calls originating on a Customer telephone and terminating to a Customer telephone; and
+
+^^The “***Other***” Category includes all calls originated by Customers and delivered by [[Organization 1 Name]], its Affiliates and/or Designated Entities to US South for termination that are not included within the Wireless, Wireless Direct or [[Organization 1 Name]]-to-[[Organization 1 Name]] Categories.
+
+^US South will provide Domestic Long Distance Service to [[Organization 1 Name]], its Affiliates and Designated Entities in accordance with the terms of the Service Level Agreements set forth in Section 5.0 of this SA-1.
+
+^US South agrees that calls originating via a toll free number (*i.e.*, 800, 888, 866) (the “***[[Organization 7 Name]]***”) will be originated on US South’s network and transported via a dedicated facility for [[Organization 1 Name]], its Affiliates and/or Designated Entities to provide call treatment or other services. [[Organization 7 Name]]: (a) are limited to the contiguous forty-eight (48) states, Alaska, Hawaii, Puerto Rico and Canada; and (b) except for Canada, do not include international origination services. US South will provide [[Organization 1 Name]], its Affiliates and Designated Entities with toll-free originating numbers for business purposes.
+
+^^US South shall provide [[Organization 1 Name]], its Affiliates and Designated Entities with “travel talk” services (“***[[Organization 8 Name]]***”), which means that US South shall: (a) at the rates in effect as of the SA-1 Effective Date, or at mutually agreed rates in connection with any changes implemented by the parties following the SA-1 Effective Date, provide a direct connection between US South’s network and the network service provider of [[Organization 1 Name]], its Affiliates and/or Designated Entities; and (b) provide Domestic Long Distance Service for the termination of calls made by Customers originating in markets where [[Organization 1 Name]], its Affiliates and/or Designated Entities do not provide services, but where relationships with other wireless carriers have been established by [[Organization 1 Name]], its Affiliates and/or Designated Entities (excluding *** , it being the understanding of the parties that roaming calls in *** markets do not qualify as [[Organization 8 Name]], but rather as ordinary Domestic Long Distance Service calls) that enable the Customer to “roam” in those other carriers’ markets.
+
+^^**[[Organization 1 Name]] MARKETS, FEE SCHEDULE AND PAYMENT TERMS.**
+
+^**[[Organization 1 Name]] Markets.** For purposes of this SA-1, a “***[[Organization 1 Name]] Market***” means each of the following markets or subscriber coverage areas: [[Address 6: Address]], Miami, FL, Sacramento, CA, San Francisco, CA, Tampa, FL, Lakeland, FL, Daytona Beach, FL, Jacksonville, FL, Orlando, FL, Dallas, TX, Detroit, MI, Los Angeles, CA, Bakersfield, CA, New York, NY, Boston, MA, Las Vegas, NV and Philadelphia, PA; provided, however, that the list of [[Organization 1 Name]] Markets shall be automatically amended to include or exclude, as applicable, any new markets or coverage areas added to the [[Organization 1 Name]] network after the SA-1 Effective Date and any markets or coverage areas to which [[Organization 1 Name]], its Affiliates and/or Designated Entities no longer provide wireless services (provided that the term “[[Organization 1 Name]] Market” excludes customers of a Person that becomes an Affiliate or Designated Entity of [[Organization 1 Name]] following the SA-1 Effective Date by acquisition or similar transaction in which [[Organization 1 Name]] or one of its Affiliates acquires such Affiliate or Designated Entity after the SA-1 Effective Date).
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^**Fees; *** .**
+
+^^**DLD Rates.** Attached hereto as **Exhibit B** is a rate schedule for the Domestic Long Distance Service (by Category for each [[Organization 1 Name]] Market) (the rates included in such rate schedule are sometimes referred to herein as the “***DLD Rates***”). Subject to the further terms of this Section and the terms of **Sections 2.02(b)** and **2.02(c)**, commencing on the SA-1 Effective Date, [[Organization 1 Name]] will pay US South for all Domestic Long Distance Service (excluding Extended Service) at the DLD Rates. *** .
+
+*** . 
+
+^^**Competitiveness of DLD Rates.** If: (i) *** , then [[Organization 1 Name]] may provide US South with written notice thereof (the “***Carrier Notice***”). The Carrier Notice must set forth: (1) *** ; (2) *** ; (3) *** ; (4) *** ; and (5) such supporting documentation as is reasonably requested by US South and necessary for US South to evaluate *** .
+
+US South shall have *** days from receipt of a Carrier Notice to *** . If US South fails to implement *** , US South will either *** , or *** . If [[Organization 1 Name]], its Affiliates and/or Designated Entities deliver Domestic Long Distance Service minutes ***. 
+
+If US South fails to *** and [[Organization 1 Name]] *** domestic long distance calls *** , [[Organization 1 Name]] shall provide US South with prompt written notice if ***. If *** domestic long distance calls *** . 
+
+If US South fails to *** , if either [[Organization 1 Name]] or US South subsequently obtains information that *** , such party shall provide the other party with prompt written notice, which notice shall include *** and reasonably supporting documentation (such as *** ). Upon delivery to [[Organization 1 Name]] or receipt from [[Organization 1 Name]] of such notice, US South shall have the right to *** domestic long distance calls *** , provided that such *** . 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+If US South *** , US South shall have the right to *** to [[Organization 1 Name]] by *** upon providing to [[Organization 1 Name]] with written notice, which notice shall include *** and reasonably supporting documentation (such as *** ), provided that such *** . 
+
+^^**Modification to *** . If: (i) *** [[Organization 1 Name]], its Affiliates and/or Designated Entities to terminate domestic long distance service (excluding calls terminating in Alaska and Puerto Rico) *** during a given month and to which [[Organization 1 Name]], its Affiliates and/or Designated Entities *** ; and (ii) *** [[Organization 1 Name]], its Affiliates and/or Designated Entities; and (iii) *** [[Organization 1 Name]], its Affiliates and/or Designated Entities *** , then [[Organization 1 Name]] may provide US South with a Carrier Notice that sets forth: (1) *** ; (2) *** ; (3) *** ; (4) * ; and (5) *** .
+
+[[Organization 1 Name]] and US South shall cooperate in good faith to promptly mutually agree upon and add to or modify in writing the then existing definition of *** . US South shall have: (A) *** , not more than *** (with time being of the essence); or (B) if *** , not more than *** (with time being of the essence), to *** . If US South fails to implement *** within the applicable time period specified above in this paragraph, US South will either *** . If [[Organization 1 Name]], its Affiliates and/or Designated Entities deliver Domestic Long Distance Service minutes *** to US South for termination following expiration of the applicable time period specified above in this paragraph, then [[Organization 1 Name]] shall pay US South for such Domestic Long Distance Service minutes at the DLD Rates. *** . 
+
+If US South fails to *** and [[Organization 1 Name]] *** , [[Organization 1 Name]] shall provide US South with prompt written notice if *** domestic long distance calls ***. 
+
+If US South fails to *** but US South charges [[Organization 1 Name]] *** , if either [[Organization 1 Name]] or US South subsequently obtains information that *** , such party shall provide the other party with prompt written notice, which notice shall include *** and reasonably supporting documentation (such as *** ). Upon delivery to [[Organization 1 Name]] or receipt from [[Organization 1 Name]] of such notice, US South shall have the right *** , provided that such *** . 
+
+If US South *** and ***, US South shall have the right to *** to [[Organization 1 Name]] by *** upon providing to [[Organization 1 Name]] with written notice, which notice shall include *** and reasonably supporting documentation (such as *** ), provided that such *** . 
+
+^**Billing Increments.**
+
+All Domestic Long Distance Service (including Extended Service), [[Organization 7 Name]] and [[Organization 8 Name]] shall be billed in an initial increment of *** and in subsequent increments of *** each. 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^**Additional Fees.**
+
+[[Organization 10 Name]]. [[Organization 1 Name]] shall pay US South *** for [[Organization 7 Name]].
+
+^^[[Organization 8 Name]]. [[Organization 1 Name]] shall pay US South the following amounts for [[Organization 8 Name]]: *** .
+
+^^Extended Service. In respect of Extended Service, [[Organization 1 Name]] shall pay US South *** for Alaska calls and *** for Puerto Rico calls; provided that US South shall have the right to change such rates upon *** prior written notice to [[Organization 1 Name]].
+
+^^Additional Services. US South’s fees for Services outside the scope of the initial setup and provisioning of Domestic Long Distance Service contemplated by the fees described in Section 2.02 (“***Additional Services***”) are as follows:
+
+\centered **Description of**   \centered **Additional Service**      \centered **Fee**
+***      ***
+
+Customized prompts can be recorded telephonically by [[Organization 1 Name]] or its Personnel, or in studio by professional voice talent. Only Additional Services that are included in a written quotation accepted by [[Organization 1 Name]] in writing are chargeable to [[Organization 1 Name]]. 
+
+^**Payment Terms.**
+
+In accordance with the terms set forth in **Sections 2.02** and 2.04 of this SA-1, US South will invoice [[Organization 1 Name]] *** for all amounts owed under this SA-1. [[Organization 1 Name]] shall pay the invoiced amounts in accordance with, and subject to, the terms set forth in of the Terms and Conditions. 
+
+^^*** .
+
+^^**EXCLUSIVITY; AUDIT RIGHTS; REPORTING.**
+
+^^**Domestic Long Distance Service Routing Requirements.**
+
+^^During each month of the SA-1 Term, [[Organization 1 Name]] shall deliver to US South for termination at least *** of the domestic long distance service minutes generated by Customers from the [[Organization 1 Name]] Markets during the applicable month (subject to adjustment as provided in **subsection (d)** below), excluding domestic long distance service minutes that are: (i) attributable to Extended Service calls and, for the avoidance of doubt, calls terminating in Guam, Hawaii and the U.S. Virgin Islands; (ii) Bill and Keep Traffic; (iii) minutes generated under [[Organization 1 Name]]’ agreements with *** existing as of the SA-1 Effective Date (the “***Existing Bill and Keep Providers***”); (iv) excluded under the terms of **Sections 2.02(b) or 2.02(c)** of this SA-1; (v) [[Organization 1 Name]]-to-[[Organization 1 Name]] calls (such calls may be routed to a private network controlled and operated by [[Organization 1 Name]], its Affiliates and/or Designated Entities); (vi) made by Customers during a Transition Period (if any); (vii) made by Customers during any period that a Force Majeure Event prevents, hinders or delays US South’s performance of the Domestic Long Distance Service; and/or (viii) made by customers of a Person that becomes an Affiliate or Designated Entity of [[Organization 1 Name]] following the SA-1 Effective Date (the “***Traffic Routing Commitment***”). Subject to the foregoing terms of this Section 3.01(a), [[Organization 1 Name]], its Affiliates and Designated Entities shall have the right to utilize carriers other than US South to terminate domestic long distance traffic for Customers.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^During the SA-1 Term, all routing of Domestic Long Distance Service minutes by [[Organization 1 Name]], its Affiliates and Designated Entities must be accomplished through percentage routing of calls. [[Organization 1 Name]], its Affiliates and Designated Entities shall only route calls (excluding Bill and Keep Traffic) to long distance carriers other than US South *** , and for purposes of clarification only, *** . Notwithstanding the foregoing, [[Organization 1 Name]], its Affiliates and Designated Entities may *** domestic long distance service minutes to carriers with which [[Organization 1 Name]], its Affiliates and/or Designated Entities has a Bill and Keep Traffic relationship. For purposes of this SA-1, the defined term “***Bill and Keep Traffic***” means: *** ; provided, however, that Bill and Keep Traffic excludes the Existing Bill and Keep Providers.
+
+^^Subject to the further terms of this **subsection (c)**, [[Organization 1 Name]], its Affiliates and Designated Entities shall have the right to enter into relationships with other carriers including, without limitation, wireless carriers, to create Bill and Keep Traffic relationships, and on *** prior written notice to US South, [[Organization 1 Name]], its Affiliates and Designated Entities shall have the right to transfer Domestic Long Distance Service minutes to any such Bill and Keep Traffic provider. In respect of new Bill and Keep Traffic relationships contemplated by [[Organization 1 Name]], its Affiliates or Designated Entities following the SA-1 Effective Date which include a nominal cost to [[Organization 1 Name]], US South shall have *** to provide such Bill and Keep Traffic services to [[Organization 1 Name]] *** .
+
+^^Notwithstanding anything contained in Section 3.01(a) to the contrary, the Traffic Routing Commitment percentage shall be subject to adjustment as provided in this **subsection (d)**. If the actual number of Bill and Keep Traffic minutes (excluding the Existing Bill and Keep Traffic Providers) exceeds *** , then, commencing in the next month, the Traffic Routing Commitment percentage shall be *** . [[Organization 1 Name]] will provide prompt written notification to US South upon the actual number of Bill and Keep Traffic minutes exceeding *** (excluding the Existing Bill and Keep Traffic Providers).
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^**Audit Rights.**
+
+^^In accordance with the terms set forth in Section 9.3 of the Terms and Conditions, [[Organization 1 Name]] will allow US South to examine and audit the call detail records of [[Organization 1 Name]], its Affiliates and Designated Entities (“***CDRs***”), switch information and other relevant records that relate to the purchase of Domestic Long Distance Service to verify compliance with the Traffic Routing Commitment and/or to verify *** as of the date on which [[Organization 1 Name]] delivers a Carrier Notice to US South *** . If the audit reveals: (i) that [[Organization 1 Name]] breached its obligations to US South under this SA-1 by failing to comply with the Traffic Routing Commitment, for purposes of Section 9.3.3 of the Terms and Conditions, *** is greater than *** ; or (ii) that *** , US South shall have the right to *** given under this SA-1 to the extent necessary to cause *** , and for purposes of Section 9.3.3 of the Terms and Conditions, *** .
+
+^^In accordance with the terms set forth in Section 9.3 of the Terms and Conditions, US South will allow [[Organization 1 Name]] to examine and audit the CDRs of *** , US South’s switch information and other relevant records that relate to the amounts charged by US South to [[Organization 1 Name]] under this SA-1 or to verify US South’s compliance with the terms set forth in Section 2.06. For purposes of Section 9.3.3 of the Terms and Conditions, US South shall be obligated to reimburse [[Organization 1 Name]] for *** incurred in connection with such audit *** : (i) properly charge [[Organization 1 Name]] the cost of Domestic Long Distance Service (including Extended Service), [[Organization 7 Name]] and/or [[Organization 8 Name]] under this SA-1, but only if *** ; or (ii) comply with the terms set forth in Section 2.06, but only if the fees and expenses paid by [[Organization 1 Name]] under this SA-1 during the period of non-compliance would have been *** if US South had complied with such obligations.
+
+^^**CALL DETAIL RECORDS FOR DOMESTIC LONG DISTANCE TRAFFIC.**
+
+US South will provide to [[Organization 1 Name]] with each invoice its CDRs via electronic media. 
+
+^^**SERVICE LEVEL AGREEMENTS.**
+
+^**Defined Terms.**
+
+*** . 
+
+^*** .
+
+^^**Service Level Agreements.**
+
+***   *** .
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^**TROUBLE RESOLUTION AND REPORTING PROCEDURES.**
+
+Attached to this SA-1 as **Exhibit C** is US South’s “Trouble Reporting and Escalation Mechanisms,” which shall be applicable to the Domestic Long Distance Service, [[Organization 7 Name]] and [[Organization 8 Name]]. 
+
+^^**NETWORK INTERCONNECTION.**
+
+US South shall provide [[Organization 1 Name]], its Affiliates and Designated Entities with “local meet-point” interconnection location services (“***Local Meet-Point***”), which means that US South shall provide [[Organization 1 Name]], its Affiliates and Designated Entities with a local connection point between US South’s network and the [[Organization 1 Name]]’ network within each [[Organization 1 Name]] Market at a mutually agreed carrier-neutral hotel. [[Organization 1 Name]] will be responsible for *** . 
+
+US South agrees to make Available (as defined in this paragraph) for the termination of Domestic Long Distance Service its internet protocol soft-switch network for each [[Organization 1 Name]] Market. For purposes of this Section 7.0, “***Available***” means commercially available for use to provide or facilitate the Domestic Long Distance Service by connecting to [[Organization 1 Name]]’ soft-switch network via SIP (Session Initiated Protocol) interconnect and support of: (a) for the *** following the SA-1 Effective Date, the SIP G.711 protocol; and (b) commencing *** following the SA-1 Effective Date, for not less than *** of all Domestic Long Distance Service calls, the SIP G.729 protocol, and for not more than *** of all Domestic Long Distance Service calls, the SIP G.711 protocol. If US South fails to comply with the preceding requirements, [[Organization 1 Name]] may provide US South with written notice indicating such failure. US South shall have *** after receipt of such written notice to cure such failure and comply with such requirements. 
+
+^^**TERM AND TERMINATION OF SA-1; TRANSITION RIGHTS.**
+
+^**General.** Unless earlier terminated as provided in the Agreement (including in this SA-1), the term of this SA-1 will commence as of the SA-1 Effective Date and will continue for a period of five (5) years (plus the length of any Transition Period, the “***SA-1 Term***”). [[Organization 1 Name]] shall have the right, upon written notice given by [[Organization 1 Name]] any time during the third year of the SA-1 Term, to initiate a review by the parties of the domestic long distance program described in this SA-1. If [[Organization 1 Name]] exercises such right, US South and [[Organization 1 Name]] shall meet *** following exercise of such right *** to reach agreement on terms and conditions under which this SA-1 will continue in effect during the remainder of the SA-1 Term. If US South and [[Organization 1 Name]] are unable to agree upon such terms, [[Organization 1 Name]] shall have the right to terminate this SA-1 without penalty *** ; provided that: (a) the effective date of any termination under this Section 8.0 shall not be earlier than the last day of the forty-second (42nd) month of the SA-1 Term; and (b) [[Organization 1 Name]] must exercise such right no later than sixty (60) days after the end of the third year of the SA-1 Term.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^**Termination for Convenience.** Without in any way limiting or otherwise affecting [[Organization 1 Name]]’ rights under this Section, on ninety (90) days’ prior written notice to US South, which notice may not be given before that date which is twenty-seven (27) months following the SA-1 Effective Date, [[Organization 1 Name]] shall have the right to terminate this SA-1 for its convenience. In such event, [[Organization 1 Name]] shall pay to US South *** a termination fee equal to *** for each *** month *** that occurs after the thirtieth (30th) month following the SA-1 Effective Date up to and including the ninetieth (90th) day following US South’s receipt of [[Organization 1 Name]]’ notice of termination for convenience.
+
+^^**Transition Rights**.
+
+^^**Length of the Transition Period**. The length of the Transition Period under this SA-1 shall be: (i) if this SA-1 is terminated by [[Organization 1 Name]] pursuant to Section 8.02 of this SA-1, *** following the effective date of termination; (ii) if this SA-1 is terminated by [[Organization 1 Name]] following a US South Event of Default, *** following the effective date of termination; (iii) if this SA-1 is terminated by US South following a [[Organization 1 Name]] Event of Default, *** following the effective date of termination; (iv) if this SA-1 expires without renewal, *** following the date of expiration; and (v) if this SA-1 is terminated by [[Organization 1 Name]] pursuant to Section 8.01 of this SA-1, *** following the effective date of termination. Notwithstanding any contrary terms that may be contained herein, if [[Organization 1 Name]] does not purchase from US South during the Transition Period *** or more Domestic Long Distance Service minutes on average during a rolling *** period, the Transition Period automatically shall end at the end of the *** .
+
+^^**Pricing During the Transition Period**. The pricing set forth in this SA-1 shall not be modified by US South during the Transition Period except as set forth in Section 2.02(a).
+
+^^**SLAs During the Transition Period**. The SLAs and *** shall remain in effect during the Transition Period unless US South terminates this SA-1 following a [[Organization 1 Name]] Event of Default, in which case the SLAs and *** will apply only during *** .
+
+^^**Additional Transition Period Terms**. For the avoidance of doubt, [[Organization 1 Name]] shall continue to comply with the terms set forth in Section 3.01(b) of this SA-1 during the Transition Period. Additionally, the terms set forth in Section 2.06 of this SA-1 shall cease to apply: (i) if this SA-1 is terminated by [[Organization 1 Name]] pursuant to Section 8.02 of this SA-1, *** following the first day of the Transition Period; (ii) if this SA-1 is terminated by [[Organization 1 Name]] following a US South Event of Default, *** following the first day of the Transition Period; (iii) if this SA-1 is terminated by US South following a [[Organization 1 Name]] Event of Default, effective as of the first day of the Transition Period; and (iv) if this SA-1 expires without renewal, effective as of the first day of the Transition Period.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+^^***
+
+*** . 
+
+**IN WITNESS WHEREOF**, the parties have executed this SA-1 as of the SA-1 Effective Date. 
+
+**[[Organization 4 Name]]**            **[[Organization 1 Name]]**
+
+By:      \centered /s/ * * *            By:      \centered /s/
+
+Name:      \centered * * *            Name:      \centered * * *
+
+Title:      \centered * * *            Title:      \centered * * *
+
+Date:      \centered 3/31/10            Date:      \centered 3/31/10
+
+**INCOMM HOLDINGS, INC.**
+
+By:      \centered /s/
+
+Name:      \centered * * *
+
+Title:      \centered * * *
+
+Date:      \centered 3/31/10
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+\centered **EXHIBIT A TO EXHIBIT 1  SERVICE ADDENDUM ONE** 
+
+\centered **“WIRELESS DIRECT” DIRECT PEERING RELATIONSHIPS** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+\centered **EXHIBIT B TO EXHIBIT 1  SERVICE ADDENDUM ONE** 
+
+\centered **DLD RATES** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+\centered **EXHIBIT C TO EXHIBIT 1  SERVICE ADDENDUM ONE** 
+
+\centered **TROUBLE REPORTING AND ESCALATION MECHANISMS** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  DLD Service Addendum One 
+
+\centered **EXHIBIT 1** 
+
+\centered **SERVICE ADDENDUM TWO** 
+
+\centered **[[Organization 3 Name]]** 
+
+\centered [Attached Hereto] 
+
+[[Organization 2 Name]]  Exhibit 1      **SERVICE ADDENDUM TWO**
+
+\centered **EXHIBIT 1** 
+
+\centered **SERVICE ADDENDUM TWO** 
+
+\centered **[[Organization 3 Name]]** 
+
+This Service Addendum Two  [[Organization 3 Name]] (“***SA-2***”) is entered into this [[Date 2]] (the “***SA-2 Effective Date***”) pursuant to the Master Services Agreement by and between [[Organization 1 Name]] and InComm dated [[Date 1]], the terms of which are incorporated herein by this reference, and is by and among [[Organization 1 Name]], InComm and InComm’s Affiliate, [[Organization 4 Name]], a Colorado corporation (“***US South***). This SA-2 describes the terms and conditions under which US South will provide [[Organization 3 Name]] (hereinafter defined). *** . All capitalized terms used, but not otherwise defined, in this SA-2 shall have the meanings ascribed to them in the Terms and Conditions. Any telecommunications-related capitalized terms used, but not otherwise defined, in this SA-2 or in the Terms and Conditions shall have the meanings ascribed to them under generally applicable industry standards. 
+
+^^**[[Organization 3 Name]].**
+
+^US South will provide to [[Organization 1 Name]] international long distance termination for calls made by the end user subscribers of [[Organization 1 Name]], its Affiliates and Designated Entities (the “***Customers***”) originating on the [[Organization 1 Name]] network to the called automated number identification terminating outside the contiguous forty-eight (48) states, Alaska and Puerto Rico (“***[[Organization 3 Name]]***”). The parties intend that [[Organization 1 Name]] will route all [[Organization 3 Name]] calls made by Customers to separate international trunk groups established and maintained by the parties.
+
+^US South will provide the [[Organization 3 Name]] in accordance with the terms of the Service Level Agreements set forth in Section 6 of this SA-2.
+
+^^US South hereby designates the persons set forth in **Schedule 1.03** attached to this SA-2 in descending order of priority as to availability to serve as US South’s account representatives with [[Organization 1 Name]] regarding the provision of [[Organization 3 Name]] under this SA-2, and such persons shall be [[Organization 1 Name]]’ primary contacts regarding any business issues that may arise relating thereto (each, a “***US South Account Representative***”); provided, however, that any US South Account Representative may be replaced from time to time during the SA-2 Term upon notice to the primary [[Organization 1 Name]] Account Representative. [[Organization 1 Name]] hereby designates the persons set forth in **Schedule 1.03** attached to this SA-2 in descending order of priority as to availability to serve as [[Organization 1 Name]]’ account representatives with US South regarding the receipt of [[Organization 3 Name]] under this SA-2, and such persons shall be US South’s primary contacts regarding any business issues that may arise relating thereto (each, a “***[[Organization 1 Name]] Account Representative***”); provided, however, that any [[Organization 1 Name]] Account Representative may be replaced from time to time during the SA-2 Term upon notice to the primary US South Account Representative.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^^**FEES; *** .**
+
+^**[[Organization 3 Name]] Rates; *** .** [[Organization 1 Name]] shall pay US South for [[Organization 3 Name]] terminated by US South in each of the [[Organization 1 Name]] Destinations (as hereinafter defined) (for the avoidance of doubt, *** . [[Organization 1 Name]] shall pay US South *** .
+
+\centered *** Chart *** 
+
+*** . 
+
+^^**[[Organization 1 Name]] Destination Schedule.**
+
+^^General. The parties have developed and shall regularly maintain a schedule (the “***[[Organization 1 Name]] Destination Schedule***”) that reflects each [[Organization 1 Name]]-identified international destination respecting which US South is required to provide [[Organization 3 Name]] (each such destination, a “***[[Organization 1 Name]] Destination***”). For each [[Organization 1 Name]] Destination, the [[Organization 1 Name]] Destination Schedule must set forth: (a) the available options for delivering [[Organization 3 Name]] to such [[Organization 1 Name]] Destination (each, a “***Routing Choice***”); and (b) *** . Upon *** prior written notice to [[Organization 1 Name]] (or *** prior written notice to [[Organization 1 Name]] if US South receives *** notice *** , US South shall have the right to *** .
+
+^^Additional Destinations. [[Organization 1 Name]] shall have the right to add a [[Organization 1 Name]] Destination to the [[Organization 1 Name]] Destination Schedule upon written notice to a US South Account Representative, which notice shall set forth the additional destination requested by [[Organization 1 Name]] by city and country (the “***Additional Destination***”). For the *** period following US South’s implementation of the Additional Destination (which implementation US South shall complete within *** following its receipt of [[Organization 1 Name]]’ written request) (the “***Initial Period***”), US South will charge [[Organization 1 Name]] for [[Organization 3 Name]] provided to such Additional Destination at a rate equal to *** . *** (the “***Percentage Change***”).
+
+^^Deleted Destinations. [[Organization 1 Name]] may delete a [[Organization 1 Name]] Destination (the “***Deleted Destination***”) from the [[Organization 1 Name]] Destination Schedule upon *** prior written notice to the applicable US South Account Representative (the date on which any such deletion becomes effective, the “***Deletion Date***”). After expiration of such *** period, such Deleted Destination shall no longer be included in the [[Organization 1 Name]] Destination Schedule and [[Organization 1 Name]] shall not be liable to US South for the cost of calls terminated by US South to such Deleted Destination.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^^Dial Digit Changes. US South may modify destination dial codes as necessary from time to time. If US South wants to modify any destination dial code, it shall so notify [[Organization 1 Name]] in writing, and the parties shall adhere to the dial code modification procedures set forth in **Schedule 2.02**, as such Schedule may be modified from time to time by mutual written agreement of the parties, provided that [[Organization 1 Name]] shall always have the right to determine whether the destination dial code will continue to constitute a [[Organization 1 Name]] Destination.
+
+If [[Organization 1 Name]] rejects a dial code modification requested by US South, US South may create a new destination for purposes of managing the dial codes as long as such modification does not adversely affect the Customers or *** . The parties promptly shall appropriately update the [[Organization 1 Name]] Destination Schedule following creation of such new destination to include the information described in Section 2.02(a). 
+
+^**Percentage Change Calculations.**
+
+*** . 
+
+^**Additional Service Fees.** US South’s fees for additional Services outside the scope of the initial setup and provisioning of [[Organization 3 Name]] (“***Additional ILD Services***”) are as follows:
+
+*** Chart *** 
+
+Customized prompts can be recorded telephonically by [[Organization 1 Name]] or its Personnel, or in studio by professional voice talent. Only Additional ILD Services that are included in a written quotation accepted by [[Organization 1 Name]] in writing are chargeable to [[Organization 1 Name]]. 
+
+^**Payment Terms.** In accordance with the terms set forth in Section 2.01, US South will invoice [[Organization 1 Name]] *** for the [[Organization 3 Name]]. [[Organization 1 Name]] shall pay US South the invoiced amounts in accordance with, and subject to, the terms set forth in of the Terms and Conditions no later than *** days after the date on which [[Organization 1 Name]] receives the applicable invoice.
+
+^^*** **.**
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^^**EXCLUSIVITY; PARTIES’ AUDIT RIGHTS.**
+
+^^**[[Organization 1 Name]] International Long Distance Traffic Routing Requirements.**
+
+^^[[Organization 1 Name]] shall deliver to US South for termination during the SA-2 Term at least: *** (“***Percentage of Delivered ILD Calls***”). Notwithstanding the foregoing, the following international long distance calls generated by the Customers will be excluded from any calculations to determine compliance with the Percentage of Delivered ILD Calls: (i) calls made by Customers during a Transition Period (if any); (ii) calls made by Customers during any period that a Force Majeure Event prevents, hinders or delays US South from providing [[Organization 3 Name]]; (iii) calls made by customers of a Person that becomes an Affiliate or Designated Entity of [[Organization 1 Name]] following the SA-2 Effective Date; and (iv) calls made by Customers to a Particular Destination that is excluded from such calculation under the terms of Section 3.01(b).
+
+^^If [[Organization 1 Name]] wants US South to terminate international long distance calls to a particular [[Organization 1 Name]] Destination (the “***Particular Destination***”) via a carrier other than a carrier then included on the [[Organization 1 Name]] Destination Schedule for that Particular Destination, upon written notice to US South, [[Organization 1 Name]] shall have the right to require that US South interconnect with such carrier (an “***Additional Carrier***”). US South shall implement the Additional Carrier no later than *** after its receipt of [[Organization 1 Name]]’ written notice; provided, however, that for a period of *** following implementation of such Additional Carrier (the “***Trial Period***”), any calls terminated by such Additional Carrier shall not be: (i) *** ; or (ii) *** ; provided that [[Organization 1 Name]] shall pay US South *** . Within *** after commencement of the Trial Period, [[Organization 1 Name]] and US South shall meet (in person or telephonically) to review the performance of the Additional Carrier and, based upon such performance, determine whether to retain or remove the Additional Carrier for purposes of terminating Customers’ calls to the Particular Destination. If the parties agree to retain the Additional Carrier, the parties will further mutually determine whether calls terminated by such Additional Carrier will be subject to the SLAs and, if so, whether to implement any revisions or amendments to the SLAs as a result of the retention of the Additional Carrier. If [[Organization 1 Name]] wants to remove the Additional Carrier from the [[Organization 1 Name]] Destination Schedule, then such Additional Carrier shall be removed from the [[Organization 1 Name]] Destination Schedule, and [[Organization 1 Name]] shall not terminate any [[Organization 3 Name]] calls to the Particular Destination through such Additional Carrier for a period of *** following the date on which [[Organization 1 Name]] removes the Additional Carrier from the [[Organization 1 Name]] Destination Schedule. If [[Organization 1 Name]] wants to retain the Additional Carrier but US South does not want to retain the Additional Carrier, then the Additional Carrier shall be removed from the [[Organization 1 Name]] Destination Schedule and the Particular Destination thereafter shall be excluded from calculation of the Percentage of Delivered ILD Calls.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^^**US South *** Commitments.**
+
+Subject to Section 2.06 and the requirements of this Section 3.02, during the SA-2 Term US South and its Affiliates may terminate international long distance calls for other Persons in its and their sole and absolute discretion. However, if US South or any of its Affiliates *** to: 
+
+^^*** ,
+
+^^*** .
+
+The amounts described in the foregoing **subsections (a)** and (b) are sometimes referred to herein as the “***International Fees***”. *** . 
+
+Notwithstanding anything hereinabove to the contrary, in no event shall US South be obligated to remit International Fees to [[Organization 1 Name]] *** .. 
+
+US South shall pay the International Fees to [[Organization 1 Name]] no later than *** after the end of the month *** . US South shall have the right to *** the International Fees payable hereunder to account for *** ; (f) *** ; or (g) *** . US South’s obligation to pay [[Organization 1 Name]] the International Fees shall terminate effective as of the date on which this SA-2 expires or is terminated and up to *** of the Transition Period (if any) has expired, provided that US South shall remain obligated to pay [[Organization 1 Name]] any International Fees that accrued prior to such date. 
+
+^^**Parties’ Audit Rights.**
+
+^^In accordance with the terms set forth in Section 9.3 of the Terms and Conditions, [[Organization 1 Name]] will allow US South to examine and audit [[Organization 1 Name]]’ international call detail records (“***ILD CDRs***”), switch information and other relevant records that relate to [[Organization 1 Name]]’ compliance with its obligations under this SA-2 including, without limitation, routing, exclusivity and volume requirements, including the Percentage of Delivered ILD Calls. If the audit reveals that [[Organization 1 Name]] breached its obligations to US South under this SA-2 by failing to comply with any such requirements, for purposes of Section 9.3.3 of the Terms and Conditions, *** .
+
+^^In accordance with the terms set forth in Section 9.3 of the Terms and Conditions, US South will allow [[Organization 1 Name]] to examine and audit the ILD CDRs of US South’s Third Party carriers, US South’s switch information and other relevant records that relate to US South’s compliance with its obligations under this SA-2 including, without limitation, the amounts charged by US South to [[Organization 1 Name]] under this SA-2 and US South’s compliance with the terms set forth in **Sections 2.06** and 3.02. For purposes of Section 9.3.3 of the Terms and Conditions, US South shall be obligated to reimburse [[Organization 1 Name]] for *** incurred in connection with such audit if the audit reveals that US South failed to: (i) properly charge [[Organization 1 Name]] the cost of [[Organization 3 Name]] under this SA-2, but only if *** ; (ii) comply with the terms set forth in Section 2.06, but only if the fees and expenses paid by [[Organization 1 Name]] under this SA-2 during the period of non-compliance would have been *** if US South had complied with such obligations; (iii) comply with the terms set forth in Section 3.02; or (iv) comply with any of its other obligations under this SA-2, but only if such non-compliance was material.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^^**CALL DETAIL RECORDS; NETWORK INTERCONNECTION.**
+
+^US South will provide to [[Organization 1 Name]] with each invoice its ILD CDRs via electronic media.
+
+^^US South agrees to make Available (as defined in this paragraph) for the termination of [[Organization 3 Name]] its internet protocol soft-switch network for each [[Organization 1 Name]] Destination. For purposes of this Section 4.02, “***Available***” means commercially available for use to provide or facilitate the [[Organization 3 Name]] by connecting to [[Organization 1 Name]]’ soft-switch network via SIP (Session Initiated Protocol) interconnect and support of: (a) for the first *** following the SA-2 Effective Date, the SIP G.711 protocol; and (b) commencing *** following the SA-2 Effective Date, for not less than *** of all [[Organization 3 Name]] calls, the SIP G.729 protocol, and for not more than *** of all [[Organization 3 Name]] calls, the SIP G.711 protocol. If US South fails to comply with the preceding requirements, [[Organization 1 Name]] may provide US South with written notice indicating such failure. US South shall have *** after receipt of such written notice to cure such failure and comply with such requirements.
+
+^^**REPORTING.**
+
+^**General.** US South will provide to [[Organization 1 Name]] the following reports in electronic form on a daily basis: (a) [[Organization 1 Name]] Traffic Report Extraction; and (b) [[Organization 1 Name]] MDN Report Final. Unless the parties agree to any variations, such reports shall be in the same form, and include the same contents, as the versions of such reports that were provided by US South to [[Organization 1 Name]] prior to the SA-2 Effective Date. Additionally, US South must provide to [[Organization 1 Name]] daily reports with respect to [[Organization 3 Name]] traffic and routing information, *** (which, for the avoidance of doubt, shall only include calls that are actually delivered to US South’s network) segregated by [[Organization 1 Name]] Destination, and *** segregated by carrier that received [[Organization 3 Name]] traffic during the preceding twenty-four (24) hour period. A sample of such daily reports are set forth in **Schedule 5.01**.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^^**Additional Reports.** [[Organization 1 Name]] may request that US South provide it with additional reports, provided that any such request for additional reporting must be in writing and shall include in reasonable detail: (a) the information to be included in such report; (b) the period of time to be covered by such report; (c) the frequency of such report; and (d) any other information that may be reasonably pertinent to US South’s preparation of such report. Promptly following receipt of such written request (but not later than ten (10) days following receipt of such request), US South shall advise [[Organization 1 Name]] if it can provide such report, and if US South cannot provide the report requested, the parties shall work together cooperatively to determine if an alternative to such report can be provided by US South to the reasonable satisfaction of [[Organization 1 Name]]. All [[Organization 1 Name]]-requested additional reports shall be provided *** to [[Organization 1 Name]] unless US South *** to provide such report, or *** , in which case the parties shall negotiate in good faith the *** .
+
+^^**SERVICE LEVEL AGREEMENTS.**
+
+^**Defined Terms.**
+
+*** **.** 
+
+^*** **.**
+
+^^**Service Level Agreements.**
+
+^^***
+
+^^***
+
+^^***
+
+^^***
+
+^^***
+
+^^***
+
+^^**Technical Support.** Without additional cost or expense to [[Organization 1 Name]], US South shall provide technical support twenty-four (24) hours per day, seven (7) days per week, three hundred sixty-five days (365) per year.
+
+^^**TROUBLE RESOLUTION AND REPORTING PROCEDURES.**
+
+^^Attached to this SA-2 as **Exhibit A** is US South’s “Trouble Reporting and Escalation Mechanisms,” which are applicable to the [[Organization 3 Name]].
+
+^^**TERM AND TERMINATION OF SA-2; TRANSITION RIGHTS.**
+
+^**General.** Unless earlier terminated as provided in the Agreement (including in this SA-2), the term of this SA-2 shall commence as of the SA-2 Effective Date and will continue for a period of five (5) years (plus the length of any Transition Period, the “***SA-2 Term***”). [[Organization 1 Name]] shall have the right, upon written notice given by [[Organization 1 Name]] any time during the third year of the SA-2 Term, to initiate a review by the parties of the international long distance program described in this SA-2. If [[Organization 1 Name]] exercises such right, US South and [[Organization 1 Name]] shall meet *** following exercise of such right *** to reach agreement on terms and conditions under which this SA-2 will continue in effect during the remainder of the SA-2 Term. If US South and [[Organization 1 Name]] are unable to agree upon such terms, [[Organization 1 Name]] shall have the right to terminate this SA-2 without penalty *** ; provided that: (a) the effective date of any termination under this Section 8.0 shall not be earlier than the last day of the forty-second (42nd) month of the SA-2 Term; and (b) [[Organization 1 Name]] must exercise such right no later than after the end of the third year of the SA-2 Term.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+^**Termination for Convenience.** Without in any way limiting or otherwise affecting [[Organization 1 Name]]’ rights under this Section, on ninety (90) days’ prior written notice to US South, which notice may not be given before that date which is twenty-seven (27) months following the SA-2 Effective Date, [[Organization 1 Name]] shall have the right to terminate this SA-2 for its convenience. In such event, [[Organization 1 Name]] shall pay to US South *** a termination fee equal to *** for each *** month *** that occurs after the thirtieth (30th) month following the SA-2 Effective Date up to and including the ninetieth (90th) day following US South’s receipt of [[Organization 1 Name]]’ notice of termination for convenience.
+
+^^**Transition Rights.**
+
+^^**Length of the Transition Period**. The length of the Transition Period under this SA-2 shall be: (i) if this SA-2 is terminated by [[Organization 1 Name]] pursuant to Section 8.02 of this SA-2, *** following the effective date of termination; (ii) if this SA-2 is terminated by [[Organization 1 Name]] following a US South Event of Default, *** following the effective date of termination; (iii) if this SA-2 is terminated by US South following a [[Organization 1 Name]] Event of Default, *** following the effective date of termination; (iv) if this SA-2 expires without renewal, *** following the date of expiration; and (v) if this SA-2 is terminated by [[Organization 1 Name]] pursuant to Section 8.01 of this SA-2, *** following the effective date of termination. Notwithstanding any contrary terms that may be contained in this Section 8.03(a), if [[Organization 1 Name]] does not purchase from US South during the Transition Period *** or more [[Organization 3 Name]] minutes on average during *** , the Transition Period automatically shall end at the end of the *** .
+
+^^**Pricing During the Transition Period**. The pricing set forth in this SA-2 shall remain in effect during the Transition Period.
+
+^^**SLAs During the Transition Period**. The SLAs *** shall remain in effect during the Transition Period unless US South terminates this SA-2 following a [[Organization 1 Name]] Event of Default, in which case the SLAs *** will apply only during *** of the Transition Period.
+
+^^**Additional Transition Period Terms**. The terms set forth in Section 2.06 of this SA-2 shall cease to apply: (i) if this SA-2 is terminated by [[Organization 1 Name]] pursuant to Section 8.02 of this SA-2, *** following the first day of the Transition Period; (ii) if this SA-2 is terminated by [[Organization 1 Name]] following a US South Event of Default, *** following the first day of the Transition Period; (iii) if this SA-2 is terminated by US South following a [[Organization 1 Name]] Event of Default, effective as of the first day of the Transition Period; and (iv) if this SA-2 expires without renewal, effective as of the first day of the Transition Period.
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+**IN WITNESS WHEREOF**, the parties have executed this SA-2 as of the SA-2 Effective Date. 
+
+**[[Organization 4 Name]]**            **[[Organization 1 Name]]**
+
+By:      \centered /s/ * * *            By:      \centered /s/ * * *
+
+Name:      \centered * * *            Name:      \centered * * *
+
+Title:      \centered * * *            Title:      \centered * * *
+
+Date:      \centered 3/31/10            Date:      \centered 3/31/10
+
+**INCOMM HOLDINGS, INC.**
+
+By:      \centered /s/ * * *
+
+Name:      \centered * * *
+
+Title:      \centered * * *
+
+Date:      \centered 3/31/10
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+\centered **SCHEDULE 1.03 TO EXHIBIT 1  SERVICE ADDENDUM TWO** 
+
+\centered **ACCOUNT REPRESENTATIVES** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+\centered **SCHEDULE 2.02 TO EXHIBIT 1  SERVICE ADDENDUM TWO** 
+
+\centered **PROCEDURES FOR MODIFYING DESTINATION DIAL CODES** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+\centered **SCHEDULE 5.01 TO EXHIBIT 1  SERVICE ADDENDUM TWO** 
+
+\centered **FORM OF DAILY REPORT** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two 
+
+\centered **EXHIBIT A TO EXHIBIT 1  SERVICE ADDENDUM TWO** 
+
+\centered **TROUBLE REPORTING AND ESCALATION MECHANISMS** 
+
+\centered *** 
+
+[[Organization 2 Name]]     
+
+Exhibit 1  ILD Service Addendum Two

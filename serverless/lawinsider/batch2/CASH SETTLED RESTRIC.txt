@@ -1,0 +1,126 @@
+\centered  
+
+\centered **CASH SETTLED RESTRICTED STOCK UNIT AGREEMENT WITH EMPLOYEE** 
+
+THIS AGREEMENT, dated as of 02/25/2010, between [[Organization 1 Name]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [[Employee]] (the “Employee”). 
+
+\centered W I T N E S S E T H 
+
+In consideration of the mutual promises and covenants made herein and the mutual benefits to be derived herefrom, the parties hereto agree as follows: 
+
+^Grant, Vesting and Forfeiture of Restricted Stock Units. 
+
+^^Grant. Subject to the provisions of this Agreement and to the provisions of the [[Organization 1 Name]] Stock Incentive Plan of 2007 (the “Plan”), the Company hereby grants to the Employee, as of 02/25/2010 (the “Grant Date”), 100,445.00 Restricted Stock Units (the “Restricted Stock Units”), each with respect to one share of common stock of the Company, par value $[[USD Value 1: Number]] per Share (“Common Stock”). All capitalized terms used herein, to the extent not defined, shall have the meaning set forth in the Plan. 
+
+^^Vesting during the Restriction Period. Subject to the terms and conditions of this Agreement, the Restricted Stock Units shall vest and no longer be subject to any restriction on the anniversaries of the Grant Date set forth below (the period during which restrictions apply, the “Restriction Period”): 
+
+\centered Vesting Dates   \centered (Anniversaries of Grant Date)      Percentage of Total Grant Vesting
+First Anniversary      [[Percentage 1: Number]]%
+Second Anniversary      [[Percentage 1]]%
+Third Anniversary      [[Percentage 2: Number]]%
+
+^^Termination of Employment. Upon the Employee’s Termination of Employment for any reason (other than due to the Employee’s death, Disability, Retirement or Termination of Employment by the Company without Cause) during the Restriction Period, all Restricted Stock Units still subject to restriction shall be forfeited. Upon the Employee’s Termination of Employment during the Restriction Period due to the Employee’s death, Disability or Retirement, the restrictions applicable to the Restricted Stock Units shall lapse, and such Restricted Stock Units shall become free of all restrictions and become fully vested. Upon the Employee’s Termination of Employment during the Restriction Period by the Company without Cause, the Employee shall vest in an additional number of Restricted Stock Units equal to the product of (x) the number of shares of Restricted Stock Units that are subject to each vesting tranche during the Restriction Period that have not yet vested as of the date of the Termination of Employment and (y) a fraction, the numerator of which is the number of full and partial months in the Restriction Period from the Grant Date until the date of Termination of Employment and the denominator of which is the total number of months in the Restriction Period for such tranche. For purposes of this Agreement, “Retirement” shall mean the Employee’s Termination of Employment after the attainment of age 65 or the attainment of age 55 and at least 15 years of continuous service**[**, in each case, only if such Termination of Employment is approved as a “Retirement” by (i) the Committee in the case of an Employee who is subject to Section 16 of the Exchange Act or a “covered employee” within the meaning of Section 162(m) of the Code or (ii) the Chief Executive Officer or Senior Vice President, Human Resources, in the case of all other individuals**]**. For purposes of this Agreement, employment with the Company shall include employment with the Company’s Affiliates and its successors. Nothing in this Agreement or the Plan shall confer upon the Employee any right to continue in the employ of the Company or any of its Affiliates or interfere in any way with the right of the Company or any such Affiliates to terminate the Employee’s employment at any time. 
+
+^Settlement of Units. 
+
+Subject to Section 8 (pertaining to the withholding of taxes), as soon as practicable after the date on which the Restriction Period expires, and in no event later than 30 days after such date, the Company shall deliver to the Employee or his or her personal representative, an amount in cash equal to the Fair Market Value of a Share on the date of settlement for each Share subject to the Restricted Stock Unit. 
+
+^Nontransferability of the Restricted Stock Units. 
+
+During the Restriction Period and until such time as the Restricted Stock Units are ultimately settled as provided in Section 2 above, the Restricted Stock Units shall not be transferable by the Employee by means of sale, assignment, exchange, encumbrance, pledge, hedge or otherwise. Any purported or attempted transfer of such rights shall be null and void. 
+
+^Rights as a Stockholder. 
+
+During the Restriction Period, the Employee shall not be entitled to any rights of a stockholder with respect to the Restricted Stock Units (including, without limitation, any voting rights), *provided* that with respect to any dividends paid on Shares underlying the Restricted Stock Units, such dividends will be reinvested into additional Restricted Stock Units, which shall vest at such time as the underlying Restricted Stock Units vest and be settled in cash at that time. 
+
+^Adjustment; Change in Control. 
+
+In the event of certain transactions during the Restricted Period, the Restricted Stock Units shall be subject to adjustment as provided in Section 3(d) of the Plan or any applicable successor provision under the Plan. In the event of a Change in Control before the Restricted Stock Units vest, the restrictions applicable to the Restricted Stock Units shall lapse, such Restricted Stock Units shall become free of all restrictions and become fully vested, consistent with Section 10(a)(iii) of the Plan, and shall be settled within 5 days following the Change in Control; *provided, however*, that any Restricted Stock Units that constitute “nonqualified deferred compensation” as defined under Section 409A of the Code shall not be settled upon such Change in Control unless the Change in Control constitutes a “change in control event” within the meaning of Section 409A of the Code. 
+
+^Payment of Transfer Taxes, Fees and Other Expenses. 
+
+The Company agrees to pay any and all original issue taxes and stock transfer taxes that may be imposed on the settlement of the Restricted Stock Units, together with any and all other fees and expenses necessarily incurred by the Company in connection therewith. 
+
+^Other Restrictions. 
+
+^^The Restricted Stock Units shall be subject to the requirement that, if at any time the Committee shall determine that (i) the listing, registration or qualification of the Shares subject or related thereto upon any securities exchange or under any state or federal law is required, or (ii) the consent or approval of any government regulatory body is required, then in any such event, the grant of Restricted Stock Units shall not be effective unless such listing, registration, qualification, consent or approval shall have been effected or obtained free of any conditions not acceptable to the Committee. 
+
+^^If the Employee is a Restricted Person under the Company’s Insider Trading Policy (as in effect from time to time and any successor policies), the Employee shall be required to obtain pre-clearance from the General Counsel or Securities Counsel of the Company prior to purchasing or selling any of the Company’s securities and may be prohibited from selling such securities other than during an open trading window. The Employee further acknowledges that, in its discretion, the Company may prohibit the Employee from selling such securities even during an open trading window if the Company has concerns over the potential for insider trading. 
+
+^Taxes and Withholding. 
+
+No later than the date as of which an amount first becomes includible in the gross income of the Employee for federal, state, local, foreign income, employment or other tax purposes with respect to any Restricted Stock Units, the Employee shall pay to the Company, or make arrangements satisfactory to the Company regarding the payment of, all federal, state, local and foreign taxes that are required by applicable laws and regulations to be withheld with respect to such amount. The obligations of the Company under this Agreement shall be conditioned on compliance by the Employee with this Section 8, and the Company shall, to the extent permitted by law, have the right to deduct any such taxes from any payment otherwise due to the Employee, including deducting such amount from the delivery of cash upon settlement of the Restricted Stock Units that gives rise to the withholding requirement. 
+
+^Notices. 
+
+All notices and other communications under this Agreement shall be in writing and shall be given by hand delivery to the other party or by facsimile, overnight courier, or registered or certified mail, return receipt requested, postage prepaid, addressed as follows: 
+
+If to the Employee: 
+
+At the most recent address 
+
+on file at the Company. 
+
+If to the Company: 
+
+[[Organization 1 Name]] 
+
+[[Address 1: Address]] 
+
+Attention: Executive Compensation, Human Resources 
+
+or to such other address or facsimile number as any party shall have furnished to the other in writing in accordance with this Section 9. Notices and communications shall be effective when actually received by the addressee. Notwithstanding the foregoing, the Employee consents to electronic delivery of documents required to be delivered by the Company under the securities laws. 
+
+^Effect of Agreement. 
+
+This Agreement is personal to the Employee and, without the prior written consent of the Company, shall not be assignable by the Employee otherwise than by will or the laws of descent and distribution. This Agreement shall inure to the benefit of and be enforceable by the Employee’s legal representatives. This Agreement shall inure to the benefit of and be binding upon the Company and its successors and assigns. 
+
+^Laws Applicable to Construction; Consent to Jurisdiction. 
+
+The interpretation, performance and enforcement of this Agreement shall be governed by the laws of the State of Delaware without reference to principles of conflict of laws, as applied to contracts executed in and performed wholly within the State of Delaware. In addition to the terms and conditions set forth in this Agreement, the Restricted Stock Units are subject to the terms and conditions of the Plan, which is hereby incorporated by reference. 
+
+^Severability. 
+
+The invalidity or enforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement. 
+
+^Conflicts and Interpretation. 
+
+In the event of any conflict between this Agreement and the Plan, the Plan shall control. In the event of any ambiguity in this Agreement, or any matters as to which this Agreement is silent, the Plan shall govern including, without limitation, the provisions thereof pursuant to which the Committee has the power, among others, to (a) interpret the Plan, (b) prescribe, amend and rescind rules and regulations relating to the Plan, and (c) make all other determinations deemed necessary or advisable for the administration of the Plan. The Employee hereby acknowledges that a copy of the Plan has been made available to him and agrees to be bound by all the terms and provisions thereof. The Employee and the Company each acknowledges that this Agreement (together with the Plan) constitutes the entire agreement and supersedes all other agreements and understandings, both written and oral, among the parties or either of them, with respect to the subject matter hereof. 
+
+^Amendment. 
+
+The Company may modify, amend or waive the terms of the Restricted Stock Unit award, prospectively or retroactively, but no such modification, amendment or waiver shall materially impair the rights of the Employee without his or her consent, except as required by applicable law, stock exchange rules, tax rules or accounting rules. The waiver by either party of compliance with any provision of this Agreement shall not operate or be construed as a waiver of any other provision of this Agreement, or of any subsequent breach by such party of a provision of this Agreement. 
+
+^Section 409A. 
+
+It is the intention of the Company that the Restricted Stock Units shall either (a) not constitute “nonqualified deferred compensation” as defined under Section 409A of the Code or (b) comply in all respects with the requirements of Section 409A of the Code and the regulations promulgated thereunder, such that no delivery of cash pursuant to this Agreement will result in the imposition of taxation or penalties as a consequence of the application of Section 409A of the Code. Cash in respect of any Restricted Stock Units that (i) constitute “nonqualified deferred compensation” as defined under Section 409A of the Code and (ii) vest as a consequence of the Employee’s termination of employment shall not be delivered until the date that the Employee incurs a “separation from service” within the meaning of Section 409A of the Code (or, if the Employee is a “specified employee” within the meaning of Section 409A of the Code and the regulations promulgated thereunder, the date that is six months following the date of such “separation from service”). If the Company determines after the Grant Date that an amendment to this Agreement is necessary to ensure the foregoing, it may, notwithstanding Section 14, make such an amendment, effective as of the Grant Date or any later date, without the consent of the Employee. 
+
+^Headings. 
+
+The headings of Sections herein are included solely for convenience of reference and shall not affect the meaning or interpretation of any of the provisions of this Agreement. 
+
+^Counterparts. 
+
+This Agreement may be executed in counterparts, which together shall constitute one and the same original. 
+
+^Waiver and Release. 
+
+In consideration for the granting of the Restricted Stock Units, the Employee hereby waives any and all claims whether known or unknown that the Employee may have against the Company and its affiliates and their respective directors, officers, shareholders, agents or employees arising out of, in connection with or related to the Employee’s employment, except for (1) claims under this Agreement, (2) claims that arise after the date hereof and obligations that by their terms are to be performed after the date hereof, (3) claims for compensation or benefits under any compensation or benefit plan or arrangement of the Company and its affiliates, (4) claims for indemnification respecting acts or omissions in connection with the Employee’s service as a director, officer or employee of the Company or its affiliates, (5) claims for insurance coverage under directors’ and officers’ liability insurance policies maintained by the Company or its affiliates, or (6) any right the Employee may have to obtain contribution in the event of the entry of judgment against the Company as a result of any act or failure to act for which both the Employee and the Company or any of its affiliates are jointly responsible. The Employee waives any and all rights under the laws of any state (expressly including but not limited to Section 1542 of the California Civil Code), which is substantially similar in wording or effect as follows: 
+
+***“A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the Release, which if known by him must have materially affected his settlement with the debtor.”*** 
+
+This waiver specifically includes all claims under the Age Discrimination in Employment Act of 1967, as amended. The Employee (a) acknowledges that he has been advised to consult an attorney in connection with entering into this Agreement; (b) has twenty-one (21) days to consider this waiver and release; and (c) may revoke this waiver and release within seven (7) days of execution upon written notice to Legal Counsel, Employment and Labor, [[Organization 2 Name]], [[Organization 1 Name]], [[Address 2: Address]]. The waiver and release will not become enforceable until the expiration of the seven (7) day period. In the event that the waiver and release is revoked during such seven (7) day period, the grant shall be void and of no further effect. 
+
+IN WITNESS WHEREOF, as of the date first above written, the Company has caused this Agreement to be executed on its behalf by a duly authorized officer and the Employee has hereunto set the Employee’s hand. 
+
+_______________________      /s/ [[Employee]]
+04/14/2010      [[Employee]]
+
+[[Organization 1 Name]]
+
+[[[[Organization 1 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] First Name]] [[[[Organization 1 Name]] Last Name]]
+Title: [[[[Organization 1 Name]] Title]]}}
+
+**[[Person 1 First Name]] [[Person 1 Last Name]]**  **VP, Executive and Corporate**  **Compensation**

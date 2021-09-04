@@ -1,0 +1,711 @@
+\centered **THIRD AMENDED AND RESTATED SHAREHOLDERS AGREEMENT**
+
+This Third Amended and Restated Shareholders Agreement (**“*Agreement*”**)is made and entered into as of this [[Date 1: Date]], by and among REAL D, a [[State of Formation: State]] [[Organization: EntityType]] (the **“*Company*”**)*,* the holders of Series A Preferred Stock listed on ***Exhibit A*** hereto (the **“*Series A Holders*”**)*,* the holders of Series B Preferred Stock listed on ***Exhibit* A** hereto (the **“*Series B Holders*”**)the holders of Series C Preferred Stock listed on ***Exhibit A*** hereto (the **“*Series C Holders*”**)*,* the holders of the Series D Preferred Stock listed on ***Exhibit A*** hereto (the **“*Series D Holders*”***,* and collectively with the Series A Holders, the Series B Holders and the Series C Holders, the **“*Investors*”**)*,* [[Founders]], [[Party 2]] (together with [[Founders]], the **“*Founders*”**)*,* and any additional shareholder who becomes a party hereto or is bound hereby as provided herein (collectively with the Founders and the Investors, the **“*Shareholders*”**)with reference to the following facts:
+
+\centered **RECITALS**
+
+**WHEREAS**, each of the Shareholders holds shares of the capital stock of the Company (or options or warrants therefor) or entered into a Series D Preferred Stock Purchase Agreement dated [[Date 2: Date]] (the **“*Purchase Agreement*”**)with the Company to acquire shares of Series D Convertible Preferred Stock, no par value per share, of the Company (the **“*Series D Preferred*”**);
+
+**WHEREAS,** the Investors other than the Series D Holders (the **“*Prior Investors*”**)are holders of outstanding shares of the Company’s Series A Preferred Stock, Series B Preferred Stock or Series C Preferred Stock (the **“*Series C Preferred*”**)issued by the Company to such Prior Investors pursuant to a Series A Preferred Stock Purchase Agreement by and among the Company, the Founders and such Prior Investors dated as of [[Date 3: Date]] (the **“*Series A Agreement*”**)*,* pursuant to a Series B Preferred Stock Purchase Agreement by and among the Company, the Founders and such Prior Investors dated as of [[Date 4: Date]] (the **“*Series B Agreement*”**)*,* or pursuant to a Series C Purchase Agreement by and among the Company and such Prior Investors dated as of [[Date 5: Date]] (the **“*Series C Agreement*”**)*,* and such parties have also been granted certain information rights, rights of refusal, co-sale rights, participation rights, and other rights under a Second Amended and Restated Shareholders Agreement by and among the Company, the Founders and the Prior Investors (the **“*Prior Agreement*”**)*;* and
+
+**WHEREAS,** to induce the Series D Holders to purchase the shares of Series D Preferred from the Company and as a condition to the Series D Holders’ acquisition of the Company’s capital stock under the Purchase Agreement, the Company, the Founders and the Prior Investors now desire to enter into this Agreement in order to amend, restate and replace their rights and obligations under the Prior Agreement with the rights and obligations set forth in this Agreement. Section 12.4of the Prior Agreement provides that the Prior Agreement may be amended by the written consent of the Company, the parties to the Prior Agreement holding a majority of the voting power of the Common Stock then held by such parties, and the parties to the Prior Agreement holding a majority of the voting power of the Preferred Stock then held by such parties.
+
+\centered **AGREEMENT**
+
+**NOW, THEREFORE,** in consideration of the foregoing recitals and the mutual promises herein contained, and for other consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree as follows:
+
+1.**Certain Definitions.**
+
+1.1For purposes of this Agreement, the following terms have the following meanings:
+
+(a)**“*Affiliate*”**means a Person that (a) directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with a specified Person, or (b) is an officer, director, general partner, trustee or manager of such Person, or of a Person described in clause (a) of this sentence. A Person shall be **“*controlled by*”**another Person if the other possesses, directly or indirectly, power either (1) to vote [[Percentage 1: Number]]% or more of the securities having ordinary voting power for the election of directors of such Person, or (2) to direct or cause the direction of the management and policies of such Person whether by contract or otherwise.
+
+(b)**“*Charter*”**means the Company’s Third Amended and Restated Articles of Incorporation, as amended from time to time.
+
+(c)**“*Common Stock*”**means common stock of the Company.
+
+(d)**“*Offered Stock*”**means all Stock proposed to be Transferred by a Shareholder.
+
+(e)**“*Outstanding Common Stock*”**means the then outstanding shares of the Company’s Common Stock, on a fully-diluted, as-converted, as-exercised, as-exchanged basis, including all outstanding convertible securities and all options, warrants and rights to acquire Common Stock, regardless of whether such options, warrants and rights to acquire Common Stock are vested or unvested.
+
+(f)**“*Person*”**means an individual, a partnership, a corporation, a limited liability company, an association, a joint stock company, a trust, a joint venture, an unincorporated organization, or other entity, or a governmental entity (or any department, agency or political subdivision thereof).
+
+(g)**“*Preferred Stock*”**means preferred stock of the Company.
+
+(h)**“*Shamrock*”**means [[Organization 1 Name]], L.P., and its Affiliates, successors and permitted assigns.
+
+(i)**“*Stock*”**means and includes all shares of the capital stock and other securities (including, without limitation, options, warrants and other rights to acquire
+
+(whether through exercise, exchange, conversion or otherwise) capital stock) of the Company and any other shares or securities thereafter issued in respect of such shares in any reorganization, recapitalization, reclassification, readjustment or other change in the capital structure of the Company.
+
+(j)**“*Transfer*”**and **“*Transferred*”**mean and include any direct or indirect sale, assignment, encumbrance, hypothecation, pledge, conveyance in trust, gift, transfer by bequest, devise or descent, or other transfer or disposition of any kind, including but not limited to transfers to receivers, levying creditors, trustees or receivers in bankruptcy proceedings or general assignees for the benefit of creditors, whether voluntary or by operation of law, directly or indirectly, including without limitation a transfer incident to divorce, legal separation, bankruptcy or similar proceeding, death or otherwise, but except for (each, a **“*Permitted Transfer*”**):
+
+^^^any transfers of Stock (whether by gift or otherwise) during a Shareholder’s lifetime or on a Shareholder’s death by will or intestacy to such Shareholder’s “immediate family” (as defined below) or to a trust for the benefit of such Shareholder or such Shareholder’s immediate family, or to a Shareholder’s heirs, estate, administrators or executors. For purposes of this Agreement, the term “immediate family” means Shareholder’s spouse, the lineal descendant or antecedent, father, mother, brother or sister, child, adopted child or grandchild or adopted grandchild of Shareholder or Shareholder’s spouse, or the spouse of any child, adopted child, grandchild or adopted grandchild of Shareholder or Shareholder’s spouse;
+
+^^^any transfer of Stock by a Shareholder made: (1) pursuant to a statutory merger or statutory consolidation of the Company with or into another entity or entities; (2) pursuant to and in accordance with the Buy-Sell Agreement dated [[Date 6: Date]] by and among the Company and the Founders (**“*Buy-Sell Agreement*”**)*,* or (3) pursuant to the winding up and dissolution of the Company;
+
+^^^any transfers of Stock by Shamrock to an Affiliate thereof or to its members, partners, former partners, or former members; and
+
+^^^any transfers of Stock pursuant to such Shareholder’s exercise of its right of refusal and/or right of co-sale hereunder.
+
+2.**Transfers.**
+
+^^**Generally.** Before any Shareholder may effect any Transfer of any Stock, such Shareholder (the **“*Selling Shareholder*”**)must give to the Company a written notice signed by the Selling Shareholder (the **“*Selling Shareholder’s Notice*”**)and must comply with Section 2.2and Section 3and, if a Founder, Section 4*.* The Selling Shareholder’s Notice shall state: (a) the Selling Shareholder’s bona fide intention to transfer such Offered Stock; (b) the number of shares of Offered Stock proposed to be transferred to each proposed purchaser or other transferee (**“*Proposed Transferee*”**)*;* (c) the name, address and relationship, if any, to the Selling Shareholder of each Proposed Transferee; and (d) the bona fide cash price or, in reasonable detail, other consideration, per share for which the Selling Shareholder proposes to transfer such
+
+Offered Stock to each Proposed Transferee (the **“*Offered Price*”**)and the proposed time and date of payment and other relevant terms of the proposed sale. Upon the request of the Company, the Shareholder will promptly furnish to the Company such other information as may be reasonably requested to establish that the offer and Proposed Transferee(s) are bona fide. By way of clarification, the terms of ***Sections 2.1, 3***and 4shall not apply to Permitted Transfers but Section 2.2shall apply to Permitted Transfers.
+
+^^Prohibited Transfers. No Transfers of Stock and no Permitted Transfers of Stock shall be permitted unless (a) they are made in accordance with the applicable terms and conditions of this Agreement, (b) the transferee(s) (if other than the Company) agree to hold the Stock being Transferred subject to all of the provisions of this Agreement to the same extent as the transferor, and (c) if such transferee is not already a party hereto, such transferee has executed and delivered to the Company an instrument in the form reasonably required by the Company agreeing to be bound by this Agreement. In addition, no Transfers of Stock and no Permitted Transfers of Stock shall be permitted to any Person listed on ***Exhibit C****.* Regardless of anything else contained in this Agreement, any attempt by any Shareholder to make a Transfer or Permitted Transfer of any beneficial or record ownership of any Stock in violation of any provision of this Agreement will be void and shall not confer on any transferee or purported transferee any rights whatsoever, and the Company will not (i) transfer on its books any Stock that has been sold, gifted or otherwise Transferred in violation of this Agreement, or (ii) treat as owner of such Stock, or accord the right to vote to or pay dividends to any purchaser, donee or other transferee to whom such Stock may have been so Transferred.
+
+^^Buy-Sell Agreement. The Founders agree to take such actions, give such written assurances, and otherwise execute such instruments as may be reasonably necessary to ensure that the Company is afforded its rights and options under the Buy-Sell Agreement. The parties agree that a Transfer made pursuant to the Buy-Sell Agreement shall be a “Permitted Transfer” under this Agreement but that the transferee in such Permitted Transfer shall nonetheless hold such transferred securities subject to this Agreement. Furthermore, in the event of any conflict between the Buy-Sell Agreement and this Agreement, the terms and conditions of this Agreement shall control.
+
+^Rights Of Refusal.
+
+^^Company’s Refusal Right. The Company has a right of first refusal (the **“*Company’s Refusal Right*”**)to purchase all or a portion of the Offered Stock, exercisable by written notice to the Selling Shareholder within thirty (30) days (the **“*Company’s Refusal Period*”**)after the date of the Selling Shareholder’s Notice to the Company. If the Company does not intend to exercise the Company’s Refusal Right in full, the Company will send written notice thereof (the **“*Company’s Expiration Notice*”**)to the Selling Shareholder, the Investors and the Founders at least fifteen (15) days before the expiration of the Company’s Refusal Period. The Company’s Expiration Notice will specify the remaining Offered Stock subject to the Shareholders’ Right of First Refusal described below.
+
+[[Shares 1: Number]] Shareholder Rights of Refusal. If the Company does not exercise the Company’s Refusal Right to purchase all of the Offered Stock, then the Series C Holders and the
+
+Series D Holders will have a first right (the **“*Series C/D Refusal Right*”**)and the Series A Holders, the Series B Holders and the Founders that are then still employees of the Company will together, on parity with each other but subsequent to the Series C Holders and the Series D Holders, have a secondary right (the **“*Shareholders Refusal Right*”**) to purchase all of the Offered Stock not purchased by the Company (the **“*Remaining Offered Stock*”**)*.* The Series C/D Refusal Right and the Shareholders Refusal Right may be exercised as follows:
+
+^^Each Series C Holder and/or Series D Holder desiring to purchase any or all of the Remaining Offered Stock must, within the fifteen (15) day period commencing on the date of the Company’s Expiration Notice (the **“*Series C/D Refusal Period*”**)*,* give written notice to the Selling Shareholder and to the Company of such Series C Holder’s or such Series D Holder’s election to purchase up to its Pro Rata Share of the Remaining Offered Stock, including the number of shares and type of Remaining Offered Stock that such Series C Holder or such Series D Holder desires to purchase. For purposes of this Section 3.2,an Investor’s **“*Pro Rata Share*”**will be defined as a fraction, the numerator of which will be the number of shares of Outstanding Common Stock then held by such Series C Holder or such Series D Holder, and (ii) the denominator of which will be the sum of the total number of shares of Outstanding Common Stock then held by all Series C Holders and Series D Holders. Within five (5) days after expiration of the Series C/D Refusal Period, the Company will give written notice to each Series C Holder and each Series D Holder that purchases its full Pro Rata Share of the Remaining Offered Stock (each, a **“*Fully-Participating Series C/D Holder*”**)of any other Series C Holder’s or Series D Holder’s failure to do likewise. Within the ten (10) day period commencing after notice of such information, each Fully-Participating Series C/D Holder shall be entitled to obtain (unless the Fully-Participating Series C/D Holders agree otherwise in writing) that portion of the Remaining Offered Stock for which the non-Fully-Participating Series C/D Holders were entitled to subscribe, but for which the non-Fully-Participating Series C/D Holders did not subscribe, that is equal to the proportion that the number of shares of Outstanding Common Stock then held by such Fully-Participating Series C/D Holders bears to the total number of shares of Outstanding Common Stock then held by all Fully-Participating Series C/D Holders, with additional overallotment rights until all of the Remaining Offered Stock has been subscribed for or until no Fully-Participating Series C/D Holders desires to purchase any unsubscribed for Remaining Offered Stock.
+
+^^If any Offered Stock remains unsubscribed for after the expiration of the procedures set forth in Section 3.2(a),then the Company shall given written notice thereof to each Series A Holder, each Series B Holder, and each Founder that is then still an employee of the Company, and each such Shareholder shall have the Shareholder Refusal Right, exercisable by written notice to the Company and the Selling Shareholder during the 10 day period thereafter (the **“*Shareholder Refusal Period*”**)*,* to purchase up to its pro rata share (based on such Shareholder’s ownership of Outstanding Common Stock relative to the Outstanding Common of such other Shareholders) of the remaining shares of Offered Stock, including in such election notice the number of shares and type of Remaining Offered Stock that such Shareholder desires to purchase. Within five (5) days after expiration of the Shareholder Refusal Period, the Company will give written notice to each Series A Holder, each Series B Holder, and each Founder that purchases its full pro rata share of the Remaining Offered Stock (each, a **“*Fully-Participating Shareholder*”**)of any other such Shareholder’s failure to do likewise. Within the ten (10) day period commencing after notice of such information, each Fully-Participating Shareholder shall be entitled to obtain (unless the Fully-Participating Shareholders agree otherwise in writing) that portion of the Remaining Offered Stock for which the non-Fully-Participating Shareholders were entitled to subscribe, but for which the non-Fully-Participating Shareholders did not subscribe, that is equal to the proportion that the number of shares of Outstanding Common Stock then held by such Fully-Participating Shareholder bears to the total number of shares of Outstanding Common Stock then held by all Fully-Participating Shareholders, with additional overallotment rights until all of the Remaining Offered Stock has been subscribed for or until no Fully-Participating Shareholder desires to purchase any unsubscribed for Remaining Offered Stock.
+
+^^None of the Investors or Founders will have a right to purchase any of the Remaining Offered Stock unless the Investors and Founders, in the aggregate, exercise their collective rights of first refusal pursuant to this Section 3.2to purchase all of the Remaining Offered Stock in accordance with the terms hereof. Within twenty (20) days after expiration of the Shareholder Refusal Period, the Company will give written notice (the **“*Shareholders’ Expiration Notice*”**)to the Selling Shareholder, the Investors and the Founders specifying (i) that all of the Offered Stock was subscribed by the Company (and/or its assignees) and/or Investors and/or Founders exercising their respective rights of refusal; or (ii) in the event that the Company (and/or its assignees) and/or Investors and/or Founders did not elect to purchase all of the Offered Stock, that the Selling Shareholder is entitled to transfer the Offered Stock in accordance with Section 3.6hereof.
+
+^^Purchase Price. The purchase price for the Offered Stock to be purchased by the Company exercising its Company Right of First Refusal or by a Shareholder exercising its respective Series C/D Refusal Right or Shareholder Refusal Right will be the Offered Price, and will be payable as set forth in Section 3.4 hereof. If the Offered Price includes consideration other than cash, the cash equivalent value of the non-cash consideration will be determined by the parties to such purchase or, if they cannot agree, by an independent valuation firm of recognized national standing mutually selected by the Selling Shareholder, on the one hand, and the Investors subscribing for a majority of the Offered Shares, on the other hand, which determination will be binding upon the Company and the Shareholders absent manifest fraud or error. If the Proposed Transfer in question is by operation of law or otherwise an involuntary transfer (including, without limitation, a Transfer incident to divorce, legal separation, bankruptcy or other proceedings, death or other involuntary transfer) (an **“*Involuntary Transfer*”**)*,* the purchase price for the Offered Stock shall be the fair market value of such Offered Securities, which shall be a price determined by the Board in good faith, determined within 30 days after the Company is put on notice of such transfer. Any Shareholder that is married agrees (and such Shareholder’s spouse agrees through the Consent attached hereto as ***Exhibit B***) that, upon the dissolution of such marriage, any divorce decree, separate maintenance agreement, property settlement, or similar agreement incident thereto shall include provisions permitting the parties hereto to have the options afforded to them hereunder to purchase from such spouse any interest of such spouse in any shares of the Company and shall otherwise include any necessary provisions to give effect to this Agreement in accordance with its terms and conditions.
+
+^^Payment. Payment of the purchase price for Offered Stock purchased by the Company exercising its Company Right of First Refusal or by a Shareholder exercising its respective Series C/D Refusal Right or Shareholder Refusal Right will be made within ten (10) days after the date of the applicable Expiration Notice. Payment of the purchase price will be made, at the option of the Company or, as the case may be, by a Shareholder, (a) in cash (by check or wire transfer), (b) by cancellation of all or a portion of any outstanding indebtedness of the Selling Shareholder to the Company or such Shareholder, as the case may be, or (c) by any combination of the foregoing.
+
+^^Rights of Shareholder. Upon the date that payment is made for the Offered Stock purchased by the Company exercising its Company Right of First Refusal or by a Shareholder exercising its respective Series C/D Refusal Right or Shareholder Refusal Right, the Selling Shareholder will have no further rights as a holder of such Offered Stock, and the Selling Shareholder will forthwith cause all certificate(s) evidencing such Offered Stock to be surrendered to the Company for cancellation, and, as to purchases by Shareholder(s), for transfer to the purchasing Shareholder(s). By way of clarification but not limitation, a Shareholder’s exercise or non-exercise of its rights under this Section 3 or under Section 4shall not adversely affect its rights hereunder or thereunder with respect to subsequent Transfers.
+
+^^**Selling Shareholder’s Right to Transfer.** If the Company, the Investors and the Founders have not elected to purchase all of the Offered Stock pursuant to exercise of the Company Right of First Refusal, the Series C/D Refusal Right, and the Shareholder Refusal Right, then, subject to the Right of Co-Sale pursuant to Section 4if the Selling Shareholder is a Founder, the Selling Shareholder may transfer that portion of the Offered Stock permitted to be sold by the Selling Shareholder to any Person named as a Proposed Transferee in the Selling Shareholder’s Notice, at the Offered Price or at a higher price, provided that such transfer (a) is consummated within 90 days after the date of the Selling Shareholder’s Notice and (b) is in accordance with the terms and conditions of this Agreement and all applicable laws (including applicable securities laws). If the Offered Stock is not so transferred during such 90 day period, then the Selling Shareholder will not transfer any of such Offered Stock without complying again in full with the provisions of this Agreement.
+
+^Right Of Co-Sale.
+
+^^Right of Co-Sale. In the event that the Selling Shareholder who proposes to Transfer the Offered Stock is one of the Founders, and the Company and Investors have waived or failed to timely exercise their Rights of First Refusal to purchase all of the Offered Stock, each of the Investors will have the right to participate in the Transfer of any Offered Stock in the manner set forth herein (the **“*Right of Co-Sale*”**)*.* Pursuant to this Section 4,each Investor may transfer to the Proposed Transferee(s) identified in the Selling Shareholder’s Notice such Investor’s Pro Rata Share of the Offered Stock, by giving written notice to the Selling Shareholder within ten (10) days after the date of the Investors’ Expiration Notice, specifying the number of shares and type of Stock that such Investor desires to transfer to each Proposed Transferee by exercising the Right of Co-Sale. For purposes of this Section 4,a Shareholder’s **“*Pro Rata Share*”**will be defined as a fraction, the numerator of which is the number of shares of Outstanding Common Stock then owned by such Investor, and the denominator of which is the number of shares of Outstanding Common Stock then owned by all Investors having a Right of Co-Sale hereunder plus the number of shares of Outstanding Common Stock held by the Selling Shareholder who proposes the Transfer.
+
+^^Consummation of Co-Sale. Each Investor, in exercising the Right of Co-Sale, may effect such Investor’s participation in such Transfer by delivering to the Selling Shareholder at the closing of the transfer of Offered Stock to such transferee (the **“*Closing*”**)one or more certificates, properly endorsed for Transfer, representing such Stock to be Transferred by such Investor. At the Closing, such certificates or other instruments will be transferred and delivered to the Proposed Transferee(s) set forth in the Selling Shareholder’s Notice in consummation of the transfer of the Offered Stock pursuant to the terms and conditions specified in the Selling Shareholder’s Notice, and the Selling Shareholder will remit, or will cause to be remitted, to Investor within seven (7) days after such Closing that portion of the proceeds of the Transfer to which such Investor is entitled by reason of such Investor’s participation in such transfer pursuant to the Right of Co-Sale.
+
+^Multiple Series, Classes Or Types Of Stock. If the Offered Stock consists of more than one series or class or type of Stock, each Investor has the right to purchase or transfer hereunder, as the case may be, such Investor’s Pro Rata Share of each such series, class or type of Stock; provided, however, that as to the Right of Co-Sale, (a) if such Investor does not hold any of such series, class, or type of Stock, and the Proposed Transferee is not willing, at the Closing, to purchase some other series, class or type of Stock from such Investor as part of such Investor’s Pro Rata Share, or (b) if the Proposed Transferee is unwilling to purchase any Stock from such Investor at the Closing (each such circumstance being referred to herein as an **“*Incomplete Co-Sale*”**)*,* then such Investor will have the put right (the **“*Put Right*”**)set forth in Section 6.2hereof.
+
+^Put Right; Drag-Along Right.
+
+^^Refusal to Transfer. Regardless of anything else contained in this Agreement, any attempt by any Shareholder to Transfer any beneficial or record ownership of any Stock in violation of any provision of this Agreement will be void and shall not confer on any transferee or purported transferee any rights whatsoever. The Company will not (a) transfer on its books any Stock that has been sold, gifted or otherwise Transferred in violation of this Agreement, or (b) treat as owner of such Stock, or accord the right to vote to or pay dividends to any purchaser, donee or other transferee to whom such Stock may have been so Transferred.
+
+^^Put Right. If a Selling Shareholder transfers any Stock in contravention of an Investor’s Right of Co-Sale under this Agreement (a **“*Prohibited Transfer*”**)*,* or if an Incomplete Co-Sale occurs and the provisions of Section 5hereof apply, the relevant Investor may require such Selling Shareholder to purchase from such Investor, for cash or such other consideration as the Selling Shareholder received in the Prohibited Transfer or Incomplete Co-Sale, that number of shares of Stock (of the same class, series or type as transferred in the Prohibited Transfer or Incomplete Co-Sale, if such Investor then owns Stock of such class, series or type, and otherwise of Common Stock) having a purchase price equal to the aggregate purchase price such Investor would have received in the closing of such Prohibited Transfer or
+
+Incomplete Co-Sale if such Investor had exercised and been able to consummate such Investor’s Right of Co-Sale with respect thereto (the Shareholder’s **“*Put Right*”**)*.* An Investor may exercise such Investor’s Put Right by delivery of written notice to the Selling Shareholder and the Company (a **“*Put Notice*”**)within ten (10) days after such Investor becomes aware of the Prohibited Transfer or Incomplete Co-Sale. The closing of such sale to the Selling Shareholder under such Investor’s Put Right will occur within seven (7) days after the date of such Shareholder’s Put Notice.
+
+^^**Drag-Along Right.** Regardless of ***Sections 2, 3, 4***and 5:
+
+^^**By Shamrock and Founders.** In connection with a sale by Shamrock and each Founder (the **“*Drag Sellers*”**)to a third party that is not an Affiliate of any of them, of all of their outstanding shares of common stock and preferred stock of the Company, each other Shareholder will, at the written request of the Drag Sellers, sell all of their outstanding shares of common stock and preferred stock of the Company to such third party on substantially the same terms and conditions as are applicable to the Drag Sellers.
+
+^^**On Redemption Failure.** If the Company fails to pay in full the applicable redemption price owed by the Company at any redemption of shares of Series C Preferred Stock pursuant to Section 4 of Article VI of the Charter, then, at the written request of Shamrock given to the Company (the **“*Drag Notice*”**)*,* the Company and the Shareholders shall cooperate with Shamrock in commencing an auction sale process of the Company, shall use their respective best efforts to cause such sale to occur as promptly as possible, and, so long as the terms and conditions thereof are reasonably acceptable to Shamrock, shall sell all of their outstanding shares of common stock and preferred stock of the Company in such sale to the bidder selected (but without any obligation to select any bidder) in good faith by Shamrock.
+
+^^**Terms of Drag Sale.** In any sale pursuant to Section 6.3(a)or ***6.3(b)***(the **“*Drag Sale*”**)*,* the proceeds from such Drag Sale shall be allocated among the shareholders of the Company pursuant to Section 3 of Article VI of the Charter, and each Shareholder shall (i) bear his, her or its pro rata share (based upon the relative proceeds received by such Shareholder in the Drag Sale) of the reasonable out-of-pocket costs pursuant to the Drag Sale to the extent such costs are incurred for the benefit of all such Shareholders and (ii) severally, not jointly, join on a pro rata basis (based on the number of shares to be sold by such Shareholder) in any indemnification or other obligations that are part of the terms and conditions of the Drag Sale (other than any such obligations that relate specifically to a particular Shareholder, such as indemnification with respect to representations and warranties given by such Shareholder regarding such Shareholder’s title to and ownership of shares, due authorization, enforceability, and no conflicts) up to the net proceeds paid to such Shareholder in connection with the Drag Sale.
+
+^^**Structure.** If the Drag Sale is instead structured as a merger, consolidation, restructuring or similar transaction, or a sale of all or substantially all of the assets of the Company, the Shareholders agree to vote (or give a written consent) with respect to all of their outstanding shares of common stock and preferred stock of the Company in favor of the Drag Sale as so structured and not to exercise any dissenters rights of appraisal, or similar rights, with respect to the Drag Sale. In addition, it is understood and agreed that some or all of the Shareholders may exchange or roll a portion of their stock of the Company for stock of the acquirer or an Affiliate thereof in the Drag Sale, and such exchange or roll shall not affect any of the obligations of the Shareholders set forth in this Section 6.3*,* including the obligation to vote (or give a written consent) in favor of the Drag Sale.
+
+^^**No Restrictions.** Regardless of anything else contained herein, the provisions of ***Sections 2, 3, 4*** and 5shall not apply to a Drag Sale.
+
+^Participation Rights.
+
+^^Grants; Exclusions. Subject to the terms and conditions specified in this ***Section* 7**, the Company hereby grants to each Investor for so long as such Investor continues to hold at least [[Shares 2: Number]] shares (as adjusted for stock splits, stock dividends, reclassifications, recapitalizations and the like) of Preferred Stock (including shares of Common Stock issued upon conversion thereof) and who is theri an “accredited investor” within the meaning of SEC Rule 501 of Regulation D under the Securities Act of 1933, as then in effect (**“*Qualifying Investor*”**)*,* a right of first offer (the **“*Participation Right*”**)with respect to any and all future sales by the Company of any Shares (as hereinafter defined).
+
+^^Procedures. Each time the Company proposes to offer any shares of, or securities convertible into or exchangeable or exercisable for any shares of, any class of its capital stock (the **“*Shares*”**)*,* the Company shall first make an offering of such Shares to each Qualifying Investor in accordance with the following provisions:
+
+^^The Company shall deliver a notice (**“*Notice*”**)to each such Investor stating (i) its bona fide intention to offer such Shares, (ii) the number of such Shares to be offered, and (iii) the price and terms, if any, upon which it proposes to offer such Shares.
+
+^^Within fifteen (15) business days after receipt of the Notice, each Qualifying Investor may elect to purchase or obtain, at the price and on the terms specified in the Notice, such Investor’s Pro Rata Share of the Shares. For purposes of this ***Section* 7,** a Qualifying Investor’s **“*Pro Rata Share*”**will be defined as a fraction, the numerator of which will be the number of shares of Outstanding Common Stock then held by such Qualifying Investor, and (ii) the denominator of which will be the sum of the total number of shares of Outstanding Common Stock then held by all Qualifying Investors. The Company shall promptly, in writing, inform each Qualifying Investor that purchases all the shares available to it (each, a **“*Fully-Exercising Investor*”**)of any other Qualifying Investor’s failure to do likewise. During the ten (10)-day period commencing after notice of such information, each Fully-Exercising Investor shall be entitled to obtain that portion of the Shares for which the non-Fully-Exercising Investor were entitled to subscribe, but for which the non-Fully-Exercising Investor did not subscribe, that is equal to the proportion that the number of shares of Outstanding Common Stock then held by such Fully-Exercising Investor bears to the total number of shares of Outstanding Common Stock then held by all Fully-Exercising Investors, with additional overallotments until all of the Shares has been subscribed for or until no Fully-Exercising Investor desires to purchase any unsubscribed for Offered Stock.
+
+^^The Company may, during the 60 day period following the expiration of the period provided in Section 7.2(b)hereof, offer the remaining unsubscribed portion of the Shares to any person or persons at a price not less than, and upon terms no less favorable to the Company than those specified in the Notice and may, during the 45 day-period thereafter, consummate the closing of any subscriptions entered into during such 60-day period. The right provided hereunder shall be deemed to be revived with respect to all other offers and sales of Shares.
+
+^^Notwithstanding anything to the contrary set forth herein, the Investors’ right of first offer in this ***Section* 7** shall be inapplicable to the following:
+
+^^^securities issued or issuable upon exercise of options, rights or warrants outstanding as of the date of the Purchase Agreement;
+
+^^^securities issued or issuable upon the conversion or exchange of convertible or exchangeable securities which are outstanding as of the date of the Purchase Agreement;
+
+^^^securities issued or issuable by reason of a stock dividend, stock split, split-up or other dividends or distributions on shares of Preferred Stock or Common Stock;
+
+^^^shares of Common Stock (or options, warrants or rights therefor) totaling, in the aggregate, no more than [[Percentage 2: Number]]% of the total number of shares of Common Stock then issued and outstanding (including for purposes of this calculation all shares of Common Stock issuable upon exercise or conversion of all then outstanding convertible or exercisable securities), or such higher number as may be approved in writing by the holders of a majority of the then outstanding shares of Series C Preferred Stock, to parties that are (i) strategic partners investing in connection with a commercial relationship with the Company, or (ii) providing the Company with equipment leases, real property leases, loans, credit lines, guaranties of indebtedness, cash price reductions or similar transactions, under arrangements, in each case, approved by the Board of Directors;
+
+^^^any shares of Common Stock (or options, warrants or rights therefor) granted or issued hereafter to employees, officers, directors, or consultants of the Company that are providing bona fide consulting services the Company or any affiliate thereof, pursuant to incentive agreements, stock purchase or stock option plans, stock bonuses or awards, warrants, contracts or other arrangements that are approved by the Board of Directors;
+
+^^^any shares of Common Stock or Preferred Stock issued pursuant to the acquisition of another corporation or entity by the Company by consolidation, merger, purchase of all or substantially all of the assets, or other reorganization in which the Company acquires, in a single transaction or series of related transactions, all or substantially all of the assets of such other corporation or entity or fifty percent ([[Percentage 1]]%) or more of the voting power of such other corporation or entity or fifty percent ([[Percentage 1]]%) or more of the equity ownership of such other entity; provided, that such transaction or series of transactions has been approved by the Company’s Board of Directors;
+
+^^^any shares of Series D Preferred issued or issuable pursuant to the Purchase Agreement, as such agreement is currently in effect;
+
+^^^any shares of the Company’s Common Stock issued or issuable by the Company to the public pursuant to a registration statement filed under the Securities Act; and
+
+^^^any shares of Common Stock or Preferred Stock issuable upon exercise and conversion of any of the foregoing.
+
+^^Waiver of Prior Participation Rights. Each of the Shareholders who is a signatory to this Agreement hereby agrees to waive any and all Participation Rights set forth in the Prior Agreement (if any) with respect to the issuance of the Series D Preferred pursuant to the Purchase Agreement.
+
+^Restrictive Legends; Stop-transfer Instructions; Voting Agreement and Board Observer Rights.
+
+^^Restrictive Legends. Each Shareholder understands and agrees that the Company will cause the legends set forth below, or legends substantially equivalent thereto, as may be required by applicable law, to be placed upon any certificate(s) or other documents or instruments evidencing ownership of Stock by the Shareholder:
+
+*THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO CERTAIN VOTING RESTRICTIONS AND TRANSFER RESTRICTIONS, INCLUDING WITHOUT LIMITATION, A RIGHT OF FIRST REFUSAL AND/OR RIGHT OF CO-SALE, AS SET FORTH IN A CERTAIN SECOND AMENDED AND RESTATED SHAREHOLDERS AGREEMENT ENTERED INTO BY THE HOLDER OF THESE SHARES, THE COMPANY AND CERTAIN SHAREHOLDERS OF THE COMPANY. A COPY OF SUCH AGREEMENT IS ON FILE AT THE PRINCIPAL OFFICE OF THE COMPANY. SUCH TRANSFER RESTRICTIONS ARE BINDING ON TRANSFEREES OF THESE SHARES.*
+
+^^Stop Transfer Instructions. Each Shareholder agrees, to ensure compliance with the restrictions referred to herein, that the Company may issue appropriate “stop transfer” certificates or instructions and that, if the Company transfers its own securities, it may make appropriate notations to the same effect in its records.
+
+^^Voting Agreement and Board Observer Rights. Each Shareholder agrees to hold all shares of Stock registered in such Shareholder’s name or beneficially owned by such Shareholder, subject to, and to vote the such shares in accordance with, the provisions of this Section 8.3*.*
+
+^^The Founders agree to use their reasonable best efforts to identify an individual to serve on the Board of Directors of the Company who is independent and who is not an employee, officer, or Affiliate of the Company or any of its Subsidiaries (the ***Independent Director***)*,* and the Shareholders agree to cause, on or before [[Date 7: Date]], the election of the Independent Director to fill one of the five remaining non-Series C Director seats on the Company’s Board of Directors,
+
+^^In any election of any Series C Director (as such term is defined in the Charter), the Shareholders will consult each other and will each vote at any regular or special meeting of shareholders (or by written consent) all of their shares of Series C Preferred Stock to elect to the Company’s Board of Directors the designee approved in writing by Shamrock. The Series C Directors may be removed from the Board of Directors of the Company without cause only upon the vote or written consent of Shamrock, and the Shareholders agree not to seek, vote for or otherwise effect the removal of any Series C Director without cause of the Series C Director without such vote or written consent. The Company agrees to use its reasonable best efforts to ensure that the rights granted hereunder are effective and that Shamrock enjoys the benefits thereof. Such actions include, without limitation, the use of the Company’s reasonable best efforts to cause the nomination and election of the director as provided above. The Company will not, by any voluntary action, avoid or seek to avoid the observance or performance of any of the terms to be performed under this Section by the Company, and the Company will at all times in good faith assist and take action as appropriate in the carrying out of all of the provisions of this Section. However, regardless of the foregoing, the parties agree that until the earlier of (i) [[Date 7]], and (ii) the date of the election of the Independent Director, only one Series C Director shall be elected, and the other Series C Director’s seat shall remain vacant on the Board of Directors of the Company; provided, that during such period, Shamrock shall have the right to designate one (1) individual (the ***Series C Observer***)to attend all special and regular meetings of the Board of Directors of the Company and all committees thereof (whether in person, by telephonic or otherwise, at the election of the Series C Observer) in a non-voting observer capacity, in addition to any Series C Directors designated by Shamrock. The Company shall provide to the Series C Observer, concurrently with the members of the Board of Directors of the Company, and in the same manner, notice of such meeting and a copy of all materials provided to such members. The Company shall be permitted to exclude the Series C Observer from all discussions of the Board of Directors of the Company related to sensitive matters that require preservation of the attorney-client privilege and from discussion of any confidential information (unless the Series C Observer (or the Series C Observer’s employer) executes or has executed a reasonable and customary confidentiality agreement with respect thereto). All reasonable expenses incurred by the Series C Observer in attending or otherwise participating in Board of Director and committee meetings and performing duties requested by the Company will be reimbursed by the Company.
+
+^^So long as the Series D Holders shall hold at least [[Shares 3: Number]] shares of Series D Preferred (as adjusted for stock splits, stock dividends, reclassifications, recapitalizations and the like), the holders of a majority of the shares of Series D Preferred then held by the Series D Holders shall have the right to designate one (1) individual (the ***Series D Observer***)to attend all special and regular meetings of the Board of Directors of the Company and all committees thereof (whether in person, by telephonic or otherwise, at the election of the Series D Observer) in a non-voting observer capacity. The Company shall provide to the Series D Observer, concurrently with the members of the Board of Directors of the Company, and in the same manner, notice of such meeting and a copy of all materials provided to such members. The Company shall be permitted to exclude the Series D Observer from all discussions of the Board of Directors of the Company related to sensitive matters that require preservation of the attorney-client privilege and from discussion of any confidential information (unless the Series D Observer (or the Series D Observer’s employer) executes or has executed a reasonable and customary confidentiality agreement with respect thereto). All reasonable expenses incurred by the Series D Observer in attending or otherwise participating in Board of Director and committee meetings and performing duties requested by the Company will be reimbursed by the Company.
+
+^^Conversion Matters. If all of the shares of Series C Preferred are converted into shares of Common Stock as a result of the vote or written consent of the holders of not less than a majority of the then outstanding shares of Series C Preferred pursuant to Section 5(b) of Article VI of the Company’s Charter, then each holder of Series D Preferred shall concurrently therewith take all such action as may be required to cause the conversion of all of the then outstanding shares of Series D Preferred into shares of Common Stock and, in connection therewith, shall execute and deliver such instruments, give such written assurances or consents, and do, or cause to be done, all things otherwise necessary, proper or advisable to cause and make effective such conversion of all of the shares of Series D Preferred, and the Company shall take all such action as may be required to cause and make effective such conversion of all of the shares of Series D Preferred.
+
+^Termination and Waiver.
+
+^^Termination. Except as otherwise expressly provided herein, the Company Right of First Refusal, Series C/D Refusal Right, Shareholder Refusal Right, Right of Co-Sale, Investors’ participation rights set forth in Section 7hereof, and the right to appoint Board of Directors observers pursuant to Section 8hereof will terminate upon the earliest to occur of the following: (a) immediately prior to the closing of the QIPO (as such term is defined in the Charter); (b) the date on which this Agreement is terminated by a writing executed by the Company, the Founders, the holders of a majority of the Stock held by the Series A Holders, the holders of a majority of the Stock then held by the Series B Holders, the holders of a majority of the Stock then held by the Series C Holders; (c) the liquidation or dissolution of the Company, or (d) any consolidation or merger of the Company by, with or into a third party, in any case in which the Company’s shareholders of record immediately prior to such transaction do not hold, immediately after such transaction, at least a majority of the voting power of the surviving or acquiring entity.
+
+^^Waiver. Any waiver by a party of any of its rights hereunder will be effective only if evidenced by a written instrument executed by such party or its authorized representative or the failure of such party to respond within the time required by the terms of this Agreement; provided that (a) the Series C/D Refusal Right, the Right of Co-Sale, and the Right of Participation may be waived in any particular transaction as to the Series C Holders only by the holders of a majority of the Stock then held by the Series C Holders, (b) the Shareholder
+
+Refusal Right, the Right of Co-Sale, and the Right of Participation may be waived in any particular transaction as to the Series A Holders only by the holders of a majority of the Stock then held by the Series A Holders, (c) the Shareholder Refusal Right, the Right of Co-Sale, and the Right of Participation may be waived in any particular transaction as to the Series B Holders only by the holders of a majority of the Stock then held by the Series B Holders, (d) the Series C/D Refusal Right, the Right of Co-Sale, and the Right of Participation may be waived in any particular transaction as to the Series D Holders either by (i) the holders of a majority of the Stock then held by the Series D Holders, or (ii) only in circumstances where such holders also waive such rights as to themselves in such transaction, by the holders of a majority of the Stock then held by the Series C Holders, (e) the Shareholder Refusal Right may be waived in any particular transaction as to the Founders only by the Founders, and (f) the Series D Board Observer right specified in Section 8.3(c)above may be amended or deleted only by the holders of a majority of the outstanding shares of Series D Preferred. The Company and the Shareholders will have the absolute right to exercise or refrain from exercising any right or rights that each such party may have by reason of this Agreement, including without limitation the right to purchase or participate in the sale of Offered Stock, and no waiver of any particular right with respect to any particular transaction will be deemed a waiver with respect to any other transaction, nor will it be deemed a waiver of any other right under this Agreement. Neither the Company nor any Shareholder will incur any liability to any other party hereto with respect to exercising or refraining from exercising any such right or rights.
+
+^Miscellaneous Provisions.
+
+^^Notices. Unless otherwise provided, any notice required or permitted under this Agreement shall be given in writing and shall be deemed effectively given (a) upon personal delivery to the party to be notified, (b) upon receipt after deposit with an overnight delivery service, (c) upon receipt after deposit with the United States Post Office, by certified mail, return receipt request, postage prepaid, or (d) on the day of transmission by facsimile (fax) to such party (with confirmation of delivery) during regular business hours, with transmission confirmed within three (3) days by notice delivered in accordance with any of subparagraphs (a), (b) or (c) above, in each case addressed to the party to be notified at the address and/or facsimile number indicated for such party on ***Exhibit*** A attached hereto or at such other address and/or facsimile number as such party may designate by ten (10) days’ advanced written notice to the other parties, and in each case with copies to such other party or parties indicated for such party on ***Exhibit A*** attached hereto, in the same manner as described in this Section 10.1for such party.
+
+^^Successors and Assigns. Except as otherwise provided herein, the terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties (including transferees of any Stock). Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
+
+^^Severability. If one or more provisions of this Agreement are held to be unenforceable under applicable law, such provision shall be excluded from this Agreement and the balance of the Agreement shall be interpreted as if such provision were so excluded and shall be enforceable in accordance with its terms.
+
+^^Amendment.
+
+^^This Agreement may be amended only by a written agreement executed by the (i) Company, (ii) holders of a majority of the Stock then held by the Series A Holders, (iii) holders of a majority of the Stock then held by the Series B Holders, (iv) holders of a majority of the Stock then held by the Series C Holders, and (vi) Founders; provided, that any amendment that expressly treats any Shareholder in a materially adverse manner that is different than any other similarly situated Shareholder will require the separate approval of such Shareholder. Any amendment effected in accordance with this Section 10.4 will be binding upon the Company, the Shareholders (whether or not they are signatories to such amendment) and each of their respective successors and assigns.
+
+^^If a Shareholder sells or otherwise Transfers some or all of such Shareholder’s Stock, then any transferee of such Shareholder shall be subject to all rights and obligations under this Agreement as the Shareholder from whom such Stock was acquired would have if such Shareholder owned the Stock so transferred.
+
+^^Notwithstanding anything herein to the contrary, if additional parties purchase shares of Preferred Stock or if any persons or entities have heretofore acquired or hereafter acquired shares of the Company’s capital stock or other securities of the Company, then, with the consent of the Board of Directors of the Company, the Company may add each such person or entity as a party to this Agreement as a “Shareholder” hereunder (and update ***Exhibit A*** hereto), without the need for any consent, approval or signature of any Shareholder when such purchaser has executed one or more counterpart signature pages to this Agreement.
+
+^^Governing Law; **Jurisdiction; Service of Process.** This Agreement is to be construed in accordance with and governed by the internal laws of the State of California without giving effect to the principles of conflicts of law of such state. Any action or proceeding seeking to enforce any provision of, or based on any right arising out of, this Agreement may be brought against any of the parties in the courts of the State of California, County of [[Address 1: Address]], if it has or can acquire jurisdiction, in the United States District Court for the Southern District of California, and each of the parties consents to the jurisdiction of such courts (and of the appropriate appellate courts) in any such action or proceeding and waives any objection to venue laid therein. Process in any action or proceedings referred to in the preceding sentence may be served on a party to this Agreement at the address for notices for such party set forth on ***Exhibit A,*** attached hereto.
+
+^^Counterparts; Facsimile Signatures. This Agreement may be executed in two or more counterparts, and by facsimile signatures, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+^^**Titles and Subtitles; Interpretation.** The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. The express terms of this Agreement control and supersede any course of performance or trade custom or usage inconsistent with any of its terms. Unless the express context otherwise requires: (a) “or” is not exclusive; (b) words in the singular include the plural, and words in the plural include the singular; (c) “herein,” “hereof,” and other similar words refer to this Agreement as a whole and not to any particular section, subsection, paragraph, clause, or other subdivision; (d) “including” will be deemed to be followed by “, but not limited to,”; (e) the masculine, feminine, and neuter genders will each be deemed to include the others; and (f) “shall,” “will,” or “agrees” are mandatory, and “may” is permissive.
+
+^^Entire Agreement. This Agreement, including all Exhibits hereto and all agreements referenced herein, constitutes the entire agreement of the parties with respect to the specific subject matter hereof and thereof and supersedes in its entirety the Prior Agreement and all other agreements or understandings between or among the parties hereto with respect to the subject matter hereof and thereof. This Agreement amends and restates and terminates the Prior Agreement in its entirety.
+
+^^Calculation; Binding Effect of Company Notices. All calculations of a Shareholder’s pro rata share will be made by the Company as of the date of the Company’s notice in which such pro rata share appears. The pro rata share of a Shareholder as shown on any notice required hereunder to be delivered by the Company will be binding upon the parties hereto absent fraud or error.
+
+^^Continuity of Other Restrictions. Any Stock not purchased by the Company or a Shareholder under its respective Right of First Refusal hereunder will continue to be subject to all other restrictions, including rights of first refusal, imposed upon such Stock by law, including any restrictions imposed under the Company’s Charter or Bylaws, or by agreement.
+
+^^Spousal Consent. Each Shareholder, to the extent such Shareholder is married, shall deliver to the Company a Consent of Spouse in the form of ***Exhibit B*** attached hereto duly executed by such Shareholder’s spouse.
+
+^^Specific Performance. The parties agree that each other party shall not have an adequate remedy if a party breaches or otherwise fails to comply with the provisions of this Agreement, and that damages will not be readily ascertainable, and each party expressly agrees that, in the event of such failure, each other party shall be entitled to seek specific performance of the breaching party’s obligations under this Agreement hereof, and the breaching party will not oppose an application seeking such specific performance based on there being an adequate remedy at law.
+
+^^Rights Cumulative. Each and all of the various rights, powers and remedies of the parties hereto will be considered to be cumulative with and in addition to any other rights, powers and remedies which such parties may have at law or in equity in the event of the breach of any of the terms of this Agreement. The exercise or partial exercise of any right, power or remedy will neither constitute the exclusive election thereof nor the waiver of any other right, power or remedy available to such party.
+
+^^**Aggregation of Stock.** All shares of Preferred Stock held or acquired by any Affiliates shall be aggregated together for the purpose of determining the availability of any rights under this Agreement; provided, that all such Affiliated Persons shall have a single attorney-in-fact for the purposes of exercising any rights, receiving notices or taking any action under this Agreement.
+
+^^**Further Assurances.** Each party agrees to cooperate fully with the other parties, to take such actions, to execute such further instruments, documents and agreements, and to give such further written assurances, as may be reasonably requested by any other party to evidence and reflect the transactions described herein and contemplated hereby, and to carry into effect the intents and purposes of this Agreement.
+
+\centered [REMAINDER OF THE PAGE INTENTIONALLY LEFT BLANK]
+
+***IN WITNESS WHEREOF***, the undersigned parties hereto have executed this Agreement as of the date first written above.
+
+**THE COMPANY****:**
+
+[[THE COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{THE COMPANY Entity => By: [[THE COMPANY Signatory First Name]] [[THE COMPANY Signatory Last Name]]
+Title: [[THE COMPANY Signatory Title]]}}
+
+Address: [[Address 2: Address]]
+Fax: [[Phone 1]]
+Phone: [[Phone 2]]
+
+**FOUNDERS****:**
+
+[[FOUNDERS Signatory Email: Identity | Signature]]
+__________________________________________
+{{FOUNDERS Entity => By: [[FOUNDERS Signatory First Name]] [[FOUNDERS Signatory Last Name]]
+Title: [[FOUNDERS Signatory Title]]}}
+
+[[Founders]]
+
+[[Founders Signatory Email: Identity | Signature]]
+__________________________________________
+{{Founders Entity => By: [[Founders Signatory First Name]] [[Founders Signatory Last Name]]
+Title: [[Founders Signatory Title]]}}
+
+[[Party 2]]
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+***IN WITNESS WHEREOF***, the undersigned parties hereto have executed this Agreement as of the date first written above.
+
+**INVESTORS****:**
+
+[[Organization 2 Name]], L.P.
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+as Investment Manager
+
+[[As Investment Manager Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Manager Entity => By: [[As Investment Manager Signatory First Name]] [[As Investment Manager Signatory Last Name]]
+Title: [[As Investment Manager Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+[[Organization 3 Name]], L.P.
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+[[Organization 4 Name]]
+
+[[[[Organization 4 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] Entity => By: [[[[Organization 4 Name]] Signatory First Name]] [[[[Organization 4 Name]] Signatory Last Name]]
+Title: [[[[Organization 4 Name]] Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+[[Organization 5 Name]]
+
+[[[[Organization 5 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]]. Entity => By: [[[[Organization 5 Name]]. Signatory First Name]] [[[[Organization 5 Name]]. Signatory Last Name]]
+Title: [[[[Organization 5 Name]]. Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+[[Organization 6 Name]], L.P.
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+as Investment Manager
+
+[[As Investment Manager Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Manager Entity => By: [[As Investment Manager Signatory First Name]] [[As Investment Manager Signatory Last Name]]
+Title: [[As Investment Manager Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+[[Organization 7 Name]]
+
+[[[[Organization 7 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] Entity => By: [[[[Organization 7 Name]] Signatory First Name]] [[[[Organization 7 Name]] Signatory Last Name]]
+Title: [[[[Organization 7 Name]] Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+[[Organization 8 Name]], INC.
+
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+[[Organization 9 Name]]
+
+[[[[Organization 9 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] Entity => By: [[[[Organization 9 Name]] Signatory First Name]] [[[[Organization 9 Name]] Signatory Last Name]]
+Title: [[[[Organization 9 Name]] Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+[[Organization 5 Name]]
+
+[[[[Organization 5 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]]. Entity => By: [[[[Organization 5 Name]]. Signatory First Name]] [[[[Organization 5 Name]]. Signatory Last Name]]
+Title: [[[[Organization 5 Name]]. Signatory Title]]}}
+
+as Investment Advisor
+
+[[As Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Investment Advisor Entity => By: [[As Investment Advisor Signatory First Name]] [[As Investment Advisor Signatory Last Name]]
+Title: [[As Investment Advisor Signatory Title]]}}
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]
+Title: Treasurer
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+*IN WITNESS WHEREOF,* the undersigned parties hereto have executed this Agreement as of the date first written above.
+
+**INVESTORS****:**
+
+**[*FOR ENTITY INVESTOR USE***      **[*FOR INDIVIDUAL INVESTOR USE***
+***FOLLOWING SIGNATURE BLOCK:***]**      ***FOLLOWING SIGNATURE BLOCK:***]**
+
+Entity Name:   [[Organization 1 Name]], L.P.
+\centered [Print Entity Name]
+
+[[Party 22 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 22 Entity => By: [[Party 22 Signatory First Name]] [[Party 22 Signatory Last Name]]
+Title: [[Party 22 Signatory Title]]}}
+
+\centered *[Sign Here]*      
+
+\centered *[Sign Here]*
+
+Name:   [[Person 2 First Name]] [[Person 2 Last Name]]      Name:   [[Founders]]
+\centered *[Print Name]*      
+
+\centered *[Print Name]*
+
+*Title:*   Executive Vice President
+\centered *[Print Title]*
+
+Address:   4444 Lakeside Dr.      Address:
+Burbank, CA 91505
+
+Email Address:   [[Email 1]]      Email Address:
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+*IN WITNESS WHEREOF,* the undersigned parties hereto have executed this Agreement as of the date first written above.
+
+**INVESTORS****:**
+
+**[*FOR ENTITY INVESTOR USE***      **[*FOR INDIVIDUAL INVESTOR USE***
+***FOLLOWING SIGNATURE BLOCK:***]**      ***FOLLOWING SIGNATURE BLOCK:***]**
+
+Entity Name:   [[Person 3 First Name]] [[Person 3 Last Name]] Loncki Separate Property Trust
+\centered *[Print Entity Name]*
+
+[[Party 23 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 23 Entity => By: [[Party 23 Signatory First Name]] [[Party 23 Signatory Last Name]]
+Title: [[Party 23 Signatory Title]]}}
+
+\centered *[Sign Here]*      
+
+\centered *[Sign Here]*
+
+Name:   [[Person 4 First Name]] [[Person 4 Last Name]]      Name:   [[Party 2]]
+\centered *[Print Name]*      
+
+\centered *[Print Name]*
+
+*Title:*   Trustee
+\centered *[Print Title]*
+
+Address:   5225 E. Paradise Canyan Rd.      Address:
+Paradise Valley, AZ 85253
+
+Email Address:   [[Email 2]]      E-mail Address:
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+*IN WITNESS WHEREOF,* the undersigned parties hereto have executed this Agreement as of the date first written above.
+
+**INVESTORS****:**
+
+**[*FOR ENTITY INVESTOR USE***      **[*FOR INDIVIDUAL INVESTOR USE***
+***FOLLOWING SIGNATURE BLOCK:***]**      ***FOLLOWING SIGNATURE BLOCK:***]**
+
+Entity Name:   Perspectives LLC
+\centered *[Print Entity Name]*
+
+[[Party 24 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 24 Entity => By: [[Party 24 Signatory First Name]] [[Party 24 Signatory Last Name]]
+Title: [[Party 24 Signatory Title]]}}
+
+\centered *[Sign Here]*      
+
+\centered *[Sign Here]*
+
+Name:   [[Person 5 First Name]] [[Person 5 Last Name]]      Name:   [[Person 6 First Name]] [[Person 6 Last Name]]
+\centered *[Print Name]*      
+
+\centered *[Print Name]*
+
+*Title:*   Manager
+\centered *[Print Title]*
+
+Address:   2905 Piedmont Rd NE      Address:   17 Greville Place
+Atlanta, GA      [[Person 7 First Name]] [[Person 7 Last Name]]
+
+Email Address:   [ILLEGIBLE]      Email Address:   [[Email 3]]
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+***IN WITNESS WHEREOF****,* the undersigned parties hereto have executed this Agreement as of the date first written above.
+
+**INVESTORS****:**
+
+**[*FOR ENTITY INVESTOR USE***      **[*FOR INDIVIDUAL INVESTOR USE***
+***FOLLOWING SIGNATURE BLOCK:***]**      ***FOLLOWING SIGNATURE BLOCK:***]**
+
+Entity Name:   Real Big
+\centered *[Print Entity Name]*
+
+[[Party 25 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 25 Entity => By: [[Party 25 Signatory First Name]] [[Party 25 Signatory Last Name]]
+Title: [[Party 25 Signatory Title]]}}
+
+\centered *[Sign Here]*      
+
+\centered *[Sign Here]*
+
+Name:   [[Person 8 First Name]] [[Person 8 Last Name]]      Name:   W.D. Budinger
+\centered *[Print Name]*      
+
+\centered *[Print Name]*
+
+*Title:*   Member
+\centered *[Print Title]*
+
+Address:   14351 Hwy 82      Address:   [[Address 3: Address]]      Key West, FL 33040
+
+Email Address:   [ILLEGIBLE]      Email Address:   [[Email 4]]
+
+\centered **[Signature Page To Shareholders Agreement]**
+
+\centered **EXHIBIT A**
+
+\centered **LIST OF INVESTORS**
+
+SERIES A HOLDERS:
+
+Perspective Investments 
+
+[[Address 4: Address]]
+
+Copies to:      [[Organization 10 Name]] Limited  Bayside Executive Park  West Bay and [[Organization 11 Name]]  Nassau, Bahamas  Attn: [[Person 9 First Name]] [[Person 9 Last Name]]
+
+[[Person 10 First Name]] [[Person 10 Last Name]] 
+
+^Greville Place, 
+
+London NW6 5JE 
+
+United Kingdom
+
+[[Person 11 First Name]] [[Person 11 Last Name]] 
+
+[[Address 5: Address]]
+
+[[Organization 12 Name]] 
+
+[[Address 6: Address]]
+
+SERIES B HOLDERS:
+
+Perspective Investments 
+
+[[Address 4: Address]]
+
+Copies to:      [[Organization 10 Name]] Limited  Bayside Executive Park  West Bay and [[Organization 11 Name]]  Nassau, Bahamas  Attn: [[Person 9 First Name]] [[Person 9 Last Name]]
+
+[[Person 10 First Name]] [[Person 10 Last Name]] 
+
+^Greville Place, 
+
+London NW6 5JE 
+
+United Kingdom
+
+[[Person 11 First Name]] [[Person 11 Last Name]] 
+
+[[Address 5: Address]]
+
+[[Organization 12 Name]] 
+
+[[Address 6: Address]]
+
+The [[Person 3 First Name]] [[Person 3 Last Name]] Loncki Separate Property Trust 
+
+[[Address 7: Address]]
+
+Real Big
+
+19355 Highway 82 
+
+Carbondale, CO 81623 
+
+Attn: [[Person 12 First Name]] [[Person 12 Last Name]]
+
+[[Person 13 First Name]] [[Person 13 Last Name]]
+
+25849 Hatton Road
+
+[[Address 8: Address]]
+
+[[Person 14 First Name]] [[Person 14 Last Name]] Powers and [[Person 15 First Name]] [[Person 15 Last Name]] Powers 
+
+[[Address 9: Address]]
+
+[[Person 16 First Name]] [[Person 16 Last Name]]
+
+10900 Wilshire Blvd, Suite 600, 
+
+[[Address 10: Address]]
+
+SERIES C HOLDERS:
+
+[[Organization 1 Name]], L.P.
+
+[[Address 11: Address]]
+
+SERIES D HOLDERS:
+
+[[Organization 2 Name]], L.P.
+
+[[Organization 3 Name]], L.P. 
+
+[[Organization 4 Name]] 
+
+[[Organization 5 Name]] 
+
+[[Organization 6 Name]], L.P.
+
+[[Organization 7 Name]] 
+
+[[Organization 8 Name]], Inc
+
+[[Organization 9 Name]]
+
+[[Organization 5 Name]]
+
+c/o [[Organization 13 Name]] 
+
+Attn: [[Person 17 First Name]] [[Person 17 Last Name]]
+
+500 Nyala Farm Road
+
+Westport Ct 06680
+
+Phone: [[Phone 3]]
+
+Fax: [[Phone 4]]
+
+\centered **EXHIBIT B** 
+
+\centered **CONSENT OF SPOUSE**
+
+^acknowledge that I have read the foregoing Shareholders Agreement (the “Agreement”), by and among REAL D, a California corporation (the “Company”) and the Shareholders identified on Exhibit A thereto, and that I know its contents. I hereby appoint , my spouse, as my attorney-in-fact with respect to the exercise of any rights under the Agreement and agree to be bound by the provisions of the Agreement insofar as I may have any rights in the Agreement or any shares of the Company under the community property laws of the state of our residence or similar laws relating to marital property in effect in the state of our residence as of the date of the signing of the Agreement or thereafter. Ifurther agree that my spouse may join in any future amendment or modification of the Agreement without any further signature, acknowledgment, agreement or consent on my part.
+
+^am aware that by its provisions, I and my spouse agree to be bound by the share transfer and other restrictions set forth therein, and I agree that all such restrictions are fully binding and conclusive on all ownership interest I now have or hereafter may acquire in the Company. I hereby agree that all such interests are subject to the provisions of the Agreement and that I will take no action at any time to hinder operation of, or violate, the Agreement.
+
+^further agree to perform any acts or execute any documents or instruments necessary in the reasonable judgment of any party hereto to effectuate the purposes or intent, or to complete the performance of the Agreement, and I will take no action at any time to hinder operation of the Agreement. I represent and acknowledge that I have been advised to retain counsel in connection with this Agreement and either: (i) have declined to consult with counsel, or (ii) have consulted independent counsel with respect to the effects of this Agreement on my legal rights. Having considered such legal advice or declined to consult with counsel, I freely, voluntarily and knowingly execute this Consent of Spouse which may be attached to and made a part of the Agreement, and may be relied upon by the Company and its Shareholders as an inducement to enter into the Agreement
+
+Dated:
+\centered **[Signature of Spouse]**
+
+\centered **[Printed Name of Spouse]**
+
+\centered **EXHIBIT C** 
+
+\centered **PROHIBITED TRANSFEREES**
+
+^Dolby
+
+^Kodak
+
+^Christie
+
+^Barco
+
+[[Organization 14 Name]]
+
+^IMAX
+
+^Samsung
+
+^Thompson/Technicolor
+
+^Microsoft
+
+^NVIDIA
+
+^Sony
+
+^Texas Instruments
+
+^Phillips
+
+^LG
+
+^Sharp
+
+^Toshiba
+
+^JVC
+
+\centered [REMAINDER OF THE PAGE INTENTIONALLY LEFT BLANK]

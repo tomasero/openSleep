@@ -1,0 +1,22 @@
+\centered **NINTH AMENDMENT OF**
+
+\centered **AMENDED AND RESTATED PARTICIPATION AGREEMENT**
+
+This Ninth Amendment of the Amended and Restated Participation Agreement (the “Amendment”) is made and entered into as of this [[Date 1: Date]], by and between and [[Organization 1 Name]], a [[State of Formation: State]] [[Organization: EntityType]] and trust company, solely in its capacity as trustee of various grantor trusts known as Short Term Federal Investment Trusts or other grantor trusts (“Union Bank”) and [[Nelnet]], a [[State of Formation: State]] [[Organization: EntityType]] (“Nelnet”).
+
+**WHEREAS**, the parties hereto entered into that certain Amended and Restated Participation Agreement dated as of [[Date 2: Date]], as amended (the “Agreement”), and the parties hereto wish to amend the Agreement under the terms set forth herein.
+
+**NOW, THEREFORE**, in consideration of the foregoing premises and the mutual covenants herein contained, the parties hereto agree as follows:
+
+^**Definitions**. Unless otherwise expressly stated herein, capitalized terms in this Amendment shall have the same meanings given to them in the Agreement.
+
+^**Clarification of Nelnet’s Fee**. For purposes of Section 1.03 of the Agreement, Nelnet’s Fee has been previously defined to equal the difference between (i) the total of interest received with respect to such Eligible Loans contained in a participation certificate, and (ii) an amount which is above the average of the bond equivalent rates of the quotes of 3-month commercial paper (financial) in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H-15 (or its successor) for the relevant 3-month period (the “H-15 Rate”), multiplied by the average aggregate principal balance of all Elig ible Loans participated under the Agreement. The parties acknowledge that prior to the effective date of this Amendment, there have been a number of days when no H-15 Rate was reported by the Federal Reserve in Publication H-15. In order to reflect the parties’ original mutual intent and understanding, the parties further acknowledge and agree that for any day on which the H-15 Rate was not reported in the past or is not reported in the future by the Federal Reserve in Publication H-15, the H-15 Rate reported by the Federal Reserve in the most recent Publication H-15 prior thereto shall apply; and any substitute rate announced by the United States Department of Education for days on which the H-15 Rate is not reported shall not be applicable in the calculation of Nelnet’s Fee.
+
+^**Effect of Amendment**. This Amendment shall be effective as of the [[Date 3: Date]]. Unless expressly modified or amended by this Amendment, all terms and provision contained in the Agreement shall remain in full force and effect without modification.
+
+[[Organization 1 Name]], as Trustee         [[Nelnet]]
+
+[[[[Organization 1 Name]] as Trustee         [[Organization 2 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] as Trustee         Nelnet Entity => By: [[[[Organization 1 Name]] as Trustee         [[Organization 2 Name]] First Name]] [[[[Organization 1 Name]] as Trustee         [[Organization 2 Name]] Last Name]]
+Title: [[[[Organization 1 Name]] as Trustee         [[Organization 2 Name]] Title]]}}

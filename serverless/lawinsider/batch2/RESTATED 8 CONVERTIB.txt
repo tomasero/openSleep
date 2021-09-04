@@ -1,0 +1,214 @@
+NEITHER THIS SECURITY NOR THE SECURITIES INTO WHICH THIS SECURITY IS CONVERTIBLE HAVE BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE COMPANY. THIS SECURITY AND THE SECURITIES ISSUABLE UPON CONVERSION OF THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN SECURED BY SUCH SECURITIES. 
+
+\centered 
+
+**Debenture No.** **Original Issue Date:**    **[[Date 1: Date]]** **Original Conversion Price (subject to adjustment herein):**    **$[[USD Value 3: Number]]** **Original Principal Amount:**    **$**  
+
+\centered **RESTATED [[Percentage 1: Number]]% CONVERTIBLE DEBENTURE DUE [[Date 2: Date]]** 
+
+THIS RESTATED [[Percentage 1]]% CONVERTIBLE DEBENTURE is a duly authorized and validly issued [[Percentage 1]]% Convertible Debenture of [[Organization 1 Name]], a Colorado corporation (the “Company”), having its principal place of business at 11545 West Bernardo Court, Suite 301, [[Address 1: Address]], designated as its [[Percentage 1]]% Convertible Debenture due [[Date 2]] (this debenture, the “Debenture” and, collectively with the other debentures of such series, the “Debentures”). 
+
+FOR VALUE RECEIVED, the Company promises to pay pursuant to the terms hereunder to  or its registered assigns (the “Holder”), the principal sum of $ on [[Date 2]] (the “Maturity Date”) or such earlier date as this Debenture is required or permitted to be repaid as provided hereunder, and to pay interest to the Holder on the aggregate unconverted and then outstanding principal amount of this Debenture in accordance with the provisions hereof. This Debenture is subject to the following additional provisions: 
+
+Section 1.  Definitions. For the purposes hereof, in addition to the terms defined elsewhere in this Debenture, the following terms shall have the following meanings: 
+
+“Business Day” means any day except any Saturday, any Sunday, any day which is a federal legal holiday in the United States or any day on which banking institutions in the State of California are authorized or required by law or other governmental action to close. 
+
+^^^^^ 
+“Change of Control Transaction” means the occurrence after the date hereof of any of the following: (a) the Company sells or transfers all or substantially all of its assets to another Person and the stockholders of the Company immediately prior to such transaction own less than a majority of the aggregate voting securities of the acquiring entity immediately after the transaction; (b) an acquisition after the date hereof by an individual or legal entity or “group” (as described in Rule 13d-5(b)(1) promulgated under the Exchange Act) of in excess of [[Percentage 2: Number]]% of the then outstanding voting securities of the Company (other than by means of conversion or exercise of the Debentures and the other securities issued together with the Debentures), (c) the Company merges into or consolidates with any other Person, or any Person merges into or consolidates with the Company and, after giving effect to such transaction, the stockholders of the Company immediately prior to such transaction own less than a majority of the aggregate voting securities of the Company or the surviving entity of such transaction, or (d) a transaction or series of transactions that constitute a “Rule 13e-3 transaction” (as such term is defined in Rule 13(e)-3 promulgated under the Exchange Act) in respect of the Common Stock. 
+
+“Common Stock” means the common stock of the Company, par value $[[USD Value 4: Number]] per share, and any other class of securities into which such securities may hereafter be reclassified or changed. 
+
+“Conversion Schedule” means the Conversion Schedule in the form of Schedule 1 attached hereto. 
+
+“Conversion Shares” means, collectively, the shares of Common Stock issuable upon conversion of this Debenture in accordance with the terms hereof. 
+
+“Debenture Register” means the records of the Company regarding registration and transfers of this Debenture. 
+
+“Equity Conditions” means, during the period in question, (a) the Company shall have duly honored all conversions scheduled to occur or occurring by virtue of one or more Notices of Conversion, if any, (b) the Common Stock is trading on a Trading Market and all of the shares issuable upon conversion of this Debenture are listed or quoted, if necessary, for trading on such Trading Market (and the Company believes, in good faith, that trading of the Common Stock on a Trading Market will continue uninterrupted for the foreseeable future), (c) there are a sufficient number of authorized but unissued and otherwise unreserved shares of Common Stock for the issuance of all of the shares then issuable pursuant to the conversion of this Debenture, (d) there is no existing Mandatory Redemption Event and no existing event which, with the passage of time or the giving of notice, would constitute an Mandatory Redemption Event, and (e) for each Trading Day in a period of 10 consecutive Trading Days prior to the applicable date in question, the average daily trading volume for the Common Stock on the principal Trading Market exceeds [[Shares 1: Number]] shares per Trading Day. 
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended. 
+
+“Exempt Issuance” means the issuance of (a) shares of Common Stock or options to employees, officers or directors of or consultants to the Company pursuant to any stock or option 
+
+^^^^^ 
+plan adopted by a majority of the non-employee members of the Board of Directors or a majority of the members of a committee of non-employee directors established for such purpose; (b) securities upon the conversion of the Debentures and/or other securities exercisable or exchangeable for or convertible into shares of Common Stock issued and outstanding on the date hereof; (c) securities issued pursuant to acquisitions or strategic transactions approved by a majority of the disinterested members of the Board of Directors, provided that any such issuance shall only be to a Person (or to the equity holders of a Person) which is, itself or through its subsidiaries, an operating company or as consideration for an asset, in either case, in a business synergistic with the business of the Company and shall provide to the Company additional benefits in addition to the investment of funds, but shall not include a transaction in which the Company is issuing securities primarily for the purpose of raising capital or to an entity whose primary business is investing in securities; (d) securities authorized for issuance by a majority of the disinterested members of the Board of Directors, provided that the number of shares of Common Stock so authorized for issuance or issuable upon conversion, exercise or exchange of any security so authorized for issuance in such issuance, together with the number of shares of Common Stock issued or issuable upon conversion, exercise or exchange of any security previously issued by the Company pursuant to this clause (d), in the aggregate, does not exceed [[Percentage 3: Number]]% of the Fully-Diluted Outstanding Common Stock as of the date of the securities are issued; and (e) shares of Common Stock issued pursuant to the anti-dilution provisions contained in the Debentures and restated warrants, in each case, as amended from time to time, issued, or to be issued, pursuant to the Purchase Agreement or in those certain (i) subscription agreements, as amended from time to time, entered into pursuant to the series of financing transactions that closed on [[Date 3: Date]] and [[Date 4: Date]], (ii) unit subscription agreements, as amended from time to time, entered into pursuant to the series of financing transactions that closed on [[Date 5: Date]], [[Date 6: Date]] and [[Date 7: Date]], and (iii) convertible debentures, as amended from time to time, issued pursuant to the private placement offering that closed on [[Date 8: Date]] and [[Date 9: Date]]. 
+
+“Fully-Diluted Outstanding Common Stock” means, as of a particular date, the sum of (a) the then issued and outstanding shares of Common Stock and (b) the shares of Common Stock then issuable pursuant to outstanding securities of the Company that entitle the holder thereof to acquire at any time Common Stock, including, without limitation, any debt, preferred stock, rights, options, warrants or other instrument that is at any time convertible into or exercisable or exchangeable for, or otherwise entitles the holder thereof to receive, Common Stock or securities that are themselves convertible into or exercisable or exchangeable for Common Stock. 
+
+“Mandatory Default Amount” means the sum of (a) [[Percentage 4: Number]]% of the then outstanding principal amount of this Debenture and (b) [[Percentage 5: Number]]% of accrued and unpaid interest hereon. 
+
+“Mandatory Redemption Event” means any of the following events: (a) the Company shall be a party to any Change of Control Transaction; (b) the Company’s reporting requirements under the Exchange Act are suspended or terminated; (c) at any time during the period commencing from the six month anniversary of the Original Issuance Date hereof and ending at such time that all of the shares of Common Stock issuable upon conversion of this Debenture may be sold without the requirement for the Company to be in compliance with Rule 144(c)(1) 
+
+^^^^^ 
+and otherwise without restriction or limitation pursuant to Rule 144, if the Company shall fail for any reason to satisfy the current public information requirement under Rule 144(c); or (d) the Common Stock is not listed or quoted on a Trading Market. 
+
+“Original Issue Date” means the date of the first issuance of the Debentures, regardless of any transfers of any Debenture and regardless of the number of instruments which may be issued to evidence such Debentures. 
+
+“Permitted Indebtedness” means (a) lease obligations and purchase money indebtedness of up to $[[USD Value 1: Number]] in the aggregate, incurred in connection with the acquisition of capital assets and lease obligations with respect to acquired or leased assets, (b) indebtedness to a bank or similar financial or lending institution under a credit facility or an extension, modification or renewal thereof in an aggregate amount of up to $[[USD Value 1]] (c) indebtedness that is subordinate to the Debentures and (d) indebtedness for borrowed money incurred after the date of the Purchase Agreement in an amount less than, in the aggregate, $[[USD Value 2: Number]] 
+
+“Person” means an individual or corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability company, joint stock company, government (or an agency or subdivision thereof) or other entity of any kind. 
+
+“Purchase Agreement” means the Amended and Restated Securities Purchase Agreement, dated as of December ___, 2009 among the Company and the original Holders, as amended, modified or supplemented from time to time in accordance with its terms. 
+
+“Rule 144” means Rule 144 promulgated under the Securities Act, as such rule may be amended from time to time, or any similar rule or regulation hereafter adopted by the Commission having substantially the same effect as such Rule. 
+
+“Securities Act” means the Securities Act of 1933, as amended. 
+
+“Trading Day” means a day on which the principal Trading Market is open for trading. 
+
+“Trading Market” means any of the following markets or exchanges on which the Common Stock is listed or quoted for trading on the date in question: the NYSE Amex, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New York Stock Exchange or the OTC Bulletin Board (or any successors to any of the foregoing); provided, however, if the Common Stock is not listed or quoted on any of the foregoing markets or exchanges as of the date in question, Trading Market shall mean the New York Stock Exchange. 
+
+Section 2.  Interest.  
+
+^^Payment of Interest in Cash. The Company shall pay interest to the Holder on the aggregate unconverted and then outstanding principal amount of this Debenture at the rate of [[Percentage 1]]% per annum, payable in cash quarterly on [[Date 10: Date]], [[Date 11: Date]], [[Date 12: Date]] and [[Date 13: Date]], 
+
+^^^^^ 
+beginning on [[Date 14: Date]], on each Conversion Date (as to that principal amount then being converted) and on the Maturity Date. 
+
+^^Interest Calculations. Interest shall be calculated on the basis of a 360-day year, consisting of twelve 30 calendar day periods, and shall accrue daily commencing on the Original Issue Date until payment in full of the outstanding principal, together with all accrued and unpaid interest, liquidated damages and other amounts which may become due hereunder, has been made. 
+
+^^Late Fee. All overdue accrued and unpaid interest to be paid hereunder shall entail a late fee at an interest rate equal to the lesser of [[Percentage 6: Number]]% per annum or the maximum rate permitted by applicable law which shall accrue daily from the date such interest is due hereunder through and including the date of actual payment in full. 
+
+^^Prepayment. Except as otherwise set forth in this Debenture, the Company may not prepay any portion of the principal amount of this Debenture without the prior written consent of the Holder. 
+
+Section 3.  Registration of Transfers and Exchanges. 
+
+^^Different Denominations. This Debenture is exchangeable for an equal aggregate principal amount of Debentures of different authorized denominations, as requested by the Holder surrendering the same. No service charge will be payable for such registration of transfer or exchange. 
+
+^^Investment Representations. This Debenture has been issued subject to certain investment representations of the original Holder set forth in the Purchase Agreement and may be transferred or exchanged only in compliance with the Purchase Agreement and applicable federal and state securities laws and regulations. 
+
+^^Reliance on Debenture Register. Prior to due presentment for transfer to the Company of this Debenture, the Company and any agent of the Company may treat the Person in whose name this Debenture is duly registered on the Debenture Register as the owner hereof for the purpose of receiving payment as herein provided and for all other purposes, whether or not this Debenture is overdue, and neither the Company nor any such agent shall be affected by notice to the contrary. 
+
+Section 4.  Conversion.  
+
+^^Voluntary Conversion. At any time after the Original Issue Date until this Debenture is no longer outstanding, this Debenture shall be convertible, in whole or in part, into shares of Common Stock at the option of the Holder, at any time and from time to time. The Holder shall effect conversions by delivering to the Company a Notice of Conversion, the form of which is attached hereto as Annex A (each, a “Notice of Conversion”), specifying therein the principal amount of this Debenture to be converted and the date on which such conversion shall 
+
+^^^^^ 
+be effected (such date, the “Conversion Date”). If no Conversion Date is specified in a Notice of Conversion, the Conversion Date shall be the date that such Notice of Conversion is deemed delivered hereunder. Conversions hereunder shall have the effect of lowering the outstanding principal amount of this Debenture in an amount equal to the applicable amount being converted. The Holder and the Company shall maintain records showing the principal amount(s) converted and the date of such conversion(s). The Company may deliver an objection to any Notice of Conversion within three Business Days of delivery of such Notice of Conversion. In the event of any dispute or discrepancy, the records of the Company shall be controlling and determinative in the absence of manifest error. **The Holder, and any assignee by acceptance of this Debenture, acknowledge and agree that, by reason of the provisions of this paragraph, following conversion of a portion of this Debenture, the unpaid and unconverted principal amount of this Debenture may be less than the amount stated on the face hereof.** 
+
+^^Conversion Price. The conversion price in effect on any Conversion Date shall be equal to **$[[USD Value 3]],** subject to adjustment herein (the “Conversion Price”). 
+
+^^Mechanics of Conversion.  
+
+^^^Conversion Shares Issuable Upon Conversion of Principal Amount. The number of Conversion Shares issuable upon a conversion hereunder shall be determined by the quotient obtained by dividing (x) the outstanding principal amount of this Debenture to be converted by (y) the Conversion Price. 
+
+^^^Delivery of Certificate Upon Conversion. Not later than five Trading Days after each Conversion Date, the Company shall deliver, or cause to be delivered, to the Holder a certificate or certificates representing the number of Conversion Shares being acquired upon the conversion of this Debenture. 
+
+^^^Reservation of Shares Issuable Upon Conversion. The Company covenants that it will at all times reserve and keep available out of its authorized and unissued shares of Common Stock for the sole purpose of issuance upon conversion of this Debenture as herein provided, free from preemptive rights or any other actual contingent purchase rights of Persons other than the Holder (and the other holders of the Debentures), not less than such aggregate number of shares of the Common Stock as shall (subject to the terms and conditions set forth in the Purchase Agreement) be issuable (taking into account the adjustments of Section 5) upon the conversion of the then outstanding principal amount of this Debenture. The Company covenants that all shares of Common Stock that shall be so issuable shall, upon issue, be duly authorized, validly issued, fully paid and nonassessable. 
+
+^^^Fractional Shares. No fractional shares or scrip representing fractional shares shall be issued upon the conversion of this Debenture. As to any fraction of a share which the Holder would otherwise be entitled to purchase upon 
+
+^^^^^ 
+such conversion, the Company shall at its election, either pay a cash adjustment in respect of such final fraction in an amount equal to such fraction multiplied by the Conversion Price or round up to the next whole share. 
+
+^^Transfer Taxes. The issuance of certificates for shares of the Common Stock on conversion of this Debenture shall be made without charge to the Holder hereof for any documentary stamp or similar taxes that may be payable in respect of the issue or delivery of such certificates; provided, however, that, the Company shall not be required to pay any tax that may be payable in respect of any transfer involved in the issuance and delivery of any such certificate upon conversion in a name other than that of the Holder and the Company shall not be required to issue or deliver such certificates unless or until the Person or Persons requesting the issuance thereof shall have paid to the Company the amount of such tax or shall have established to the satisfaction of the Company that such tax has been paid. 
+
+Section 5.  Certain Adjustments.  
+
+^^Stock Dividends and Stock Splits. If the Company, at any time while this Debenture is outstanding: (i) pays a stock dividend or otherwise makes a distribution or distributions payable in shares of Common Stock on shares of Common Stock, (ii) subdivides outstanding shares of Common Stock into a larger number of shares, (iii) combines (including by way of a reverse stock split) outstanding shares of Common Stock into a smaller number of shares or (iv) issues, in the event of a reclassification of shares of the Common Stock, any shares of capital stock of the Company, then the Conversion Price shall be multiplied by a fraction of which the numerator shall be the number of shares of Common Stock (excluding any treasury shares of the Company) outstanding immediately before such event and of which the denominator shall be the number of shares of Common Stock outstanding immediately after such event. Any adjustment made pursuant to this Section 5(a) shall become effective immediately after the record date for the determination of stockholders entitled to receive such dividend or distribution and shall become effective immediately after the effective date in the case of a subdivision, combination or reclassification. 
+
+^^Subsequent Equity Sales. Other than in respect of an Exempt Issuance, if, at any time while this Debenture is outstanding, the Company sells any shares of Common Stock or sells any option or right entitling any Person to acquire shares of Common Stock at an effective price per share that is lower than the then Conversion Price (such lower price, the “Base Conversion Price”), then the Conversion Price shall be reduced to equal the Base Conversion Price. Notwithstanding anything to the contrary in this Section 5(b), in no event shall the Conversion Price be reduced to less than $[[USD Value 5: Number]] (subject to adjustment pursuant to Section 5(a)) as a result of any adjustment to the Conversion Price pursuant to this Section 5(b). 
+
+^^Calculations. All calculations under this Section 5 shall be made to the nearest cent or the nearest 1/100th of a share, as the case may be. For purposes of this Section 5, the number of shares of Common Stock deemed to be issued and outstanding as of a given date 
+
+^^^^^ 
+shall be the number of shares of Common Stock (excluding any treasury shares of the Company) issued and outstanding. 
+
+^^Notice to the Holder of Adjustment to Conversion Price. Whenever the Conversion Price is adjusted pursuant to any provision of this Section 5, the Company shall promptly deliver to the Holder a notice setting forth the Conversion Price after such adjustment and setting forth a brief statement of the facts requiring such adjustment. 
+
+Section 6.  
+
+^^Optional Redemption at Election of Company. Subject to the provisions of this Section 6(a), at any time after Original Issue Date, the Company may deliver a notice to the Holder (an “Optional Redemption Notice” and the date such notice is deemed delivered hereunder, the “Optional Redemption Notice Date”) of the Company’s election to redeem all of the then outstanding principal amount of this Debenture for cash in an amount equal to the then outstanding principal amount of this Debenture plus accrued and unpaid interest hereon (the “Optional Redemption Amount”) on the 10th Trading Day following the Optional Redemption Notice Date (such date, the “Optional Redemption Date”, such 10 Trading Day period, the “Optional Redemption Period” and such redemption, the “Optional Redemption”). The Optional Redemption Amount shall be paid in full on the Optional Redemption Date. The Company may only effect an Optional Redemption if each of the Equity Conditions shall have been met (unless waived in writing by the Holder) on each Trading Day during the period commencing on the Optional Redemption Notice Date through the Optional Redemption Date. If any of the Equity Conditions shall cease to be satisfied at any time during the Optional Redemption Period, then the Holder may elect to nullify the Optional Redemption Notice by notice to the Company within one Trading Day after the first day on which any such Equity Condition has not been met in which case the Optional Redemption Notice shall be null and void, *ab initio*. The Company covenants and agrees that it will honor all Notices of Conversion tendered from the time of delivery of the Optional Redemption Notice through the date all amounts owing thereon are due and paid in full. The Company’s determination to pay an Optional Redemption in cash shall be applied ratably to all of the holders of the then outstanding Debentures based on their (or their predecessor’s) initial purchases of Debentures pursuant to the Purchase Agreement. 
+
+^^Redemption Procedure. If any portion of the payment pursuant to an Optional Redemption shall not be paid by the Company by the applicable due date, interest shall accrue thereon at an interest rate equal to the lesser of [[Percentage 7: Number]]% per annum or the maximum rate permitted by applicable law until such amount is paid in full. The Holder may elect to convert the outstanding principal amount of this Debenture pursuant to Section 4 prior to actual payment in cash for any redemption under this Section 6 by the delivery of a Notice of Conversion to the Company. 
+
+Section 7.  Negative Covenants. As long as any portion of this Debenture remains outstanding, unless the holders of at least a majority of the principal amount of the then outstanding Debentures shall have otherwise given prior written consent, on or after the Original Issue Date, the Company shall not (i) pay cash dividends or distributions on any equity securities 
+
+^^^^^ 
+of the Company or (ii) other than Permitted Indebtedness, incur any indebtedness for borrowed money of any kind. 
+
+Section 8.  Mandatory Redemption. If any Mandatory Redemption Event occurs and remains in effect for 10 consecutive Trading Days, at the Holder’s election as evidenced by written notice to the Company, the Mandatory Default Amount shall be immediately due and payable in cash to the Holder. Upon the payment in full of the Mandatory Default Amount, the Holder shall promptly surrender this Debenture to or as directed by the Company. 
+
+Section 9.  Miscellaneous.  
+
+^^Notices. Any and all notices or other communications or deliveries to be provided by the Holder hereunder, including, without limitation, any Notice of Conversion, shall be in writing and delivered personally, by facsimile to the facsimile number of the Company set forth on the signature page hereof, or sent by a nationally recognized overnight courier service addressed to the Company at the address set forth above, or such other facsimile number or address as the Company may specify for such purposes by notice to the Holder delivered in accordance with this Section 9(a). Any and all notices or other communications or deliveries to be provided by the Company hereunder shall be in writing and delivered personally, by facsimile, or sent by a nationally recognized overnight courier service addressed to each Holder at the facsimile number or address of the Holder appearing on the books of the Company, or if no such facsimile number or address appears on the books of the Company, at the principal place of business of such Holder, as set forth in the Purchase Agreement. Any notice or other communication or deliveries hereunder shall be deemed given and effective on the earliest of (i) the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number set forth on the signature pages attached hereto prior to 5:30 p.m. (Pacific time) on any date, (ii) the next Trading Day after the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number set forth on the signature pages attached hereto on a day that is not a Trading Day or later than 5:30 p.m. (Pacific time) on any Trading Day, (iii) the second Trading Day following the date of mailing, if sent by U.S. nationally recognized overnight courier service or (iv) upon actual receipt by the party to whom such notice is required to be given. 
+
+^^Pari Passu. This Debenture ranks *pari passu* with all other Debentures now or hereafter issued under the terms set forth herein. 
+
+^^Lost or Mutilated Debenture. If this Debenture shall be mutilated, lost, stolen or destroyed, the Company shall execute and deliver, in exchange and substitution for and upon cancellation of a mutilated Debenture, or in lieu of or in substitution for a lost, stolen or destroyed Debenture, a new Debenture for the principal amount of this Debenture so mutilated, lost, stolen or destroyed, but only upon receipt of an affidavit and indemnity agreement from the Holder and evidence of such loss, theft or destruction of such Debenture, and of the ownership hereof, in each case, reasonably satisfactory to the Company. 
+
+^^^^^ 
+^^Governing Law. All questions concerning the construction, validity, enforcement and interpretation of this Debenture shall be governed by and construed and enforced in accordance with the internal laws of the State of California, without regard to the principles of conflict of laws thereof. Each party agrees that all legal proceedings concerning the interpretation, enforcement and defense of the transactions contemplated by any of the Transaction Documents (whether brought against a party hereto or its respective directors, officers, shareholders, employees or agents) shall be commenced in the state and federal courts sitting in the City of [[Address 2: Address]] State of California (the “California Courts”). Each party hereto hereby irrevocably submits to the exclusive jurisdiction of the California Courts for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein (including with respect to the enforcement of any of the Transaction Documents), and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of such California Courts, or such California Courts are improper or inconvenient venue for such proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Debenture and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any other manner permitted by applicable law. Each party hereto hereby irrevocably waives, to the fullest extent permitted by applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this Debenture or the transactions contemplated hereby. If any party shall commence an action or proceeding to enforce any provisions of this Debenture, then the prevailing party in such action or proceeding shall be reimbursed by the other party for its attorneys fees and other costs and expenses incurred in the investigation, preparation and prosecution of such action or proceeding. 
+
+^^Waiver. Any waiver by the Company or the Holder of a breach of any provision of this Debenture shall not operate as or be construed to be a waiver of any other breach of such provision or of any breach of any other provision of this Debenture. The failure of the Company or the Holder to insist upon strict adherence to any term of this Debenture on one or more occasions shall not be considered a waiver or deprive that party of the right thereafter to insist upon strict adherence to that term or any other term of this Debenture on any other occasion. Any waiver by the Company or the Holder must be in writing. 
+
+^^Severability. If any provision of this Debenture is invalid, illegal or unenforceable, the balance of this Debenture shall remain in effect, and if any provision is inapplicable to any Person or circumstance, it shall nevertheless remain applicable to all other Persons and circumstances. If it shall be found that any interest or other amount deemed interest due hereunder violates the applicable law governing usury, the applicable rate of interest due hereunder shall automatically be lowered to equal the maximum rate of interest permitted under applicable law. The Company covenants (to the extent that it may lawfully do so) that it shall not at any time insist upon, plead, or in any manner whatsoever claim or take the benefit or advantage of, any stay, extension or usury law or other law which would prohibit or forgive the 
+
+^^^^^ 
+Company from paying all or any portion of the principal of or interest on this Debenture as contemplated herein, wherever enacted, now or at any time hereafter in force, or which may affect the covenants or the performance of this indenture, and the Company (to the extent it may lawfully do so) hereby expressly waives all benefits or advantage of any such law, and covenants that it will not, by resort to any such law, hinder, delay or impede the execution of any power herein granted to the Holder, but will suffer and permit the execution of every such as though no such law has been enacted. 
+
+^^Next Business Day. Whenever any payment or other obligation hereunder shall be due on a day other than a Business Day, such payment shall be made on the next succeeding Business Day. 
+
+^^Headings. The headings contained herein are for convenience only, do not constitute a part of this Debenture and shall not be deemed to limit or affect any of the provisions hereof. 
+
+^^^Amendments. This Debenture may be modified or amended or the provisions hereof waived with the prior written consent of the Company and Holders holding Debentures at least equal to a majority of the aggregate principal amount then outstanding under all Debentures. 
+
+\centered ***************** 
+
+\centered *(Signature Pages Follow)* 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Company has caused this Debenture to be duly executed by a duly authorized officer as of the date first above indicated. 
+
+**[[Organization 1 Name]]**
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+Facsimile No. for delivery of Notices: [[Phone 1]]
+
+^^^^^ 
+
+\centered **ANNEX A** 
+
+\centered **NOTICE OF CONVERSION** 
+
+The undersigned hereby elects to convert principal under the [[Percentage 1]]% Convertible Debenture due [[Date 2]] of [[Organization 1 Name]], a Colorado corporation (the “Company”), into shares of common stock (the “Common Stock”), of the Company according to the conditions hereof, as of the date written below. If shares of Common Stock are to be issued in the name of a person other than the undersigned, the undersigned will pay all transfer taxes payable with respect thereto and is delivering herewith such certificates and opinions as reasonably requested by the Company in accordance therewith. No fee will be charged to the holder for any conversion, except for such transfer taxes, if any. 
+
+(*Complete each line below*)  
+
+\centered 
+
+^**Conversion Date:** 
+
+^**Principal Amount of Debenture to be Converted:** 
+
+^**Conversion Price:**    $ 
+
+^**Number of Conversion Shares to be Issued:** 
+
+^**Principal Amount of Debenture After Conversion:** 
+
+^**Address for Delivery of Conversion Shares:** 
+
+Holder: 
+
+Signature: 
+
+Printed Name: 
+
+Title (if applicable): 
+
+^^^^^ 
+\centered **Schedule 1** 
+
+\centered **CONVERSION SCHEDULE** 
+
+The [[Percentage 1]]% Convertible Debentures due on December 31, 2011 in the aggregate principal amount of $ are issued by [[Organization 1 Name]], a Colorado corporation. This Conversion Schedule reflects conversions made under Section 4 of the above referenced Debenture. 
+
+\centered 
+
+**Date**    **Amount**    **Aggregate Principal Amount** **of**    **of**    **Remaining** **Conversion**    **Conversion**    **Subsequent to Conversion**    **Company Attest** 

@@ -1,0 +1,37 @@
+\centered 
+
+\centered LOAN COMMITMENT DATED [[Date 1: Date]]
+
+\centered [[Organization 1 Name]]
+
+\centered [[Organization 1 Name]]
+
+\centered Scotia Plaza Bldg. 9th Floor
+
+\centered 51th St. & Federico Boyd Avenue
+
+\centered P. O. Box 0816-01114
+
+\centered Panama, Republic of Panama
+
+May 11, 2010   
+To: [[Organization 2 Name]] 
+[[Address 1: Address]]  
+RE: Loan Commitment  
+Radium Ventures of 51th St. & Federico Boyd Avenue, Panama, Republic of Panama hereby agrees to loan [[Organization 2 Name]], up to the sum of US $[[USD Value 1: Number]] at an interest rate of [[Percentage 1: Number]]% per annum for a period of two years ([[Date 2: Date]]) for the purposes of providing [[Organization 2 Name]], with working capital in connection with its proposed exploration programs. This is an unsecured demand loan and can also be repaid at anytime.
+
+Accepted by:  
+[[Accepted by Signatory Email: Identity | Signature]]
+__________________________________________
+{{Accepted by Entity => By: [[Accepted by Signatory First Name]] [[Accepted by Signatory Last Name]]
+Title: [[Accepted by Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]], President 
+[[Organization 1 Name]]   
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+[[Person 2 First Name]] [[Person 2 Last Name]], President 
+[[Organization 2 Name]]

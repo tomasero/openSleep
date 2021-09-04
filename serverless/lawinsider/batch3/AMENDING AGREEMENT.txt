@@ -1,0 +1,86 @@
+\centered **AMENDING AGREEMENT**
+
+\centered **(Ryland/Eternal Royalty Purchase Agreement)**
+
+**THIS AGREEMENT** dated [[Date 1: Date]].  
+**BETWEEN:**  
+**[[Organization 1 Name]]**, a body corporate having offices in the City of Vancouver, in the Province of British Columbia (“**Ryland**”)
+
+\centered - and - -
+
+**[[Organization 2 Name]]**, a body corporate having offices in the City of Littleton, in the State of Colorado (“**Eternal**”)
+
+**WHEREAS** Ryland and Eternal are parties to a Royalty Purchase Agreement dated [[Date 2: Date]] providing for the sale of certain royalty interests (the “**Ryland/Eternal Royalty Purchase Agreement**”);
+
+**AND WHEREAS** the parties neglected to reduce the Cash Consideration (as defined in the Ryland/Eternal Royalty Purchase Agreement) to reflect their intention that Eternal separately acquire and pay for the Hardy Tangibles (as likewise defined in the Ryland/Eternal Royalty Purchase Agreement);
+
+**AND WHEREAS** the parties wish to amend the Ryland/Eternal Royalty Purchase Agreement by (i) reducing the Cash Consideration by a negotiated US dollar value in respect of the Hardy Tangibles and (ii) making consequential adjustments to the allocation of the Property Consideration (as defined in the Ryland/Eternal Royalty Purchase Agreement);
+
+**AND WHEREAS** the parties wish to confirm that the total consideration other than share consideration agreed to be paid by Ryland for the Eternal Royalties (as defined in the Ryland/Eternal Royalty Purchase Agreement) is USD $[[USD Value 1: Number]] plus CDN $[[USD Value 2: Number]];
+
+**NOW THEREFORE** in consideration of the premises hereto, the covenants and agreements hereinafter set forth and contained and other good and valuable consideration (the receipt and sufficiency of which is hereby acknowledged), the parties agree to amend the Ryland/Eternal Royalty Purchase Agreement as follows:
+
+\centered **AMENDMENTS**
+
+^^**Reduction of Cash Consideration**
+
+The Cash Consideration (exclusive of any required withholding taxes) is reduced from USD $[[USD Value 3: Number]] to USD $[[USD Value 4: Number]]
+
+^^**Allocation of Property Consideration**
+
+The allocation of the Property Consideration (totalling CDN $[[USD Value 2]]) in Clause 4(b)(i) through (iii) is amended to read as follows:
+
+^^^Hardy PNG Rights: CDN $[[USD Value 5: Number]]
+
+^^^Hardy Tangibles: CDN $[[USD Value 6: Number]]
+
+^^^Hardy Miscellaneous Interests: CDN $[[USD Value 7: Number]]
+
+\centered **RATIFICATION**
+
+^^**Ryland/Eternal Royalty Purchase Agreement**
+
+This Agreement is supplementary to and shall form one instrument with the Ryland/Eternal Royalty Purchase Agreement, such instrument shall henceforth be read together with this Agreement and have effect so far as practical as though all the relevant provisions hereof and thereof were contained in one instrument and the Ryland/Eternal Royalty Purchase Agreement, as amended, modified or supplemented by this Agreement, is in all respects ratified and confirmed.
+
+\centered **MISCELLANEOUS**
+
+^^**Headings**
+
+The headings of clauses herein are inserted for convenience of reference only and shall not affect the construction of the provisions hereof.
+
+^^**Supercedes Previous Agreements**
+
+This Agreement supercedes any other agreements, documents, writings and verbal understandings between the parties relating to the subject matter of this Agreement, and expresses all of the terms and conditions agreed upon by the parties with respect thereto.
+
+^^**Governing Laws/Courts**
+
+^^**Governing Laws**: This Agreement shall, in all respects, be subject to, interpreted, construed and enforced in accordance with and under the laws of the Province of Alberta and the laws of Canada applicable therein and shall, in every regard, be treated as a contract made in the Province of Alberta. To the extent that the location of the Royalty Lands in the Province of Saskatchewan requires the application of the laws in force in the Province of Saskatchewan, such laws shall be adduced as evidence in the Alberta courts having jurisdiction in respect of a dispute arising hereunder.
+
+^^**Courts**: The parties irrevocably attorn and submit to the exclusive jurisdiction of the courts of the Province of Alberta and courts of appeal therefrom in respect of all matters arising out of this Agreement.
+
+^^**Severability**
+
+If any covenant or condition contained in this Agreement is determined to be, in whole or in part, invalid or unenforceable by reason of any rule of law or public policy, such invalidity or unenforceability will not affect the validity or enforceability of any other covenant or provision, such partial invalidity or unenforceability shall not affect the validity or enforceability of the remainder of such covenant or provision and such invalid or unenforceable covenant or provision or portion thereof, as the case may be, shall be severable from the remainder of this Agreement.
+
+^^**Further Assurances**
+
+Each party, without further consideration, shall in a timely fashion do or perform or cause to be done or performed all such further and other acts and things, execute, acknowledge and deliver or cause to be executed, acknowledged and delivered all such further and other instruments, deeds and other writings and generally shall take or cause to be taken all such further and other actions as may be reasonably necessary or desirable to carry out its obligations hereunder or to ensure and give full force and effect to the provisions and intent, purpose and meaning of this Agreement.
+
+^^**Enurement**
+
+This Agreement shall be binding upon and shall enure to the benefit of the parties and their respective successors, receivers, receiver-managers, trustees and permitted assigns.
+
+^^**Counterparts and Delivery**
+
+This Agreement may be executed in counterparts and delivered by electronic or other means, which shall constitute effective execution and delivery.
+
+**IN WITNESS WHEREOF** the parties have executed this Agreement as of the date first written above.
+
+**[[Organization 1 Name]]**      **[[Organization 2 Name]]**
+
+Per:   [[Per Signatory Email: Identity | Signature]]
+__________________________________________
+{{Per Entity => By: [[Per Signatory First Name]] [[Per Signatory Last Name]]
+Title: [[Per Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]] President      [[Person 2 First Name]] [[Person 2 Last Name]] Chief Executive Officer

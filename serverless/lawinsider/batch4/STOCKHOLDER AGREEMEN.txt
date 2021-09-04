@@ -1,0 +1,448 @@
+\centered **STOCKHOLDER AGREEMENT**
+
+This STOCKHOLDER AGREEMENT (this “Agreement”), dated as of [[Date 1: Date]], is among (i) [[Organization 1 Name]], a Delaware corporation (the “Company”), (ii) the initial stockholders listed on Schedule hereto (each, an “Initial Stockholder” and collectively, the “Initial Stockholders”), and (iii) any Person who becomes a party to this Agreement by executing an Instrument of Accession (“Instrument of Accession”), in the form of Exhibit A hereto (collectively, the “Subsequent Stockholders”).
+
+WHEREAS, the Company and certain of the Initial Stockholders have entered into a Share Purchase Agreement, dated as of the date hereof (the “Share Purchase Agreement”), pursuant to which the Company shall issue shares of Series A Preferred Stock and Common Stock to each of such Initial Stockholders on the terms and conditions set forth therein;
+
+WHEREAS, the Company, [[Organization 2 Name]], Inc. (“BSOA”), [[Organization 3 Name]] (“CV”), and the stockholders of BSOA and CV (the “Selling Stockholders”), have entered into a Stock Purchase Agreement, dated as of the date hereof (the “Acquisition Agreement”), pursuant to which the Company will purchase certain shares of the issued and outstanding capital stock of BSOA and CV from the Selling Stockholders and the Selling Stockholders will exchange certain shares of the issued and outstanding capital stock of BSOA and CV for shares of Series B Preferred Stock and Common Stock, on the terms and subject to the provisions of the Acquisition Agreement;
+
+WHEREAS, but for the execution and delivery of this Agreement by the Company and the Initial Stockholders, the Company and Initial Stockholders would not be willing to enter into the Share Purchase Agreement and the Acquisition Agreement, as applicable, or to consummate the transactions contemplated thereby, which transactions will benefit the parties; and
+
+WHEREAS, the parties hereto wish to set forth their relative rights with regard to the transfer and issuance of the Company’s securities, election of the Company’s Board of Directors and certain other matters concerning the parties’ ownership and transfer of the Company’s securities;
+
+NOW, THEREFORE, the parties to this Agreement hereby agree as follows:
+
+^DEFINITIONS. For all purposes of this Agreement, the following terms shall have the meanings set forth below:
+
+“Affiliate” shall mean, with respect to any specified Person, any Person directly or indirectly controlling, controlled by or under direct or indirect common control with such specified Person and shall include, without limitation, (a) any Person who is a director, officer, executive employee, partner or trustee of such specified Person (or a similar capacity), or beneficial holder of a Material Interest in such specified Person, any general partner of such specified Person (if such specified Person is organized as a limited partnership) and Family Members of any such Persons, (b) any Person of which such specified Person or an Affiliate (as defined in clause (a) above) of such specified Person directly or indirectly, holds a Material Interest, (c) any Person of which an Affiliate (as defined in clause (a) above) of such Stockholder
+
+is a general partner, director, officer, executive employee or trustee (or a similar capacity), (d) in the case of a specified Person who is an individual, Family Members of such Person, (e) if such Person is a limited partnership, any other limited partnership the general partner of which (or the general partner of such general partner, if such general partner is itself a partnership) is the same individual or group of individuals that serves as the general partner of such Person (or as the general partner of such general partner, if such general partner of such Person is a partnership), and (f) any Person that is an Affiliated Fund of such Stockholder. For purposes of this definition, “Material Interest” means the direct or indirect beneficial ownership (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended) of voting securities or other voting interests representing at least fifty percent ([[Percentage 1: Number]]%) of the outstanding voting power of a Person or equity securities or other equity interests representing at least fifty percent ([[Percentage 1]]%) of the outstanding equity securities or equity interests of a Person.
+
+“Affiliated Fund” shall mean, with respect to any Person, an investment fund that is an Affiliate (as defined in clause (a) through (e) of the definition of Affiliate) of such Person, that is managed by an Affiliate (as defined in clause (a) through (e) of the definition of Affiliate) of such Person or that is advised by the same investment adviser as such Person or by an Affiliate (as defined in clause (a) through (e) of the definition of Affiliate) of such investment adviser.
+
+“[[Organization 4 Name]]” shall mean [[Organization 5 Name]] and its Affiliates, collectively.
+
+“AIG Lead Investor” shall mean [[Organization 6 Name]], L.P.
+
+“Approved Sale” shall have the meaning set forth in Section 3.1 hereof.
+
+“Common Stock” shall mean the Company’s Common Stock, $[[USD Value 2: Number]] par value per share.
+
+“Company” shall have the meaning set forth in the preamble hereof.
+
+“Company Election Period” shall have the meaning set forth in Section 2.2 hereof.
+
+“Competitor” shall mean any Person that is engaged in any business or enterprise, or that is an Affiliate of any individual or entity that is engage in any business or enterprise, that is competitive with the business of the Company or any of its subsidiaries, as determined reasonably and in good faith by the Board of Directors of the Company from time to time, provided, that any Person that owns, on a passive basis, less than one percent ([[Percentage 2: Number]]%) of the outstanding securities of any publicly-held corporation which is a Competitor, absent other involvement or engagement in the business of such corporation by such Person, shall not be deemed to a Competitor solely by virtue of such ownership.
+
+“Designated Holder” shall mean WestView, so long as WestView continues to hold all of the shares of Series A Preferred Stock held by it on the date hereof (other than any shares of Series A Preferred Stock disposed of by WestView pursuant to clauses (a) or (c) of Section 2.1), or holds more shares of the Series A Preferred Stock then outstanding, when aggregated with any shares of Series A Preferred Stock then held by its Affiliates, than each other single Stockholder, when aggregated with its respective Affiliates, provided, that if any time
+
+WestView does not continue to hold all shares of Series A Preferred Stock held by it on the date hereof and does not hold more shares of the Series A Preferred Stock then outstanding, when aggregated with any shares of Series A Preferred Stock then held by its Affiliates, than each other single Stockholder, when aggregated with its respective Affiliates, then WestView shall no longer be the Designated Holder and the AIG Lead Investor shall be the Designated Holder, provided, that if at such time, or any time thereafter, the [[Organization 4 Name]] neither holds all shares of Series A Preferred Stock held by it on the date hereof nor does it hold more shares of the Series A Preferred Stock then outstanding, collectively, than each other single Stockholder, when aggregated with its respective Affiliates, then the AIG Lead Investor shall not be the Designated Holder and there shall be no Designated Holder hereunder.
+
+“Eligible Major Holder” shall mean, as of any date and time, each (x) Major Holder that at such date and time continues to hold a number of Securities equal to no less than the lesser of [[Shares 1: Number]] shares of Series A Preferred Stock or Common Stock, or that number of Securities that equals fifty percent ([[Percentage 1]]%) of the Securities owned by such Major Holder on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole), and (y) each Subsequent Stockholder to whom any Major Holder transfers at least fifty percent ([[Percentage 1]]%) of the Securities owned by such Major Holder on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole) pursuant to Section 2.1(b).
+
+“Family Members” shall mean, with respect to any individual, any Related Person or Family Trust of such individual.
+
+“Family Trust” shall mean, with respect to any individual, any trust, limited partnership or limited liability company created solely for the benefit of one or more of such individual’s Related Persons and either controlled by such individual, or by a professional fiduciary or investment advisor for the benefit of such individual’s Related Persons.
+
+“Instrument of Accession” shall have the meaning set forth in the preamble hereof.
+
+“Investor Offer Notice” shall have the meaning set forth in Section 2.2 hereof.
+
+“Major Holders” shall mean (i) the Initial Stockholders listed on Schedule hereto and (ii) each Subsequent Stockholder to whom any of such Initial Stockholders transfers at least fifty percent ([[Percentage 1]]%) of the Securities owned by such Initial Stockholder on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole) pursuant to Section 2.1(b).
+
+“Non-Transferring Stockholder” shall have the meaning set forth in Section 2.2 hereof.
+
+“Participating Stockholders” shall have the meaning set forth in Section 2.3 hereof.
+
+“Person” shall mean an individual, partnership, limited liability company, corporation, association, trust, joint venture, unincorporated organization, or any government, governmental department or agency or political subdivision thereof.
+
+“Personal Representative” shall mean the successor or legal representative (including, without limitation, a guardian, executor, administrator or conservator) of a dead or incompetent Stockholder.
+
+“Preferred Stock” shall mean the Series A Preferred Stock and the Series B Preferred Stock.
+
+“Public Sale” shall mean any sale of Common Stock to the public pursuant to a public offering registered under the Securities Act, or to the public through a broker or market-maker pursuant to the provisions of Rule 144 (or any successor rule) adopted under the Securities Act.
+
+“Qualified Public Offering” shall mean a firm commitment underwritten public offering pursuant to an effective registration statement under the Securities Act covering the offer and sale of shares of Common Stock resulting in at least $[[USD Value 1: Number]] of gross proceeds to the Company or any selling shareholders.
+
+“Related Persons” shall mean, with respect to any individual, such individual’s parents, spouse, brothers, sisters and lineal descendants.
+
+“Restricted Securities Agreement” shall mean any agreements from time to time entered into between the Company and any Stockholder entitling the Company to repurchase any Securities from such Stockholder for any reason.
+
+“Securities” shall mean any securities issued by the Company, including but not limited to any shares of Common Stock, any shares of Preferred Stock, or any warrants, options or other rights to acquire shares of Common Stock, Preferred Stock or other securities of the Company as may be outstanding from time to time.
+
+“Securities Act” shall mean the United States of America Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+“Series A Preferred Stock” shall mean the Company’s Series A Preferred Stock, $.001 par value per share.
+
+“Series B Preferred Stock” shall mean the Company’s Series B Preferred Stock, $.001 par value per share.
+
+“Stockholder Election Period” shall have the meaning set forth in Section 2.2 hereof.
+
+“Stockholders” shall mean, collectively, the Initial Stockholders and any Subsequent Stockholders.
+
+“Subsidiary” shall mean, with respect to the Company, any corporation or other Person of which (i) a majority (by number of votes) of the outstanding shares or other equity interests of any class or classes of which shall at the time be owned or controlled by the Company or by one or more Subsidiaries of the Company, if the holders of the shares of such class or classes (a) are ordinarily, in the absence of contingencies, entitled to vote for the election of a majority of the directors (or persons performing similar functions) of the issuer thereof, even though the right so to vote has been suspended by the happening of such a contingency, or (b) are at the time entitled, as such holders, to vote for the election of a majority of the directors (or persons performing similar functions) of the issuer thereof, whether or not the right so to vote exists by reason of the happening of a contingency; or (ii) fifty percent ([[Percentage 1]]%) or more of the outstanding equity securities or equity interests are owned or controlled by the Company or one or more of its Subsidiaries.
+
+“Transfer” shall have the meaning set forth in Section 2.1 hereof.
+
+“Transferring Stockholder” shall have the meaning set forth in Section 2.2 hereof.
+
+“WestView” shall mean [[Organization 7 Name]], L.P.
+
+“Designated Holder Affiliate” shall mean, for purposes of Section 3 only, any Affiliate of the Designated Holder and any other Person who owns more than ten percent ([[Percentage 3: Number]]%) of the partnership interests or other shares of beneficial interests of the Designated Holder, and any Person in which the Designated Holder and its Affiliated Funds own more than ten percent ([[Percentage 3]]%) of the voting securities or other equity interests.
+
+^RESTRICTIONS ON TRANSFER OF SECURITIES.
+
+^^Transfer. Notwithstanding anything to the contrary in this Agreement, no Stockholder may directly or indirectly sell, assign, pledge or otherwise transfer (a “Transfer”), and the Company shall not issue or allow the Transfer of, any interest in any Securities, either voluntarily or involuntarily, by operation of law or otherwise without (a) the prior written consent of (x) the Designated Holder or, (y) in the event that there is no Designated Holder, Stockholders holding in excess of sixty-six and two-thirds percent (66 2/[[Percentage 4: Number]]%) of the number of shares of Series A Preferred Stock then outstanding, and (b) strict compliance with the terms of Sections 2.2 and 2.3, provided that any Transfer of any interest in any Securities, either voluntarily or involuntarily, by operation of law or otherwise, in any single transaction or series of related transactions (other than pursuant to an Approved Sale), that would result in any Person acquiring more than fifty percent ([[Percentage 1]]%) of the shares of Series A Preferred Stock held by any Designated Holder shall require the prior written consent of holders of in excess of sixty-six and two-thirds percent (66 2/[[Percentage 4]]%) of the shares of Series A Preferred Stock then outstanding, rather than the consent set forth in (x) above, and provided, further, that the following Transfers may be made without requiring any such consent of the Designated Holder or the other holders of the Series A Preferred Stock, as applicable, or compliance with Sections 2.2 or 2.3:
+
+^^in the case of any Stockholder that is not a natural person, Transfers (i) to its Affiliates and to trusts or other entities, all of the owners or beneficiaries of which are Affiliates, (ii) in the form of a distribution in kind by such Stockholder of all of the Securities then held by such Person to its general and limited partners, or (iii) to any other Person pursuant to such Stockholder’s co-sale rights under Section 2.3 hereof; or
+
+^^in the case of any Stockholder that is a natural person, Transfers (i) to such Stockholder’s Family Members or a trust or other entity all the owners or beneficiaries of which consist of such Stockholder’s Family Members, (ii) to such Stockholder’s Personal Representative, or (iii) to any other Person pursuant to such Stockholder’s co-sale rights under Section 2.3 hereof; or
+
+^^in the case of any Stockholder, pursuant to a Qualified Public Offering or an Approved Sale or to the Company (including pursuant to a Restricted Securities Agreement);
+
+provided, that (x) the restrictions contained in this Section 2 will continue to be applicable to the Securities after any Transfer pursuant to clauses (a) and (b) above, and (y) as a condition precedent to any such Transfer pursuant to clauses (a) and (b) above, the transferee of such Securities pursuant to the immediately preceding clause (x) above shall have executed and delivered to the Company an Instrument of Accession, and thereby agree to be bound by, and to comply with the terms of, this Agreement as a Stockholder party hereto.
+
+^^First Right of Purchase.
+
+^^Any Stockholder proposing to make any Transfer of Securities other than any Transfer of the type described in clauses (a) through (c) of Section 2.1 above, shall (x) require prior consent required pursuant to Section 2.1 and (y) comply with the provisions of this Section 2.2 and Section 2.3. At least forty-five (45) days prior to any such proposed Transfer, the transferring Stockholder (the “Transferring Stockholder”) will deliver a written notice (the “Investor Offer Notice”) to the Company. The Company shall promptly deliver a copy of such Investor Offer Notice to each of the holders of Series A Preferred Stock (the “Non-Transferring Stockholders”). The Investor Offer Notice will disclose in reasonable detail the number of Securities proposed to be transferred, the class or classes of such Securities, the proposed price, terms and conditions of the Transfer and the identity of the proposed transferee.
+
+^^Subject to the terms of this Section 2.2, the Company may elect to purchase all or a portion of the Securities specified in the Investor Offer Notice at the price and on the terms specified therein by delivering written notice of such election to the Transferring Stockholder and the Non-Transferring Stockholders within thirty (30) days after the delivery of the Investor Offer Notice (the “Company Election Period”). If the Company does not elect to purchase all of such Securities prior to the expiration of the Company Election Period, each of the Non-Transferring Stockholders may elect to purchase the balance of the Securities specified in the Investor Offer Notice at the price and on the terms specified therein by delivering written notice of such election to the Transferring Stockholder and the Company within fifteen (15) days after the expiration of the Company Election Period (the “Stockholder Election Period”).
+
+^^If the Company and/or any Non-Transferring Stockholders elect to purchase all of the Securities of such class being offered, subject to the terms of Section 2.1, the Transfer of such Securities will be consummated within forty-five (45) days after the expiration of the Company Election Period or the Stockholder Election Period, as the case may be. If more than one Non-Transferring Stockholder elects to purchase any of the Securities being offered, each Non-Transferring Stockholder electing to purchase such Securities will be entitled to purchase from the Transferring Stockholder a pro rata portion (based upon the respective numbers of Securities then held by such Non-Transferring Stockholders). If the Company and/or the Non-Transferring Stockholders do not elect to purchase all of the Securities being offered, neither the
+
+Company nor the Non-Transferring Stockholders shall be entitled to purchase any of the Securities being offered and the Transferring Stockholder may, within ninety (90) days but not less than fifteen (15) days after the expiration of the Stockholder Election Period, complete the Transfer of such Securities at a price and on terms no more favorable to the transferees than the price and terms offered in the Investor Offer Notice, provided, that no such Transfer may be completed except in compliance with Section 2.3, if applicable, and unless each of such transferees shall have executed and delivered an Instrument of Accession as a condition precedent to the transfer thereof. If the Transferring Stockholder fails to consummate such Transfer within the ninety (90) day period after the expiration of the Stockholder Election Period, any subsequent proposed Transfer of such Securities shall be once again subject to the provisions of this Section 2.2.
+
+^^Participation Rights. In the event that the Non-Transferring Stockholders and the Company elect not to purchase all of the Securities specified in an Investor Offer Notice, each of the Stockholders other than the Transferring Stockholder may elect to participate in the contemplated sale by delivering written notice to the Transferring Stockholder within fifteen (15) days after expiration of the Company Election Period. If any of such Stockholders elects to participate in such sale (the “Participating Stockholders”), each of the Transferring Stockholder and the Participating Stockholders will be entitled to sell in the contemplated sale, on the same terms as are applicable to the Transferring Stockholder, a pro rata portion (based upon the respective numbers of Securities then held by such Stockholders determined on an as-converted basis) of the Securities to be sold in the contemplated sale. The Transferring Stockholder will (i) use its best efforts to obtain the agreement of the prospective transferee(s) to the participation of the Participating Stockholders in any contemplated sale and will not transfer any of its Securities to the prospective transferee(s) if the prospective transferee(s) declines to allow the participation of the Participating Stockholders on the terms specified herein, and (ii) use good faith efforts to negotiate indemnity provisions with the prospective transferee providing for several and not joint liability and a maximum limit on liability of each of the Participating Stockholders not exceeding the purchase price received by such Participating Stockholders for such Securities; provided, that if the prospective transferee declines to agree to such indemnity provisions, then the Transferring Stockholder and the Participating Stockholders shall negotiate in good faith the terms of, and enter into, a separate contribution agreement on mutually agreeable terms providing that the Transferring Stockholder and the Participating Stockholders shall reimburse one another if required to pay more than their pro rata share (based on the number of Securities sold by such Transferring Stockholder or Participating Stockholder) of any indemnification claim arising out of representations and warranties made with respect to the Company, and not with respect to such Participating Stockholder or such Participating Stockholder’s Securities.
+
+^^Transfers of Securities in Breach of this Agreement.
+
+^^In the event of any Transfer of Securities made in breach of this Agreement, commencing immediately upon the date of such attempted Transfer (i) such Transfer shall be void and of no effect, (ii) no dividend of any kind or any distribution pursuant to any liquidation, redemption or otherwise shall be paid by the Company to the purported transferee in respect of such Securities, with the amount of any such dividend or distribution being retained by the
+
+Company until such time as such Transfer has been finally rescinded and reversed, and (iii) neither the Transferring Stockholder nor the purported transferee shall be entitled to exercise any rights with respect to such Securities under this Agreement until such Transfer in breach of this Agreement has been rescinded.
+
+^^If a Transferring Stockholder sells any Securities in contravention of the participation rights under Section 2.3 hereof, each Participating Stockholder who timely exercises the participation rights provided pursuant to Section 2.3, in addition to such remedies as may be available at law or in equity or hereunder, may require the Transferring Stockholder to purchase from such Participating Stockholder the number of Securities that such Participating Stockholder would have been entitled to sell to the proposed purchaser under Section 2.3 had the sale been effected pursuant to and in compliance with the terms of Section 2.3. Any such sale will be made on the same terms and subject to the same conditions as would have applied had the Participating Stockholder been entitled to participate in the sale to the proposed purchaser pursuant to Section 2.3, except that such sale (including, without limitation, delivery of the purchase price) must be made within ninety (90) days after the Participating Stockholder learns of the prohibited Transfer, rather than the time frame otherwise provided in Section 2.3. The Transferring Stockholder shall also reimburse the Participating Stockholder for all fees and expenses, including legal fees and expenses, incurred by such Participating Stockholder pursuant to any exercise of its right to require the Transferring Stockholder to purchase its shares pursuant to this Section 2.3(b).
+
+^SALE OF THE COMPANY.
+
+^^Approved Sale. In the event the sale of the Company (whether by merger, consolidation, sale of all or substantially all of the Company’s assets or sale of all or substantially all the outstanding shares of capital stock and other securities of the Company) is approved by (x) the Designated Holder and such sale of the Company is not to the Designated Holder or an Affiliate of the Designated Holder, or, (y) in the event that there is no Designated Holder, Stockholders holding in excess of sixty-six and two-thirds percent (66 2/[[Percentage 4]]%) of the number of shares of Series A Preferred Stock then outstanding (an “Approved Sale”), the Designated Holder may, at its option (exercised by written notice to the Company, which shall be required to promptly deliver notice of such exercise to all other Stockholders no less than twenty (20) days prior to the consummation of such Approved Sale), require that all other Stockholders sell or exchange all Securities owned by them in the same transaction at the same price and on the same terms and conditions as applicable to the Designated Holder; provided, that (i) at least seventy-five ([[Percentage 5: Number]]%) of the consideration payable to each Stockholder pursuant to such Approved Sale shall consist of cash, cash equivalents or securities of a class that is traded on a national stock exchange in the United States (including The Nasdaq Stock Market, Inc.) and is not subject to any holding period requirement under the Securities Act or contractual restrictions on sale which in either case could restrict the sale of such securities to the public immediately following the closing of such Approved Sale, and (ii) any options, warrants or other contingent Securities to be sold in such Approved Sale will have the proceeds payable in respect of the shares of Common Stock underlying such contingent Securities reduced by any amounts payable by the holders thereof to exercise such contingent Securities; and provided, further, that no Stockholder shall be obligated to undertake any indemnity that is joint in nature or could exceed (i) such Stockholder’s pro rata share of such indemnification obligation calculated based on such Stockholder’s pro rata share of the aggregate net proceeds received by all Stockholders in connection with such Approved Sale, or (ii) the amount of the proceeds received by such Stockholder in the Approved Sale.
+
+^^Obligations of Stockholders with respect to an Approved Sale. The Company and the Stockholders hereby agree to cooperate fully in any Approved Sale and not to take any action prejudicial to or inconsistent with such Approved Sale. Without limiting the generality of the foregoing, each Stockholder hereby agrees to (i) vote such Stockholder’s Securities to approve the terms of any such Approved Sale and such matters ancillary thereto as may be necessary in the good faith judgment of the Board of Directors of the Company to effect such Approved Sale, (ii) waive any appraisal or dissenters rights that such Stockholder would have with respect to such Approved Sale, (iii) in an Approved Sale structured as a sale of securities, sell all of such Stockholder’s Securities on the terms and conditions approved by the Board of Directors of the Company and (iv) upon request, deliver such Stockholder’s Securities (together with executed instruments of transfer or assignment) in escrow (pending receipt of the purchase price therefor) to counsel for the Company in such sale.
+
+^^**PROXY**.** EACH STOCKHOLDER HEREBY APPOINTS THE COMPANY IN ANY APPROVED SALE AS SUCH STOCKHOLDER’S TRUE AND LAWFUL PROXY AND ATTORNEY, WITH FULL POWER OF SUBSTITUTION, TO VOTE AT ANY MEETING OF THE STOCKHOLDERS OF THE COMPANY, HOWEVER CALLED, OR ANY ADJOURNMENT THEREOF, OR BY WRITTEN CONSENT OF THE STOCKHOLDERS OF THE COMPANY, ALL VOTING SECURITIES OWNED BY SUCH STOCKHOLDER OR OVER WHICH SUCH STOCKHOLDER HAS VOTING CONTROL TO EFFECTUATE THE AGREEMENTS SET FORTH IN THIS SECTION 3 IN THE EVENT OF ANY BREACH BY SUCH STOCKHOLDER OF ITS OBLIGATIONS UNDER THIS SECTION 3. THE PROXIES AND POWERS GRANTED BY EACH STOCKHOLDER PURSUANT TO THIS SECTION 3.3 ARE COUPLED WITH AN INTEREST AND ARE GIVEN TO SECURE THE PERFORMANCE OF SUCH STOCKHOLDER’S DUTIES UNDER THIS SECTION 3. SUCH PROXIES ARE IRREVOCABLE FOR SO LONG AS THIS SECTION 3 REMAINS IN EFFECT AND WILL SURVIVE THE DEATH, INCOMPETENCE OR DISABILITY OF ANY STOCKHOLDER WHO IS AN INDIVIDUAL AND THE MERGER, LIQUIDATION OR DISSOLUTION OF ANY STOCKHOLDER THAT IS A CORPORATION, PARTNERSHIP OR OTHER ENTITY.**
+
+The Company will give each Stockholder no less than five days notice prior to exercising its rights under this Section 3.3.
+
+^BOARD OF DIRECTORS; VOTING AGREEMENTS.
+
+^^Board of Directors.
+
+^^Initially, the size of the Company’s Board of Directors shall be seven (7) members. The number of members of the Board of Directors may be increased (but not decreased) by action of the Board of Directors from time to time, subject to the consent of Stockholders holding in excess of sixty-six and two-thirds percent (66 2/[[Percentage 4]]%) of the number of shares of Series A Preferred Stock then outstanding. Subject to paragraph (b) below, in any and all elections of directors of the Company (whether at a meeting or by written consent in lieu of a meeting), each Stockholder shall vote, or cause to be voted, or cause such Stockholder’s designees as directors to vote, all voting Securities owned by such Stockholder or over which such Stockholder has voting control so as to nominate and elect as directors:
+
+^^^three (3) individuals designated by WestView, who shall initially be [[Person 1 First Name]] [[Person 1 Last Name]], [[Person 2 First Name]] [[Person 2 Last Name]], and Martin Doolan, provided, that WestView shall no longer have the right to designate such individuals from and after such time as WestView and its Affiliates no longer own a number of Securities equal to at least fifty percent ([[Percentage 1]]%) of the Securities held by WestView on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole);
+
+^^^one individual designated by the AIG Lead Investor, who shall initially be [[Person 3 First Name]] [[Person 3 Last Name]], provided, that the AIG Lead Investor shall no longer have the right to designate such individual from and after such time as the [[Organization 4 Name]], collectively no longer own a number of Securities equal to at least fifty percent ([[Percentage 1]]%) of the Securities held by the [[Organization 4 Name]] on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole);
+
+[[Person 4 First Name]] [[Person 4 Last Name]], so long as he is employed by the Company as the Chairman of the Company, and thereafter, his successor as the Chairman of the Company; and
+
+^^^two (2) individuals designated by the holders of more than fifty percent ([[Percentage 1]]%) of the outstanding shares of Series B Preferred Stock, who shall initially be [[Person 5 First Name]] [[Person 5 Last Name]] and [[Person 6 First Name]] [[Person 6 Last Name]].
+
+^^If any vacancy shall occur in the Board of Directors of the Company as a result of death, disability, resignation or any other termination of a director, the replacement for such vacating director shall be designated by the Person or Persons who, pursuant to Sections 4.1(a) above, originally designated such vacating director. Each Person entitled to designate a director or a replacement for a director pursuant to this Section 4 shall also be entitled to designate the removal of such director with or without cause and a replacement for any director so removed. Each Stockholder hereby agrees to vote or cause to be voted or cause such Stockholder’s designees as directors to vote all voting Securities owned by such Stockholder or over which such Stockholder has voting control so as to comply with this Section 4.1(b).
+
+^^There will be a compensation committee of the Board of Directors, consisting of no more than three directors (the “Compensation Committee”) of which (i) two of such members of the Compensation Committee will be designated by WestView, who shall initially be [[Person 1 First Name]] [[Person 1 Last Name]] and Martin Doolan; provided, that WestView shall no longer have the right to designate such individuals from and after such time as WestView and its Affiliates no longer own a number of securities equal to at least fifty percent ([[Percentage 1]]%) of the Securities held by WestView on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole), and (ii) one member of the Compensation Committee will be designated by the AIG Lead Investor, who shall initially be [[Person 3 First Name]] [[Person 3 Last Name]]; provided, that the AIG Lead Investor shall no longer have the right to designate such individual from and after such time as the [[Organization 4 Name]], collectively, no longer own a number of securities equal to at least fifty percent ([[Percentage 1]]%) of the Securities held by the [[Organization 4 Name]] on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole). One of the directors designated by the holders of Series B Preferred Stock pursuant to Section 4.1(a)(iv) (the “Series B Observer”) shall be entitled to attend, as a non-voting observer, all meetings of the Compensation Committee; provided, that the Series B Observer shall not have the right to attend or observe any portions of any meetings (and will be required to excuse himself or herself from any such portions of any meetings) in which any matters relating to such Series B Observer or any Related Persons to such Series B Observer are to be discussed. The Company shall furnish to the Series B Observer copies of all materials provided to the members of the Compensation Committee at the same time that such materials are provided to such members of the Compensation Committee and shall furnish to the Series B Observer copies of the minutes of all meetings of the Compensation Committee. The Compensation Committee shall be charged with approving base salaries, incentive or similar bonuses and grants of options, restricted stock awards and other equity based compensation for directors, officers and key employees of the Company. There will not be any other committee (including without limitation any executive committee) of the Board of Directors unless such committee is specifically approved by the holders of in excess of sixty-six and two-thirds percent (66 2/[[Percentage 4]]%) of the shares of Series A Preferred Stock then outstanding. Except in the case of an audit committee, if any other committee of the Board of Directors is established, such committee shall contain such number of directors so that the proportion of directors on such committee shall be equal relative to the total number of directors on the entire Board of Directors at such time.
+
+^^The rights of WestView under this Section 4.1 shall be assignable to any Person who acquires more than fifty percent ([[Percentage 1]]%) of the number of shares of Series A Preferred Stock held by WestView on the date hereof (after giving effect to any stock splits, combinations or similar transactions involving one or more classes of Securities as a whole).
+
+^^The Company shall reimburse the reasonable out-of-pocket expenses incurred by the members of the Board of Directors in attending duly called meetings of the Board of Directors.
+
+^^The Company shall cause meetings of the Board of Directors to be held no less frequently than four (4) times in each twelve (12) calendar month period.
+
+^^Matters Requiring Series B Director Approval. The Company agrees that the Company will not take, and will not permit any of its Subsidiaries to take, any of the following actions without the prior approval of at least one of the directors designated by the holders of more than fifty percent ([[Percentage 1]]%) of the outstanding shares of Series B Preferred Stock pursuant to Section 4.1(a)(iv) hereof:
+
+^^Make any loan or advance to, or acquire any securities of, the Designated Holder or any of its Affiliates, other than the acquisition of securities of the Designated Holder or its Affiliates pursuant to the conversion rights under the Company’s Certificate of Incorporation or the exercise by the Company of its rights under Section 2.2 hereof;
+
+^^Issue any new Securities to the Designated Holder or any of its Affiliate other than pursuant to Section 5.1 hereof or upon conversion of shares of Series A Preferred Stock;
+
+^^Authorize or permit the sale of the Company or any of its Subsidiaries to the Designated Holder or any of its Affiliates; or
+
+^^Enter into a merger, consolidation, redemption, recapitalization, repurchase of securities, statutory share exchange or similar transaction pursuant to which the securities held by holders of Series B Preferred Stock are treated materially differently than the securities held by the Designated Holder and any of its Affiliates, on a per share basis, other than by reason of any liquidation preference of securities held by the Designated Holder or any of its Affiliates provided under the Company’s Certificate of Incorporation, as amended from time to time.
+
+4.3.**PROXY****. EACH STOCKHOLDER HEREBY GRANTS TO THE COMPANY AN IRREVOCABLE PROXY, COUPLED WITH AN INTEREST, TO VOTE AT ANY MEETING OF THE STOCKHOLDERS OF THE COMPANY, HOWEVER CALLED, OR ANY ADJOURNMENT THEREOF, OR BY WRITTEN CONSENT OF THE STOCKHOLDERS OF THE COMPANY, ALL OF THE VOTING SECURITIES OWNED BY SUCH STOCKHOLDER OR OVER WHICH SUCH STOCKHOLDER HAS VOTING CONTROL TO THE EXTENT NECESSARY TO CARRY OUT THE PROVISIONS OF THIS SECTION 4 IN THE EVENT OF ANY BREACH BY SUCH STOCKHOLDER OF HIS, HER OR ITS OBLIGATIONS UNDER THE VOTING AGREEMENT CONTAINED HEREIN.**
+
+^^Action by Stockholders. Each Stockholder further agrees that such Stockholder will not vote any Securities owned by such Stockholder or over which such Stockholder has voting control, or take any action by written consent, or take any other action as a stockholder of the Company, to circumvent the voting arrangements required by this Section 4.
+
+^FIRST REFUSAL RIGHTS.
+
+^^Pre-Emptive Rights. Except for the issuance of Common Stock (or securities convertible into or containing options or rights to acquire shares of Common Stock) (i) pursuant to a Public Sale, (ii) as consideration for the acquisition of all or any substantial portion of the assets or all or any portion of the capital stock of any Person, (iii) upon conversion of shares of one class of capital stock of the Company into shares of another class of capital stock of the Company, or (iv) to any employee or director of the Company or any of its Subsidiaries as employment-related compensation in a transaction approved by the Board of Directors of the Company so long as the aggregate number of shares of Common Stock issued or issuable to such employees and directors does not exceed [[Shares 2: Number]] shares (subject to appropriate and ratable adjustment as a result of stock splits, stock dividends, combinations, reclassifications, reorganizations or any other similar events), if the Company authorizes the issuance and sale of any shares of any class of capital stock or any securities convertible into or containing options or rights to acquire any shares of any class of capital stock (other than as a dividend on the outstanding Common Stock), the Company will first offer to sell to each Eligible Major Holder a *pro rata* portion of such securities (based upon the respective number of Securities then held by all Eligible Major Holders on a fully-diluted basis). Each Eligible Major Holder will be entitled to purchase all or part of such stock or securities at the same price and on the same terms as such stock or securities are to be offered to any other Persons.
+
+^^Stockholders’ Exercise of Right. Each Eligible Major Holder entitled to purchase securities under this Section 5 must exercise such Eligible Major Holder’s purchase rights hereunder within thirty (30) days after receipt of written notice from the Company describing in reasonable detail the stock or securities being offered, the purchase price thereof, the payment terms and such Eligible Major Holder’s percentage allotment.
+
+^^Company’s Exercise of Right. Upon the expiration of the offering period described above, the Company will be free to sell such stock or securities which the Eligible Major Holders entitled to purchase such stock or securities have not elected to purchase during the ninety (90) days following such expiration on terms and conditions no more favorable to the purchasers thereof, in the aggregate, than those offered to such Eligible Major Holders. Any stock or securities offered or sold by the Company after such 90-day period must be reoffered to the Eligible Major Holders entitled to purchase such stock or securities pursuant to the terms of this Section 5.
+
+^INFORMATION RIGHTS.
+
+^^Delivery of Information. The Company shall deliver, or shall cause to be delivered, to each Eligible Major Holder other than any Eligible Major Holder that is a Competitor, or is employed by, acts as a consultant to, or is a stockholder, partner or other holder of an equity or partnership interest in any Competitor, unless such Eligible Major Holder executes a confidentiality agreement reasonably satisfactory to the Company containing appropriate restrictions on the disclosure and use of such information:
+
+^^as soon as practicable, but in any event within ninety (90) days after the end of each fiscal year of the Company, a consolidated income statement for such fiscal year, a consolidated balance sheet of the Company and statement of stockholder’s equity as of the end of such fiscal year, and a consolidated statement of cash flows for such fiscal year, such year-end financial reports to be in reasonable detail, prepared in accordance with generally accepted accounting principles (“GAAP”), and audited and certified by independent public accountants of nationally recognized standing selected by the Board of Directors of the Company;
+
+^^within thirty (30) days of the end of each month, an unaudited income statement and statement of cash flows for each of the Company’s operating subsidiaries for such month, a balance sheet for and as of the end of such month, and a report setting forth the comparison of such month unaudited statements to the statements for the same month in the previous year and projected results for such month on a monthly and year to date basis, all in reasonable detail;
+
+^^within forty-five (45) days of the end of each fiscal quarter, an unaudited consolidated income statement and statement of cash flows of the Company for such fiscal quarter, a consolidated balance sheet for and as of the end of such fiscal quarter, and a report setting forth the comparison of such fiscal quarter’s unaudited statements to the statements for the same fiscal quarter in the previous year and projected results for such fiscal quarter on a quarterly and year to date basis, all in reasonable detail;
+
+^^as soon as practicable, but in any event within thirty (30) days prior to the end of each fiscal year, a budget and business plan for the Company and each of the Company’s operating subsidiaries for the next fiscal year, prepared on a monthly basis, including balance sheets and income statements for such months and, as soon as prepared, any other budgets or revised budgets prepared by the Company or any of its operating subsidiaries;
+
+^^with respect to the financial statements called for in subsections (b) and (c) of this Section 6.1, an instrument executed by the Chief Financial Officer and President of the Company or the Company’s operating subsidiary, as the case may be, and certifying that, to the best of such Person’s knowledge, such financial statements were prepared in accordance with GAAP consistently applied with prior practice for earlier periods (with the exception of footnotes that may be required by GAAP) and fairly present the financial condition of the Company or the Company’s operating subsidiary, as the case may be, and its results of operation for the period specified, subject to year-end audit adjustment, together with a separate report that includes in reasonable detail management’s discussion and analysis of the financial condition and the results of operations of the Company and its Subsidiaries as at the end of and for the fiscal periods covered by such financial statements; and
+
+^^such other information relating to the financial condition, business, prospects or corporate affairs of the Company and its operating subsidiaries as such Eligible Major Holder may from time to time reasonably request.
+
+Each Stockholder hereby acknowledges that except for the information rights provided by this Section 6.1, by Section 10.7 of the Acquisition Agreement, or by the Delaware General Corporation Law, as amended from time to time, no Stockholder shall have any rights to demand or receive information, financial or otherwise, from the Company with respect to any matter.
+
+^^Inspection. The Company shall permit each Eligible Major Holder (and its representatives) other than any Eligible Major Holder that is a Competitor, or is employed by, acts as a consultant to, or is a stockholder, partner or other holder of an equity or partnership interest in any Competitor, upon reasonable request, at such requesting Eligible Major Holder’s expense, to visit and inspect the Company’s or its subsidiaries’ properties, to examine its or its subsidiaries’ books of account and records (and to make reasonable copies) and to discuss the Company’s or its subsidiaries affairs, finances and accounts with its or its subsidiaries’ officers, all at such reasonable times as may be reasonably requested; provided, however, that the Company shall not be obligated pursuant to this Section 6.2 to provide access to any information which it reasonably considers to be a trade secret or confidential information, unless the requesting stockholder signs a nondisclosure agreement reasonably acceptable to the Company containing appropriate restrictions on the disclosure and use of such information.
+
+^^Confidentiality. Each Eligible Major Holder receiving information under the covenants set forth in Section 6.1 and Section 6.2 hereby agrees to hold in confidence and trust and to act in a fiduciary manner with respect to all information so provided and to use its reasonable best efforts to ensure that any third party to which it provides such information pursuant to this Section 6.3 shall hold such information in confidence and trust; provided, however, that notwithstanding the foregoing, each of WestView and each member of the [[Organization 4 Name]] may, after giving the Company an opportunity to review generally in form and substance such information, include summary financial information concerning the Company and general statements concerning the nature and progress of the Company’s and its subsidiaries’ business in its reports to its limited partners; and provided, further, that [[Person 5 First Name]] [[Person 5 Last Name]] may provide [[Organization 8 Name]], the issuer of a seller-side insurance policy in connection with the Acquisition Agreement, with the Company’s annual financial statements and information regarding material amendments and waivers under the Company’s credit agreement with its primary lenders, as provided pursuant to Section 6.1 above and Section 10.7 of the Acquisition Agreement, to the extent required by such insurance policy, without such provision being deemed a violation of this Section 6.3.
+
+^ADDITIONAL LEGEND. So long as any Securities are subject to the provisions hereof, all certificates or instruments representing Securities will have imprinted on them the following legend:
+
+The shares represented by this certificate are subject to the terms of a certain Stockholder Agreement, dated as of [[Date 1]], among the issuer of this certificate and certain stockholders. The Stockholder Agreement contains certain restrictive provisions relating to the voting and transfer of shares of the stock represented hereby. A copy of the Stockholder Agreement is on file at the Company’s principal offices. Upon written request to the Company’s Secretary, a copy of the Stockholder Agreement will be provided without charge to appropriately interested persons, as determined by such Secretary.
+
+^SEVERABILITY. Whenever possible, each provision of this Agreement will be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be invalid, illegal or unenforceable in any respect under any applicable law or rule in any jurisdiction, such invalidity, illegality or unenforceability will not affect any other provision or any other jurisdiction, but this Agreement will be reformed, construed and enforced in such jurisdiction as if such invalid, illegal or unenforceable provision had never been contained herein.
+
+^ENTIRE AGREEMENT. Except as otherwise expressly set forth herein, this document embodies the complete agreement and understanding among the parties hereto with respect to the subject matter hereof and thereof and supersedes and preempts any prior understandings, agreements or representations by or among the parties, written or oral, which may have related to the subject matter hereof in any way.
+
+^SUCCESSORS AND ASSIGNS. This Agreement will bind and inure to the benefit of and be enforceable by the Company and the Stockholders and their respective successors and assigns.
+
+^COUNTERPARTS. This Agreement may be executed in separate counterparts each of which will be an original and all of which taken together will constitute one and the same agreement.
+
+^REMEDIES. The Stockholders will be entitled to enforce their rights under this Agreement specifically (without posting a bond or other security), to recover damages by reason of any breach of any provision of this Agreement and to exercise all other rights existing in their favor. The parties hereto agree and acknowledge that money damages may not be an adequate remedy for any breach of the provisions of this Agreement and that any Stockholder may in its sole discretion apply to any court of law or equity of competent jurisdiction for specific performance and/or injunctive relief in order to enforce or prevent any violation of the provisions of this Agreement. In the event of any dispute involving the terms of this Agreement, the prevailing party shall be entitled to collect reasonable fees and expenses incurred by the prevailing party in connection with such dispute from the other parties to such dispute.
+
+^AMENDMENT AND WAIVER. This Agreement may be amended only by a writing duly authorized and executed by (x) Stockholders holding at least sixty-six and 2/3 percent (66 2/[[Percentage 4]]%) of the shares of Series A Preferred Stock outstanding at such time (including for purposes of this calculation any issued and outstanding shares of Common Stock issued upon conversion of shares of Series A Preferred Stock), and (y) Stockholders holding at least fifty percent ([[Percentage 1]]%) of the shares of Series B Preferred Stock outstanding at such time (including for purposes of this calculation any issued and outstanding shares of Common Stock issued upon conversion of shares of Series B Preferred Stock); provided, however, that no such amendment shall be effective against any Stockholder who has not consented to such amendment to the extent that such amendment would be adverse to the interests of such Stockholder in any material respect and would have a disproportionate impact in any material respect on the rights of such Stockholder in its capacity as a Stockholder hereunder when measured against the impact of such amendment on the rights of other Stockholders in their capacities as Stockholders hereunder. Any rights of the Stockholders under this Agreement may be waived in writing by (x) Stockholders holding at least sixty-six and 2/3 percent (66 2/[[Percentage 4]]%) of the shares of Series A Preferred Stock outstanding at such time (including for purposes of this calculation any issued and outstanding shares of Common Stock issued upon conversion of shares of Series A Preferred Stock), and (y) Stockholders holding at least fifty percent ([[Percentage 1]]%) of the shares of Series B Preferred Stock outstanding at such time (including for purposes of this calculation any issued and outstanding shares of Common Stock issued upon conversion of shares of Series B Preferred Stock); provided, however, that no such waiver shall be effective against any Stockholder who has not consented to such waiver to the extent that such waiver would be adverse to the interests of such Stockholder in any material respect and would have a disproportionate impact in any material respect on the rights of such Stockholder in its capacity as a Stockholder hereunder when measured against the impact of such waiver on the rights of other Stockholders in their capacities as Stockholders hereunder. The Company shall notify all Stockholders of each amendment or waiver of any provision of this Agreement that could reasonably be expected to affect the rights of such Stockholder hereunder at least five (5) business bays prior to the effectiveness of such modification, amendment or waiver. The failure of any party to enforce any of the provisions of this Agreement will in no way be construed as a waiver of such provisions and will not affect the right of such party thereafter to enforce each and every provision of this Agreement in accordance with its terms.
+
+^EMPLOYMENT. Nothing contained in this Agreement is intended to create for any Stockholder who is an officer or employee of the Company or a Subsidiary of the Company a right to continued employment with the Company or any of its Subsidiaries or employment in the same position or on the same terms as those currently in effect.
+
+^TERMINATION. This Agreement will terminate upon the earliest to occur of (a) the completion of any voluntary or involuntary liquidation or dissolution of the Company, (b) the completion of a Qualified Public Offering, or (c) the consummation of an Approved Sale.
+
+16.**GOVERNING LAW****. ALL QUESTIONS CONCERNING THE CONSTRUCTION, VALIDITY AND INTERPRETATION OF THIS AGREEMENT WILL BE GOVERNED BY THE LAWS OF THE STATE OF DELAWARE, WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAW. THE PARTIES HERETO AGREE TO WAIVE ANY RIGHT TO HAVE ANY DISPUTE ARISING HEREUNDER OR OTHERWISE IN CONNECTION WITH THE TRANSACTIONS CONTEMPLATED HEREBY ADJUDICATED BY A JURY, AND HEREBY AGREE TO SUBMIT TO THE COURTS OF THE COMMONWEALTH OF MASSACHUSETTS IN CONNECTION WITH THE RESOLUTION OF ANY SUCH DISPUTE.**
+
+^DESCRIPTIVE HEADINGS. The descriptive headings of this Agreement are inserted for convenience only and do not constitute a part of this Agreement.
+
+^CONSTRUCTION. The language used in this Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and no rule of strict construction will be applied against any party.
+
+^NOTICES. All notices, demands, and other communications hereunder shall be in writing or by written telecommunication, and shall be deemed to be duly given if delivered personally or by overnight courier or if mailed by certified mail, return receipt requested, postage prepaid, or sent by telecopier, as follows:
+
+If to the Company, to:
+
+[[Organization 1 Name]]
+
+[[Address 1: Address]]
+
+Attention: Chairman
+
+Facsimile: [[Phone 1]]
+
+With copies sent contemporaneously to:
+
+[[Organization 7 Name]]
+
+c/o [[Person 1 First Name]] [[Person 1 Last Name]]
+
+One International Place
+
+Seventh Floor
+
+Boston, MA 02110
+
+Re: [[Organization 1 Name]]
+
+Facsimile: [[Phone 2]]
+
+and
+
+[[Organization 5 Name]]
+
+c/o [[Person 3 First Name]] [[Person 3 Last Name]], [[Organization 9 Name]]
+
+[[Address 2: Address]]
+
+Facsimile: [[Phone 3]]
+
+and
+
+[[Person 7 First Name]] [[Person 7 Last Name]], Esq.
+
+[[Organization 10 Name]] LLP
+
+[[Address 3: Address]]
+
+Telecopier: [[Phone 4]]
+
+and
+
+Mr. [[Person 5 First Name]] [[Person 5 Last Name]]
+
+[[Organization 2 Name]]
+
+[[Address 1: Address]]
+
+Fax: [[Phone 1]]
+
+If to any Stockholder, to the last address for such Stockholder on the Company’s official stockholder records.
+
+\centered *[Remainder of page intentionally left blank.]*
+
+IN WITNESS WHEREOF, each of the undersigned has executed this Agreement or caused this Agreement to be executed on its behalf as of the date first written above.
+
+**COMPANY:**
+
+[[Organization 1 Name]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+President
+
+**STOCKHOLDERS:**
+
+[[Organization 7 Name]], L.P.
+
+[[[[Organization 7 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] Entity => By: [[[[Organization 7 Name]] Signatory First Name]] [[[[Organization 7 Name]] Signatory Last Name]]
+Title: [[[[Organization 7 Name]] Signatory Title]]}}
+
+
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+Manager
+
+[[Organization 11 Name]], L.P.
+
+[[[[Organization 11 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 11 Name]] Entity => By: [[[[Organization 11 Name]] Signatory First Name]] [[[[Organization 11 Name]] Signatory Last Name]]
+Title: [[[[Organization 11 Name]] Signatory Title]]}}
+
+its investment Advisor
+
+[[Its investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its investment Advisor Entity => By: [[Its investment Advisor Signatory First Name]] [[Its investment Advisor Signatory Last Name]]
+Title: [[Its investment Advisor Signatory Title]]}}
+
+[[Person 8 First Name]] [[Person 8 Last Name]]
+Managing Director
+
+[[Organization 12 Name]], L.P.
+
+[[[[Organization 12 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 12 Name]] Entity => By: [[[[Organization 12 Name]] Signatory First Name]] [[[[Organization 12 Name]] Signatory Last Name]]
+Title: [[[[Organization 12 Name]] Signatory Title]]}}
+
+
+[[Title Party 10 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 10 Signatory Title}} Entity => By: [[Title Party 10 Signatory Title}} Signatory First Name]] [[Title Party 10 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 10 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 11 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 11 Signatory Title}} Entity => By: [[Title Party 11 Signatory Title}} Signatory First Name]] [[Title Party 11 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 11 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 12 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 12 Signatory Title}} Entity => By: [[Title Party 12 Signatory Title}} Signatory First Name]] [[Title Party 12 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 12 Signatory Title}} Signatory Title]]}}
+
+[[Person 8 First Name]] [[Person 8 Last Name]]
+Managing Director
+
+[[Organization 6 Name]], L.P.
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+
+[[Title Party 13 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 13 Signatory Title}} Entity => By: [[Title Party 13 Signatory Title}} Signatory First Name]] [[Title Party 13 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 13 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 14 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 14 Signatory Title}} Entity => By: [[Title Party 14 Signatory Title}} Signatory First Name]] [[Title Party 14 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 14 Signatory Title}} Signatory Title]]}}
+
+[[Person 8 First Name]] [[Person 8 Last Name]]
+President
+
+AIG Private Equity (Bermuda) Ltd.
+
+[[AIG Private Equity Bermuda Ltd. Signatory Email: Identity | Signature]]
+__________________________________________
+{{AIG Private Equity Bermuda Ltd. Entity => By: [[AIG Private Equity Bermuda Ltd. Signatory First Name]] [[AIG Private Equity Bermuda Ltd. Signatory Last Name]]
+Title: [[AIG Private Equity Bermuda Ltd. Signatory Title]]}}
+
+
+[[Organization 13 Name]], Inc. Retirement Plan
+
+By:   [[Organization 14 Name]],
+the duly authorized investment adviser to the [[Organization 13 Name]], Inc. Retirement Plan
+
+[[The duly authorized investment adviser to [[Organization 13 Name]] Retirement Plan Signatory Email: Identity | Signature]]
+__________________________________________
+{{The duly authorized investment adviser to [[Organization 13 Name]] Retirement Plan Entity => By: [[The duly authorized investment adviser to [[Organization 13 Name]] Retirement Plan Signatory First Name]] [[The duly authorized investment adviser to [[Organization 13 Name]] Retirement Plan Signatory Last Name]]
+Title: [[The duly authorized investment adviser to [[Organization 13 Name]] Retirement Plan Signatory Title]]}}
+
+[[Person 8 First Name]] [[Person 8 Last Name]]
+Managing Director
+
+[[Organization 15 Name]], LTD.
+
+[[[[Organization 15 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 15 Name]]. Entity => By: [[[[Organization 15 Name]]. Signatory First Name]] [[[[Organization 15 Name]]. Signatory Last Name]]
+Title: [[[[Organization 15 Name]]. Signatory Title]]}}
+
+[[Person 9 First Name]] [[Person 9 Last Name]]
+Managing Partner
+
+THE DOOLAN FAMILY FIRST LIMITED PARTNERSHIP
+
+[[THE DOOLAN FAMILY FIRST LIMITED PARTNERSHIP Signatory Email: Identity | Signature]]
+__________________________________________
+{{THE DOOLAN FAMILY FIRST LIMITED PARTNERSHIP Entity => By: [[THE DOOLAN FAMILY FIRST LIMITED PARTNERSHIP Signatory First Name]] [[THE DOOLAN FAMILY FIRST LIMITED PARTNERSHIP Signatory Last Name]]
+Title: [[THE DOOLAN FAMILY FIRST LIMITED PARTNERSHIP Signatory Title]]}}
+
+Martin Doolan
+Trustee
+
+[[Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{Trustee Entity => By: [[Trustee Signatory First Name]] [[Trustee Signatory Last Name]]
+Title: [[Trustee Signatory Title]]}}
+
+GVK, L.P.
+
+[[GVK L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{GVK L.P. Entity => By: [[GVK L.P. Signatory First Name]] [[GVK L.P. Signatory Last Name]]
+Title: [[GVK L.P. Signatory Title]]}}
+

@@ -1,0 +1,87 @@
+\centered **Lease Agreement**
+
+This Agreement is entered in Wuqing Tianjin on the day of [[Date 1: Date]].
+
+**Party A:** [[Organization 1 Name]]
+
+**Party B:** [[Organization 2 Name]]
+
+In the principle of fairness and mutual benefits as well as faith and credit, Party A and Party B, through friendly consultations, signed and comply with the certain agreement on the events that Party B uses Party A’s buildings and related facilities and Party A supplies Party B with Oracle system service.
+
+^Party A shall provide Party B with partial office buildings and related facilities (see exhibit 1) in its plant, together with Oracle system service (see exhibit 2).
+
+^The Lease Term of using Party A’s buildings and related facilities as well as the Oracle system service is one year, beginning on [[Date 1]] and terminating on [[Date 2: Date]].
+
+^The costs incurred from the use, maintenance and service in the term Party B using the buildings and related facilities as well as the service are collectively referred to service fee in this agreement. Party B shall report sales revenue to Party A monthly and pay the rent to Party A at the rate of [[Percentage 1: Number]]% of its sales revenue.
+
+^Party B shall pay the rent quarterly prior to the 15th day of the current month by wire transferring to the bank account designated by Party A.
+
+^Party A’s responsibilities:
+
+^^Party A shall insure the regular operation of the facilities in the buildings and undertake the timely maintenance fee. Party A is responsible for compensating Party B’s losses caused from the improper maintenance and administration to the buildings and related facilities.
+
+^^Party A shall insure the regular use of Oracle system.
+
+^^Party A is responsible for providing Party B with guarantee of the ground and original facilities and compensating Party B’s losses caused from the improper behaviour the management staff and other users of Party A.
+
+^^Party A is obliged to satisfy Party B’s reasonable and legal requirements during the lease period.
+
+^^Party B shall timely notify Party A to take effective measures for any damages or malfunction existing or happening on the premise that may affect the safe and normal use of the premise.
+
+^Party B ’s responsibilities:
+
+^^Party B promises to comply with the law in People’s Republic of China during the lease period.
+
+^^Party B shall pay the related fee to Party A complied with the time set in the agreement.
+
+^^Party B shall properly use and take good care of each facility, and avoid any abnormal damages. Party B shall be responsible for timely maintenance or compensation for any malfunctions on the premise and its internal facilities caused from its misuse or inappropriate use.
+
+^^Party B shall keep the entire leased premise in a good condition when the term of this agreement comes to the end. Party B shall reconvert everything to the original state as Party A requires, except for normal wear and tear or original defect.
+
+^If the rent is overdue, Party B shall pay a late charge to Party A. The sum of the late charge shall be equal to the number of days overdue times 3‰ of the amount of the overdue rent.
+
+^Party A shall undertake the lost to Party B caused from Party A’s violating the provisions.
+
+^Any matters not covered in this agreement shall be further negotiated between two parties, and a supplemental agreement shall be made. The supplemental agreement and this agreement shall be equally valid.
+
+^Both parties shall solve the disputes arising from the execution of this agreement through negotiation. In the case that an agreement cannot be reached, according to the law in People’s Republic of China, any party may summit the dispute to the court on which the People’s Republic of China has the jurisdiction.
+
+^This agreement has two originals, and each party shall keep one of them.
+
+^This agreement shall be effective from the date on which both parties sign on it.
+
+Party A(Signature):      Party B(Signature):
+[[Organization 1 Name]]      [[Organization 2 Name]]
+
+Address:      Address:
+
+No.6 Yuanquan Road, Wuqing New-Tech Industrial Park, Tianjin, China      Xinyuan Road, Wuqing New-Tech Industrial Park, Tianjin, China
+
+Legal Representative      Legal Representative
+
+[[Legal Representative      Legal Representative Signatory Email: Identity | Signature]]
+__________________________________________
+{{Legal Representative      Legal Representative Entity => By: [[Legal Representative      Legal Representative Signatory First Name]] [[Legal Representative      Legal Representative Signatory Last Name]]
+Title: [[Legal Representative      Legal Representative Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]], President      [[Person 2 First Name]] [[Person 2 Last Name]], Director
+Date: [[Date 1]]      Date: [[Date 1]]
+
+Exhibition 1: Buildings list   
+\centered Name      \centered Address      
+
+\centered Area
+\centered President Office Center      \centered No.6 Yuanquan Road, New-Tech Industrial Park, Tianjin, China      
+
+\centered 675.00㎡
+\centered Science and Trading Building      \centered No.6 Yuanquan Road, New-Tech Industrial Park, Tianjin, China      
+
+\centered 1182.50㎡
+
+Exhibition 2: System list  
+\centered Name      
+
+\centered Service
+\centered ORACLE System      
+
+\centered Regular use of all the modules used by [[Organization 2 Name]]

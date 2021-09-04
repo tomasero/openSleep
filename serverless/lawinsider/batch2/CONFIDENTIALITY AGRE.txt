@@ -1,0 +1,24 @@
+\centered CONFIDENTIALITY AGREEMENT
+
+This agreement is made and entered into as of the date set forth below by the undersigned Applicant for employment with [[Organization 1 Name]] (together with each of its subsidiaries and affiliates, the “Company”). As a condition to consideration for employment with the Company, I agree that:
+
+^will not use or disclose any confidential information about the Company’s business which may be disclosed to me or of which I may learn during the course of my application and interview process unless I am authorized to do so in writing by the Company. I will assume any particular information about the Company’s business is confidential until I am informed it is not or until it has been published or is generally or publicly known outside the Company, as long as it does not become publicly known through my breach of this Agreement. 
+
+^understand that “Confidential Information”, includes, without limitation, (i) technical information relating to the Company’s software or hardware, including computer program listings, algorithms, source code, object code, programming techniques and development tools; (ii) information relating to products, services or programs now existing or currently under development by the Company, including flow charts, designs, statistics, specifications, evaluations, test results and beta test results; (iii) information concerning the Company’s marketing and sales programs and strategies, including concepts and specifications for new products; (iv) information relating to the Company’s transactions with any customer or proposed customer; and (v) all financial information, personnel information and other information relating to the business of the Company or its customers which is not within the exceptions hereaft er set forth.
+
+^agree that this Agreement shall be governed and construed in accordance with the laws of Wisconsin without regard to principles of conflicts of law. I further agree that Company may seek enforcement through all available means including, without limitation, enforcement in equity by a specific performance or temporary restraining order and/or injunctive relief. 
+
+Dated this _____ day of _______________ 20___.
+
+\centered ________________________________________
+
+\centered (Applicant)
+
+The foregoing is hereby accepted as of its date.
+
+[[Organization 1 Name]]
+
+[[[[Organization 2 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. Entity => By: [[[[Organization 2 Name]]. Signatory First Name]] [[[[Organization 2 Name]]. Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. Signatory Title]]}}

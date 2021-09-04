@@ -1,0 +1,86 @@
+**CONFORMED COPY**  
+
+\centered [[Date 1: Date]] 
+
+
+
+c/o [[Organization 1 Name]]
+
+10877 Wilshire Boulevard, Suite 2100
+
+[[Address 1: Address]]
+
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]], Esq. 
+
+Re: *Agreement to Repurchase Notes Issued Pursuant to NPA*  
+
+Dear Tim:  
+
+Reference is hereby made to the Note Purchase Agreement dated as of [[Date 2: Date]] (as amended, supplemented or otherwise modified from time to time, the “**NPA**”) among [[Organization 2 Name]], a Delaware corporation, as issuer (the **“Company”**), the subsidiaries of the Company party thereto, as guarantors (the “**Guarantors**”), and [[Organization 3 Name]], a Delaware corporation, as purchaser (in such capacity, the **“Purchaser”)** and collateral agent (in such capacity, “**Collateral Agent**”) pursuant to which the Company issued, and the Purchaser purchased, (i) $[[USD Value 1: Number]] in aggregate principal amount of the Company’s [[Percentage 1: Number]]% Senior Secured Notes due [[Date 3: Date]] (the “**2010 Notes**”), (ii) $[[USD Value 1]] in aggregate principal amount of the Company’s [[Percentage 1]]% Senior Secured Notes due [[Date 4: Date]] (the “**2011 Notes**”), (iii) $[[USD Value 1]] in aggregate principal amount of the Company’s [[Percentage 1]]% Senior Secured Notes due [[Date 5: Date]] (the “**2012 Notes**”) and (iv) $[[USD Value 2: Number]] in aggregate principal amount of the Company’s [[Percentage 1]]% Senior Secured Notes due [[Date 6: Date]] (the “**2013 Notes**” and, together with the 2010 Notes, the 2011 Notes and the 2012 Notes, the “**Notes**”). Capitalized terms used but not otherwise defined herein shall have the meaning set forth in the NPA. 
+
+The undersigned parties hereby consent and agree, for good and valuable consideration receipt of which is hereby acknowledged, as follows: 
+
+^Notwithstanding any provision to the contrary in the Note Documents and subject to the provisions herein, the Purchaser and the Company hereby agree that the Company shall purchase from the Purchaser all of the Notes (the “**Purchase**”) at a price (the “**Purchase Price**”) equal to: (a) if the Purchase Price is paid prior to 5:00 P.M EDT on [[Date 7: Date]], ninety-seven percent ([[Percentage 2: Number]]%) of the aggregate face value thereof, together with accrued and unpaid interest through and including the Purchase Date (as defined below); and (b) if the Purchase Price is paid after 5:00 P.M. EDT on [[Date 7]], one hundred percent ([[Percentage 3: Number]]%) of the aggregate face value thereof, together with accrued and unpaid interest through and including the Purchase Date. 
+
+^The Purchaser hereby represents, warrants and covenants that it holds, and shall hold through the Purchase Date (as defined below), [[Percentage 3]]% of the Notes issued pursuant to the NPA and has the power and authority, in its capacity as Purchaser, Collateral Agent and Required Holder, to enter into the agreements set forth herein, to sell the Notes to the Company and to consent to the foregoing 
+
+^^^^^ 
+under the Note Documents. The Company hereby represents and warrants that it has the power and the authority to enter into the agreements set forth herein and to purchase the Notes from the Purchaser as contemplated hereby. 
+
+^The Purchase shall take place on [[Date 7]] at a place to be designated by the Company or at such other place and time not later than the End Date (as defined below) as the Company shall elect (the “**Purchase Date**”) by providing not less than 24 hours prior written notice (the “**Purchase Notice**”) of such place and time to the Purchaser at its address set forth in Schedule A to the NPA or via email to [[Person 2 First Name]] [[Person 2 Last Name]] at [[Email 1]] and [[Person 3 First Name]] [[Person 3 Last Name]] at [[Email 2]]; *provided, however, that* the Company may, at its election move the Purchase Date to a date no later than the End Date by providing prior written notice as described above. On the Purchase Date, the Company shall deposit by wire transfer the Purchase Price to the account of the Purchaser set forth on Schedule A to the NPA or to such other account as the Purchaser may designate; *provided*, *that* if no Purchase Notice shall have been given by the Company prior to 3:00 P.M. EDT on [[Date 8: Date]], then the Purchase Date shall be [[Date 9: Date]] (the “**End Date**”) and the full Purchase Price shall be due and payable at 3:00 P.M. EDT on such date and shall be paid by the Company in the manner set forth above at or before such time. Upon receipt of the Purchase Price, the Purchaser (including in its capacity as Collateral Agent) shall promptly assign all of its interests in the Notes and the other Note Documents to the Company and shall promptly execute and deliver any customary documents, instruments or certificates to the Company that the Company may reasonably request to properly assign all of its interests in the Notes. The giving of a notice of a proposed Purchase Date shall not eliminate or otherwise adversely affect the condition that the Company’s obligation to complete the purchase of the Notes on the proposed Purchase Date remains subject to the satisfaction (or the waiver by the Company), concurrent with the purchase of the Notes, of the conditions set forth in the “Conditions to Closing” subsection of the “Senior Secured Term Sheet” attached to the Commitment Letter as provided in Paragraph 4 of this letter agreement. If a notice of the date of the proposed Purchase Date is given and the conditions set forth in the “Conditions to Closing” subsection of the “Senior Secured Term Sheet” attached to the Commitment Letter are not so satisfied or waived by the Company on the proposed Purchase Date, the proposed Purchase Date shall be automatically extended on a business day to business day basis until such business day on which such conditions are so satisfied or waived by the Company. If such conditions shall not have been satisfied by the End Date (and such failure shall not have been waived by the Company), the Company shall not have any obligation to purchase the Notes pursuant to this letter agreement. 
+
+^The Company has entered into a Commitment Letter with [[Organization 4 Name]] and [[Organization 5 Name]], dated [[Date 1]] (the “Commitment Letter”), an executed copy of which has been provided to the Purchaser. The Company’s obligation to purchase the Notes pursuant to the terms of this letter agreement is subject to the satisfaction of the conditions set forth in the “Conditions to Closing” subsection of the “Senior Secured Term Sheet” attached to the Commitment Letter. 
+
+^^^^^ 
+^With regard to all dates and time periods set forth or referred to in this letter agreement, time is of the essence. 
+
+This letter agreement may be executed in the original or by telecopy in any number of counterparts, each of which shall be deemed original and all of which taken together shall constitute one and the same agreement. This Agreement shall be construed and enforced in accordance with, and the rights of the parties shall be governed by, the law of the State of New York excluding choice-of-law principles of the law of such State that would permit the application of the laws of a jurisdiction other than such State. 
+
+In Witness Whereof, the parties hereto have executed this letter agreement by their duly authorized officers as of the day and year first above written. 
+
+Very truly yours,  [[Organization 3 Name]], IN ITS CAPACITY AS PURCHASER AND HOLDER OF [[Percentage 3]]% OF THE NOTES
+[[Very truly yours  [[Organization 6 Name]]. IN ITS CAPACITY AS PURCHASER AND HOLDER OF Percentage 3% OF THE NOTES Signatory Email: Identity | Signature]]
+__________________________________________
+{{Very truly yours  [[Organization 6 Name]]. IN ITS CAPACITY AS PURCHASER AND HOLDER OF Percentage 3% OF THE NOTES Entity => By: [[Very truly yours  [[Organization 6 Name]]. IN ITS CAPACITY AS PURCHASER AND HOLDER OF Percentage 3% OF THE NOTES Signatory First Name]] [[Very truly yours  [[Organization 6 Name]]. IN ITS CAPACITY AS PURCHASER AND HOLDER OF Percentage 3% OF THE NOTES Signatory Last Name]]
+Title: [[Very truly yours  [[Organization 6 Name]]. IN ITS CAPACITY AS PURCHASER AND HOLDER OF Percentage 3% OF THE NOTES Signatory Title]]}}
+
+
+[[Organization 3 Name]], AS COLLATERAL AGENT
+[[[[Organization 6 Name]]. AS COLLATERAL AGENT Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]]. AS COLLATERAL AGENT Entity => By: [[[[Organization 6 Name]]. AS COLLATERAL AGENT Signatory First Name]] [[[[Organization 6 Name]]. AS COLLATERAL AGENT Signatory Last Name]]
+Title: [[[[Organization 6 Name]]. AS COLLATERAL AGENT Signatory Title]]}}
+
+
+^^^^^ 
+This Letter Agreement is hereby
+
+accepted and agreed to as
+
+of the date thereof. 
+
+**COMPANY**  
+[[Organization 2 Name]]  
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+**GUARANTORS**  
+[[Organization 7 Name]]  
+
+[[[[Organization 7 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] Entity => By: [[[[Organization 7 Name]] Signatory First Name]] [[[[Organization 7 Name]] Signatory Last Name]]
+Title: [[[[Organization 7 Name]] Signatory Title]]}}
+
+
+[[Organization 8 Name]]  
+
+[[[[Organization 9 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] Entity => By: [[[[Organization 9 Name]] Signatory First Name]] [[[[Organization 9 Name]] Signatory Last Name]]
+Title: [[[[Organization 9 Name]] Signatory Title]]}}
+

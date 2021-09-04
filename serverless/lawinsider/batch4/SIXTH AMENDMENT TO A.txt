@@ -1,0 +1,153 @@
+\centered **SIXTH AMENDMENT TO AMENDED REVOLVING CREDIT AGREEMENT** 
+
+SIXTH AMENDMENT, dated as of [[Date 1: Date]] (this “Agreement”), by and among [[Parent]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Parent”), [[Organization 1 Name]], LP, f/k/a SWBU, [[Borrowers]], a Texas limited partnership (“[[Organization 2 Name]]”; together with such other subsidiaries of the Parent as may be designated as a borrower under the Credit Agreement by [[Organization 2 Name]] with the prior written consent of the Agent (as defined below) and the Required Lenders (as defined in the Credit Agreement), each individually a “Borrower”, and, collectively, the “Borrowers”), all direct and indirect subsidiaries of the Parent other than the Excluded Subsidiaries (as defined in the Credit Agreement) (the Parent and such direct and indirect subsidiaries that are not Excluded Subsidiaries are hereinafter referred to individually as a “Guarantor Company” and, collectively, as the “Guarantor Companies”), the Lenders (as defined below), [[Organization 3 Name]], as administrative agent, co-arranger and collateral agent for the Lenders (in such capacity, the “Agent”), and [[[[Organization 4 Name]]]], as co-arranger for the Lenders (“[[Organization 4 Name]]”). 
+
+\centered W I T N E S S E T H 
+
+WHEREAS, the Borrowers, the Guarantor Companies, the financial institutions from time to time party thereto (each a “Lender” and collectively, the “Lenders”), the Agent and [[Organization 4 Name]] are parties to the Amended Revolving Credit Agreement, dated as of [[Date 2: Date]] (as amended by (i) the First Amendment, dated as of [[Date 3: Date]], (ii) the Waiver, Consent, Partial Release and Second Amendment, dated as of [[Date 4: Date]], (iii) the Third Amendment, dated as of [[Date 5: Date]], (iv) the Waiver, Consent, Partial Release and Fourth Amendment, dated as of [[Date 6: Date]], and (v) the Fifth Amendment, dated as of [[Date 7: Date]], the “Credit Agreement”), pursuant to which the Lenders have made revolving loans to the Borrowers; 
+
+WHEREAS, the Loan Parties have requested that the Lenders amend the Credit Agreement so that the leverage ratio and the interest coverage ratio not apply for the fiscal quarters ending [[Date 8: Date]] and [[Date 9: Date]], and the Lenders, [[Organization 4 Name]] and the Agent are willing to so amend Credit Agreement, subject to the terms and conditions set forth in this Agreement; 
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows: 
+
+^Definitions. Any capitalized term used herein and not defined shall have the meaning assigned to it in the Credit Agreement. 
+
+^Amendments to Credit Agreement.  
+
+^^Amendment and Restatement of Existing Definition. The following defined term in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows: 
+
+^^^^^ 
+“ ‘Consolidated EBITDA’ means, for any Person and its Consolidated Subsidiaries, for any period, the net income (or net loss) of such Person and its Consolidated Subsidiaries for such period, plus (i) the sum, without duplication, of (A) gross interest expense for such period, (B) income tax expense, (C) positive depreciation expense, (D) positive amortization expense, (E) with the prior written consent of the Required Lenders, extraordinary or unusual non-cash losses (to the extent that such extraordinary or unusual losses have not resulted in a cash outlay by such Person), (F) non-cash charges representing “last-in-first-out” inventory costs in excess of estimated replacement costs, (G) any non-cash operating losses, (H) any losses resulting from a change in accounting principles and (I) any minority interest expense to the extent identified as a line item in the financial statements of such Person or its Consolidated Subsidiaries, less (ii) the sum, without duplication, of (A) extraordinary gains or unusual non-cash gains, and (B) any non-cash gain that constitutes a reversal or a recovery of any non-cash charges representing “last-in-first-out” inventory costs in excess of estimated replacement costs, each determined on a consolidated basis in accordance with GAAP for such Person and its Consolidated Subsidiaries.” 
+
+^^Financial Covenant  Funded Debt to EBITDA. Section 7.02(i)(ii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows: 
+
+“(ii) Funded Debt to EBITDA. Permit the ratio of (A) the aggregate principal amount of all outstanding Indebtedness for borrowed money of [[Organization 1 Name]] and its Consolidated Subsidiaries as of the end of any period of four consecutive Fiscal Quarters, less freely transferable cash and Permitted Investments of [[Organization 1 Name]] and its Consolidated Subsidiaries not subject to any Lien (other than a Lien in favor of the Agent) as of the end of such period of four consecutive Fiscal Quarters, to (B) Consolidated EBITDA of [[Organization 1 Name]] and its Consolidated Subsidiaries for such period of four consecutive Fiscal Quarters, to be greater than 4.0 to 1.0, provided that no such requirement shall apply with respect to the Fiscal Quarters ending [[Date 8]] and [[Date 9]]. 
+
+Solely for the purposes of calculating the ratio set forth above, if, at the time the ratio is being determined, either [[Organization 1 Name]] or any of its Subsidiary shall have completed any Disposition, Merger, incurrence of Indebtedness, Investment or Restricted Payment (or series of related Dispositions, Mergers, incurrence of Indebtedness, Investments or Restricted Payments) exceeding $[[USD Value 1: Number]] in the aggregate since the beginning of the relevant four consecutive Fiscal Quarter period, the ratio shall be determined on a pro forma basis as if such Disposition, Merger, incurrence of Indebtedness, Investment or Restricted Payment, had occurred at the beginning of such period.” 
+
+^^Financial Covenant  Interest Coverage Ratio. Section 7.02(i)(iv) of the Credit Agreement is hereby amended and restated in its entirety to read as follows: 
+
+“(iv) Interest Coverage Ratio. Permit the ratio (the “Interest Coverage Ratio”) of (A) Consolidated EBITDA of [[Organization 1 Name]] and its Consolidated 
+
+^^^^^ 
+Subsidiaries, to (B) interest expense of [[Organization 1 Name]] and its Consolidated Subsidiaries payable for such period, in each case as of the end of any period of four consecutive Fiscal Quarters, to be less than 2.0:1.0, provided that no such requirement shall apply with respect to the Fiscal Quarters ending [[Date 8]] and [[Date 9]].” 
+
+^Conditions to Effectiveness. This Agreement shall be deemed effective as of [[Date 8]] (the “Sixth Amendment Effective Date”) upon the satisfaction of the following conditions on or before [[Date 1]], in a manner satisfactory to the Agent (the date such conditions are fulfilled is hereafter referred to as the “Sixth Amendment Date”): 
+
+^^The Agent shall have received on or before the Sixth Amendment Date the following, each in form and substance satisfactory to the Agent: 
+
+^^^five (5) copies of this Agreement, duly executed by the Loan Parties, the Agent and the Lenders; and 
+
+^^^five (5) copies of the Sixth Amendment Fee Letter, dated as of the date hereof, duly executed by the Borrowers and the Agent (the “Sixth Amendment Fee Letter”). 
+
+^^The representations and warranties contained in this Agreement, the Credit Agreement and in each other Loan Document and certificate or other writing delivered to the Agent or any Lender pursuant thereto on or prior to the Sixth Amendment Date shall be true and correct on and as of the Sixth Amendment Date as though made on and as of such date, except to the extent that such representations or warranties expressly relate solely to an earlier date (in which case such representations or warranties shall be true and correct on and as of such date); and no Default or Event of Default shall have occurred and be continuing on the Sixth Amendment Date or would result from this Agreement becoming effective in accordance with its terms. 
+
+^Representations and Warranties. To induce the other parties hereto to enter into this Agreement, the Loan Parties represent and warrant to the Agent and the Lenders that, as of the Sixth Amendment Date, the representations and warranties contained in this Agreement, the Credit Agreement and in each other Loan Document and certificate or other writing delivered to the Agent or any Lender pursuant thereto on or prior to the Sixth Amendment Date are true and correct in all respects on and as of the Sixth Amendment Date, after giving effect to the terms of this Agreement, as though made on and as of such date, except to the extent that such representations and warranties expressly relate solely to an earlier date (in which case such representations and warranties shall be true and correct in all respects on and as of such date); and no Default or Event of Default has occurred and is continuing on the Sixth Amendment Date or will result from this Agreement becoming effective in accordance with its terms. 
+
+^Reservation of Rights. No action or acquiescence by the Agent and the Lenders, including, without limitation, this Agreement of, or the acceptance of any payments under, the Credit Agreement, shall constitute a waiver of any Default or Event of Default which may exist as of the Sixth Amendment Date. Accordingly, the Agent and the Lenders reserve all of their rights under the Credit Agreement, the Loan Documents, at law and otherwise regarding any such Default or Event of Default. 
+
+^^^^^ 
+^Continued Effectiveness of Loan Documents. Each of the Loan Parties hereby (i) confirms and agrees that each Loan Document to which it is a party is, and shall continue to be, in full force and effect and is hereby ratified and confirmed in all respects except that on and after the Sixth Amendment Date all references in any such Loan Document to “the Credit Agreement”, “thereto”, “thereof”, “thereunder” or words of like import referring to the Credit Agreement shall mean the Credit Agreement as amended by this Agreement, and (ii) confirms and agrees that to the extent that any such Loan Document purports to assign or pledge to the Agent, or to grant to the Agent a security interest in or lien on, any collateral as security for the Obligations of the Loan Parties from time to time existing in respect of the Credit Agreement and the Loan Documents, such pledge, assignment and/or grant of the security interest or lien is hereby ratified and confirmed in all respects. 
+
+^Miscellaneous.  
+
+^^This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which shall be deemed to be an original, but all of which taken together shall constitute one and the same agreement. Delivery of a counterpart hereby by facsimile or electronic transmission shall be equally effective as delivery of a manually executed counterpart hereof. 
+
+^^Section and paragraph headings herein are included for convenience of reference only and shall not constitute a part of this Agreement for any other purpose. 
+
+^THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK. 
+
+^^THE COMPANIES, THE AGENT AND THE LENDERS EACH HEREBY IRREVOCABLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT. 
+
+^^Each Loan Party hereby acknowledges and agrees that this Agreement constitutes a “Loan Document” under the Credit Agreement. Accordingly, it shall be an Event of Default under the Credit Agreement if (i) any representation or warranty made by any Loan Party under or in connection with this Agreement shall have been untrue, false or misleading in any material respect when made, or (ii) any Loan Party shall fail to perform or observe any term, covenant or agreement contained in this Agreement. 
+
+^^The Loan Parties wil[[Borrowers]]ay on demand all reasonable fees, reasonable out-of-pocket costs and expenses of the Agent in connection with the preparation, execution and delivery of this Agreement and the administration of the Credit Agreement, including, without limitation, the reasonable fees, out-of-pocket disbursements and other client charges of Schulte Roth & Zabel [[Borrowers]] 
+
+\centered [REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized, as of the date first above written. 
+
+Borrower:  [[Organization 1 Name]], LP
+[[Borrower  [[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower  [[Organization 1 Name]] Entity => By: [[Borrower  [[Organization 1 Name]] Signatory First Name]] [[Borrower  [[Organization 1 Name]] Signatory Last Name]]
+Title: [[Borrower  [[Organization 1 Name]] Signatory Title]]}}
+
+liability company, its genera[[Borrowers]]artner
+
+[[Liability company its generaBorrowersartner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Liability company its generaBorrowersartner Entity => By: [[Liability company its generaBorrowersartner Signatory First Name]] [[Liability company its generaBorrowersartner Signatory Last Name]]
+Title: [[Liability company its generaBorrowersartner Signatory Title]]}}
+
+
+\centered Sixth Amendment to the Amended Revolving Credit Agreement 
+
+^^^^^ 
+
+Guarantor Companies:  [[Organization 1 Name]] OPERATING, [[Organization 1 Name]] [[Organization 1 Name]], INC. [[Parent]] [[Organization 5 Name]], INC. [[Organization 1 Name]] GP ALON ASSETS, INC.
+[[Guarantor Companies  [[Organization 1 Name]]. [[Organization 1 Name]]. Parent [[Organization 5 Name]]. [[Organization 1 Name]] GP ALON ASSETS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Guarantor Companies  [[Organization 1 Name]]. [[Organization 1 Name]]. Parent [[Organization 5 Name]]. [[Organization 1 Name]] GP ALON ASSETS INC. Entity => By: [[Guarantor Companies  [[Organization 1 Name]]. [[Organization 1 Name]]. Parent [[Organization 5 Name]]. [[Organization 1 Name]] GP ALON ASSETS INC. Signatory First Name]] [[Guarantor Companies  [[Organization 1 Name]]. [[Organization 1 Name]]. Parent [[Organization 5 Name]]. [[Organization 1 Name]] GP ALON ASSETS INC. Signatory Last Name]]
+Title: [[Guarantor Companies  [[Organization 1 Name]]. [[Organization 1 Name]]. Parent [[Organization 5 Name]]. [[Organization 1 Name]] GP ALON ASSETS INC. Signatory Title]]}}
+
+
+[[Organization 1 Name]]
+[[[[Organization 1 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]. Entity => By: [[[[Organization 1 Name]]. Signatory First Name]] [[[[Organization 1 Name]]. Signatory Last Name]]
+Title: [[[[Organization 1 Name]]. Signatory Title]]}}
+
+
+ALON CRUDE PIPELINE
+[[ALON CRUDE PIPELINE Signatory Email: Identity | Signature]]
+__________________________________________
+{{ALON CRUDE PIPELINE Entity => By: [[ALON CRUDE PIPELINE Signatory First Name]] [[ALON CRUDE PIPELINE Signatory Last Name]]
+Title: [[ALON CRUDE PIPELINE Signatory Title]]}}
+ and Chief Financial Officer
+
+\centered Sixth Amendment to the Amended Revolving Credit Agreement 
+
+^^^^^ 
+
+[[Organization 6 Name]], INC. [[Organization 1 Name]]
+By:   /s/ Shai Even
+Name:   Shai Even
+Title:   Vice President
+
+\centered Sixth Amendment to the Amended Revolving Credit Agreement 
+
+^^^^^ 
+
+Agent and Lender:  [[Organization 3 Name]]
+[[Agent and Lender  [[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{Agent and Lender  [[Organization 3 Name]] Entity => By: [[Agent and Lender  [[Organization 3 Name]] Signatory First Name]] [[Agent and Lender  [[Organization 3 Name]] Signatory Last Name]]
+Title: [[Agent and Lender  [[Organization 3 Name]] Signatory Title]]}}
+
+
+[[Title Party 6 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 6 Signatory Title}} Entity => By: [[Title Party 6 Signatory Title}} Signatory First Name]] [[Title Party 6 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 6 Signatory Title}} Signatory Title]]}}
+
+
+\centered Sixth Amendment to the Amended Revolving Credit Agreement 
+
+^^^^^ 
+
+Lender and Co-arranger:  [[[[Organization 4 Name]]]]
+[[Lender and Co-arranger  [[Organization 4 Name]] Email: Identity | Signature]]
+__________________________________________
+{{Lender and Co-arranger  [[Organization 4 Name]] Entity => By: [[Lender and Co-arranger  [[Organization 4 Name]] First Name]] [[Lender and Co-arranger  [[Organization 4 Name]] Last Name]]
+Title: [[Lender and Co-arranger  [[Organization 4 Name]] Title]]}}
+
+
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
+
+
+\centered Sixth Amendment to the Amended Revolving Credit Agreement

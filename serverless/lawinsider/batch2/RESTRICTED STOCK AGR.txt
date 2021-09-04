@@ -1,0 +1,169 @@
+
+\centered **RESTRICTED STOCK AGREEMENT**
+
+This Restricted Stock Agreement is dated as of the [[Date 1: Date]], between [[Company]], an [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [[Employee]] (“Employee”).
+
+^**Award**.  
+
+^^**Shares**. Pursuant to the [[Company]] 2006 Class A Common Stock Compensation Plan (the “Plan”), [[Shares 1: Number]] shares (the “Restricted Shares”) of the Company's common stock, without par value (“Stock”), shall be issued as hereinafter provided in Employee's name subject to certain restrictions thereon.
+
+^^**Issuance of Restricted Shares**. The Restricted Shares shall be issued upon acceptance hereof by Employee, subject to satisfaction of the conditions of this Agreement. 
+
+^^**Plan Incorporated**. Employee acknowledges receipt of a copy of the Plan, and agrees that this award of Restricted Shares shall be subject to all of the terms and conditions set forth in the Plan (except as limited by provisions of this Agreement), including future amendments thereto, if any, pursuant to the terms thereof, which Plan is incorporated herein by reference as a part of this Agreement.
+
+^^**Policy Incorporated.** Employee acknowledges receipt of a copy of Exhibit A, the **Impact of Restatement of Financial Statements Upon Awards Policy**(Clawback Policy”) adopted by the Management Development and Compensation Committee of the Board of Directors and agrees that this award of Restricted Shares shall be subject to all of the terms and conditions set forth in the Clawback Policy, including future amendments thereto, if any, which Clawback Policy is incorporated herein by reference as part of this Agreement.
+
+(e)**Additional Definitions**  
+^^^Good Reason.  “Good Reason” means one or more of the following conditions arising without the consent of the Employee:
+
+^A material diminution in the Employee's authority, duties, or responsibilities of the Employee;
+
+^A material diminution in the Employee's base compensation;
+
+^A material diminution in the authority, duties, or responsibilities of the corporate officer or employee to whom the Employee is required to report, including a requirement that the Employee report to a corporate officer or employee instead of reporting directly to the Board; 
+
+^A material diminution in the budget over which the Employee retains authority; 
+
+^A material change in the geographic location at which the Employee must perform the services Employee provides to the Company; or
+
+^Any other action or inaction that constitutes a material breach by the Company 
+
+of any agreement under which the Employee provides services.
+
+(ii**)** **Cause.**“Cause” means:  
+
+^the Employee's willful and continued failure to substantially perform the Employee's duties with the Company or its Affiliates (other than any such failure resulting from the Employee's incapacity due to physical or mental illness), after a written demand for substantial performance is delivered to the Employee by the Company which specifically identifies the manner in which the Company believes that the Employee has not substantially performed his or her duties; 
+
+^the final conviction of the Employee of, or an entering of a guilty plea or a plea of no contest by the Employee to, a felony; or 
+
+^the willful engaging by the Employee in illegal conduct or gross misconduct which is materially and demonstrably injurious to the Company. 
+
+For purposes of this definition, no act or failure to act on the part of the Employee shall be considered “willful” unless it is done, or omitted to be done, by the Employee in bad faith or without a reasonable belief that the action or omission was in the best interests of the Company or its Affiliates. Any act, or failure to act, based on authority given pursuant to a resolution duly adopted by the Board, the instructions of a more senior officer of the Company or the advice of counsel to the Company or its Affiliates will be conclusively presumed to be done, or omitted to be done, by the Employee in good faith and in the best interests of the Company and its Affiliates.
+
+^**Restricted Shares**. Employee hereby accepts the Restricted Shares when issued and agrees with respect thereto as follows:
+
+^^**Forfeiture Restrictions**. The Restricted Shares may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred, encumbered or disposed of to the extent then subject to the Forfeiture Restrictions (as hereinafter defined), and in the event of termination of Employee's employment with the Company or employing subsidiary for any reason other than those listed in paragraph 2(b)(ix), Employee shall, for no consideration, forfeit to the Company all Restricted Shares to the extent then subject to the Forfeiture Restrictions. The prohibition against transfer and the obligation to forfeit and surrender Restricted Shares to the Company upon termination of employment are herein referred to as “Forfeiture Restrictions.” The Forfeiture Restrictions shall be binding upon and enforceable against any transferee of Restricted Shares.
+
+^^**Lapse of Forfeiture Restrictions**. The Forfeiture Restrictions shall lapse as to the Restricted Shares on the Lapse Date in accordance with the following schedule:
+
+^^^**Lapse Date:**  
+The Forfeiture Restrictions shall lapse on the date the Management Development & CompensationCommittee (“Committee”) certifies the extent to which the 2010 performance goals, and the catch-up performance goals have been met, which certification shall be made no later than [[Date 2: Date]] (hereinafter “Lapse Period”).
+
+^^^**Restricted Stock Agreement Earnings Per Share (RSAEPS):** 
+
+RSAEPS means Operating Income as defined in the Accounting Policy for Determination of Operating Income that is currently in effect (last approved by the Audit Committee on [[Date 3: Date]]) per weighted-average common share for the year ended [[Date 4: Date]]. 
+
+^^^**Restricted Stock Agreement Book Value (RSABV)**
+
+RSABV means the percentage increase in book value per common share excluding accumulated other comprehensive income (loss) (AOCI) from [[Date 5: Date]] to [[Date 4]]. Dividends paid during the year will be added back to the [[Date 4]] book value to determine the percentage increase. 
+
+^^^**2010 Performance Goals:**  
+Determination of the Lapse of Forfeiture Restrictions on the Restricted Stock Award is governed [[Percentage 1: Number]]% by the RSAEPS goals and [[Percentage 2: Number]]% by the RSABV goals measured during the 2010 calendar year as follows:
+
+Threshold RSAEPS goal: $[[USD Value 1: Number]] 
+Maximum RSAEPS goal: $[[USD Value 2: Number]]  
+Threshold RSABV goal:   7 % 
+Maximum RSABV goal: [[Percentage 3: Number]]%  
+^^^**Percentage of Number of Restricted Shares Awarded Pursuant to RSAEPS Goals to Which Forfeiture Restrictions Lapse:**
+
+If RSAEPS equals or exceeds the maximum RSAEPS goal: [[Percentage 4: Number]]%
+
+If RSAEPS is less than the threshold RSAEPS goal:    [[Percentage 5: Number]]%
+
+If RSAEPS for the year ended [[Date 4]] is at least the threshold RSAEPS goal (“A”) but less than the maximum RSAEPS goal (“B”), the percentage of the [[Percentage 1]]% of Restricted Shares to which Forfeiture Restrictions lapse will be calculated according to the following formula: 
+
+(RSAEPS - A)/(B - A)  
+^^^**Percentage of Number of Restricted Shares Awarded Pursuant to RSABV Goals to Which Forfeiture Restrictions Lapse:**
+
+If RSABV equals or exceeds the maximum RSABV goal:  [[Percentage 4]]%
+
+If RSABV is less than the threshold RSABV goal:    [[Percentage 5]]%
+
+If the RSABV percentage for the year ended [[Date 4]] is higher than the threshold RSABV goal of 7 % (“X”) but lower than the maximum RSABV goal of 10 % (“Y”), the percentage of the [[Percentage 2]]% of Restricted Shares to which the Forfeiture Restrictions lapse will be calculated according to the following formula:
+
+(RSABV - X)/(Y - X)  
+^^^**Determination of 2010 Performance Goals:**
+
+The Committee shall by [[Date 6: Date]] certify the potential number of Restricted Shares to which the Forfeiture Restrictions may lapse at the end of the Lapse Period based upon attainment of the 2010 Performance Goals.
+
+^^^**Catch Up Performance Goals:**  
+Any Restricted Shares which have failed to achieve the 2010 Performance Goals shall be deemed to have met the performance goals if the book value of the company's Class A Common Shares equals or exceeds the value specified below by [[Date 7: Date]] of the second or third year of the Lapse Period.
+
+\centered \centered DATE   \centered RSABV \centered [[Date 8: Date]]   $   39.08 
+
+\centered [[Date 9: Date]]   $   42.93  
+
+For purposes of determining book value of the company's Class A Common Shares during the Lapse Period, the following shall apply:
+
+^^Accumulated other comprehensive income (loss) (AOCI) shall be excluded;
+
+^^Any dividends paid during the calendar years included in the Lapse Period shall be added to the actual book value; and
+
+^^Calculation of book value shall be done in accordance with generally accepted accounting principles (“GAAP”) materially consistent with those used to determine book value as of [[Date 10: Date]].
+
+^^^**Effect of Termination of Employment:**
+
+Notwithstanding the foregoing:   
+^On the occurrence of both a Change in Control (as such term is defined in the Plan) and termination of Employee's employment before the Lapse Date by the Company other than for Cause or by the Employee for Good Reason, the Forfeiture Restrictions shall immediately lapse as to all the Restricted Shares.
+
+^If Employee's employment with the Company is terminated before the Lapse Date by reason of death, the Forfeiture Restrictions shall immediately lapse as to a prorata portion of the Restricted Shares. The prorata portion shall be measured by months elapsed from the date of this Agreement to the date of death, as compared to 36 months.
+
+^If Employee's employment with the Company is terminated before the Lapse Date by reason of disability (as determined by the Company) or retirement as defined in the Plan, the Forfeiture Restrictions shall lapse on the Lapse Date as to a prorata portion of the Restricted Shares which would be available to Employee on the Lapse Date (according to the schedule above) had Employee not terminated employment. The prorata portion shall be measured by months elapsed from the date of this Agreement to termination of employment, as compared to 36 months. 
+
+^In the event Employee's employment is terminated for any other reason, the Committee or its delegate, as appropriate, may, in the Committee's or such delegate's sole discretion, approve the lapse of Forfeiture Restrictions as to any or all Restricted Shares still subject to such restrictions, such lapse to be effective on the Lapse Date.
+
+^If Employee is a “covered employee” as defined in Internal Revenue Code Section 162(m), the provisions of paragraph (D), above, shall not apply to this Agreement.
+
+^^**Dividend Restriction**. Payment of any dividends on the Restricted Shares is contingent upon meeting the performance and service requirements contained in this Agreement, and such dividends shall be retained by the Company and not paid to Employee until the Lapse Date, and then only in respect to shares which have not been forfeited.
+
+^^**Certificates**. A certificate evidencing the Restricted Shares shall be issued by the Company in Employee's name, or at the option of the Company, in the name of a nominee of the Company, pursuant to which Employee shall have voting rights and such rights to dividends as are described in paragraph 2(c), above. As required by the Plan, the certificate shall bear a legend reading as follows: “The s ale or other transfer of the Shares of Stock represented by this certificate, whether voluntary, involuntary, or by operation of law, is subject to certain restrictions on transfer as set forth in the [[Company]] 2006 Class A Common Stock Compensation Plan and in a Restricted Stock Agreement dated [[Date 11: Date]]. A copy of the Plan and such Restricted Stock Agreement may be obtained from the Secretary of [[Company]]” The Company may cause the certificate to be delivered upon issuance to the Secretary of the Company or to such other depository as may be designated by the Company as a depository for safekeeping until the forfeiture occurs or the Forfeiture Restrictions lapse pursuant to the terms of the Plan and this award. Alternatively, the Company may maintain the shares in an uncertificated record at the offices of its stock transfer agent. Upon request of the Committee or its delegate, Employee shall deliver to the Company a stock power, endorsed in blank, relating to the Restricted Shares then subject to the Forfeiture Restrictions. Upon the lapse of the Forfeiture Restrictions without forfeiture, the Company shall cause a new certificate or certificates to be issued without legend in the name of Employee for the shares upon which Forfeiture Restrictions lapsed, or at the election of Employee, cause uncertificated shares to be transferred to an account for the benefit of Employee at such bank or brokerage firm as Employee directs. Notwithstanding any other provisions of this Agreement, the issuance or delivery of any shares of Stock (whether subject to restrictions or unrestricted) may be postponed for such period as may be required to comply with applicable requirements of any national securities exchange or any requirements under any law or regulation applicable to the issuance or delivery of such shares. The Company shall not be obligated to issue or deliver any shares of Stock if the issuance or delivery thereof shall constitute a violation of any provision of any law or of any regulation of any governmental authority or any national securities exchange.
+
+^**Withholding of Tax**. To the extent that the receipt of the Restricted Shares, dividends paid upon the Restricted Shares or the lapse of any Forfeiture Restrictions results in compensation income to Employee for federal or state income tax purposes, Employee shall deliver to the Company at the time of such receipt or lapse, as the case may be, such amount of money or shares of unrestricted Stock as the C ompany may require to meet its withholding obligation under applicable tax laws or regulations, and, if Employee fails to do so, the Company is authorized to withhold from any cash or Stock remuneration then or thereafter payable to Employee any tax required to be withheld by reason of such resulting compensation income.
+
+^**Status of Stock**. Employee agrees that the Restricted Shares will not be sold or otherwise disposed of in any manner which would constitute a violation of any applicable federal or state securities laws. Employee also agrees (i) that the certificates representing the Restricted Shares may bear such legend or legends as the Company deems appropriate in order to assure compliance with applicable securitie s laws, (ii) that the Company may refuse to register the transfer of the Restricted Shares on the stock transfer records of the Company if such proposed transfer would be in the opinion of counsel satisfactory to the Company constitute a violation of any applicable securities law and (iii) that the Company may give related instructions to its transfer agent, if any, to stop registration of the transfer of the Restricted Shares.
+
+^**Employment Relationship**. For purposes of this Agreement, Employee shall be considered to be in the employment of the Company as long as Employee remains an employee of either 
+
+the Company, any successor corporation or a parent or subsidiary corporation (as defined in section 424 of the Code) of the Company or any successor corporation. Any question as to whether and when there has been a termination of such employment, and the cause of such termination, shall be determined by the Committee, or its delegate, as appropriate, and its determination shall be final.
+
+^**Committee's Powers**. No provision contained in this Agreement shall in any way terminate, modify or alter, or be construed or interpreted as terminating, modifying or altering any of the powers, rights or authority vested in the Committee or, to the extent delegated, in its delegate pursuant to the terms of the Plan or resolutions adopted in furtherance of the Plan, including, without limitation, the ri ght to make certain determinations and elections with respect to the Restricted Shares. By execution of this Agreement, Company affirms that the Committee has waived the provisions of Section 9(i) of the Plan which would otherwise require automatic forfeiture of all shares of Restricted Stock still subject to restrictions upon termination of Employee's employment, and has substituted therefore the provisions stated in Paragraphs 2(a) and 2(b), above.
+
+^**Binding Effect**. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under Employee.
+
+^**Governing Law**. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Iowa
+
+**IN WITNESS WHEREOF**, the Company has caused this Agreement to be duly executed by an officer thereunto duly authorized, and Employee has executed this Agreement, with an effective date of [[Date 11]].
+
+[[Company]]   
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+[[Title Company Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Company Signatory Title}} Entity => By: [[Title Company Signatory Title}} Signatory First Name]] [[Title Company Signatory Title}} Signatory Last Name]]
+Title: [[Title Company Signatory Title}} Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]], Chairman 
+
+(name and title)    
+
+/s/ [[Employee]] 
+
+_______________________________ 
+
+[[Employee]], “Employee”  
+Please Initial Appropriate Item (One of the lines must be initialed):
+
+^I do not desire the alternative tax treatment provided for in the Internal Revenue Code Section 83(b).
+
+^do desire the alternative tax treatment provided for in Internal Revenue Code Section 83(b) and desire that forms for such purpose be forwarded to me.
+
+· I acknowledge that the Company has suggested that before this line is initialed that I check with a tax consultant of my choice.
+
+**Exhibit A**  
+**Policy: Impact of Restatement of Financial Statements Upon Awards. (Adopted by Management Development and Compensation Committee [[Date 12: Date]].)**
+
+If any of the Company's financial statements are restated because of errors, omissions or fraud, the Committee may (in its sole discretion, but acting in good faith) direct that the Company recover all or a portion of awards of bonuses, and grants of options and restricted stock options (together, “awards”) with respect to any fiscal year of the Company the financial results of which are negatively affected by such restatement. Recoveries may be made from all officers in the Section 16 reporting group regardless of fault, and from any other persons whom the Committee believes were involved in misconduct causing the required restatement (together, “Participants”). Misconduct involves more than mere negligent job performance. The amount to be recovered from the Participant shall be the amount by which awards exceeded the amount that would have been payable to the Participant had the financial statement s been initially filed as restated, or any greater or lesser amount (including, but not limited to, the entire award) that the Committee shall determine. The Committee shall determine whether the Company shall effect any such recovery (i) by seeking repayment from the Participant, (ii) by reducing (subject to applicable law and the terms and conditions of the applicable plan, program or arrangement) the amount that would otherwise be payable to the Participant under any compensatory plan, program or arrangement maintained by the Company or any of its affiliates, (iii) by withholding payment of future increases in compensation (including the payment of any discretionary bonus amount) or grants of compensatory awards that would otherwise have been made in accordance with the Company's otherwise applicable compensation practices, or (iv) by any combination of the foregoing. Provisions reflecting this policy shall be placed in all award grant instruments delivered to Participants.

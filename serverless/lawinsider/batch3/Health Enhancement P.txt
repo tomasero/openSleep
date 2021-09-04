@@ -1,0 +1,59 @@
+\centered 
+
+\centered **[[Organization 1 Name]], Inc.**
+
+\centered **7740 E. Evans Rd. St A101**
+
+\centered **[[Address 1: Address]]**
+
+[[Date 1: Date]]
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+7740 E. Evans Rd. St A101
+
+[[Address 1: Address]]
+
+RE: Letter of Indemnity
+
+Dear Mr. Baer:
+
+You have guaranteed the following obligations of [[Organization 1 Name]], Inc. (“we’ or “HEPI”):
+
+Obligations under that certain real property lease of HEPI with respect to premises at Gelding Road (dated around [[Date 2: Date]]) (approximately $[[USD Value 1: Number]] per month for 28 months)); and
+
+Obligations under the following equipment leases:
+
+^^Lease of water bottling system (dated [[Date 3: Date]] in the aggregate amount of $[[USD Value 2: Number]])
+
+^^Lease of water filtration system (dated [[Date 4: Date]] in the aggregate amount of $[[USD Value 3: Number]])
+
+^^Lease of phone system (dated around [[Date 5: Date]] in the aggregate amount of $[[USD Value 4: Number]])
+
+^^Lease of forklift (Toyota Motor, dated [[Date 6: Date]] in the aggregate amount of $[[USD Value 5: Number]]) 
+
+The foregoing obligations of HEPI are collectively referred to herein as the “guaranteed obligations”. HEPI has previously failed to fulfill certain of the guaranteed obligations, and, as a result, your financial credit has been damaged.
+
+In consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, (i) HEPI hereby agrees to indemnify you against any liability you incur (including reasonable attorney’s fees and costs) as a result of any claim asserted against you due to HEPI’s failure to fulfill any of its financial obligations under the aforementioned leases and (ii) HEPI agrees to promptly issue to you pursuant to a subscription agreement of even date a common stock purchase warrant for [[Shares 1: Number]] shares of common stock at an exercise price of $.15 per share, with a cashless exercise provision and a term of three years.
+
+If we are unable to make timely payment of any amount due under a guaranteed obligation, we will notify you in writing ten (10) days in advance of the payment due date with respect to the payment we are unable to make.
+
+HEPI shall make any indemnity payment due to you hereunder within 10 (ten) business days of your incurring a liability which HEPI is obligated hereunder to indemnify you against. If HEPI fails to make payment to you as required hereby, then HEPI shall be obligated to pay you interest on the unpaid amount at the rate of [[Percentage 1: Number]]% per month, but not to exceed the highest rate permitted by applicable law.
+
+If you agree with the foregoing terms, please so indicate by countersigning this letter agreement below where indicated, whereupon this letter agreement shall be binding upon us. This agreement supersedes any prior agreement between us in any way related to your guarantee of any of our obligations, and you hereby release us from any liability or obligation under any such prior agreement.
+
+**Executed as an instrument under seal as of the date set forth above.**
+
+[[Organization 1 Name]], Inc.
+
+Accepted and Agreed:
+
+*/S/ [[Person 2 First Name]] [[Person 2 Last Name]]* 
+
+*/S/ [[Person 1 First Name]] [[Person 1 Last Name]]* 
+
+[[Person 2 First Name]] [[Person 2 Last Name]], Director
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+[[Date 1]]

@@ -1,0 +1,192 @@
+\centered [[Organization 1 Name]], 
+
+\centered as Issuer, 
+
+\centered EACH OF THE GUARANTORS PARTY HERETO 
+
+\centered and 
+
+\centered [[Organization 2 Name]], 
+
+\centered as Trustee 
+
+\centered Supplemental Indenture 
+
+\centered Dated as of [[Date 1: Date]] 
+
+\centered to 
+
+\centered Indenture 
+
+\centered Dated 
+
+\centered as of [[Date 2: Date]] 
+
+\centered [[Percentage 1: Number]]% Senior Secured Notes Due 2014 
+
+**SUPPLEMENTAL INDENTURE**, dated as of [[Date 1]] (this “Supplemental Indenture”), among [[Organization 1 Name]], a Delaware corporation (the “Company”), the Guarantors (as defined in the Indenture referred to herein) party hereto, and [[Organization 2 Name]], as trustee under the Indenture referred to below (the “Trustee”). 
+
+WHEREAS, the Company and the Guarantors have heretofore executed and delivered to the Trustee an indenture, dated as of [[Date 2]] (the “Indenture”), providing for the issuance of [[Percentage 1]]% Senior Secured Notes Due 2014 (the “Notes”); 
+
+WHEREAS, Section 9.01 of the Indenture provides that the Company, the Guarantors and the Trustee may amend or supplement the Indenture without the consent of any holders to cure any ambiguity, defect or inconsistency or to make any change that would provide any additional rights or benefits to the Holders or that does not adversely affect the legal rights hereunder of any Holder; 
+
+WHEREAS, the Company, the Guarantors and the Trustee desire to amend and supplement certain terms and conditions of the Indenture as further described below and pursuant to Section 9.01 of the Indenture, the Trustee is authorized to execute and deliver this Supplemental Indenture; and 
+
+WHEREAS, the execution and delivery of this Supplemental Indenture has been duly authorized by the parties hereto, and all other acts necessary to make this Supplemental Indenture a valid and binding supplement to the Indenture effectively amending the Indenture as set forth herein have been duly performed. 
+
+NOW THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt of which is hereby acknowledged, the Company, the Guarantors and the Trustee mutually covenant and agree for the equal and ratable benefit of the Holders as follows: 
+
+\centered **Amendments to the Indenture** 
+
+^Amendments to Section 1.01 and Section 4.09 of the Indenture. In accordance with Section 9.01(1) and Section 9.01(4) of the Indenture: 
+
+^^^the definition of the term “Collateral” is hereby amended and restated in its entirety to read as follows: ‘“*Collateral*’ means, collectively, the ABL Collateral, the Shared Collateral and the Separate Collateral.”. 
+
+^^^Clause (6) of the definition of the term “Permitted Liens” in Section 1.01 of the Indenture is hereby amended by deleting the reference to “Section 4.09(b)(6)” where it appears therein and substituting in lieu thereof reference to “Section 4.09(b)(7)”; and 
+
+^^^Section 4.09(b)(7) of the Indenture is hereby amended by deleting the reference to “clause (6)” where it appears therein and substituting in lieu thereof reference to “clause (7)”. 
+
+\centered **Miscellaneous** 
+
+^Effect of this Supplemental Indenture. This Supplemental Indenture is an indenture supplemental to the Indenture and the Notes, and said Indenture, Notes and this Supplemental Indenture shall henceforth be read together in the same manner as if the provisions of the Indenture, the Notes and this Supplemental Indenture were conformed in the same instrument. 
+
+^Confirmation. The Indenture and the Notes as amended and supplemented by this Supplemental Indenture are in all respects ratified, confirmed and preserved. 
+
+^Terms Defined. Capitalized terms used in this Supplemental Indenture and not otherwise defined herein shall have the respective meanings set forth in the Indenture. 
+
+^Headings. The headings of the Articles and Sections of this Supplemental Indenture have been inserted for convenience of reference only, and are not to be considered a part hereof and shall in no way modify or restrict any of the terms and provisions hereof. 
+
+^Governing Law. THE INTERNAL LAW OF THE STATE OF NEW YORK SHALL GOVERN AND BE USED TO CONSTRUE THIS SUPPLEMENTAL INDENTURE WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION WOULD BE REQUIRED THEREBY. 
+
+^Counterparts. This Supplemental Indenture may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all such counterparts shall together constitute but one and the same instrument. 
+
+^Effectiveness. The provisions of this Supplemental Indenture shall be deemed to be effective as of [[Date 2]] upon its execution and delivery by the Trustee in accordance with the provisions of Section 9.06 of the Indenture. 
+
+^Acceptance by Trustee. The Trustee accepts the amendments to the Indenture effected by this Supplemental Indenture. 
+
+^Certain Duties and Responsibilities of the Trustee. In entering into this Supplemental Indenture, the Trustee shall be entitled to the benefit of every provision of the Indenture and the Notes relating to the conduct or affecting the liability or affording protection to the Trustee, whether or not elsewhere herein so provided. The Trustee shall not be responsible in any manner for or in respect of the validity or sufficiency of this Supplemental Indenture or for or in respect of the recitals contained herein, all of which are made by the Company. 
+
+^Trustee Documents. On or before the date hereof, the Company shall deliver to the Trustee pursuant to the Indenture (a) the Board Resolutions, (b) an Officers’ Certificate and (c) an Opinion of Counsel, in each case, related to the execution of this Supplemental Indenture. 
+
+\centered [SIGNATURE PAGES TO FOLLOW] 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Supplemental Indenture to be duly executed, all as of the date first written above. 
+
+
+
+[[IN WITNESS WHEREOF the parties hereto have caused this Supplemental Indenture to be duly executed all as of the date first written above. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the parties hereto have caused this Supplemental Indenture to be duly executed all as of the date first written above. Entity => By: [[IN WITNESS WHEREOF the parties hereto have caused this Supplemental Indenture to be duly executed all as of the date first written above. Signatory First Name]] [[IN WITNESS WHEREOF the parties hereto have caused this Supplemental Indenture to be duly executed all as of the date first written above. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the parties hereto have caused this Supplemental Indenture to be duly executed all as of the date first written above. Signatory Title]]}}
+
+
+CHILLICOTHE PAPER INC
+
+[[CHILLICOTHE PAPER INC Signatory Email: Identity | Signature]]
+__________________________________________
+{{CHILLICOTHE PAPER INC Entity => By: [[CHILLICOTHE PAPER INC Signatory First Name]] [[CHILLICOTHE PAPER INC Signatory Last Name]]
+Title: [[CHILLICOTHE PAPER INC Signatory Title]]}}
+
+
+ESCANABA PAPER COMPANY
+
+[[ESCANABA PAPER COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{ESCANABA PAPER COMPANY Entity => By: [[ESCANABA PAPER COMPANY Signatory First Name]] [[ESCANABA PAPER COMPANY Signatory Last Name]]
+Title: [[ESCANABA PAPER COMPANY Signatory Title]]}}
+
+
+[[Organization 3 Name]]
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+
+RUMFORD PAPER COMPANY
+
+[[RUMFORD PAPER COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{RUMFORD PAPER COMPANY Entity => By: [[RUMFORD PAPER COMPANY Signatory First Name]] [[RUMFORD PAPER COMPANY Signatory Last Name]]
+Title: [[RUMFORD PAPER COMPANY Signatory Title]]}}
+
+
+[[Organization 4 Name]] LLC
+
+[[[[Organization 4 Name]] LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] LLC Entity => By: [[[[Organization 4 Name]] LLC Signatory First Name]] [[[[Organization 4 Name]] LLC Signatory Last Name]]
+Title: [[[[Organization 4 Name]] LLC Signatory Title]]}}
+
+
+[[Organization 5 Name]]
+
+[[[[Organization 5 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{[[Organization 5 Name]]. Entity => By: [[[[Organization 5 Name]] Signatory First Name]] [[[[Organization 5 Name]] Signatory Last Name]]
+Title: [[[[Organization 5 Name]] Signatory Title]]}}
+
+
+RUMFORD COGENERATION, INC.
+
+[[[[Organization 6 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]]. Entity => By: [[[[Organization 6 Name]]. Signatory First Name]] [[[[Organization 6 Name]]. Signatory Last Name]]
+Title: [[[[Organization 6 Name]]. Signatory Title]]}}
+
+
+[[Organization 7 Name]]
+
+[[[[Organization 7 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] Entity => By: [[[[Organization 7 Name]] Signatory First Name]] [[[[Organization 7 Name]] Signatory Last Name]]
+Title: [[[[Organization 7 Name]] Signatory Title]]}}
+
+
+[[Organization 8 Name]]
+
+[[[[Organization 8 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Name]] [[[[Organization 8 Name]] Last Name]]
+Title: [[[[Organization 8 Name]]]]}}
+
+
+[[Organization 9 Name]]
+
+[[[[Organization 9 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] Entity => By: [[[[Organization 9 Name]] Signatory First Name]] [[[[Organization 9 Name]] Signatory Last Name]]
+Title: [[[[Organization 9 Name]] Signatory Title]]}}
+
+
+[[Organization 10 Name]]
+
+[[[[Organization 10 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] Entity => By: [[[[Organization 10 Name]] Signatory First Name]] [[[[Organization 10 Name]] Signatory Last Name]]
+Title: [[[[Organization 10 Name]] Signatory Title]]}}
+
+
+[[Organization 10 Name]]
+
+[[[[Organization 10 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] => By: [[[[Organization 10 Name]] First Name]] [[[[Organization 10 Name]] Last Name]]
+Title: [[[[Organization 10 Name]] Title]]}}
+
+
+[[Organization 11 Name]]
+
+[[[[Organization 11 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 11 Name]] Entity => By: [[[[Organization 11 Name]] First Name]] [[[[Organization 11 Name]] Last Name]]
+Title: [[[[Organization 11 Name]] Title]]}}
+
+
+[[Organization 2 Name]], AS TRUSTEE
+
+[[[[Organization 2 Name]] AS TRUSTEE Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] AS TRUSTEE Entity => By: [[[[Organization 2 Name]] AS TRUSTEE Signatory First Name]] [[[[Organization 2 Name]] AS TRUSTEE Signatory Last Name]]
+Title: [[[[Organization 2 Name]] AS TRUSTEE Signatory Title]]}}

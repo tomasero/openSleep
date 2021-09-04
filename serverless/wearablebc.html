@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="dormio">
+  <meta name="author" content="Christina Chen">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/dormio/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/dormio/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/dormiofavicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <title>dormio | wearable | bc study </title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Arimo&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+  <link rel="stylesheet" href="dist/sellect.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/style_wearable.css">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+  <script src="dist/sellect.min.js"></script>
+  <script src="js/multithread.js"></script>
+  <script src="js/d3.v4.min.js"></script>
+  <script src="js/FileSaver.min.js"></script>
+  <script src="js/jszip.min.js"></script>
+  <script src="js/hr.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/script_wearable_bc.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+  	google.charts.load('current', {packages: ['corechart']});
+  //google.charts.setOnLoadCallback(drawChart);
+  </script>
+
+</head>
+
+<body>
+
+	<div id = "container">
+    
+    	<div id = "header">
+      		<img src="img/icon.png" id="icon">
+      		<div id = "links">
+      			<a href="https://www.media.mit.edu/">
+  					<img src="img/ml_symbol.png" id="ml">
+				</a>
+				<a href="https://www.media.mit.edu/groups/fluid-interfaces/overview/">
+  					<img src="img/fluid_symbol.png" id="fluid">
+				</a>
+      		</div>
+    	</div> <!-- close header-->
+
+    	<div id = "main">
+
+			  <div id="userform" class="overlay">
+  					
+  				<div class="overlay-content">
+
+  					<h1 style = "text-align: center; font-size: 60px">welcome to dormio.</h1>
+  					<h3 style = "text-align: center; font-size: 18px;">to begin, fill out the following to customize your wearable dream incubation session.</h3>
+      
+			    	<!-- name? -->
+			    	<div id="user-name" class="user-elem">
+        				<label>subject name</label>
+        				<input type="text" name="name" id="subject-name">
+      				</div>
+
+      				<div class = "recording-container user-elem">
+      					<div class="recording-elem">
+
+        				<label for = "record-sleep">record prompt message </label>
+        				<span class="tooltip">
+                 		<img src = "img/tooltip.svg">
+                  		<span class="tooltiptext">a message to tell the subject to go to sleep. could be something like, "remember to think about the following words."</span>
+                 		</span>
+        					<div class = "recording-content" id = "record-sleep">
+          						<img src="img/microphone.svg" id="mic">
+            					<div class = "record-buttons">
+            						<input type="submit" name="record_sleep_message" id="record-sleep-message" class = "big-button" value="record">
+                					<div class = "small-record-buttons">
+                  					<input type="submit" name="listen_sleep_message" id="listen-sleep-message" class = "small-button small-left-button" value="listen">
+                  					<input type="submit" name="clear_sleep_message" id="clear-sleep-message" class = "small-button small-right-button"  value="clear">
+                					</div>
+            					</div>
+        					</div>
+      					</div>
+
+
+      					<div class="recording-elem">
+        					<label for = "record-wakeup">record wakeup message </label>
+        					<span class="tooltip">
+                 			<img src = "img/tooltip.svg">
+                  			<span class="tooltiptext">A message to wake yourself up and request a dream report. could be something like, "tell me what you're thinking about."</span>
+                 			</span>
+        					<div class = "recording-content" id = "record-wakeup">
+          						<img src="img/microphone.svg" id="mic">
+            					<div class = "record-buttons">
+          							<input type="submit" name="record_wakeup_message" class = "big-button" id="record-wakeup-message" value="record"> 
+							        <div class = "small-record-buttons">
+          								<input type="submit" name="listen_wakeup_message" class = "small-button small-left-button" id="listen-wakeup-message" value="listen">
+          								<input type="submit" name="clear_wakeup_message" class = "small-button small-right-button" id="clear-wakeup-message" value="clear">
+               						 </div>
+              				    </div>
+       						 </div>
+      					</div>
+
+      				</div> <!-- close recording container -->
+      				
+
+      				<div id = "dropdowns">
+      			
+      					<div id = "user-loops" class = "user-elem">
+              				<label for="loops">you want to perform </label>
+              				<input id = "loops" list="loops-list" name="loops">
+ 							<datalist id="loops-list">
+    							<option value="3"></option>
+    							<option value="4"></option>
+    							<option value="5"></option>
+							</datalist>
+              				<label> wakeups.</label>
+              				<span class="tooltip">
+                 				<img src = "img/tooltip.svg">
+                  				<span class="tooltiptext">This is how many times you want to wake up the subject. To be able to select which words appear upon wakeups, press the 'confirm wakeups' button below when you have confirmed the number of wakeups. To change it, retype the number of wakeups and press confirm again. The maximum number of wakeups allowed is 10.</span>
+                 			</span>
+                      <div style = "padding: 25px; text-align: center;"><input style = "width:75%;" type = "submit" id="confirm_wakeups" value = "confirm wakeups"></div>
+            			</div>
+
+                  <div id = "wakeups">
+
+
+            		<div id = "subject-wakeup-1" class = "user-elem" style="display: none;">
+              			<label for="wakeup-1">select the words to be played for wakeup 1: </label>
+              			<input type="text" id="wakeup-1">
+            		</div>
+
+                  <div id = "subject-wakeup-2" class = "user-elem" style="display: none;">
+                      <label for="wakeup-2">select the words to be played for wakeup 2: </label>
+                      <input type="text" id="wakeup-2">
+                  </div>
+
+                  <div id = "subject-wakeup-3" class = "user-elem" style="display: none;">
+                      <label for="wakeup-3">select the words to be played for wakeup 3: </label>
+                      <input type="text" id="wakeup-3">
+                  </div>
+
+                  <div id = "subject-wakeup-4" class = "user-elem" style="display: none;">
+                      <label for="wakeup-4">Select the words to be played for wakeup 4: </label>
+                      <input type="text" id="wakeup-4">
+                  </div>
+
+                  <div id = "subject-wakeup-5" class = "user-elem" style="display: none;">
+                      <label for="wakeup-5">select the words to be played for wakeup 5: </label>
+                      <input type="text" id="wakeup-5">
+                  </div>
+
+                  <div id = "subject-wakeup-6" class = "user-elem" style="display: none;">
+                      <label for="wakeup-6">select the words to be played for wakeup 6: </label>
+                      <input type="text" id="wakeup-6">
+                  </div>
+
+                  <div id = "subject-wakeup-7" class = "user-elem" style="display: none;">
+                      <label for="wakeup-7">select the words to be played for wakeup 7: </label>
+                      <input type="text" id="wakeup-7">
+                  </div>
+
+                  <div id = "subject-wakeup-8" class = "user-elem" style="display: none;">
+                      <label for="wakeup-8">select the words to be played for wakeup 8: </label>
+                      <input type="text" id="wakeup-8">
+                  </div>
+
+                  <div id = "subject-wakeup-9" class = "user-elem" style="display: none;">
+                      <label for="wakeup-9">select the words to be played for wakeup 9: </label>
+                      <input type="text" id="wakeup-9">
+                  </div>
+
+                  <div id = "subject-wakeup-10" class = "user-elem" style="display: none;">
+                      <label for="wakeup-10">select the words to be played for wakeup 10: </label>
+                      <input type="text" id="wakeup-10">
+                  </div>
+
+                </div> <!--end wakeups-->
+
+            			<div id = "user-hypna-latency" class = "user-elem">
+              				<label for="hypna-latency">you want to stay in hypnagogia for </label>
+              				<input id = "hypna-latency" list="hypna-latency-list" name="hypna_latency">
+ 							          <datalist id="hypna-latency-list">
+    						        	<option value="1"></option>
+    						        	<option value="2"></option>
+    						        	<option value="3"></option>
+						          	</datalist>
+              				<label> minutes.</label>
+              				<span class="tooltip">
+                 				<img src = "img/tooltip.svg">
+                  				<span class="tooltiptext">This is the amount of time that you'll stay in a state of light sleep (hypnagogia) before the Dormio system prompts you again to remind you what to dream about.</span>
+                 			</span>
+            			</div>
+
+            		<div id = "user-time-until-sleep" class = "user-elem">
+                      <label for="time-until-sleep-min">it will take </label>
+                      <input id = "time-until-sleep-min" list="time-until-sleep-min-list" name="time_until_sleep_min">
+              		<datalist id="time-until-sleep-list-min">
+                  		<option value="5"></option>
+                  		<option value="10"></option>
+                  		<option value="15"></option>
+              		</datalist>
+                      <label> to </label>
+                      <input id = "time-until-sleep-max" list="time-until-sleep-list-max" name="time_until_sleep_max">
+              		<datalist id="time-until-sleep-lis-maxt">
+                  		<option value="10"></option>
+                  		<option value="15"></option>
+                  		<option value="25"></option>
+              		</datalist>
+                      <label>minutes for you to fall asleep.</label>
+                      <span class="tooltip">
+                        <img src = "img/tooltip.svg">
+                          <span class="tooltiptext">This step is optional, and wards against too-early and too-late sleep detection. This is the approximate range of time in which you'll fall asleep when you lie down. Dormio will pick a time in this range to give the first prompt.</span>
+                      </span>
+                  </div>
+
+
+            			<div id = "user-time-between-sleep" class = "user-elem">
+              				<label for="time-between-sleep">afterwards, it'll take </label>
+              				<input id = "time-between-sleep" list="time-between-sleep-list" name="time_until_sleep">
+ 							<datalist id="time-between-sleep-list">
+    							<option value="3"></option>
+    							<option value="5"></option>
+    							<option value="7"></option>
+							</datalist>
+              				<label> minutes to fall asleep again.</label>
+              				<span class="tooltip">
+                 				<img src = "img/tooltip.svg">
+                  				<span class="tooltiptext">This is how long it will take for you to fall asleep again after being awoken by Dormio and reporting your dream.</span>
+                 			</span>
+            			</div>
+
+            			<div id = "user-calibration-time" class = "user-elem">
+                      <label for="calibration time">you want to calibrate dormio for </label>
+                      <input id = "calibration-time" list="calibration-time-list" name="calibration_time">
+              <datalist id="calibration-time-list">
+                  <option value="3"></option>
+                  <option value="5"></option>
+                  <option value="7"></option>
+              </datalist>
+                      <label> minutes.</label>
+                      <span class="tooltip">
+                        <img src = "img/tooltip.svg">
+                          <span class="tooltiptext">This is how long dormio will spend calibrating your biosignals.</span>
+                      </span>
+                  </div>
+
+            			<div id = "user-recording-time" class = "user-elem">
+              				<label for="recording-time">you'll record your dream report for</label>
+              				<input id = "recording-time" list="recording-time-list" name="recording_time">
+ 							<datalist id="recording-time-list">
+    							<option value="30"></option>
+    							<option value="60"></option>
+    							<option value="90"></option>
+							</datalist>
+              				<label> seconds.</label>
+              				<span class="tooltip">
+                 				<img src = "img/tooltip.svg">
+                  				<span class="tooltiptext">This is how long Dormio will record your dream report for.</span>
+                 			</span>
+            			</div>
+
+
+            		</div>  <!-- close dropdowns -->
+
+            		<div id = "start-button-container" class =  "user-elem">
+            			 <h3 style = "text-align: center; font-size: 18px;">after you press the start button, you should lay down, relax, and try to fall asleep.</h3>
+
+						<input type = "submit" id="start_button" value = "start biosignal session">
+					</div>
+
+  			</div> <!--close overlay content-->
+
+  			<div id = "closer" onclick="closeForm()"><img src="img/left-arrow.svg"></div>
+
+		</div>  <!-- close overlay-->
+
+		<div id = "opener" onclick="openForm()"><img src="img/right-arrow.svg"></div>
+
+    <div id="channels">
+
+      <div id="channel-bpm" class="channel">
+          <img id="hr-img" src="img/hr.svg">
+          <div id="bpm" class="channel-value">0</div>
+      </div>
+    
+      <div id="channel-flex" class="channel">
+          <img src="img/flex.svg" id="flex-img">
+          <div id="flex" class="channel-value">0</div>
+      </div>
+    
+      <div id="channel-eda" class="channel">
+          <img src="img/eda.svg" id="eda-img">
+          <div id="eda" class="channel-value">0</div>
+      </div>
+
+    </div> <!-- close channels -->
+
+    <svg width="1200" height="500" id="plot"></svg>
+
+    <div id = "right">
+
+      <div class = deltas>
+
+            <div id = "delta_input_hr" class = "delta">
+                 <input type="text" name="delta_hr" id="delta-hr">
+                <span class = "delta-label">hr</span>
+            </div>
+
+            <div id = "delta_input_flex" class = "delta">
+              <input type="text" name="delta_flex" id="delta-flex">
+              <span class = "delta-label">flex</span>
+            </div>
+
+            <div id = "delta_input_eda" class = "delta">
+            <input type="text" name="delta_eda" id="delta-eda">
+              <span class = "delta-label">eda</span>
+            </div>
+
+          </div> <!--close deltas-->
+
+       <div class="buttons-right">
+       	  <div id = "play-buttons">
+       	  	<button id = "play-sleep"><img src = "img/sleep_button.svg"></button>
+       	  	<button id = "play-wakeup"><img src = "img/wakeup_button.svg"></button>
+       	  </div>
+          <button id="connect">Connect</button>
+          <button id="stop_session" style="background:rgba(255, 0, 0, .4);">Stop Session</button>
+       	  <button id="calibrate">Calibrating...</button>
+        </div>
+
+      </div>
+        	
+	</div> <!-- end main -->
+</div><!-- end big container -->
+
+</body>
+
+<script src="js/WebAudioRecorder.min.js"></script>
+
+<!-- <script>
+    var mySellect = sellect("#wakeup-1", {
+            originList: ['banana', 'apple', 'pineapple', 'papaya', 'grape', 'orange', 'grapefruit', 'guava', 'watermelon', 'melon'],
+            destinationList: ['banana', 'papaya', 'grape']
+        });  
+        
+        mySellect.init();
+        console.log("selectBoxloaded");
+ </script> -->
+
+<script>
+function openForm() {
+  document.getElementById("userform").style.width = "100%";
+  setTimeout(showCloser, 500);
+}
+
+function showCloser(){
+  document.getElementById("closer").style.display = "flex";
+  document.getElementById("closer").style.position = "fixed";
+  document.getElementById("closer").style.property = "justify-content: center";
+}
+
+function closeForm() {
+  document.getElementById("userform").style.width = "0%";
+  document.getElementById("closer").style.display = "none";
+
+}
+</script>
+
+</html>

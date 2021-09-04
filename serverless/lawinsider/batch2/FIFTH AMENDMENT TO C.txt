@@ -1,0 +1,265 @@
+\centered **FIFTH AMENDMENT TO CREDIT AGREEMENT**
+
+THIS FIFTH AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), dated as of [[Date 1: Date]], is made by and among **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] formerly known as [[Organization 1 Name]] (the “Borrower”), **EACH OF THE GUARANTORS** (as hereinafter defined), the **LENDERS** **PARTY HERETO**, and **[[Organization 2 Name]], NATIONAL ASSOCIATION**, in its capacity as administrative agent for the Lenders under this Agreement (hereinafter referred to in such capacity as the “Agent”).
+
+\centered WITNESSETH:
+
+WHEREAS, the Borrower, the Guarantors (as defined therein), the Lenders (as defined therein), and the Agent are parties to that certain Credit Agreement, dated as of [[Date 2: Date]], as amended by that certain First Amendment to Credit Agreement, dated as of [[Date 3: Date]], as amended by that certain Second Amendment to Credit Agreement and Consent, dated as of [[Date 4: Date]], as amended by that certain Third Amendment to Credit Agreement, dated as of [[Date 5: Date]], as amended by that certain Fourth Amendment to Credit Agreement, dated as of [[Date 6: Date]] (as so amended and as the same may be further amended, modified or supplemented from time to time, the “Credit Agreement”);
+
+WHEREAS, capitalized terms used herein and not otherwise defined herein and defined in the Credit Agreement shall have the meanings assigned to them in the Credit Agreement;
+
+WHEREAS, [[Organization 4 Name]] and various affiliates thereof (the “Wexford Investors”) hold [[Percentage 1: Number]]% of the member interests of the Borrower, and the Wexford Investors pledged such member interests to the Agent, on behalf of the Lenders, pursuant to that certain Pledge Agreement dated [[Date 2]] (the “Pledge Agreement”);
+
+WHEREAS, the Wexford Investors propose to transfer, pursuant to a series of transfers (collectively, the “Borrower Equity Transfer”), all of the member interests in the Borrower (which transfers shall be made subject to the lien created by the existing Pledge Agreement) such that after giving effect to the Borrower Equity Transfer all of the member interests in the Borrower shall be owned by the following Persons (collectively, the “Restated Pledgors”): (i) [[Organization 5 Name]] (“Resources”), an entity indirectly owned by the Wexford Investors, (ii) [[Organization 6 Name]] [[Organization 7 Name]], an entity indirectly owned by certain Wexford Investors, and (iii) [[Organization 6 Name]] [[Organization 8 Name]], an entity indirectly owned by certain Wexford Investors;
+
+WHEREAS, the above restructuring is done in contemplation of the initial public offering by Resources of up to [[Percentage 2: Number]]% of its equity interest (the “IPO”); and
+
+WHEREAS, the Loan Parties now request that the Required Lenders agree to the amendments to the Credit Agreement, consents and approvals set forth herein, and the Required Lenders are willing to accommodate the request of the Loan Parties, subject to and on the terms and conditions set forth herein.
+
+NOW, THEREFORE, the parties hereto, in consideration of their mutual covenants and agreements hereinafter set forth and intending to be legally bound hereby, covenant and agree as follows:
+
+^New Definitions. Section 1.1 [Certain Definitions] of the Credit Agreement is hereby amended to insert the following new definitions in the appropriate alphabetical order therein:
+
+“Fifth Amendment shall mean that certain Fifth Amendment to Credit Agreement, dated as of [[Date 1]], among the Borrower, the Guarantors, the Lenders party thereto and the Agent.”
+
+“Holdings shall mean [[Organization 9 Name]] LLC, a Delaware limited liability company.”
+
+“Resources shall mean [[Organization 5 Name]], a Delaware corporation.”
+
+^Amendment of Section 1.1 [Certain Definitions]. The definition of the term “Change of Control” contained in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirely to read as follows:
+
+“Change of Control shall mean that [[Organization 4 Name]] or any fund owned, managed or otherwise controlled by [[Organization 4 Name]] (collectively, “Wexford”): (i) directly or indirectly fail to control the Borrower, (ii) shall fail to own directly or indirectly, [[Percentage 3: Number]]% of any class of the voting member interests of the Borrower and [[Percentage 3]]% of the economic ownership of the Borrower or (iii) shall make any public sale of the direct member interests of the Borrower. Control, as used in this definition, shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person, whether through the ownership of voting securities, by contract or otherwise.”
+
+^Amendment of Section 8.1.14 [Collateral and Additional Collateral, Etc.]. Section 8.1.14 of the Credit Agreement is hereby amended as follows:
+
+^^Clause (i) of Section 8.1.14 of the Credit Agreement is amended by adding the following sentence to the end thereof:
+
+“Notwithstanding the foregoing, to the extent a Lien is not granted on after-acquired Property by virtue of the Loan Documents, the Loan Parties shall have thirty (30) calendar days from the date of such acquisition to grant to the Agent, on behalf of the Lenders, a Lien, as more fully described in subsections (i) and (ii), below.”
+
+^^Clause (ii) of Section 8.1.14 of the Credit Agreement is amended by replacing the phrase “within five (5) Business Days” with the phrase “within thirty (30) calendar days”. The remaining portions of Clause (ii) shall remain unchanged.
+
+^^Clause (iii) of Section 8.1.14 of the Credit Agreement is amended by replacing the phrase “concurrently with such creation or acquisition” with the phrase “within thirty (30) calendar days of such creation or acquisition”. The remaining portions of Clause (iii) shall remain unchanged.
+
+^Amendment of Section 8.2.5 [Dividends and Related Distributions]. Section 8.2.5(iii) of the Credit Agreement is hereby amended and restated in its entirely to read as follows:
+
+“(iii) other dividends and distributions payable by the Borrower to its members in excess of the Tax Distributions in the aggregate amount of up to $[[USD Value 1: Number]] per fiscal year, provided, however, that: (A) the Borrower shall deliver to the Agent at least five (5) Business Days before such proposed dividend or distribution a certificate of the Borrower in substantially the form of Exhibit 8.3.4 demonstrating that the Borrower shall have, after giving effect to any such proposed dividend or distribution, at least $[[USD Value 2: Number]] of Availability, and (B) at the time of any such dividend or distribution, no Event of Default or Potential Default shall exist or shall result after giving effect thereto.”
+
+8.2.5 of the Credit Agreement is hereby further amended by adding after clause (iii) thereof the following new clause (iv):
+
+“(iv) other distributions sufficient to enable Resources to pay the costs of salaries, benefits and related expenditures for the employment of its senior management personnel.”
+
+^Amendment of Section 8.2.6 [Liquidations, Mergers, Consolidations, Acquisitions]. Section 8.2.6 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“Each of the Loan Parties shall not, and shall not permit any of its Subsidiaries to, dissolve, liquidate or wind-up its affairs, or become a party to any merger or consolidation, or acquire by purchase, lease or otherwise all or substantially all of the assets or capital stock of any other Person, provided that
+
+^any Loan Party other than the Borrower may consolidate or merge into another Loan Party (not including the Excluded Subsidiaries) which is wholly-owned by one or more of the other Loan Parties,
+
+^with the Agent’s written consent, any Subsidiary which is not a Material Subsidiary may dissolve, liquidate or wind-up its affairs pursuant to Section 8.1.1 [Preservation of Existence, Etc.], and
+
+^any Loan Party may acquire, whether by purchase or by merger, (A) all of the ownership interests of another Person or (B) substantially all of the assets of another Person or of a business or division of another Person (each an “Permitted Acquisition”), provided that each of the following requirements is met:
+
+^^^Reserved;
+
+^^^Reserved**;**
+
+(iii)the board of directors or other equivalent governing body of such Person shall have approved such Permitted Acquisition and, if the Loan Parties shall use any portion of the Loans to fund such Permitted Acquisition, the Loan Parties also shall have delivered to the Agent written evidence of the approval of the board of directors (or equivalent body) of such Person for such Permitted Acquisition;
+
+^^^if the Loan Parties are acquiring substantially all of the assets of another Person or of a business or division of another Person, then the assets of such Person or the assets of such division shall be substantially the same as, or shall support or be complementary to, the lines of business conducted by the Loan Parties and shall comply with Section 8.2.10 [Continuation of or Change in Business];
+
+^^^if the Loan Parties are acquiring all of the ownership interests of another Person, then the assets of such Person shall be substantially the same as, or shall support or be complementary to, the lines of business conducted by the Loan Parties and shall comply with Section 8.2.10 [Continuation of or Change in Business];
+
+^^^no Potential Default or Event of Default shall exist immediately prior to and after giving effect to such Permitted Acquisition;
+
+^^^that the Borrower shall have, after giving effect to such Permitted Acquisition and any Loan associated therewith, at least $[[USD Value 1]] of Availability;
+
+^^^the Borrower shall demonstrate that it shall be in compliance with the covenants contained in Sections 8.2.17 and 8.2.18 after giving effect to such Permitted Acquisition (including in such computation Indebtedness or other liabilities assumed or incurred in connection with such Permitted Acquisition but excluding income earned or expenses incurred by the Person, business or assets to be acquired prior to the date of such Permitted Acquisition) by delivering at least five (5) Business Days prior to such Permitted Acquisition a certificate in the form of Exhibit 8.2.6 evidencing such compliance; and
+
+^^^the Loan Parties shall deliver to the Agent at least five (5) Business Days before such Permitted Acquisition copies of any agreements entered into or proposed to be entered into by such Loan Parties in connection with such Permitted Acquisition and shall deliver to the Agent such other information about such Person or its assets as any Loan Party may reasonably require.”
+
+^Amendment of Section 11.18 [Joinder of Guarantors]. Section 11.18 of the Credit Agreement is hereby amended by replacing the phrase “within five (5) Business Days” with the phrase “within thirty (30) calendar days”.
+
+^is also amended by adding the following sentence at the end of such Section 11.18:
+
+“Notwithstanding anything contained in this Section 11.18 or Section 8.2.9 of this Agreement, with respect to any Subsidiary created or acquired by the Borrower subsequent to the Closing Date, the Loan Parties shall deliver such Guarantor Joinder and related documents to the Agent within thirty (30) calendar days after the date of such acquisition or creation; provided that [[Organization 10 Name]] and [[Organization 11 Name]] shall be required to deliver such Guarantor Joinder and related documents to the Agent within sixty (60) calendar days after the date of such creation.”
+
+^Conditions to Effectiveness. The amendments set forth herein shall become effective as set forth below:
+
+^^Effectiveness of Amendment to Section 11.18 [Joinder of Guarantors]. The amendment of Section 11.18 [Joinder of Guarantors] set forth in paragraph 6 hereof shall become effective upon the date that each of the following conditions has been satisfied to the satisfaction of the Agent (the “Joinder Amendment Effective Date”):
+
+^^^Execution and Delivery of Fifth Amendment. The Borrower, the other Loan Parties, the Required Lenders, and the Agent shall have executed this Amendment, and all other documentation necessary for effectiveness of this Amendment shall have been executed and delivered all to the satisfaction of the Agent.
+
+^^^Representations and Warranties; No Event of Default. The representations and warranties contained in Section 6 of the Credit Agreement and in Section 11 of this Amendment, and of each Loan Party in each of the other Loan Documents, are true and correct on and as of the Joinder Amendment Effective Date with the same effect as though such representations and warranties had been made on and as of such date (except representations and warranties which relate solely to an earlier date or time, which representations and warranties were true and correct on and as of the specific dates or times referred to therein), each of the Loan Parties has performed and complied with all covenants and conditions hereof and thereof, and no Event of Default or Potential Default has occurred and is continuing or exists as of the Joinder Amendment Effective Date; and by its execution and delivery of this Amendment, the Borrower and each other Loan Party certifies to each such effect.
+
+^^^Legal Details. All legal details and proceedings in connection with the transactions contemplated by this Amendment and the other Loan Documents are in form and substance satisfactory to the Agent and counsel for the Agent, and the Agent has received all such other counterpart originals or certified or other copies of such documents and proceedings in connection with such transactions, in form and substance satisfactory to the Agent and its counsel, as the Agent or its counsel may reasonably request.
+
+^^Effectiveness of Remaining Amendments. All other amendments contained in this Amendment shall become effective upon the date that each of the following conditions has been satisfied to the satisfaction of the Agent, which date shall be on or before [[Date 7: Date]] (the “Equity Transfer Effective Date”), provided that on [[Date 8: Date]] the amendments to Section 8.2.5(iii) set forth in Section 4 above shall be revoked and Section 8.2.5(iii) shall revert to its prior form if the IPO has not been consummated on or prior to [[Date 7]]:
+
+^^^Satisfaction of Conditions in Paragraph 7(a). All of the conditions set forth in Paragraph 7(a) of this Amendment shall have been satisfied.
+
+^^^Consummation of the Borrower Equity Transfer. Resources shall have consummated the Borrower Equity Transfer.
+
+^^^Execution and Delivery of an Amended and Restated Pledge Agreement. The Restated Pledgors shall have executed and delivered to the Agent for the benefit of the Lenders an amended and restated Pledge Agreement (the “Amended and Restated Pledge Agreement”), in the form of Exhibit A attached hereto, and such Amended and Restated Pledge Agreement shall be ratified by the Borrower.
+
+^^^Delivery of Secretary’s Certificate. The Secretary or Assistant Secretary of each Restated Pledgor shall have delivered to the Agent for the benefit of the Lenders a certificate, dated as of the date hereof and signed by such Secretary or Assistant Secretary, certifying as to:
+
+^all authorizing action taken by such Restated Pledgor in connection with the Amended and Restated Pledge Agreement, any other Loan Document and this Amendment;
+
+^the names of the officer or officers of such Restated Pledgor authorized to sign the Amended and Restated Pledge Agreement, other documents executed in connection therewith and any other Loan Documents, and the true signatures of such officer or officers and specifying the officer authorized to act on behalf of such Restated Pledgor for purposes of the Amended and Restated Pledge Agreement and any other Loan Documents and the true signatures of such officers, on which the Agent and each Lender may conclusively rely; and
+
+^copies of the organizational documents of such Restated Pledgor, including its certificate of incorporation and bylaws as in effect on the date hereof, certified by the appropriate state official where such documents are filed in a state office together with certificates from the appropriate state officials as to the continued existence and good standing of such Restated Pledgor in each state where organized, all of which shall be reasonably satisfactory to the Agent.
+
+^^^Representations and Warranties; No Event of Default. The representations and warranties contained in Section 6 of the Credit Agreement and in Section 11 of this Amendment, and of each Loan Party in each of the other Loan Documents, are true and correct on and as of the Equity Transfer Effective Date with the same effect as though such representations and warranties had been made on and as of such date (except representations and warranties which relate solely to an earlier date or time, which representations and warranties were true and correct on and as of the specific dates or times referred to therein), each of the Loan Parties has performed and complied with all covenants and conditions hereof and thereof, and no Event of Default or Potential Default has occurred and is continuing or exists as of the Equity Transfer Effective Date; and by its execution and delivery of this Amendment, the Borrower and each other Loan Party certifies to each such effect.
+
+^Consent to Borrower Equity Transfer. Effective as of the Equity Transfer Effective Date, the Agent and the Required Lenders consent to the Borrower Equity Transfer.
+
+^Consent to Updates to Schedule 6.1.2 [Capitalization]. The Required Lenders consent to the updated Schedule 6.1.2 to the Credit Agreement in the form set forth on Schedule 6.1.2 hereof.
+
+^Lien Termination Statements. Effective as of the Equity Transfer Effective Date, the Agent and the Required Lenders hereby agree that (i) the UCC-1 financing statements filed against each member of the Borrower that was a signatory to the Pledge Agreement shall be deemed terminated and (ii) each such member, the Borrower and the Borrower’s counsel are authorized to file UCC-3 financing statements terminating such UCC-1 financing statements.
+
+^Representations and Warranties. By its execution and delivery of this Amendment to the Agent, the Borrower and each of the other Loan Parties represents and warrants to the Agent and the Lenders as follows:
+
+^^Authorization, Etc. Each Loan Party has duly authorized, executed and delivered this Amendment.
+
+^^Material Adverse Change. After giving effect to this Amendment, no Material Adverse Change shall have occurred with respect to the Borrower or any of the other Loan Parties since the Closing Date of the Credit Agreement.
+
+^^Litigation. After giving effect to this Amendment, there are no actions, suits, investigations, litigation or governmental proceedings pending or, to the Borrower’s or any other Loan Party’s knowledge, threatened against any of the Loan Parties that could reasonably be expected to result in a Material Adverse Change.
+
+^^Organizational Documents Not Amended. The organizational documents of such Loan Party have not been amended or modified since copies thereof were previously delivered to the Agent
+
+^Miscellaneous.
+
+^^Full Force and Effect. All provisions of the Credit Agreement remain in full force and effect on and after the Joinder Amendment Effective Date and the Equity Transfer Effective Date and the date hereof except as expressly amended hereby. The parties do not amend any provisions of the Credit Agreement except as expressly amended hereby.
+
+^^Counterparts. This Amendment may be signed in counterparts (by facsimile transmission or otherwise) but all of which together shall constitute one and the same instrument.
+
+^^Incorporation into Credit Agreement. This Amendment shall be incorporated into the Credit Agreement by this reference. All representations, warranties, Events of Default and covenants set forth herein shall be a part of the Credit Agreement as if originally contained therein.
+
+^^Governing Law. This Amendment shall be deemed to be a contract under the Laws of the Commonwealth of Pennsylvania and for all purposes shall be governed by and construed and enforced in accordance with the internal laws of the Commonwealth of Pennsylvania without regard to its conflict of laws principles.
+
+^^No Novation. Except as amended hereby, all of the terms and conditions of the Credit Agreement and the other Loan Documents shall remain in full force and effect. The Borrower, the other Loan Parties, each Lender, and the Agent acknowledge and agree that this Amendment is not intended to constitute, nor does it constitute, a novation, interruption, suspension of continuity, satisfaction, discharge or termination of the obligations, loans, liabilities, or indebtedness under the Credit Agreement or the other Loan Documents.
+
+\centered [SIGNATURE PAGES FOLLOW]
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+IN WITNESS WHEREOF, the parties hereto, by their officers thereunto duly authorized, have executed this Fifth Amendment as of the day and year first above written.
+
+ATTEST:
+
+[[ATTEST Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST Entity => By: [[ATTEST Signatory First Name]] [[ATTEST Signatory Last Name]]
+Title: [[ATTEST Signatory Title]]}}
+
+
+**[[Borrower]]**
+**[[Organization 12 Name]]**
+**[[Organization 13 Name]]**
+**[[Organization 14 Name]]**
+**[[Organization 15 Name]] LLC**
+**[[Organization 16 Name]]**
+**LEESVILLE LAND**
+**[[Organization 17 Name]]**
+**[[Organization 18 Name]]**
+**[[Organization 19 Name]]**
+**SPRINGDALE LAND**
+**[[Organization 20 Name]]**
+**[[Organization 21 Name]]**
+**[[Organization 22 Name]]**
+**[[Organization 23 Name]]**
+**[[Organization 24 Name]]**
+**[[Organization 25 Name]]**
+**[[Organization 26 Name]]**
+**[[Organization 27 Name]]**
+**[[Organization 28 Name]]**
+**[[Organization 29 Name]]**
+
+ATTEST:
+
+[[ATTEST Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST Entity => By: [[ATTEST Signatory First Name]] [[ATTEST Signatory Last Name]]
+Title: [[ATTEST Signatory Title]]}}
+
+
+**[[Organization 10 Name]]**
+**[[Organization 11 Name]]**
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**[[Organization 2 Name]], NATIONAL ASSOCIATION**, individually and as Agent
+
+[[[[Organization 2 Name]] individually and as Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] individually and as Agent Entity => By: [[[[Organization 2 Name]] individually and as Agent Signatory First Name]] [[[[Organization 2 Name]] individually and as Agent Signatory Last Name]]
+Title: [[[[Organization 2 Name]] individually and as Agent Signatory Title]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**[[Organization 30 Name]], N.A.**
+
+[[[[Organization 30 Name]] N.A. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 30 Name]] N.A. Entity => By: [[[[Organization 30 Name]] N.A. Signatory First Name]] [[[[Organization 30 Name]] N.A. Signatory Last Name]]
+Title: [[[[Organization 30 Name]] N.A. Signatory Title]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**[[Organization 31 Name]]**
+
+[[[[Organization 31 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 31 Name]] Entity => By: [[[[Organization 31 Name]] Name]] [[[[Organization 31 Name]] Last Name]]
+Title: [[[[Organization 31 Name]]]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**[[Organization 32 Name]]**
+
+[[[[Organization 32 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 32 Name]] Entity => By: [[[[Organization 32 Name]] First Name]] [[[[Organization 32 Name]] Last Name]]
+Title: [[[[Organization 32 Name]] Title]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**[[Organization 33 Name]], FSB,** individually and as Co-Documentation Agent
+
+[[[[Organization 33 Name]] FSB individually and as Co-Documentation Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 33 Name]] FSB individually and as Co-Documentation Agent Entity => By: [[[[Organization 33 Name]] FSB individually and as Co-Documentation Agent Signatory First Name]] [[[[Organization 33 Name]] FSB individually and as Co-Documentation Agent Signatory Last Name]]
+Title: [[[[Organization 33 Name]] FSB individually and as Co-Documentation Agent Signatory Title]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**ROYAL** **BANK OF CANADA**
+
+[[[[Organization 34 Name]] OF CANADA Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 34 Name]] OF CANADA Entity => By: [[[[Organization 34 Name]] OF CANADA Signatory First Name]] [[[[Organization 34 Name]] OF CANADA Signatory Last Name]]
+Title: [[[[Organization 34 Name]] OF CANADA Signatory Title]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**[[Organization 35 Name]]**, individually and as Co-Documentation Agent
+
+[[[[Organization 36 Name]] individually and as Co-Documentation Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 36 Name]] individually and as Co-Documentation Agent Entity => By: [[[[Organization 36 Name]] individually and as Co-Documentation Agent Signatory First Name]] [[[[Organization 36 Name]] individually and as Co-Documentation Agent Signatory Last Name]]
+Title: [[[[Organization 36 Name]] individually and as Co-Documentation Agent Signatory Title]]}}
+
+
+\centered **[SIGNATURE PAGE - FIFTH AMENDMENT TO CREDIT AGREEMENT]**
+
+**WACHOVIA** **[[Organization 3 Name]]**, individually and as Co-Documentation Agent
+
+[[[[Organization 37 Name]] individually and as Co-Documentation Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 37 Name]] individually and as Co-Documentation Agent Entity => By: [[[[Organization 37 Name]] individually and as Co-Documentation Agent Signatory First Name]] [[[[Organization 37 Name]] individually and as Co-Documentation Agent Signatory Last Name]]
+Title: [[[[Organization 37 Name]] individually and as Co-Documentation Agent Signatory Title]]}}

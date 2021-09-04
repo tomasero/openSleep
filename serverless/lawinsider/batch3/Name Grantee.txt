@@ -1,0 +1,59 @@
+
+Performance Shares and Target Cash Opportunity   [[Address 1: Address]]
+
+«Name» (“Grantee”)  
+[[Organization 1 Name]] (the “Company”) has granted to you a performance award (the “Award”), denominated one-half in performance shares (the “Performance Shares”) and one-half in cash (the “Target Cash Opportunity”). The Award is granted under the [[Organization 1 Name]] 2004 Omnibus Incentive Plan (the “Plan”) and pursuant to the 2010 Long-Term Performance Incentive Program (the “Program Description”). The Performance Shares entitle you to earn shares of the Company’s $[[USD Value 2: Number]] par value common stock (“Shares”), on a one-for-one basis, and the Target Cash Opportunity entitles you to earn a cash payment, as set forth below. By accepting the Award, Grantee shall be deemed to have agreed to the terms and conditions set for th in this Award Certificate, the Program Description and the Plan.
+
+**Grant Date of Award: [[Date 1: Date]]**  
+**Number of Performance Shares: «Perf_Shares»**
+
+**Target Cash Opportunity: «Target_Cash»**  
+The Award is granted as a Qualified Performance-Based Award under the Section 14.11 of the Plan. If the Company achieves at least $[[USD Value 1: Number]] in Adjusted EBITDA for the fiscal year ending [[Date 2: Date]] (the “Threshold Performance Goal”), then the Award shall be considered earned in an amount equal to [[Percentage 1: Number]]% of the Performance Shares and Target Cash Opportunity; provided, however, that the number of Performance Shares and the amount of the Target Cash Opportunity actually paid under the Award will be subject to reduction based on the TSR Comparison described below, or otherwise in the discretion of the Committee, and is also subject to your continuous employment during the vesting period described below. Prior to any conversion or payout of the Award, the Compensation and Incentives Committee of the Company’s Board of Directors shall certify in writing that the Threshold Performance Goal has been satisfied.
+
+If the Threshold Performance Goal is satisfied, then the Award will vest (become non-forfeitable) on [[Date 3: Date]], subject to your continued employment with the Company through such date, unless vesting is accelerated under Section 2 of the Terms and Conditions on the following page.
+
+If the Threshold Performance Goal is satisfied and the vesting condition is satisfied, the actual number of Performance Shares and the amount of the Target Cash Opportunity to be paid to the Grantee will be adjusted to an amount between [[Percentage 2: Number]]% and [[Percentage 1]]% of the number and amount originally granted, based on the Company’s Total Shareholder Return (“TSR,” as defined below) ranking relative to the Company’s Peer Group (as defined in the Program Description) over a three-year fiscal period ending on [[Date 3]] (the “Performance Period”), as further described in the Program Description (the “TSR Comparison”), or based on any other criteria determined by the Committee in its discretion.
+
+For purposes of this Award Certificate, TSR will be calculated as follows: TSR = (ending stock price – beginning stock price + reinvested dividends) / beginning stock price This Award is governed by the terms of the Plan and the Program Description, and subject to the Terms and Conditions on the following page. Capitalized terms used herein and not otherwise defined shall have the meanings assigned to such terms in the Plan.
+
+[[Date 4: Date]]
+[[Person 1 First Name]] [[Person 1 Last Name]] - Vice President, Human Resources For [[Organization 1 Name]]      Date
+
+TERMS AND CONDITIONS  
+^**Vesting and Forfeiture of Award**. If the Threshold Performance Goal is satisfied, the Award will vest and become non-forfeitable on [[Date 3]], subject to accelerated vesting under certain circumstances as provided in Section 2 below (the “Vesting Date”). If Grantee’s employment with the Company terminates for any reason other than as set forth in paragraph (a) of Section 2 below, Grantee shall forfeit all of Grantee’s right, title and interest in and to any unvested Performance Shares and unvested Target Cash Opportunity under the Award as of the date of termination of employment. In addition, if Grantee’s employment is terminated by the Company for Cause, Grantee shall also forfeit any vested Performance Shares and Target Cash Opportunity that has not yet been paid.
+
+^**Acceleration of Vesting**. The Award shall be subject to accelerated vesting as set forth below, in each case subject to the TSR Comparison adjustment as described.
+
+^^Upon Grantee’s termination of employment with the Company due to death or Disability, a pro rata portion of the Performance Shares and the Target Cash Opportunity will vest and become non-forfeitable (the pro rata portion shall be determined by multiplying each of the number of Performance Shares and the amount of the Target Cash Opportunity by a fraction, the numerator of which is the number of days elapsed from [[Date 5: Date]] to the termination date, and the denominator of which is 1,092). The TSR Comparison shall then be applied, and the pro rata number of Performance Shares and the pro rata amount of Target Cash Opportunity shall be adjusted, based on the Company’s TSR ranking relative to the Peer Group as of the end of the Company’s fiscal quarter immediately following the termination of employment due to death or Disability (as if the Performance Period had ended on such fiscal quarter ending date).
+
+^^Upon a Change in Control of the Company, the Performance Shares and the Target Cash Opportunity will vest and become non-forfeitable. The TSR Comparison shall then be applied, and the number of Performance Shares and the Target Cash Opportunity amount shall be adjusted, based on the Company’s TSR ranking relative to the Peer Group as of the date of the Change in Control (as if the Performance Period had ended on the date of the Change in Control).
+
+^**TSR Comparison and Award Adjustment**. The number of Performance Shares and the amount of the Target Cash Opportunity shall be adjusted following the end of the Performance Period (or the pro rata portion shall be adjusted following the end of the Company’s fiscal quarter following a termination of employment due to death or Disability, or following a Change in Control, if applicable) based on the TSR Comparison, as follows:
+
+\centered Company’s TSR Percentile Ranking Relative to Peer Group   \centered Adjustment   
+
+\centered Factor *
+Below Threshold   \centered Less than [[Percentage 3: Number]]%   \centered [[Percentage 2]]%
+Threshold   \centered [[Percentage 3]]%   \centered [[Percentage 4: Number]]%
+Target   \centered [[Percentage 4]]%   \centered [[Percentage 5: Number]]%
+Maximum   \centered [[Percentage 6: Number]]%   \centered [[Percentage 1]]%
+
+* TSR Comparison is interpolated on a straight-line basis for performance between points.
+
+In addition, the Committee retains the discretion to increase (but not above [[Percentage 1]]% of the original award amounts) or decrease the number of Performance Shares and the amount of the Target Cash Opportunity to be paid based on such other factors as the Committee deems appropriate.
+
+^**Conversion to Shares and Cash Payment**. The Performance Shares (as adjusted based on the TSR Comparison) will be converted to actual Shares, and the Target Cash Opportunity (as adjusted based on the TSR Comparison) will be paid in cash, as soon as practicable following the end of the Performance Period, and no later than [[Date 6: Date]]. Stock certificates evidencing Shares paid upon conversion of the Performance Shares will be registered on the books of the Company in Grantee’s name as of the date of payment and delivered to Grantee as soon as practical thereafter.
+
+^**Limitation of Rights**. The Award does not confer to Grantee or Grantee’s beneficiary any rights of a stockholder of the Company unless and until Shares are in fact issued to such person in connection with the Award. Nothing in this Award Certificate shall interfere with or limit in any way the right of the Company or any Affiliate to terminate Grantee’s employment at any time, nor confer upon Grantee any right to continue in employment of the Company or any Affiliate.
+
+^**Payment of Taxes**. The Company or any Affiliate employing Grantee has the authority and the right to deduct or withhold, or require Grantee to remit to the employer, an amount sufficient to satisfy federal, state, and local taxes (including Grantee’s FICA obligation) required by law to be withheld with respect to any taxable event arising as a result of the vesting or settlement of the Award. The withholding requirement with respect to the Performance Shares only may be satisfied, in whole or in part, by withholding from the settlement of the Performance Shares a number of Shares having a fair market value equal to the minimum amount (and not any greater amount) required to be withheld for tax purposes, all in accordance with such proc edures as the Company establishes. The obligations of the Company under this Award Certificate will be conditional on such payment or arrangements, and the Company, and, where applicable, its Affiliates will, to the extent permitted by law, have the right to deduct any such taxes from any payment of any kind otherwise.
+
+^**Restrictions on Issuance of Shares**. If at any time the Committee shall determine in its discretion, that registration, listing or qualification of the Shares underlying the Performance Shares upon any securities exchange or similar self-regulatory organization or under any foreign, federal, or local law or practice, or the consent or approval of any governmental regulatory body, is necessary or desirable as a condition to the settlement of the Performance Shares, the Shares will not be paid unless and until such registration, listing, qualification, consent or approval shall have been effected or obtained free of any conditions not acceptable to the Committee.
+
+^**Plan Controls**. The terms contained in the Plan are incorporated into and made a part of this Award Certificate and this Award Certificate shall be governed by and construed in accordance with the Plan. In the event of any actual or alleged conflict between the provisions of the Plan and the provisions of this Award Certificate, the provisions of the Plan shall be controlling and determinative.
+
+^**Successors**. This Award Certificate shall be binding upon any successor of the Company, in accordance with the terms of this Award Certificate and the Plan.
+
+^**Severability**. If any one or more of the provisions contained in this Award Certificate is deemed to be invalid, illegal or unenforceable, the other provisions of this Award Certificate will be construed and enforced as if the invalid, illegal or unenforceable provision had never been included.
+
+^**Notice**. Notices and communications under this Award Certificate must be in writing and either personally delivered or sent by registered or certified United States mail, return receipt requested, postage prepaid. Notices to the Company must be addressed to [[Organization 1 Name]], [[Address 2: Address]]-0001, Attn: Secretary, or any other address designated by the Company in a written notice to Grantee. Notices to Grantee will be directed to the address of Grantee then currently on file with the Company, or at any other address given by Grantee in a written notice to the Company.

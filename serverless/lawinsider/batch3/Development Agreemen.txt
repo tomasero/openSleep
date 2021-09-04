@@ -1,0 +1,347 @@
+\centered    **[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**  
+
+\centered **Development Agreement**
+
+\centered **(hereinafter referred to as "Agreement")**
+
+between  
+
+\centered **[[Organization 1 Name]],** a corporation duly organized and existing under the
+
+\centered laws of Austria and having offices at Siemensstrasse 2, 9500 [[Address 1: Address]]
+
+\centered (hereinafter referred to as "Infineon")
+
+and  
+
+\centered NEXX **[[Organization 2 Name]],** a corporation duly organized and existing under the laws of the United
+
+\centered States, and having offices at [[Address 2: Address]]-3929,
+
+\centered USA
+
+\centered (hereinafter referred to as "NEXX")
+
+\centered **Preamble**
+
+**WHEREAS,** NEXX possesses know-how and expertise with regard to an ECD tool for electroplating deposition processes for applications such as gold and solder wafer bumping, redistribution layers, integrated passives and various MEMS layers;
+
+**WHEREAS,** Infineon is, inter alia, in the business of semiconductor manufacturing technologies, especially [*]
+
+**WHEREAS,** Infineon wishes NEXX to and NEXX is ready to develop [*]
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+**Now therefore,** the Parties agree to enter into the following Agreement:
+
+^Definitions  
+^^"Results of Development" shall mean any and all results of development, whichNEXX shall provide according to Section 2, including the [*], as defined under Section 2 herein below.
+
+^^"DIN" refers to the German Institute for Standardization ("[[Organization 3 Name]] fairNormung e. V.") and shall mean the standards developed by it.
+
+^^"Acceptance" shall mean the explicit written acknowledgement of Infineon statingthat the delivered items comply with the terms and conditions agreed upon between the Parties.
+
+^^"Demand for Changes" shall mean a demand of Infineon for changes to requirementsof **Annex 1,** prior to the Acceptance of the Results of Development.
+
+^^"Affiliated Companies" shall mean any and all legally separate enterprises which, inrelation to each other, are majority owned and majority owning enterprises, dependent and controlling enterprises, members of a group of enterprises, enterprises with cross-shareholdings, or parties to an enterprise agreement. On the part of [[Organization 1 Name]], Affiliate shall additionally include [[Organization 4 Name]], Mtinchen, Germany and Affiliates of the later.
+
+^^"Intellectual Property Rights" shall mean any and all trademarks, patents, utilitypatents, designs, layout-designs (topographies) of integrated circuits, copyrights and any and all other intellectual property rights. "IPR" shall mean "Intellectual Property Rights".
+
+^^"Background IPR" shall mean all Intellectual Property Rights with respect to thesubject matter of this Agreement pursuant to Section 2 hereafter, which are owned by one Party or any of its Affiliated Companies on the Effective Date.
+
+^^"Development Work" means any and all development work to be performed by theparties for the "Subject Matter of Agreement" in accordance with Section 2.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^**Subject Matter of Agreement**  
+NEXX shall carry out the development of especially customized tool features [*] and provide Infineon with the Results of Development for the purpose of Infineon testing and evaluating such Results of Development.
+
+^**Quality Assurance**  
+^^NEXX shall perform any and all development work with qualified personnel. AtInfineon's request, NEXX shall provide evidence of qualification for those employees involved in the development work, even if this Agreement does not stipulate any certain qualification. Employees of NEXX who are designated to work on security-relevant tasks shall be subjected to a security check to be agreed upon by Infineon. At Infineon's reasonable request, NEXX shall replace, at its own costs, the employees who appear to be not qualified.
+
+^^NEXX shall perform any and all development work diligently and using the mostcurrent, state-of-the-art technology. NEXX shall use the methods/processes and tools stipulated in **Annex 2** to this Agreement.
+
+^^NEXX shall keep Infineon informed of the progress of its work Infineon shall beentitled to acquire information at any time regarding the progress of the project by inspecting any relevant documents (reports, descriptions, listings, manuals, etc.). At Infineon's request, the documents required to that end must be submitted and explained. NEXX shall provide Infineon with the relevant documents on a [*]
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^For the purpose of ensuring process and product quality NEXX shall be obliged toestablish and implement such quality management system as set forth in Annex 2 to this Agreement. Infineon shall be entitled to carry out quality audits at NEXX' premises in order to verify that the quality management system actually exists and is being implemented.
+
+^^If disagreements should arise between the Parties regarding the content of technicalterms and symbols, quality requirements, format requirements, or similar issues, the compliance with the DIN standards in effect at the date of the contract shall be deemed to be agreed.
+
+^Infineon's Duty to Cooperate  
+^^Infineon shall provide NEXX in a timely manner with all necessary data andinformation or shall provide NEXX with the names of suitable information sources.
+
+^^NEXX shall perform any and all development work on its premises, unless otherwisestipulated in **Annex 1** to this Agreement. If NEXX performs development work on the premises of Infineon, NEXX shall solely use the premises, devices and programs which Infineon has assigned to NEXX and solely in the manner specified by Infineon (e.g. the use of passwords), NEXX shall commit its employees in writing to observe the applicable security and order rules of Infineon and shall inform Infineon about the names of the employees who will have access to Infineon's premises in writing and as soon as possible.
+
+^^If NEXX needs specific cooperative efforts from Infineon, it shall demand these inwriting and in a timely manner. To the extent that fixed dates for cooperative efforts have already been set, NEXX shall point out such dates in a timely manner. Infineon will perform all obligations to cooperate under this Agreement at its own costs.
+
+^^Infineon does not assume any liability for the accuracy, sufficiency or suitability of theuse by NEXX of any data or information provided by Infineon. Likewise, Infineon assumes no liability for freedom of access to, or for disruptions of operations at Infineon-owned or for any possible damage resulting from the use thereof. This exclusion of liability does not apply in the event of [*] of Infineon; nor does it apply in the event of tortuous injury to life, body, or health.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^This Section 4 comprehensively regulates the sole and exclusive duties of Infineon tocooperate. Infineon has no further obligation to cooperate. Should Infineon not have complied with any of its obligations in the time stipulated herein or any of the Annexes to this agreement, NEXX shall immediately notify Infineon of such delay in writing. If NEXX fails to thus inform Infineon, NEXX shall be excluded from using such circumstance as a defense.
+
+^Delivery  
+^^NEXX shall deliver the Results of Development to Infineon in accordance with thespecification and quantity set forth in **Annex 1** to this Agreement and in accordance with the binding time and milestone schedule set forth in **Annex 3** to this Agreement.
+
+^^Together with the Results of Development, NEXX shall provide Infineon with copiesof all scientific or technical documents including drawings and plans established during the development as well as operating instructions if necessary for proper use and the evaluation of the developed results as well as all prototypes. The documents have to be provided to Infineon in writing and in electronic format. NEXX shall explain the Results of Development orally.
+
+^^NEXX shall perform any and all development work in accordance with the bindingtime and milestone schedule set forth in **Annex 3** to this Agreement. NEXX shall inform Infineon without delay in writing if a significant delay of the performance becomes foreseeable.
+
+^^If NEXX is of the opinion that it is hindered from performing this Agreement due tocircumstances of any kind whatsoever, NEXX shall inform Infineon hereof in writing without undue delay. If such hindering circumstances are not attributable to NEXX, the parties shall agree on a reasonable extension of the agreed deadlines. If the parties reach an agreement on a reasonable extension of the agreed deadlines prior to the agreed deadlines, Section 5.3 Sentence 3 shall not apply. If NEXX fails to inform Inf ineon without undue delay, in writing, NEXX shall be excluded from using the circumstances as a defense.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^NEXX shall announce in writing no later than[*] to the readiness of the Results of Development and shall coordinate the delivery date with Infineon. Delivery shall take place at the location named in **Annex 3** to this Agreement. Delivery shall be confirmed in writing.
+
+^**Acceptance of the [*]/Completion of the Development Work**
+
+^^Acceptance of the Results of Development will be made and governed by Section 5 ofthe specification contained in **Annex 1** to this Agreement. Any confirmation of Infineon indicating that certain functionalities have been reached shall not impact performance due under this Agreement and shall not be deemed to be an Acceptance.
+
+^^Infineon will test and evaluate the Results of Development during a period of [*] as from the date of signature of Final Process Start Up Protocol as further specified in Section 5 of the **Annex 1** to this Agreement. The Development Work shall be regarded as being completed successfully once the [*] fulfills the specification as per Annex 1 and the Final Acceptance Protocol, as specified in Section 5 of **Annex 1** t o this Agreement has been mutually signed
+
+^**Remuneration**  
+Within [*] after the date of mutual signature of this Development Agreement and agreement on related commercial terms Infineon will issue a corresponding purchase order to NEXX.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^**Demand for Changes**  
+^^Infineon is entitled to demand changes, prior to the Acceptance of the Results of Development. NEXX may, in writing, reject Demands for Changes as infeasible, to the extent that they are unacceptable to NEXX due to deficiencies in its performance capabilities; or other valid reasons.
+
+^^In the event and to the extent that the implementation of a Demand for Changes shouldmake it necessary to adjust the timetable, NEXX must notify Infineon accordingly. Within [*] from the date such notification is submitted, the Parties shall come to an agreement regarding changes to this Agreement.
+
+^**Cooperation by the Parties**  
+^^NEXX shall follow instructions issued by Infineon under this Agreement insofar as such instructions relate to the subject matter of the performance itself However, Infineon shall not be authorized to issue instructions directly to employees of NEXX.
+
+^^If NEXX is of the opinion that instructions from Infineon issued in accordance withsection 9.1, or other circumstances attributable to Infineon, are creating changed work requirements, NEXX shall inform Infineon hereof, in writing and without delay. The parties shall then agree on a reasonable adjustment of the agreed evaluation period as stipulated in Section 6.2.
+
+^^Should it become clear to NEXX that documents, data, requirements or any otherinformation or instruction of Infineon are deficient, incomplete, ambiguous, or objectively unsuitable for the performance of the contractual obligations, NEXX shall immediately notify Infineon and submit alternative proposals. Infineon shall, without delay, make decisions on potential alterations, which may arise due to such notices regarding the content of **Annex 1** to this Agreement.
+
+^^Each party shall designate a project manager who shall be in a position to provideinformation and to either make decisions or cause them to be made. Should a designated project manager leave the company or be unavailable for a long period oftime, the affected Party shall appoint a new project manager in a timely manner. The project managers are empowered to accept all notifications relating to this Agreement.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^Each party may at certain intervals convene a project meeting at which the projectmanagers and possibly other employees of Infineon and NEXX should be present. At the project meeting a development status report should be prepared, observance of contractual responsibilities should be reviewed, and continuation of the project should be discussed. A record of the project meeting shall be prepared and signed by both parties to this Agreement.
+
+^^Declarations by each Party should be sent to the following addresses:
+
+Infineon: **[[Organization 4 Name]]**  
+[*]         
+· NEXX: **[[Organization 5 Name]]**  
+Project Mgr.: Mr. [[Person 1 First Name]] [[Person 1 Last Name]],  
+VP of Technology 
+[[Address 3: Address]]-3929, USA 
+Tel.: [*] 
+Cell: [*] 
+Email: [*] 
+Fax: [*]  
+Both Parties are obliged, without delay, to notify the other Party of any changes to the addresses and contact numbers listed above.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^**Subcontractors and Assignment to Third Parties**
+
+^^NEXX may not subcontract its contractual obligations under this Agreement to freelance workers or other third parties (hereinafter referred to as "Subcontractors") without the prior written consent of Infineon. At Infineon's request, NEXX shall procure evidence of any work permit that may be required for foreign workers. Infineon shall be entitled to request from NEXX termination of said subcontracts at any time and without cause, but in particular in case of facts and circumstances attributable to the Subcontractor if such circumstances would entitle Infineon to terminate this Agreement for cause had they occurred in the relationship between Infineon and NEXX.
+
+[[Organization 5 Name]] will have the right to use in house engineering or a contractor subject to the stipulations set forth in Section 10.
+
+\centered 10.2   Neither Party may assign this Agreement, delegate its obligations or assign its rights thereunder without the prior written consent of the other Party, which consent will not be unreasonably withheld.  
+
+\centered 10.3   Notwithstanding the foregoing and without consent of NEXX, Infineon may assign this Agreement, delegate its obligations or assign its rights thereunder to an Affiliated Company of Infineon or to a third party to whom all or substantially all assets of Infineon's business unit performing this Agreement are transferred.  
+
+^**Title and Rights**  
+^^Each Party retains title and ownership in and to its Background 1PR.
+
+^^Infineon hereby grants to NEXX under its Background IPR the non-exclusive,non-transferable, royalty free right to use same during the term of this Agreement for the purpose of carrying out the Development Work. This right includes the right to have such Background IPR used by a subcontractor;
+
+^^NEXX hereby grants to Infineon under its Background IPR the non-exclusive, non-transferable, royalty free right to use same during the term of this Agreement for the purposes set forth in the subsequent sub-paragraphs 11.2 through 11.7.
+
+^^(a)   The Results of Development shall be and remain the sole and exclusive property of Infineon, subject to the license grant set forth herein. The Parties agree that any results being general enhancements of the Tool Platform shall be and remain the sole and exclusive property of NEXX. Infineon shall have a [*] license to use or have used such general enhancements of the Tool Platform for the purpose of using the Results of Development within the scope as provided for by this Agreement. NEXX shall have [*] option to license the Results of Development pursuant to a License Agreement to be negotiated between the Parties, provided however, that such option shall not be executed before expiry of a period of [*] as from the date of acceptance of the [*] pur suant to section 6. With Infineon's explicit consent, such consent not to be unreasonably withheld, NEXX may execute its foregoing option at any time before expiry of the option period. In case of NEXX executing the afore­mentioned option the Parties agree to base their negotiations on the following rights and obligations:
+
+[*]  
+^^The parties agree to use [*] efforts to enter into a commercially reasonable license agreement on the terms set forth above. If the parties are unable to complete and execute a license agreement within [*] after written notice from NEXX, then the parties agree to resolve any discrepancies before a single third party mediator selected by the parties within [*] of such notice after the end of such [*] period. Such mediation shall be held and completed within [*] of the notice by NEXX requesting such mediation.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^If protectable inventions or ideas are contained in the Results of Development, Infineon shall, at its sole discretion, be entitled to apply for and register any Intellectual Property Rights thereto in any country in its own name and the Parties shall agree upon the details of such registration and maintenance in a Purchase Agreement.
+
+^^NEXX shall ensure in contracts with its employees that the rights per Sections 11.1 to 11.3 above are enjoyed by Infineon exclusively (unless otherwise noted in Sections 11.1 to 11.3) and without time limit, and also that they are not affected by termination of the contracts between NEXX and its employees. NEXX will claim the inventions of its employees without restraints. It is the sole duty of NEXX to pay its employees any compensation, which might be necessary, if applicable, with respect to the rights to which Infineon is entitled to under Section 11.1 through Section 11.3.
+
+\centered 11.5   NEXX shall not utilize the Results of Development or parts thereof for other developments or further developments unless Infineon provides its prior written approval, such approval not to be unreasonably withheld.  
+
+\centered 11.6   NEXX shall ensure and warrants that the Results of Development do not violate any rights of any third parties.  
+
+\centered 11.7   In case the Parties will not have entered into a Purchase Agreement within a period of [*] after mutual signature of the Final Acceptance Protocol (as defined in Section 5 of the specification contained in Annex 1) NEXX shall have a [*] license to use and have used the Results of Development in any manner it deems suitable provided however, that any use under Infineon's Background IPR, any information, data and know-how of Infineon embodied in the Results of Development would require a prior written license agreement between the Parties.  
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^**Warranty and Liability**  
+
+\centered 12.1   Any warranties to be given in the framework of the Parties' cooperation regarding the subject matter according to Section 2 of this Agreement shall be finally stipulated in the Purchase Agreement.  
+
+\centered 12.2   Any liability of a party with respect to death or injury to any person is subject to and governed by the provisions of the applicable law. Neither party is, however, obliged to compensate for death or personal injury or loss of or damage to property of the other party to the extent such death, injury, loss or damage is covered by insurance(s) of the affected party and such affected party shall not be entitled to recover same from the first party.  
+
+\centered 12.3   Neither party shall be liable for any indirect or consequential damages of the other party, including loss of profit or interest, under any legal cause whatsoever and on account of whatsoever reason, except where such liability is mandatory by applicable law.  
+
+^**Confidentiality, Data Protection and Non-Competition Clause**
+
+\centered 13.1   NEXX shall treat as confidential its work and the know-how and experience, documents, tasks, business developments, and other information that it acquires from Infineon in the context of this Agreement, as well as the conclusion of this Agreement and the Results of Development, and shall not make them available to third parties other than those mentioned in Section 10.1 and 10.2 for as long as they have not become publicly known or Infineon has not given its prior written approval for such disclosure in an individual ease, and shall use such information only for the purpose intended by this Agreement.  
+
+\centered 13.2   Documents and other tools provided or created by Infineon may be utilized only for implementation of this Agreement, may be copied or reproduced only for NEXX' own use, and may not be made available to third parties. They shall be returned to Infineon of NEXX' own accord, including any copies thereof, following the termination of this Agreement. Infineon may require a corresponding declaration of completeness.  
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^To the extent it is not necessary for NEXX' performance of this Agreement, NEXX shall not, without Infineon's written consent, be authorized to copy, reproduce, or furnish to any third parties Infineon data accessible to NEXX.
+
+^^To the extent NEXX must process personal data during its work on the subject matter of this Agreement, it shall observe data protection laws, arrange data security measures with Infineon, and enable Infineon to acquire information regarding compliance with such arrangements.
+
+^^NEXX shall impose an obligation corresponding to Sections 13.1 to 13.4 upon those of its employees who are involved in performing this Agreement and on third parties involved in performing this Agreement. At Infineon's demand, NEXX shall be obliged to provide corresponding written proof of such obligation from all persons involved.
+
+^^The rights and responsibilities arising in Section 13.1 to 13.5 shall continue in force beyond the term of this Agreement.
+
+^Termination  
+
+\centered 14.1   Infineon and NEXX shall have the right to terminate this Agreement by giving [*] In case of any termination under this Section 14.1 Sentence 1, Section 11.7 shall apply mutatis mutandis.  
+
+\centered 14.2   The right to terminate this Agreement for cause shall remain unaffected. Each Party may terminate this Agreement for cause, if, among other items, the other Party (a) becomes insolvent, (b) is the subject to any proceedings seeking relief, reorganization, receivership or rearrangement under any laws relating to insolvency, (c) makes an assignment for the benefit of creditors, or (d) begins the liquidation, dissolution or winding up of its business. Infineon is also entitled to terminate this Agreement for cause, if Infineon has material doubts that NEXX can achieve the development goal of    
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+\centered this Agreement. In addition, Infineon may terminate this Agreement for cause, if, among other items: (a) NEXX comes under direct or indirect control or direction of any other entity competing with Infineon; (b) NEXX fails to perform development work for a period of [*] (c) NEXX fails to provide Infineon with an acceptable progress report within a [*] (d) NEXX fails to deliver to Infineon any deliverable set forth in the Schedule within [*] of Infineon's written notice to NEXX, of NEXX' failure to deliver in accordance with the schedule; or (e) NEXX is late on its delivery of deliverables set forth in the Schedule by [*]    
+
+^^In case of termination pursuant to Section 14.2 hereinbefore, Infineon shall have the right to decide at its own free discretion, whether it wants to
+
+^^keep all Results of Development including all relating prototypes and documents created pursuant to this Agreement regardless of the state of processing they are in at the time of termination that it has up to the time of termination acquired pursuant to Section 11 hereinbefore, in which case NEXX shall hand over to Infineon all such Results of Development as well as all documents and information in its possession with respect thereto;
+
+^^renounce all rights to the Results of Development that it has up to the time of termination acquired pursuant to Section 11 hereinbefore, in which case Section 11.7 shall apply mutatis mutandis.
+
+^Dispute Resolution and Applicable Law
+
+\centered 15.1   Any and all disputes arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be settled finally and through binding arbitration under the Rules of the International Chamber of Commerce, ICC, Paris (hereinafter referred to as "Rules"), by one arbitrator up to an amount of one million Euro and by three arbitrators beyond an amount of one million Euro, in accordance with the Rules. Arbitration shall take place in Zurich, Switzerland; the procedural law of that jurisdiction shall apply where the Rules are silent. The language to be used in the arbitration proceeding shall be English.  
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+^^This Agreement shall be subject to the substantive law in force in Switzerland without reference to its conflict of law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods of [[Date 1: Date]] shall be excluded.
+
+^^Nothing contained herein shall be construed and the Parties hereby waive any and all rights they may have to claim or assert, that Infineon is subject to the jurisdiction of the courts of the USA.
+
+^Miscellaneous  
+
+\centered 16.1   Changes and amendments to this Agreement must be made in writing in order to be valid. Ancillary agreements made orally are invalid. This also applies to revocation of this provision.  
+
+\centered 16.2   General terms and conditions of NEXX shall not be applicable, even if Infineon has not explicitly objected to them.  
+
+\centered 16.3   Should any provision of this Agreement be invalid, the validity of the remaining provisions shall remain unaffected. In such case, the respective provision shall be replaced by a valid one approximating as closely as possible the economic purpose of the invalid provision.  
+
+^^The Annexes to this Agreement are an integral part of this Agreement.
+
+\centered 16.5   NEXX and Infineon shall each receive a copy of this Agreement signed by both Parties.  
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+[[Address 4: Address]]:      date:Sep. 24, 2008
+
+**[[Organization 4 Name]]**      **NEXX [[Organization 2 Name]]**
+
+**/s/ [[Person 2 First Name]] [[Person 2 Last Name]]**
+**CEO**
+
+**Annexes:**  
+Annex 1: Tool and Process Specification  
+Annex 2: Quality Assurance  
+Annex 3: Time Schedule/Milestones/Place of Delivery
+
+Annex 4: Non-Disclosure-Agreements  
+
+\centered 4.1: NDA Nexx [[Organization 2 Name]], USA — [[Organization 4 Name]], Germany
+
+\centered 4.2: NDA Teltec GmbH, Germany — [[Organization 4 Name]], Germany
+
+\centered 4.3: NDA Teltec GmbH, Germany — [[Organization 4 Name]], Germany
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+**ANNEX 1 to Development Agreement between [[Organization 5 Name]] and Infineon Technolo****gies**
+
+\centered **[[Organization 1 Name]]**
+
+\centered **Tool and Process Specification**
+
+\centered **[*]**
+
+\centered **by and between**
+
+\centered **NEXX [[Organization 2 Name]], USA**
+
+\centered **(hereinafter referred to as 'NEXX")**
+
+\centered **and**
+
+\centered **[[Organization 1 Name]], Austria**
+
+\centered **(hereinafter referred to as "IFX")**
+
+[*] 
+**Specification acceptance:**  
+[[Organization 4 Name]], Germany      Nexx [[Organization 2 Name]], USA
+
+[[[[Organization 4 Name]] Germany      [[Organization 5 Name]] USA Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] Germany      [[Organization 5 Name]] USA Entity => By: [[[[Organization 4 Name]] Germany      [[Organization 5 Name]] USA Signatory First Name]] [[[[Organization 4 Name]] Germany      [[Organization 5 Name]] USA Signatory Last Name]]
+Title: [[[[Organization 4 Name]] Germany      [[Organization 5 Name]] USA Signatory Title]]}}
+
+Name: [[Person 3 First Name]] [[Person 3 Last Name]]      Product Manager
+
+18/09/09      9-12-09
+Date
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+**ANNEX 2** to Development Agreement between NEXX [[Organization 2 Name]] and [[Organization 1 Name]] dated [[Date 2: Date]]
+
+**PRODUCT QUALITY POLICY** Document CD-QU-1003 Revision A.2 – [[Date 3: Date]]
+
+\centered **NEXX Product Quality Policy**   \centered Deliver on time quality products that   
+
+\centered meet customer expectations.
+
+**Management Responsibility** 
+**Quality Policy** 
+NEXX’s Quality Policy is to "Deliver on time quality products that meet customer expectations." NEXX's management with executive responsibility has defined and documented this policy for quality so that it is relevant to NEXX's organizational goals and the expectations and needs of our customers. NEXX supervisors are responsible for ensuring that this policy is understood at all levels of the organization. All NEXX employees are responsible for implementing and maintaining this policy at all levels of the organization. One of the ways in which NEXX monitors its performance of the Quality Policy is via metrics, which measure, for example, on-time delivery of product to our customers and the rate of return of nonconforming product from customers.
+
+**Organization: Responsibility and Authority**
+
+The responsibility, authority, and the interrelation of personnel who manage, perform, and verify work that affects quality is defined and documented in this Quality Manual as well as in procedures and work instructions. This is the case particularly for personnel who need the organizational freedom and authority to:
+
+^^initiate action to prevent the occurrence of any nonconformities relating to product, process, and quality system;
+
+^^identify and record any problems relating to the product, process, and quality system;
+
+^^initiate, recommend, or provide solutions through designated channels;
+
+^^verify the implementation of solutions;
+
+^^control further processing, delivery, or installation of nonconforming product until the deficiency or unsatisfactory condition has been corrected.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+**Organization: Resources** 
+NEXX identifies resource requirements and provides adequate resources, including the assignment of trained personnel, for management, performance of work, and verification activities including internal quality audits.
+
+**Organization: Management Representative** 
+NEXX's management with executive responsibility has appointed a member of NEXX's own management who, irrespective of other responsibilities, has defined authority for
+
+^^ensuring that a quality system is established, implemented, and maintained in accordance with the requirements of our customers.
+
+^^reporting on the performance of the quality system to NEXX's management for review and as a basis for improvement of the quality system.
+
+**Management Review** 
+NEXX's management with executive responsibility reviews the quality system at defined intervals sufficient to ensure its continuing suitability and effectiveness in satisfying the requirements of our customers and NEXX's stated quality policy and objectives.
+
+**[ * ] =Certain information on this page has been redacted and filed separately with the Securities and Exchange Commission. Confidential treatment has been requested with respect to the omitted portions.**
+
+Annex 3:  
+[*]
+
+The successful completion of the above listed milestone deliverables is subject to due fulfillment of all stipulations set forth in the Development Agreement dated [[Date 2]] and corresponding “Tool and Process Specification” (Annex 1).

@@ -1,0 +1,48 @@
+\centered **AMENDMENT NO. 1** 
+
+\centered **TO** 
+
+\centered **SHAREHOLDER RIGHTS AGREEMENT** 
+
+THIS **AMENDMENT NO. 1 TO SHAREHOLDER RIGHTS AGREEMENT** (the “Amendment”) is entered into effective as of [[Date 1: Date]] by and between **[[Company]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the **“Company”**), and **[[Rights Agent]]**, a [[State of Formation: State]] [[Organization: EntityType]], as Rights Agent (the **“Rights Agent”**), which term shall include any successor Rights Agent hereunder; 
+
+\centered Witnesseth: 
+
+WHEREAS, the Company and the Rights Agent are parties to that certain Shareholder Rights Agreement dated [[Date 2: Date]] (the **“Rights Agreement”**); 
+
+WHEREAS, pursuant to Section 5.4 of the Rights Agreement, the Company and the Rights Agent may from time to time supplement or amend the Rights Agreement subject to the terms of the Rights Agreement; and 
+
+WHEREAS, the Board of Directors of the Company has determined that an amendment to the Rights Agreement as set forth herein is necessary and desirable and the Company and the Rights Agent desire to evidence such amendment in writing. 
+
+NOW THEREFORE, in consideration of these premises and mutual agreements set forth herein, the parties agree as follows: 
+
+^Article I, Section 1.1 of the Rights Agreement is amended to define “Acquiring Person” as follows: 
+
+**“Acquiring Person”** shall mean any Person (other than the Company, a wholly owned Subsidiary of the Company or an employee stock ownership or other employee benefit plan of the Company or a wholly owned Subsidiary of the Company) who is a Beneficial Owner of [[Percentage 1: Number]]% or more of the outstanding shares of Common Stock; provided, however, that the term “Acquiring Person” shall not include any Person who shall become the Beneficial Owner of [[Percentage 1]]% or more of the outstanding shares of Common Stock solely as a result of an acquisition by the Company of shares of Common Stock, until such time thereafter as such Person shall become the Beneficial Owner (other than by means of a stock dividend or stock split) of any additional shares of Common Stock. Notwithstanding the foregoing, if the Board of Directors of the Company determines in good faith that a Person who would otherwise be an “Acquiring Person,” as defined pursuant to the foregoing provisions of this Agreement, has become such inadvertently, and such Person divests as promptly as practicable a sufficient number of shares of Common Stock so that such Person would no longer be an “Acquiring Person,” as defined pursuant to the foregoing provisions of this Agreement, then such Person shall not be deemed an “Acquiring Person” for any purposes of this Agreement. The determination of whether such a Person has become an Acquiring Person in an inadvertent manner, and the determination of whether the divestment of sufficient shares shall have been made as promptly as practicable after becoming an inadvertent Acquiring Person, shall be made by a majority vote of the Board of Directors of the Company. 
+
+^The Rights Agreement, as supplemented and modified by this Amendment, which such Amendment shall be deemed effective as of the date first written above, as if executed on such date, 
+
+together with the other writings referred to in the Rights Agreement or delivered pursuant thereto which form a part thereof, contain the entire agreement among the parties with respect to the subject matter thereof and amend, restate and supersede all prior and contemporaneous arrangements or understandings with respect thereto. 
+
+^Upon the effectiveness of this Amendment, on and after the date hereof, each reference in the Rights Agreement to “this Agreement,” “hereunder,” “hereof,” or words of like import, shall mean and be a reference to the Rights Agreement, as amended hereby. Except as specifically amended above, the Rights Agreement shall remain in full force and effect and is hereby ratified and confirmed. 
+
+^This Amendment shall be governed by the laws of the State of Michigan applicable to contracts to be made and to be performed entirely within the State. 
+
+^This Amendment may be executed in any number of counterparts, and each such counterpart shall be deemed to be an original instrument, but all such counterparts together shall constitute but one agreement. 
+
+IN WITNESS WHEREOF, the parties have duly executed this Amendment to be duly executed as an instrument under seal and attested, all as of the day and year first above written. 
+
+Attest:                  **[[Company]]**
+
+[[Attest                  Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Attest                  Company Entity => By: [[Attest                  Company Signatory First Name]] [[Attest                  Company Signatory Last Name]]
+Title: [[Attest                  Company Signatory Title]]}}
+
+
+Attest:                  [[Organization 1 Name]], AS  RIGHTS AGENT
+
+[[Attest                  [[Organization 1 Name]] AS  RIGHTS AGENT Signatory Email: Identity | Signature]]
+__________________________________________
+{{Attest                  [[Organization 1 Name]] AS  RIGHTS AGENT Entity => By: [[Attest                  [[Organization 1 Name]] AS  RIGHTS AGENT Signatory First Name]] [[Attest                  [[Organization 1 Name]] AS  RIGHTS AGENT Signatory Last Name]]
+Title: [[Attest                  [[Organization 1 Name]] AS  RIGHTS AGENT Signatory Title]]}}

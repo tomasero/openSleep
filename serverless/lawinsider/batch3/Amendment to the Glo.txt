@@ -1,0 +1,65 @@
+**PORTIONS OF THIS EXHIBIT MARKED BY AN (***) HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.** 
+
+\centered **Amendment to the Global Agreement** 
+
+This amendment (“Amendment”) amends and is governed by the Global Agreement with an effective date of [[Date 1: Date]] (the “Agreement”) between [[Organization 1 Name]] (“Amadeus”) and Ebookers PLC (“EBOOKERS”) and is effective as of the date executed by EBOOKERS (the “Amendment Effective Date”). All capitalized terms and conditions herein have the definitions as provided in the Agreement or as otherwise indicated herein. 
+
+***WHEREAS***, [[Organization 2 Name]] (“Lufthansa”) and [[Organization 3 Name]] (“Swiss”) have imposed certain travel agency surcharges through the Lufthansa/Swiss Preferred Fare Program; 
+
+***WHEREAS***, EBOOKERS on behalf of itself and EBOOKERS Locations, has agreed with Lufthansa and Swiss to participate in the Lufthansa/Swiss Preferred Fare Program; 
+
+***WHEREAS***, according to the Lufthansa/Swiss Preferred Fare Program, EBOOKERS and EBOOKERS Locations in the applicable territories are obliged to bear certain costs (the “LH/Swiss Preferred Fare Surcharge”): 
+
+***WHEREAS***, the Parties previously entered into an Amendment to the Agreement with an effective date of [[Date 2: Date]] regarding the LH/Swiss Fare Surcharge and other terms and conditions (the “LH/LX Amendment”) which was terminated for the Territory of Germany; 
+
+***WHEREAS***, the Parties have agreed to a separate reimbursement process for the territory of Switzerland on base of the LH/LX Amendment, which reimbursement process will be unaffected by this Amendment; 
+
+***WHEREAS***, the Parties have reached an agreement that the LH/LX Amendment is to be reinstated with an effective date of [[Date 3: Date]] under the same terms and conditions as agreed therein except to the extent modified by this Amendment as follows: 
+
+***IT IS AGREED***:  
+^**§ 1 Reimbursement/Handling**
+
+^^The Parties agree that only the terms for handling the reimbursement in Germany shall apply. Other territories are out of scope and have to be agreed separately if applicable.
+
+^**§ 2 Amount of reimbursement**
+
+^^The first sentence of Article 2 of the LH/LX Amendment shall be replaced by the following sentence:
+
+“Given its purely provisional and compensatory nature, the Amadeus ACO’s partial reimbursement of the LH/LX Preferred Surcharge of an amount of (***) per ticketed and charged segment is subject to the following conditions:”
+
+^^The last sentence of Article 2 of the Amendment shall be replaced by the following sentence:
+
+^^^^^ 
+“In case of a Reduction, such affected EBOOKERS Locations (or EBOOKERS) shall inform Amadeus immediately. In this circumstance, the reimbursement hereunder shall be reduced according to the Reduction. For clarification, in case of an Increase of the LH Preferred Surcharge by Lufthansa, Amadeus is not obligated to increase the reimbursement hereunder.”
+
+^^The following two conditions are added to Article 2 of the Amendment:
+
+The applicable segment has been booked via a German Office ID in the territory of Germany.
+
+EBOOKERS warrants that it will provide Amadeus Germany only with those ADMs for reimbursement for that part of the (***) LH/LX Preferred Fare Surcharge reimbursement that has not been charged by EBOOKERS Locations to its traveller clients. For example, if an EBOOKERS Locations charges its customer any amount above (***) for bookings affected by the LH/LX Preferred Fare Surcharge, then such excess amounts will not be included in any ADMs.
+
+^**§ 6 Duration of reimbursement**
+
+^^Article 6 clause 1 and clause 2 of the LH/LX Amendment is deleted and replaced with the following:
+
+“This Amendment, including any reimbursements of the LH/LX Preferred Surcharge in any and all territories, shall automatically end without the need of a formal termination on 28th of [[Date 4: Date]].”
+
+All other terms and conditions of the LH/LX Amendment remain in full force and affect. 
+
+Agreed and Accepted:  
+
+\centered 
+
+**[[Organization 1 Name]]**    **[[Organization 4 Name]]** 
+
+[[[[Organization 1 Name]]    [[Organization 4 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]    [[Organization 4 Name]] Entity => By: [[[[Organization 1 Name]]    [[Organization 4 Name]] Signatory First Name]] [[[[Organization 1 Name]]    [[Organization 4 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]]    [[Organization 4 Name]] Signatory Title]]}}
+
+
+Name: [[Person 1 First Name]] [[Person 1 Last Name]]    Name: [[Person 2 First Name]] [[Person 2 Last Name]] 
+
+Title: Director    Title: VP Business to Business 
+
+Date: 11/3/2010    Date: 8/3/2010

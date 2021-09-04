@@ -1,0 +1,196 @@
+(cc)** 
+
+\centered **[[Organization 1 Name]]** 
+
+\centered **SECOND AMENDMENT TO CREDIT AGREEMENT** 
+
+\centered **(With Consent)** 
+
+**THIS SECOND AMENDMENT TO CREDIT AGREEMENT** (*this “Amendment”*) is made as of the day of [[Date 1: Date]] by and between **[[Organization 1 Name]],** a national bank (*“Lender”*) and **[[Borrower]]** (*“Borrower”*), and each of the other Loan Parties signatory hereto, and has reference to the following facts and circumstances: 
+
+**WHEREAS,** on [[Date 2: Date]], the Borrower and the other Loan Parties executed and delivered to Lender a Credit Agreement (as amended, restated, supplemented or otherwise modified from time to time, *“Credit Agreement”*) which set forth the terms and conditions of Lender’s extension of credit to Borrower; and 
+
+**WHEREAS,** at the same time, Borrower executed and delivered to Lender its Revolving Loan Note (*the “Note”*) in the maximum principal amount of $[[USD Value 1: Number]] to evidence amounts available to be loaned to Borrower pursuant to the Credit Agreement, which Note has a scheduled Maturity Date of [[Date 3: Date]]; and 
+
+**WHEREAS,** pursuant to certain Collateral Documents including, without limitation, Security Agreements, each of which was dated as of [[Date 2]], the Loan Parties granted Liens upon certain Collateral as security for the repayment of the Secured Obligations; and 
+
+**WHEREAS,** pursuant to the First Amendment to Credit Agreement dated [[Date 4: Date]], among other things, (i) the Bank consented to the entry by Loan Parties into certain Supplier Purchase Agreements pursuant to which certain accounts were sold to third parties, (ii) the Revolving Commitment was reduced to $[[USD Value 2: Number]], and (iii) a Minimum Availability covenant was added to the Credit Agreement; and 
+
+**WHEREAS,** concurrently with the execution of the First Amendment, Borrower executed and delivered to Lender its First Amended Revolving Loan Note in the maximum principal amount of $[[USD Value 2]]; and 
+
+**WHEREAS,** Borrower has advised the Lender that it has entered into a Letter of Intent (*the “LOI,”*), a copy of which has been delivered to Lender, with [[Organization 2 Name]], Inc. pursuant to which certain personal property assets (*collectively, the “Subject Property”*) would be sold to [[Organization 2 Name]], Inc (*which Subject Property will be described with specificity in the definitive purchase documents entered into between Borrower and [[Organization 2 Name]], Inc.; a copy of which will be delivered to Lender upon execution thereof*), but shall include, without limitation, all equipment constituting Line 18, Line 19 and Line 20, in each case, located at Plant 7 in Elk Grove Village, Illinois) for total consideration of approximately $[[USD Value 2]] (*the “[[Organization 2 Name]] Sale”*); and 
+
+**WHEREAS,** the Subject Property constitutes a portion of the Collateral which secures the payment of the Obligations, the sale of which is prohibited by Section 6.05 of the Credit Agreement and by Sections 4.1(d) and 8.6 of the Security Agreement to which Borrower is a party (*the “Borrower Security Agreement”*); and 
+
+**WHEREAS,** the Loan Parties have requested that Lender consent to the sale of the Subject Property to [[Organization 2 Name]], Inc. and further that Lender release its security interest in the Subject Property concurrently with the closing of such sale; and 
+
+**WHEREAS,** the Lender is willing to grant its consent to the sale of the Subject Property, and will agree to release of its security interest in the Subject Property, all as requested by the Loan Parties, on the terms and subject to the conditions set forth herein. 
+
+**NOW THEREFORE,** for good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the Parties hereto agree as follows: 
+
+\centered **AMENDMENTS AND AGREEMENTS** 
+
+^Notwithstanding anything to the contrary contained in the Credit Agreement or any other Loan Document, including, without limitation, the provisions of Sections 4.1(d) and 8.6 of the Borrower Security Agreement and Section 6.05 of the Credit Agreement, Lender hereby consents to the sale of the Subject Assets by Borrower to [[Organization 2 Name]], Inc. on substantially the terms set forth in the LOI, such sale to be closed within 120 days of the date hereof. Lender agrees that it will provide a release of its security interest in the Subject Property which release may be filed upon the closing of the sale of the Subject Property. Borrower agrees that in no case shall the Subject Property include Accounts, Inventory or real property (*or any proceeds thereof*) subject to any of the Collateral Documents. Borrower agrees that immediately upon its receipt of the net proceeds of the sale of the Subject Property, it will deposit same into Borrower’s demand deposit account with Lender. 
+
+^Notwithstanding the provisions of subsection (e) of the definition of “Eligible Accounts,” from and after the date hereof, to the extent that the aggregate amount of Accounts owing to the Loan Parties from the Account Debtors (*and their Affiliates*) identified below exceed their respective Maximum Percentages of the aggregate Eligible Accounts, the excess portion of such Accounts shall be deemed ineligible. The maximum percentage of Accounts due from the subject Account Debtors relative to the aggregate Eligible Accounts may be further modified by Lender from time to time in Lender’s Permitted Discretion. 
+
+**Account Debtor**      **Maximum Percentage**
+[[Organization 3 Name]] (“Ford”)       %
+Chrysler (“Chrysler”)       %
+[[Organization 4 Name]] (“GM”)       %
+
+\centered [[Organization 1 Name]] 
+
+\centered Second Amendment to Loan Documents 
+
+^Subsection (c) of the definition of “Eligible Accounts” is hereby amended to hereafter provide as follows: 
+
+“(c) Which is unpaid more than sixty (60) days after the original due date, or which is unpaid by Ford, GM or Chrysler more than thirty (30) days after the original due date, or which has been written off the books of the Borrower or otherwise designated as uncollectible;” 
+
+^The definition of “Revolving Commitment” in the Credit Agreement is hereby amended and restated to hereafter read as follows: 
+
+“‘Revolving Commitment’ means the commitment of the Lender to make Revolving Loans and Letters of Credit hereunder. The amount of the Lender’s Revolving Commitment is Seven Million Five Hundred Thousand and No/100 Dollars (*$[[USD Value 3: Number]]*).” 
+
+^Section 6.12 (*“Minimum Availability”*) of the Credit Agreement is hereby amended to hereafter provide as follows: 
+
+“SECTION 6.12. Minimum Availability. At no time during the term of this Agreement shall Availability be less than Two Million Five Hundred Thousand and No/100 Dollars (*$[[USD Value 4: Number]]*).” 
+
+^The obligation of the Lender to make Revolving Loans and to perform the amendments contemplated herein, and the effectiveness of this Amendment and the consents granted herein, is subject to satisfaction of the following conditions precedent: 
+
+^^All parties shall have executed this Amendment;
+
+^^Lender shall have received a fully executed Second Amended Revolving Loan Note in the maximum principal amount of $[[USD Value 3]] dated of even date herewith;
+
+^^The Loan Parties shall have paid to Lender an amendment fee in the amount of $[[USD Value 5: Number]];
+
+^^Lender shall have received Certificates of Good Standing relative to each of the Loan Parties dated on or after the date hereof;
+
+^^The [[Organization 2 Name]] sale shall have been consummated; and
+
+^^Borrower shall have paid all costs and fees (*including reasonable legal fees*) incurred by Lender in connection with the preparation and performance of this Amendment.
+
+\centered [[Organization 1 Name]] 
+
+\centered Second Amendment to Loan Documents 
+
+\centered **SECURITY** 
+
+^Borrower hereby represents and warrants to Lender that all security interests, liens and encumbrances granted by the Loan Parties to Lender to secure the repayment of the Secured Obligations shall continue in full force and effect and shall secure the repayment of all of the Secured Obligations including the Secured Obligations evidenced by the Second Amended Revolving Loan Note and any renewals, substitutions, or replacements thereof. 
+
+\centered **MISCELLANEOUS** 
+
+^This Amendment shall be binding upon and inure to the benefit of the successors and assigns of Borrower, the other Loan Parties and Lender. 
+
+^Nothing contained in this Amendment shall be construed or interpreted or is intended as a waiver of or limitation on any rights, powers, privileges or remedies that the Lender has or may have under the Credit Agreement or any other Loan Document or applicable law on account of any Default or Event of Default. 
+
+^Borrower and each other Loan Party hereby represent and warrant as of the date hereof that, after giving effect to this Amendment, (a) no Default or Event of Default has occurred and is continuing and (b) all representations and warranties contained in the Loan Documents (*with such term being deemed to include this Amendment and the Credit Agreement*) are true and correct in all material respects with the same effect as if made on and as of such date, except to the extent any such representations and warranties relate to a specific date, in which case such representations and warranties shall be deemed true and correct in all material respects on and as of such date. 
+
+^Borrower and the other Loan Parties hereby expressly reaffirm each of the covenants made by them in the Credit Agreement and other Loan Documents (*in each case, as amended or otherwise modified as set forth in this Amendment*). 
+
+^Each Loan Guarantor hereby (i) consents to the transactions contemplated hereby and (ii) acknowledges and agrees that the Loan Guaranty set forth in Article IX of the Credit Agreement (*and all security therefor*) and all other Loan Documents previously executed by them are, and shall remain, in full force and effect after giving effect to this Amendment to the Credit Agreement. 
+
+^This Amendment may be executed by one or more of the parties hereto in any number of separate counterparts (*which may include counterparts delivered by facsimile transmission or electronic mail*) and all of said counterparts taken together shall be deemed to constitute one and the same instrument. Any executed counterpart delivered by facsimile transmission or electronic mail shall be effective for all purposes hereof. 
+
+\centered [[Organization 1 Name]] 
+
+\centered Second Amendment to Loan Documents 
+
+^Except as expressly amended hereby, the Credit Agreement and the other Loan Documents shall remain in full force and effect. The Credit Agreement, as amended hereby, the Loan Documents and all rights and powers created thereby and hereunder or under such Loan Documents, are in all respects ratified and confirmed. From and after the date hereof, the Credit Agreement shall be deemed to be amended and modified as herein provided but, except as so amended and modified, the Credit Agreement shall continue in full force and effect and the Credit Agreement and this Amendment shall be read, taken and construed as one and the same instrument. On and after the date hereof, the term “Agreement” as used in the Credit Agreement and all other references to the “Agreement” therein, in any other instrument, document or writing executed by the Loan Parties or furnished to Lender by the Loan Parties in connection therewith or herewith shall mean the Credit Agreement, as amended by this Amendment. 
+
+^This Amendment and all other documents required hereunder to be executed by Borrower and the other Loan Parties and delivered to Lender have been duly authorized, executed and delivered on the Loan Parties’ behalf pursuant to all requisite corporate authority and this Amendment and each of the other documents required hereunder to be executed and delivered by the Loan Parties to Lender constitute the legal, valid and binding obligations of Borrower and the other Loan Parties enforceable in accordance with their terms, except as enforceability thereof may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws relating to creditor’s rights. 
+
+^The Loan Parties hereby acknowledge and agree that they have no defense, offset or counterclaim to the payment of principal, interest, fees or other Secured Obligations owing under the Credit Agreement and hereby waive and relinquish any such defense, offset or counterclaim they might otherwise claim to have and hereby release Lender and its respective officers, directors, agents, affiliates, successors and assigns from any claim, demand or cause of action, known or unknown, contingent or liquidated, which may exist or hereafter be known to exist relating to any matter arising in connection with the Credit Agreement or the Loan Documents or the administration thereof prior to the date hereof. 
+
+^Except as otherwise specified herein, this Amendment embodies the entire agreement and understanding between Lender and Borrower with respect to the subject matter hereof and supersedes all prior agreements, consents and understandings relating to such subject matter. 
+
+^The recitals set forth at the beginning of this Amendment are true in all material respects and constitute an integral part of this Amendment. 
+
+^This Amendment shall be governed and controlled by the laws of the State of Illinois. 
+
+\centered [[Organization 1 Name]] 
+
+\centered Second Amendment to Loan Documents 
+
+^Any capitalized term used herein, but not specifically defined or amended herein, shall have the meaning assigned to it in the Credit Agreement. 
+
+\centered [SIGNATURE PAGE TO FOLLOW] 
+
+\centered [[Organization 1 Name]] 
+
+\centered Second Amendment to Loan Documents 
+
+IN WITNESS WHEREOF, this Amendment has been duly executed as of the day and year specified at the beginning hereof. 
+
+**BORROWER:**
+
+**[[Borrower]]**
+
+[[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+
+**LOAN PARTIES:**
+
+**[[Organization 5 Name]],**
+**ENGINEERED MATERIALS AND**
+**[[Organization 6 Name]], INC.,**  an Illinois corporation,
+
+[[[[Organization 6 Name]].  an Illinois corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{[[Organization 6 Name]].  an Illinois corporation Entity => By: [[[[Organization 6 Name]].  an Illinois corporation Signatory First Name]] [[[[Organization 6 Name]].  an Illinois corporation Signatory Last Name]]
+Title: [[[[Organization 6 Name]].  an Illinois corporation Signatory Title]]}}
+
+
+**[[Organization 7 Name]],**  a Delaware corporation,
+
+[[[[Organization 7 Name]].  a Delaware corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]].  a Delaware corporation Entity => By: [[[[Organization 7 Name]].  a Delaware corporation Signatory First Name]] [[[[Organization 7 Name]].  a Delaware corporation Signatory Last Name]]
+Title: [[[[Organization 7 Name]].  a Delaware corporation Signatory Title]]}}
+
+
+**MATERIAL [[Organization 8 Name]],**
+^^Delaware corporation,
+
+[[A Delaware corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Delaware corporation Entity => By: [[A Delaware corporation Signatory First Name]] [[A Delaware corporation Signatory Last Name]]
+Title: [[A Delaware corporation Signatory Title]]}}
+
+
+**[[Organization 9 Name]] (EGV), INC.,**
+
+
+[[[[Organization 9 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]]. Entity => By: [[[[Organization 9 Name]]. Signatory First Name]] [[[[Organization 9 Name]]. Signatory Last Name]]
+Title: [[[[Organization 9 Name]]. Signatory Title]]}}
+
+
+
+
+[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
+
+
+**[[Organization 7 Name]]**  **(EGV), INC.,**
+
+
+[[[[Organization 7 Name]]  EGV INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]]  EGV INC. Entity => By: [[[[Organization 7 Name]]  EGV INC. Signatory First Name]] [[[[Organization 7 Name]]  EGV INC. Signatory Last Name]]
+Title: [[[[Organization 7 Name]]  EGV INC. Signatory Title]]}}
+
+
+**LENDER:**
+
+**[[Organization 1 Name]],**  a national bank
+
+[[[[Organization 10 Name]]  a national bank Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]]  a national bank Entity => By: [[[[Organization 10 Name]]  a national bank Signatory First Name]] [[[[Organization 10 Name]]  a national bank Signatory Last Name]]
+Title: [[[[Organization 10 Name]]  a national bank Signatory Title]]}}

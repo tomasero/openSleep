@@ -1,0 +1,118 @@
+\centered PREMIUM LETTER 
+
+[[Date 1: Date]] 
+
+[[Organization 1 Name]], National Association 
+
+Sixth and Marquette Avenue 
+
+MAC N9311-161 
+
+[[Address 1: Address]] 
+
+[[Organization 2 Name]] 
+
+[[Address 2: Address]] 
+
+[[Organization 3 Name]] 
+
+[[Address 3: Address]] 
+
+Re: [[Organization 4 Name]] 2010-A (the “Trust”) 
+
+Ladies and Gentlemen: 
+
+This letter will confirm the agreement of [[Organization 3 Name]] (the “Company”), [[Organization 2 Name]] (the “Seller”), [[Organization 1 Name]], National Association, as Trust Collateral Agent (as defined below), the Trust and Assured Guaranty Corp. (“Assured Guaranty”) that the following nonrefundable payments are to be made in connection with, and subject to, the closing of the above-described transaction and in consideration of the issuance by Assured Guaranty of its Financial Guaranty Insurance Policy (the “Policy”) in respect thereof. The amounts payable hereunder or under the Sale and Servicing Agreement (as defined below) to Assured Guaranty or any other specified party shall be nonrefundable without regard to whether Assured Guaranty makes any payment under the Policy or any other circumstances relating to $[[USD Value 1: Number]] Class A-1 [[Percentage 1: Number]]% Asset Backed Notes, $[[USD Value 2: Number]] Class A-2 [[Percentage 2: Number]]% Asset Backed Notes and $[[USD Value 3: Number]] Class A-3 [[Percentage 3: Number]]% Asset Backed Notes (collectively, the “Notes”) of the Trust or provision being made for payments of the Notes prior to maturity. Although the Premium (as defined below) is fully earned by Assured Guaranty as of the Closing Date, the Premium shall be payable in periodic installments as provided herein. Capitalized terms used herein but not defined herein shall have the meanings specified in the Sale and Servicing Agreement dated as of [[Date 2: Date]] (the “Sale and Servicing Agreement”), among the Seller, the Trust, the Servicer and [[Organization 1 Name]], National Association, as Backup Servicer and Trust Collateral Agent (the “Trust Collateral Agent”). 
+
+The payments payable pursuant to the terms hereof (except as otherwise noted) shall constitute the “Premium” referred to in that certain Insurance and Indemnity Agreement dated as of [[Date 2]] (the “Insurance Agreement”), among the Trust, Assured Guaranty, [[Organization 5 Name]], Inc., as Servicer (the “Servicer”), [[Organization 2 Name]], as Seller (the “Seller”) and the Company. This letter is the Premium Letter referred to in the Insurance Agreement. The obligations of the Company and the Seller hereunder constitute obligations of the Company and the Seller under the Insurance Agreement. Reference is also made to the Spread Account Agreement dated as of [[Date 2]] (the “Spread Account Agreement”), among the Trust, Assured Guaranty and [[Organization 1 Name]], National Association, as Trustee and Collateral Agent, which contains certain defined terms used herein. The obligations of the Trust Collateral Agent hereunder constitute the obligations of the Trust Collateral Agent under the Sale and Servicing Agreement. 
+
+\centered EXPECTED CLOSING DATE: [[Date 1]] 
+
+**Payee**      \centered **Amount**      \centered **Type of Payment**      \centered **Re:**
+
+Assured Guaranty      $   100,000.00      Wire transfer      Premium
+Assured Guaranty      $   7,500.00      Wire transfer      Out-of-pocket Due Diligence Expenses
+Assured Guaranty      $   4,000.00      Wire transfer      Accountant’s Fees
+Assured Guaranty      $   75,000.00      Wire transfer      Legal Fees
+Assured Guaranty      $   45,000.00      Wire transfer      Third-Party Operational Audit
+Total:      $   231,500.00
+
+The Premium payable pursuant hereto shall be calculated and payable monthly in advance on the Distribution Date (as defined in the Sale and Servicing Agreement) in each month, and the payment on each such Distribution Date shall be in an amount equal to 4.1667 basis points (50 basis points *per annum* or [[Percentage 4: Number]]% per month) multiplied by the aggregate outstanding principal balance of the Notes outstanding on such date (after giving effect to payments of principal made on such date) (the “Note Balance” as of such date) provided that the initial payment of Premium shall be an amount, covering the period from [[Date 1]] through but excluding [[Date 3: Date]] that is equal to $[[USD Value 4: Number]]. Such initial payment of Premium, together with the Out-of-pocket Due Diligence Expenses of Assured Guaranty, the Accountant’s Fees, the Legal Fees and the Third-Party Operational Audit specified in the table above ($[[USD Value 5: Number]] in the aggregate) shall be paid by the Company to Assured Guaranty on [[Date 1]] (the “Closing Date”). 
+
+For the purposes of calculating the Premium (including the Premium Supplement, if any) the Note Balance shall have the respective meanings specified above, except that the Note Balance shall not be reduced by distributions of principal made with proceeds of the Policy. 
+
+If an Event of Default occurs and is continuing under the Insurance Agreement, Assured Guaranty will be entitled on each Distribution Date to a Premium Supplement, in addition to the premium described in the second preceding paragraph, equal to 4.1667 basis points (50 basis points per annum or [[Percentage 4]]% per month) multiplied by the Note Balance on such date (after giving effect to payments of principal made on such date). 
+
+PREMIUM LETTER     
+
+Payments of Premium (including any Premium Supplement) shall be made by Federal funds wire transfers to Assured Guaranty with the following details specifically stated on the wire instructions, unless another account is designated to you in writing by a Managing Director of Assured Guaranty: 
+
+Bank: [[Organization 6 Name]] 
+
+ABA #: 021-000-021 
+
+For the Account of: Assured Guaranty Corp. 
+
+Account #: [[Phone 1]] 
+
+Re: [[Organization 4 Name]] 2010-A 
+
+Policy Number: D-2010-66 
+
+PREMIUM LETTER     
+
+This letter may be executed in any number of counterparts, each of which so executed shall be deemed an original and all of which taken together shall constitute but one letter. 
+
+Very truly yours,
+
+ASSURED GUARANTY CORP.
+
+[[ASSURED GUARANTY CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ASSURED GUARANTY CORP. Entity => By: [[ASSURED GUARANTY CORP. Signatory First Name]] [[ASSURED GUARANTY CORP. Signatory Last Name]]
+Title: [[ASSURED GUARANTY CORP. Signatory Title]]}}
+
+Authorized Officer
+
+Agreed to and accepted by:
+
+[[Organization 3 Name]]
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+
+[[Organization 2 Name]]
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+[[Organization 1 Name]], NATIONAL ASSOCIATION, not in its individual capacity but solely as Trust Collateral Agent
+
+[[[[Organization 1 Name]] not in its individual capacity but solely as Trust Collateral Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] not in its individual capacity but solely as Trust Collateral Agent Entity => By: [[[[Organization 1 Name]] not in its individual capacity but solely as Trust Collateral Agent Signatory First Name]] [[[[Organization 1 Name]] not in its individual capacity but solely as Trust Collateral Agent Signatory Last Name]]
+Title: [[[[Organization 1 Name]] not in its individual capacity but solely as Trust Collateral Agent Signatory Title]]}}
+
+
+PREMIUM LETTER
+
+[[Organization 4 Name]] 2010-A
+[[[[Organization 4 Name]] 2010-A Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] 2010-A Entity => By: [[[[Organization 4 Name]] 2010-A Signatory First Name]] [[[[Organization 4 Name]] 2010-A Signatory Last Name]]
+Title: [[[[Organization 4 Name]] 2010-A Signatory Title]]}}
+
+
+[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
+
+
+PREMIUM LETTER     

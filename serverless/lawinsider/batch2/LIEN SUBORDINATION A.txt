@@ -1,0 +1,368 @@
+\centered LIEN SUBORDINATION AND INTERCREDITOR AGREEMENT 
+
+\centered dated as of 
+
+\centered [[Date 1: Date]], 
+
+\centered among 
+
+\centered [[Organization 1 Name]], 
+
+\centered as Credit Facilities Collateral Agent, 
+
+\centered **[[Organization 2 Name]]** 
+
+\centered as Note Collateral Agent 
+
+\centered and 
+
+\centered [[Organization 3 Name]] 
+
+\centered and the other Grantors named herein 
+
+LIEN SUBORDINATION AND INTERCREDITOR AGREEMENT dated as of [[Date 1]], between [[Organization 1 Name]],  as collateral agent for the Credit Facility Secured Parties referred to herein; [[Organization 2 Name]], as collateral agent for the Note Secured Parties referred to herein; [[Organization 3 Name]]; and the other Grantors named herein. 
+
+Reference is made to (a) the Credit Agreement (such term, and each other capitalized term used and not otherwise defined herein, having the meaning assigned to it in Article I), under which the Lenders referred to therein have extended and agreed to extend credit to the Company, and (b) the Note Indenture, under which the Company proposes to issue the Notes. The issuance of the Notes and the creation of the Liens provided for in the Note Security Documents require the execution and delivery of this Agreement. In consideration of the amendment of the Credit Agreements to permit the issuance of the Notes, the purchase of the Notes by the purchasers thereof, the mutual agreements herein contained and other good and valuable consideration, the receipt of which is hereby acknowledged, the Credit Facilities Collateral Agent (for itself and on behalf of the Credit Facilities Secured Parties), the Note Collateral Agent (for itself and on behalf of the Note Secured Parties), the Company and the subsidiaries of the Company named herein agree as follows: 
+
+^\centered Definitions 
+
+^Construction; Certain Defined Terms. (a) The definitions of terms herein shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation”. The word “will” shall be construed to have the same meaning and effect as the word “shall”. Unless the context requires otherwise, (i) any definition of or reference to any agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified, (ii) any reference herein to any person shall be construed to include such person’s successors and assigns, but shall not be deemed to include the subsidiaries of such person unless express reference is made to such subsidiaries, (iii) the words “herein”, “hereof and “hereunder”, and words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (iv) all references herein to Articles and Sections shall be construed to refer to Articles and Sections of this Agreement and (v) the words “asset” and “property” shall be construed to have the same meaning and effect and to refer to any and all tangible and intangible assets and properties, including cash, securities, accounts and contract rights. 
+
+^^As used in this Agreement, the following terms have the meanings specified below: 
+
+“Accession Agreement” means an accession agreement in substantially the form of Annex I hereto under which a collateral agent or similar Representative of Designated Senior Obligations shall become a party hereto and the Designated Senior Obligations Collateral Agent for such Designated Senior Obligations hereunder. 
+
+“Bankruptcy Code” means Title 11 of the U.S. Code. 
+
+“Collateral” means the Credit Facilities Collateral, the Designated Senior Obligations Collateral and the Note Collateral. 
+
+“Collateral Agent” means any of the Credit Facilities Collateral Agent, any Designated Senior Obligations Collateral Agent and the Note Collateral Agent. 
+
+“Company” means [[Organization 3 Name]], a Delaware corporation. 
+
+“Credit Agreement” means the Amended and Restated Credit Agreement dated as of [[Date 1]], as amended, extended, renewed, restated, supplemented or otherwise modified from time to time, among the Company, the Lenders party thereto, and [[Organization 1 Name]], as Administrative Agent. 
+
+“Credit Facilities Collateral” means all “Collateral”, as defined in the Pledge and Security Agreement, securing any Credit Facilities Obligations, and any other assets or properties of the Company or any subsidiaries of the Company now or at any time hereafter subject to Liens securing any Credit Facilities Obligations. 
+
+“Credit Facilities Collateral Agent” means [[Organization 1 Name]], in its capacity as Administrative Agent under the Credit Agreement and the Credit Facilities Security Documents, and its successors and assigns in such capacity. 
+
+“Credit Facilities Obligations” means all “Obligations” as such term is defined in the Credit Agreement. 
+
+“Credit Facilities Secured Parties” means, at any time, each person that is a “Secured Party” under and as defined in the Credit Agreement. 
+
+“Credit Facilities Security Documents” means the Pledge and Security Agreement, the other “Security Documents”, as defined in the Credit Agreement, and any other documents now existing or entered into after the date hereof that create Liens on any assets or properties of the Company or any subsidiaries of the Company to secure any Credit Facilities Obligations. 
+
+“Designated Senior Obligations” means all obligations of the Company or any subsidiaries of the Company that shall have been designated as such in accordance with Article III. 
+
+“Designated Senior Obligations Collateral” means any assets or properties of the Company or any subsidiaries of the Company now or at any time hereafter subject to Liens securing any Designated Senior Obligations. 
+
+“Designated Senior Obligations Collateral Agent” means, with respect to any Designated Senior Obligations, any collateral agent or similar Representative appointed to act on behalf of the applicable Designated Senior Obligations Secured Parties with respect to the Designated Senior Obligations Collateral securing such Designated Senior Obligations; provided, that if no such collateral agent or other Representative shall have been so appointed by the applicable Designated Senior Obligations Secured Parties, then the Designated Senior Obligations Collateral Agent with respect to such Designated Senior Obligations will be deemed to be such Designated Senior Obligations Secured Parties. 
+
+“Designated Senior Obligations Governing Documents” means, as to any Designated Senior Obligations, the credit agreement, note agreement, indenture or other instrument or document under which such Designated Senior Obligations shall have been issued or incurred. 
+
+“Designated Senior Obligations Secured Parties” means, at any time, each holder of, or obligee in respect of, any Designated Senior Obligations outstanding at such time. 
+
+“Designated Senior Obligations Security Documents” means any documents entered into after the date hereof that create Liens on any assets or properties of the Company or any subsidiaries of the Company to secure any Designated Senior Obligations. 
+
+“Discharge of Senior Obligations” means payment in full in cash of the principal of and interest and premium, if any, on all Debt (as defined in the Credit Agreement) (or any corresponding definition in any Designated Senior Obligations Governing Documents) constituting Senior Obligations secured by any Collateral, or, with respect to all obligations under each Hedging Arrangement (as defined in the Credit Agreement) (or any corresponding definition in any Designated Senior Obligations Governing Documents) constituting Senior Obligations secured by any Collateral, delivery of cash collateral or backstop letters of credit in respect thereof in compliance with the terms of such Senior Obligation, in each case after or concurrently with termination of all commitments to extend credit thereunder, and payment in full of any other obligations in respect of any Senior Obligation secured by any Collateral that are due and payable or otherwise accrued and owing at or prior to the time such principal, interest and premium, if any, are paid. 
+
+“Grantor” means the Company and each subsidiary of the Company that shall have created any Senior Lien or Junior Lien on its assets or properties to secure any Senior Obligations or Note Obligations. 
+
+“Junior Collateral Agent” means the Note Collateral Agent. 
+
+“Junior Liens” means Liens created under Junior Obligations Security Documents securing Junior Obligations. 
+
+“Junior Lien Pledge and Security Agreement” means the Junior Lien Pledge and Security Agreement dated as of [[Date 1]], among the Company, certain subsidiaries of the Company and the Note Collateral Agent, as amended, extended, renewed, restated, supplemented or otherwise modified from time to time. 
+
+“Junior Obligations” means the Note Obligations. 
+
+“Junior Obligations Collateral” means the Note Collateral. 
+
+“Junior Obligations Secured Parties” means the Note Secured Parties. 
+
+“Junior Obligations Security Documents” means the Note Security Documents. 
+
+“Lien” means any pledge, security interest, mortgage or other lien or encumbrance created to secure any indebtedness or other obligation. 
+
+“Note Collateral” means the “Collateral”, as defined in the Note Indenture, and any other assets or properties of the Company or any subsidiaries of the Company now or at any time hereafter subject to Liens securing any Note Obligations. 
+
+“Note Collateral Agent” means [[Organization 2 Name]], in its capacity as Collateral Agent under the Note Indenture and the Note Security Documents, and its successors and assigns in such capacity. 
+
+“Note Indenture” means the Indenture dated as of [[Date 1]], among the Company, as Issuer, the Guarantors (as defined therein) party thereto and [[Organization 2 Name]], as Trustee, as amended and supplemented by the First Supplemental Indenture dated as of [[Date 1]] among the Company, as Issuer, the Guarantors (as defined therein) party thereto and [[Organization 2 Name]], as Trustee (the “First Supplemental Note Indenture”) and as further amended, extended, renewed, restated, supplemented or otherwise modified from time to time. 
+
+“Note Obligations” means (a) the due and punctual payment of (i) the principal of and interest (including interest accruing during the pendency of any bankruptcy, insolvency, receivership or other similar proceeding, regardless of whether allowed or allowable in such proceeding) on the Notes, when and as due, whether at maturity, by acceleration, upon one or more dates set for prepayment or otherwise, (ii) all other monetary obligations of the Company or any subsidiaries of the Company to any of the Note Secured Parties under the Note Indenture or any Note Security Document, including fees, costs, expenses and indemnities, whether primary, secondary, direct, contingent, fixed or otherwise (including monetary obligations incurred during the pendency of any bankruptcy, insolvency, receivership or other similar proceeding, regardless of whether allowed or allowable in such proceeding) and (iii) all amounts due under any guarantee of any of the foregoing, including any guarantee contained in the Note Indenture, and (b) the due and punctual performance of all other obligations of the Company or any subsidiaries of the Company to any of the Note Secured Parties under the Note Indenture or any Note Security Document. 
+
+“Note Secured Parties” means, at any time, the Trustee, the Note Collateral Agent and each other holder of, or obligee in respect of, any Note Obligations outstanding at such time. 
+
+“Note Security Documents” means the Junior Lien Pledge and Security Agreement, the other “Security Documents”, as defined in the First Supplemental Note Indenture, and any other documents now existing or entered into after the date hereof that create Liens on any assets or properties of the Company or any subsidiaries of the Company to secure any Note Obligations. 
+
+“Notes” means up to $[[USD Value 1: Number]] aggregate principal amount of the Company’s [[Percentage 1: Number]]% Convertible Senior Secured Notes due 2028, issued on or about the date of this Agreement pursuant to the Note Indenture, and any other notes issued from time to time under the Note Indenture. 
+
+“Pledge and Security Agreement” means the Amended and Restated Pledge and Security Agreement dated as of [[Date 1]], among the Company, certain subsidiaries of the Company and the Credit Facilities Collateral Agent, as amended, extended, renewed, restated, supplemented or otherwise modified from time to time. 
+
+“Representative” means (a) in the case of any Credit Facility Obligations, the Administrative Agent under the Credit Agreement or the Credit Facilities Collateral Agent, (b) in the case of the Note Obligations, the Trustee or the Note Collateral Agent, and (c) in the case of any Designated Senior Obligations, any administrative agent, trustee or similar representative designated pursuant to Article III or the applicable Designated Senior Obligations Collateral Agent. 
+
+“Secured Parties” means the Credit Facilities Secured Parties, the Designated Senior Obligations Secured Parties and the Note Secured Parties. 
+
+“Senior Collateral Agent” means the Credit Facilities Collateral Agent and each Designated Senior Obligations Collateral Agent. 
+
+“Senior Obligations” means the Credit Facilities Obligations and the Designated Senior Obligations. 
+
+“Senior Obligations Collateral” means the Credit Facilities Collateral and the Designated Senior Obligations Collateral. 
+
+“Senior Obligations Secured Parties” means the Credit Facilities Secured Parties and the Designated Senior Obligations Secured Parties. 
+
+“Senior Obligations Security Documents” means the Credit Facilities Security Documents and the Designated Senior Obligations Security Documents. 
+
+“Senior Liens” means Liens created under Senior Obligations Security Documents securing Senior Obligations. 
+
+“subsidiary” means, with respect to any Person (the “parent”) at any date, any corporation, limited liability company, partnership, association or other entity the accounts of which are consolidated with those of the parent in the parent’s consolidated financial statements in accordance with GAAP as of such date, as well as any other corporation, limited liability company, partnership, association or other entity (a) of which securities or other ownership interests representing more than [[Percentage 2: Number]]% of the equity or more than [[Percentage 2]]% of the ordinary voting power or, in the case of a partnership, more than [[Percentage 2]]% of the general partnership interests are, as of such date, owned, controlled or held by, or (b) that is, as of such date, otherwise subject to the control by (through possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such person, whether through the ability to exercise voting power, by contract or otherwise), the parent or one or more subsidiaries of the parent or by the parent and one or more subsidiaries of the parent. 
+
+^\centered Subordination of Junior Liens 
+
+^Subordination of Junior Liens. (a) All Junior Liens in respect of any Collateral are expressly subordinated and made junior in right, priority, operation and effect to any and all Senior Liens in respect of such Collateral, notwithstanding anything contained in this Agreement, the Note Indenture, any Junior Obligations Security Document or any other agreement or instrument to the contrary, and irrespective of the time, order or method of creation, attachment or perfection of such Junior Liens and Senior Liens or any defect or deficiency or alleged defect or deficiency in any of the foregoing. 
+
+^^It is acknowledged that (i) the aggregate amount of the Senior Obligations may be increased as provided in Article III or through increases in the amounts of the facilities established by the Credit Agreement or the Designated Senior Obligations Governing Documents (subject to the limitations set forth in the Note Indenture), (ii) a portion of the Senior Obligations consists or may consist of Indebtedness that is revolving in nature, and the amount thereof that may be outstanding at any time or from time to time may be increased or reduced and subsequently reborrowed and (iii) the Senior Obligations may be extended, renewed or otherwise amended or modified, or secured with additional Collateral, from time to time, all without affecting the subordination of the Junior Liens hereunder or the provisions of this Agreement defining the relative rights of the Senior Obligations Secured Parties and the Junior Obligations Secured Parties. The lien priorities provided for herein shall not be altered or otherwise affected by any amendment, modification, supplement, extension, increase, replacement, renewal, restatement or refinancing of either the Junior 
+
+Obligations or the Senior Obligations, by the securing of any Senior Obligations with any additional Collateral or guarantees, by the release of any Collateral or Guarantees securing any Senior Obligations, by the failure of any person to comply with any provision of this Agreement or any agreement evidencing, governing or securing any Senior Obligation or Junior Obligation or by any action that any Collateral Agent or Secured Party may take or fail to take in respect of any Collateral. 
+
+^^It is further acknowledged that the holders of Senior Obligations of one or more classes may from time to time hereafter enter into agreements establishing the relative priorities of such classes of Senior Obligations or of the Senior Liens securing the same. It is agreed that the relative priorities of classes of Senior Obligations shall be governed by the foregoing agreements or, to the extent not determined by such agreements, by applicable law, and that nothing in this Agreement shall affect such relative priorities of classes of Senior Obligations or the related Senior Liens. It is further agreed that no agreements establishing the relative priorities of Senior Obligations of one or more classes or of the Senior Liens securing such Senior Obligations shall in any way limit or affect the subordination of the Junior Liens provided for in this Agreement or the provisions of this Agreement defining the relative rights of the Senior Obligations Secured Parties and the Junior Obligations Secured Parties. 
+
+^^It is further acknowledged that (subject to the limitations set forth in the Note Indenture) the Senior Obligations are or may in the future be secured by Liens on collateral other than the Collateral subject to the Junior Liens. It is agreed that no Senior Collateral Agent will have any obligation to proceed against any such other collateral securing the Senior Obligations or to exercise any other remedies available to them as a condition to obtaining the benefits of this Article II. 
+
+^^The Note Collateral Agent confirms that the Note Indenture and the Note Security Documents contain provisions substantially to the effect set forth in Annex II hereto under which the Note Secured Parties agree to, and subject their rights to the provisions of, this Agreement. 
+
+^No Action With Respect to Junior Obligations Collateral Subject to Senior Liens. No Junior Collateral Agent or other Junior Obligations Secured Party shall commence or instruct the Junior Collateral Agent to commence any judicial or nonjudicial foreclosure proceedings with respect to, seek to have a trustee, receiver, liquidator or similar official appointed for or over, attempt any action to take possession of, exercise any right, remedy or power with respect to, or otherwise take any action to enforce its interest in or realize upon, or take any other action available to it in respect of, any Junior 
+
+Obligations Collateral under any Junior Obligations Security Document, applicable law or otherwise, at any time when such Junior Obligations Collateral shall be subject to any Senior Lien and prior to the Discharge of Senior Obligations, it being agreed that only the applicable Senior Collateral Agent, acting in accordance with the applicable Senior Obligations Security Documents, shall be entitled to take any such actions or exercise any such remedies. Notwithstanding the foregoing or anything to the contrary provided in Section 2.06, the Junior Collateral Agent may, subject to Section 2.05, (i) take all such actions as it shall deem necessary to continue the perfection of the Junior Liens on any Junior Obligations Collateral, (ii) file a claim or statement of interest with respect to the Junior Obligations in any bankruptcy, insolvency or similar proceeding or (iii) take any other action not adverse to the Senior Liens in order to preserve or protect its rights in the Junior Liens on the Collateral for the benefit of the Junior Obligations Secured Parties. 
+
+^No Duties of Senior Collateral Agents. Each Junior Obligations Secured Party acknowledges and agrees that no Senior Collateral Agent or other Senior Obligations Secured Party shall have any duties or other obligations to such Junior Obligations Secured Party with respect to any Senior Obligations Collateral, other than to transfer to the Junior Collateral Agent any proceeds of any such Collateral that constitutes Junior Obligations Collateral remaining in its possession following any sale, transfer or other disposition of such Collateral and the Discharge of Senior Obligations, or, if any Senior Collateral Agent shall be in possession of all or any part of such Collateral after the Discharge of Senior Obligations, such Collateral or any part thereof remaining, in each case without representation or warranty on the part of such Senior Collateral Agent or any Senior Obligations Secured Party (it being understood that nothing herein shall prohibit any Senior Collateral Agent from transferring Collateral or proceeds of Collateral to the holders of other Senior Obligations secured by such Collateral or to another Senior Collateral Agent acting on their behalf to the extent it is required to do so under the terms of any agreement). In furtherance of the foregoing, each Junior Obligations Secured Party acknowledges and agrees that until the Discharge of Senior Obligations, the applicable Senior Collateral Agents shall be entitled, for the benefit of the holders of such Senior Obligations, to sell, transfer or otherwise dispose of or deal with such Collateral as provided herein and in the Credit Facilities Security Documents or the Designated Senior Obligations Security Documents, as the case may be, without regard to any Junior Lien or any rights to which the holders of the Junior Obligations would otherwise be entitled as a result of such Junior Lien. Without limiting the foregoing, each Junior Obligations Secured Party agrees that no Senior Collateral Agent or other Senior Obligations Secured Party shall have any duty or obligation first to marshall or realize upon any type of Collateral (or any other collateral securing the Senior Obligations), or to sell, dispose of or otherwise liquidate all or any portion of the Collateral (or any other collateral securing the Senior Obligations), in any manner that would maximize the return to the Junior Obligations Secured Parties, notwithstanding that the order and timing of any such realization, sale, disposition or liquidation may affect the amount of proceeds actually received by the Junior Obligations Secured Parties from such realization, sale, disposition or liquidation. Each of the Junior Obligations Secured Parties waives any claim such Junior Obligations Secured Party may now or hereafter have against any Senior Collateral Agent or other Senior Obligations Secured Party (or their representatives) arising out of (i) any actions which any Senior Collateral Agent or the Senior Obligations Secured Parties take or omit to take (including, without limitation, actions with respect to the creation, perfection or continuation of Liens on any Collateral, actions with respect to the foreclosure upon, sale, release or depreciation of, or failure to realize upon, any of the Collateral and actions with respect to the collection of any claim for all or any part of the Senior Obligations from any account debtor, guarantor or any other party) in accordance with the respective Senior Obligations Security Documents or any other agreement related thereto or to the collection of the Senior Obligations or the valuation, use, protection or release of any security for the Senior Obligations, (ii) any election by any Senior Collateral Agent or Senior Obligations Secured Parties, in any proceeding instituted under the Bankruptcy Code, of the application of Section 1111(b) of the Bankruptcy Code and/or (iii) any borrowing of any Grantor as debtor-in-possession, or any related grant of a security interest or administrative expense priority under Section 364 of the Bankruptcy Code. 
+
+^No Interference; Payment Over; Reinstatement. (a) Each Junior Obligations Secured Party agrees that (i) it will not take or cause to be taken any action the purpose or effect of which is, or could be, to make any Junior Lien pari passu with, or to give such Junior Obligations Secured Party any preference or priority relative to, any Senior Lien with respect to the Collateral subject to such Junior Lien or any part thereof, (ii) it will not challenge or question in any proceeding the validity or enforceability of any Senior Obligations or Senior Obligations Security Document, or the validity, attachment, perfection or priority of any Senior Lien, or the validity or enforceability of the priorities, rights or duties established by or other provisions of this Agreement, (iii) it will not interfere, hinder or delay, in any manner, whether by judicial proceedings or otherwise, any sale, transfer or other disposition of the Collateral subject to such Junior Lien by any holders of Senior Obligations secured by such Collateral or any Senior Collateral Agent acting on their behalf, (iv) it shall have no right to (A) direct any Senior Collateral Agent or any holder of Senior Obligations to exercise any right, remedy or power with respect to the Collateral subject to any Junior Lien or (B) consent to the exercise by any Senior Collateral Agent or any holder of Senior Obligations of any right, remedy or power with respect to the Collateral subject to any Junior Lien, (v) it will not institute any suit or assert in any suit, bankruptcy, insolvency or other proceeding any claim against any Senior Collateral Agent or any holder of Senior Obligations seeking damages from or other relief by way of specific performance, instructions or otherwise with respect to, and neither any Senior Collateral Agent nor any holder of Senior Obligations shall be liable for, any action taken or omitted to be taken by such Senior Collateral Agent or any such holder of Senior Obligations with respect to any Collateral securing such Senior Obligations that is subject to any Junior Lien, (vi) it will not seek, and hereby waives any right, to have any Senior Obligations Collateral subject to any Junior Lien or any part thereof marshaled upon any foreclosure or other disposition of such Collateral and (vii) it will not attempt, directly or indirectly, whether by judicial proceedings or otherwise, to challenge the enforceability of any provision of this Agreement. 
+
+^^The Junior Collateral Agent and each other Junior Obligations Secured Party hereby agrees that if it shall obtain possession of any Senior Obligations Collateral, or shall realize any proceeds or payment in respect of any such Collateral, whether pursuant to any Junior Obligations Security Document or by the exercise of any rights available to it under applicable law or in any bankruptcy, insolvency or similar proceeding or otherwise, at any time prior to the Discharge of Senior Obligations, then it shall hold such Collateral, proceeds or payment in trust for the applicable Senior Obligations Secured Parties and transfer such Collateral, proceeds or payment, as the case may be, to the applicable Senior Collateral Agent. Each Junior Obligations Secured Party agrees that if, at any time, all or part of any payment with respect to any Senior Obligations previously made shall be rescinded for any reason whatsoever, such Junior Obligations Secured Party shall promptly pay over to the applicable Senior Collateral Agent any payment received by it in respect of any Collateral subject to any Senior Lien securing such Senior Obligations and shall promptly turn any Collateral subject to any such Senior Lien then held by it over to the applicable Senior Collateral Agent, and the provisions set forth in this Agreement shall be reinstated as if such payment had not been made, until the Discharge of Senior Obligations. 
+
+^Automatic Release of Junior Liens. The Junior Collateral Agent and each other Junior Obligations Secured Party agrees that, in the event of a sale, transfer or other disposition of Senior Obligations Collateral subject to any Junior Lien to a person or entity that is not the Company or a subsidiary of the Company, such Junior Lien on such Collateral (but not on the proceeds thereof, except to the extent such proceeds are applied to repay any Senior Obligations) shall terminate and be released automatically and without further action if the applicable Senior Liens on such Collateral are released. Each Junior Collateral Agent agrees to execute and deliver all such releases and other instruments as shall reasonably be requested by any applicable Senior Collateral Agent to evidence and confirm any release of Junior Obligations Collateral provided for in this Section. 
+
+^Certain Agreements With Respect to Bankruptcy or Insolvency Proceedings. In the event a proceeding under the Bankruptcy Code or any other Federal, state or foreign bankruptcy, insolvency, receivership or similar law shall be commenced by or against any Grantor, each Junior Collateral Agent and the other Junior Obligations Secured Parties shall not, prior to the Discharge of Senior Obligations, (a) seek in respect of any part of the Collateral or proceeds thereof or any Lien which may exist thereon any relief from or modification of the automatic stay as provided in Section 362 of the Bankruptcy Code or seek or accept any form of adequate protection under either or both Sections 362 and 363 of the Bankruptcy Code with respect thereto except replacement liens junior to the Senior Liens and the accrual (but not the current payment) of interest and the current payment of out-of-pocket expenses, including fees and disbursements of counsel and other professional advisors, incurred by the Junior Collateral Agents (which the Junior Obligations Secured Parties agree will constitute adequate protection of their claims and interests), (b) oppose or object to any adequate protection sought by or granted to any Senior Obligations Secured Party in connection with the use of cash collateral or post-petition financing under Section 362, 363 or 364 of the Bankruptcy Code, (c) oppose or object to the use of cash collateral by a Grantor, (d) oppose or object to any post-petition financing (including any debtor-in-possession financing) provided by any of the Senior Obligations Secured Parties or provided by a third party pursuant to Section 364 of the Bankruptcy Code (including on a priming basis), (e) oppose or object to or withhold consent from the disposition of assets by any Grantor under Section 363(b) or (f) of the Bankruptcy Code, (f) oppose, object to, or vote against any plan of reorganization or disclosure statement the terms of which are consistent with the rights of the Senior Obligations Secured Parties under the Senior Obligations Security Documents and the rights of the Senior Obligations Secured Parties and the Junior Obligations Secured Parties under this Agreement, (g) make an election pursuant to Section 1111(b) of the Bankruptcy Code or oppose any election pursuant to Section 1111(b) by any Senior Obligations Secured Parties, (h) oppose or object to the determination of the extent of any Liens held by any of the Senior Obligations Secured Parties or the value of any claims of Senior Obligations Secured Parties under Section 506(a) of the Bankruptcy Code, or (i) oppose or object to the payment of interest and expenses as provided under Sections 506(b) and (c) of the Bankruptcy Code to any Senior Obligations Secured Parties. In any proceeding described in this Section, until the Discharge of Senior Obligations, each Junior Obligations Secured Party hereby authorizes and empowers (without imposing an obligation on) the holders of such Senior Obligations or any Senior Collateral Agent or other Representative acting on their behalf to vote such Junior Obligations Secured Party’s share of the Junior Obligations secured by such Junior Lien, insofar as any such voting right arises from or relates to such Junior Lien or to the Collateral subject thereto, in connection with any resolution, arrangement, plan of reorganization, compromise or settlement relating to such Collateral, so long as the proposal is consistent with the rights of the Senior Obligations Secured Parties under the Senior Obligations Security Documents and the rights of the Senior Obligations Secured Parties and the Junior Obligations Secured Parties under this Agreement. Notwithstanding the foregoing, any Junior Collateral Agent may take the actions contemplated by the last sentence of Section 2.02 hereof. 
+
+^Reinstatement. In the event that any of the Senior Obligations shall be paid in full and such payment or any part thereof shall subsequently, for whatever reason (including, but not limited to, an order or judgment for disgorgement of a preference under Title 11 of the United Stated Code, or any similar law, or the settlement of any claim in respect thereof), be required to be returned or repaid, the terms and conditions of this Article II shall be fully applicable thereto until all such Senior Obligations shall again have been paid in full in cash. 
+
+^\centered Designated Senior Obligations 
+
+^Designation. The Company may from time to time, subject to any limitations contained in the Credit Agreement, any then existing Designated Senior Obligations Governing Documents and the Note Indenture, designate additional obligations that are, or are to be, secured by Liens on any assets or properties of the Company or any subsidiaries of the Company as Designated Senior Obligations by delivering to each Collateral Agent a notice: 
+
+^^^describing the obligations being designated as Designated Senior Obligations, and including a statement of the maximum aggregate outstanding principal amount of such obligations; 
+
+^^^listing the Designated Senior Obligations Governing Documents under which such Designated Senior Obligations are issued or incurred and the Designated Senior Obligations Security Documents securing such Designated Senior Obligations, and attaching copies of such Designated Senior Obligations Governing Documents and Designated Senior Obligations Security Documents; 
+
+^^^identifying the Designated Senior Obligations Collateral Agent with respect to such Designated Senior Obligations, and any other Representative of the holders of such Designated Senior Obligations; 
+
+^^^certifying that the incurrence of such Designated Senior Obligations, the creation of the Liens securing such Designated Senior Obligations and the designation of such Designated Senior Obligations as Designated Senior Obligations hereunder do not violate or result in a default under any provision of any Credit Agreement, any then existing Designated Senior Obligations Governing Document or the Note Indenture; 
+
+^^^certifying that the Designated Senior Obligations Governing Document governing such Designated Senior Obligations contains provisions under which the related Designated Senior Obligations Secured Parties agree, or are deemed to agree, to be bound by the provisions of this Agreement; and 
+
+^^^attaching a fully executed Accession Agreement under which the Designated Senior Obligations Collateral Agent with respect to such Designated Senior Obligations shall become a party to and a Collateral Agent under this Agreement (unless such Designated Senior Obligations Collateral Agent shall already be a party hereto). 
+
+Upon the delivery of such notice and the related attachments as provided above, the obligations designated in such notice shall become Designated Senior Obligations for all purposes of this Agreement. Notwithstanding any other provision contained in this Section or elsewhere in this Agreement, no obligation shall constitute a Designated Senior Obligation if the incurrence of such obligation, the creation of the Liens securing such obligation or the designation of such obligation as a Designated Senior Obligation hereunder would violate or result in a default under any provision of any Credit Agreement, any existing Designated Senior Obligations Governing Document or the Note Indenture. 
+
+Each Senior Collateral Agent agrees that if it shall at any time hold a Senior Lien on any Junior Obligations Collateral that can be perfected by the possession or control of such Collateral or of any account in which such Collateral is held, and if such Collateral or any such account is in fact in the possession or under the control of such Senior Collateral Agent, such Senior Collateral Agent will serve as sub-agent for each Junior Collateral Agent for the sole purpose of perfecting the Junior Lien of such Junior Collateral Agent in such Collateral. It is agreed that the obligations of the applicable Senior Collateral Agent and the rights of the Junior Collateral Agents and the other Junior Secured Parties in connection with any such sub-agency arrangement will be in all respects subject to the provisions of Article II. The Senior Collateral Agent will be deemed to make no representation as to the adequacy of the steps taken by it to perfect the Junior Lien on any such Collateral and shall have no responsibility to any Junior Collateral Agent or other Junior Secured Party for such perfection, it being understood that the sole purpose of this Article is to enable the Junior Secured Parties to obtain a perfected Junior Lien in such Collateral to the extent, if any, that such perfection results from the possession or control of such Collateral or any such account by the Senior Collateral Agent. Upon the Discharge of Senior Obligations with respect to Senior Obligations secured by the Senior Lien of any Senior Collateral Agent, such Senior 
+
+Collateral Agent shall take all such actions in its power as shall reasonably be requested by the Junior Collateral Agent to transfer possession or control of such Collateral or any such account to the Junior Collateral Agent; provided, that if any such Collateral or any such account shall be subject to any other Senior Lien, then such Senior Collateral Agent shall instead transfer such possession or control of such Collateral or such account to the Senior Collateral Agent holding such Senior Lien. The Junior Collateral Agent agrees that if it shall obtain possession or control of any Collateral or any account pursuant to the foregoing provisions and such Collateral or account shall thereafter become subject to any Senior Lien, it will take all such actions in its power as shall reasonably be requested by the Senior Collateral Agent holding such Senior Lien to transfer possession or control of such Collateral or such account to such Senior Collateral Agent. 
+
+^\centered Existence and Amounts of Liens and Obligations 
+
+Whenever any Collateral Agent shall be required, in connection with the exercise of its rights or the performance of its obligations hereunder, to determine the existence or amount of any Senior Obligations or Junior Obligations, or the existence of any Lien securing any such obligations, or the Collateral subject to any such Lien, it may request that such information be furnished to it in writing by the Representative of such Senior Obligations or Junior Obligations and shall be entitled to make such determination on the basis of the information so furnished; provided, however, that if, notwithstanding the request of such Collateral Agent, such Representative shall fail or refuse reasonably promptly to provide the requested information, such Collateral Agent shall be entitled to determine such existence or amount by such method as it may, in the exercise of its good faith judgment, determine, including by reliance upon a certificate of the Company. Each Collateral Agent may rely conclusively, and shall be fully protected in so relying, on any determination made by it in accordance with the provisions of the preceding sentence (or as otherwise directed by a court of competent jurisdiction) and shall have no liability to the Company or any of its subsidiaries, any Secured Party or any other person as a result of such determination. 
+
+^\centered Consent of Grantors 
+
+Each Grantor hereby consents to the provisions of this Agreement and the intercreditor arrangements provided for herein and agrees (a) that no Collateral Agent or other Secured Party shall have any liability to any Grantor as a result of the performance of its obligations hereunder and (b) that the obligations of the Grantors under the Senior Obligations Security Documents will in no way be diminished or otherwise affected by the provisions or arrangements provided for herein. Each Grantor also hereby confirms its respective guarantees, pledges and grants of security interests, as applicable, under each of the Credit Facilities Security Documents to which it is a party, and agrees that, notwithstanding the effectiveness of the Note Security Documents, such guarantees, pledges and grants of security interests shall continue to be in full force and effect and shall accrue to the benefit of the Credit Facilities Secured Parties. 
+
+^\centered Representations and Warranties 
+
+^Representations and Warranties of Each Party. Each party hereto represents and warrants to the other parties hereto as follows: 
+
+^^Such party is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization and has all requisite power and authority to enter into and perform its obligations under this Agreement. 
+
+^^This Agreement has been duly executed and delivered by such party and constitutes a legal, valid and binding obligation of such party, enforceable in accordance with its terms. 
+
+^^The execution, delivery and performance by such party of this Agreement (i) do not require any consent or approval of, registration or filing with or any other action by any governmental authority and (ii) will not violate any applicable law or regulation or the charter, by-laws or other organizational documents of such party or any order of any governmental authority or any indenture, agreement or other instrument binding upon such party. 
+
+^Representations and Warranties of Each Collateral Agent. Each Collateral Agent represents and warrants to the other parties hereto that it has been authorized by the Secured Parties for which it serves as collateral agent (or, in the case of the Credit Facilities Collateral Agent, by the Required Lenders under and as defined in each Credit Agreement) to enter into this Agreement. 
+
+^\centered Miscellaneous 
+
+^Notices. All notices and other communications provided for herein shall be in writing and shall be delivered by hand or overnight courier service, mailed by certified or registered mail or sent by telecopy, as follows: 
+
+^^if to the Credit Facilities Collateral Agent, to [[Organization 1 Name]], [[Address 1: Address]], Attention of [[Person 1 First Name]] [[Person 1 Last Name]] (Telecopy No. [[Phone 1]]); 
+
+^^if to the Note Collateral Agent, to [[Organization 2 Name]], [[Address 2: Address]], Attention: [[Organization 4 Name]] (Telecopy No. [[Phone 2]]); 
+
+^^if to any Designated Senior Obligations Collateral Agent, to it at the address or telecopy number specified in the applicable Accession Agreement; and 
+
+^^if to the Company, to it at [[Organization 3 Name]], 2930 W. Sam Houston Parkway North, Suite 300, Houston, Texas 77043, Attention of [[Person 2 First Name]] [[Person 2 Last Name]] (Telecopy No. [[Phone 3]]). 
+
+Any party hereto may change its address or telecopy number for notices and other communications hereunder by notice to the other parties hereto (and for this purpose a notice to the Company shall be deemed to be a notice to each Grantor). All notices and other communications given to any party hereto in accordance with the provisions of this Agreement shall be deemed to have been given on the date of receipt. 
+
+^Waivers; Amendment. (a) No failure or delay on the part of any party hereto in exercising any right or power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power, or any abandonment or discontinuance of steps to enforce such a right or power, preclude any other or further exercise thereof or the exercise of any other right or power. The rights and remedies of the parties hereto are cumulative and are not exclusive of any rights or remedies that they would otherwise have. No waiver of any provision of this Agreement or consent to any departure by any party therefrom shall in any event be effective unless the same shall be permitted by paragraph (b) of this Section, and then such waiver or consent shall be effective only in the specific instance and for the purpose for which given. No notice or demand on any party hereto in any case shall entitle such party to any other or further notice or demand in similar or other circumstances. 
+
+^^Neither this Agreement nor any provision hereof may be waived, amended or modified except pursuant to an agreement or agreements in writing entered into by each Collateral Agent and the Company. 
+
+^Parties in Interest. This Agreement shall be binding upon and inure to the benefit of the parties hereto (including any Designated Senior Obligations Collateral Agents becoming parties hereto as provided in Section 8.04) and their respective successors and assigns, as well as the other Credit Facilities Secured Parties, Note Secured Parties and Designated Senior Obligations Secured Parties, all of whom are intended to be bound by, and to be third party beneficiaries of, this Agreement. 
+
+^Accession of Designated Senior Obligations Collateral Agents. Upon the execution and delivery by the collateral agent or similar Representative of any Designated Senior Obligations of an Accession Agreement as provided in Article III, such collateral agent or Representative shall become a party to this Agreement as the Designated Senior Obligations Collateral Agent for such Designated Senior Obligations and shall thenceforth have all the rights and obligations applicable to it in such capacity hereunder. 
+
+^Survival of Agreement. All covenants, agreements, representations and warranties made by any party in this Agreement shall be considered to have been relied upon by the other parties hereto and shall survive the execution and delivery of this Agreement. 
+
+^Counterparts. This Agreement may be executed in counterparts, each of which shall constitute an original but all of which when taken together shall constitute a single contract. Delivery of an executed signature page to this Agreement by facsimile transmission shall be as effective as delivery of a manually signed counterpart of this Agreement. 
+
+^Severability. Any provision of this Agreement held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction. The parties shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions. 
+
+^Governing Law; Jurisdiction; Consent to Service of Process. (a) This Agreement shall be construed in accordance with and governed by the law of the State of New York. 
+
+^^Each party hereto hereby irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of any New York state or federal court sitting in New York, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Agreement, or for recognition or enforcement of any judgment, and each of the parties hereto hereby irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such New York state or, to the extent permitted by law, in such federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement shall affect any right that any party hereto may otherwise have to bring any action or proceeding relating to this Agreement in the courts of any jurisdiction. 
+
+^^Each party hereto hereby irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any court referred to in paragraph (b) of this Section. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court. 
+
+^^Each party to this Agreement irrevocably consents to service of process in the manner provided for notices in Section 8.01. Nothing in this Agreement will affect the right of any party to this Agreement to serve process in any other manner permitted by law. 
+
+^WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT. EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE 
+
+FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION. 
+
+^Specific Performance. Each party hereto (a) agrees that any other party hereto may demand specific performance of this Agreement and (b) irrevocably waives any defense based on the adequacy of a remedy at law, and any other defense, that might be asserted in opposition to the awarding of specific performance in any action that may be brought by any other party hereto. 
+
+^Headings. Article and Section headings and the Table of Contents used herein are for convenience of reference only, are not part of this Agreement and are not to affect the construction of, or to be taken into consideration in interpreting, this Agreement. 
+
+\centered [Signature Pages Follow] 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written. 
+
+[[Organization 1 Name]], as Credit
+Facilities Collateral Agent
+
+[[Facilities Collateral Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{Facilities Collateral Agent Entity => By: [[Facilities Collateral Agent Signatory First Name]] [[Facilities Collateral Agent Signatory Last Name]]
+Title: [[Facilities Collateral Agent Signatory Title]]}}
+
+
+\centered [Signature Page to Lien Subordination and Intercreditor Agreement] 
+
+[[Organization 2 Name]],
+as Note Collateral Agent
+
+[[As Note Collateral Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Note Collateral Agent Entity => By: [[As Note Collateral Agent Signatory First Name]] [[As Note Collateral Agent Signatory Last Name]]
+Title: [[As Note Collateral Agent Signatory Title]]}}
+
+
+\centered [Signature Page to Lien Subordination and Intercreditor Agreement] 
+
+[[Organization 3 Name]], as Grantor
+
+[[[[Organization 3 Name]] as Grantor Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] as Grantor Entity => By: [[[[Organization 3 Name]] as Grantor Signatory First Name]] [[[[Organization 3 Name]] as Grantor Signatory Last Name]]
+Title: [[[[Organization 3 Name]] as Grantor Signatory Title]]}}
+
+
+\centered [Signature Page to Lien Subordination and Intercreditor Agreement] 
+
+[[Organization 5 Name]]
+[[Organization 6 Name]]
+MATERIAL [[Organization 7 Name]]
+[[Organization 8 Name]]
+[[Organization 9 Name]]
+[[Organization 8 Name]]
+[[Organization 10 Name]]
+PADKO INTERNATIONAL INCORPORATED
+[[Organization 11 Name]]
+[[Organization 12 Name]],  as Grantors
+
+[[[[Organization 12 Name]]  as Grantors Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 12 Name]]  as Grantors Entity => By: [[[[Organization 12 Name]]  as Grantors Signatory First Name]] [[[[Organization 12 Name]]  as Grantors Signatory Last Name]]
+Title: [[[[Organization 12 Name]]  as Grantors Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+President
+
+SOONER ENERGY SERVICES
+[[Organization 13 Name]]
+[[Organization 14 Name]], INC., as Grantors
+
+[[[[Organization 14 Name]]. as Grantors Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 14 Name]]. as Grantors Entity => By: [[[[Organization 14 Name]]. as Grantors Signatory First Name]] [[[[Organization 14 Name]]. as Grantors Signatory Last Name]]
+Title: [[[[Organization 14 Name]]. as Grantors Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+Chief Executive Officer
+
+[[Organization 3 Name]] FZE as Grantor
+
+[[[[Organization 3 Name]] FZE as Grantor Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] FZE as Grantor Entity => By: [[[[Organization 3 Name]] FZE as Grantor Signatory First Name]] [[[[Organization 3 Name]] FZE as Grantor Signatory Last Name]]
+Title: [[[[Organization 3 Name]] FZE as Grantor Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+Chief Executive Officer
+
+\centered [Signature Page to Lien Subordination and Intercreditor Agreement] 
+
+ANNEX I 
+
+ACCESSION AGREEMENT dated as of [ ], between [Representative] (the “Representative”) and [[Organization 3 Name]] (the “Company”). 
+
+^Reference is made to the Lien Subordination and Intercreditor Agreement dated as of [[Date 1]] (as amended, restated, supplemented or otherwise modified from time to time, the “Intercreditor Agreement”), among [[Organization 1 Name]], as Credit Facilities Collateral Agent, [[Organization 2 Name]], as Note Collateral Agent, [[Organization 3 Name]], the other Grantors named therein and the other Designated Senior Obligations Collateral Agents from time to time party thereto. 
+
+^Capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to such terms in the Intercreditor Agreement. 
+
+^The Representative desires to become a Designated Senior Obligations Collateral Agent under the Intercreditor Agreement. 
+
+Accordingly, the Company and the Representative agree as follows: 
+
+^Accession to Intercreditor Agreement. Upon the execution of this Accession Agreement by the Representative and the Company and as of the date of the delivery of this Accession Agreement to each Collateral Agent under the Intercreditor Agreement as part of the notice required pursuant to Section 3.01 of the Intercreditor Agreement, the Representative hereby accedes to the Intercreditor Agreement and shall thereafter be a party to and be bound by the provisions of the Intercreditor Agreement and have all the rights and obligations of a Designated Senior Obligations Collateral Agent with respect to the Designated Senior Obligations described in the notice required pursuant to Section 3.01 of the Intercreditor Agreement (of which this Accession Agreement forms a part). 
+
+^Notices. All notices and other communications provided for in the Intercreditor Agreement shall be given to the Representative as follows: 
+
+[Address] 
+
+[Telecopy Number] 
+
+^Counterparts. This Accession Agreement may be executed in multiple counterparts, each of which shall constitute an original but all of which when taken together shall constitute a single agreement. Delivery of an executed signature page to this Accession Agreement by facsimile transmission shall be as effective as delivery of a manually signed counterpart of this Accession Agreement. 
+
+\centered I-1 
+
+^Governing Law. This Agreement shall be construed in accordance with and governed by the law of the State of New York. 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written. 
+
+[Name of Representative],
+
+By
+Name:
+Title:
+
+[[Organization 3 Name]]
+
+By
+Name:
+Title:
+
+\centered I-2 
+
+ANNEX II 
+
+Provision for Junior Obligations Governing Document 
+
+Reference is made to the Lien Subordination and Intercreditor Agreement dated as of [[Date 1]], among [[Organization 1 Name]], as collateral agent for the Credit Facility Secured Parties referred to therein; [[Organization 2 Name]], as collateral agent for the Note Secured Parties referred to therein; [[Organization 3 Name]]; the other Grantors named therein; and the Designated Senior Obligations Collateral Agents becoming parties thereto from time to time (the “Intercreditor Agreement”). Each [holder of Junior Obligations] (a) [hereby consents] [will be deemed to have consented] to the subordination of the [Liens securing the Junior Obligations] on the terms set forth in the Intercreditor Agreement, (b) [hereby agrees] [will be deemed to have agreed] that it will be bound by and will take no actions contrary to the provisions of the Intercreditor Agreement and (c) [hereby authorizes and instructs] [will be deemed to have authorized and instructed] the [Junior Obligations Collateral Agent] to enter into the Intercreditor Agreement and to subject the [Junior Obligations] and the [Liens securing the Junior Obligations] to the provisions thereof. The foregoing provisions are intended as an inducement to the Senior Obligations Secured Parties (as defined in the Intercreditor Agreement) to extend credit to [[Organization 3 Name]], and such Senior Obligations Secured Parties are intended third party beneficiaries of such provisions and the provisions of the Intercreditor Agreement. 
+
+Provision for Junior Obligations Security Document 
+
+Reference is made to the Lien Subordination and Intercreditor Agreement dated as of [[Date 1]], among [[Organization 1 Name]], as collateral agent for the Credit Facility Secured Parties referred to therein; [[Organization 2 Name]], as collateral agent for the Note Secured Parties referred to therein; [[Organization 3 Name]]; the other Grantors named therein; and the Designated Senior Obligations Collateral Agents becoming parties thereto from time to time (the “Intercreditor Agreement”). Notwithstanding any other provision contained herein, this Agreement, the Liens created hereby and the rights, remedies, duties and obligations provided for herein are subject in all respects to the provisions of the Intercreditor Agreement and, to the extent provided therein, the Senior Obligations Security Documents (as defined in the Intercreditor Agreement). In the event of any conflict or inconsistency between the provisions of this Agreement and the Intercreditor Agreement, the provisions of the Intercreditor Agreement shall control. 
+
+\centered II-1

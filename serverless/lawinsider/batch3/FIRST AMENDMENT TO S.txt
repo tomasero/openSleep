@@ -1,0 +1,89 @@
+(e)-1**
+
+\centered **FIRST AMENDMENT TO**
+
+\centered **SECOND AMENDED AND RESTATED PRIVATE LABEL CONSUMER CREDIT CARD PROGRAM AGREEMENT**
+
+This FIRST AMENDMENT TO SECOND AMENDED AND RESTATED PRIVATE LABEL CONSUMER CREDIT CARD PROGRAM AGREEMENT dated as of [[Date 1: Date]] (“Amendment”) amends that certain Second Amended and Restated Private Label Consumer Credit Card Program Agreement dated as of [[Date 2: Date]] (as amended, modified and supplemented from time to time, the “Agreement”), by and between [[ Global]] [[Organization 1 Name]], a [[State of Formation: State]] [[Organization: EntityType]] (“[[ Global]] Global”), and [[ Global]] [[Organization 2 Name]], a [[State of Formation: State]] [[Organization: EntityType]] (“[[ Global]] Retail”, and together with [[ Global]] Global, “Retailer”), and [[Organization 3 Name]] (“Bank”). Capitalized terms used herein and not otherwise defined have the meanings given them in the Agreement.
+
+WHEREAS, Bank and Retailer now wish to amend the Agreement to provide for internet transactions, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual promises and subject to the terms and conditions hereinafter set forth, the parties hereby agree as follows:
+
+\centered I. AMENDMENT TO THE AGREEMENT
+
+^^**Incorporation of New Appendix B.** The new Appendix B attached hereto is hereby incorporated by reference and made a part of the Agreement. In addition to the other terms and conditions of the Agreement, as amended by this Amendment, the supplemental terms and conditions set forth on Appendix B shall apply to all Internet Transactions (as defined in Appendix B) submitted through the link on the Retailer Website (as defined in Appendix B).
+
+\centered II. GENERAL
+
+^^Authority for Amendment. Retailer represents and warrants to Bank that the execution, delivery and performance of this Amendment has been duly authorized by all requisite corporate action on the part of Retailer and upon execution by all parties, will constitute a legal, binding obligation of Retailer.
+
+^^Effect of Amendment. Except as specifically amended hereby, the Agreement, and all terms contained therein, remains in full force and effect. The Agreement, as amended by this Amendment, constitutes the entire understanding of the parties with respect to the subject matter hereof.
+
+^^Binding Effect; Severability. Each reference herein to a party hereto shall be deemed to include its successors and assigns, all of whom shall be bound by this Amendment and in whose favor the provisions of this Amendment shall inure. In case any one or more of the provisions contained in this Amendment shall be invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby.
+
+^^Further Assurances. The parties hereto agree to execute such other documents and instruments and to do such other and further things as may be necessary or desirable for the execution and implementation of this Amendment and the consummation of the transactions contemplated hereby and thereby.
+
+^^Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of New York, without regard to principles of conflicts of laws.
+
+^^Counterparts. This Amendment may be executed in counterparts, each of which shall constitute an original, but all of which, when taken together, shall constitute but one agreement.
+
+**IN WITNESS WHEREOF**, Retailer and Bank have caused this Amendment to be executed by their respective officers thereunto duly authorized as of the date first above written.
+
+**RETAILER:**   **BANK:**
+
+[[ Global]] [[Organization 1 Name]]**   **[[Organization 3 Name]]**
+
+[[ [[Organization 4 Name]].   [[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{ [[Organization 4 Name]].   [[Organization 3 Name]] Entity => By: [[ [[Organization 4 Name]].   [[Organization 3 Name]] Name]] [[ [[Organization 4 Name]].   [[Organization 3 Name]] Signatory Last Name]]
+Title: [[ [[Organization 4 Name]].   [[Organization 3 Name]]]]}}
+
+
+[[ Global]] [[Organization 2 Name]]**
+
+[[ [[Organization 5 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ [[Organization 5 Name]]. Entity => By: [[ [[Organization 5 Name]]. Signatory First Name]] [[ [[Organization 5 Name]]. Signatory Last Name]]
+Title: [[ [[Organization 5 Name]]. Signatory Title]]}}
+
+
+\centered **Appendix B**
+
+\centered **Additional Terms and Conditions Applicable to Internet Transactions**
+
+In addition to the other terms and conditions of this Agreement, the following supplemental terms and conditions will apply to all Internet Transactions. To the extent that any such terms and conditions conflict with the terms and conditions set forth elsewhere in this Agreement, the terms and conditions in this Appendix will control.
+
+^Internet Applications; Link to Bank Webpage. Retailer may begin linking customers that visit the Retailer Website to the Bank Webpage to submit Internet Applications to Bank only on or after the date (the “Internet Application Start Date”) when mutually agreeable procedures for Internet Applications have been established and Retailer and Bank have agreed in writing that they wish to begin processing Internet Applications. During the Internet Application Period, Retailer shall maintain on the Retailer Website, an imbedded link to a webpage hosted by Bank or its agent (the “Bank Webpage”). The link shall link directly to the Bank Webpage with no intermediate links. If for any reason during the Internet Application Period such link shall cease to be displayed on the Retailer Website, Retailer shall immediately notify Bank. Retailer shall not permit any link to the Bank Webpage to exist: (i) on the Retailer Website at any time other than during the Internet Application Period; or (ii) on any internet website (other than the Retailer Website) maintained, operated or controlled by Retailer or under any Retailer Mark (an “Other Retailer Website”).
+
+[[Organization 6 Name]] shall have the sole right to determine the design and content of the Bank Webpage. During the Internet Application Period: (i) Bank shall maintain and operate the Bank Webpage; (ii) Retailer shall use reasonable efforts to conform the Retailer Website to be reasonably compatible with the Bank Webpage technology; and (iii) Bank shall provide to Retailer ninety (90) days prior notification of any planned changes in the Bank Webpage that would require any changes in the Retailer Website.
+
+^Internet Purchases; Link to Authorization Technology. Retailer may begin submitting Internet Purchases to Bank only on or after the date (the “Internet Purchase Start Date”) when mutually agreeable procedures for Internet Purchases have been established and Retailer and Bank have agreed in writing that they wish to begin processing Internet Purchases. At all times during the Internet Purchase Period, Retailer shall design, maintain and operate the Retailer Website so that use of the Credit Card will be a payment option. Retailer acknowledges that all Internet Purchases shall be authorized through payment authorization technology selected by Bank (the “Payment Authorization Technology”). Bank shall hold harmless and indemnify Retailer from any Damages incurred by Retailer as a result of a failure, claim or an alleged failure by third parties associated with the Payment Authorization Technology. During the Internet Purchase Period: (i) Retailer shall use reasonable efforts to conform the Retailer Website to be reasonably compatible with the Payment Authorization Technology; and (ii) Bank shall provide to Retailer ninety (90) days prior notification of any planned changes in the Payment Authorization Technology that would require any changes in the Retailer Website. During the Internet Purchase Period, Retailer also shall place a remark on the Retailer Website encouraging Retailer’s customers to use a Credit Card.
+
+^Processing Internet Transactions. Retailer will process all Internet Transactions in accordance with the terms of this Agreement, the Operating Procedures, and any specific procedures governing Internet Transactions developed by Bank and Retailer. Without limiting the foregoing, Retailer will cause all authorizations processed through the internet and all Internet Purchases to be separately tagged with a unique store of sale number. The parties acknowledge that the infrastructure required for Internet Transactions is dynamic and agree to cooperate in implementing enhancements and developments with respect to the operation and security of Internet Transaction processing under the 
+
+Program. For the avoidance of doubt, the settlement procedures set forth in Section 3.1 of the Agreement shall apply to Internet Purchases.
+
+^Security.  Retailer shall develop, maintain and operate the Retailer Website so that all Internet Purchases processed through the Retailer Website will be sent and received securely so that, among other things, such information cannot be altered, viewed or captured by an unauthorized party. For its part, Bank agrees that the direct access medium or method used to store, present or transmit Internet Applications, terms and conditions, and/or Account information will be secured in a manner where such information cannot be altered, viewed or captured by an unauthorized party.
+
+^Fraud Mitigation. Retailer and Bank agree to cooperate in a commercially reasonable manner by committing systems and other resources, and by providing information with respect to the development, establishment and implementation of fraud mitigation strategies in connection with Internet Transactions. Retailer and Bank further agree to use commercially reasonable efforts to implement such mitigation strategies as are developed from time to time.
+
+^Reprice Right. In the event that Net Program Sales with respect to Internet Purchases are (i) greater than forty percent ([[Percentage 1: Number]]%) of all Net Program Sales in any one (1) month period or (ii) greater than five percent ([[Percentage 2: Number]]%) of all Net Program Sales in any twelve (12) month period, then the parties shall review the performance of the internet channel. Bank shall have the right to propose changes to the criteria for accepting Internet Applications or to the Program Fee Percentages applicable to Internet Purchases. If Retailer does not agree to any changes proposed by Bank, then Bank shall have the right, in its sole discretion, upon not less than 15 days written notice to Retailer, to discontinue submitting, accepting or processing Internet Applications and/or Internet Purchases. The foregoing shall not be construed to limit or restrict either party’s rights pursuant to Section H below.
+
+^Termination Right. Retailer and Bank shall each have the right, in its sole discretion, upon not less than 15 days written notice to the other party, to discontinue submitting, accepting or processing Internet Applications and/or Internet Purchases.
+
+^Definitions. As used in this Appendix, the following terms shall have the following meanings:
+
+“Internet Application” means any application which is received by Bank through the Retailer Website.
+
+“Internet Application Period” means the period commencing on the Internet Application Start Date and continuing until the earlier of the Internet Application Termination Date and the expiration or termination of this Agreement.
+
+“Internet Application Termination Date” means a day 15 days after the date when (i) Bank first notifies Retailer in writing that Bank intends to stop accepting Internet Applications or (ii) Retailer first notifies Bank in writing that Retailer intends to remove the link from the Retailer Website to the Bank Webpage.
+
+“Internet Purchase” means the purchase of goods or services from Retailer charged to an Account where the Account information necessary to effect the purchase is provided through the Retailer Website.
+
+“Internet Purchase Period” means the period commencing on the Internet Purchase Start Date and continuing until the earlier of the Internet Purchase Termination Date and the expiration or termination of this Agreement.
+
+“Internet Purchase Termination Date” means a day 15 days after the date when (i) Bank first notifies Retailer in writing that Bank intends to stop accepting Internet Purchases or (ii) Retailer first notifies Bank in writing that Retailer intends to remove the Internet Purchase capability from the Retailer Website.
+
+“Internet Transactions” means both Internet Purchases and Internet Applications.

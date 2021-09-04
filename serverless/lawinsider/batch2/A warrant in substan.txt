@@ -1,0 +1,74 @@
+Executed Version  
+
+\centered [[Date 1: Date]]
+
+[[Organization 1 Name]] 
+280 Park Avenue 
+40th Floor West, Suite 401 
+[[Address 1: Address]]   
+Ladies and Gentlemen:  
+
+Reference is made to the Investment Agreement dated as of [[Date 1]] (as amended, supplemented or otherwise modified from time to time, the “**Investment Agreement**”) by and between [[Organization 1 Name]] (“**CapGen**”) and [[Organization 2 Name]], Inc. (the “**Company**”). Capitalized terms used herein and not otherwise defined shall have the meanings given to them in the Investment Agreement.
+
+The Company and CapGen hereby agree as follows:
+
+On the First Closing Date, the Company will issue to CapGen:
+
+\centered (i)   A warrant in substantially the form attached hereto as **Exhibit A-1** (the “**[[Percentage 1: Number]]% Warrant**”) to purchase Common Shares at an exercise or strike price of $[[USD Value 1: Number]] per Common Share aggregating 7,296,175 Common Shares or such greater number of shares, which in all cases, shall equal [[Percentage 1]]% of the outstanding Common Stock of the Company, on a fully diluted basis, immediately after giving effect to the transactions contemplated by the Transaction Documents, including, without limitation, giving effect to the issuance of all shares of Common Stock offered pursuant to the Rights Offering and regardless of whether purchased in the Rights Offering or pursuant to the backstop thereto, the issuance of Common Stock and warrants through the “Second Closing Date” (as defined in the as defined in the Amended and Restated Investment Agreement, by and among [[Organization 3 Name]], L.P., ACMO-HR, L.L.C. and the Company) and assuming the issuance of all Common Stock issuable pursuant to all outstanding warrants, which shall be exercisable beginning immediately upon issuance; and  
+
+\centered (ii)   A warrant in substantially the form attached hereto as **Exhibit A-2** (the “**[[Percentage 2: Number]]% Warrant**”) to purchase Common Shares at an exercise or strike price of $[[USD Value 1]] per Common Share aggregating 3,648,087 Common Shares or such greater number of shares, which in all cases shall equal [[Percentage 2]]% of the outstanding Common Stock of the Company, on a fully diluted basis, immediately after giving effect to the transactions contemplated by the Transaction Documents, including, without limitation, giving effect to the issuance of all shares of Common Stock offered pursuant to the Rights Offering and regardless of whether purchased in the Rights Offering or pursuant to the backstop thereto, the issuance of Common Stock and warrants through the Second Closing Date, and assuming  
+
+ATI-2428098v7       
+
+\centered the issuance of all Common Stock issuable pursuant to all outstanding warrants, which shall be exercisable upon the earlier of (a) the written stay, modification, termination, or suspension by the Federal Reserve Bank of Richmond or another responsible official of the Board of Governors of the Federal Reserve System or its delegee and the Virginia Bureau of Financial Institutions of the Written Agreement and (b) the sale of the Company or the Bank.  
+
+Herein, the [[Percentage 1]]% Warrant and the [[Percentage 2]]% Warrant are sometimes collectively referred to as the “**CapGen Warrants**”). The CapGen Warrants will be issued as an inducement to, and in consideration of, CapGen’s participation pursuant to the Investment Agreement, as an investor in the transactions contemplated by the Transaction Documents.
+
+The issuance of the CapGen Warrants shall not have any effect on the amount of the expenses of CapGen and its Affiliates to be payable by the Company in cash pursuant to the Investment Agreement.
+
+The Company hereby agrees and acknowledges that the registration rights set forth in the Investment Agreement are applicable to the CapGen Warrants and the Common Shares issuable upon exercise of the CapGen Warrants, each of which shall be deemed to be “Registrable Securities” thereunder.
+
+The Company and CapGen hereby agree to make, no later than the Effectiveness Deadline, any revisions to the CapGen Warrants acceptable to CapGen and necessary in order to permit a public distribution thereof, including entering into a customary warrant agreement, appointing a warrant agent and taking such other steps as will be needed to facilitate such a public distribution.
+
+For the convenience of the parties hereto, this letter agreement may be executed in any number of separate counterparts, each such counterpart being deemed to be an original instrument, and all such counterparts will together constitute the same agreement. Executed signature pages to this letter agreement may be delivered by facsimile or electronic copy and such facsimiles or electronic copy will be deemed as sufficient and legally binding as if actual signature pages had been delivered.
+
+This letter agreement will be governed by and construed in accordance with the Laws of the State of [[Address 2: Address]] contracts made and to be performed entirely within such State.
+
+\centered [Signature page follows]
+
+If you agree with the foregoing, please sign and return a copy of this letter, which will constitute our agreement with respect to the subject matter of this letter.
+
+Very truly yours,  
+
+**[[Organization 2 Name]], INC.**   
+
+\centered By:   _____________________  
+
+\centered Name:  
+
+Title:
+
+CONFIRMED AND AGREED 
+as of the date first above written:   
+**[[Organization 1 Name]]**  
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+\centered By:  
+
+Name:
+
+Title:
+
+\centered [Signature Page to CapGen Investment Letter]
+
+\centered **Exhibit A-1**
+
+\centered **Form of [[Percentage 1]]% Warrant**
+
+\centered **Exhibit A-2**
+
+\centered **Form of [[Percentage 2]]% Warrant**

@@ -1,0 +1,94 @@
+\centered [[Company]]
+
+\centered **PERFORMANCE SHARES AWARD AGREEMENT**
+
+\centered **(Named Executive Officer)**
+
+This AGREEMENT (this “Agreement”) is made as of [ ] (the “Date of Grant”), by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [ ] (“Grantee”).
+
+^Grant of Performance Shares. Pursuant to the [[Company]] 2007 Long-Term Incentive Plan (the “Plan”) and subject to the terms and conditions thereof and the terms and conditions hereinafter set forth, the Company hereby grants to Grantee [ ] Performance Shares (the “Target Performance Shares”), payment of which depends on the Company’s performance as set forth in this Agreement and as communicated to the Grantee by the Committee (the “Statement of Performance Goals” Exhibit A hereto).
+
+^Earning of Target Performance Shares.
+
+^^Performance Measure: The Grantee’s right to receive all of, any portion of, or more than, the Target Performance Shares will be contingent upon the achievement of specified levels of the Company’s Return on Equity(“ROE”), as set forth in the Statement of Performance Goals and will be measured over the period from [[Date 1: Date]] through [[Date 2: Date]] (the “Performance Period”).
+
+^^Below Threshold: If, upon the conclusion of the Performance Period, ROE for the Performance Period falls below the threshold level, as set forth in the Performance Matrix contained in the Statement of Performance Goals, no Performance Shares for the Performance Period shall become earned.
+
+^^Threshold: If, upon the conclusion of the Performance Period, ROE for the Performance Period equals the threshold level, as set forth in the Performance Matrix contained in the Statement of Performance Goals, [[Percentage 1: Number]]% of the Target Performance Shares for the Performance Period shall become earned.
+
+^^Between Threshold and Target: If, upon the conclusion of the Performance Period, ROE exceeds the threshold level, but is less than the target level, as set forth in the Performance Matrix contained in the Statement of Performance Goals, the Target Performance Shares shall become earned based on performance during the Performance Period, as determined by mathematical straight-line interpolation between [[Percentage 1]]% of the Target Performance Shares and [[Percentage 2: Number]]% of the Target Performance Shares.
+
+^^Target: If, upon the conclusion of the Performance Period, ROE for the Performance Period equals the target level, as set forth in the Performance Matrix contained in the Statement of Performance Goals, [[Percentage 2]]% of the Target Performance Shares for the Performance Period shall become earned.
+
+^^Between Target and Maximum: If, upon the conclusion of the Performance Period, ROE exceeds the target level, but is less than the maximum level, as set forth in the Performance Matrix contained in the Statement of Performance Goals, the Target Performance Shares shall become earned based on performance during the Performance Period, as determined by mathematical straight-line interpolation between [[Percentage 2]]% of the Target Performance Shares and [[Percentage 3: Number]]% of the Target Performance Shares.
+
+^^Equals or Exceeds Maximum: If, upon the conclusion of the Performance Period, ROE for the Performance Period equals or exceeds the maximum level, as set forth in the Performance Matrix contained in the Statement of Performance Goals, [[Percentage 3]]% of the Target Performance Shares shall become earned.
+
+^^Conditions; Determination of Earned Award: Except as otherwise provided herein, the Grantee’s right to receive any Performance Shares is contingent upon his or her remaining in the continuous employ of the Company or a Subsidiary through the end of the Performance Period. Following the Performance Period, the Committee shall determine whether and to what extent the goals relating to ROE have been satisfied for the Performance Period and shall determine the percent of Target Performance Shares that shall have become earned hereunder.
+
+^^^Determination Regarding ROE: All determinations involving ROE set forth in this Section 2 shall be the arithmetic average of the ROE for the Performance Period calculated by dividing the sum of the Company’s ROE for each fiscal year in the Performance Period by the number of years in the Performance Period. ROE for each fiscal year in the Performance Period shall be calculated by dividing the Company’s Net Income by the beginning Stockholders’ Equity for that fiscal year, as determined from the Company’s consolidated financial statements, net of extraordinary events which may affect the calculation, where such extraordinary events would generally be events that impact the Company’s results or financial position in a manner that the Committee, in its discretion, determines produce results that are not indicative of the Company’s ongoing operations, except where such action would result in the loss of the otherwise available exemption of the Performance Shares under Section 162(m) of the Internal Revenue Code. All determinations involving ROE set forth in this Section 2 shall be calculated based on U.S. Generally Accepted Accounting Principles in effect at the time ROE is established without regard to any change in accounting standards that may be required by the Financial Accounting Standards Board after the goals are established.
+
+^Pro Rata Earning of Target Performance Shares.
+
+^^Termination without Cause or Good Reason, Death, Disability or Retirement: Notwithstanding Section 2(h), if, during the Performance Period, but before the payment of any Performance Shares as set forth in Section 5, the Grantee’s employment is terminated without “Cause” or with “Good Reason” (as each term is defined in the Grantee’s Amended and Restated Employment Agreement with the Company, dated [[Date 3: Date]], as may be amended from time to time (the “Employment Agreement”)), the Grantee dies or in the event of his Disability (as such term is defined in the Employment Agreement) while in the employ of the Company or in the event of the retirement of the Grantee after having attained “normal retirement age” (as such term is defined in the Social Security Act of 1935, as amended, then the Grantee shall be entitled to receive such percent of the Target Performance Shares as is determined pursuant to Section 2 at the conclusion of the Performance Period as if the Grantee had remained in the continuous employ of the Company through the end of the Performance Period, based on the Company’s ROE performance during the Performance Period, prorated, based on the number of whole months that Grantee was employed by the Company during the Performance Period.
+
+^^Change in Control: Notwithstanding Section 2(h), if, during the Performance Period, but before the payment of any Performance Shares as set forth in Section 5, a Change in Control occurs while Grantee is an employee of the Company, then the Grantee shall be entitled to receive the Target Performance Shares provided for under Section 2(e).
+
+^Forfeiture of Award. Except to the extent Grantee has earned the right to receive Performance Shares pursuant to Sections 2 or hereof, Grantee’s right to receive Performance Shares shall be forfeited automatically and without further notice on the date that Grantee ceases to be an employee of the Company or a Subsidiary prior to the last day of the Performance Period or, in the event that Section 3(b) applies, the date on which the Change in Control occurs.
+
+^Payment of Performance Shares.
+
+^^Performance Shares earned as provided in Section 2 or pursuant to Section 3(a) shall be paid to Grantee or his or her executor or administrator, as the case may be, in shares of Common Stock in the calendar year immediately following the close of the Performance Period to which the award relates, but in no event later than two and one-half (2 1/2) months after the close of the Performance Period.
+
+^^The Target Performance Shares earned pursuant to Section 3(b) shall be paid to Grantee in shares of Common Stock as soon as practicable following the Change in Control, but in no event later than two and one-half (2 1/2) months following the end of the year in which the Change in Control occurs.
+
+^Transferability. Transferability shall be as set forth in the Plan.
+
+^No Employment Contract. Nothing contained in this Agreement shall (a) confer upon Grantee any right to be employed by or remain employed by the Company, or (b) limit or affect in any manner the right of the Company to terminate the employment of Grantee at any time.
+
+^Taxes and Withholding. To the extent that the Company is required to withhold any federal, state, local or foreign taxes in connection with the payment of any Performance Shares, and the amounts available to the Company for such withholding are insufficient, it shall be a condition to the payment of any Performance Shares that the Grantee shall pay such taxes or make arrangements that are satisfactory to the Company for the payment thereof. The Grantee may elect that all or any part of such withholding requirement be satisfied by retention by the Company of a portion of the shares of Common Stock paid to the Grantee. If such election is made, the shares so retained shall be credited against such withholding requirement at the Fair Market Value on the date of such delivery. In no event, however, shall the Company accept shares for payment of taxes in excess of required tax withholding rates.
+
+^Rights of a Stockholder. The Grantee shall not have any rights of a stockholder with respect to the Performance Shares prior to the date such shares are earned.
+
+^Payment of Dividends. No dividends shall be accrued or earned with respect to any Performance Shares until such Performance Shares are earned by the Grantee as provided in this Agreement.
+
+^Adjustments. Notwithstanding any other provision hereof, the Committee shall have authority to make adjustments in the terms and conditions of, and the criteria included in, Performance Shares granted hereunder, as set forth in the Plan.
+
+^Restrictive Covenants. If the Grantee engages in any conduct in breach of any noncompetition, nonsolicitation or confidentiality obligations to the Company under any agreement, policy or plan, then such conduct shall also be deemed to be a breach of the terms of the Plan and this Agreement. Upon such breach, Grantee’s right to receive Performance Shares covered by this Agreement shall be forfeited automatically and without further notice and to the extent that the Grantee has received shares of Common Stock pursuant to Section 5 within a period of 18 months prior to such breach, the Grantee shall be required to return to the Company, upon demand, such shares or the net proceeds of any sales. For purposes of this Section 12, net proceeds shall mean the amount realized upon the disposition of the shares, less any applicable taxes withheld by the Company.
+
+^Recovery of Performance Shares. If (a) the Company restates any part of its financial statements for any fiscal year or years covered by the Performance Period due to material noncompliance with any financial reporting requirement under the U.S. securities laws applicable to such fiscal year or years (a “Restatement”) and (b) the Committee determines that Grantee is personally responsible for causing the Restatement as a result of Grantee’s personal misconduct or any fraudulent activity on the part of Grantee, then the Committee has discretion to, based on applicable facts and circumstances and subject to applicable law, cause the Company to recover all or any portion (but no more than [[Percentage 2]]%) of the shares of Common Stock paid or payable to Grantee for the Performance 
+
+Period. The amount of any cash or shares recovered by the Company under this Section 13 shall be limited to the amount by which such shares payment exceeded the amount that would have been paid to or received by Grantee had the Company’s financial statements for the applicable restated fiscal year or years been initially filed as restated, as reasonably determined by the Committee.
+
+^Relation to Plan. This Agreement is subject to the terms and conditions of the Plan. In the event of any inconsistency between the provisions of this Agreement and the Plan, the Plan shall govern. The Committee acting pursuant to the Plan, as constituted from time to time, shall, except as expressly provided otherwise herein or in the Plan, have the right to determine any questions that arise in connection with the grant of Target Performance Shares.
+
+^Miscellaneous. All decisions or interpretations of the Committee with respect to any question arising under the Plan or this Agreement shall be binding, conclusive and final. The waiver by the Company of any provision of this Agreement shall not operate as or be construed to be a subsequent waiver of the same provision or of any other provision of this Agreement. Grantee agrees to execute such other agreements, documents or assignments as may be necessary or desirable to effect the purposes of this Agreement.
+
+^Capitalized Terms. All capitalized terms used in this Agreement that are not defined herein shall have the meanings given them in the Plan unless the context clearly requires otherwise.
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed on its behalf by its duly authorized officer and Grantee has executed this Agreement, as of the day and year first above written.
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+The undersigned Grantee hereby acknowledges receipt of an executed copy of this Agreement and accepts the right to receive any Performance Shares or other securities covered hereby, subject to the terms and conditions of the Plan and the terms and conditions herein above set forth.
+
+Grantee
+
+Date:
+
+\centered **Exhibit A**
+
+\centered **Performance Shares**
+
+\centered **Statement of Performance Goals Performance Matrix**
+
+\centered **Performance Period [ ] Through [ ]**
+
+**Threshold ROE Performance**      \centered **Target ROE Performance**      \centered **Maximum ROE Performance**
+\centered %

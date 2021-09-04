@@ -1,0 +1,692 @@
+\centered **[[Organization 1 Name]]**
+
+\centered ***and***
+
+\centered **[[Organization 2 Name]]**
+
+\centered ***and***
+
+\centered **[[Organization 3 Name]] LIMITED**
+
+\centered ***and***
+
+\centered **[[Person 1 First Name]] [[Person 1 Last Name]]**
+
+\centered **_________________________________________________**
+
+\centered **AMENDED AND RESTATED**
+
+\centered **SALE AND PURCHASE AGREEMENT**
+
+\centered **_________________________________________________**
+
+\centered 19 [[Date 1: Date]]
+
+\centered 
+
+\centered **CONTENTS**   
+
+**Page**
+
+Definitions and Interpretation  
+
+Transaction and Consideration  
+
+Conditions to Obligations at Closing  
+
+Closing  
+
+Obligations Prior to Closing  
+
+Representations and Warranties  
+
+Further Undertakings  
+
+Anti-Money Laundering and Anti-Corruption  
+
+Status of Agreement and Effect  
+
+Confidentiality  
+
+Trade Restrictions  
+
+Notices  
+
+Set-Off  
+
+Entire Agreement  
+
+Third Party Rights  
+
+Amendments  
+
+Waiver  
+
+Costs and Expenses  
+
+Joint and Several Liability  
+
+Assignment  
+
+No Partnership  
+
+Severability  
+
+Further Assurance  
+
+Counterparts  
+
+Governing Law and Jurisdiction  
+
+Dispute Resolution  
+
+Schedule 1 Deed of Termination   Sch 1-1
+
+Schedule 2 Investment Agreement   Sch 2-1
+
+**THIS AMENDED AND RESTATED SALE AND PURCHASE AGREEMENT** (this "**Agreement**") is made as of 19 [[Date 1]]
+
+**BETWEEN**:  
+[[Organization 1 Name]],** a company organized under the laws of the Netherlands, and having its seat at Dam 5b, JS 1012 [[Address 1: Address]] ("**CME ME**");
+
+[[Organization 2 Name]],** a company organized under the laws of the Netherlands, and having its seat at Dam 5b, JS 1012 [[Address 1: Address]] ("**CME DF**");
+
+^**[[Organization 3 Name]] LIMITED**, a BVI Business company organized under the laws of the British Virgin Islands with registered number 1381053 and having its registered office at 3rd Floor, Omar Hodge Building, Wickhams Cay I, P.O. Box 362, Road Town, Tortola, British Virgin Islands ("**[[Organization 4 Name]]**"); and
+
+^**[[Person 1 First Name]] [[Person 1 Last Name]]**, a citizen of the Republic of Bulgaria, residing at 19, Oborishte Str., 1504 Sofia, Bulgaria, holder of identity card no. 184961630 issued by the Republic of Bulgaria (the "**Consultant**");
+
+the "**Parties**" and each a "**Party**".  
+**WHEREAS**:  
+^CME ME owns [[Percentage 1: Number]]% of the issued share capital of [[Organization 3 Name]] (as defined below) and [[Percentage 1]]% of the issued share capital of Zopal (as defined below), [[Organization 4 Name]] own [[Percentage 2: Number]]% of the issued share capital of [[Organization 3 Name]] and [[Percentage 2]]% of the issued share capital of Zopal;
+
+^CME ME has entered into a Shareholders Agreement with [[Organization 4 Name]] and Equip (as defined below) (the "**Top Tone Parties**") dated 1 [[Date 2: Date]] (the "**Pro.BG Shareholders Agreement**") to regulate the business and affairs of the Pro.[[Organization 5 Name]] (as defined below);
+
+^CME ME has entered into a Master Share Purchase Agreement dated 28 [[Date 3: Date]] with [[Organization 4 Name]] (the "**MSPA**");
+
+^CME ME has entered into a Consultancy Deed with the Consultant dated 1 [[Date 2]] (the "**Consultancy Deed**");
+
+^CME ME has entered into a Letter Agreement with the Top Tone Parties and the Consultant dated 1 [[Date 2]] (the "**Letter Agreement**" and together with the Pro.BG Shareholders Agreement, the MSPA and the Consultancy Deed, the "**Pro.BG Agreements**");
+
+^CME ME intends that its wholly-owned subsidiary [[Organization 6 Name]], a company organized in the Netherlands ("**CME BG**"), acquire [[Percentage 3: Number]]% of the issued share capital of [[Organization 7 Name]] and [[Percentage 3]]% of the issued share capital of TV Europe (the "**bTV Transaction**") pursuant to a Deed relating to the Sale and Purchase of Certain Media Interests in Bulgaria among CME ME, [[Organization 8 Name]], News Netherlands B.V. and News Corporation dated 18 [[Date 4: Date]] ("**bTV SPA**"), as adhered to by CME BG pursuant to a deed of adherence dated 14 [[Date 1]] by and among [[Party 1]], News Netherlands B.V. and News Corporation;
+
+^CME DF is a wholly-owned subsidiary of CME ME;
+
+^In connection with and subject to the completion of the bTV Transaction:
+
+^^^[[Organization 4 Name]] wishes to sell and CME DF wishes to purchase the Shares (as defined below) on the terms and subject to the conditions set out in this Agreement;
+
+^^^CME ME, [[Organization 4 Name]] and the Consultant wish to amend certain agreements reached between themselves by terminating certain provisions of the Pro.BG Agreements; and
+
+^^^CME ME wishes to sell and [[Organization 4 Name]] wishes to purchase the CME BG Shares (as defined below) on the terms and subject to the conditions set out in this Agreement,
+
+(the "**Transaction**");  
+^CME ME, [[Organization 4 Name]] and the Consultant entered into a Sale and Purchase Agreement on 18 [[Date 4]] (the "**SPA**"); and
+
+^The Parties wish to amend and restate the SPA on the terms set out in this Agreement.
+
+**IT IS AGREED** as follows:  
+
+**Definitions and Interpretation**
+
+^^In this Agreement:
+
+"**Affiliate**"   of a person means, in relation to any corporate entity, any person that directly or indirectly through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such person and in relation to any individual, any family member of such individual;
+
+"**Agreed Form**"   means, in relation to a document, the form of that document which has been initialed for the purposes of identification only by either CME ME or CME DF, on the one hand, and [[Organization 4 Name]] on the other with such alterations as may be agreed from time to time between the Parties for any reason;
+
+"**Anti-Money** **Laundering Laws**"   has the meaning set forth in Clause 6.3.1;
+
+"**Applicable Law**"   means all laws, ordinances, regulations, judgments, decrees, decisions, writs, awards, orders or, directives of any governmental authority, and international treaties or any other agreements to which a governmental authority is a party, to the extent applicable to the Parties, this Agreement, the Investment Agreement or the business of the Parties;
+
+"**[[Organization 9 Name]]** **Group**"   means [[Organization 9 Name]] AD, a company incorporated under the laws of Bulgaria;
+
+"**Balkan News** **Corporation**"   means [[Organization 7 Name]] EAD, a company organized under the laws of Bulgaria, which is to be renamed [[Organization 10 Name]] EAD;
+
+"**BCPC**"   means the Bulgarian Commission for the Protection of Competition;
+
+"**bTV SPA**"   has the meaning set forth in the Recitals;
+
+"**bTV Transaction**"   has the meaning set forth in the Recitals;
+
+"**Business Day**"   means a day (other than a Saturday or a Sunday) on which commercial banks are open for general business in, Sofia, New York and London (other than solely for services via the internet);
+
+"**Call**"   has the meaning set forth in the Investment Agreement;
+
+"**Closing**"   means the completion of the sale and purchase of the Shares as described in Clause 4;
+
+"**Closing Date**"   has the meaning set forth in Clause 4.2.1;
+
+"**CME BG**"   has the meaning set forth in the Recitals;
+
+"**CME BG Shares** "   has the meaning set forth in Clause 2.3(i);
+
+"**[[Organization 11 Name]]**"   means [[Organization 8 Name]] and its subsidiaries;
+
+"**Consultancy Deed**"   has the meaning set forth in the Recitals;
+
+"**Control**"   means the power to direct or cause the direction of the management or policy of any Person, directly or indirectly, through family relationship (if a natural person), the holding of securities or other participation interests, by virtue of an agreement, arrangement or understanding or on other grounds, and "**Controlling**" and "**Controlled**" shall have the correlative meanings proceeding from this term;
+
+"**Deed of Termination**"   means the deed of termination to be entered into between CME ME, [[Organization 4 Name]] and KG in substantially the form set out in Schedule 1;
+
+"**Drag Along Right**"   has the meaning set forth in the Investment Agreement;
+
+"**Encumbrances**"   means any claim, charge, mortgage, security, lien, option, equity, power of sale, hypothecation or other third party right, retention of title, right of pre-emption, right of first refusal or security interest of any kind;
+
+"**Equip** "   means Equip Limited a BVI Business company incorporated under the laws of the British Virgin Islands;
+
+"**Execution Date**"   means the date hereof;
+
+"**Existing Dispute**"   has the meaning set forth in Clause 26.3;
+
+"**Investment Agreement**"   means the investment agreement to be entered into between the Parties in respect of their Ownership Interests and in accordance with Clause 2.4;
+
+"**Letter Agreement**"   has the meaning set forth in the Recitals;
+
+"**Long Stop Date**"   has the meaning set forth in the bTV SPA;
+
+"**MSPA**"   has the meaning set forth in the Recitals;
+
+"**Ownership Interests**"   has the meaning set forth in the Investment Agreement;
+
+"**Put**"   has the meaning set forth in the Investment Agreement;
+
+"**Pro.BG Agreements**"   has the meaning set forth in the Recitals;
+
+"**Pro.BG Business**"   means the broadcasting operations of the Pro.[[Organization 5 Name]];
+
+"**Pro.[[Organization 5 Name]]**"   means [[Organization 3 Name]] and Zopal and their respective subsidiaries;
+
+"**Pro.BG Shareholders** **Agreement**"   has the meaning set forth in the Recitals;
+
+"**Radiocompany C.J.**"   means Radiocompany C.J OOD, a company incorporated under the laws of Bulgaria;
+
+"**Related Dispute**"   has the meaning set forth in Clause 26.3;
+
+"**Share Option**"   has the meaning set forth in the Investment Agreement;
+
+"**Shares**"   means the [[Organization 3 Name]] Shares and the Zopal Shares;
+
+"**Tag-Along Right**"   has the meaning set forth in the Investment Agreement;
+
+"**[[Organization 3 Name]]**"   means [[Organization 3 Name]], a public limited liability company (société anonyme) organized under the laws of [[Address 2: Address]] number B 124257 and having its registered office at 15 Avenue de la Liberté, L-1931 [[Address 3: Address]]
+
+"**[[Organization 3 Name]] Shares**"   means the 620 ordinary shares in [[Organization 3 Name]] with a par value of EUR10 per share in the share capital of [[Organization 3 Name]] held by [[Organization 4 Name]];
+
+"**Top Tone Parties**"   has the meaning set forth in the Recitals;
+
+"**Transaction** "   has the meaning set forth in the Recitals;
+
+"**Transaction Documents**"   means this Agreement, the Deed of Termination, the Investment Agreement and any other document or agreement which the Parties designate as such;
+
+"**Triada**"   means [[Organization 12 Name]], a company incorporated under the laws of Bulgaria;
+
+"**TV Europe**"   means TV Europe B.V., a company incorporated under the laws of the Netherlands;
+
+"**US Dollars**" **or** "**US$**"   means the official currency for the time being of the United States of America;
+
+"**Warranties**"   means the representations and warranties contained in Clause 6 and each statement identified as a representation and warranty in any other Transaction Document;
+
+"**Working Hours**"   means the hours of 9:00 a.m. to 5:00 p.m. on a Business Day;
+
+"**Zopal**"   means [[Organization 13 Name]], a public limited liability company (société anonyme) organized under the laws of [[Address 2: Address]] number B 139431 and having its registered office at 15 Avenue de la Liberté, L-1931 [[Address 4: Address]]
+
+"**Zopal Shares**"   means the 20 ordinary shares in Zopal with a par value of EUR310 per share in the share capital of Zopal held by [[Organization 4 Name]].
+
+^^In construing this Agreement, unless otherwise specified:
+
+^^references to Clauses and Schedules are to clauses of, and schedules to, this Agreement;
+
+^^references to a "**person**" shall be construed so as to include any physical or legal person, firm, company or other body corporate, government, state or agency of a state, local or municipal authority or government body or any joint venture, association or partnership (whether or not having separate legal personality);
+
+^^a reference to any law, regulation, statute or statutory provision shall be construed as a reference to the same as it may have been, or may from time to time be, amended, modified or re-enacted;
+
+^^any reference to a "**day**" (including within the phrase "**Business Day**") shall mean a period of 24 hours running from midnight to midnight (except for the days of time change lasting 25 or 23 hours which days shall be 25 or 23 hours respectively);
+
+^^references to time are to Central European Time;
+
+^^a reference to any other document referred to in this Agreement is a reference to that other document as amended, varied, novated or supplemented (other than in breach of the provisions of this Agreement) at any time;
+
+^^headings, recitals and titles are for convenience only and do not affect the interpretation of this Agreement;
+
+^^general words shall not be given a restrictive meaning by reason of the fact that they are followed by particular examples intended to be embraced by the general words; and
+
+^^references to a "**Party**" or the "**Parties**" shall be construed as to include and each of its or their permitted successors and permitted assignees.
+
+**Transaction and Consideration**
+
+^^Purchase of the Shares
+
+^^^Subject to the terms and conditions herein, including the satisfaction of the conditions set out in Clause 3, [[Organization 4 Name]] agrees to sell the Shares and CME DF, relying on the Warranties and undertakings contained in this Agreement, agrees to purchase the Shares.
+
+^^^The Shares shall be sold with full title guarantee free from all Encumbrances and together with all rights attaching to them as at the date of this Agreement.
+
+^^^[[Organization 4 Name]] shall procure that on or prior to Closing any and all rights of pre-emption over the Shares (other than any pre-emption rights held by CME ME) are waived irrevocably by the persons entitled thereto.
+
+^^^CME DF shall not be obliged to complete the purchase of any of the Shares unless the purchase of all of the Shares is completed simultaneously.
+
+^^The consideration payable to [[Organization 4 Name]] for the sale of the Shares shall be €1.
+
+^^Deed of Termination
+
+Subject to the terms and conditions herein (including the sale and purchase of the Shares by CME DF set out in Clause 2.1) and in consideration of the payment by CME ME to [[Organization 4 Name]] of US$[[USD Value 1: Number]] CME ME, [[Organization 4 Name]] and the Consultant shall enter in the Deed of Termination on the Closing Date.
+
+^^Purchase of CME BG Shares
+
+^^^Subject to the terms and conditions herein, CME ME shall sell to [[Organization 4 Name]] 1,200 ordinary shares in CME BG representing [[Percentage 4: Number]]% of the issued share capital in CME BG on the Closing Date (the "**CME BG Shares**").
+
+^^^The consideration payable to CME ME for the sale of the CME BG Shares shall be US$[[USD Value 2: Number]]
+
+^^CME ME and [[Organization 4 Name]] undertake to enter into the Investment Agreement at Closing. The Investment Agreement shall be in the Agreed Form as attached in Schedule 2 of this Agreement.
+
+**Conditions to Obligations at Closing**
+
+^^The Closing is conditional on the satisfaction or waiver by CME ME pursuant to Clause 3.2 of all of the following conditions on or prior to the Long Stop Date:
+
+3.1.1   Completion (as defined in the bTV SPA) of the bTV Transaction having occurred;
+
+3.1.2   [[Organization 4 Name]] shall have performed and complied in all material respects with all covenants and agreements required by this Agreement or any of the other Transaction Documents to be performed or complied with by [[Organization 4 Name]];
+
+3.1.3   the Warranties given by [[Organization 4 Name]] and the Consultant shall be true and accurate in all material respects as of the Closing Date, or, if not true, shall have been remedied to the reasonable satisfaction of CME ME;
+
+3.1.4   CME ME, [[Organization 4 Name]] and the Consultant hereto shall have entered into the Deed of Termination with respect to the termination of rights and obligations in the Pro.BG Shareholders Agreement and the Consultancy Deed as set forth therein;
+
+3.1.5   there shall not be any injunction, decision, order or decree of any nature of any court or governmental entity, or any proceeding pending or threatened that could result in such an injunction, decision, order or decree, restraining, prohibiting or preventing any aspect of the Transaction;
+
+3.1.6   there shall not have been any action, or any statute, law or regulation enacted, by any governmental authority which would cause any Party to be unable to consummate the transactions contemplated herein or make the transactions contemplated herein illegal or prohibit, restrict or delay the consummation of any aspect of the Transaction; and
+
+3.1.7   the receipt by CME ME of a waiver in the Agreed Form from the Consultant in respect of all past, present or future charges, complaints, causes of action, demands or other claims of any nature whatsoever it or any of its Affiliates may have with respect to or against [[Organization 7 Name]], TV Europe, Triada, [[Organization 9 Name]], Radiocompany C.J. relating to or arising under the provision of any consultancy, advisory or similar services by the Consultant or any of its Affiliates to such entities or the legal and beneficial ownership in or any Encumbrance over any share capital in any such entity prior to the Closing.
+
+^^CME ME may at any time waive, in whole or in part, conditionally or unconditionally, any condition set out in Clause 3.1 above by notice in writing to [[Organization 4 Name]].
+
+^^If any condition specified in Clause 3.1 is not satisfied (or has not been waived by CME ME pursuant to Clause 3.2) on or before the Long Stop Date, except for this Clause 3.3 and Clauses 1, 10, 12 to 26, all of the provisions of this Agreement shall, unless otherwise agreed by the Parties in writing, lapse and cease to have effect and neither the lapsing of these provisions nor their ceasing to have effect shall affect any accrued rights or liabilities of the Parties in respect of damages for non-performance of any obligation under this Agreement falling due for performance prior to such lapse or cessation.
+
+**Closing**
+
+^^The Closing shall take place in London at the offices of [[Organization 14 Name]] at 1 Minister Court, Mincing Lane, London EC3R 7YL, or at such other location as agreed by the Parties following the satisfaction or waiver of the conditions set out in Clause 3.1.
+
+^^The Parties shall cause:
+
+4.2.1   the Closing to occur promptly after the date on which the conditions in Clause 3.1 have been satisfied or waived (the "**Closing Date**"); and
+
+^^On the Closing Date,
+
+4.3.1   CME DF shall pay to [[Organization 4 Name]] €1.
+
+4.3.2   CME ME shall:
+
+^^^pay to [[Organization 4 Name]] US$[[USD Value 3: Number]] as set out in the Deed of Termination;
+
+^^^cause the CME BG Shares to be transferred to [[Organization 4 Name]];
+
+^^^deliver to the Consultant on behalf of [[Organization 4 Name]] and the Consultant the Deed of Termination duly executed by CME ME;
+
+^^^deliver to [[Organization 4 Name]] the Investment Agreement duly executed by CME ME; and
+
+^^deliver to [[Organization 4 Name]] a closing certificate in a form to be agreed by the Parties.
+
+4.3.3   [[Organization 4 Name]] shall:
+
+^^^deliver to CME DF instruments of transfer in respect of the Shares, duly executed and completed in favour of CME DF;
+
+^^^deliver to CME DF any and all duly executed powers of attorney or other authorities under which any of the transfers have been executed;
+
+^^^deliver to CME DF certified copies of the minutes recording the resolution of the board of directors of [[Organization 4 Name]] authorizing the sale of the Shares and the execution of the transfers in respect of them;
+
+^^^deliver to CME DF a closing certificate a form to be agreed by the Parties and, if reasonably requested by CME DF, other confirmations of the satisfaction of the conditions set out in Clause 3.1;
+
+^^^deliver to CME DF any share certificates representing the Shares duly endorsed in the Agreed Form;
+
+^^^pay to CME ME US$[[USD Value 4: Number]] as set out in Clause 2.3(ii);
+
+^^^deliver to CME ME the Deed of Termination duly executed by [[Organization 4 Name]];
+
+^^^deliver to CME ME the Investment Agreement duly executed by [[Organization 4 Name]]; and
+
+^^^deliver to CME ME any other Transaction Documents required to be executed by [[Organization 4 Name]].
+
+4.3.4   The Consultant shall deliver to CME ME:
+
+^^^the Deed of Termination duly executed by the Consultant; and
+
+^^^any other Transaction Documents required to be executed by the Consultant so executed, as applicable.
+
+^^All deliveries of documents and actions contemplated by this Clause 4 to take place at Closing shall be deemed to have taken place simultaneously as part of a single transaction, none of which shall be considered to have taken place unless and until all such actions shall have taken place.
+
+**Obligations Prior to Closing**
+
+^^From and including the Execution Date and up to and including the earlier of the Closing Date and the Long Stop Date, each of the Parties shall (on its own behalf and on behalf of any Affiliate):
+
+5.1.1   take all reasonable steps or provide reasonable support, and not fail to take any actions, in respect of any proposed change in Applicable Law that is reasonably likely to have a detrimental effect on the Pro.BG Business;
+
+5.1.2   not cause or do any act or thing, the commission of which would constitute a breach of any Warranty given by that Party or any of its Affiliates contained herein or which would make any such Warranty inaccurate at the Closing Date; and
+
+5.1.3   to take such other actions as are required in order for such Party to consummate the transactions contemplated hereby and to give full effect to this Agreement.
+
+**Representations and Warranties**
+
+^^[[Organization 4 Name]] hereby represents and warrants to CME ME and CME DF as of the Execution Date and as of the Closing Date that:
+
+6.1.1   it is a corporation validly existing under the laws of the British Virgin Islands and it has the full power, authority and right to enter into and carry out its obligations hereunder;
+
+6.1.2   the Transaction Documents to which it is a party constitute its valid and legally binding obligations;
+
+6.1.3   the entry into and performance by it of each Transaction Document to which it is a party and the transactions contemplated by such Transaction Document do not and will not conflict with:
+
+^^^any law or regulation or judicial or other order;
+
+^^^its constitutional documents; or
+
+^^^any document which is binding on it or on any of its assets;
+
+6.1.4   the Shares constitute the whole of the issued, allotted and paid up share capital in [[Organization 3 Name]] and Zopal owned by [[Organization 4 Name]];
+
+6.1.5   [[Organization 4 Name]] is entitled to sell and transfer to CME ME the full legal and beneficial ownership of the Shares on the terms of this Agreement and has the right to exercise all voting rights in respect of the Holding Shares;
+
+6.1.6   the Shares are free from all Encumbrances;
+
+6.1.7   [[Organization 4 Name]] is not aware of any notice of any request to correct or rectify the shareholders registers of [[Organization 3 Name]] or Zopal;
+
+6.1.8   no person is entitled to receive from [[Organization 3 Name]], Zopal or any of their respective subsidiaries any finders fee brokerage or commission in connection with the sale of Shares under this Agreement;
+
+6.1.9   there are no outstanding agreements, arrangements or other understandings (whether by contract or otherwise) with any third parties granting them the right to acquire any of the Shares; and
+
+6.1.10   all consents for the transfer of the Shares have been obtained.
+
+^^The Consultant hereby represents and warrants to CME ME and CME DF as of the Execution Date and as of the Closing Date that:
+
+6.2.1   it has the full power, authority and right to enter into and carry out its obligations hereunder;
+
+6.2.2   the Transaction Documents to which it is a party constitute its valid and legally binding obligations;
+
+6.2.3   the entry into and performance by it of each Transaction Document to which it is a party and the transactions contemplated by such Transaction Document do not and will not conflict with:
+
+^^^any law or regulation or judicial or other order; or
+
+^^^any document which is binding on it or on any of its assets.
+
+^^Each of [[Organization 4 Name]] and the Consultant hereby represents and warrants to CME ME and CME DF as of the Execution Date and as of the Closing Date that:
+
+6.3.1   the Shares did not derive from, are not related to, and were not purchased with funds deriving from any activity that is deemed criminal under U.K. Law, U.S. Law, Bermuda Law, Dutch Law, Bulgarian Law or the Applicable Law of the jurisdiction in which such activity takes place. Transfer to CME ME of the Shares shall not cause CME to be in violation of any applicable laws against money laundering (**Anti-Money Laundering Laws**); and
+
+6.3.2   [[Organization 4 Name]] and the Consultant have since [[Date 5: Date]] been in compliance with the requirements of U.S. Foreign Corrupt Practices Act of 1977, as amended, and the requirements of all applicable anti-corruption law. Since [[Date 5]], [[Organization 4 Name]] and the Consultant have not, directly or indirectly, offered, promised, authorized or made any unlawful contribution, gift, entertainment or other unlawful payment to any foreign or domestic government official or employee, or any political party, party official, political candidate or official of any public international organization. The Consultant is not and has not since [[Date 5]] been an official, officer, director or employee of and does not act and has not since [[Date 5]] acted in an official capacity for or on behalf of any foreign or domestic government or government-owned or controlled entity.
+
+^^Each of CME ME and CME DF hereby represents and warrants to [[Organization 4 Name]] and the Consultant as of the Execution Date and as of the Closing Date that:
+
+6.4.1   it is a corporation validly existing under the laws of the Netherlands and it has the full power, authority and right to enter into and carry out its obligations hereunder;
+
+6.4.2   the Transaction Documents to which it is a party constitute its valid and legally binding obligations;
+
+6.4.3   the entry into and performance by it of each Transaction Document to which it is a party and the transactions contemplated by such Transaction Document do not and will not conflict with:
+
+^^^any law or regulation or judicial or other order;
+
+^^^its constitutional documents; or
+
+^^^any document which is binding on it or on any of its assets; and
+
+^^At Closing the CME BG Shares (if not newly issued) shall be transferred with full title guarantee free from all Encumbrances.
+
+^^Each of the warranties set out in Clauses 6.1.1, 6.1.2, 6.1.3 and 6.2.1, 6.2.2 and 6.2.3 above are deemed to be repeated by [[Organization 4 Name]] and the Consultant, as applicable, upon the exercise and upon the completion of the Share Option, the Drag Along Right the Tag Along Right, the Put or the Call.
+
+**Further Undertakings**
+
+^^In connection with the implementation of the bTV Transaction, [[Organization 4 Name]] hereby irrevocably and unconditionally waives any rights, remedies or claims which it may have against CME ME or any other member of the [[Organization 11 Name]] in respect of the Pro.BG Shareholders Agreement including but not limited to clauses 9.1, 9.2 and 10 of the Pro.BG Shareholders Agreement.
+
+^^Without prejudice to Clause 7.1 above, in connection with the implementation of the bTV Transaction [[Organization 4 Name]] and the Consultant hereby agrees to (i) fully cooperate with and promptly provide CME ME with such information regarding the businesses and affairs of [[Organization 4 Name]] as CME ME or the BCPC may require in connection with the bTV Transaction and (ii) accept all such undertakings, conditions or obligations adopted or imposed by the BCPC in order to address any serious competition concern which is notified to CME ME by the BCPC in relation to the bTV Transaction.
+
+^^The Parties agree that if CME ME reasonably determines that an alternative acquisition structure to that set out in Clause 2 provides preferable tax and accounting treatment, the Parties shall cooperate in good faith to agree on and implement an alternative structure or make any appropriate changes to the existing structure and accordingly this Agreement and any of the relevant Transaction Documents. All such changes shall in all material respects result in maintaining the same balance of commercial and economic interests of the Parties as existed before making any such changes.
+
+**Anti-Money Laundering and Anti-Corruption**
+
+^^[[Organization 4 Name]] and the Consultant acknowledge that [[Organization 8 Name]] and each member of the [[Organization 11 Name]] have since 1 [[Date 2]] complied and will continue to comply with the Anti-Money Laundering Laws, including taking any action necessary to do so.
+
+^^[[Organization 4 Name]] and the Consultant agree not to offer, promise, authorize or make, directly or indirectly, any unlawful contribution, gift, entertainment or other unlawful payment to any foreign or domestic government official or employee, or any political party, party official, political candidate or official of any public international organization.
+
+^^[[Organization 4 Name]] agrees to provide CME ME with such information as CME determines to be necessary or appropriate to comply with the Anti-Money Laundering Laws or to respond to requests for information concerning the identity of CME's shareholders from any governmental authority, self-regulatory organization or financial institution in connection with its anti-money laundering compliance procedures, or to update such information. In addition, each of [[Organization 4 Name]] and the Consultant and their respective Affiliates is not and has not since 1 [[Date 2]] been a Person identified as a terrorist organization or otherwise as a sanctioned Person on any relevant lists maintained by a governmental authority, including the U.S. Department of the Treasury's List of Specially Designated Nationals and Blocked Persons.
+
+**Status of Agreement and Effect**
+
+Each Party shall, to the extent that it is able to do so, exercise all its voting rights and other powers in relation to [[Organization 3 Name]] and Zopal to procure that the provisions of this Agreement are properly and promptly observed and given full force and effect.
+
+**Confidentiality**
+
+^^No Party shall divulge or communicate to any person (other than those of its shareholders, directors, employees and professional advisers whose province it is to know the same) or use or exploit for any reason whatsoever this Agreement or the matters contemplated hereby or the information disclosed by either Party to the other Party, and shall use its reasonable endeavours to prevent its employees from so acting.
+
+^^Notwithstanding the provisions of Clause 10.1, any Party may make an announcement or disclosure concerning this Agreement:
+
+^^if required by law or any requirement of any securities exchange or regulatory or governmental body to which that Party is subject, wherever situated, whether or not the requirement has the force of law, or
+
+^^to a Party's or its Affiliates' directors, officers, employees, professional advisers, counsel, rating agencies, and lenders or other providers of funds (a) who are directly concerned with this Agreement or any related arrangements or transactions, (b) whose knowledge of such information is reasonably necessary; and (c) who by its position or otherwise is under a duty to observe confidentiality in dealing with this Agreement and such related arrangements or otherwise must comply with the provisions of this Agreement in respect of confidentiality.
+
+^^The restrictions contained in this Clause 10 shall continue to apply for a period of three (3) years following the expiration or termination of this Agreement.
+
+**Trade Restrictions**
+
+^^Each of [[Organization 4 Name]] and the Consultant hereby jointly and severally undertakes and covenants with CME ME that it shall not, and shall procure that its Affiliates shall not, for a period of two years after the termination of the Investment Agreement, either on its own behalf or in any other capacity whatsoever directly or indirectly carry on or be concerned or engaged or interested directly or indirectly (whether as principal, shareholder, partner, employee, officer, agent or otherwise) in any part of any trade or business competing with any part of any the trade or business of the Pro.[[Organization 5 Name]] (save for any interest in the shares or other securities of a company traded on a securities market so long as such interest does not extend to more than [[Percentage 5: Number]]% of the issued share capital of the company or the class of securities concerned or as disclosed in writing to CME ME on the Execution Date).
+
+^^Each of [[Organization 4 Name]] and the Consultant hereby jointly and severally undertakes and covenants with CME ME that it shall not, and shall procure that its Affiliates shall not, for a period of two years after the termination of the Investment Agreement, either on its own behalf or in any other capacity whatsoever directly or indirectly:
+
+11.2.1   deal with, solicit, approach or offer goods or services to, for purposes of enticing away from CME ME and/or the Pro.[[Organization 5 Name]], any person, firm or company who is or was a client, customer, supplier, agent or distributor of CME ME, its Affiliates and/or the Pro.[[Organization 5 Name]] during the term of this Agreement or in the twelve (12) months prior to the termination of the Investment Agreement; or
+
+11.2.2   approach, solicit, entice away or endeavour to entice away, employ, offer employment to or procure the employment of any person who is or was an employee of CME ME, its Affiliates or Pro.[[Organization 5 Name]] whether or not such person would commit any breach of his contract of employment by reason of so leaving the service of CME ME or the Pro.[[Organization 5 Name]] or otherwise; or
+
+11.2.3   interfere or seek to interfere with the continuance, or any of the terms, of the supply of goods or services to CME ME, its Affiliates or the Pro.[[Organization 5 Name]]; or
+
+11.2.4   represent itself as being in any way connected with or interested in the business of CME ME, its Affiliates and/or the Pro.[[Organization 5 Name]] (other than as a consultant if such be the case) or use any name which is identical or similar to or likely to be confused with the name of CME ME, its Affiliates and/or the Pro.[[Organization 5 Name]] or any product or service produced or provided by CME ME, its Affiliates and/or the Pro.[[Organization 5 Name]] or which might suggest a connection with CME ME, its Affiliates and/or the Pro.[[Organization 5 Name]]
+
+^^Each of the restrictions contained in Clauses 11.1, 11.2.1, 11.2.2, 11.2.3 and 11.2.4 is separate and distinct and is to be construed separately from the other such restrictions. Each of [[Organization 4 Name]] and the Consultant hereby jointly and severally acknowledges (having received professional advice) that it considers such restrictions to be reasonable both individually and in the aggregate and that the duration, extent and application of each of such restrictions is no greater than is necessary for the protection of the goodwill of the businesses of the Pro.[[Organization 5 Name]] and the [[Organization 11 Name]].
+
+**Notices**
+
+^^Any notice or other communication to be given under this Agreement shall be in writing, in the English language, and shall be deemed to have been duly given to a Party:
+
+^^on receipt, when delivered personally;
+
+^^on the next following Business Day following being transmitted by facsimile with suitable proof of transmission; or
+
+^^three Business Days following being sent by an international courier service.
+
+^^For purposes of this Clause, the authorized address and facsimile details of the Parties shall be as follows:
+
+if to CME ME or CME DF:  
+Dam 5B 
+Royal Dam Center 
+2nd Floor 
+JS 1012 [[Address 5: Address]]  
+Attn: Managing Director  
+Tel.: + 31 20 626 8867 
+Fax: + 31 20 423 1404  
+with a copy to:  
+[[Organization 15 Name]] 
+[[Address 6: Address]] 
+United Kingdom  
+Attn: General Counsel  
+Tel.: + 44 [[Phone 1]] 
+Fax: + 44 [[Phone 2]]  
+if to [[Organization 4 Name]]:  
+OCRA (Isle of Man) Limited 
+Grosvenor Court 
+Tower Street 
+
+Ramsey 
+Isle of Man IM8 1JA 
+British Isles  
+Attn: Mr. [[Person 2 First Name]] [[Person 2 Last Name]]  
+Tel.: +44 1624 811000 
+Fax: +44 1624 811001  
+with a copy to:  
+Mrs. [[Person 3 First Name]] [[Person 3 Last Name]] 
+^, Fr. Joliot Curie Str. 
+1113 Sofia 
+Bulgaria  
+Tel.: + 359 2 963 0077 
+Fax: + 359 2 963 0077  
+if to the Consultant:  
+[[Person 1 First Name]] [[Person 1 Last Name]] 
+^, Oborishte Str., 
+1504 Sofia, 
+Bulgaria  
+Tel.: +359 2 943 0610 
+Fax: +359 2 946 3740  
+or such other address as such Party may notify to the other in writing from time to time in accordance with the requirements of this Section, such notice to be effective five Business Days after the date of such notice or following such longer period as may be set out in such notice.
+
+^^Any notice given under this Agreement outside Working Hours of the place to which it is addressed shall be deemed not to have been given until the start of the next period of Working Hours in such place.
+
+**Set-Off**
+
+The Parties agree that CME ME shall be entitled to set-off any and all amounts due to [[Organization 4 Name]] under or in connection with this Agreement from any and all amounts due from [[Organization 4 Name]] to CME ME in connection with this Agreement.
+
+**Entire Agreement**
+
+^^This Agreement together with the other Transaction Documents constitute the whole agreement between the Parties and supersedes any arrangements, understanding or previous agreement between them relating to the subject matter to which they relate.
+
+^^Each Party acknowledges that in entering into this Agreement, it does not rely on, and shall have no remedy in respect of, any statement, representation, assurance or warranty of any person other than as expressly set out in this Agreement.
+
+^^Nothing in this Clause 14 operates to limit or exclude any liability for fraud.
+
+**Third Party Rights**
+
+No person who is not a Party to this Agreement shall have any rights under the Contracts (Rights of Third Parties) Act 1999 to enforce a term of this Agreement.
+
+**Amendments**
+
+This Agreement may be amended or modified only if in writing (including a written document evidenced by a facsimile transmission) and signed by each of the Parties.
+
+**Waiver**
+
+^^The single or partial exercise of any right, power or remedy provided by law or under this Agreement shall not preclude any other or further exercise of it or the exercise of any other right, power or remedy.
+
+^^None of the terms of this Agreement may be waived except by an instrument in writing duly executed by the waiving Party.
+
+**Costs and Expenses**
+
+Except as specified herein, each Party shall be liable for its own costs and expenses in relation to the negotiation, preparation, execution and carrying into effect of this Agreement.
+
+**Joint and Several Liability**
+
+^^Unless expressly provided otherwise in this agreement, [[Organization 4 Name]] and the Consultant shall be jointly and severally liable for their respective obligations and liabilities arising under this Agreement.
+
+^^CME ME or CME DF may take action against, or release or compromise the liability of, any of [[Organization 4 Name]] or the Consultant, or grant time or other indulgence, without affecting the liability of [[Organization 4 Name]] or the Consultant, as applicable.
+
+**Assignment**
+
+The provisions of this Agreement shall be binding upon and shall inure to the benefit of the Parties and their respective successors and permitted assigns. No Party may assign its rights (or, for the avoidance of doubt, its obligations) under this Agreement without the express written consent of the other Party, which shall not be unreasonably withheld or delayed.
+
+**No Partnership**
+
+This Agreement does not create or imply any partnership between the Parties and there is no relationship of principal and agent between them.
+
+**Severability**
+
+If any provision of this Agreement (or of any document referred to herein) is held to be illegal, invalid or unenforceable in whole or in part, the legality, validity and enforceability of the remaining provisions of this Agreement (or such other document) shall not in any way be affected or impaired thereby. If any provision or part of this Agreement (or any document referred to herein) is held to be illegal, invalid or unenforceable, then the Parties shall use reasonable endeavours to the fullest extent permitted by law to amend the terms of this Agreement (or such other document) to give effect to the transactions contemplated hereby, and if any invalid, unenforceable or illegal provision would be valid, enforceable or legal if some part of it were deleted or modified, the provision shall apply with whatever modification is necessary to give effect to the commercial intention of the Parties.
+
+**Further Assurance**
+
+Each of the Parties shall, at the request of any other Party, do or, so far as each is able procure, the doing of all such acts and/or execute or procure the execution of all such documents in a form satisfactory to such other Party concerned as they may reasonably consider necessary for giving full effect to this Agreement and securing to such other Party the full benefit of the rights, powers and remedies conferred upon them in this Agreement.
+
+**Counterparts**
+
+This Agreement may be executed in any number of counterparts, each of which is an original and which together have the same effect as if each Party had signed the same document, provided that each Party executes at least one counterpart.
+
+**Governing Law and Jurisdiction**
+
+This Agreement shall be governed by and construed in accordance with the laws of England.
+
+**Dispute Resolution**
+
+^^Any disputes, claims or controversy arising out of or related to this Agreement, including any question as to its formation, validity, interpretation or termination, which cannot be resolved by negotiations between the Parties shall be settled by arbitration on an ad hoc basis in accordance with the Rules of the London Court of International Arbitration, which are deemed to be incorporated by reference into this Clause 26, except to the extent modified by this Clause 26. The tribunal shall consist of three arbitrators. CME ME and CME DF shall nominate one arbitrator, [[Organization 4 Name]] and the Consultant shall jointly nominate one arbitrator and the third arbitrator shall be appointed by the two arbitrators nominated by the Parties. Any Party shall have the right to initiate the proceedings.
+
+^^The seat of the arbitration shall be London, England. The language of the arbitration shall be English, except that any party to the arbitration may submit testimony or documentary evidence in Bulgarian, whereupon it shall also furnish a certified translation or interpretation of any such evidence into English.
+
+^^If any dispute arising out of or relating to this Agreement (hereinafter referred to as a "**Related Dispute**") raises issues which are substantially the same as or connected with issues raised in another dispute which has already been referred to arbitration under this Agreement or another Transaction Document (an "**Existing Dispute**"), the tribunal appointed or to be appointed in respect of any such Existing Dispute shall also be appointed as the tribunal in respect of any such Related Dispute. Where, pursuant to the foregoing provisions, the same tribunal has been appointed in relation to two or more disputes, the tribunal may, with the agreement of all the parties concerned or upon the application of one of the Parties, being a Party to each of the disputes, order that the whole or part of th e matters at issue shall be heard together upon such terms or conditions as the tribunal thinks fit. The tribunal shall have power to make such directions and any interim or partial award as it considers just and desirable.
+
+^^The Parties agree that money damages would not be a sufficient remedy for any breach of this Agreement by [[Organization 4 Name]] or the Consultant and that in addition to all other remedies, CME ME and CME DF shall be entitled to specific performance and to injunctive or other equitable relief as remedies for any such breach or threatened breach of this Agreement by [[Organization 4 Name]] or the Consultant without proof of actual damages. The Parties agree not to oppose the granting of such relief, and to waive, and to use their best efforts to cause any Affiliate to waive, any requirement for the securing or posting of any bond in connection with such remedy
+
+**IN WITNESS WHEREOF**, the Parties have duly executed and delivered this Amended and Restated Sale and Purchase Agreement as a deed on the date first written above.
+
+**EXECUTED** and **DELIVERED** as a **DEED**   )
+[[EXECUTED and DELIVERED as a DEED Signatory Email: Identity | Signature]]
+__________________________________________
+{{EXECUTED and DELIVERED as a DEED Entity => By: [[EXECUTED and DELIVERED as a DEED Signatory First Name]] [[EXECUTED and DELIVERED as a DEED Signatory Last Name]]
+Title: [[EXECUTED and DELIVERED as a DEED Signatory Title]]}}
+
+**[[Organization 1 Name]]**   )
+acting by Pan Invest B.V, represented [[Acting by Pan Invest B.V represented Signatory Email: Identity | Signature]]
+__________________________________________
+{{Acting by Pan Invest B.V represented Entity => By: [[Acting by Pan Invest B.V represented Signatory First Name]] [[Acting by Pan Invest B.V represented Signatory Last Name]]
+Title: [[Acting by Pan Invest B.V represented Signatory Title]]}}
+
+^v. d. Berg   )   **/s/ [[Person 4 First Name]] [[Person 4 Last Name]] den Berg**
+in the presence of:   )
+
+**/s/ [[Person 5 First Name]] [[Person 5 Last Name]] – v. Spaendonck**
+Signature of Witness
+Name of Witness: [[Person 5 First Name]] [[Person 5 Last Name]]-v. Spaendonck
+Occupation of Witness: Acc. Manager
+Address of Witness:
+
+and [[Person 6 First Name]] [[Person 6 Last Name]]   )   **/s/ [[Person 6 First Name]] [[Person 6 Last Name]]**
+in the presence of:   )
+
+**/s/ [[Person 5 First Name]] [[Person 5 Last Name]] – v. Spaendonck**
+Signature of Witness
+
+Name of Witness: [[Person 5 First Name]] [[Person 5 Last Name]]-v. Spaendonck
+Occupation of Witness: Acc. Manager
+Address of Witness:
+
+**EXECUTED** and **DELIVERED** as a **DEED**   )
+by   )
+**[[Organization 2 Name]]**   )
+acting by Pan Invest B.V, represented by   )
+^v. d. Berg   )   **/s/ [[Person 4 First Name]] [[Person 4 Last Name]] den Berg**
+in the presence of:   )
+
+**/s/ [[Person 5 First Name]] [[Person 5 Last Name]] – v. Spaendonck**
+Signature of Witness
+Name of Witness: [[Person 5 First Name]] [[Person 5 Last Name]]-v. Spaendonck
+Occupation of Witness: Acc. Manager
+Address of Witness:
+
+and [[Person 6 First Name]] [[Person 6 Last Name]]   )   **/s/ [[Person 6 First Name]] [[Person 6 Last Name]]**
+in the presence of:   )
+
+**/s/ [[Person 5 First Name]] [[Person 5 Last Name]] – v. Spaendonck**
+Signature of Witness
+
+Name of Witness: [[Person 5 First Name]] [[Person 5 Last Name]]-v. Spaendonck
+Occupation of Witness: Acc. Manager
+Address of Witness:
+
+**EXECUTED** and **DELIVERED** as a **DEED** by   )
+**[[Person 7 First Name]] [[Person 7 Last Name]]**   )
+acting as attorney for   )
+**[[Organization 3 Name]] LIMITED**   )   **/s/ [[Person 7 First Name]] [[Person 7 Last Name]]**
+under a power of attorney dated 16 [[Date 4]]   )
+in the presence of:
+
+**/s/ [[Person 8 First Name]] [[Person 8 Last Name]]**
+Name of Witness: [[Person 8 First Name]] [[Person 8 Last Name]]      Signature of Witness
+Occupation of Witness: Head of Office
+Address of Witness:
+
+**EXECUTED** and **DELIVERED** as a **DEED** by   )
+**[[Person 9 First Name]] [[Person 9 Last Name]]**   )
+acting as attorney for   )
+**[[Organization 3 Name]] LIMITED**   )   **/s/ [[Person 9 First Name]] [[Person 9 Last Name]]**
+under a power of attorney dated 16 [[Date 4]]   )
+in the presence of:
+
+**/s/ [[Person 8 First Name]] [[Person 8 Last Name]]**
+Name of Witness: [[Person 8 First Name]] [[Person 8 Last Name]]      Signature of Witness
+Occupation of Witness: Head of Office
+Address of Witness:
+
+**EXECUTED** and **DELIVERED** as a **DEED** by   )
+**[[Person 1 First Name]] [[Person 1 Last Name]]**   )
+in the presence of:   )   **/s/ [[Person 1 First Name]] [[Person 1 Last Name]]**
+
+**/s/ [[Person 10 First Name]] [[Person 10 Last Name]]**
+Name of Witness: [[Person 10 First Name]] [[Person 10 Last Name]]      Signature of Witness
+Occupation of Witness: Personal Assistant
+Address of Witness:

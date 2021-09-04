@@ -1,0 +1,56 @@
+\centered [[Organization 1 Name]]
+
+\centered “Promissory Note Agreement”
+
+NOTE AMOUNT
+ISSUANCE DATE   [[Date 1: Date]]
+MATURITY DATE   [[Date 2: Date]]
+
+FOR VALUE RECEIVED, **[[Organization 1 Name]]**, a Nevada Corporation (OTC BB: PIVN) hereby promises to pay **_____________**. (the “**Holder**”) on March ________, 2012 (the “Maturity Date”), or earlier, the Note Amount of **______________________ (_____________)** plus accrued and unpaid interest thereon, in such amounts, at such times and on such terms and conditions as are specified herein. The Company, and the Holder are sometimes hereinafter collectively referred to as the “**Parties**” and each a “**Party**” to this Promissory Note Extension Agreement (the “Agreement”).
+
+WHEREAS, the Company desires to accept finance, from the Holder, for working capital needs.
+
+WHEREAS, the Holder desires to finance the Company upon the terms and conditions set forth in this Agreement.
+
+In consideration of the above recitals, the terms and covenants of this Agreement and other good and valuable consideration, including the payment of money from Holder to Company, the receipt of which is hereby acknowledged to be the date of issuance, and intending to be bound hereby, the Parties agree as follows:
+
+^; Repayment; Interest  
+1.1Interest  
+The Company shall pay interest on the Note Amount (“**Note Amount Interest**”) at the rate of **eleven percent ([[Percentage 1: Number]]%)** per annum. Interest shall be accrued on a monthly basis. The Company shall make mandatory quarterly payments of interest (the “**Note Amount Interest Payments**”), in an amount equal to the interest accrued on the balance of the Note. The Note Amount Interest Payments shall commence on the third month following the Issuance Date (as defined in the Old Note) and shall continue every three months until the Maturity Date.
+
+^Payment and repayment  
+Payment.  
+The Holder encloses herewith a check payable to, or will immediately make a wire transfer payment to, “[[Organization 1 Name]]” or to its wholly owned subsidiary “[[Organization 2 Name]], Ltd” in the full amount of the Note. The date of issuance shall be determined to be the date the funds appear in the company’s bank account.
+
+Repayment  
+The Company shall pay the Holder the full Note Amount of **______________________** on March____, 2012 (the “Maturity Date”), or earlier plus accrued and unpaid interest. There will be no penalties for early repayment.
+
+^shares  
+The Company shall issue to the Holder **____________________** **(________)** shares of unregistered, restricted Common Stock (the “**Incentive Shares**”) as an incentive for the Holder entering into this Agreement with the Company. The number of Incentive Shares issuable is determined by dividing (x) **$___________**, which is equal to seven percent ([[Percentage 2: Number]]%) of the Note Amount, by (y), the market price of the Company’s Common Stock times (z) the years of the note. For purposes of this Article, ”market price” shall be determined by the most recent closing sale price of the shares of the C ompany’s Common Stock as of the date hereof. These Incentive Shares shall be issued and delivered to the Holder within 21 days of the date hereof. The Holder herby acknowledges that he is aware that these shares are restricted under rule 144 and cannot be sold for a period of at least six (6) months from date of issuance.
+
+\centered X   *   Z   =   Number of shares issued
+\centered Y
+
+^Default and remedies   
+There shall be 2 kinds of defaults recognized under this Agreement:
+
+a.In the event that the Company defaults on paying the quarterly interest payments as described in Article 1 Section 1.1, the Company will have a grace period of ten (10) days in which to come up with the payment and suffer no penalty. If the Company fails to pay within the ten day period then it shall suffer from an automatic increase by [[Percentage 3: Number]]% of the annual percentage rate. This increase shall also be applied retroactively to the date of the latest payment made by the Company.
+
+b.In the event that the Company defaults on paying the whole or part of the principal on Maturity Date, the Company will have a grace period of ten (10) days in which to come up with the payment and suffer no penalty. If the Company fails to pay within the ten day period then it shall suffer from an automatic increase of by [[Percentage 3]]% of the annual percentage rate. This increase shall also be applied retroactively to the date of the latest payment made by the Company.
+
+^Representations of Holder  
+
+^^The Holder acknowledges that the Company is effecting this transaction pursuant to Regulation D promulgated under the Securities Act of 1933, as amended (the “Act”) and that all securities (the Note, the shares and the Warrants) will bear standard restrictive legends and may not be offered or resold absent an effective registration statement or pursuant to an exemption from the Act.
+
+^^The Holder represents that he is acquiring the securities for investment purposes with no intention to resell the securities.
+
+^^The Holder represents that they are an “accredited investor” as such term is defined under Regulation D of the Act and that they can afford the loss of their entire investment.
+
+IN WITNESS WHEREOF, the Company has duly executed this Debenture as of the date first written above.
+
+[[Organization 1 Name]]
+
+Name:
+Title:
+
+Name:

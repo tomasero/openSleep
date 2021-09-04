@@ -1,0 +1,47 @@
+\centered Fir Tree Value [[Organization 1 Name]]
+
+\centered Fir Tree Capital Opportunity [[Organization 1 Name]]
+
+\centered Fir Tree Mortgage Opportunity [[Organization 1 Name]]
+
+\centered [[Organization 2 Name]]
+
+\centered c/o [[Organization 3 Name]]
+
+\centered 505 Fifth Avenue, 23rd Floor
+
+\centered [[Address 1: Address]]
+
+[[Date 1: Date]]  
+[[Organization 4 Name]], Inc. 
+[[Address 2: Address]]  
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]], Esq.  
+Dear Doug:  
+We refer to the Securities Purchase Agreement dated as of [[Date 2: Date]] among [[Organization 4 Name]], Inc. (the “**Company**”) and the investors party thereto, as amended and restated by the Amended and Restated Securities Purchase Agreement of even date herewith (as amended and restated, the “**Amended and Restated Securities Purchase Agreement**”). Capitalized terms used and not otherwise defined herein shall have the meanings ascribed to such terms in the Amended and Restated Securities Purchase Agreement.
+
+As an inducement to us to (a) enter into the Amended and Restated Securities Purchase Agreement, (b) consent to the Company’s execution of the Investment Agreement between the Company CapGen [[Organization 5 Name]] (the “**CapGen Investment Agreement**”) and CapGen Investor Letter, in each case, of even date herewith, and (c) waive our rights under Section 3.12 of the Amended and Restated Securities Purchase Agreement in respect of the amendment and restatement of the Original Stock Purchase Agreement with respect to CapGen embodied by the CapGen Investment Agreement, the Company hereby agrees to pay to Fir Tree Value [[Organization 1 Name]], Fir Tree Capital Opportunity [[Organization 1 Name]], Fir Tree Mortgage Opportunity [[Organization 1 Name]] and Fir Tree REOF I I Master Fund (the “**Fir Tree Investors**”), pro rata in accordance with their respective subscription for Shares, a cash payment in the amount of $[[USD Value 1: Number]] in immediately available funds (the “**Consent Payment**”). The Consent Payment shall be made by the Company to the Fir Tree Investors upon the First Closing to the bank account designated by the Fir Tree Investors not less than two Business Days prior to the First Closing.
+
+[[Person 1 First Name]] [[Person 1 Last Name]], Esq. 
+[[Date 1]] 
+Page two 
+
+If you are in agreement with the foregoing, kindly countersign this letter where indicated below.
+
+Very truly yours,  
+Fir Tree Value [[Organization 1 Name]] 
+Fir Tree Capital Opportunity [[Organization 1 Name]]
+
+Fir Tree Mortgage Opportunity [[Organization 1 Name]]
+
+[[Organization 2 Name]]   
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+ACKNOWLEDGED AND AGREED:  
+[[Organization 4 Name]], INC.   
+[[[[Organization 4 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]]. Entity => By: [[[[Organization 4 Name]]. Signatory First Name]] [[[[Organization 4 Name]]. Signatory Last Name]]
+Title: [[[[Organization 4 Name]]. Signatory Title]]}}

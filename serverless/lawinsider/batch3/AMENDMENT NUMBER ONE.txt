@@ -1,0 +1,246 @@
+\centered **AMENDMENT NUMBER ONE TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT** 
+
+This **AMENDMENT NUMBER ONE TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT** (this “Agreement”) is entered into as of [[Date 1: Date]], by and among the lenders identified on the signature pages hereof (such lenders, together with their respective successors and permitted assigns, are referred to hereafter each individually as a “Lender” and collectively as the “Lenders”), **[[WFCF]]**) (“WFCF”), as the arranger and administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, “Agent”), **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] (“Borrower”), and the Guarantors (as defined in the below-defined Credit Agreement). 
+
+\centered W I T N E S S E T H 
+
+**WHEREAS**, Borrower, Agent, WFCF and [[Organization 1 Name]], a Delaware limited liability company (“Jefferies Finance”), as co-lead arrangers and co-bookrunners, WFCF and Jefferies Finance, as co-syndication agents, and the lenders party thereto from time to time have entered into that certain Second Amended and Restated Credit Agreement, dated as of [[Date 2: Date]] (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), pursuant to which Lenders have made certain loans and financial accommodations available to Borrower; and 
+
+**WHEREAS**, the Lenders and Borrower have agreed to make certain amendments to the Credit Agreement. 
+
+**NOW, THEREFORE**, in consideration of the foregoing and the mutual covenants herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows: 
+
+^Defined Terms. All terms used herein and not otherwise defined shall have the meanings ascribed thereto in the Credit Agreement. 
+
+^Amendments to Credit Agreement. 
+
+^^Schedule 1.1 to the Credit Agreement is hereby amended by adding, or amending and restating, as applicable, the following defined terms in alphabetical order therein: 
+
+“Acquisition” means (a) the purchase or other acquisition by a Person or its Subsidiaries of all or substantially all of the assets of (or any division or business line of) any other Person, or (b) the purchase or other acquisition (whether by means of a merger, consolidation, or otherwise) by a Person or its Subsidiaries of all or substantially all of the Stock of any other Person. 
+
+“Excess Availability” means, as of any date of determination, the amount equal to Availability *minus* the aggregate amount, if any, of all trade payables of Borrower and its Subsidiaries aged in excess of historical levels with respect thereto and all book overdrafts of Borrower and its Subsidiaries in excess of historical practices with respect thereto, in each case as determined by Agent in its Permitted Discretion. 
+
+“First Amendment” means that certain Amendment Number One to Second Amended and Restated Credit Agreement, dated as of [[Date 1]], by and among Borrower, the Guarantors, Agent, and the Lenders party thereto. 
+
+“First Amendment Effective Date” has the meaning specified therefor in the First Amendment. 
+
+“Guarantors” means (a) each Restricted Subsidiary of Borrower and (b) any other guarantor of the Obligations, and “Guarantor” means any one of them. 
+
+“Investment” means, with respect to any Person, any investment by such Person in any other Person (including Affiliates) in the form of loans, guarantees, advances, capital contributions (excluding (a) commission, travel, and similar advances to officers and employees of such Person made in the ordinary course of business, and (b) *bona fide* Accounts arising in the ordinary course of business consistent with past practice), or acquisitions of Indebtedness, Capital Stock, or all or substantially all of the assets of such other Person (or of any division or business line of such other Person) (including any Acquisition), and any other items that are or would be classified as investments on a balance sheet prepared in accordance with GAAP. 
+
+“Permitted Acquisition” means any Acquisition so long as: 
+
+^^no Default or Event of Default shall have occurred and be continuing or would result from the consummation of such proposed Acquisition and such proposed Acquisition is consensual, 
+
+^^no Indebtedness will be incurred, assumed, or would exist with respect to Borrower or its Subsidiaries as a result of such Acquisition, other than (i) Indebtedness permitted pursuant to clauses (m), (o) or (s) of the definition of Permitted Indebtedness, or (ii) Indebtedness permitted pursuant to clause (c) of the definition of Permitted Indebtedness so long as, on a pro forma basis after giving effect to the incurrence of such Indebtedness, (A) the First Lien Leverage Ratio of Borrower and its Subsidiaries as of the end of the fiscal quarter most recently ended is at least .25 less than the maximum First Lien Leverage Ratio permitted pursuant to Section 7(b) for such fiscal quarter, and (B) the Total Leverage Ratio of Borrower and its Subsidiaries as of the end of the fiscal quarter most recently ended is at least .25 less than the maximum Total Leverage Ratio permitted pursuant to Section 7(d) for such fiscal quarter, 
+
+^^no Liens will be incurred, assumed, or would exist with respect to the assets of Borrower or its Subsidiaries as a result or such Acquisition other than Permitted Liens, 
+
+^^Borrower has provided Agent with written confirmation, supported by reasonably detailed calculations, that on a *pro forma* basis after giving effect to the consummation of such proposed Acquisition (including *pro forma* adjustments arising out of events which are directly attributable to such proposed Acquisition, are factually supportable, and are expected to have a continuing impact, in each case, determined as if the combination had been accomplished at the beginning of the relevant period; such eliminations and inclusions to be approved by Agent in its Permitted Discretion; provided that if the Required Lenders object to or approve such eliminations and inclusions, Agent shall act at the direction of the Required Lenders) created by adding the historical combined financial statements of Borrower (including the combined financial statements of any other Person or assets that were the subject of a prior Permitted Acquisition during the relevant period) to the historical consolidated financial statements of the Person to be acquired (or the historical financial statements related to the assets to be acquired) pursuant to such proposed Acquisition, (i) Borrower would have been in compliance with the financial covenants in Section 7 of the Agreement for each of the 4 fiscal quarter periods ended immediately prior to the proposed date of consummation of such proposed Acquisition, (ii) Borrower is projected to be in compliance with the financial covenants in Section 7 for each of the 4 fiscal quarter periods ended one year after the proposed date of consummation of such proposed Acquisition, (iii) if the purchase consideration for such proposed Acquisition is equal to or greater than $[[USD Value 1: Number]] (A) the First Lien Leverage Ratio of Borrower and its Subsidiaries as of the end of the fiscal quarter most recently ended is at least .25 less than the maximum First Lien Leverage Ratio permitted pursuant to Section 7(b) for such fiscal quarter, and (B) the Total Leverage Ratio of Borrower and its Subsidiaries as of the end of the fiscal quarter most recently ended is at least .25 less than the maximum Total Leverage Ratio permitted pursuant to Section 7(d) for such fiscal quarter, 
+
+^^on a *pro forma* basis after giving effect to the consummation of such proposed Acquisition, the assets being acquired or the Person whose Stock is being acquired did not have negative EBITDA during the 12 consecutive month period most recently concluded prior to the date of the proposed Acquisition, 
+
+^^Borrower has provided Agent with its due diligence package relative to the proposed Acquisition, including (i) forecasted balance sheets, profit and loss statements, and cash flow statements of the Person or related to the assets to be acquired, all prepared on a basis consistent with Borrower’s historical financial statements, together with appropriate supporting details and a statement of underlying assumptions for the 1 year period following the date of such proposed Acquisition, on a quarter by quarter basis), in form and substance (including as to scope and underlying assumptions) reasonably satisfactory to Agent (provided that in any event such forecasted financial statements shall be in a form that is reasonably comparable to such Person’s historical financial statements), and (ii) either (A) balance sheets, profit and loss statements, and cash flow statements of the Person or related to the assets to be acquired for the 2 year period preceding the date of such proposed Acquisition, or (B) a quality of earnings report for the Person or related to the assets to be acquired, in each case in form and substance reasonably satisfactory to Agent, 
+
+^^Borrower shall have Excess Availability plus Qualified Cash (excluding Qualified Cash in the Restricted Account) in an amount equal to or greater than $[[USD Value 2: Number]] immediately after giving effect to the consummation of such proposed Acquisition, 
+
+^^Borrower has provided Agent with (i) written notice of such proposed Acquisition at least 15 Business Days prior to the anticipated closing date of such proposed Acquisition, (ii) copies of (A) the acquisition agreement relative to the proposed Acquisition at least 5 Business Days prior to the anticipated closing date of such proposed Acquisition, and (B) such other documents relative to the proposed Acquisition as are reasonably requested by Agent within 2 Business Days of request therefor by Agent, and (iii) a certificate of a chief financial officer of Borrower certifying as to the available amounts immediately prior to the anticipated closing date of such proposed Acquisition under each of the following baskets in the Agreement: (A) clause (t) of the definition of Permitted Investments, (B) clause (k) of the definition of Permitted Acquisitions, and (C) Section 6.9(d)(ix) at least 5 Business Days prior to the anticipated closing date of such proposed Acquisition, 
+
+^^the assets being acquired (other than a *de minimis* amount of assets in relation to Borrower’s and its Subsidiaries’ total assets), or the Person whose Stock is being acquired, are useful in or engaged in, as applicable, the business of Borrower and its Subsidiaries or a business reasonably related thereto; provided that in no event shall the assets being acquired or the Stock being acquired be related to, affiliated with, used in, or supportive of the business of Golden Nugget, Inc. or any of its Subsidiaries; provided further that (i) for the avoidance of doubt, the foregoing proviso shall not prevent the acquisition of a gaming business that is not related to, affiliated with, used in, or supportive of the business of Golden Nugget, Inc. or any of its Subsidiaries, and (ii) the foregoing proviso shall not prevent Borrower and its Subsidiaries from opening restaurant locations in the Golden Nugget, Inc. casinos with the brand of the Person acquired so long the number of restaurant locations in the Golden Nugget, Inc. casinos with a Landry’s-related brand (including the brand of the Person acquired) does not increase by more than 1. 
+
+^^the assets being acquired (other than a *de minimis* amount of assets in relation to the assets being acquired) are located within the United States or the Person whose Stock is being acquired is organized in a jurisdiction located within the United States, 
+
+^^the subject assets or Stock, as applicable, are being acquired directly by a Borrower or one of its Subsidiaries that is a Loan Party, and, in connection therewith, Borrower or the applicable Loan Party shall have complied with Section 5.11 or 5.12, as applicable, of the Agreement (for the avoidance of doubt, it being understood and agreed, that any Person being acquired shall be a Restricted Subsidiary) and, in the case of an acquisition of Stock, Borrower or the applicable Loan Party shall have demonstrated to Agent that the new Loan Parties have received consideration sufficient to make the joinder documents binding and enforceable against such new Loan Parties, and 
+
+^^the purchase consideration payable in respect of all Permitted Acquisitions (including such proposed Acquisition and including deferred payment obligations) shall not exceed the sum of (i) $[[USD Value 3: Number]] *plus* (ii) immediately following the Restricted Account Termination Date (but not before), the lesser of (A) the amount of Senior Secured Notes issued on or within 30 days after the First Amendment Effective Date, and (B) $[[USD Value 4: Number]] *plus* (iii) immediately following the Restricted Account Termination Date (but not before), the Senior Secured Notes Excess Proceeds in an amount not in excess of $[[USD Value 5: Number]] on deposit in the Restricted Account on such date (for the avoidance of doubt, after giving effect to the use of such Senior Secured Notes Excess Proceeds for the Going Private Transaction if the Going Private Transaction is consummated); provided further, however, that the purchase consideration payable in respect of any single Acquisition or series of related Acquisitions (including deferred payment obligations) shall not exceed $[[USD Value 6: Number]] in the aggregate. 
+
+^^Schedule 1.1 to the Credit Agreement is hereby amended by amending and restating clause (d) of the definition of “Permitted Indebtedness” as follows: 
+
+^^the incurrence by Borrower and its Restricted Subsidiaries that are Guarantors of (i) Indebtedness represented by the Senior Secured Notes (and the related guarantees in respect thereof) in an aggregate principal amount outstanding not to exceed the result of (A) $[[USD Value 7: Number]] *plus* (B) the lesser of (x) the aggregate principal amount of the Senior Secured Notes issued on or within 30 days after the First Amendment Effective Date, and (y) $[[USD Value 4]] *less* (C) the aggregate principal amount of all repayments, prepayments, redemptions, or purchases of the Senior Secured Notes, and (ii) any Permitted Refinancing Indebtedness in respect of such Indebtedness; 
+
+^^Schedule 1.1 to the Credit Agreement is hereby amended by amending and restating clause (b) of the definition of “Permitted Investments” as follows: 
+
+^^any Investment in a Person that is a Loan Party at the time of such Investment; 
+
+^^Schedule 1.1 to the Credit Agreement is hereby amended by amending and restating clause (q) of the definition of “Permitted Investments” as follows: 
+
+^^Permitted Acquisitions, 
+
+^^Schedule 1.1 to the Credit Agreement is hereby amended by amending and restating clause (t) of the definition of “Permitted Investments” by adding the following new proviso before the period at the end thereof: 
+
+provided further that, anything to the contrary contained herein notwithstanding, no portion of any basket set forth in this clause (t) shall be used for any Acquisition. 
+
+^^Section 6.3(a) of the Credit Agreement is hereby amended by (i) deleting the “and” at the end of clause (iii) thereof; and (ii) adding the following before the semi-colon at the end thereof: 
+
+, and (v) any Permitted Acquisition 
+
+^^Section 9.1 of the Credit Agreement is hereby amended by adding the following sentence immediately after clause (b) thereof: 
+
+Upon the occurrence and during the continuation of an Event of Default, upon the instruction of the Required Lenders, Agent shall exercise all other rights and remedies available to it or the Lenders under the Loan Documents or under applicable law. 
+
+^^Section 14.1(a) of the Credit Agreement is hereby amended by amending and restating the proviso at the end thereof as follows: 
+
+provided, further, however, that no such waiver, amendment, or consent shall, unless in writing and signed by the Supermajority Lenders and Borrower, amend, modify, eliminate, or otherwise change the definitions of “Change of Control” or “Permitted Holder” or clause (d) of the definition of “Permitted Indebtedness”. 
+
+^Agreement Regarding Intercreditor Agreement. The Lenders signatory hereto hereby agree that on or within 30 days after the First Amendment Effective Date, Agent may enter into an amendment to the Intercreditor Agreement which replaces the reference to “$[[USD Value 8: Number]]” contained in the definition of “Second Lien Cap” contained therein with an amount that is up to $[[USD Value 9: Number]] 
+
+^Conditions Precedent. This Agreement shall become effective upon the satisfaction of each of the following conditions (the date of effectiveness of this Agreement, the “First Amendment Effective Date”): 
+
+^^Agent shall have received this Agreement, duly executed by the Lenders on the signature pages hereof, Agent, Borrower and the Guarantors, and the same shall be in full force and effect; 
+
+^^The representations and warranties in this Agreement, the Credit Agreement, as modified by this Agreement, and the other Loan Documents shall be true, correct and complete in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) on and as of the date hereof, as though made on such date (except to the extent that such representations and warranties relate solely to an earlier date, in which case such representations and warranties shall be true, correct and complete in all material respects as of such earlier date); 
+
+^^No Event of Default or event that, with the giving of notice or passage of time, would constitute an Event of Default shall have occurred and be continuing on the date hereof, nor shall result from the consummation of the transactions contemplated herein; 
+
+^^No injunction, writ, restraining order, or other order of any nature prohibiting, directly or indirectly, the consummation of the transactions contemplated herein shall have been issued and remain in force by any Governmental Authority against Borrower, Parent, any Guarantor or any member of the Lender Group; and 
+
+^^Borrower shall have received all licenses, approvals or evidence of other actions required by any Governmental Authority or any third party in connection with the execution and delivery of this Agreement, the Purchase Agreement or with the consummation of the transactions contemplated thereby. 
+
+^Release. 
+
+^^Each of Borrower and each Guarantor hereby acknowledges and agrees that as of [[Date 1]], the aggregate outstanding principal amount of the Advances and the Term Loan owing under the Credit Agreement was $[[USD Value 10: Number]] and that such principal amount is payable pursuant to the Credit Agreement as modified hereby without defense, offset, withholding, counterclaim, or deduction of any kind. Each Guarantor hereby further acknowledges and agrees that all of such principal amount constitutes Guarantied Obligations (as defined under the Guaranty). 
+
+^^Each of Borrower and each Guarantor hereby affirms, agrees, and represents that, pursuant to the Loan Documents, it has granted to the Agent, as security for the Obligations (including obligations under this Agreement and the Credit Agreement, as modified hereby, but excluding, in the case of Liens in and to Real Property, the Bank Product Obligations), a first-priority, perfected security interest and Lien in and to all its rights with respect to substantially all of its assets, which security interests and Liens are validly created, perfected, and first-priority security interests and Liens, subject only to Permitted Liens. 
+
+^^As of the date hereof, each of Borrower and each Guarantor, its successors in title, legal representatives, and assignees and, to the extent the same is claimed by right of, through, or under each of Borrower and each Guarantor, for its past, present, and future employees, agents, representatives, officers, directors, shareholders, and trustees, do hereby and shall be deemed to have forever remised, released, and discharged the Lender Group, and Lender Group’s respective successors in title, legal representatives, and assignees, past, present, and future officers, directors, shareholders, trustees, agents, employees, consultants, experts, advisors, attorneys, and other professionals and all other persons and entities to whom any member of the Lender Group would be liable if such persons or entities were found to be liable to each of Borrower and each Guarantor (collectively hereinafter, the “Lender Parties”), from any and all manner of action and actions, cause and causes of action, claims, charges, demands, counterclaims, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, damages, judgments, expenses, executions, liens, claims of liens, claims of costs, penalties, attorneys’ fees, or any other compensation, recovery or relief on account of any liability, obligation, demand or cause of action of whatever nature relating to, arising out, of or in connection with the Credit Agreement or any other Loan Document, including, but not limited to, acts, omissions to act, actions, negotiations, discussions, and events resulting in the completed documentation and execution of this Agreement, as, among, Borrower and each Guarantor and the Lender Parties, such claims whether now accrued and whether now known or hereafter discovered, from the beginning of time through the date hereof. 
+
+^^Each of Borrower and each Guarantor hereby knowingly, voluntarily, intentionally, and expressly waives and relinquishes any and all rights and benefits that it may have under Section 1542 of the California Civil Code, or any other similar provision of any other jurisdiction, as against the Lender Parties. Section 1542 of the Civil Code of California provides: 
+
+^GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR. 
+
+^^As of the date hereof, each of Borrower and each Guarantor hereby acknowledges that the foregoing waiver of the Section 1542 of the California Civil Code was separately bargained for. As of the date hereof, each of Borrower, Parent and each other Guarantor knowingly, voluntarily, intentionally, and expressly waives any and all rights and benefits conferred by Section 1542, or by any law of the any state or territory of the United States or any foreign country or principle of common law that is similar or analogous to Section 1542 and agrees and acknowledges that this waiver is an essential term of this Agreement, without which the consideration would not have been given by the Lender Group to Borrower and each Guarantor. 
+
+^Reaffirmation. Each of Borrower and each Guarantor hereby reaffirms its obligations under each Loan Document (including each Mortgage) to which it is a party. Each of Borrower and each Guarantor hereby further ratifies and reaffirms the validity and enforceability of all of the Loan Documents (including the Mortgages) to which they are parties, including any amendments or modifications or substitutions thereto, and ratifies and reaffirms the Liens and security interests heretofore granted by them pursuant to or in connection with the Security Agreement, any Mortgage or any other Loan Document, to Agent, as security for their obligations under the Loan Documents in accordance with their respective terms, and acknowledges that all of such Liens and security interests, and all Collateral heretofore pledged as security for such obligations, continue to be and remain in full force and effect on and after the date hereof. 
+
+^Representations and Warranties. Each of Borrower and each Guarantor hereby represents and warrants to the Lender Group as follows: 
+
+^^It has the requisite power and authority to execute and deliver this Agreement and to perform its obligations hereunder and under the Loan Documents to which it is a party. The execution, delivery, and performance by it of this Agreement and the performance by it of each Loan Document to which it is a party (i) have been duly approved by all necessary action and no other proceedings are necessary to consummate such transactions; and (ii) are not in contravention of (A) any law, rule, or regulation, or any order, judgment, decree, writ, injunction, or award of any Governmental Authority binding on it, (B) the terms of its Governing Documents, or (C) any provision of any material contract or undertaking to which it is a party or by which any of its properties may be bound or affected; 
+
+^^This Agreement has been duly executed and delivered by Borrower and each Guarantor. This Agreement and each Loan Document to which Borrower or such Guarantor is a party is the legal, valid, and binding obligation of Borrower or such Guarantor, enforceable against Borrower and such Guarantor in accordance with its terms, and is in full force and effect except as such validity and enforceability is limited by the laws of insolvency and bankruptcy, laws affecting creditors’ rights and principles of equity applicable hereto; 
+
+^^No injunction, writ, restraining order, or other order of any nature prohibiting, directly or indirectly, the consummation of the transactions contemplated herein has been issued and remains in force by any Governmental Authority against Borrower or Parent; 
+
+^^Each of Borrower and each Guarantor is in good standing in the jurisdiction of its incorporation and in each other jurisdiction in which Borrower’s or such Guarantor’s assets are located or in which Borrower’s or such Guarantor’s failure to be duly qualified or licensed would constitute a Material Adverse Change; 
+
+^^No Default or Event of Default has occurred and is continuing on the date hereof or as of the date of the effectiveness of this Agreement after giving effect to this Agreement; and 
+
+^^The representations and warranties in the Credit Agreement and the other Loan Documents are true, correct and complete in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) on and as of the date hereof, as though made on such date (except to the extent that such representations and warranties relate solely to an earlier date, in which case such representations and warranties shall be true, correct and complete in all material respects as of such earlier date). 
+
+^Choice of Law. The validity of this Agreement, its construction, interpretation and enforcement, and the rights of the parties hereunder shall be determined under, governed by, and construed in accordance with the laws of the State of New York. 
+
+^Counterparts; Telefacsimile Execution. This Agreement may be executed in any number of counterparts and by different parties and separate counterparts, each of which when so executed and delivered, shall be deemed an original, and all of which, when taken together, shall constitute one and the same instrument. Delivery of an executed counterpart of a signature page to this Agreement by telefacsimile or electronic mail shall be equally effective as delivery of a manually executed counterpart of this Agreement. Any party delivering an executed counterpart of this Agreement by telefacsimile or electronic mail also shall deliver a manually executed counterpart of this Agreement, but the failure to deliver a manually executed counterpart shall not affect the validity, enforceability, and binding effect of this Agreement. 
+
+^Effect on Loan Documents. 
+
+^^The Credit Agreement, as modified hereby, and the other Loan Documents shall be and remain in full force and effect in accordance with their respective terms and each is hereby ratified and confirmed in all respects. The execution, delivery, and performance of this Agreement shall not, except as expressly set forth herein, operate as a waiver or an amendment of any right, power, or remedy of Agent or Lenders under the Credit Agreement as in effect prior to the date hereof. The modifications herein are limited to the specifics hereof, shall not apply with respect to any facts or occurrences other than those on which the same are based, shall not excuse future non-compliance with the Credit Agreement, and shall not operate as a modification to any further or other matter under the Loan Documents. 
+
+^^Upon and after the effectiveness of this Agreement, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “herein,” “hereof,” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to “the Agreement,” “thereunder,” “therein,” “thereof,” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as modified and amended hereby. 
+
+^^To the extent that any terms and conditions in any of the Loan Documents shall contradict or be in conflict with any terms or conditions of the Credit Agreement, after giving effect to this Agreement, such terms and conditions are hereby deemed modified or amended accordingly to reflect the terms and conditions of the Credit Agreement as modified or amended hereby. 
+
+^^This Amendment is a Loan Document. 
+
+^Guarantors. Each of the undersigned Guarantors consent to the amendments to the Credit Agreement contained herein. Although the undersigned Guarantors have been informed of the matters set forth herein and have consented to same, each Guarantor understands that the Lender Group has no obligations to inform it of such matters in the future or to seek its acknowledgement or agreement to future consents or amendments, and nothing herein shall create such a duty. 
+
+^Further Assurances. Borrower shall execute and deliver all agreements, documents, and instruments, in form and substance satisfactory to Agent, and take all actions as Agent may reasonably request from time to time to perfect and maintain the perfection and priority of the security interests of Agent in the Collateral and to consummate fully the transactions contemplated under this Agreement and the Credit Agreement. 
+
+^Entire Agreement. This Agreement, together with all other instruments, agreements, and certificates executed by the parties in connection herewith or with reference thereto, embody the entire understanding and agreement between the parties hereto and thereto with respect to the subject matter hereof and thereof and supersede all prior agreements, understandings, and inducements, whether express or implied, oral or written. 
+
+\centered [Remainder of page intentionally left blank] 
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Agreement to be executed and delivered as of the date first above written. 
+
+**[[Borrower]]**,**  a Delaware corporation, as Borrower
+
+[[Borrower  a Delaware corporation as Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower  a Delaware corporation as Borrower Entity => By: [[Borrower  a Delaware corporation as Borrower Signatory First Name]] [[Borrower  a Delaware corporation as Borrower Signatory Last Name]]
+Title: [[Borrower  a Delaware corporation as Borrower Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO AMENDMENT NUMBER ONE TO CREDIT AGREEMENT] 
+
+
+
+as Guarantors
+
+[[As Guarantors Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Guarantors Entity => By: [[As Guarantors Signatory First Name]] [[As Guarantors Signatory Last Name]]
+Title: [[As Guarantors Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO CREDIT AGREEMENT] 
+
+
+
+as Guarantors
+
+[[As Guarantors Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Guarantors Entity => By: [[As Guarantors Signatory First Name]] [[As Guarantors Signatory Last Name]]
+Title: [[As Guarantors Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO CREDIT AGREEMENT] 
+
+**[[Organization 2 Name]], INC.,** a Maryland corporation  **[[Organization 3 Name]]  BALTIMORE COUNTY,** Maryland corporation  **[[Organization 4 Name]],** a Texas limited partnership
+[[[[Organization 2 Name]]. a Maryland corporation  [[Organization 5 Name]]  BALTIMORE COUNTY Maryland corporation  [[Organization 4 Name]] a Texas limited partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. a Maryland corporation  [[Organization 5 Name]]  BALTIMORE COUNTY Maryland corporation  [[Organization 4 Name]] a Texas limited partnership Entity => By: [[[[Organization 2 Name]]. a Maryland corporation  [[Organization 5 Name]]  BALTIMORE COUNTY Maryland corporation  [[Organization 4 Name]] a Texas limited partnership Signatory First Name]] [[[[Organization 2 Name]]. a Maryland corporation  [[Organization 5 Name]]  BALTIMORE COUNTY Maryland corporation  [[Organization 4 Name]] a Texas limited partnership Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. a Maryland corporation  [[Organization 5 Name]]  BALTIMORE COUNTY Maryland corporation  [[Organization 4 Name]] a Texas limited partnership Signatory Title]]}}
+
+**[[Organization 6 Name]],** a Delaware limited partnership
+[[[[Organization 7 Name]] a Delaware limited partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] a Delaware limited partnership Entity => By: [[[[Organization 7 Name]] a Delaware limited partnership Signatory First Name]] [[[[Organization 7 Name]] a Delaware limited partnership Signatory Last Name]]
+Title: [[[[Organization 7 Name]] a Delaware limited partnership Signatory Title]]}}
+
+**WSI FISH LIMITED,** a Texas limited partnership
+[[WSI FISH LIMITED a Texas limited partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{WSI FISH LIMITED a Texas limited partnership Entity => By: [[WSI FISH LIMITED a Texas limited partnership Signatory First Name]] [[WSI FISH LIMITED a Texas limited partnership Signatory Last Name]]
+Title: [[WSI FISH LIMITED a Texas limited partnership Signatory Title]]}}
+
+
+as Guarantors
+
+[[As Guarantors Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Guarantors Entity => By: [[As Guarantors Signatory First Name]] [[As Guarantors Signatory Last Name]]
+Title: [[As Guarantors Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO CREDIT AGREEMENT] 
+
+**[[WFCF]]**), as Agent, Co-Arranger, Co-Syndication Agent and as a Lender
+
+[[WFCF as Agent Co-Arranger Co-Syndication Agent and as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{WFCF as Agent Co-Arranger Co-Syndication Agent and as a Lender Entity => By: [[WFCF as Agent Co-Arranger Co-Syndication Agent and as a Lender Signatory First Name]] [[WFCF as Agent Co-Arranger Co-Syndication Agent and as a Lender Signatory Last Name]]
+Title: [[WFCF as Agent Co-Arranger Co-Syndication Agent and as a Lender Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO AMENDMENT NUMBER ONE TO CREDIT AGREEMENT] 
+
+**[[Organization 1 Name]],**  a Delaware limited liability company, as Co-Arranger, Co-Syndication Agent and as a Lender
+
+[[[[Organization 1 Name]]  a Delaware limited liability company as Co-Arranger Co-Syndication Agent and as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]  a Delaware limited liability company as Co-Arranger Co-Syndication Agent and as a Lender Entity => By: [[[[Organization 1 Name]]  a Delaware limited liability company as Co-Arranger Co-Syndication Agent and as a Lender Signatory First Name]] [[[[Organization 1 Name]]  a Delaware limited liability company as Co-Arranger Co-Syndication Agent and as a Lender Signatory Last Name]]
+Title: [[[[Organization 1 Name]]  a Delaware limited liability company as Co-Arranger Co-Syndication Agent and as a Lender Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO AMENDMENT NUMBER ONE TO CREDIT AGREEMENT] 
+
+**[[Organization 8 Name]],**  a Delaware limited liability company, as a Lender
+
+[[[[Organization 8 Name]]  a Delaware limited liability company as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]]  a Delaware limited liability company as a Lender Entity => By: [[[[Organization 8 Name]]  a Delaware limited liability company as a Lender Signatory First Name]] [[[[Organization 8 Name]]  a Delaware limited liability company as a Lender Signatory Last Name]]
+Title: [[[[Organization 8 Name]]  a Delaware limited liability company as a Lender Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO AMENDMENT NUMBER ONE TO CREDIT AGREEMENT] 
+
+\centered [Other Lenders to be added]

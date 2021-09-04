@@ -1,0 +1,267 @@
+\centered **Amendment No. 7**
+
+\centered **to**
+
+\centered **Subordinated Indemnity Agreement**
+
+This Amendment No. 7 to the Subordinated Indemnity Agreement (this “Amendment”) is entered into as of [[Date 1: Date]] by and among [[Organization 1 Name]] (as successor to [[Organization 2 Name]]) (“SFEC”), [[formerly known as Time Warner Inc]] (formerly known as [[Organization 3 Name]]) (“TWX”), [[as successor to Premier Parks Inc]] (formerly known as [[Organization 4 Name]]) (as successor to [[Organization 5 Name]]) (“Holdco”), the other subsidiaries of SFEC listed on the signature pages hereto (collectively, the “Subsequently Joined Subsidiaries”) and [[Organization 6 Name]], and amends in certain respects the Subordinated Indemnity Agreement, dated as of [[Date 2: Date]], by and among the parties (or their predecessors in interest), as amended by Amendment No. 1 to Subordinated Indemnity Agreement, dated as of [[Date 3: Date]], Amendment No. 2 to the Subordinated Indemnity Agreement, dated as of [[Date 4: Date]], Amendment No. 3 to the Subordinated Indemnity Agreement, dated as of [[Date 5: Date]], Amendment No. 4 to the Subordinated Indemnity Agreement, dated as of [[Date 6: Date]], Amendment No. 5 to the Subordinated Indemnity Agreement, dated as of [[Date 7: Date]], and Amendment No. 6 to the Subordinated Indemnity Agreement, dated as of [[Date 8: Date]] (as so amended, the “Original Agreement”). Capitalized terms used in this Amendment and not otherwise defined herein shall have the meanings ascribed to them in the Original Agreement.
+
+WHEREAS, on [[Date 8]], [[Organization 7 Name]], a Delaware limited liability company and wholly owned subsidiary of TWX (“[[Organization 7 Name]]”), made a loan (the “2009 Loan”) to the Acquisition Subsidiaries in the original aggregate principal amount of $[[USD Value 1: Number]] to enable the Acquisition Subsidiaries to satisfy their obligations with respect to the Liquidity Put for the year 2009;
+
+WHEREAS, on [[Date 9: Date]], Holdco and its affiliated debtors (the “SF Debtors”) filed voluntary petitions for relief under chapter 11 of the Bankruptcy Code (the “SF Bankruptcy Case”), and subsequently filed a joint plan of reorganization with the United States Bankruptcy Court for the District of Delaware (as amended, supplemented or otherwise modified in accordance with the terms thereof, the “Plan”);
+
+WHEREAS, in connection with, and concurrently with the effectiveness of, the Plan, (i) [[Organization 7 Name]] will enter into a credit agreement (the “Acquisition Company Credit Agreement”) with the Acquisition Subsidiaries under which it will agree to loan the Acquisition Subsidiaries up to $[[USD Value 2: Number]] in connection with the Acquisition Subsidiaries’ obligations with respect to certain future Liquidity Puts, (ii) [[Organization 7 Name]] will enter into a guarantee agreement (the “Guarantee Agreement”) with certain of the Holdco Parties pursuant to which such Holdco Parties will guarantee the obligations of the Acquisition Subsidiaries under the Acquisition Company Credit Agreement, and (iii) [[Organization 7 Name]] will receive payment in full in 
+
+cash of all principal, interest and other amounts outstanding under the 2009 Loan and the Guarantee will be terminated simultaneously therewith;
+
+WHEREAS, it is a requirement of the Plan that the SF Debtors party to the Original Agreement ratify and confirm their obligations under the Original Agreement, as amended hereby;
+
+WHEREAS, in connection with the foregoing, and as an accommodation to certain other financing sources of the Holdco Parties, the TW Parties have agreed to suspend temporarily certain obligations of the Holdco Escrow Parties under the Original Agreement and the Subordinated Indemnity Escrow Agreement pursuant to that certain Escrow Waiver Agreement, substantially in the form attached hereto as Exhibit A; and
+
+WHEREAS, in connection with the foregoing transactions, the parties hereto wish to amend the terms of the Original Agreement effective upon the effective date of the Plan as set forth herein.
+
+NOW THEREFORE, the parties agree as follows:
+
+^^^ \centered 1. Section 1.1.20 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+^^^ \centered 1.1.20 “Equity Interests” means: (a) any and all shares, interests or other equivalents (however designated) of capital stock of a corporation; (b) any and all equity, voting or other ownership interests in a Person other than a corporation, including membership interests, partnership interests, limited partner interests, general partner interests and beneficial interests; and (c) any warrants, options or other rights to acquire any of the foregoing. 
+
+^^^ \centered 2. Section 1.1.51 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+1.1.51 “Required Obligations” shall mean, collectively, (i) the Georgia Agreements Obligations, (ii) the Texas Agreements Obligations, (iii) the Zero Coupon Notes Obligations, (iv) the obligations to pay any amounts required to be paid and to comply with any obligations required to be complied with by SFTP and its affiliates (determined after giving effect to the Merger) under the KO Agreements (as such term is defined in the Letter Agreement, dated as of [[Date 10: Date]], among [[Organization 8 Name]], and [[Organization 5 Name]] relating to the KO Agreements) and (v) each covenant, agreement and obligation to be performed or observed by any of [[Organization 2 Name]], [[Organization 1 Name]], [[Organization 9 Name]] or the Acquisition Subsidiaries under the Acquisition Company Credit Agreement and the Acquisition Company Credit Agreement Guarantee; provided that the Required Obligations shall not include (i) any obligations of the Georgia Acquisition Subsidiaries or the Texas Acquisition Subsidiaries to purchase any 
+
+Units pursuant to the Accelerated Put provisions under the Texas Agreements and the Georgia Agreements, except as specifically provided in Section 4.2 hereunder; or (ii) the Excluded Obligations.
+
+^^^ \centered 3. Section 1.1.68 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+1.1.68 “Triggering Default” shall mean (i) a “Default” as such term is defined in the Georgia Agreements (other than a Default that results from the failure of the TW Parties to perform their obligations with respect to an Accelerated Put as described in Section 4.3 hereof), (ii) a “Default” as such term is defined in the Texas Agreements (other than a Default that results from the failure of the TW Parties to perform their obligations with respect to an Accelerated Put as described in Section 4.3 hereof), (iii) [reserved], (iv) a default by any of the Holdco Parties of their covenants, agreements or obligations hereunder (other than an immaterial default that can be cured upon notice), (v) a failure by the Holdco Parties to pay any amounts owed to the TW Parties hereunder or to otherwise reimburse the TW Parties for any amounts paid by either of such parties under the Georgia Guarantees or the Texas Guarantees, (vi) a default by any of the Holdco Parties (or their successors in interest) in the observance or performance of any covenant, agreement or obligation on its part to be performed or observed under that certain Acquisition Company Liquidity Agreement, dated as of [[Date 6]], by and among the Holdco Parties (or their successors in interest), the TW Parties and the Acquisition Companies, (vii) if [[Organization 10 Name]], SFTP or any Subsidiary of SFEC that owns or operates a park (each, a “Specified Holdco Party”) becomes subject to a chapter 7 bankruptcy case or any other proceeding providing for its liquidation, dissolution or winding up, (viii) the appointment of a trustee, examiner, liquidator or the like with respect to any Specified Holdco Party or all or any substantial part of a Specified Holdco Party’s property, (ix) an “Event of Default” as such term is defined in the Acquisition Company Credit Agreement, or (x) a default by any of the Holdco Escrow Parties in the observance or performance of any covenant, agreement or obligation to be performed or observed by them under that certain Escrow Waiver Agreement, dated as of [[Date 1]], by and among the parties hereto and the Acquisition Subsidiaries (as the same may be amended, amended and restated, modified or otherwise supplemented from time to time); provided, however, that (A) for purposes of the definition of “Triggering Default” and notwithstanding any provision to the contrary, a Triggering Default (other than due to a Specified Default), shall be deemed to continue in perpetuity from the date of its occurrence and the Holdco Parties shall not have the right to cure such Triggering Default unless such Triggering Default is cured within the shorter of (x) 90 days of the occurrence of such Triggering Default or (y) 45 days from the date on which the TW Parties exercise their right to appoint directors to the board of directors of GP Holdings in accordance with the Organizational Documents of GP Holdings, in which case such Triggering Default shall be deemed to have continued until so cured, and (B) in no event shall the Holdco Parties be permitted to cure a 
+
+Triggering Default due to a Specified Default without the prior written consent of the TW Parties (which consent may be withheld in the TW Parties’ sole discretion) and no such Triggering Default shall be deemed to be cured without such prior written consent of the TW Parties; provided, further, that nothing in the foregoing provisos shall impair or otherwise modify any of the rights or remedies of the TW Parties and/or any of their respective affiliates pursuant to any agreement or arrangement or otherwise (including, without limitation, pursuant to this Agreement, the Subordinated Indemnity Escrow Agreement, the Beneficial Share Assignment or the Organizational Documents of GP Holdings).
+
+^^^ \centered 4. Section 1.1.78 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+^^^ \centered 1.1.78 [Reserved] 
+
+^^^ \centered 5. Section 1.1.80 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+^^^ \centered 1.1.80 [Reserved] 
+
+^^^ \centered 6. Section 1.1 of the Original Agreement is hereby amended by adding a new Section 1.1.84 as follows: 
+
+1.1.84 “Acquisition Company Affiliate Loans” shall mean any loans made by any of the SF Parties or any Subsidiary or affiliate thereof to any of the Acquisition Companies in accordance with Section 7.1 of the Acquisition Company Credit Agreement.
+
+^^^ \centered 7. Section 1.1 of the Original Agreement is hereby amended by adding a new Section 1.1.85 as follows: 
+
+1.1.85 “Acquisition Company Credit Agreement” shall mean that certain Credit Agreement, dated as of [[Date 1]], by and among the Acquisition Subsidiaries and [[Organization 7 Name]], as the same may be amended, amended and restated, modified or otherwise supplemented from time to time.
+
+^^^ \centered 8. Section 1.1 of the Original Agreement is hereby amended by adding a new Section 1.1.86 as follows: 
+
+1.1.86 “Acquisition Company Credit Agreement Guarantee” shall mean that certain Guarantee Agreement, dated as of [[Date 1]], by and among [[Organization 1 Name]], SFTP, [[Organization 2 Name]], each of the other subsidiaries of [[Organization 2 Name]] party thereto and [[Organization 7 Name]], as the same may be amended, amended and restated, modified or otherwise supplemented from time to time.
+
+^^^ \centered 9. Section 1.1 of the Original Agreement is hereby amended by adding a new Section 1.1.87 as follows:    
+
+1.1.87 “Assets” means any asset, property or right, wherever located (including in the possession of vendors or other third parties or elsewhere), whether real, personal or mixed, tangible, intangible or contingent, in each case whether or not recorded or reflected or required to be recorded or reflected on the books and records or financial statements of any Person, and all right, title, interest and claims therein.
+
+^^^ \centered 10. Section 6.1.13 of the Original Agreement is hereby amended as follows: 
+
+^^Each reference to “Affiliate Loans” in subsections (b), (d)(i), and (d)(iii) is deemed to include a reference to “Acquisition Company Affiliate Loans”, in addition to Affiliate Loans.
+
+^^Subsection (f) shall become subsection (e).
+
+^^A new subsection (f) shall be added as follows:
+
+^^Notwithstanding anything contained in this Section 6.1.13 to the contrary, SFOT and SFOG II shall be permitted to enter into subordination agreements with respect to Affiliate Loans owed to either of them in connection with equipment leases, working capital credit facilities and other working capital financing accommodations made to the Georgia Partnership and/or the Texas Partnership so long as (i) the terms of any such subordination agreement are the same as those contained in the subordination agreements dated [[Date 11: Date]], with [[Organization 11 Name]], as the same may thereafter be amended, supplemented or otherwise modified from time to time, in a manner that is not materially adverse to SFOT or SFOG II, as applicable, or the TW Parties and (ii) the principal amount of Indebtedness that the Affiliate Loans shall be subordinated to pursuant to such subordination agreements shall not exceed $22.5 million in the aggregate.
+
+^^^ \centered 11. Section 6.1.15 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+6.1.15 Bankruptcy Obligations. The Holdco Parties shall reaffirm, ratify and assume, as applicable, their respective obligations under each of this Agreement, the Warner Bros. License Agreements, the Acquisition Company Credit Agreement, the Acquisition Company Credit Agreement Guarantee, the SFTP/SFEC Georgia Guarantee and the SFTP/SFEC Texas Guarantee in connection with any bankruptcy plan of Holdco and its Subsidiaries or the assumption of the Beneficial Share Assignment Agreement.
+
+^^^ \centered 12. Section 6.1 of the Original Agreement is hereby amended by adding a new Section 6.1.17 as follows: 
+
+6.1.17 Certain Consents. The Holdco Parties shall not, and shall cause each of their Subsidiaries not to, without the prior written consent of the 
+
+TW Parties, consent to the taking of any action pursuant to the terms of the Georgia Agreements or the Texas Agreements with respect to the Units, the Georgia Park or the Texas Park, in each case, that could reasonably be expected to have a material adverse effect on the rights of [[Organization 7 Name]] (or any successor lender) under the Acquisition Company Credit Agreement or Acquisition Company Credit Agreement Guarantee.
+
+^^^ \centered 13. Section 6.1 of the Original Agreement is hereby amended by adding a new Section 6.1.18 as follows: 
+
+6.1.18 Negative Pledge Covenant. Except as otherwise provided in the Georgia Acquisition Subsidiaries Guarantee, the Texas Acquisition Subsidiaries Guarantee or any Capital Improvements Loan (as that term is defined in Article I of each of the Georgia Partnership Agreement and the Texas Partnership Agreement) made to either the Georgia Partnership or the Texas Partnership, the Holdco Parties shall not, and shall cause each of their Subsidiaries not to, without the prior written consent of the TW Parties, (a) create, incur, assume or suffer to exist any Lien on any of the Equity Interests or Assets (including, without limitation, any Units) of any of the Georgia Partnership, the Texas Partnership, the Acquisition Subsidiaries, GP Holdings, or any of their respective Subsidiaries that secures any indebtedness described in clause (i) of the definition of “Indebtedness” or (b) cause or permit any of the Georgia Partnership, the Texas Partnership, the Acquisition Subsidiaries, GP Holdings or any of their respective Subsidiaries to provide any guarantee with respect to, or assume, endorse or otherwise become responsible for Indebtedness or obligations of any other Person, other than pursuant to the Acquisition Company Credit Agreement; provided, however, that notwithstanding the foregoing, (x) the Subsidiaries of the Georgia Partnership and the Texas Partnership shall be permitted to guarantee Indebtedness of the Georgia Partnership or the Texas Partnership (as applicable) which the Georgia Partnership or the Texas Partnership (as applicable) are otherwise permitted to incur, and (y) the Georgia Partnership and the Texas Partnership shall be permitted to guarantee Indebtedness of the Subsidiaries of the Georgia Partnership or the Texas Partnership (as applicable) which the Subsidiaries of the Georgia Partnership or the Texas Partnership (as applicable) are otherwise permitted to incur.
+
+^^^ \centered 14. The TW Parties hereby acknowledge Section 6.1.2 of the Original Agreement, and hereby consent to (a) the guarantee by Holdco, SFTP and SFEC of the Acquisition Company Credit Agreement and (b) the guarantee by [[Organization 10 Name]] or any of its Subsidiaries of Indebtedness of any Person (other than the Acquisition Subsidiaries) (x) the proceeds of which are used solely to refinance, replace or otherwise repay the Acquisition Company Credit Agreement, and (y) in a principal amount not to exceed $[[USD Value 3: Number]] plus capitalized interest outstanding under the Acquisition Company Credit Agreement, plus any other amounts paid and fees, costs and expenses incurred therewith. 
+
+^^^ \centered 15. The Holdco Parties hereby acknowledge and agree that effective upon the effective date of the Plan, the Original Agreement, as amended by this Amendment, is in full     
+
+^^^ \centered force and effect and the Holdco Parties’ obligations hereunder are hereby ratified and confirmed in all respects in accordance with the Plan. For the avoidance of doubt, the Original Agreement, as amended by this Amendment, is the Subordinated Indemnity Agreement referenced in the Plan. 
+
+^^^ \centered 16. This Amendment shall become effective upon the closing of the Acquisition Company Credit Agreement. 
+
+^^^ \centered 17. Except as expressly amended herein, all provisions of the Original Agreement shall remain in full force and effect. 
+
+^^^ \centered 18. This Amendment shall be governed and construed in accordance with the Original Agreement. 
+
+^^^ \centered 19. This Amendment may be signed in any number of counterparts each of which shall be an original and all of which shall together constitute one and the same agreement. Any counterpart or other signature hereupon delivered by facsimile shall be deemed for all purposes as constituting good and valid execution and delivery of this Agreement by such party.    
+
+***EXECUTION VERSION***
+
+**In Witness Whereof**, the parties hereto have executed this Amendment as of the day and year first above written.
+
+**[[Organization 2 Name]]** (formerly known as [[Organization 4 Name]]), as successor in interest to [[Organization 5 Name]]
+
+[[[[Organization 2 Name]] formerly known as [[Organization 12 Name]] as successor in interest to [[Organization 5 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] formerly known as [[Organization 12 Name]] as successor in interest to [[Organization 5 Name]] Entity => By: [[[[Organization 2 Name]] formerly known as [[Organization 12 Name]] as successor in interest to [[Organization 5 Name]] Signatory First Name]] [[[[Organization 2 Name]] formerly known as [[Organization 12 Name]] as successor in interest to [[Organization 5 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] formerly known as [[Organization 12 Name]] as successor in interest to [[Organization 5 Name]] Signatory Title]]}}
+
+Chief Financial Officer
+
+**[[Organization 6 Name]]**
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+
+**[[Organization 13 Name]]**
+
+[[[[Organization 13 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 13 Name]] Entity => By: [[[[Organization 13 Name]] Signatory First Name]] [[[[Organization 13 Name]] Signatory Last Name]]
+Title: [[[[Organization 13 Name]] Signatory Title]]}}
+
+
+**[[Organization 14 Name]],** as assignee of [[Organization 15 Name]], L.P.
+
+[[[[Organization 14 Name]] as assignee of [[Organization 15 Name]] L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 14 Name]] as assignee of [[Organization 15 Name]] L.P. Entity => By: [[[[Organization 14 Name]] as assignee of [[Organization 15 Name]] L.P. Signatory First Name]] [[[[Organization 14 Name]] as assignee of [[Organization 15 Name]] L.P. Signatory Last Name]]
+Title: [[[[Organization 14 Name]] as assignee of [[Organization 15 Name]] L.P. Signatory Title]]}}
+
+
+**[[Organization 16 Name]]**
+
+[[[[Organization 16 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 16 Name]] Entity => By: [[[[Organization 16 Name]] First Name]] [[[[Organization 16 Name]] Last Name]]
+Title: [[[[Organization 16 Name]]]]}}
+
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+Chief Financial Officer
+
+**[[Organization 9 Name]]**
+
+[[[[Organization 9 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] Entity => By: [[[[Organization 9 Name]] Signatory First Name]] [[[[Organization 9 Name]] Signatory Last Name]]
+Title: [[[[Organization 9 Name]] Signatory Title]]}}
+
+Chief Financial Officer
+
+**[[Organization 17 Name]]**
+
+[[[[Organization 18 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 18 Name]] Entity => By: [[[[Organization 18 Name]] Signatory First Name]] [[[[Organization 18 Name]] Signatory Last Name]]
+Title: [[[[Organization 18 Name]] Signatory Title]]}}
+
+
+**[[Organization 19 Name]]**
+
+[[[[Organization 20 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 20 Name]] Entity => By: [[[[Organization 20 Name]] Signatory First Name]] [[[[Organization 20 Name]] Signatory Last Name]]
+Title: [[[[Organization 20 Name]] Signatory Title]]}}
+
+
+**[[Organization 21 Name]]**
+**[[Organization 22 Name]]**
+**[[Organization 23 Name]]**
+**Premier [[Organization 24 Name]]**
+**[[Organization 25 Name]]**
+**[[Organization 26 Name]]**
+**[[Organization 27 Name]]**
+**[[Organization 28 Name]]**
+**[[Organization 29 Name]]**
+**KKI,** **LLC**
+**[[Organization 30 Name]]** **LLC**
+**[[Organization 31 Name]]** **LLC**
+**[[Organization 32 Name]]** **LLC**
+**[[Organization 33 Name]]** **LLC**
+**[[Organization 34 Name]], Inc.**
+**[[Organization 34 Name]] of Illinois, Inc.**
+**[[Organization 35 Name]]**
+**[[Organization 36 Name]], Inc.**
+**[[Organization 37 Name]]**
+**[[Organization 38 Name]]**
+**[[Organization 39 Name]]**
+**[[Organization 40 Name]]**
+**[[Organization 41 Name]]**
+**[[Organization 42 Name]] LLC**
+**[[Organization 43 Name]]**
+**[[Organization 44 Name]]**
+
+[[[[Organization 44 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 44 Name]] Entity => By: [[[[Organization 44 Name]] Signatory First Name]] [[[[Organization 44 Name]] Signatory Last Name]]
+Title: [[[[Organization 44 Name]] Signatory Title]]}}
+
+
+**[[Organization 45 Name]]**
+
+[[[[Organization 45 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 45 Name]] Entity => By: [[[[Organization 45 Name]] Signatory First Name]] [[[[Organization 45 Name]] Signatory Last Name]]
+Title: [[[[Organization 45 Name]] Signatory Title]]}}
+
+
+**[[Organization 30 Name]]**
+
+**By:**   **[[Organization 31 Name]]** **LLC**, 
+**its General Partner**
+
+[[Its General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its General Partner Entity => By: [[Its General Partner Signatory First Name]] [[Its General Partner Signatory Last Name]]
+Title: [[Its General Partner Signatory Title]]}}
+
+
+**[[Organization 32 Name]]**
+
+**By:**   **[[Organization 33 Name]],**
+**its General Partner**
+
+[[Its General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its General Partner Entity => By: [[Its General Partner Signatory First Name]] [[Its General Partner Signatory Last Name]]
+Title: [[Its General Partner Signatory Title]]}}
+
+
+**[[Organization 46 Name]]**
+
+**By:**   **[[Organization 23 Name]],**
+**its General Partner**
+
+[[Its General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its General Partner Entity => By: [[Its General Partner Signatory First Name]] [[Its General Partner Signatory Last Name]]
+Title: [[Its General Partner Signatory Title]]}}
+
+
+**Six Flags Great Escape L.P.**
+**[[Organization 47 Name]]**
+**[[Organization 48 Name]]**
+
+**By:**   **[[Organization 25 Name]],**
+**their** **General Partner**
+
+[[Their General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Their General Partner Entity => By: [[Their General Partner Signatory First Name]] [[Their General Partner Signatory Last Name]]
+Title: [[Their General Partner Signatory Title]]}}
+

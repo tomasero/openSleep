@@ -1,0 +1,48 @@
+\centered [[Corporation]]
+
+\centered **RESTRICTIVE COVENANT AGREEMENT**
+
+This Agreement is made as of the ______ day of __________, 20­­__, by and between [[Corporation]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Corporation”), and _______________________________ (“Employee”).
+
+^**Non-Competition**.
+
+^^**During The Relationship**. Employee agrees that during the term of his/her relationship with the Corporation, he/she shall not, in any capacity, directly or indirectly, assist, participate in or have a financial or other interest in any business that competes with the Corporation in any geographic area in which the Corporation or its affiliates do business. Employee may, however, own less than one percent ([[Percentage 1: Number]]%) interest in such a corporation whose shares are traded on a recognized stock exchange or traded in the over-the-counter market.
+
+^^**Upon Termination of Relationship**. Employee agrees that, upon termination of his/her relationship with the Corporation, for the shorter of 12 months or the duration of his/her relationship with the Corporation, Employee will not, without the Corporation’s written consent, as principal, agent, consultant, employee, director, or otherwise, directly or indirectly, assist any Competitor of the Corporation in any manner in which the Employee provided services or assistance to the Corporation; provided, however, that the Employee may work for a Competitor in a segment of its business which does not compete with the Corporation. “Competitor” means any business which is engaged in the development and/or sale of computer software and/or hardware for use by educators in public or private schools to assess student performance, manage or monitor student practice of skills, motivate learning, and/or provide i ndividualized exercises for assessment or practice of skills; and/or of training related to such software and/or hardware; and (1) which sells such products and/or services in any state, or has been formed in order to sell such products and/or services in any such state, in which the Corporation sold in excess of $[[USD Value 1: Number]] of products and services in the twelve (12) months preceding the end of Employee’s employment with the Corporation; and (2) where the Corporation’s Confidential Information or trade secrets would be useful to such business.
+
+^**Confidential Information**. The term “Confidential Information” includes all business information (whether or not in written form) which has value for the Corporation and which is not known to the public or the Corporation’s competitors, generally, including, but not limited to, client lists; contracts or drafts thereof; orders; marketing and sales information; business surveys and plans; profitability analyses; material including pricing, competitive strategies, or service development; information relating to compensation and other personnel-related information; product designs, intellectual property; and information regarding software and/or hardware product modules, source code or any other information that would assist in duplication of the Corporation’s products. The Employee agrees that during his/her relationship with the Corporation and for two (2) years thereafter, he/she will not di rectly or indirectly, in any capacity, use or disclose, or cause to be used or disclosed, any Confidential Information, at any location where such use or disclosure could be useful to any individual or entity offering or seeking to offer products or services competitive with the Corporation. This paragraph shall apply whether or not the Employee participated in the discovery or development of such Confidential Information. This paragraph, however, shall not apply if such Confidential Information lawfully becomes a matter of public knowledge, without direct or indirect disclosure by Employee. Employee may use or disclose such information during the term of his/her relationship with the Corporation with authorization or in the ordinary course of the Corporation’s business. The parties agree that nothing in this Agreement shall be construed to limit or supersede the common law of torts or statutory or other protection of trade secrets where such law provides the Corporation with gre ater protection or protection for a longer duration than that provided in this Paragraph.
+
+^**Assignment of Inventions.** Employee agrees to promptly disclose to the Corporation any inventions, writings, methods, designs, or other works created either solely by Employee or jointly with others while an employee of the Corporation (collectively referred to as “Inventions”). Each Invention shall be a work for hire and the Corporation’s sole property unless: No Corporation equipment, supplies, facilities, Confidential Information, or trade secrets were used and the Invention was developed entirely on Employee’s own time, and the Invention does not relate (a) to the Corporation’s business; or (b) to the Corporation’s actual or demonstrably anticipated product development. Employee hereby assigns such Inventions to the Corporation, including all copyrights, patents or trade secret rights resulting from them and agrees to execute whatever papers are necessary to record the Corporation’s ownership rights in the foregoing Inventions. Employee acknowledges that he/she has not been promised, nor does he/she expect, any monetary payment for them except for Employee’s normal wages and benefits. The provisions of this paragraph 3 also apply to any products begun during employment and completed within one year after termination of employment.
+
+^**Consideration.**  In consideration for Employee’s agreement to the terms of the document, the
+
+Corporation agrees to employ the Employee.
+
+^**Return of Property.** Employee agrees to return to the Corporation all forms of Confidential Information and Trade Secrets and all copies thereof and all other Corporation property at the time of termination of employment, or at any other time, upon request.
+
+^**Notice to Subsequent Employer/Contractor**. Employee agrees that the Corporation may provide a copy of this Agreement to any future employer of or party contracting with Employee. 
+
+^**Relief**. Employee acknowledges that monetary damages are insufficient to remedy the damage that would be caused to the Corporation by Employee’s breach of this Agreement. Accordingly, in addition to any damages permitted by law to be recovered, the parties agree that the Corporation shall be entitled to injunctive relief to enforce this Agreement in the event of Employee’s breach. In addition, the parties agree that the court may extend the duration of the restrictions contained in this Agreement in an amount equal to the duration of Employee’s breach as an equitable remedy. Either party found by a court of law to have breached the terms of this Agreement shall be obligated to pay the reasonable attorney’s fees and costs of the non-breaching party incurred as a result of such breach.
+
+^**Waiver**. The failure of either party to insist upon performance of any of the terms of this Agreement shall not be construed as a waiver of any right granted hereunder.
+
+^**Severability**. The provisions of this Agreement are severable. If any portion of this Agreement is deemed void, the balance of the Agreement shall be given full force and effect. 
+
+^**Binding Effect**. This Agreement shall be binding upon and inure to the benefit of and shall be enforceable by the Corporation, Employee and their successors and assigns. The provisions of this Agreement shall survive the termination of Employee’s relationship by the Corporation, whether such termination occurs by action of the Corporation, whether with or without cause, or by action of the Employee. 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the day, month and year set forth opposite their signatures.
+
+[[Corporation]]
+
+[[Corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{Corporation Entity => By: [[Corporation Signatory First Name]] [[Corporation Signatory Last Name]]
+Title: [[Corporation Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+Vice President/HR & Administration
+
+EMPLOYEE
+
+__________________________________

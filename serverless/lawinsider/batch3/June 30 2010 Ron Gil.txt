@@ -1,0 +1,66 @@
+[[Date 1: Date]] 
+
+[[Person 1 First Name]] [[Person 1 Last Name]] 
+
+c/o [[Organization 1 Name]] 
+
+[[Address 1: Address]]-2511 
+
+**Re:**   **Letter Relating to Employment Terms**
+
+Dear Mr. Gill: 
+
+This letter is to confirm the terms of your continued employment with [[Organization 1 Name]] (the “Company”). This letter agreement supersedes all prior agreements relating to the terms of your employment, except for the Severance and Change of Control Agreement dated the same date as this letter agreement, between you and the Company (the “***Severance Agreement***”) and the Confidentiality and Invention Assignment Agreement dated as of the same date as this Agreement, between you and the Company (the “***Confidentiality Agreement***”). The terms set forth below shall be effective from [[Date 2: Date]] (the “***Effective Date***”). 
+
+^Title and Cash Compensation 
+
+Your title will be Chief Financial Officer. In your capacity as Chief Financial Officer, you will report to the President and Chief Executive Officer (“CEO”). As of the Effective Date, your monthly base salary is $[[USD Value 1: Number]] per month, or $[[USD Value 2: Number]] on an annualized basis. 
+
+^Bonus Compensation 
+
+In addition to your base salary, you will be eligible for an annual performance-based cash incentive award, as determined by the Company. For calendar year 2010, your annual performance-based cash incentive award shall be paid under and in accordance with the 2010 Executive Performance Based Cash Incentive Plan. Under that plan, effective as of the Effective Date, you will have an annual target bonus equal to [[Percentage 1: Number]]% of your base salary pro-rated to reflect your service as CFO for the remainder of 2010. Therefore, for the last 6 months of calendar year 2010, your target annual incentive cash bonus will equal $[[USD Value 3: Number]] 
+
+For the last 6 months of calendar year 2010, the actual annual cash incentive award payable to you shall be determined to be below, at, or above the target: (a) [[Percentage 2: Number]]% of the award will be based upon the Company’s achievement level against Company financial and other performance objectives; and (b) [[Percentage 3: Number]]% of the award will be based upon your individual performance as determined in the discretion of the Compensation Committee of the Board of Directors of the Company (the “***Compensation Committee***”), in consultation with the CEO, based on a qualitative assessment of your performance. 
+
+Your target performance-based annual incentive cash award and the performance components shall be set each year, and performance against them determined, by the Compensation Committee in consultation with the CEO. 
+
+[[Person 1 First Name]] [[Person 1 Last Name]] Revised Employment Letter 
+
+Page 2 of 2 
+
+[[Date 1]] 
+
+^Equity Awards 
+
+The Company has granted equity awards to you in the past and may from time to time in the future grant you additional equity awards. Such awards will be subject to the terms of the applicable equity compensation plan or arrangement in effect at the time of grant. The Compensation Committee will determine in its discretion whether you will be granted any such equity awards in the future and the terms and conditions of any such awards in accordance with the terms of any applicable equity plan. 
+
+You should be aware that you may incur federal and state income taxes as a result of your receipt or the vesting of any equity compensation awards and it shall be your responsibility to pay any such applicable taxes. 
+
+^Other Benefits 
+
+As an employee, you will continue to be eligible to receive our standard employee benefits applicable to senior executives at the Company, except to the extent that this letter agreement provides you with more valuable benefits than the Company’s standard policies.
+
+^Additional Terms 
+
+You should be aware that your employment with the Company is for no specified period and constitutes “at will” employment. As a result, you are free to resign at any time, for any reason or for no reason. Similarly, the Company is free to conclude its employment relationship with you at any time, with or without cause, subject to the severance obligations under or referred to in this letter. 
+
+Please review these terms to make sure they are consistent with your understanding. If so, please send the original signed offer letter in the provided envelope to [[Person 2 First Name]] [[Person 2 Last Name]] or [[Person 3 First Name]] [[Person 3 Last Name]] no later than two days after your receipt of this letter. 
+
+Sincerely,
+
+[[Organization 1 Name]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+[[Person 4 First Name]] [[Person 4 Last Name]]
+President and CEO
+
+AGREED:
+
+Signed:      /s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+Dated:      6/30/10

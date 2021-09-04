@@ -1,0 +1,391 @@
+\centered **FIFTH AMENDMENT TO REVOLVING CREDIT AGREEMENT** 
+
+This Fifth Amendment to Revolving Credit Agreement (this “Amendment”) is entered into as of [[Date 1: Date]] (the “Effective Date”) by and among [[Lenders]], a Dutch private limited liability company, [[Organization 1 Name]], a company organized under the laws of Singapore, [[Organization 2 Name]] Limited, a company organized under the laws of New South Wales, Australia, [[Organization 3 Name]] Limited, a company organized under the laws of Hong Kong, [[Organization 4 Name]], a company organized under the laws of Germany, [[Organization 5 Name]], [[Party 2]], the lenders party hereto (each, a “Lender” and collectively, the “Lenders”) and [[Administrative Agent]], a national banking association as administrative agent (in such capacity, the “Administrative Agent”). 
+
+\centered **RECITALS** 
+
+WHEREAS, the Borrowers, the Lenders and the Agent are parties to that certain Revolving Credit Agreement dated as of [[Date 2: Date]] (as amended or modified from time to time, the foregoing being referred to as the “Agreement”); 
+
+WHEREAS, the Borrowers, the Lenders and the Agent desire to amend the Agreement in certain respects on terms and conditions set forth herein; 
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein, the parties hereto agree as follows: 
+
+^**Defined Terms.** Capitalized terms used herein but not defined herein shall have the meanings ascribed thereto in the Agreement. 
+
+^**Amendments to the Agreement.** The Agreement is hereby amended as follows: 
+
+^^Section 1.1 of the Agreement is hereby amended to delete in their entirety the definitions of “Aggregate Commitment”, “Agreed Currencies”, “Borrowers”, Facility Termination Date” and “US Facility Borrower” and to replace said definitions as follows: 
+
+“‘Aggregate Commitment’ means the aggregate of the Commitments of all the Lenders as increased or reduced from time to time under the terms hereof. The initial Aggregate Commitment shall be Twenty Million Dollars ($[[USD Value 1: Number]]).” 
+
+“‘Agreed Currencies’ means (i) so long as such currencies remain Eligible Currencies, U.S. Dollars, Hong Kong Dollars and Singapore Dollars; (ii) the Euro; (iii) Japanese Yen, and (iv) any other Eligible Currency which a Borrower requests the Administrative Agent to include as an Agreed Currency hereunder and which is acceptable to all of the Lenders. For the purposes of this definition, each of the specific currencies referred to in clause (i) above shall mean and be deemed to refer to the lawful currency of the jurisdiction referred to in connection with such currency.” 
+
+“‘Borrowers’ (each a ‘Borrower’) shall mean [[Lenders]], a Dutch private limited liability company, [[Organization 1 Name]], a company organized under the laws of Singapore, [[Organization 2 Name]] Limited, a company organized under the laws of New South Wales, Australia, [[Organization 3 Name]] Limited, a company organized under the laws of Hong Kong, [[Organization 4 Name]], a company organized under the laws of Germany, and [[Organization 5 Name]], [[Party 2]]” 
+
+“‘Facility Termination Date’ means [[Date 3: Date]], or any earlier date on which the Aggregate Commitment is reduced to zero or otherwise terminated pursuant to the terms hereof.” 
+
+“‘US Facility Borrower’ means the US-Borrower, the Hong Kong Borrower, the Singapore Borrower, the Euro Holding Company, the German Borrower and the Japanese Borrower.” 
+
+^^Section 1.1 of the Agreement is hereby amended to add the following new definitions in appropriate alphabetical order: 
+
+“‘Euroyen Agent’ means [[Organization 6 Name]], Singapore Branch” 
+
+“‘German Borrower’ means [[Organization 4 Name]], a company organized under the laws of Germany.” 
+
+“‘Japanese Borrower’ means [[Organization 5 Name]], [[Party 2]]” 
+
+“‘Japan Subfacility’ means the Revolving Loans denominated in Japanese Yen and made available by the Lenders to the Japan Borrower pursuant to the terms hereof. Loans under the Yen Subfacility may only be LIBOR Euroyen Advances.” 
+
+“‘Japan Subfacility Limit’ means Advances denominated in Japanese Yen in an outstanding amount not to exceed the Dollar Amount of Fifteen Million Dollars ($[[USD Value 2: Number]]).” 
+
+“‘Japanese Yen’ or “JPY” means the lawful currency of Japan.” 
+
+“‘LIBOR Euroyen Advance’ means any Advance denominated in Japanese Yen and bearing interest at the LIBOR Euroyen Rate.” 
+
+“‘LIBOR Euroyen Interest Period’ means, with respect to a LIBOR Euroyen Advance, a period of one, two, three or six months commencing on a Business Day selected by the Japan Borrower, in each case subject to availability. Such LIBOR Euroyen Interest Period shall end on the day which corresponds numerically to such date one, two, three or six months thereafter, *provided*, *however*, that if there is no such numerically corresponding day in such month, such LIBOR Euroyen Interest Period shall end on the last Business Day of such next, second, third or 
+
+sixth succeeding month. If a LIBOR Euroyen Interest Period would otherwise end on a day which is not a Business Day, such LIBOR Euroyen Interest Period shall end on the next succeeding Business Day, *provided*, *however*, that if said next succeeding Business Day falls in a new calendar month, such LIBOR Euroyen Interest Period shall end on the immediately preceding Business Day.” 
+
+“‘LIBOR Euroyen Rate’ means for the relevant LIBOR Euroyen Interest Period, the sum of (i) the applicable London interbank offered rate for deposits in JPY appearing on Dow Jones Markets (Telerate) Page 3750 as of 11:00 a.m. London time two Business Days prior to the first day of such LIBOR Euroyen Interest Period, and having a maturity equal to such LIBOR Euroyen Interest Period; plus (ii) the rate determined by the Euroyen Agent to represent its costs of compliance with liquidity, reserve or similar requirements imposed by any relevant authority; plus (iii) the Applicable Margin. If such screen rate is unavailable, the LIBOR Euroyen Interest Rate for the relevant LIBOR Euroyen Interest Period shall instead be the rate reported to the Euroyen Agent to be the rate reported to the Euroyen Agent by the Reference Lender as the rate at which such Reference Lender offers to place deposits in JPY, with first-class banks in the London interbank market at approximately 11:00 a.m. (London time) on the first Business Day of such LIBOR Euroyen Interest Period, in the approximate amount of such Reference Lender’s relevant Loan and having a maturity equal to such LIBOR Euroyen Interest Period.” 
+
+“‘Subfacility’ shall mean the Singapore Subfacility, the Euro Subfacility, the Hong Kong Subfacility and the Japan Subfacility”, as the case may be.” 
+
+^^Sections 2.1, 2.2.1, 2.2.2, 2.5, 2.6, 2.7.1, 2.9. 6.1(iv), 6.1(v) and 6.23 are hereby deleted in their entirety and replaced as follows (intervening sections not referenced herein shall remain in effect in accordance with their terms). A new section 2.7.3B is further added, as denoted below, following Section 2.7.3A. 
+
+^^Commitments; Credit Facilities. Subject to the limitations set forth in the next sentence, from and including the date of this Agreement and prior to the Facility Termination Date, each Lender severally agrees, on the terms and conditions set forth in this Agreement, to make Advances, to the extent of such Lender’s Commitment, to the applicable Borrowers. Each Lender agrees, on the terms and conditions set forth herein to make Advances to any Borrower in the applicable Agreed Currency from time to time in amounts not to exceed in the aggregate at any one time outstanding its Commitment, provided that (i) the Aggregate Total Outstandings under the Euro Subfacility shall at no time exceed the Euro Subfacility Limit, (ii) the Aggregate Total Outstandings under the Singapore Subfacility shall at no time exceed the Singapore Subfacility Limit, (iii) the Aggregate Total Outstandings under the Hong Kong Subfacility shall at no time exceed the Hong Kong Subfacility Limit, (iv) the Aggregate Total Outstandings under the Japan Subfacility shall at no time exceed the Japan Subfacility Limit and (v) the Aggregate Total Outstandings shall at no time exceed the lesser of (x) the Borrowing Base and (y) the Aggregate Commitment. Subject to the terms of this Agreement, any Borrower may borrow, repay and reborrow at any time prior to the Facility Termination Date. The Commitments to lend hereunder shall expire on the Facility Termination Date. 
+
+2.2.1 Mandatory Prepayment. (a) If at any time the Aggregate Total Outstandings (calculated as of the most recent Computation Date) exceeds either the Aggregate Commitment or the Borrowing Base, then (A) the US-Borrower shall be obligated to immediately repay Advances under the US Subfacility, and (B) each Non-US Borrower shall be jointly and severally obligated to immediately repay Advances under all Subfacilities, in each case in a principal amount that is, together with any other Borrower’s repayment pursuant to this sentence, sufficient to eliminate any such excess; provided that no Non-US Borrower shall be required to repay any amount to the extent prohibited by applicable law. If at any time (in each case measured as of the most recent Computation Date) (i) the Aggregate Total Outstandings in respect of the Euro Subfacility exceed the Euro Subfacility Limit, (iii) the Aggregate Total Outstandings in respect of the Singapore Subfacility exceed the Singapore Subfacility Limit, (iv) the Aggregate Total Outstandings in respect of the Hong Kong Subfacility exceed the Hong Kong Subfacility Limit, or (v) the Aggregate Total Outstandings under the Japan Subfacility exceed the Japan Subfacility Limit, each Borrower that is a party to such affected Subfacility shall be jointly and severally obligated to repay Advances under the affected Subfacility in an amount or amounts sufficient to eliminate any such excess. Until such time as an excess in an affected Subfacility is so eliminated, the Aggregate Commitment shall be reduced by an amount equal to the Dollar Amount of the excess of such affected Subfacility. 
+
+2.2.2 Voluntary Prepayment. The applicable Borrower may from time to time pay, subject to the payment of any funding indemnification amounts required by Section 3.4 but without penalty or premium, all outstanding Advances under its respective Facility, or, in the minimum amount of EUR 1,000,000 or any integral multiples of EUR 100,000 in excess thereof in the case of the Euro Subfacility, the minimum of S$ 1,000,000 or any integral multiples of S$ 100,000 in excess thereof in the case of the Singapore Subfacility, the minimum of H$ 1,000,000 or any integral multiples of H$ 100,000 in excess thereof in the case of the Hong Kong Subfacility, the minimum of JPY 100,000,000 or any integral multiples of JPY 10,000,000 in excess thereof in the case of the Japan Subfacility and the minimum of $[[USD Value 3: Number]] or any integral multiples of $[[USD Value 4: Number]] in excess thereof in the case of the US Facility (except that prepayments may be made in the minimum amount of $[[USD Value 4]] or any integral multiples of $[[USD Value 4]] in excess thereof in the case of a Floating Rate Advance), any portion of the outstanding Advances upon three Business Days’ prior notice to the Administrative Agent by 10:00 a.m. (local time). 
+
+^^Minimum Amount of Each Advance. Each Advance shall be in a minimum amount of (i) EUR 1,000,000 and in multiples of EUR 100,000 if in excess thereof in the case of the Euro Subfacility, (ii) S$ 1,000,000 and in multiples of S$ 100,000 if in excess thereof in the case of the Singapore Subfacility, (iii) $[[USD Value 3]] and in multiple of $[[USD Value 4]] if in excess thereof in the case of Eurocurrency Advances under the US Facility (iv) H$ 5,000,000 and in multiples of H$ 1,000,000 if in excess thereof in the case of the Hong Kong Subfacility, (v) Japanese Yen JPY 100,000,000 and in multiples of Japanese Yen JPY 10,000,000 if in excess thereof in the case of the Japan Subfacility, and (vi) $[[USD Value 5: Number]] and in multiples of $[[USD Value 4]] if in excess thereof in the case of Floating Advances under the US Facility. 
+
+^^Method of Selecting Types and Interest Periods for New Advances. Each Borrower shall select the Type of Advance, the Interest Period (if applicable) and the Agreed Currency applicable thereto from time to time. Each Borrower shall give the Administrative Agent irrevocable notice, substantially in the form of Exhibit B attached hereto, (a “Borrowing Notice”) (i) not later than 10:00 a.m. (London time) at least three Business Days before the Borrowing Date in the case of Eurocurrency Advances requested from the Administrative Agent, (ii) not later than 12:00 noon (Singapore time) at least three Business Days before the Borrowing Date in the case of SIBOR Advances requested from the Administrative Agent (iii) not later than 12:00 noon (Hong Kong time) at least three Business Days before the Borrowing Date in the case of HIBOR Advances requested from the Administrative Agent, (iv) not later than 12:00 noon (Singapore time) at least three Business Days before the Borrowing Date in the case LIBOR Euroyen Advances requested from the Administrative Agent and (v) not later than 10:00 a.m. (Chicago time) on the Borrowing Date in the case of Floating Rate Advances requested from the Administrative Agent, specifying: 
+
+^^the Borrowing Date, which shall be a Business Day, of such Advance; 
+
+^^the aggregate amount of such Advance; 
+
+^^the Type of Advance; and 
+
+^^the Interest Period and Agreed Currency applicable thereto. 
+
+Timing and mechanics of Overdraft Loans shall be as set forth in the Overdraft Facility Agreement. 
+
+2.7.1 Continuation of Eurocurrency Advances. The provisions of this Section 2.7.1 shall apply to each Subfacility. Each Eurocurrency Advance shall continue as an Advance until the end of the then applicable Interest Period therefor, at which time each such Advance shall automatically continue as an Advance in the same Agreed Currency with an Interest Period of one month unless (x) such Advance is or was repaid in accordance with Section 2.2 or (y) the applicable Borrower shall have 
+
+given the Administrative Agent a Continuation Notice (as defined below) requesting that, at the end of such Interest Period, such Advance continue as an Advance for the same or another Interest Period. 
+
+Subject to the terms of Section 2.5, so long as no Default has occurred and is continuing, any applicable Borrower may elect from time to time to continue all or any part of an Eurocurrency Advance, SIBOR Advance, HIBOR Advance or LIBOR Euroyen Advance denominated in the same Agreed Currency. Any such Borrower shall give the Administrative Agent irrevocable notice, substantially in the form of Exhibit C attached hereto, (a “Continuation Notice”) of each continuation of an Advance not later than 10:00 a.m. (London time) at least three Business Days prior to the date of the requested continuation to the Administrative Agent, specifying: 
+
+^^^the requested date, which shall be a Business Day, of such continuation, and 
+
+^^^the Agreed Currency and amount into which such Advance is to be continued and the duration of the Interest Period applicable thereto. 
+
+2.7.3B Continuation of LIBOR Euroyen Advance. With respect to each LIBOR Euroyen Advance which is outstanding, at or before 11:00 a.m. (Singapore time) three Business Days before the end of the then applicable LIBOR Euroyen Interest Period, the Japan Borrower shall notify the Administrative Agent in form and substance substantially as attached as Exhibit G-2 (“Japan Rollover Notice”) either of (i) the next LIBOR Euroyen Interest Period which such Japan Borrower has selected as applicable to the LIBOR Euroyen Advance, which new LIBOR Euroyen Interest Period shall commence on and include the last day of the prior LIBOR Euroyen Interest Period, or (ii) the intention of such Japan Borrower to repay such LIBOR Euroyen Advance at the end of the relevant LIBOR Euroyen Interest Period. If such Japan Borrower fails to select and to notify the Administrative Agent of the LIBOR Euroyen Interest Period applicable to the LIBOR Euroyen Advance, or of its intention to repay such LIBOR Euroyen Advance, the Japan Borrower shall be deemed to have selected a new Interest Period of one month for such Advance. 
+
+^^Changes in Interest Rate, etc. Each Eurocurrency Advance, SIBOR Advance, HIBOR Advance and LIBOR Euroyen Advance shall bear interest at the Eurocurrency Rate, the SIBOR Rate, the HIBOR Rate or the LIBOR Euroyen Rate, as applicable, on the outstanding principal amount thereof from and including the first day of the Interest Period applicable thereto to (but not including) the last day of such Interest Period at the interest rate determined by the Administrative Agent as applicable to such Advance based upon each Borrower’s selections under Sections 2.6 and 2.7 and otherwise in accordance with the terms hereof. No Interest Period may end after the Facility Termination Date. Each Floating Rate Advance shall bear interest on the outstanding principal amount thereof, for each day from and including the date such Floating Rate Advance is made or is converted from a Eurocurrency Advance into a Floating Rate Advance pursuant to Section 2.7.2 to but excluding the date it becomes due or is converted into a Eurocurrency Advance pursuant to Section 2.7.2 at a rate per annum equal to the Floating Rate for such day. Changes in the rate of interest on that portion of any Advances maintained as a Floating Rate Advance will take effect simultaneously with each change in such applicable rate. Each Eurocurrency Advance, SIBOR Advance, HIBOR Advance and LIBOR Euroyen Advance shall bear interest on the outstanding principal amount thereof from and including the first day of the Eurocurrency Interest Period, SIBOR Interest Period, HIBOR Interest Period or LIBOR Euroyen Interest Period applicable thereto to (but not including) the last day of such Eurocurrency Interest Period, SIBOR Interest Period, HIBOR Interest Period or LIBOR Euroyen Interest Period at the Eurocurrency Rate, SIBOR Rate, HIBOR Rate or LIBOR Euroyen Rate as applicable determined as applicable to such Eurocurrency Advance, SIBOR Advance, HIBOR Advance or LIBOR Euroyen Advance. 
+
+6.1.4. (iv) Within 30 days after the close of each month, a Borrowing Base Certificate. 
+
+6.1.4 (v) [Intentionally Left Blank] 
+
+^^Repayment of Subordinated Debt, Adjustment of Pricing: The US-Borrower and its Subsidiaries shall not make any payment upon any principal of any Subordinated Debt, including by means of repurchasing Debentures, and/or repurchase share or stock capital of any class of any such Borrower and Subsidiary, unless the following conditions are met: 
+
+^^^No Default or Unmatured Default has occurred and is continuing as of the dated of the intended payment of Subordinated Debt or repurchase of share or stock capital, and no Default or Unmatured Default will occur as a consequence of giving effect to said payment or repurchase, as applicable; 
+
+^^^The representations and warranties contained in Article V are true and correct on as of the date of the intended payment of Subordinated Debt or repurchase of share or stock capital, and they will remain true and correct after giving effect to said payment or repurchase, as applicable; 
+
+^^^The aggregate of (i) the excess of the amount of the Borrowing Base over outstanding Loans and other Advances; and (ii) the amount of cash and cash equivalents held by the US-Borrower and its Subsidiaries on a consolidated basis and measured as of the last day of the fiscal month prior to the intended date of payment or repurchase will be at least Twenty Five Million Dollars ($[[USD Value 6: Number]]). 
+
+For the purposes of this section, “cash equivalents” means: (a) short-term obligations of, or fully guaranteed by, the United States of America; (b) commercial paper rated A-1 or better by S&P or P-1 or better by Moody’s, and (iii) certificates of deposit issued by and time deposits with commercial banks (whether domestic or foreign); 
+
+^^^The US Borrower will provide the Administrative Agent with a copy of its consolidated financial statements (balance sheet, related profit and loss and reconciliation of surplus statements, and a statement of cash flows) of the fiscal quarter corresponding to the date on which the intended payment of Subordinated Debt or repurchase of share or stock capital is to be made, adjusted in order to account for said payment or repurchase, on a proforma basis acceptable to the Administrative Agent, evidencing that the US Borrower and its subsidiaries are in compliance with the covenants set forth in the Agreement, including, but not limited to, those contained in this Section and in Article 6 of the Agreement. 
+
+^^The German Borrower and the Japanese Borrower are hereby added as Borrowers under the Agreement and hereby agree to be bound by all the terms and conditions contained therein. Their contact information is set forth beneath their signature hereto. 
+
+^^A new **Exhibit G-2**, “Japan Borrower Notice” is hereby added to the Agreement in the form attached hereto. 
+
+^**Effectiveness.** This Amendment shall become effective when the Administrative Agent has received all of the following acknowledged to be satisfactory by the Administrative Agent: 
+
+^^This Amendment, executed by the requisite signatories;
+
+^^A certificate, signed by the chief executive officer of [[Organization 7 Name]] substantially in the form of **Exhibit I** attached hereto and made a part hereof, stating that on the Effective Date (after giving effect to this Amendment) no Default or Unmatured Default has occurred and is continuing and further certifying that the representations and warranties contained in Article 5 of the Agreement are true and correct on and as of the Effective Date;
+
+^^The representations and warranties contained in Section 4 of this Amendment shall be true and correct in all material respects; and
+
+^^Such other documents, instruments or approvals (and, if requested by the Administrative Agent, certified duplicates of executed copies thereof) as the Administrative Agent may reasonably request.
+
+^**Representations and Warranties.** Each Borrower represents and warrants to the Lenders and the Administrative Agent (which representations and warranties shall become part of the representations and warranties made by such Borrower under the Agreement) that: 
+
+^^The execution, delivery and performance of this Amendment has been duly authorized by all necessary action and will not require any consent or approval of any person or entity, violate in any material respect any provision of any law, rule, regulation, order, writ, judgment, injunction, decree, determination or award presently in effect having applicability to it or constitute a default under any indenture or loan or credit agreement or any other agreement, lease or instrument to which any Borrower is a party or by which it or its properties may be bound or affected;
+
+^^No consent, approval or authorization of or declaration or filing with any governmental authority or any non-governmental person or entity, including without limitation, any creditor or partner of any Borrower is required on the part of such Borrower in connection with the execution, delivery and performance of this Amendment or the transactions contemplated thereby and the execution, delivery and performance of this Amendment and the transactions contemplated hereby will not violate the terms of any contract or agreement to which such Borrower is a party;
+
+^^The Agreement, as amended hereby, is the legal, valid and binding obligation of each Borrower, enforceable against it in accordance with the terms thereof;
+
+^^The most recent financial statements of each Borrower delivered to the Lenders are complete and accurate in all material respects and present fairly the financial condition of such Borrowers as of such date in accordance with generally accepted accounting principles. There has been no adverse material change in the condition of the business, properties, operations or condition, financial or otherwise, of any Borrower since the date of such financial statements which has or could reasonably be expected to have a Material Adverse Effect in respect of the US-Borrower or its Subsidiaries; and
+
+^^After giving effect to this Amendment and the transactions contemplated hereby, no Default or Event of Default has occurred or exists under the Agreement as of the Effective Date hereof.
+
+^**Acknowledgement and Reaffirmation; No Waiver.** Each Borrower hereby ratifies and affirms all of the obligations and undertakings contained in the Agreement and the Agreement remains in full force and effect in accordance with its terms. Each Borrower and each Guarantor hereby acknowledges, agrees and affirms that each document and instrument securing or supporting the obligations and indebtedness owing to the Lenders and Administrative Agent 
+
+prior to the date of this Amendment remains in full force and effect in accordance with its terms, and that such security and support remains in full force effect as to all obligations under the Agreement. 
+
+^**Expenses.** The Borrowers jointly and severally agree to pay and save the Lenders and Administrative Agent harmless from liability for the payment of all costs and expenses arising in connection with this Amendment, including the reasonable fees and expenses of [[Organization 8 Name]] LLP, counsel to the Administrative Agent and certain of the Lenders, in connection with the preparation and review of this Amendment and any related documents. 
+
+^**Governing Law.** This Amendment shall be governed by, and shall be construed and enforced in accordance with, the laws of the State of Illinois. 
+
+^**Counterparts; Facsimile.** This Amendment may be executed in one or more counterparts, each of which together shall constitute the same agreement. One or more counterparts of this Amendment may be delivered by facsimile, with the intention that such delivery shall have the same effect as delivery of an original counterpart thereof. 
+
+\centered [The remainder of this page has been left blank intentionally] 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered as of the date first written above. 
+
+**BORROWERS:**
+
+[[Organization 7 Name]]
+
+/s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+[[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Entity => By: [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory First Name]] [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Last Name]]
+Title: [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Title]]}}
+
+
+[[Organization 9 Name]]
+
+[[[[Organization 9 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] Entity => By: [[[[Organization 9 Name]] Signatory First Name]] [[[[Organization 9 Name]] Signatory Last Name]]
+Title: [[[[Organization 9 Name]] Signatory Title]]}}
+
+[[Title Administrative Agent Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Administrative Agent Signatory Title}} Entity => By: [[Title Administrative Agent Signatory Title}} Signatory First Name]] [[Title Administrative Agent Signatory Title}} Signatory Last Name]]
+Title: [[Title Administrative Agent Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 10 Name]]
+
+[[[[Organization 10 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] Entity => By: [[[[Organization 10 Name]] Signatory First Name]] [[[[Organization 10 Name]] Signatory Last Name]]
+Title: [[[[Organization 10 Name]] Signatory Title]]}}
+
+[[Title Lenders1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Lenders1 Signatory Title}} Entity => By: [[Title Lenders1 Signatory Title}} Signatory First Name]] [[Title Lenders1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Lenders1 Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 1 Name]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 2 Name]] LIMITED
+
+[[[[Organization 2 Name]] LIMITED Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] LIMITED Entity => By: [[[[Organization 2 Name]] LIMITED Signatory First Name]] [[[[Organization 2 Name]] LIMITED Signatory Last Name]]
+Title: [[[[Organization 2 Name]] LIMITED Signatory Title]]}}
+
+[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 3 Name]].
+
+[[[[Organization 3 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]. Entity => By: [[[[Organization 3 Name]]. Signatory First Name]] [[[[Organization 3 Name]]. Signatory Last Name]]
+Title: [[[[Organization 3 Name]]. Signatory Title]]}}
+
+[[Title Party 6 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 6 Signatory Title}} Entity => By: [[Title Party 6 Signatory Title}} Signatory First Name]] [[Title Party 6 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 6 Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 4 Name]]
+
+[[[[Organization 4 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] Entity => By: [[[[Organization 4 Name]] Signatory First Name]] [[[[Organization 4 Name]] Signatory Last Name]]
+Title: [[[[Organization 4 Name]] Signatory Title]]}}
+
+[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
+
+^W267 Keslinger Road
+P.O. Box 393
+[[Address 1: Address]]-0393
+Attention: [[Person 2 First Name]] [[Person 2 Last Name]]
+Tel: [[Phone 1]]
+Fax: [[Phone 2]]
+
+[[Organization 5 Name]]
+
+[[[[Organization 5 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] Entity => By: [[[[Organization 5 Name]] Signatory First Name]] [[[[Organization 5 Name]] Signatory Last Name]]
+Title: [[[[Organization 5 Name]] Signatory Title]]}}
+
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
+
+^W267 Keslinger Road
+P.O. Box 393
+[[Address 1: Address]]-0393
+Attention: [[Person 2 First Name]] [[Person 2 Last Name]]
+Tel: [[Phone 1]]
+Fax: [[Phone 2]]
+
+**GUARANTOR**
+
+THE UNDERSIGNED, EACH A GUARANTOR OF THE OBLIGATIONS UNDER THE AGREEMENT, BEING FAMILIAR WITH THE TERMS OF THE FOREGOING AMENDMENT, HEREBY RATIFIES AND REAFFIRMS ALL SUCH OBLIGATIONS, IN EACH CASE AS SET FORTH IN THOSE CERTAIN GUARANTIES, DATED [[Date 2]]
+
+[[Organization 7 Name]]
+
+/s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+[[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Entity => By: [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory First Name]] [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Last Name]]
+Title: [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Title]]}}
+
+
+[[Organization 11 Name]]
+
+/s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+[[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Entity => By: [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory First Name]] [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Last Name]]
+Title: [[/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Signatory Title]]}}
+
+
+**ADMINISTRATIVE AGENT:**
+
+[[Organization 12 Name]],
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+[[Title Lenders8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Lenders8 Signatory Title}} Entity => By: [[Title Lenders8 Signatory Title}} Signatory First Name]] [[Title Lenders8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Lenders8 Signatory Title}} Signatory Title]]}}
+
+
+**LENDERS:**
+
+[[Organization 12 Name]],
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+[[Title Lenders9 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Lenders9 Signatory Title}} Entity => By: [[Title Lenders9 Signatory Title}} Signatory First Name]] [[Title Lenders9 Signatory Title}} Signatory Last Name]]
+Title: [[Title Lenders9 Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 13 Name]] LIMITED
+
+/s/ [[Person 3 First Name]] [[Person 3 Last Name]]
+[[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Entity => By: [[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory First Name]] [[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory Last Name]]
+Title: [[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory Title]]}}
+
+
+[[Organization 14 Name]], N.A. London Branch,as Overdraft Lender
+
+/s/ [[Person 3 First Name]] [[Person 3 Last Name]]
+[[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Entity => By: [[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory First Name]] [[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory Last Name]]
+Title: [[/s/ [[Person 3 First Name]] [[Person 3 Last Name]] Signatory Title]]}}
+
+
+[[Organization 12 Name]], through its Singapore Branch
+
+[[[[Organization 6 Name]] through its Singapore Branch Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] through its Singapore Branch Entity => By: [[[[Organization 6 Name]] through its Singapore Branch Signatory First Name]] [[[[Organization 6 Name]] through its Singapore Branch Signatory Last Name]]
+Title: [[[[Organization 6 Name]] through its Singapore Branch Signatory Title]]}}
+
+[[Title Party 24 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 24 Signatory Title}} Entity => By: [[Title Party 24 Signatory Title}} Signatory First Name]] [[Title Party 24 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 24 Signatory Title}} Signatory Title]]}}
+
+
+[[Organization 12 Name]], through its Hong Kong Branch
+
+[[[[Organization 6 Name]] through its Hong Kong Branch Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] through its Hong Kong Branch Entity => By: [[[[Organization 6 Name]] through its Hong Kong Branch Signatory First Name]] [[[[Organization 6 Name]] through its Hong Kong Branch Signatory Last Name]]
+Title: [[[[Organization 6 Name]] through its Hong Kong Branch Signatory Title]]}}
+
+[[Title Party 26 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 26 Signatory Title}} Entity => By: [[Title Party 26 Signatory Title}} Signatory First Name]] [[Title Party 26 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 26 Signatory Title}} Signatory Title]]}}
+
+
+\centered **EXHIBIT I** 
+
+\centered OFFICER’S CERTIFICATE 
+
+This Certificate is delivered to [[Organization 12 Name]], as Administrative Agent by [[Organization 7 Name]], pursuant to that certain Revolving Credit Agreement, dated as of [[Date 2]] among the Borrowers named therein, the Lenders set forth on the signature pages thereto and the Administrative Agent identified therein (as amended or modified from time to time, the “Credit Agreement”). All capitalized terms used herein but not defined shall have the respective meanings ascribed thereto in the Credit Agreement. The undersigned, the duly appointed Chief Financial Officer of [[Organization 7 Name]], hereby certifies to the Administrative Agent and the Lenders that on the date hereof (i) no Default or Unmatured Default has occurred and is continuing, and (ii) that all the representations and warranties contained in Article V of the Credit Agreement are true and correct on and as of the date hereof. 
+
+This Certificate is delivered as of [[Date 1]]. 
+
+[[This Certificate is delivered as of Date 1. Signatory Email: Identity | Signature]]
+__________________________________________
+{{This Certificate is delivered as of Date 1. Entity => By: [[This Certificate is delivered as of Date 1. Signatory First Name]] [[This Certificate is delivered as of Date 1. Signatory Last Name]]
+Title: [[This Certificate is delivered as of Date 1. Signatory Title]]}}
+
+
+\centered **EXHIBIT G-2** 
+
+\centered **JAPAN ROLLOVER NOTICE** 
+
+DATE: [ ] 
+
+TO: [[Organization 12 Name]], as Administrative Agent 
+
+Dear Sir: 
+
+The undersigned, [[Organization 5 Name]] (the “Borrower”), refers to Section 2.7.3B of the Revolving Credit Agreement dated as of July 27, 2007 (as it may be amended, supplemented, restated or otherwise modified from time to time, the “Credit Agreement”), by and among the Borrower, together with the other parties designated as the “Borrowers” therein, the lenders from time to time parties hereto (each, a “Lender” and collectively, the “Lenders”) and [[Organization 12 Name]], as Administrative Agent. Unless otherwise defined herein, capitalized terms used herein have the meanings given to them in the Credit Agreement. 
+
+We hereby confirm our request that the present outstanding Advances by way of LIBOR Euroyen Advance be rolled over at maturity, effective the last day of the applicable Interest Period in accordance with Section 2.7.3B in the form of a new LIBOR Euroyen Advance the amount of JPY [ ] maturing [ ] for a new Interest Period terminating on [ ]. 
+
+The undersigned hereby certifies that the following statements are true on the date hereof, and will be true on the effective date of the continuation: (A) the representations and warranties contained in Article 5 of the Credit Agreement are correct, before and after giving effect to the continuation and to the application of the proceeds therefrom, as though made on and as of such date, except to the extent that any such representation or warranty expressly relates only to an earlier date, in which case they were correct as of such earlier date; and (B) no event has occurred and is continuing, or will result from such continuation or from the application of the proceeds therefrom, which constitutes a Default or an Unmatured Default. 
+
+**[[Organization 5 Name]]**
+
+Name:
+Title:
+
+Name:
+Title:

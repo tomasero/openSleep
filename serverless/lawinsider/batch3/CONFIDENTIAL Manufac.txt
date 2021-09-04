@@ -1,0 +1,656 @@
+\centered **CONFIDENTIAL TREATMENT REQUESTED**
+
+\centered **INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND NOTED WITH “****”. AN UNREDACTED VERSION OF THIS DOCUMENT HAS ALSO BEEN PROVIDED TO THE SECURITIES AND EXCHANGE COMMISSION.**
+
+\centered **CONFIDENTIAL**
+
+\centered **Manufacturing and Service Contract For Commercial and Developmental Products**
+
+\centered [[Organization 1 Name]] 08/01/2008
+
+**[SEAL]**
+
+Manufacturing and Service Contract (BVL and Lantheus)
+
+\centered i
+
+\centered **Table of Contents**
+
+\centered **Page**
+
+ARTICLE 1   DEFINITIONS  
+
+ARTICLE 2   DESCRIPTION OF WORK  
+
+ARTICLE 3   MANUFACTURE  
+
+ARTICLE 4   VOLUMES  
+
+ARTICLE 5   FORECASTS AND PURCHASE ORDERS  
+
+ARTICLE 6   PRICE AND PAYMENT  
+
+ARTICLE 7   QUALITY AGREEMENT  
+
+ARTICLE 8   INDEMNIFICATION  
+
+ARTICLE 9   CONFIDENTIALITY  
+
+ARTICLE 10   REPRESENTATIONS AND WARRANTIES  
+
+ARTICLE 11   INTELLECTUAL PROPERTY  
+
+ARTICLE 12   TERM AND TERMINATION  
+
+ARTICLE 13   NOTICES  
+
+ARTICLE 14   WAIVER  
+
+ARTICLE 15   ASSIGNMENT OF AGREEMENT  
+
+ARTICLE 16   GOVERNING LAW  
+
+ARTICLE 17   FORCE MAJEURE  
+
+ARTICLE 18   TITLE OF GOODS  
+
+ARTICLE 19   ENTIRE AGREEMENT  
+
+ARTICLE 20   SEVERABILITY  
+
+ARTICLE 21   INDEPENDENT CONTRACTORS  
+
+ARTICLE 22   AMENDMENTS  
+
+ARTICLE 23   HEADINGS  
+
+ARTICLE 24   REVIEW BY LEGAL COUNSEL  
+
+\centered ii
+
+^RECALL  
+
+ARTICLE 26   ENGLISH LANGUAGE  
+
+ARTICLE 27   EXPORT PROVISION  
+
+ARTICLE 28   ACKNOWLEDGEMENT OF COMPETITION FOR COMPETITIVE PRODUCTS OR SERVICES  
+
+ARTICLE 29   CHANGE NOTIFICATION  
+
+ARTICLE 30   BOOKS AND RECORDS  
+
+ARTICLE 31   BINDING EFFECT  
+
+ARTICLE 32   USE OF NAME AND RESERVATION OF RIGHTS  
+
+ARTICLE 33   COUNTERPARTS  
+
+\centered iii
+
+\centered **ATTACHMENTS**
+
+**Attachment “A”**  Product Supplements (“A1” for the first product, “A2” for the second Product, etc.)
+
+A1.1 Product Identification
+
+A1.2 Product Testing Specification
+
+A1.3 Materials Supplied By Customer And BVL
+
+A1.4 Forecasts
+
+A1.4.1 Five Year Forecast
+
+A1.4.2 12 Month Rolling Forecast
+
+A1.5 Pricing
+
+A1.6 Territory (for Products identified in A1.1)
+
+**Attachment “B”**  Purchase Order Requirements
+
+**Attachment “C”**  Monthly Storage Fees
+
+**Attachment “D”**  Documents Supplied with Batch Release
+
+**Attachment “E”**  Quality Agreement
+
+**Attachment “F”**  Customer Supplied Equipment
+
+*Additional Attachments for Use if “Territory” for any Product includes the European Union:*
+
+**Attachment “G”**  Representation regarding Customer’s Qualified Person
+
+\centered iv
+
+\centered **Manufacturing and Service Contract For Commercial and Developmental Products**
+
+This Manufacturing and Service Contract for Commercial and Development Products (hereinafter this “Agreement”) is made effective as of [[Date 1: Date]] (the “Effective Date”), by [[Organization 2 Name]], Inc., a corporation organized and existing under the laws of Delaware, with its principal office at 300 Northfield Road, [[Address 1: Address]], 44146 (hereinafter “BVL” and as further defined in Article I) and [[Organization 1 Name]], a corporation organized and existing under laws of Delaware, with its principal place of business at 331 Treble Cove Road, [[Address 2: Address]] (hereinafter “Customer”). BVL and Customer may be referred to in this Agreement jointly as the “Parties” or individually as a “Party.”
+
+\centered **WITNESSETH:**
+
+WHEREAS, Customer is the owner or licensee of all rights to certain proprietary technical information, patents and/or patent applications relating to Product(s) (as defined below); and
+
+WHEREAS, BVL provides services to the pharmaceutical industry as a contract manufacturer which supplies its customers with sterile finished dosage forms which it has converted from materials supplied by those customers and/or supplied by BVL and provides Developmental services for sterile dosage forms; and
+
+WHEREAS, Customer and BVL desire to formalize their relationship through this Agreement for the Development and Manufacture of Product and intend for this Agreement to govern the Parties’ relationship; and
+
+WHEREAS, BVL possesses the personnel and Facilities (as defined below) for the Development and Manufacturing of finished sterile dosage forms of Product and is willing to provide Development services, to allocate and commit resources and Manufacture (as defined below) such Product(s) pursuant to the terms of this Agreement; and
+
+WHEREAS, Customer and BVL are parties to that certain Contract Manufacturing Agreement dated as of [[Date 2: Date]] (the “1993 Agreement”) pursuant to which, among other things, BVL manufactures and supplies certain products to Customer and Customer purchases certain quantities of such products from BVL, which agreement is hereby terminated as of the Effective Date pursuant to the terms hereof; and
+
+NOW, THEREFORE, Customer and BVL agree as follows:
+
+In this Agreement, the following terms shall have the meanings set forth below:
+
+^^“Act” means the US Federal Food, Drug and Cosmetic Act of 1938, the Public Health Service Act of 1944 and the regulations promulgated under that Act, as may be amended from time to time.
+
+^^“Active Pharmaceutical Ingredient” or “API” shall mean bulk supplies of the pharmacologically active compound(s) comprising Product and listed in each Attachment “A#.3”, (*i.e*., A1.3) which Customer will provide to BVL in bulk form, from time to time, for the sole purpose of Development and Manufacture of Product for Customer.
+
+^^“Affiliate” shall mean: (a) any corporation or business entity, fifty percent ([[Percentage 1: Number]]%) or more of the voting stock or voting equity interests of which are owned directly or indirectly by a Party; or (b) any corporation or business entity which directly or indirectly owns fifty percent ([[Percentage 1]]%) or more of the voting stock or voting equity interests of a Party; or (c) any corporation or business entity directly or indirectly controlling or under control of a corporation or business entity as described in (a) or (b). For the purposes of this Agreement, the “Affiliate” shall mean, with respect to BVL, [[Address 3: Address]] (along with its successors and assigns) (“[[Address 4: Address]]). For the avoidance of doubt, this agreement will not be binding on affiliates of BVL other than (i) [[Address 5: Address]] (ii) BVL’s Agents as authorized hereunder, and (iii) as set forth in Articles 9 and 11.
+
+^^“Agent” or “Agents” shall mean any individual or entity which performs on behalf of or for a Party under this Agreement, and in the case of any such individuals, the term “Agent” shall be understood to include the entity employing such individual.
+
+^^“Agency” and “Agencies” shall mean the regulatory entities for each respective country, states and/or territories as identified in and limited to each Product’s definition of the Territory (*i.e.,* for product A1 see Attachment A1.6); including; if Territory includes the United States, the FDA; if Territory includes Canada and its Provinces, the Canadian Health Protection Branch; if Territory includes any member state of the European Union, the European Agency of Evaluation of Medicinal Products (hereunder the “EMEA”); if Territory includes Japan, the Japanese Ministry of Health, Labor and Welfare; (b) any successor organization of any such entity; and (c) any other government regulatory authority with regulatory oversight of the Manufacturing, the Facilities or use of Product in or for its Territory, as such other authorities are mutually agreed upon by the Parties in writing.
+
+^^“Applicable Law” shall mean all applicable ordinances, rules, regulations, laws, guidelines, guidance, statutes, requirements and court orders of any kind whatsoever, as amended from time to time, including the bodies of law, regulations (including without limitation, cGMP or its equivalent) and environmental, health and safety for each country of the Territory.
+
+^^“Batch” shall mean a specific quantity of Product that is intended to be of uniform character and quality and is produced during the same cycle of Manufacture as defined by the applicable Batch Record. The Batch size for each Product is specified in each Attachment “A#.1” (*i.e.*, A1.1) to this Agreement. “Lot” shall have the same meaning as Batch.
+
+^^“Batch Records” shall have the meaning ascribed thereto in Section 3.9.2.
+
+^^“BVL Indemnitees” shall have the meaning ascribed thereto in Section 8.1.
+
+^^“[[Organization 3 Name]]” shall mean the Technology of BVL that: (a) exists prior to the Effective Date; or (b) is developed or obtained by or on behalf of BVL independent of this Agreement or the 1993 Agreement and without reliance upon Product, any API supplied by Customer, or Confidential Information or Composition of Customer; or (c) is a BVL Invention or BVL’s Other Invention.
+
+^^“cGMP” shall mean, with respect to each Product, the Current Good Manufacturing Practices in such Product’s Territory (Attachment “A#.5”, *i.e*., A1.6) as may be amended or supplemented from time to time; including (i) if in the United Stated, then cGMP shall include without limitation, the Current Good Manufacturing Practices set forth in 21 C.F.R. 210 and 21 C.F.R. 211 and relevant FDA guidance documents; and (ii) if in the
+
+European Union, then cGMP shall include, without limitation, the practices and standards described in the Guide to Good Manufacturing Practices for Medicinal Products as promulgated by the European Commission under European Directive 2003/94/EC, as may be amended or supplemented from time to time and the ICH Harmonised Tripartite Good Manufacturing Practice Guide For Active Pharmaceutical Ingredients (ICH Q7), as each may be amended from time-to-time, or any successors thereto. In the event of any conflict among Applicable Laws pertaining to the Manufacture of Product, the most stringent among the conflicting Applicable Laws will govern unless the Parties agree otherwise in writing.
+
+^^“Certificate of Analysis” shall mean a summary of the test results, including the test methods, specification parameters, and the pass/fail criteria, used in the determination of the quality and suitability of a specific Batch of Product, including review and approval by the appropriate quality assurance department at BVL.
+
+^^“Certificate of Compliance” shall mean a document, signed by an authorized representative of BVL, attesting that a particular Batch was manufactured in accordance with cGMP, the Specifications and other Applicable Law.
+
+^^“Claims” shall have the meaning ascribed thereto in Section 8.1.
+
+^^“Composition” shall mean any components and/or raw materials other than API that are used in the Manufacturing of Product and listed in each Attachment “A#.3” (i.e., A1.3) hereto, which may be supplied by BVL or Customer as required pursuant to such Attachment.
+
+^^“Confidential Information” shall have the meaning set forth in Section 9.1.
+
+^^“Contract Quarter” shall mean each three (3) month period commencing on [[Date 3: Date]], [[Date 4: Date]], [[Date 5: Date]], or [[Date 6: Date]], during the term of this Agreement, provided, that the first Contract Quarter shall commence on the Effective Date and end on the last day of the then-existing quarter and the last Contract Quarter shall end on the expiration or termination of this Agreement.
+
+^^“Contract Year” shall mean each twelve (12) month period commencing on [[Date 3]], and each successive twelve month period thereafter ending on [[Date 7: Date]] of the same year, provided that regardless of the Effective Date, the Contract Year of the initial year of the Agreement shall commence on the Effective Date and end on [[Date 7]] of the initial year, the Contract Year for the final year of the Agreement shall end on [[Date 7]] or in the event of a termination of the Agreement, upon the effective date of termination, whichever occurs first.
+
+^^“Customer Indemnitees” shall have the meaning ascribed thereto in Section 8.2.
+
+^^“Customer Technology” shall mean all: (a) API and Customer-supplied Composition; (b) Products and any intermediates or derivatives thereof; (c) Specifications; (d) the Technology of Customer owned, developed or obtained by or on behalf of Customer or Customer’s Affiliates prior to the Effective Date, or owned, developed or obtained by or on behalf of Customer or its Affiliates independent of this Agreement and without reliance upon the Confidential Information, Improvements or Technology of BVL or the 1993 Agreement; and (e) Customers’ Improvement.
+
+^^“Development,” “Develop,” “Developmental” shall mean all of the development services provided in support of the Manufacture of Product as defined by proposals submitted by BVL to Customer or submitted by Customer to BVL and mutually accepted by both parties.
+
+^^“Disclosing Party” means the party which is directly or indirectly disclosing Confidential Information to the Receiving Party pursuant to this Agreement. The Disclosing Party may also act as the Receiving Party of the other party’s Confidential Information.
+
+^^“Drug Master File” or “DMF” means a drug master file providing detailed information about the facility, the equipment and manufacturing processes relating to the API and Product and such other information as required by Applicable Laws, including 21 C.F.R. Section 314.420 and to the extent applicable any equivalent requirement in under Applicable Laws including as required by the Committee for Proprietary Medicinal Products Note for Guidance on the European Drug Master File Procedure for Active Ingredients.
+
+^^“Equipment” shall mean the equipment described in the Master Batch Record which is: (a) owned or leased by BVL; or (b) if supplied by Customer, then identified in Attachment “F” to this Agreement, and in each case will be used by BVL for the Development and/or Manufacture of Product in accordance with the terms and conditions of this Agreement.
+
+^^“Facility” and “Facilities” shall mean BVL’s Facility located at 300 Northfield Road, [[Address 1: Address]], and 19200 Treat Road, Walton Hills, Ohio, all other BVL facilities used in the Manufacturing of Product; provided, that such other facilities have been agreed upon by the Parties in writing in accordance with Section 3.2.
+
+^^“FDA” shall mean the U.S. Food and Drug Administration and any successor agency.
+
+^^“FDCA” shall mean the United States Federal Food, Drug and Cosmetic Act, 21 U.S.C. §§301 et seq., as amended from time to time.
+
+^^“Firm Order” shall mean a binding commitment, as established by a Purchase Order issued by Customer, to have a Batch of Product Manufactured by BVL hereunder.
+
+^^“Five-Year Forecast” shall have the meaning ascribed thereto in Section 5.1.
+
+^^“Force Majeure” shall have the meaning set forth in Section 17.1.
+
+^^“Forecasts” shall mean the collective reference to the Five-Year Forecast and the Rolling Forecast.
+
+^^“Immediately” shall mean within twenty-four (24) hours.
+
+^^“Improvements” shall mean all Technology and discoveries, inventions, developments, modifications, innovations, updates, enhancements, improvements, writings or rights (whether or not protectable under patent, trademark, copyright or similar laws) that are conceived, discovered, invented, developed, created, made or reduced to practice in the Manufacture of Product or otherwise arise in the performance of any services related to the Product under this Agreement.
+
+^^“Investigation” shall mean a detailed and thorough review of any Manufacturing deviation (or any other matter requiring review pursuant to the terms of this Agreement) that is documented in a written report and approved at a senior management level. Each such written report shall include, without limitation, a detailed description of the atypical event, deviation or other matter, all steps taken to review such event, deviation or other matter, a root cause analysis, which other Lots of Customer Product were affected, if any, the proposed and/or taken corrective actions with applicable timelines and a recommendation for permanent correction, if applicable.
+
+^^“Manufacture,” “Manufacturing,” and “Manufactured” shall mean all operations of BVL in the scheduling, production, packaging, labeling, warehousing, quality control testing (including in-process, release and stability testing when applicable), release and shipping of Product to meet the Specifications for Products.
+
+^^“Manufacturing Process” shall mean any and all processes (or any step in any process) used or planned to be used by BVL to Manufacture Product, as evidenced in the Batch Records.
+
+^^“Manufacturing Date” shall mean the date on which BVL commences manufacture of a Batch.
+
+^^“Marketing Authorization” shall mean a New Drug Application filed with an Agency outside the United States.
+
+^^“Master Batch Record” or “MBR” means the document containing the mutually agreed to Manufacturing Process including but not limited to the instructions for formulation, filling, lyophilization if applicable, packaging, labeling and specifications for components and raw materials to be used in the Manufacture of the Product. In-process and finished Product Specifications for the Product will be referenced in the Master Batch Record. It may also be referred to as the “Master Production Record” or “MPR”. The MBR may be amended from time to time by mutual written agreement of the Parties.
+
+^^“NDA” shall mean a New Drug Application filed with the FDA.
+
+^^“Obsolete Materials” shall have the meaning set forth in Paragraph 6.3.2.
+
+^^“Party” or “Parties” shall have that meaning as set first in the first unnumbered paragraph of this Agreement.
+
+^^“Product” and “Products” shall mean each of the final packaged dosage forms of the product(s) listed separately in each Attachment “A#.1” (*i.e.*, A1.1) to this Agreement, as each such Attachment “A” may be amended from time to time in writing by the Parties.
+
+^^“Promptly” shall mean within thirty calendar (30) days.
+
+^^“Purchase Order” shall mean a written form submitted by Customer to BVL authorizing the Manufacture of Product, Development or other services as specified on the document which references this Agreement or a quotation number provided by BVL or other document provided by BVL outlining the services to be performed, the price to be paid, and contains each of the requirements set forth on Attachment “B”.
+
+^^“Qualified Person” shall have the meaning set forth in Article 48 of the European Directive 2001/83/EC, and as set forth elsewhere within the EU regulations, as may be amended from time to time.
+
+^^“Quality Agreement” shall mean the separate quality agreement to be executed at the same time as this Agreement by BVL and Customer and attached hereto as Attachment “E”. The Quality Agreement constitutes an integrated part of this Agreement and defines the quality assurance and regulatory responsibilities of the Parties as they relate to this Agreement.
+
+^^“Receiving Party” shall have the meaning ascribed thereto in Section 9.1.
+
+^^“Records” shall have the meaning ascribed thereto in Section 3.3.
+
+^^“Relevant Product” shall mean the Product; any product containing API, or any product developed or manufactured using the same API which competes in the same diagnostic class as the Product; and any services in providing or manufacturing the foregoing. For the avoidance of doubt, BVL shall not be prevented from manufacturing a product containing the same API which does not compete in the same diagnostic class as the Product.
+
+^^“Representative” shall have the meaning ascribed thereto in Section 2.5.
+
+^^“Rolling Forecast” shall have the meaning ascribed thereto in Section 5.1.2.
+
+^^“SOP’s of a Party” shall mean such Party’s standard operating procedures as defined in the controlled written documentation of such Party.
+
+^^“Specification” or “Specifications” shall mean the quality standards, including tests, analytical procedures and acceptance criteria that are established to confirm the quality of Product which are mutually agreed to in writing and are contained or referenced in the Master Batch Record for Product or as otherwise mutually agreed to in writing by the Parties.
+
+^^“Technology” shall mean all methods, techniques, trade secrets, copyrights, know-how, data, documentation, regulatory submissions, Product Specifications (which are solely owned by Customer, except for those portions of such Specifications that include routine BVL policies, procedures, etc. and that are not Product-specific) and other intellectual property of any kind (whether or not protectable under patent, trademark, copyright or similar laws).
+
+^^“Temporary Storage Period” shall have that meaning ascribed in Section 6.5.
+
+^^“Territory” shall mean those countries and territories set forth in each Attachment “A#.6” (*i.e.*, A1.6) for the Product identified in each such Attachment “A,” it being understood that different Products may have different Territories for purposes of this Agreement.
+
+^^“Third Party” shall mean any person or entity other than a Party to this Agreement or such Party’s Affiliate.
+
+^^“United States” or “U.S.” shall mean the United States of America, its territories and possessions including Puerto Rico.
+
+^^Equipment.
+
+2.1.1. Equipment owned by BVL and located at the Facility, shall not be dedicated to any single customer unless otherwise agreed to in writing, but shall be available for Manufacturing of Product according to BVL’s Manufacturing Processes requirements.
+
+2.1.2. Customer and BVL shall mutually agree on the terms and conditions of any special equipment required to be purchased for the Manufacturing of the Product(s). Equipment which Customer has purchased is identified on Attachment “F” (title to which shall at all times remain with Customer) and shall be solely dedicated to the production of Products hereunder. Customer may at times authorize BVL, with BVL’s written consent, to select and order equipment that will be invoiced to Customer and for which Customer agrees to be financially liable. BVL shall, at all times and at its sole cost, be responsible for all normal and routine maintenance to the Equipment identified on Attachment “F” in accordance with current BVL’s SOP’s, which procedures have been reviewed and approved by Customer. Customer shall, at all times and at its sole cost, be responsible for upgrades, repairs, replacement, non-routine maintenance and/or enhancements to the Equipment identified on Attachment “F” and BVL shall obtain Customer’s prior written approval prior to incurring such costs. Risk of loss of, all Equipment identified on Attachment “F” shall be retained by BVL to the extent that loss and/or damage of equipment is caused by BVL’s or BVL’s Agent’s act of negligence, breach, or willful misconduct. For the avoidance of doubt, BVL shall not be liable or bear risk of loss for repairs or upgrades to the equipment except if caused by BVL’s failure to perform maintenance as required pursuant to this Agreement.
+
+^^API and Composition.
+
+2.2.1. Customer Supply of API & Composition. Customer shall, at its own expense, supply BVL with sufficient quantities of API and Customer-supplied Composition, including API, needed for the Development and/or Manufacture of Product, as specified in the supporting Purchase Orders, in order to meet Customer’s requirements for commercial and/or Developmental quantities of Product in finished dosage from. BVL shall have no liability for quantities of API or Customer-Supplied Composition shipped in excess of the requirement to Manufacture the amount of Product required to fill open Purchase Orders, but shall use such API or Composition for future Purchase Orders.
+
+2.2.2. Certification of Customer Supplied Composition & Equipment. Upon BVL’s request, Customer shall provide written confirmation of the review and approval of the quality systems of its designated vendors for Customer-supplied Composition/Equipment.
+
+2.2.3. Reports for Customer Supplied Composition. BVL shall: (i) provide Customer with standard inventory reports for all API and Customer-supplier Composition for the prior month not later than the fifth (5th) business day of each month; (ii) notify Customer when the amount of API or Customer-supplied Composition available at BVL reaches the minimum quantity of materials as agreed by both Parties; (iii) not provide API or Customer-supplied Composition to any Third Party without the express prior written consent of Customer; (iv) not use API or Customer-supplied Composition for any purpose other than the Manufacture of Product or conducting other services under this Agreement, including, without limitation, not to analyze, characterize, modify or reverse engineer any API, or take any action to determine the structure or composition of any API, unless the foregoing is required under this Agreement; and (v) destroy or return to Customer or its designee all unused quantities of API and Customer-supplied Composition according to Customer’s written directions at Customer’s cost. If no written directions are provided to BVL within thirty (30) days following termination of this Agreement, or any postponement or cancellation of a Purchase Order, then without BVL having any liability to Customer, BVL may dispose of such API or Composition upon not less than ten (10) days prior written notification to Customer of BVL’s intent to dispose of such API or Composition per cGMP(s). Customer shall be financially liable for the cost or expense associated with any such disposal.
+
+2.2.4. Annual Physical Audit. In addition to Customer’s annual GMP audit, Customer will be entitled to perform an annual physical audit of Customer-supplied Composition at a date and time to be agreed upon by both Parties. If the scope of the audit warrants (e.g., significant number of materials, number of personnel in attendance, BVL’s involvement, etc.) a quotation will be provided to Customer.
+
+2.2.5. ID Only Verification. Customer must give written permission to BVL to do ID-only, by-label verification of any API or active drug substance if no identification test is requested by Customer to be performed by BVL.
+
+2.2.6. Release of Materials. BVL will release all materials provided by BVL. In the event the Territory (Attachment “A#.6”) includes the European Union, then Customer’s Qualified Person shall be responsible to certify compliance of the Customer-supplied API and for the release of Product within the European Union and for EU Directives, standards and rules, including without limitation, Article 51(3) of Directive 2001/83/EC, with respect to the Product(s).
+
+2.2.7. Quality Control Testing Requirements. Customer will provide, or cause BVL to Develop at mutually agreed upon fees, written quality control testing requirements, methods, specifications and reference standards for the API and Product, which shall be performed by BVL in accordance with the Specifications. Customer will approve in Writing initial testing documents, the Master Production Record and any revisions of the documents thereafter. Revisions of approved testing documents requested within eight (8) weeks prior to the Manufacturing Date or other services related to the subject Product may cause a delay or postponement of such Manufacturing and/or other services requested by the Customer. BVL shall not be responsible for any losses or other expenses resulting from any such delay. Upon mutual agreement between the Parties which shall not be unreasonably or untimely withheld, BVL shall make revisions to the testing documents or MBR for a Product that are requested by Customer. Further, BVL shall be entitled to reasonable reimbursement for any and all additional costs and expenses incurred by BVL in connection with any such revision or delay as agreed upon by the Parties. The Parties shall cooperate in good faith to reach agreement for the changes and the associated costs.
+
+2.2.8. Disposition of Tailings/Rejects. Customer is responsible for notifying BVL with instruction for disposition of tailings and rejects, which will be incorporated into the Master Batch Record and include a shipment address for tailing and rejects if Customer requests return of tailings and rejects.
+
+2.2.9. Customer Liable for Changes to BVL Composition. BVL shall procure, at its cost, all BVL-supplied Composition listed as BVL’s responsibility in Attachment A#.3 for a Product in order for BVL to meet Customer’s Purchase Orders made pursuant to this Agreement. In the event that Customer makes changes to the vendor and/or specifications of any BVL-supplied Composition, any additional expense due to such change shall be borne by the Customer as agreed upon, and the Parties shall negotiate, in good faith, an appropriate adjustment to the purchase price of the Product to reflect any increase or decrease in costs due to such changes. If Customer requires BVL utilize a specific vendor for any BVL supplied Composition and BVL is reasonably unable to utilize such vendor, then if Customer requires such vendor to be utilized, Customer shall have the responsibility to source such Composition and provide to BVL pursuant to the terms of this Agreement, which shall thereafter be deemed a Customer-supplied Composition under this Agreement.
+
+^^Product Manufacture. Pursuant to the provisions of this Agreement, BVL shall Manufacture Customer’s requirements for commercial and/or Development quantities of Product in finished packaged dosage form as defined in each Attachment “A#.1” (i.e., A1.1). For the avoidance of doubt, notwithstanding anything in this Agreement to the contrary, such Product shall meet the Specification, the requirements of cGMP and all Applicable Law. BVL, its Agents and [[Address 6: Address]](and any business, operations, personnel or assets owned or controlled by BVL and such Agents and any successors thereto, as the same may be reorganized from time to time) shall not during the Term Manufacture for any Third Party, directly or through any Third Party, any Relevant Product or provide or cause to be or assist in providing any products or services (including in manufacturing, development, or procurement) any Relevant Product, only in each case with the prior written consent of Customer (which may be given at its sole discretion).
+
+^^Development Services. Upon Customer’s request and at Customer’s expense, BVL will perform Development services in accordance with proposals and quotations that are: (a) submitted to Customer at Customer’s request by BVL based on information provided to BVL by Customer; and (b) agreed upon by both Parties in writing via a Purchase Order for the service that references such applicable proposal or quotation.
+
+^^Representatives. Each Party shall appoint a representative having primary responsibility for day-to-day interactions with the other Party for the services under this Agreement (each, a “Representative”). Both Parties shall use reasonable efforts to provide the other with at least forty-five (45) days prior written notice on any change in its Representative. Except for notices or communications required or permitted under this Agreement, which shall be subject to Article 13, or unless otherwise mutually agreed by the Parties in writing, all communications between BVL and Customer regarding the conduct of the services under this Agreement shall be addressed to, or routed directly through the respective Representatives of each Party, as appropriate.
+
+^^BVL Compliance. BVL has obtained, and will maintain at its sole cost and expense throughout the term of this Agreement, all licenses, permits, certifications and approvals required under Applicable Law for its Manufacturing Facilities and for its performance under this Agreement; BVL’s Facilities conform, and will throughout the term of this Agreement conform to cGMP and other Applicable Law.
+
+^^Facility. BVL shall perform all services under this Agreement at the Facility, and shall hold at such Facility all Equipment, API, Composition and other items used in such services. BVL shall not change the location of such Facility or use any additional facility for the performance of services under this Agreement without at least **** (****) calendar days prior written notice to, and prior written consent from, Customer, which consent shall not be unreasonably withheld or delayed (it being understood and agreed that Customer may withhold consent pending completion of a quality assurance audit and/or regulatory impact assessment satisfactory to it including without limitation an environmental health and safety audit of the new location or additional facility, as the case may be); provided, that the Parties will meet and confer to discuss allocation of any applicable costs and expenses in connection with any change of location of the Facility or use of any additional facility for BVL’s convenience. BVL will be responsible for all applicable costs and expenses in connection with any change of locatiion of the Facility or use of any additional facility for BVL’s convenience (including costs for qualification and validation batches). For the avoidance of doubt, it is the Parties’ intent that changes to the Facility made by or on behalf of the Customer, or for the convenience of Customer shall be borne by Customer; changes to the Facility made by or on behalf, or for the convenience of BVL shall be borne by BVL. In the event that a change to the Facility is initiated by BVL, the Parties shall meet and confer on the scope of reasonable regulatory requirements to be provided by BVL. In the event the Parties cannot in good faith reasonably agree to such filing requirements, then the Parties shall mutually agree upon a qualified, neutral regulatory expert who shall fully and finally allocate the costs after reviewing and hearing each Parties arguments. The costs of the expert shall be borne equally by the Parties. BVL shall maintain, at its own expense, the Facility and all Equipment required for the Manufacture of Product in a state of repair and operating efficiency consistent with the requirements of the cGMP and all other Applicable Law.
+
+^^Change Control. Any changes to the Specification, Manufacturing Process, Equipment utilized to Manufacture such Product, its testing procedures, validation, suppliers of raw materials and components, or documentation systems that are specific or related to Product that would likely impact any government submission or approval pending, received and/or required for such Product, either foreign or domestic as applicable for the Territory, shall be made only with the prior written consent of the Parties and in accordance with change control provisions of the Quality Agreement and Section 6.2.1. In the event any such changes are required by an Agency, BVL will Promptly notify Customer. Customer may, from time to time, propose to change Specifications which shall require mutual written consent of the Parties, and BVL will not unreasonably or untimely withhold its consent to such change and will use commercially reasonable efforts to implement such change. For the avoidance of doubt it is the Parties’ intent that the costs of any changes made pursuant to this Section 3.3 at Customer’s request shall be borne by Customer, and the costs of any changes made pursuant to this Section 3.3 made for the convenience of BVL shall be borne by BVL. In the event that a change made pursuant to this Section 3.3 is initiated by BVL, the Parties shall meet and confer on the scope of reasonable regulatory requirements to be provided by BVL. In the event the Parties cannot in good faith reasonable agree to such filing requirements, then the Parties shall mutually agree upon a qualified, neutral regulatory expert who shall fully and finally allocate the costs after reviewing and hearing each Parties arguments. The costs of the expert shall be borne equally by the Parties.
+
+^^Product Compliance. Product delivered to Customer pursuant to this Agreement shall conform to the Specification and be in compliance with all Applicable Law, including but not limited to the requirements of cGMP. In the event of conflicting Applicable Law, Product will comply with the most stringent from the conflicting requirements unless otherwise agreed to by the Parties.
+
+^^Regulatory Communications and Inspections. All information, documents and updates with regard to the Manufacture of Product which are required by any Agency shall be provided by BVL in a timely manner, and BVL shall submit to all inquiries and inspections by any such Agency. All documents directly related to Product and a summary of all information provided by BVL to any Agency shall be provided to Customer in advance of submission to such Agency if feasible, and in no case shall such documents be provided to Customer later than five (5) business days after such documents and information are provided to any Agency. BVL shall notify Customer immediately (or, if during a weekend, upon the next business day) of all scheduled Product-specific Agency inspections and Customer shall have the right to be present for all scheduled inspections relating to the Manufacture of Product. Any and all written communications or notices of inspection directly related to Product received from any Agency shall be provided by Customer and BVL to the other party no later than five (5) business days after such communications or notices are received by such Party; provided, however, that if such document is from BVL, it may redact the confidential information of Third Parties from such communications prior to providing same to Customer.
+
+3.5.1. BVL shall also notify Customer immediately of any notices, observations or other written communications from such Agency regarding any deficiencies that have or may have an adverse effect on the Product or BVL’s ability to perform its obligations under the Agreement. Notwithstanding anything to the contrary hereunder, Customer shall have the right to postpone all pending and future Purchase Orders hereunder (and adjust all forecasts accordingly) in the event of (i) any such notices, observations or communications; (ii) any regulatory or other concerns under Applicable Law; (iii) any material issues with the supply of Products, hereunder (including atypical Manufacturing deviations of the sort requiring investigation hereunder); (iv) any consent decree; or (v) violations of any of the Product quality provisions of this Agreement.
+
+3.5.2. To the extent BVL does not already have copies, Customer shall provide BVL with copies of all Agency approval letters for Product for both clinical studies and commercial use. In addition, Customer shall provide BVL, on an annual basis, with its anticipated schedule of material Agency regulatory filings for the next two calendar years. BVL acknowledges that such schedule may change at any time.
+
+3.5.3. BVL will provide, at Customer’s request, a copy of the BVL Drug Master Files (DMFs) and authorization for FDA to access the DMFs. This may be used by the Customer only to prepare any required Regulatory filing. Any other use of the DMF shall require BVL’s prior written approval.
+
+^^Health, Safety and Environmental Compliance.
+
+3.6.1. Dispensing and other Manufacturing operations are to be performed by BVL using appropriate safety measures and containment techniques as dictated by Applicable Law and industry standards. BVL shall be solely responsible for implementing and maintaining health and safety procedures for the Manufacture of Product and performance of services under this Agreement and for the handling of any materials or hazardous waste used in or generated by such activities. BVL, in consultation with Customer, shall develop safety and handling procedures for API and Product; provided, however, that Customer shall have no responsibility for BVL’s health and safety program. The generation, collection, storage, handling transportation, movement and release of hazardous materials and waste generated in connection with the Manufacture of Product and other services under this Agreement shall be the responsibility of BVL at BVL’s cost and expense, unless otherwise agreed to in writing by the Parties for special situations or conditions. Without limiting other legally applicable requirements, BVL shall prepare, execute and maintain, as the generator of waste, all licenses, registrations, approvals, authorizations, notices, shipping documents and waste manifests required under Applicable Law. Notwithstanding the foregoing, Customer shall be solely responsible for the disposal of any waste generated by Customer disposition of Customer Supplied Composition or finished Product.
+
+3.6.2. Customer has established a program for systematic assessment of its suppliers’ EHS programs (“TPM EHS Assessment Program”) and BVL agrees to participate and reasonably cooperate with Customer in effectively implementing this TPM EHS Assessment Program.
+
+3.6.3. BVL will review Customer’s TPM EHS Assessment Program and, if applicable, provide quotations for additional resources required to address the program. BVL policies will govern except in the event that Customer is willing to bear the cost of compliance. Specially, BVL agrees to:
+
+3.6.3.1. Promptly respond to reasonable Customer requests for non-confidential information made as part of TPM EHS Assessment Program. Customer will provide a questionnaire to BVL and BVL is expected to provide the complete response within thirty (30) calendar days;
+
+3.6.3.2. Reasonably cooperate with Customer to clarify and supplement any information related to its facilities and operations; and
+
+3.6.3.3. Provide to Customer, upon request, copies of BVL’s environmental, health and safety permits required by any governmental authority which are associated with the Products and all facility operations related thereto.
+
+3.6.4. BVL agrees that Customer or its appointed Agent(s) (which Agent shall be disclosed to BVL not less than 30-days in advance of an audit and which shall not be rejected by BVL in the absence of good cause shown) shall be entitled to conduct inspections and audits upon reasonable notice (at Customer’s cost) and mutually convenient times of any areas or facilities used to produce the Products or required for production of the Products, including for the following reasons
+
+3.6.4.1. to assist in completion of TPM EHS Assessment Program described in this Section 3.6.2; and
+
+3.6.4.2. to allow for a loss prevention inspection of the Facility by Customer’s fire insurance underwriting company as necessary for Customer to obtain contingent business interruption insurance.
+
+3.6.5. BVL shall take reasonable and appropriate precautions to ensure that its personnel (including its employees, contractors, and Agents) are protected from Product and/or the Product’s Manufacturing process exposures through either engineering infrastructure, personnel protective equipment or a combination of both. Upon request, within 90 days, BVL shall provide workplace monitoring data which demonstrates the effectiveness of controls. For testing of Customer-supplied Composition or API, Customer will provide sampling method and media to allow samples to be collected at Customer’s cost. If testing methods for the API or Customer-supplied Composition in question are unavailable, surrogates may be used. Workplace monitoring data will be performed in accordance with proposals provided to Customer.
+
+^^Subcontractors. Neither Party may subcontract with any Third Party or use Agents to perform any of its obligations hereunder without the prior written consent of the other Party, provided that for the avoidance of doubt; (i) any rights of Customer to perform audits as authorized hereunder (and subject to the requirements of Section 3.6.4) are not subject to the foregoing, provided in any event that such auditor shall be required to enter into a reasonable and appropriate confidentiality agreement with SVL; and (ii) BVL shall have the right to subcontract nominal, non-Manufacturing Process tasks (such as pest control, cleaning, etc.). In the event that a Party does subcontract with a permitted Third Party or Agent pursuant to this Section 3.7, it shall be solely responsible for the performance of any permitted subcontractor, and for costs, expenses, damages, or losses of any nature arising out of such performance as if such performance had been provided by itself under this Agreement. Each Party shall cause any such permitted subcontractor and Agent to be bound by, and to comply with, all confidentiality, quality-assurance, regulatory and other obligations and requirements as set forth in this agreement.
+
+^^Records. BVL shall keep complete and accurate records of (including, without limitation, reports, accounts, notes, data, and records of all information and results obtained from) all work done by it under this Agreement (collectively, the “Records”). BVL shall not transfer, deliver or otherwise provide any such Records to any Third Party, except to an Agency when requested by an Agency and on notice to Customer pursuant to Section 3.5, without the prior written approval of Customer. While in the possession or control of BVL, Records shall be available during annual audits or as otherwise mutually agreed to times for inspection, examination and review by or on behalf of Customer and its Agents (which Agent shall be subject to the requirements set forth in Section 3.6.4 as well as a reasonable and appropriate confidentiality agreement). All original Records of the Development services and Manufacture of Product hereunder shall be retained and archived by BVL in accordance with cGMP and Applicable Law, but in no case for less than a period of seven (7) years following completion of the applicable work or project. Upon Customer’s request, BVL shall promptly provide Customer with additional copies of such Records at Customer’s cost. Seven (7) years after completion of the applicable work or project or such longer period in accordance with cGMP and Applicable Law unless otherwise agreed to in advance by the Parties in writing all of the aforementioned records shall be destroyed unless Customer instructs BVL in writing as to a contrary disposition for such files.
+
+^^Product and Process Failure.
+
+3.9.1. Product shall be Manufactured in accordance with cGMP and the Manufacturing Process approved mutually by Customer and BVL. Each Batch of Product will be sampled and tested by BVL against the Specification. The Quality Assurance Department of BVL will review the Records relating to the Manufacture of the Batch and will assess if the Manufacture has taken place in compliance with cGMP and the Manufacturing Process.
+
+3.9.2. If, based upon such tests and/or review, a Batch of Product conforms to the Specification and was Manufactured according to cGMP and the Manufacturing Process, then a Certificate of Compliance will be generated and approved by the Quality Assurance Department of BVL. This Certificate of Compliance, a Certificate of Analysis, if required, and a complete and accurate copy of the executed Batch records (collectively, the “Batch Records”) for each Batch of Product (including all the Batch documentation described in Attachment “D” to this Agreement) will be delivered to Customer in advance of Product shipment by a reputable overnight courier or by registered or certified mail, postage prepaid, return receipt requested to verify delivery date. Unless the Batch is shipped under Quarantine (as defined in Section 6.3 below), in the event that Customer has not received all such Batch Records at the time of receipt of BVL’s invoice for such Batch, Customer will notify BVL in writing, and unless the Batch (or a partial Batch) is shipped under Quarantine, Customer shall be entitled to withhold payment until Customer receives the Batch Record. In the event that Customer requires additional copies of this Batch Records, these will be provided by BVL to Customer at mutually agreed upon fees.
+
+3.9.3. Customer will review the Batch Records for each Batch of Product and may test samples of the Batch of Product against the Specification. Customer will notify BVL in writing of its lot disposition of such Batch within **** calendar days of receipt of the complete Batch Records relating to such Batch. If no acceptance or rejection in writing is received by BVL within **** days, the Batch will be conclusively deemed accepted. During this review period, the Parties agree to respond punctually, and shall endeavor in good faith to comply in the typical circumstance within five (5) calendar days, to any reasonable inquiry by the other Party with respect to such Batch Records. Customer has no obligation to accept a Batch to the extent such Batch does not comply with the Specification. Applicable Law (for purposes solely due to BVL or BVL’s Manufacturing or services hereunder), and/or was not Manufactured in compliance with cGMP and the Manufacturing Process.
+
+3.9.4. In case of any disagreement between the Parties as to whether Product conforms to the applicable Specification, a representative sample of such Product shall be submitted to an independent testing laboratory mutually agreed upon by the Parties for tests and final determination of whether such Product conforms to such Specification. The laboratory must meet cGMP requirements, be of recognized standing in the pharmaceutical industry, and consent to the appointment of such laboratory shall not be unreasonably withheld or delayed by either Party. Such laboratory shall use the validated test methods contained in the applicable Specification. The determination of conformance or not by such laboratory with respect to all or part of such Product shall be final and binding on the Parties. The fees and expenses of the laboratory incurred in making such determination shall be paid by the Party against whom the determination is made.
+
+3.9.5. Subject to Section 6.4 and Article 8, if BVL does not manufacture any Batch of Product according to cGMP or the Manufacturing Process and the Product does not meet the requirements of this agreement then BVL shall, after consultation with and written agreement from Customers.
+
+3.9.5.1. refund and Manufacturing fees and expenses paid by Customer to BVL on a *pro* *rata* basis over the usable portion for such Batch; or
+
+3.9.5.2. at BVL’s cost and expense produce a new Batch of Product as soon as reasonably possible; and
+
+3.9.5.3. reimburse Customer for any loss of API or Customer-supplied Composition pursuant to the terms set forth in Section 8.5 to the extent the reimbursement is not provided in Section 3.9.5.1. or Section 3.9.5.2.
+
+3.9.6. BVL or Customer may postpone all scheduled Manufacture of the affected Product until such time as final disposition of rejected Batch(s) has been determined and complete investigations have been finalized with root cause analysis and corrective actions determined to prevent further Batch rejections. BVL shall without any undue delay perform all investigations (including for such rejected Batches) diligently and expeditiously. The Parties will use good faith efforts to investigate and perform corrective actions to address Batches for which any Batch Record indicates an out-of profile condition as defined by generally accepted practice and mutually agreed upon by the Parties. Customer may request, in writing, that BVL continue to Manufacture Product pending its investigation, and in the event that BVL elects to Manufacture Customer’s Product prior to the conclusion of an investigation, then Customer shall assume financial responsibility in the event of further Batch rejection for similar reasons. If Customer requests postponement until completion of the Investigation, the postponement fees in Section 6.5 do not apply.
+
+3.9.7. Moreover, the Parties shall meet to discuss, evaluate and analyze the reasons for and implications of the failure to meet the Specification or comply with the cGMP and/or the Manufacturing Process.
+
+^^Product Purchase and Supply Obligations. BVL shall supply Customer with Customer’s requirements of Product identified in Purchase Orders in accordance with the terms of this Agreement for the Territory. In the event that BVL, at any time during the term of this Agreement, has reason to believe that it will be unable to perform, or meet the requested delivery date, the Manufacturing of any Batch of Product or any other services under this Agreement, BVL shall promptly notify Customer thereof, but in any event, within five (5) business days. Customer agrees that it shall purchase from BVL its requirements for Product beginning on the Effective Date according to the following minimum percentage (the “Commitment Table”);
+
+**Product**      \centered **Year 1**      \centered **Year 2**      \centered **Year 3-5**
+Sestamibi      **   %   **   %   ****   %
+Definity (DMP115-1e)      **   %   **   %   ****   %
+Neurolite Ligand      **   %   **   %   ****   %
+Neurolite Buffer      **   %   **   %   ****   %
+Eluant, 5.8 ml      **   %   **   %   ****   %
+Eluant, 20 ml      **   %   **   %   ****   %
+Technolite      **   %   **   %   ****   %
+
+For each successive renewal term, unless otherwise mutually agreed to by the Parties in writing, the minimum commitment will continue at the Year 3-5 percentages as provided in the Commitment Table and in accordance with Section 12.1.
+
+For the avoidance of doubt, the Customer’s purchasing obligations in the Commitment Table are expressly conditioned upon and shall not commence until, such date that BVL establishes with Customer that BVL is in compliance with all Applicable Laws. The purchasing obligations reflected in the Commitment Table shall immediately be suspended without penalty to Customer if: (i) BVL is found to be out of compliance (OAI) by the FDA, European or Japanese agencies; (ii) BVL fails to comply with Applicable Law at any time during the Term; (iii) BVL breaches any provision of Section 10.1; or (iv) a Force Majeure prevents performance by either Party.
+
+^^Forecasts.
+
+5.1.1. Five-Year Forecast. Attached hereto as part of each Attachment “A#.4.1” (i.e., A1.4.1) is Customer’s forecast of its requirements for Manufacture by BVL of Products for the first five (5) Contract Years of the term of this Agreement (the “Five-Year Forecast”). Such Five-Year Forecast represents Customer’s good faith projection of its requirement of Product(s) from BVL. The Five-Year Forecast is non-binding on either of the Parties and is used for planning purposes only.
+
+5.1.2. Updates to Five-Year Forecast. On an annual basis Customer shall supply an update to the attached Five-Year Forecast not later than **** of each Contract Year for the remaining Contract Years of this Agreement.
+
+^^Rolling Twelve (12) Month Forecasts. Thirty (30) days in advance of the start of each quarter following the Effective Date during the term of this Agreement; Customer will provide BVL with a twelve (12) month rolling distribution forecast for all presentations of Product (“Rolling Forecast”) for the 12 month period beyond the 120 days in advance of delivery for which purchase orders have already been sent. The initial Rolling Forecast will be included in each Attachment “A# 4.2” (i.e., A1.4.2) to this Agreement. The first ** (****) months of each forecast are considered firm, with the exception of a one time postponement of any lot in the firm forecast period which can be postponed a maximum of **** (****) days from the originally scheduled delivery date. Notice of postponement must be sent to BVL at least ** (****) days prior to the originally scheduled date of delivery.
+
+^^Purchase Orders.
+
+5.3.1. Customer shall provide BVL with Purchase Orders for its Product requirements not less than ** (****) days prior to its anticipated delivery date. Customer may increase the quantity or accelerate the scheduled Manufacturing Date of any Firm Order with the written consent of BVL, such consent not to be unreasonably withheld or delayed, provided however, that: (i) BVL shall not be required to implement such alteration if it cannot reasonably or practicably do so; and/or (ii) BVL shall provide a quotation for the additional fee, if any, required to implement such increase or acceleration and Customer shall provide authorization for such fee. Such Purchase Orders shall be subject to acceptance by BVL. BVL will respond to Customer’s Purchase Order with either a confirmation or proposed modification as to delivery date within ** (****) business days of receipt by BVL. Customer may, in its sole discretion, decrease, postpone or cancel any Firm Order, subject to the provisions of Paragraph 6.5. Any terms or conditions of a Purchase Order, acknowledgement or similar standardized form given or received pursuant to this Agreement that are additional or inconsistent with this Agreement shall have no effect and are hereby excluded, unless this Section is expressly referenced by the Parties.
+
+5.3.2. Unless mutually agreed no later than **** days prior to the date of manufacture, BVL will notify Customer of said date of manufacture. The date of manufacture shall not be more than **** calendar days prior to the delivery date.
+
+5.3.3. Notwithstanding the foregoing, to the event that either (i) Customer, in its good faith judgment, determines that a Product, if Manufactured, will not be marketable in the Territory and that the cause for such non-marketability is solely and proximately the responsibility of BVL, (ii) the Products of Manufacture are subject to any consent decree or any of the remedial actions, investigations or adverse events described in Article III hereof or (iii) BVL has breached its representations, warranties, or other obligations under of this Agreement, then Customer shall have the right, at its Product until such time as the cause giving rise to the non-marketability of the Product is abated. The Parties shall cooperate in good faith to schedule Manufacturing of such effected Products as soon as reasonably practicable.
+
+^^Obligation of Supply. BVL shall be obligated to Manufacture Product only in accordance with the Purchase Orders accepted by BVL. BVL shall not be obligated to set aside or reserve any capacity based upon the Forecast. On receipt of each Five-Year Forecast and Rolling Forecast, BVL shall notify Customer in writing of whether BVL does or does not have the ability to provide the forecasted amounts.
+
+^^Additional and Development Services.
+
+5.5.1. Development services required in advance of Manufacture or in support of Manufacture will be mutually agreed to by BVL and Customer. BVL will provide Customer with estimated quotations and timelines for such Development activities. Customer will issue non-cancelable Purchase Orders referencing the quotation provided prior to BVL initiating the Development services. In the event that required Development work exceeds the quoted amount, BVL will issue a revised quotation for which Customer will provide a new or revised Purchase Order reflecting the revised amounts for services rendered. BVL shall not issue a revised quotation unless there is a change in the scope of work requested by Customer or, as agreed upon, required by the project.
+
+5.5.2. In the event that Customer requests or an Agency requires additional services in support of Product, BVL will provide Customer with a quotation for such services. BVL will provide such services only upon receipt from Customer of a binding Purchase Order referencing the quotation provided for the required service.
+
+^^Supply of Composition. It is BVL’s responsibility to: (a) maintain at all times a quantity of BVL-supplied Composition from mutually approved vendors sufficient to meet the requirements of Firm Orders, (b) notify Customer of its requirements of API and Customer-supplied Composition needed in order to fulfill its obligations hereunder and meet the requirements of scheduled Manufacturing dates. If Customer would like BVL to maintain additional quantities of BVL-supplied Composition above that required for Firm Orders, Customer will inform BVL in writing. Upon Customer’s written request and BVL’s acceptance, BVL will maintain additional stock of API and Composition in excess of the amounts needed for Firm Order quantities for which Customer shall be liable as provided in Section 6.4.1 API and Customer-supplied Composition shall be delivered to BVL not less than **** (****) days in advance of the scheduled Manufacturing Date. Customer will provide adequate supply of reference standards for the foregoing upon request by BVL. Customer will coordinate with BVL’s Materials Management Department on the specifics related to each shipment of Customer-supplied Composition. BVL will be responsible to receive, sample, store and maintain the inventory at BVL in accordance with BVL SOP’s and mutually agreed to Specifications.
+
+^^Price and Shipment
+
+6.1.1. The prices to be paid by Customer for the services and/or quantities of Product purchased pursuant to Article 5 of this Agreement are specified in each Attachment “A#.5” (i.e. A1.5) or for other services in applicable quotations or proposals provided to Customer and confirmed by Customer’s Purchase Orders. ** price adjustments will be effective as of **** and no more than the percent change year to year with the final version of the **** of each ****. In the event of a negative percent change the price will **** for the following **. In the event that a lot is delivered **** or more days after the Customer’s requested delivery date which had previously been accepted by BVL, for reasons solely attributed to BVL, BVL will invoice
+
+Customer for such lot at **** percent (****%) of the applicable Batch price. Except for the foregoing or as expressly provided hereunder, no additional costs or expenses will be chargeable by BVL for the services provided hereunder.
+
+6.1.2. Delivery terms for Products shall be ** (****) (INCO Terms 2000). Customer shall assume title and risk of loss of the finished Product upon delivery to **** (at ****). BVL shall ensure that each Batch shall be delivered to Customer or Customer’s designee: (i) within ** days in advance or **** days after the requested delivery date or as otherwise mutually agreed to and to the destination designated by Customer on the Purchase Order; and (ii) in accordance with the instructions for shipping included on the Purchase Order and packaging specified in the Master Batch Record or as otherwise agreed to by the Parties in writing. A bill of lading shall be furnished to Customer with respect to each shipment. Customer is responsible for all shipment costs and shipping charges will be paid directly by Customer.
+
+^^Pricing.
+
+6.2.1. Price Adjustment on Product or Process Specification Changes. BVL reserves the right to adjust prices as mutually agreed based on changes to the Specifications or Manufacturing Process for a Product regardless of the event of action causing the Specification or Manufacturing Process change taking into account process efficiencies from such changes other than: (1) a change required as a result of BVL’s negligence action, willful misconduct or breach of this Agreement or (2) for BVL’s convenience or request pursuant to Section 3.3.
+
+6.2.2. Prices for Development Services and Development Manufacture. Pricing for Product and Manufacturing Process Development services will be provided to Customer in written proposal provided to Customer by BVL based on the services requested by Customer. Customer will confirm its acceptance of a proposal by issuing a Purchase Order referencing the quotation number provided on the proposal.
+
+6.2.3. Continuous Improvements. Customer in concert with BVL is resolved to fostering perpetual value-added activity and continuous improvement. Therefore, Customer and BVL acknowledge and agree with the importance of pursuing process, quality, and cost improvement goals.
+
+^^Payment of Invoices.
+
+6.3.1. The purchase price for Product or services in an undisputed invoice shall be paid to BVL through an electronic funds transfer no later than ** (****) days after the date of BVL’s invoice to Customer. BVL will issue an invoice for: (i) Product Manufacture at such time that BVL’s quality control department has completed its testing, found Product suitable to be shipped and has shipped the Products, Batch Records and other documents identified in Attachment “D,” and (ii) for other services, upon completion of such other services as described in the applicable proposal. Customer may request that a Batch be shipped before Customer release (i.e., shipment in “Quarantine”). In the event a Quarantine shipment is made, BVL will invoice on the shipment day. Customer will notify BVL in writing that a Lot can be shipped in Quarantine and BVL will make all reasonable efforts to honor this request. Within **** (****) days from the date of any disputed invoice, Customer must provide a written notice that conforms to the requirements of this Agreement of the disputed invoices and the reason such invoice is disputed. The Parties will negotiate in good faith to resolve such dispute within ** (****) days following notice of such dispute. If a disputed invoice is resolved in Customer’s favor, BVL shall either reimburse Customer or issue Customer a trade credit as mutually agreed between BVL and Customer. If the Parties are unable to reach an agreement, either party may pursue any remedies available to it under this Agreement, at law, or in equity.
+
+6.3.2. In the event of nonpayment of balances without written notice by Customer and reasonable cause within ** (****) days of the invoice date, BVL has the option to assess and Customer agrees to pay a monthly late payment charge equal to **** percent (****%) of the unpaid balance. Should unpaid balances on undisputed invoices extend beyond **** (****) days after an invoice has been issued BVL reserves the right to require Customer to pay ** (****%) of the full price for each Batch at the time of Purchase Order issuance or may cancel all scheduled Manufacture until such time as all unpaid overdue invoices, together with any and all late fees, have been paid.
+
+^^Payment for Non-Validated Services or Production; Obsolete Materials.
+
+6.4.1. Customer will be required to pay BVL for all Product Manufactured during any period when any Manufacturing Process and material testing procedures have not been fully developed and validated, regardless of whether Product is accepted or rejected by the Customer, unless such rejection is due to BVL’s negligence, willful misconduct or breach of this Agreement by BVL.
+
+6.4.2. Customer will be required to pay BVL for all packaging components and Composition which were purchased by BVL to fulfill open purchase order or at Customer request for use specifically in the Manufacture of Product covered by this Agreement, should any of the BVL-supplied Composition become obsolete for any reason other than BVL’s negligence, willful misconduct or breach of this Agreement (the “Obsolete Materials”). Notwithstanding the foregoing, Customer’s liability for Obsolete Material shall be limited to the amount of packaging components and Composition necessary for Manufacture in accordance with Section 5.4. Customer shall provide BVL with shipping instructions for disposition of any Obsolete Materials within 90 days from notification by BVL. If BVL does not receive notification of where to ship Obsolete Materials within such 90-day period, BVL has the right to dispose of such materials per governing cGMP(s) without BVL having any liability to Customer and BVL shall invoice Customer the amounts listed on the written notice for reasonable direct, out-of-pocket expenses incurred by BVL for such disposal.
+
+^^Fee for Postponement/Cancellation.
+
+6.5.1. Customer and BVL wish to fairly and equitably allocate risk of loss in the event that a scheduled Manufacturing does not occur due to Customer’s request to cancel and/or postpone any Batch. Accordingly, as a policy consideration, BVL and Customer agree to certain fees as set forth below based upon the length of prior notice that Customer is able to provide BVL. Such prior written notice determines BVL’s likelihood of being able to fill the capacity reserved by Customer and to reduce the likelihood of BVL’s loss due to Customer’s cancellation. In the event that
+
+Customer cancels or gives notice of its intent to postpone a scheduled Manufacturing of a Batch of Product, then the following fees shall apply:
+
+6.5.1.1. Notice of ** (**) days or less: As the equipment, preparations and materials associated with the Batch have been allocated and prepared and can no longer be re-used, Customer shall pay ****% of the Purchase Order price.
+
+6.5.1.2. Notice of ** (****) to **** (****) Days: If notice of such postponement/cancellation is delivered not less than **** days and not more than ** days from the scheduled Manufacturing Date, Customer shall pay ****% of the Purchase Order price.
+
+6.5.1.3. Notice greater than ** (****) Days: As BVL may have the opportunity to avoid certain costs associated with the Manufacturing of the Batch pursuant to the Purchase Order but may not be able to mitigate its losses by utilizing the Manufacturing suites allocated pursuant to Customer’s Purchase Order, Customer and BVL agree to allocate and share the potential risk and BVL may charge, in its discretion, an administrative fee to cover the cost of rescheduling Manufacturing. In no event shall such administrative fee exceed ** dollars ($****).
+
+6.5.2. BVL will use commercially reasonable efforts to use the capacity created by any postponement or cancellation under this Paragraph 6.5 to manufacture product for its other customers, including [[Address 3: Address]]. To the extent the capacity is able to be used then fees as applied in Paragraphs 6.5.1.1 and 6.5.1.2 will be reduced commensurately.
+
+6.5.3. Within thirty (30) days of receipt of an invoice for a cancellation/postponement fee, Customer shall be entitled to request an audit (through Agents) at a mutually agreed upon timeframe, of the Equipment and BVL’s books and records regarding the use of such Equipment following any cancellation/postponement, the use of the operating capacity of any applicable Facility at the time of a postponement/cancellation, and the calculation of any and all personnel and associated expenses incurred by BVL and charged to Customer. Any such audit shall be conducted by a mutually agreed third-party auditor, and the costs of any such audit shall be born by Customer.
+
+^^Storage Fees. Customer is responsible for storage charges as specified in Attachment “C” for Product stored for more than **** (****) calendar days beyond BVL’s release of such Product the “Temporary Storage Period”. Storage beyond the Temporary Storage Period of Product in BVL’s warehousing Facilities must receive prior written approval from BVL. Such approval will be granted only on a space-available basis. At the expiration of the Temporary Storage Period, BVL shall ship the Product to Customer at Customers cost at the Customer’s shipping address listed on the applicable Purchase Order. Notwithstanding anything in this Agreement to the contrary, at no time shall Customer incur or be responsible to pay any storage charges if the reason for such storage is an investigation pursuant to Paragraphs 3.5 or 3.6.
+
+^^Stability Program. During the term of this Agreement and upon Customer’s request and BVL’s written agreement, BVL will conduct and support, at Customer’s reasonable expense, all stability studies in progress or planned (e.g., NDA annual stability studies) as of the Effective Date until such studies are concluded. Customer shall be responsible for all costs of conducting any stability studies. Stability program costs will be covered in a separate quotation provided by BVL to Customer based on the agreed upon protocol. Customer may also make arrangements for stability work to be performed at a facility other than BVL at Customer’s expense.
+
+^^Inspection, Packaging and Labeling. Customer shall be responsible for and bear all costs associated with the design, Development, quality release and regulatory approval of all labeling and packaging materials for Product. Customer shall perform its design, development, quality release and regulatory approval obligations hereunder in a timely manner sufficient for BVL to satisfy its Manufacturing obligations hereunder for Product. Labeling and packaging developed by Customer will conform to labeling and packaging Specification mutually agreed to in writing by the Parties and will conform to all Applicable Law.
+
+^^Quality Agreement. Certain quality matters relating to Product are included in the Quality Agreement which is attached and incorporated herein by reference as Attachment “E.” If any provision of the Quality Agreement is irreconcilably inconsistent with the terms of this Agreement, the terms of this Agreement shall prevail with respect to commercial issues and the Quality Agreement shall prevail with respect to cGMP issues.
+
+^^Customer Indemnity. Customer hereby holds harmless and indemnifies BVL, its Affiliates and its and their directors, officers, employees and agents (the “BVL Indemnitees”) against any and all losses, liabilities, damages, reasonable costs and expenses whatsoever, including, without limitation reasonable attorneys’ fees and the cost of recalls and any and all amounts reasonably paid in settlement of any claim or litigation and any settlement payments, subject to Section 8.3 below, (collectively, “Losses”) incurred by any BVL indemnitee in investigating, preparing or defending against any litigation, commenced or threatened by a Third Party, or any other claim, demand or proceeding of a Third Party (collectively, “Claims”), based on resulting from, arising out of or in connection with any actual or alleged (a) personal injuries and/or death resulting from, arising out of or in connection with any distribution or sale of a Product by Customer, its Affiliates or its distributors, including without limitation, Claims based on negligence, warranty, strict liability or any other theory of liability or violation of any Applicable Law, (b) breach by Customer of its representations, warranties or covenants hereunder (c) negligent act or the willful misconduct of any Customer Indemnitees in performing Customer’s obligations under this Agreement; or (d) Customer’s API and any Customer supplied Composition, materials, Equipment, Specifications, formulations, marketing, labeling, design, instructions, handling and/or storage; except, in each case, to the comparative extent such Claim arose out of or resulted from a matter for which BVL is responsible therefor pursuant to Section 8.2.
+
+^^BVL Indemnity. BVL hereby holds harmless and indemnifies Customer, its Affiliates and its and their directors, officers, employees and agents the “Customer Indemnitees”) against any and all Losses incurred by any Customer Indemnitee in preparing, or defending against any Claims based on, resulting from, arising out of or in connection with any actual or alleged: (a) personal injuries and/or death that are proximately caused (as defined under Delaware law) by a Manufacturing Defect (as hereinafter defined); (b) breach by BVL of its representations, warranties or covenants hereunder, including personal injuries and/or death claims; (c) any recall pursuant to Article 25 of this Agreement due to BVL’s negligence, willful misconduct, or breach of any covenant, representation or warranty in this Agreement; or (d) negligent act of the willful misconduct of any BVL Indemnitees in performing BVL’s obligations under this Agreement except, in each case, to the comparative extent such Claim arose out of or resulted from a matter for which Customer is responsible therefor pursuant to Section 8.1. For the purposes of this Section 8.2, “Manufacturing Defect” means the negligence, recklessness (having a baseline not less than negligence), wrongful intentional acts or negligent omissions, or strict liability of or by BVL or its Affiliates or its Agents resulting from, or arising out of or in connection with the Manufacture of a Product by BVL.
+
+^^Indemnification Procedures. Any BVL Indemnitees or Customer Indemnitees (collectively, “Indemnitees”) seeking indemnification under Section 8.1 or 8.2 agrees to notify the indemnifying Party within ten (10) business days of receipt of any Claims demands or threats of suit for which such Party may be liable under Section 8.1 or 8.2 as the case may be; provided, however, that failure to give such notification shall not affect the indemnification to be provided hereunder except to the extent the indemnifying Party shall have been actually prejudiced as a result of such failure (except that the indemnifying Party shall not be liable for any expenses incurred during the period in which the Indemnitee(s) failed to give such notice). The indemnifying Party shall have the right, but not the obligation, to defend, to employ counsel of its choosing, to control, to negotiate, and to settle such claims; provided, however, that the indemnitee(s) shall be entitled to participate in the defense of such matter and to employ counsel at its expense to assist therein. The Indemnitee(s) shall provide the indemnifying Party with such information and assistance as the indemnifying Party may reasonably request, at the expense of the indemnifying Party. The Parties understand that no insurance deductible shall be credited against losses for which a Party is responsible under this Article 8. No indemnifying Party under Section 8.1 or 8.2 may compromise or settle any Claim or pay any settlement amount in the connection with the compromise or settlement of any Claim without the prior written consent of Indemnitee, such written consent not to be unreasonably withheld or delayed.
+
+^^Insurance. Customer and BVL will each, at its own cost and expense, obtain and maintain in full force and effect, during the term of this Agreement and for a period of one year following the expiration or other termination of this Agreement, Commercial General Liability insurance, written on the standard approved Policy Form, and Blanket Contractual Liability, with limits of liability of not less than $**** Combined Single Limit Bodily Injury and Property Damage covering its duties and obligations under the Agreement. Furthermore, during the term of this Agreement, BVL shall obtain and maintain “All Risk” property insurance valued at replacement cost, covering loss or damage to the Facility and Customer’s property and materials in the care, custody, and control of BVL including, for the avoidance of doubt all API and Customer-supplied Composition. The coverage limits may be provided through a combination of Primary, Excess/Umbrella or Self-Insured Retention. The Parties further understand and agree that the insurance limits identified herein shall not act as a bar to any recovery.
+
+^^Specific Limitation of Liability for Process-Related (i.e., during Manufacturing) Losses.
+
+8.5.1. Notwithstanding anything to the contrary set forth herein or in any collateral documents hereunder (invoices, purchase orders, etc.), the Parties acknowledge and agree that BVL’s sole liability to Customer for in-process Manufacturing losses (i.e. loss of API, or Customer-supplied Composition) is set forth exclusively in this section 8.5. Except for Batches of *Definity* (where the maximum liability shall be $**), BVL agrees to reimburse Customer up to a maximum of $**** per Batch pro-rated over the usable portion of the Batch, if applicable, for any loss of API or Customer-supplied Composition for each Batch that does not meet. Specification or was not Manufactured in accordance with the Manufacturing Process or cGMP and therefore can not be released; provided that the loss of such materials can be shown after investigation to be caused solely and directly by: (a) the failure of BVL to follow its SOP’s; or (b) BVL’s negligence, willful misconduct or breach of this Agreement; or (c) BVL’s willful misconduct, where, solely for purposes of this Section 8.5.1, such “willful misconduct” shall have the meaning set forth under Delaware law. In the absence of a showing of (a), (b) or (c), above, then BVL shall have no liability to Customer for such Batch of Product. In addition to this payment, BVL will be responsible for all Manufacturing fees incurred during the Manufacture of the failed Batch, pro-rated over the usable portion of the Batch, if applicable. The maximum amounts set forth in Section 8.5.1 shall increase annually by the percentage increase of the actual cost of the API and Customer-supplied Composition or as in the case of Definity the percentage increase as applied to the $**** maximum as described above as shown by Customer’s written records. The monetary values of all Customer-supplied Composition and API must be disclosed by Customer to BVL in writing prior to production in the questionnaire provided by BVL to Customer. The Customer is responsible for notifying BVL in writing of any changes in the value of the Customer-supplied Composition and API supplied to BVL, and BVL shall not be liable for any increase in the cost of the foregoing if Customer fails to provided the abovementioned notice or timely updates thereto. Notwithstanding the foregoing, or any declared value of API costs in excess of $**** or $**** as applicable, or the insurance levels identified in Section 8.4 or elsewhere, in no event shall BVL’s liability to Customer for in-process loss of API or Customer-supplied Composition be in excess of $** or $****, as applicable, per Batch except to the extent permitted by Applicable Law.
+
+^^LIABILITY LIMITATION.
+
+8.6.1. **ELECTION OF REMEDIES**. SECTION 3.9.4, 3.9.5, 8.2, 8.5 AND 25.1 ARE CUSTOMER’S SOLE AND EXCLUSIVE REMEDY FOR ANY PRODUCT THAT DOES NOT COMPLY WITH THE SPECIFICATIONS CONTAINED IN THE MASTER BATCH RECORD AND/OR WERE NOT MANUFACTURED IN ACCORDANCE WITH THE REQUIREMENTS SET FORTH IN THIS AGREEMENT.
+
+8.6.2. **SPECIAL DAMAGES**. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES, INCLUDING WITHOUT LIMITATION, LOST PROFITS, LOST MARKET SHARE OR DAMAGES STEMMING FROM AN INTERRUPTION OF SUPPLY ARISING OUT OF THIS AGREEMENT, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY (THE “SPECIAL DAMAGES”).
+
+8.6.3. **BVL CAP ON LIABILITY**. THE PARTIES RECOGNIZE AND ACKNOWLEDGE THAT THIS ARTICLE 8 ATTEMPTS TO EQUITABLY ALLOCATE RISK WITH RESPECT TO EACH PARTIES’ RESPECTIVE INTEREST IN THE AGREEMENT AND THAT THE LIMITATIONS OF LIABILITY SET FORTH HEREIN ARE COMPROMISES. NOTWITHSTANDING ANYTHING TO THE CONTRARY SET FORTH HEREIN, BVL’S TOTAL MAXIMUM AGGREGATE LIABILITY UNDER
+
+THIS AGREEMENT SHALL NOT EXCEED **** DOLLARS ($****) FOR THE INITIAL TERM OF THE AGREEMENT.
+
+8.6.4. **INTEGRAL PROVISIONS.** THESE LIMITATIONS SET FORTH IN THIS SECTION 8.6 SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY, SUCH LIMITED WARRANTIES, LIMITATION OF LIABILITY AND SPECIAL PROVISIONS ARE INTEGRAL PARTS OF THIS AGREEMENT.
+
+^^Confidential Information. As used in this Agreement: “Confidential Information” means any scientific, technical, trade, business or proprietary information related to the subject of the Agreement, irrespective of whether in human or machine-readable form, tangible or intangible, which is: (a) given by the Disclosing Party to the Receiving Party or otherwise acquired or perceived by the Receiving Party from the Disclosing Party; or (b) which is developed by BVL for Customer under the terms of the 1993 Agreement or this Agreement. Confidential Information does not include information that: (a) is lawfully in the possession of the Receiving Party, without restriction as to confidentiality or use, at the time of disclosure by the Disclosing Party, as demonstrated by competent written records of the Receiving Party; (b) is or later becomes part of the public domain through no fault of the Receiving Party (i.e. other than by breach of this Agreement by the Receiving Party); (c) is received, without restriction as to confidentiality or use, by the Receiving Party from a Third Party lawfully entitled to possession of such Confidential Information and who does not violate any contractual, legal or fiduciary obligation to the Disclosing Party by providing such Confidential Information to the Receiving Party; or (d) is developed independently by the Receiving Party without any use of, or access or reference to, or reliance on, the Disclosing Party’s Confidential Information, in whole or in part. Disclosing Party is not obligated to mark information as “CONFIDENTIAL” for such information to be deemed Confidential Information under this Agreement. Confidential Information of BVL includes, but is not limited to, [[Organization 3 Name]], BVL Improvements, BVL pricing information and capabilities/capacities. Confidential Information of Customer includes, but is not limited to, Customer Technology, Customer Inventions and Customer Improvements. This Agreement shall not be construed as a grant of any right or license to the Receiving Party with respect to Confidential Information of the Disclosing Party or as a requirement of either Party to enter into any further arrangement with respect to Confidential Information of the Disclosing Party.
+
+^^Disclosure and Use. The Receiving Party shall: (a) maintain the confidentiality of the Disclosing Party’s Confidential Information; (b) not disclose the Disclosing Party’s Confidential Information to any Third Party without the prior written consent of the Disclosing Party; and (c) use the Disclosing Party’s Confidential Information only as necessary to fulfill its obligations or in the reasonable exercise of rights granted to it hereunder. Notwithstanding the foregoing, a Receiving Party may disclose: (i) Confidential Information of the Disclosing Party to its Affiliates, and its and their directors, employees, consultants and Agents provided, that in each case such individuals and entities have a specific need to know such Confidential Information and are previously bound by written obligation of confidentiality and restriction at least as rigorous as those set forth herein; (ii) Improvements or Inventions owned by the Receiving Party to the extent required to exploit the grant of its rights under Article 11 of this Agreement; and (iii) Confidential Information of the Disclosing Party to the extent such disclosure is required to comply with Applicable Law or to defend or prosecute litigation; provided, however, that prior to any such use or disclosure in accordance with Applicable Law, the Receiving Party shall provide written notice of such potential disclosure to the Disclosing Party (which shall include a copy of any applicable subpoena or order), and cooperate with Disclosing Party’s requests and lawful decision to avoid or minimize the degree of such disclosure. Receiving Party shall permit the Disclosing Party the opportunity, if desired, to seek an appropriate protective order or other confidential treatment or remedy with respect to narrowing the scope of such use or disclosure. Upon request, the Receiving Party shall return all copies of the Disclosing Party’s Confidential Information to the Disclosing Party.
+
+^^Publicity. Neither Party will issue any press release or other public announcement concerning this Agreement or the transactions contemplated by this Agreement without the prior written consent of the other Party, except where such announcements are required by Applicable Law or the rules of any stock exchange or NASDAQ provided, however, that prior to any announcement in accordance with Applicable Law or rules, the disclosing Party shall provide written notice of such potential announcement to the other Party, and cooperate with the other Party’s requests and lawful decision to avoid or minimize the degree of such disclosure. Such other Party shall permit the disclosing Party the opportunity, if desired, to seek an appropriate protactive order or other confidential treatment or remedy with respect to narrowing the scope of such announcement. Product labeling (primary, secondary, and any insert) and government filings may indicate that Product has been Manufactured for Customer by BVL.
+
+^^Customer’s Agents. In the event that Customer desires for its Agents to perform an audit at the Facility and/or otherwise enter upon the Facility, then prior to any such visit, such Agent shall either be required to enter into an agreement with BVL in which it agrees to comply with the confidentiality obligations, restrictions and responsibilities imposed upon Customer in this Section. In BVL’s discretion, such agreement shall be acknowledged by Customer denoting that the individual identified thereon is Customer’s Agent.
+
+^^Non-Disclosure of Customer’s Confidential Information to Third Parties or [[Address 3: Address]]. The Parties acknowledge that the actual Manufacturing Process may be performed by employees that perform routine and normal manufacturing services (e.g., in filling, packaging, sterile rooms, shipping, etc.) and who also perform similar services for BVL’s other third-party customers and for [[Address 3: Address]]. Notwithstanding the foregoing, BVL agrees that it shall not disclose Customer’s Confidential Information or Customer Technology to any Third Party or Affiliate of BVL, including any personnel of [[Address 6: Address]](except for those manufacturing employees referenced in the preceding sentence that require the use of such Customer Confidential Information or Customer Technology in order to Manufacture Product).
+
+^^Notice to Senior Scientists and Manufacturing Personnel who Separate Employment with BVL. For senior members of BVL’s Product and Process Development (PPD) Department and Manufacturing Department who separate employment from BVL, BVL shall, when it determines appropriate in its sole discretion, send a copy of such individual’s “Invention & Secrecy Agreement” agreement to both the individual and his/her new company (if known). The cover letter enclosing the Invention & Secrecy Agreement shall remind the former employee and his/her new employer of the confidentiality, non-use and non-disclosure obligations pertaining to BVL and it’s customer’s confidential and proprietary information.
+
+^^Representations of BVL. BVL represents, warrants and covenants to Customer that:
+
+10.1.1. (a) It has the full power and right to enter into this Agreement and that there are no outstanding agreements, assignments, licenses, encumbrances or rights of any kind held by other parties, private or public, materially inconsistent or conflict with the provisions of this Agreement; and (b) the execution and delivery of this Agreement and the performance of such Party’s obligations hereunder; and (c) there are no, and shall be no, liens, conveyances, mortgages, assignments, encumbrances, or other contacts or agreements that would prevent or materially impair such Party’s full and complete exercise of the terms and conditions of this Agreement;
+
+10.1.2. the services provided by BVL shall be performed with requisite care, skill and diligence, in accordance with the terms of this Agreement (including 2.2.6, 3.3, 3.6, 7.1 (and Attachment “E”)), Applicable Laws and industry standards, and by individuals who are appropriately trained and qualified;
+
+10.1.3. the services provided by BVL, and the use, practice or exploitation of the [[Organization 3 Name]], Customer Improvements, Customer Inventions and BVL Confidential Information, will not infringe, misappropriate, or otherwise violate any patents, trademarks, copyrights, trade secrets, or any other intellectual property rights of any Third Party in the Territory and it will promptly notify Customer in writing should it become aware of any claims asserting such infringement, misappropriation or violation;
+
+10.1.4. at the time of delivery to Customer, Product Manufactured under this Agreement: (i) will have been Manufactured in accordance with cGMP and all other Applicable Laws, the Manufacturing Process, the requirements of the Quality Agreement, and the Specifications, and shall be free of any manufacturing defects; (ii) will not be adulterated or misbranded under the FDCA or other Applicable Law; and (iii) will be provided free and clear of any liens and encumbrances of any kind; (e) it has not been debarred, nor is it subject to a pending debarment, and that it shall not use in any capacity in connection with the services provided under this Agreement any person who has been debarred pursuant to section 306(b)(1)(B) of the FDCA (or who is the subject of a conviction described in such section) and will provide a certification that it has not, does not and will not use in any capacity the services of any person debarred under section 306(b) of the FDCA in connection with the Manufacture of the Products. BVL agrees to inform Customer in writing immediately. If BVL or any person who is performing services on its behalf under this Agreement is debarred or is the subject of a conviction described in section 306(b), or if any action, suit, claim, investigation, or proceeding is pending relating to the debarment or conviction of BVL or any person performing such services.
+
+^^Representations of Customer. Customer represents, warrants and covenants to BVL that:
+
+10.2.1. (a) it has the full power and right to enter into this Agreement and that there are no outstanding agreements, assignments, licenses, encumbrances or rights held by other parties, private or public, inconsistent with the provisions of this Agreement; and (b) the execution and delivery of this Agreement and the performance of such Party’s obligations hereunder: (i) do not conflict with or violate any requirement of Applicable Law, (ii) do not, and will not conflict with or otherwise interfere with resulting in a violation, breach, or default under, or require any consent that has not been obtained under any contact or agreement between such Party or any of its Affiliates, Agents and any third party; and (iii) there are no, and shall be no liens, conveyances, mortgages, assignments, encumbrances, or other contacts or agreements that would prevent or impair such Party’s full and complete exercise of the terms and conditions of this Agreement;
+
+10.2.2. the use, practice or exploitation of Customer Technology, Customer improvements, and Customer Confidential Information in the performance of services under this Agreement will not infringe, misappropriate or otherwise violate the patents, trademarks, copyrights, trade secrets, or other intellectual property rights of any Third Party and that it will promptly notify BVL in writing should it become aware of any claims or threats asserting such infringement, misappropriation or violation;
+
+10.2.3. that the API and Customer-supplied Composition shall be free or defects of any kind, shall not be adulterated, shall conform to applicable Specifications and will be provided to BVL free and clear of any liens and encumbrances; and
+
+10.2.4. Customer’s further distribution of the Product will not cause the Product to be adulterated or misbranded under the FDCA or other Applicable Law.
+
+^^Additional Representations of Customer in the event that Product(s) will be Offered for Sale, Sold, Marketed or Distributed for Developmental or Clinical Applications within the Member States of the European Union. In the event that the Territory includes the European Union or any member states thereof, then in addition to all other warranties and representations set forth herein, Customer also represents and warrants that Customer shall be responsible for the release of the Products in the European Union in compliance with all applicable EU Directives and Standards. It is Customer’s obligation to notify BVL as to whether the Territory for any Product includes an EU member nation, or if a country within the Territory subsequently becomes a member of, or subject to, the European Union.
+
+^^Customer Technology. All rights, title and interests in and to Customer Technology and Customer’s Other inventions shall remain solely in Customer and no right, title or interest therein or thereunder is transferred or granted to BVL, except as set forth in the following sentence. BVL acknowledges and agrees that it does not acquire a license or any other right to Customer Technology except for the limited purpose of carrying out its duties and obligations under this Agreement and that such limited, non-exclusive, non-sublicensable, non-transferable license (i) shall expire upon the completion of such duties and obligations or the termination or expiration of this Agreement, whichever is the first to occur, and (ii) does not require disclosure of any Customer Technology to any other persons or entities. Except as provided in Section 3.7 or Section 9.4, under no circumstances shall BVL share, convey, license, or otherwise transfer any Customer Technology or Customer’s Other Inventions to any BVL Affiliate or BVL Agent.
+
+^^[[Organization 3 Name]]. All rights, title, and interests in and to [[Organization 3 Name]] shall remain solely in BVL and no right, title or interest therein is transferred or granted to Customer, except as set forth in the following two sentences. Customer acknowledges and agrees that it shall not acquire a license or any other right to [[Organization 3 Name]] except as otherwise set forth in this Agreement. BVL shall not incorporate any [[Organization 3 Name]] into any inventions hereunder without the prior written consent of Customer, and, if BVL does incorporate any [[Organization 3 Name]] into any Inventions, absent an agreement to the Parties to the contrary, Customer is granted a royalty-free, fully paid-up, sublicensable (solely for the Product), license to freely use (solely for the Product), practice and otherwise exploit the [[Organization 3 Name]] (solely for the Product). For the avoidance of doubt, to the extent that BVL incorporates [[Organization 3 Name]] into the Product, the foregoing grant shall be for the benefit of Customer and solely for the benefit of the Product, and shall not be utilized for any other product, whether by Customer or any of Customer’s Agents.
+
+^^Customer Improvements.
+
+11.3.1. Customer shall own all right, title and interest in and to all inventions, discoveries, developments, improvements, new uses, processes, know-how, compounds, compositions, or syntheses that are conceived, reduced to practice or first demonstrated to have utility in the course of activities under this Agreement or the 1993 Agreement and that are Product-specific or are specific to the use of the API for use in the same therapeutic class, including but not limited to any process for making any Product, any use of any Product, any method of analyzing or characterizing any Product or any Product formulation, and any analysis or characterization of any Product or any Product formulation (collectively, “Customer Inventions”). As used in this Agreement, “Product-specific” shall mean relating to the Products, any intermediates or derivatives thereof, and the Manufacturing thereof but not routine manufacturing processes which are not specific to the Manufacturing of Product.
+
+^^BVL Improvements.
+
+11.4.1. BVL shall own all right, title and interest in and to all inventions, discoveries, developments, improvements, new uses, processes, know-how, compounds, compositions, or syntheses that are conceived, reduced to practice or first demonstrated to have utility in the course of activities under this Agreement or the 1993 Agreement and that are conceived, reduced to practice or first demonstrated to have utility in the course of activities under this Agreement or the 1993 Agreement and that relate to [[Organization 4 Name]], BVL Confidential Information or BVL Improvements but are not Product-specific (collectively, “BVL Inventions”). For the avoidance of doubt, where an invention relates to both the [[Organization 4 Name]], equipment or equipment processes and to a Product or a Product formulation (e.g., a complex between a Product and a proprietary complexing agent of BVL), such invention to the extent it is “Product-specific” shall be a Customer Invention.
+
+11.4.2. Ownership of any Invention which is not a Customer Invention or a BVL. Invention (“Other Invention”) shall be as follows: (x) where such Other Invention is jointly conceived, reduced to practice or first demonstrated to have utility under this Agreement or the 1993 Agreement by: (i) one or more employees, consultants or Agents of a Party or an Affiliate of such Party; and (ii) one or more employees, consultants or Agents of the other Party or an Affiliate of such other Party, such Other Invention shall be jointly owned by the Parties, and (y) where such Other Invention is conceived, reduced to practice or first demonstrated to have utility solely by an employee, consultant or Agent of a Party or an Affiliate of that Party, such Offer Invention shall be owned by such Party.
+
+11.4.3. The inventorship of all Inventions conceived, reduced to practice or first demonstrated to have utility in the course of activities under this Agreement will be determined in accordance with United States laws for inventorship. Each party hereby agrees to disclose to the other Party promptly and in writing all Inventions conceived or reduced to practice or first demonstrated to have utility in the course of activities under this Agreement by an employee, consultant or Agent of a Party or its Agents. BVL hereby assigns to Customer all right, title and interest of BVL in or to any Customer Inventions. Customer hereby assigns to BVL all right, title and interest of Customer in or to any BVL Inventions. Each Party shall cooperate (and cause its Agents and all employees to cooperate) with the other Party in taking all steps and actions (including but not limited to maintaining in confidence any Inventions that constitute trade-secrets, and executing appropriate documentation in connection with the filing of any patent application(s) on any Invention of the other Party) which such Party believes reasonably necessary or desirable to apply for and/or maintain intellectual property protection for the benefit of Customer or BVL as the case may be in any country, or to perfect or enforce such Party’s ownership and right in the Inventions; provided, however, that the costs and expenses for taking such steps and actions are borne by the Party seeking to obtain IP registration or protection.
+
+^^Term. This Agreement shall become effective on the Effective Date and, except as otherwise provided herein, shall be in effect for an initial term of five (5) Contract Years (the “Initial Term”). After the initial term, this Agreement shall automatically renew for successive five (5) Contract Year periods unless terminated by Customer or BVL upon twenty-four months written notice.
+
+12.1.1. Renewal of the Funds for Indemnity Obligation. The total aggregate cap of liability of ** Dollars ($****) for the Initial Term set forth in Section 8.6 of this Agreement shall renew for each successive **** (****) year term of the Agreement. For the avoidance of doubt, no carry-over of indemnity shall be permitted from term-to-term, meaning that no part of the prior term’s indemnity funds shall be available in a successive term. Likewise, for the further avoidance of doubt, an indemnity obligation that is triggered in one term (for instance, during the Initial Term) shall be limited to the indemnity cap available in such term and, notwithstanding any renewal of the Agreement, may not draw from the ** Dollars ($****) that becomes available from the subsequent, renewal term.
+
+^^Termination by Either Party Without Cause. Either Party may terminate this Agreement without cause by providing twenty-four (24) months written notice to the other
+
+Party. Notwithstanding such no fault termination, Customer shall be liable for any outstanding Development Services performed or Purchase Orders filled by BVL as of the date of termination. For the avoidance of doubt either Party may terminate with respect to any individual Product which termination shall not effect the viability of the Agreement with respect to any remaining Products. Upon notice of termination by BVL under this Section 12.2 and at the written request of Customer, BVL will continue to Manufacture Products in accordance with the terms of the Agreement and pursuant to and up to the quantities enumerated in the first two years of the then-current Rolling Five-Year Forecast in existence as of the date of termination plus a mutually agreed-upon terminal quantity.
+
+^^Termination for Breach. Either Party may terminate this Agreement for a material breach or default by the other Party by giving the breaching Party written notice, specifying the breach or default, and giving the breaching Party thirty (30) days to cure such breach or default. For the avoidance of doubt either Party may terminate with respect to any individual Product which termination shall not effect the viability of the Agreement with respect to any remaining Products. If the breach or default has not been cured within thirty (30) days after the receipt of such notice the Non-Defaulting Party shall be entitled, without prejudice, to terminate this Agreement; provided, however, that if such breach or default reasonably cannot be cured within 30 day period, then upon the mutual agreement of the Parties the Defaulting Party may be granted an additional period of time during which it shall exercise reasonably diligent efforts to cure such breach, and the Non-Defaulting Party shall not be permitted to terminate this Agreement under this Section during any such mutually agreed extended cure period. Termination for breach or default will have no effect on performance obligations or amounts to be paid which have accrued up to the effective date of such termination. Customer’s failure to make timely payments hereunder following notice of non-payment as required in this section 12.3 shall constitute a breach.
+
+^^Termination for Bankruptcy. In the event of any proceedings, voluntary or involuntary, in bankruptcy or insolvency, by or against Customer or BVL, or the appointment with or without the Parties’ consent of a receiver for either Party, the other Party shall be entitled to immediately terminate this Agreement upon written notice to the other Party without any liability whatsoever. Such termination shall not affect any claim for damages available to the terminating Party or for costs or fees accrued to date.
+
+^^Termination for Force Majeure. In the case of a Force Majeure event that will, or continues to, prevent performance (in whole or substantial part) of this Agreement by a Party for a period of at least three (3) months, the other Party shall be entitled to terminate this Agreement upon prior written notice to the affected Party without any liability whatsoever.
+
+^^Consequences of Expiration/Termination. In the event of any expiration or termination of this Agreement, BVL shall perform such functions requested by Customer that are reasonably necessary or required in connection with the orderly conclusion of any active project as required by the terms of this Agreement and Applicable Law.
+
+12.6.1. Promptly upon expiration or termination of this Agreement or at the request of the Disclosing Party, the Receiving Party shall return to the Disclosing Party all Confidential Information of the Disclosing Party in its possession. Furthermore, BVL shall promptly return all Customer-supplied Composition, Customer-supplied Equipment, API, retained samples, reference standards, data reports and other property, information and/or know-how in recorded form that was provided by Customer, or Developed in the performance of the services under this
+
+Agreement, that are owned by or licensed to Customer, excepting that required to be retained by Applicable Law, litigation holds or for regulatory compliance.
+
+12.6.2. In the event of termination of BVL pursuant to Section 12.2, Customer shall pay [[Organization 5 Name]] and other services completed up to the effective date of such termination of this Agreement, the Parties shall meet and confer in good faith in an effort to address disposition of any existing API, inventory, or supplies. Customer: (i) shall purchase from BVL any existing inventories of Product conforming to the Specification and Manufactured in accordance with cGMP and the Manufacturing Process, at the then current price for such Product; and (ii) may either: (1) purchase any Product in process held by BVL as of the date of the termination, at a price to be mutually agreed (it being understood that such price shall reflect, on a pro rata basis, work performed and non-cancelable, out-of-pocket expenses actually incurred by BVL with respect to the Manufacture of such in-process Product), (2) reimburse BVL for all work performed and non-cancelable costs, and out-of-pocket expenses incurred by BVL and direct BVL to dispose of such material at Customer’s cost.
+
+12.6.3. BVL shall provide all reasonably requested assistance for technology transfer and otherwise to ensure the orderly transition of the Manufacturing and other services provided hereunder to an alternate source, which shall be provided on a reasonable time and materials basis (provided that BVL must obtain the prior written approval for any required expenditures) or at no cost to Customer if Customer terminates pursuant to Sections 12.3, provided, that no Confidential Information of BVL shall be disclosed to such Alternate Source, it being understood that any Product-specific information contained in the Master Batch Record for Product is not Confidential Information of BVL and may be disclosed to the Alternate Source; and
+
+12.6.4. upon the effective date of termination of this Agreement, Customer shall have no further obligation to BVL with respect to any Purchase Orders with delivery dates beyond such date and BVL will have no further obligations in Manufacture Product, provided that termination or expiration shall have no effect on payment obligations that have accrued up to the effective date of termination.
+
+^^Effect of Termination Under Section 12.2. In addition to Section 12.6, in the event of any termination by Customer pursuant to Section 12.2;
+
+12.7.1. Customer shall pay BVL for its costs of Manufacturing, Development and other services completed up to the effective date of such termination within ** (****) days of Customer’s receipt of all Product, results, reports, data, samples, and other deliverables to be provided pursuant to this Agreement. In the event the funds received by BVL prior to such termination exceed costs incurred to the date of termination, BVL shall refund the difference to Customer within ** (****) days after the effective date of termination.
+
+12.7.2. Customer shall reimburse BVL for the costs of any BVL-supplied Composition that cannot be canceled, unless these materials can be utilized by BVL on other projects. This reimbursement shall be made within **** (****) days after receipt by Customer of an invoice itemizing the material costs. Notwithstanding the forgoing, Customer’s liability for BVL supplied Composition shall be limited to the amount of BVL supplied Composition outlined in section 5.4. BVL agrees to transfer to Customer any materials for which Customer has paid under the provision. Termination shall have no effect on payment obligations that have accrued up to the effective date of termination.
+
+^^Injunctive Relief for Breach or Threatened Breach. The Parties agree that should this Agreement be breached, money damages may be inadequate to remedy such a breach. As a result, the non-breaching Party shall be entitled to seek, and a court of competent jurisdiction may grant, specific performance and injunctive or other equitable relief as a remedy for any such breach or threatened breach of this Agreement. Such remedy shall be in addition to all other remedies, including money damages, available to a non-breaching Party at law or in equity.
+
+^^Survival. Expiration or termination of this Agreement for any reason shall not relieve either Party of any obligation accruing prior to such expiration or termination or of any rights and obligations of the Parties that by their terms survive termination or expiration of this Agreement, including, without limitation, duties of confidentiality (Article 9), indemnification (Article 8), intellectual property rights (Article 11), consequences of termination (Section 12.6, 12.7 and 12.8), governing law and jurisdiction (Article 16) and under the Quality Agreement (Attachment “E”) of this Agreement. Notwithstanding anything to the contrary set forth herein, the obligations identified in this Paragraph 12.9 shall survive for a period of ten (10) years from any termination or expiration of this Agreement, unless specified otherwise in the applicable Articles and Sections.
+
+^^All notices concerning this Agreement shall be given in writing, as follows: (a) by actual delivery of the notice into the hands of the Party entitled to receive it, in which case such notice shall be deemed given on the date of delivery; (b) by Federal Express, UPS, DHL or any other overnight carrier, in which case the notice shall be deemed given two (2) business days from the date of delivery to such carrier or (c) by confirmed facsimile (followed by delivery of an original via overnight carrier), in which case the notice shall be deemed given on confirmation of transmission. All notices which concert this Agreement shall be addressed as follows (or at such other address for a Party as shall be specified in a notice given in accordance with this Section).
+
+If to BVL:
+
+[[Organization 2 Name]], Inc. 300 Northfield Road [[Address 7: Address]] Attn: Vice President, Contract Manufacturing Services Telephone: [[Phone 1]] Facsimile: [[Phone 2]]
+
+With a copy (that shall not constitute legal notice) to:
+
+[[Person 1 First Name]] [[Person 1 Last Name]] or Sr. Division Counsel [[Organization 2 Name]], INC. 300 Northfield Road [[Address 7: Address]] Direct: [[Phone 3]] Fax: [[Phone 4]] email: [[Email 1]]-ingelheim.com
+
+If to Customer:
+
+[[Organization 1 Name]] 331 Treble Cove Road [[Address 8: Address]] Attn: General Counsel Telephone: [[Phone 5]] Facsimile: [[Phone 6]]
+
+With a copy (that shall not constitute legal notice) to:
+
+[[Organization 1 Name]] 331 Treble Cove Road [[Address 8: Address]] Attn: General Manager of Manufacturing Telephone: [[Phone 7]] Facsimile: [[Phone 8]]
+
+With a copy (that shall not constitute legal notice) to:
+
+[[Organization 6 Name]] L.L.P. 767 Fifth Avenue [[Address 9: Address]] Attn: [[Person 2 First Name]] [[Person 2 Last Name]], Esq. Telephone: [[Phone 9]] Facsimile: [[Phone 10]]
+
+^^No failure on the part of either Party to exercise, and no delay in exercising, and no course of dealing with respect to, any right, power or privilege under this Agreement shall operate as a waiver thereof, nor shall any single of partial exercise of any right, power or privilege under this Agreement preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The waiver of any term, condition, or provision of this Agreement must be in writing and signed by an authorized representative of the waiving Party. Any such waiver shall not be construed as a waiver of any other term, condition, or provision, nor as a waiver of any subsequent breach of the same term, condition, or provision, except as provided in a signed writing.
+
+^^Neither this Agreement, nor any rights or obligations hereunder, may be assigned by either Party hereto without the prior written consent of the other Party, which consent shall not be unreasonably withheld or unreasonably delayed; except that either Party may assign this Agreement, without the other Party’s prior written consent, to an entity that: (a) acquired all or substantially all of the business or assets of such Party to which this Agreement pertains (whether by merger, reorganization, acquisition, sale or otherwise); and (b) agrees in writing to be bound by the terms and conditions of this Agreement. Any assignment not permitted by this Section 15.1 shall be void and of no effect whatsoever.
+
+^^This Agreement and the rights and obligations of the Parties hereunder shall be governed by Delaware law and, to the extent the laws of the State of Delaware are preempted or otherwise made inapplicable by federal law, the laws of the United States of America. Each of the Parties irrevocably and unconditionally:
+
+16.1.1. agrees that any suit, action or legal proceeding arising out of or relating to this Agreement shall be instituted in the United States District Court for Delaware, or if such court does not possess subject matter jurisdiction, of any type, or will not accept jurisdiction, in any court of general jurisdiction in Wilmington, Delaware;
+
+16.1.2. consents and submits to the exclusive jurisdiction of such foregoing courts in any such suit, action or proceeding;
+
+16.1.3. consents to personal jurisdiction in such courts;
+
+16.1.4. waives any objection which it may have to laying of venue of any such suit, action or proceeding in said courts; and
+
+16.1.5. waives any claim or defense of inconvenient forum.
+
+^^No Party shall be liable for a failure or delay in performing any of its obligations under this Agreement (but, for the avoidance of doubt, shall be liable for any performance actually rendered) if, and only to the extent that such failure or delay (directly or indirectly) is due to causes beyond the reasonable control of the affected Party, including: (i) acts of God; (ii) fire, explosion, or unusually severe weather; (iii) war, whether declared or undeclared, invasion, riot or other material civil unrest; (iv) [enactment or change of laws or regulations by any Agency or Government, conflict of laws or regulations by any Agency or government with the exception of enactments, changes or conflicts where notice of such enactments, changes or conflicts and a corresponding CAPA remediation plan cannot be satisfactorily agreed upon by BVL, Customer and the agency or government who enacted the change], orders, restrictions, actions, embargoes or blockages; (v) national or regional emergency; (vi) injunctions, strikes, lockouts, labor trouble or other industrial disturbances (regardless of the reasonableness of the demands of labor); or (vii) acts of terrorism (“Force Majeure”). For the avoidance of doubt, the Parties agree that an event shall only rise to the level of “Force Majeure” under section 17.1 (iv) when, following reasonable consultation with the other Party: (a) the Party claiming Force Majeure is substantially and materially prejudiced in its ability to comply with the requirements of this Agreement, (b) the claimed Force Majeure is due to an enactment or change of laws or regulations, and (c) performance is rendered impossible in the short-term or so manifestly burdensome that no reasonable pharmaceutical manufacturing facility of like size and circumstances to BVL would perform under such circumstances.
+
+^^The Party whose performance of this Agreement is affected or potentially affected by a Force Majeure shall promptly notify the other Party of the Force Majeure condition, explaining the nature, details and expected duration thereof, and shall exert reasonable efforts to eliminate, cure or overcome any such condition and to resume performance of its obligations under this Agreement as soon as possible. Upon termination of the event of Force Majeure, the performance of any suspended obligation or duty shall promptly recommence.
+
+^^Title to API and Customer-supplied Composition shall remain with Customer at all stages of the Manufacturing Process and the foregoing shall be held in bailment by BVL. BVL shall provide within the Facility an area or areas where the API, Customer-supplied Composition, Product, any intermediates (and components thereof), and any work in process are segregated and stored in accordance with the Specifications and cGMP, and in such a way as to be able at all times to clearly distinguish the same from products and materials belonging to BVL, or held by it for a Third Party’s account.
+
+^^BVL shall at all times take such measures as are required to protect the API. Customer-supplied Composition, Product, and any work in process from risk of loss or damage at all stages of the Manufacturing Process. BVL shall ensure that the API Customer-supplied Composition, Product, and any work in process are free and clear of any liens or encumbrances. BVL shall immediately notify Customer if at any time it believes any API, Customer-supplied Composition, Product or work in process have been damaged, lost or stolen.
+
+^^This Agreement, together with the Attachments identified herein, embody the entire agreement and understanding between BVL and Customer relating to the subject matter hereof, superseding and hereby terminating the 1993 Agreement, and constituting the entire understanding between the Parties. It is intended as a final expression of their agreement and as a complete statement of terms and conditions thereof. If there is any inconsistency between this Agreement and any other writings, which are referred to or are incorporated herein, or any Purchase Orders, invoices, or other documents relating to Product, the terms and conditions of this Agreement shall take precedence in any contract construction. This Agreement supersedes any previous agreements or arrangements between the Parties and any customary practice of the Parties at variance with the terms hereof. Neither Party may rely upon oral representations that are inconsistent with the terms of this Agreement.
+
+^^In the event any provision of this Agreement is held to be invalid or unenforceable in any jurisdiction, the Parties shall negotiate in good faith a valid, legal and enforceable substitute provision that most nearly reflects the original intent of the Parties and all other provisions hereof shall remain in full force and effect in such jurisdiction and shall be liberally construed in order to carry out the intentions of the Parties hereto as nearly as may be possible.
+
+^^Neither Party shall have the right to control the activities of the other in the performance of this Agreement and each shall perform as an independent contractor, and nothing herein shall be construed to be inconsistent with that relationship or status. Under no circumstances shall the employees or Agents of one Party be considered employees or Agents of the other. This Agreement shall not constitute, create, or in any way be interpreted as a joint venture, partnership, or formal business organization of any kind.
+
+^^No provision of this Agreement or the Attachments attached hereto may be modified or supplemented, except by an instrument in writing signed by both BVL and Customer.
+
+^^The Article and Section headings appearing herein are included only for the convenience of reference and are not intended to affect the interpretation of any provision of this Agreement. As used herein, “including”, “includes” and derivates thereof shall be deemed to be followed by “without limitation”.
+
+^^Each party has carefully reviewed this Agreement, and understands its terms. Each Party has been given sufficient opportunity to seek legal advice prior to signing this Agreement, and has either sought legal advice with counsel experienced in issues of confidentiality in regards to this Agreement, or has relied wholly upon that Party’s own judgment and knowledge in executing this Agreement. Each Party fully understands and voluntarily accepts each and every provision contained in this Agreement. Failure to seek legal advice prior to signing this Agreement does not excuse either Party from failure to understand the terms and conditions set forth in this Agreement. This Agreement has been prepared on the basis of the mutual understanding of the Parties and in the event of an ambiguity, such as ambiguity shall not be strictly construed against either Party as a drafted of this Agreement.
+
+^^In the event: (a) any agency or governmental authority issues a request, directive, or order that Product be recalled; or (b) a court of competent jurisdiction orders such a recall; or (c) the Customer determines that the Product should be recalled or withdrawn. Customer, in cooperation with BVL shall take all appropriate corrective action. Customer shall also retain the right to conduct a Product recall for any safety reasons Customer deems significant. In the event that Product is recalled or that Customer is required to disseminate information regarding Product covered by this Agreement, Customer shall so notify BVL and, not later than may be required to permit Customer to meet such obligations, BVL shall provide Customer with such assistance in connection with such recall as may reasonably be requested by Customer. Customer shall consult with BVL prior to making any determination to recall
+
+Product if practicable. BVL will be financially responsible for the costs of any recall or withdrawal (including but not limited to the actual cost of manufacturing the Product, through final packaging, pro-rated over the usable portion of the batch, if any) to the extent its negligence, willful misconduct, or breach of any covenant, representation or warranty hereunder is responsible for such recall, provided, that, to the extent any recall or withdrawal includes any Batch(es) not yet released to Customer that are subject to Section 8.5, BVL’s liability for such un-released Batch(es) shall be subject to the limitations set forth in Section 8.5 until such release. For the avoidance of doubt, the costs of recall shall be limited to direct costs and expenses associated with the recall (i.e., notices, collection, shipping, destruction) but shall specifically exclude lost profits, lost market share, interruption of business, harm to reputation, or any other indirect collateral cost, such as unrelated marketing, advertising, or any other cost, fee or charge not directly related the recall of Product.
+
+^^This Agreement, all schedules, attachments, and exhibits hereto, and all reports, documents and notices required hereunder, referred to herein or requested by the Parties, in connection with this Agreement shall be written in the English language. Except as otherwise required by Applicable Law, the binding version of all of the foregoing shall be the English version.
+
+^^Each Party agrees and understands that the information and any materials provided by the other Party under this Agreement are subject to United States laws and regulations, which may restrict certain exports, re-exports or other transfers to other countries and parties. Each Party agrees that no materials or information provided to it under this Agreement by the other Party will be exported re-exported, transferred or disclosed contrary to the applicable laws and regulations of the United States, or to any country, entity or other party which is ineligible to receive such items under U.S. laws and regulations, including the regulations of the U.S. Department of Commerce and the U.S. Department of Treasury.
+
+^^Each Party understands and acknowledges that the other Party individually or in collaboration with others may now or hereafter develop or market products which compete with its own products or services. Subject to the confidentiality obligations set forth in Article 9 and Section 2.3, nothing in this Agreement shall impair the right of either Party to develop, make, use, procure, or market other products or services now or in the future which may be competitive to those products or services offered by the other Party to this Agreement, including without limitation the Products Manufactured pursuant to this Agreement. Neither Party is under a duty to disclose any planning or other information relating to competition with the other’s products or services.
+
+^^BVL shall notify Customer promptly of any change in ownership of BVL, and in no event later than three (3) days of such change being made public.
+
+^^Any books and records to be maintained under this Agreement by a Party or its Affiliates shall be maintained in accordance with U.S. generally accepted accounting principles, consistently applied, except that the same need not be audited (but if any audits are conducted by a Party, the results of such audits shall be maintained along with such books and records).
+
+^^This Agreement shall be binding upon and inure to the benefit of the Parties hereto and their respective successors and permitted assigns.
+
+^^Except as otherwise provided herein, neither Party shall have any right, express or implied, to use in any manner the name or other designation or intellectual property of the other Party or its Affiliates or any other trade name or trademark of the other Party or its Affiliates for any purpose in connection with the performance of this Agreement or otherwise.
+
+^^This Agreement may be executed in several counterparts, each of which is an original notwithstanding variations in formal or file designation which may result from the electronic transmission, storage and printing of copies of this Agreement from separate computers or printers.
+
+\centered *-*-*-*
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement by their duly authorized representatives as of the dates set forth below:
+
+FOR:   [[Organization 2 Name]], INC.:
+
+Signature:   /s/ [[Person 3 First Name]] [[Person 3 Last Name]]         Date:   7/30/08
+[[Person 3 First Name]] [[Person 3 Last Name]] President and COO
+
+FOR:   [[Organization 1 Name]]:
+
+Signature:   /s/ [[Person 4 First Name]] [[Person 4 Last Name]]         Date:   7/30/08
+[[Person 4 First Name]] [[Person 4 Last Name]] Vice President and Secretary

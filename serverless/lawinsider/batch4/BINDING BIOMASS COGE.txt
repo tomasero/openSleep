@@ -1,0 +1,588 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **CONSTRUCTION TERM SHEET** 
+
+This Term Sheet sets out general terms and conditions to be included in an engineering, procurement and construction contract (the **“EPC Contract”**) in respect of the nominal 60 MW biomass cogeneration utility plant (the **“Utility Plant”**) to be constructed at the site of NPPH’s pulp and paper mill in Port Hawkesbury (the **“Site”**). 
+
+The parties are also party or will be party to an agreement with respect to the operation, management and maintenance of the Project, including the supply of biomass, certain shared services and the use by NPPH of steam from the Project for an overall net price in $ per MWh (the “**MO&M Agreement**”) and an asset purchase agreement in respect of the purchase of certain mill assets by NSPI from NPPH for use in the Project (the “**APA**”). 
+
+**Owner**:      [[Organization 2 Name]] (**“NSPI”**)
+
+**Contractor**:      [[Organization 3 Name]] (**“NPPH”**)
+
+^**Project Description/Technology Description**
+
+NSPI wishes to engage NPPH to complete the design and engineering of the Utility Plant and to procure, construct, start-up, commission, test and guarantee the Utility Plant at the Site (the **“Project”**). 
+
+^**NPPH’s Scope of Work  General**
+
+NPPH will provide turn-key design, engineering, licensing, equipment and materials procurement and quality assurance, construction (including all qualified and skilled labour, tools, hoisting equipment and cranes, staging, consumables and commodities), project management, project cost control, supervision, documentation (including configuration management), commissioning, start-up and performance testing, (including tools, special equipment and consumables), training, progress reporting in a format conforming generally to the format attached as Schedule “A” and frequency as may be reasonably requested by NSPI from time to time, commercially reasonable support of NSPI’s work order application to the Nova Scotia Utility and Review Board (**“UARB”**) and other services necessary or appropriate to bring about commercial operation of the Project in accordance with the project schedule (collectively referred to as the **“Work”**). Schedule “B” sets out the agreed overview of the Project (the **“Project Summary”**). The Parties will work together to develop the specifications for the Project within the Project Summary and will produce definition requirements for the Project which will be attached to the EPC Contract (the “**Owner’s Requirements**”). 
+
+^**Major Scope Items**
+
+^^**Project Management**  NPPH will be responsible for overall project management and will appoint a duly qualified Project Manager with the authority to manage the Work. The Project Manager will plan and manage the activities
+
+that make up the Work and be the primary point of contact for NSPI. The Project Manager’s responsibilities include, among other things, managing, monitoring and reporting Project progress for engineering, design, procurement, construction, commissioning, start-up and initial operations against the project schedule, project cost and project financial progress. NPPH will also implement a rigorous safety management plan, environmental management plan, quality assurance and quality control plan, and project management and overall project administration functions. NPPH will establish a complete and comprehensive management organization including, where appropriate, personnel from [[Organization 4 Name]] NPPH’s organization chart for the Project is attached as Schedule “C”, including third party personnel and their roles. The filling of critical management positions identified as such in Schedule “C” shall be subject to NSPI’s review and approval, such approval not to be unreasonably withheld or delayed. NPPH will maintain key personnel (including project management and lead disciplines), at all times in the positions and dedicated to the performance of their duties. Any replacement of key personnel will be subject to the prior written consent of NSPI, which will not be unreasonably withheld or delayed.
+
+^^**Engineering**  NPPH will be fully responsible for all detailed design, engineering and systems interface coordination services necessary for the completion of the Work including specification of equipment, materials and systems to be incorporated into the Utility Plant. Engineering and design will meet all regulatory requirements, be in accordance with industry codes and standards identified in Schedule “D” and otherwise be consistent with good utility practices. “**Good utility practices**” means:
+
+^^^in respect of practices, methods and procedures, those practices, methods and procedures that (1) are generally accepted and followed by prudent, diligent, skilled and experienced designers and engineers of power and utility projects acting in accordance with standards generally adopted by designers and engineers of power and utility projects in North America who reasonably account for local conditions, including local infrastructure support, with respect to equipment having similar characteristics to the Utility Plant, and (2) would be expected by such prudent, diligent, skilled and experienced designers and engineers, at the particular time in question and in the exercise of reasonable judgment in light of facts or circumstances then known or that reasonably should have been known, to accomplish the desired results and goals, including such goals as efficiency, reliability, economy, and profitability, in a manner consistent with applicable law, safety and environmental protection; and
+
+^^^in respect of the design and engineering of the Work other than practices, methods and procedures, the design and engineering of NSPI’s plant known as Tuft’s Cove 6 will be the standard for Good Utility Practice.
+
+NSPI will give the NPPH Project team access to the Tuft’s Cove 6 site and relevant Tuft’s Cove 6 design and engineering documentation, subject to the terms of the confidentiality agreement between the parties. NSPI will on or before the date of execution of this Term Sheet authorize AMEC to provide all design and engineering documentation and information relevant to Tuft’s Cove 6 to NPPH’s Project team. 
+
+^^**Documentation -** “**Documentation**” means:
+
+- Electrical Single Line Diagrams 
+
+- Project Schedule & all revisions 
+
+- Site Layouts 
+
+- General Arrangements 
+
+- Process & Instrumentation Diagrams 
+
+- Instrument Loop Diagrams 
+
+- Powerhouse Floor Plans & Elevations 
+
+- Cooling Water Pump House Floor Plans & Elevations 
+
+- Plant Heat Balances & Mass Balances 
+
+- Protection & Control Diagrams 
+
+- Fire Protection Drawings 
+
+- Environmental Approval Drawings 
+
+- Commissioning Plan & Procedures 
+
+- Plant Operation & Maintenance Manuals 
+
+- Quality Assurance Manual, Records & Reports 
+
+- Safety Plan 
+
+- Environmental Management Plan 
+
+- Equipment Lists 
+
+- Instrumentation Lists 
+
+- Piping Bills of Materials 
+
+- Valve Lists 
+
+- Electrical Load Lists 
+
+- Piping Line Lists 
+
+- As Built Drawings 
+
+- Prepared Equipment & Contractor Specifications 
+
+Except as otherwise agreed, all Documentation shall be provided in its native electronic format. NPPH will provide NSPI with six (6) paper copies of drawings (D size with the exception that General Arrangements, plans and elevations will be provided in E size) plus an electronic file for each drawing compatible with AutoCAD (.dwg or .dgn) file formats. NPPH will make commercially reasonable efforts to obtain electronic files compatible with Auto CAD for drawings obtained from equipment vendors. 
+
+Six (6) paper copies plus electronic copy of the final approved O&M Manuals. 
+
+All Documentation will adhere to necessary quality assurance and quality control requirements. 
+
+NSPI will have the right to review and approve certain Documentation as set out in the EPC Contract, such approval not to be unreasonably withheld or delayed. 
+
+^^**Licensing**  NPPH will be responsible for all interfaces with Canadian regulatory authorities (other than the UARB) and implement all design changes for the Work required by such regulatory authorities. Any impacts due to the implementation of regulatory mandated design changes shall be governed by paragraph 14(g).
+
+^^**Procurement**  NPPH will be responsible for all procurement and the performance of all vendors. NPPH and NSPI will agree on a list of approved vendors for major equipment and materials. All equipment and materials will be new, of high quality and of proven design. NSPI will receive reasonable prior notice so that its representatives may attend any and all vendor coordination meetings, inspections and factory tests in support of the Work. Certification of equipment that is required to be certified by law will be the responsibility of NPPH. NPPH will procure all necessary transport of equipment and materials to the Project site including all special framing, permitting, customs clearance, import and export duties, and special Site infrastructure as required.
+
+^^**Quality Assurance**  NPPH shall develop and implement a quality assurance programme (“**QA Programme**”) before ordering any equipment in connection with the Work and will maintain the QA Programme for the duration of the EPC Contract. The QA Programme shall be submitted for NSPI’s review and approval, which approval will not be unreasonably withheld or delayed. Prior to placing equipment orders, NPPH shall advise NSPI of any proposed deviations from the QA Programme. A quality assurance manual for any critical or major equipment shall be submitted by NPPH to NSPI for NSPI’s review and approval, which approval shall not be unreasonably withheld or delayed.
+
+^^**Construction**  NPPH will be responsible for the performance of all construction services and activities required for the timely scheduled completion of the Project including, furnishing management, qualified and skilled labour, equipment, tools, consumables, spare parts, temporary facilities and utilities necessary for such construction. NPPH will handle, warehouse and control all materials, supplies, and equipment required for such construction. NPPH will keep its work areas at the Site in a neat, clean, and safe condition. NPPH will ensure that all equipment for the Project is stored, protected, and maintained in accordance with accepted utility practices and vendor requirements. NPPH will implement effective quality control and health, safety and environment programs at the Project site and submit them to NSPI for approval, which approval will not be unreasonably withheld or delayed.
+
+^^**Compliance with Laws**  NPPH will execute the Work, and conduct its operations and activities, in compliance with all applicable laws and regulations, government approvals, licenses and permits and in compliance with quality assurance and quality control and health, safety and environment programs. NPPH will be responsible for preparation for NSPI’s review and approval of all reports required for submission pursuant to applicable laws and regulations, government approvals, grants, licenses and permits, such review and approval not to be unreasonably delayed or withheld.
+
+^^**Start-up, Commissioning and Testing**  NPPH will perform, or cause to be performed, the start up of components, calibration of instruments, functional verification tests, and start up of the Utility Plant. NPPH will fully commission the Utility Plant and perform all testing of the Utility Plant required by the EPC Contract, including tests necessary to demonstrate each component’s compliance with the Performance Guarantees. NPPH’s testing obligations will include providing all required qualified labour, equipment, supplies and instrumentation. NPPH will prepare a comprehensive commissioning and testing plan and submit it to NSPI for approval, which approval will not be unreasonably withheld or delayed.
+
+^^**Training and Supervision of Operating and Maintenance Personnel**  NPPH will provide adequate training to management, operating and maintenance personnel assigned to the ongoing operation of the Utility Plant. NPPH shall advise NSPI of scheduled training and provide 2 seats in each training session for NSPI personnel.
+
+^^**Reports**  NPPH will submit to NSPI monthly reports (by the 7th business day of each succeeding month) describing the status and progress of the Work including engineering, procurement, construction, start-up and commissioning as measured against the global project schedule at the conclusion of the previous month.
+
+^^**Capital Spares**  The Contract Price includes a $[[USD Value 14: Number]] Million allowance for capital spares. Capital spares purchases shall be subject to NSPI’s approval, not to be unreasonably withheld or delayed.
+
+^^**Steam Benchmark**  The EPC Contract will define a steam benchmark setting out NPPH’s existing steam requirements for pressure, temperature and mass flow with a suitable tolerance on pressure variation. NPPH will design and build the Utility Plant to meet the steam benchmark.
+
+^^**Metering Equipment**  The Contract Price includes all metering equipment required by NSPI. All additional metering will be to NPPH’s account.
+
+^^**Existing Work**  The Contract Price includes all work necessary to satisfy the recommendations resulting from the short circuit and protection coordination study obtained by NPPH.
+
+^**Contract Price/Taxes/Milestone Payment Schedule/Cash Flow Cap**
+
+^^NSPI will pay NPPH the all-inclusive, fixed price of CAD $92.9 million for the successful completion of all Work (the **“Contract Price”**) and in no event will NSPI pay more than the Contract Price, other than where a change order has been agreed by the Parties. The process for force account work will be agreed by the parties in the EPC Contract.
+
+^^NSPI will retain and withhold 10 percent of all payments to NPPH in accordance with the requirements of the *Builders’ Lien Act* of Nova Scotia (the “**Builder’s Lien Holdback**”).
+
+^^The Contract Price will be paid to NPPH as follows:
+
+^^^NSPI will reimburse NPPH for all documented Project costs and a pro-rated portion of NPPH’s fee (to be defined in the EPC Contract), less a [[Percentage 1: Number]]% holdback (the “**Security Holdback**”) and less the Builder’s Lien Holdback, 35 days after receipt of the relevant invoice from NPPH, provided that:
+
+^the total of such invoices will not exceed [[Percentage 2: Number]]% of the Contract Price over the life of the Project;
+
+^the total of such invoices will not exceed [[Percentage 3: Number]]% of the Contract Price prior to [[Date 1: Date]] unless Commercial Operation has occurred before [[Date 1]]; and
+
+^the amount and timing of such invoices will be substantially in accordance with the cost expenditure curve set out in the EPC Contract (allowing for a percentage variance from the curve in any one month as agreed in the EPC Contract);
+
+^^^The Builder’s Lien Holdback will be paid to NPPH in accordance with the Builder’s Lien Act provided that:
+
+^no payment of the Builder’s Lien Holdback will be paid until NSPI receives delivery of statutory declarations from NPPH in form and substance satisfactory to NSPI confirming that all subcontractors have been paid, provided that a partial release may be made in accordance with the EPC Contract; and
+
+^after substantial completion in accordance with the Builder’s Lien Act, NSPI will not reimburse the remaining [[Percentage 4: Number]]% of the Contract Price in accordance with the Builder’s Lien Act but will convert that [[Percentage 4]]% of the Contract Price into a holdback for NSPI’s own security (“**[[Organization 5 Name]]**”).
+
+^^^NSPI will pay NPPH the Security Holdback within 10 days following NSPI’s acceptance of the test results regarding Commercial Operation following the Commercial Operation Date.
+
+^^^NSPI will pay NPPH the [[Organization 5 Name]] and the remainder of the Contract Price within 10 days following the Total Completion Date (as that term is defined below), less any liquidated damages that may have accrued to the Total Completion Date.
+
+^^Provided NSPI issues a full notice to proceed by [[Date 2: Date]], the Contract Price includes all costs of performing the Work including, but not limited to, all NPPH’s internal and third party costs, NPPH’s EPC fee, spare parts, fees, profits and overhead, all taxes including all sales and use taxes (but excluding HST on the Contract Price), NPPH’s employee related taxes and benefits, NPPH’s corporate income taxes, all duties, levies and imposts on all equipment and services, and all inflation, escalation contingencies and other costs of whatever nature required to perform the Work. If NSPI issues a full notice to proceed after [[Date 2]] the Contract Price will escalate by [[Percentage 5: Number]]% per month.
+
+^^The Contract Price includes an allowance of $ Million for boiler stiffening. If boiler stiffening is not required or the cost of boiler stiffening is less than $ Million, the Contract Price will be reduced by the relevant amount.
+
+^**Performance Guarantees/Project Completion/Performance Guarantee Liquidated Damages/Schedule Requirements/Commercial Operation/Delay Liquidated Damages/ Cap on Delay Liquidated Damages**
+
+^^NSPI shall provide a full notice to proceed within five (5) business days of all conditions precedent in the EPC Contract, including those set out in paragraph 26 below, being met or waived.
+
+^^The EPC Contract will contain discrete major Project milestones, including the following major milestones:
+
+^^^“**Initial Operation Date**” means the date on which the Operator demonstrates that the Utility Plant has sustained [[Percentage 6: Number]]% of the MCR and full emissions compliance for a period of 120 consecutive hours;
+
+^^^**“Commercial Operation Date”** means the date on which Commercial Operation actually occurs. “**Commercial Operation**” means that the Utility Plant sustains [[Percentage 7: Number]]% of the MCR with full emissions compliance for a period of 120 consecutive hours. **“Required Commercial Operation Date”** means 27 calendar months from the date of NPPH’s receipt of NSPI’s notice to proceed;
+
+^^^“**Total Completion Date**” means the date on which Total Completion actually occurs. “**Total Completion**” means that the Utility Plant adheres to all performance criteria and all performance tests as specified in the EPC Contract are complete including, without limitation, complete installation of all materials and equipment in accordance with the EPC Contract requirements, completion of all required tests as specified in the EPC Contract and attainment of the Performance Guarantees, all licenses and permits required to operate the Utility Plant and other customary conditions to completion as specified in the EPC Contract including that there is no outstanding NPPH event of default. The “**Required Total Completion Date”** will be thirteen months after the Required Commercial Operation Date. The **“Performance Guarantees”** will be:
+
+^MCR test (“**MCR**” means maximum continuous power rating as provided by the selected manufacturer of the turbine generator);
+
+^Net unit heat rate test based on the selected turbine generator and modified steam boiler; and
+
+^Emissions compliance,
+
+each as defined in the EPC Contract. 
+
+^^The EPC Contract will provide that if the Initial Operation Date is not [[Date 1]] or earlier for whatever reason or cause, then the Contract Price will be reduced by $[[USD Value 1: Number]] (the “**Late Completion Charge**”).
+
+^^The EPC Contract will contain delay liquidated damages for NPPH’s failure to achieve Commercial Operation within 30 days following the Required Commercial Operation Date (the “**Delay LD Start Date**”), in the following amounts:
+
+^^^$[[USD Value 2: Number]] for each day of delay in Commercial Operation after the Delay LD Start Date until 30 days after the Delay LD Start Date;
+
+^^^$[[USD Value 3: Number]] for each day of delay in Commercial Operation starting 31 days after the Delay LD Start Date until 60 days after the Delay LD Start Date; and
+
+^^^$[[USD Value 4: Number]] for each day of delay in Commercial Operation starting 61 days after the Delay LD Start Date until the day that Commercial Operation is achieved.
+
+There will be an aggregate cap of 10 % of the Contract Price for the aggregate of delay liquidated damages and the Late Completion Charge, provided NPPH will have the obligation to complete the Project even if the liquidated damages for delay are exhausted. NSPI’s damages for NPPH’s failure to comply with this obligation are limited by paragraph 19. 
+
+^^The EPC Contract will contain performance liquidated damages for failure to attain Total Completion by the Required Total Completion Date. There will be an aggregate cap of 10 % of the Contract Price for performance liquidated damages, provided that NPPH will have the obligation to complete the Project even if the liquidated damages for performance are exhausted. NSPI’s damages for NPPH’s failure to comply with this obligation are limited by paragraph 19 below
+
+^^If there is a delay in completion of, or an inability to complete, the interconnection of the project to the NSPI grid caused solely by NSPI, NPPH shall be entitled to a day for day extension with respect to its obligations hereunder which cannot be completed without grid connection.
+
+^**Environmental Requirements**
+
+NPPH shall carry out the Work in conformance with all applicable laws, including all laws in respect of the environment. In addition, NPPH will ensure that the Work is carried out in full compliance with any environmental permits and any environmental protection plan applicable to the Project. 
+
+^**Warranties**
+
+^^**General**  The warranty period for design, workmanship, standard materials, services and equipment will extend until 12 months following the Commercial Operation Date.
+
+^^**Special Warranty Period**  There will be longer warranty periods for specified long life equipment identified in the EPC Contract, provided such longer warranty periods can be obtained from the equipment vendors.
+
+^^**Warranty for Repaired or Replaced Components**  Defective work repaired, replaced or otherwise corrected by NPPH will be warranted for a period equal to a single additional 12 months or the remaining warranty period for special warranty period items, whichever is longer.
+
+^^**Warranty Services**  NPPH, at its cost, will perform all work and supply all labour, equipment and materials necessary to repair and replace any defective work, equipment or materials including the disassembly and reassembly of any equipment necessary to access defectives. Warranty work will be conducted in a manner so as to minimize, on a commercially reasonable basis, any adverse impact on the operation of the Utility Plant. Should NPPH fail to remedy a defect, or commence a remedy on a defect during the applicable warranty period in accordance with the EPC Contract, within 14 days of NSPI providing a notice to NPPH to remedy the same, NSPI may proceed with any activities necessary to remedy the defect and NPPH shall be liable to and shall indemnify the NSPI Indemnified Parties (as that term is defined below) for any and all reasonable costs and expenses incurred by NSPI in doing so and NSPI may retain and deduct such amount from payments or other monies due, or which may become due, to NPPH*,* howsoever arising.
+
+^^**Root Cause Analysis**  If any of the equipment and materials supplied by NPPH or its subcontractors experience failures during the applicable warranty period, NPPH will at its own cost, investigate the root cause of such failures and will provide a report to NSPI containing the root cause analysis. NPPH will make such repairs, replacements or adjustments satisfactory to NSPI necessary to correct the root cause of the failures.
+
+^^**Warranty Inspection ** NPPH shall grant NSPI access to the Work and plan a coinciding scheduled outage of the Utility Plant, in the period that is nine to twelve months following the Commercial Operation Date, for the purposes of carrying out warranty inspections in accordance with the terms of the EPC Contract.
+
+^**Access to Site/Site Security**
+
+^^NPPH will provide all necessary security at the Site until Commercial Operation.
+
+^^NPPH will not limit NSPI access to the Site at any time.
+
+^^NPPH will provide suitable office and work space on the construction site throughout the term of the EPC Contract.
+
+^**Default**
+
+^^NPPH will be in default of its obligations pursuant to the EPC Contract upon the occurrence of the following events of default (“**NPPH Event of Default**”):
+
+^^^NPPH or its parent makes a general assignment for the benefit of its creditors, becomes insolvent, admits in writing its inability to pay its debts, is generally unable to pay its debts as they become due, or becomes the subject of any voluntary or involuntary bankruptcy, insolvency, receivership, arrangement, stay, moratorium, reorganization or other debtor relief proceeding now, in existence or hereafter becoming effective, and, in the case of any such involuntary proceeding, that is not dismissed or stayed within thirty (30) days after it is commenced;
+
+^^^NPPH fails to comply with an arbitral decision;
+
+^^^NPPH has made a material misrepresentation in the EPC Contract, unless the fact, circumstance or condition that is the subject of such representation is made true within 30 days after notice thereof and the negative effects of the material misrepresentation are mitigated within such 30 day period;
+
+^^^NPPH or its parent ceases to carry on all or substantially all of its business (but not a temporary shutdown);
+
+^^^NPPH assigns or transfers the EPC Contract or any right or interest therein without the written consent of NSPI;
+
+^^^NPPH fails to maintain any insurance coverage required of it;
+
+^^^NPPH fails to perform or observe any material provision of the EPC Contract and such failure continues for 30 days after NPPH receives a Notice from NSPI with respect thereto. Provided, however that if such breach is not capable of cure within such 30 day period, but is capable of cure within a reasonable time (having regard to the nature of the breach), and:
+
+^NPPH provides a reasonable schedule for the cure of such breach that is acceptable to NSPI (which acceptance shall not be unreasonably withheld or delayed); and
+
+^NPPH commences and diligently proceeds to cure such breach in accordance with the agreed schedule for cure,
+
+such breach shall not constitute an NPPH Event of Default unless the breach remains uncured when the time to cure such breach as set out in the agreed schedule for cure has lapsed; 
+
+^^^NPPH suspends or abandons the Work;
+
+^^^the cap on liquidated damages for delay is reached; or
+
+^^the parent guarantee ceases to be in full force and effect.
+
+^^In the event of a NPPH Event of Default, NSPI will have the following rights and remedies, in addition to any other rights and remedies that may be available to NSPI under the EPC Contract and applicable laws, and NPPH will have the following obligations:
+
+^^^NSPI, without prejudice to any of its other rights or remedies, may terminate the EPC Contract. If NSPI terminates the EPC Contract as a result of an NPPH Event of Default, it shall nevertheless, if requested by NPPH, provide steam, condensate, compressed air and related goods and services (the “Mill Services”) to NPPH for a price to be determined as follows:
+
+^If NSPI does not complete the construction of the Utility Plant or if it completes the construction of the Utility Plant at a cost greater than an amount equal to the Contract Price, net of any damages paid by NPPH to NSPI under the EPC Contract, the price shall be agreed by the Parties, shall be based on the cost of fuel consumed and the proportionate costs of capital and operation and maintenance referable to the production of the Mill Services, and shall be invoiced monthly by NSPI to NPPH. Failing agreement on the price either Party may refer the matter to arbitration pursuant to paragraph 12(b);
+
+^If NSPI completes the construction of the Utility Plant at a cost, net of any damages paid by NPPH to NSPI under the EPC Contract, which does not exceed an amount equal to the Contract Price, the price shall be that provided for in the MO & M Agreement or the Steam, Fuel and Shared Services Agreement pursuant to the MO & M Agreement whichever applies;
+
+^If the situation contemplated in 2. occurs then there will be a true up with respect to any amount previously invoiced and paid under 1. above.
+
+^^^If requested by NSPI, NPPH will: (i) withdraw from the Project Site; (ii) assign to NSPI (without recourse to NPPH) such of NPPH’s subcontracts, purchase orders and permits as NSPI may request; (iii) deliver and make available to NSPI all information, documents, patents, and licences of NPPH related to the Work reasonably necessary to permit NSPI to complete or cause the completion of the Work; (iv) authorize NSPI and its agents to use such information in completing the Work; and (v) remove such materials, equipment, tools, and instruments used by and any debris or waste materials generated by NPPH in the performance of the Work as NSPI may direct;
+
+^^^NSPI may take possession of any or all drawings and specifications, manuals, and Site facilities, tools, spares and equipment of NPPH related to the Work necessary for completion of the Work (whether or not such drawings and specifications, manuals, and Site facilities are complete);
+
+^^^NSPI, without incurring any liability to NPPH, will have the right (either with or without the use of NPPH’s equipment) to finish the Work, or have the Work finished, and NSPI will have the right to take possession of and use all construction equipment of NPPH necessary for completion of the Work, and NPPH will have no right to remove such items from the Site until such completion;
+
+^^^NSPI may seek equitable relief to cause NPPH to take action or to refrain from taking action pursuant to the EPC Contract, or to make restitution of amounts improperly received under the EPC Contract;
+
+^^^NSPI may, but is not obligated to, make such payments or perform such obligations as are required to cure an NPPH Event of Default and offset the cost of such payment or performance against payments otherwise due to NPPH under the EPC Contract; and may seek damages, including proceeding against any bond, guarantee, letter of credit, or other security given by or for the benefit of NPPH for its performance under the EPC Contract.
+
+^^NPPH will be liable to NSPI for any and all actual damages to NSPI as a result of a NPPH Event of Default. To the extent that the actual costs of completing the Work, including compensation for obtaining a replacement contractor or for obtaining additional professional services required as a consequence of an NPPH Event of Default, exceed those costs that would have been payable to NPPH but for any NPPH Event of Default, NPPH will be obligated to pay the difference to NSPI. NSPI’s damages under this subparagraph (c) are limited by paragraph 19 below.
+
+^^NSPI will be entitled to withhold further payments to NPPH for the Work performed prior to termination of the EPC Contract until NSPI determines the liability of NPPH, if any. Upon determination of the total cost of the Work, NSPI will notify NPPH in writing of the amount, if any, that NPPH will pay NSPI or NSPI will pay NPPH.
+
+^^The occurrence of any one or more of the following events shall constitute an event of default by NSPI hereunder (each, a **“NSPI Event of Default”**):
+
+^^^NSPI makes a general assignment for the benefit of its creditors, becomes insolvent, admits in writing its inability to pay its debts, is generally unable to pay its debts as they become due, or becomes the subject of any voluntary or involuntary bankruptcy, insolvency, receivership, arrangement, stay, moratorium, reorganization or other debtor relief proceeding now, in existence or hereafter becoming effective, and, in the case of any such involuntary proceeding, that is not dismissed or stayed within thirty (30) days after it is commenced;
+
+^^^NSPI has made a material misrepresentation in the EPC Contract, unless the fact, circumstance or condition that is the subject of such representation is made true within 30 days after notice thereof and the negative effects of the material misrepresentation are mitigated within such 30 day period;
+
+^^^NSPI’s failure to pay to NPPH any required payment which is not in dispute which failure or breach continues for thirty (30) days after receipt of written notice from NPPH that the account is overdue; or
+
+^^^NSPI fails to comply with an arbitral decision.
+
+^^In the event of a NSPI Event of Default, in addition to any other rights and remedies that may be available to NPPH under the EPC Contract and applicable laws, NPPH, without prejudice to any of its other rights or remedies, may terminate the EPC Contract and the MO&M Agreement and commence the Steam, Fuel and Shared Services Agreement pursuant to the MO&M Agreement.
+
+^**Intellectual Property**
+
+^^**Indemnity**  NPPH will indemnify, defend, and hold NSPI harmless from losses, claims or payments for infringement or alleged infringement of any intellectual property or other proprietary right based upon the Work including design and engineering, or the materials and equipment designed or incorporated into the Work by NPPH or any of its subcontractors or vendors.
+
+^^**Substitution of Infringing Items**  NPPH, at its sole cost, will substitute non-infringing equipment or processes for infringing equipment or processes, modify such infringing equipment or processes so they become non-infringing, or obtain the necessary licenses for NSPI to use the infringing equipment or processes. Any substituted and modified equipment or processes must meet all the requirements and are subject to all of the provisions of the EPC Contract. The option proposed by NPPH will be subject to the approval of NSPI, taking into account cost and lost time impacts on NSPI of the proposed remedy versus the alternative remedy.
+
+^^**License**  NPPH will grant, and will make commercially reasonable efforts to cause its subcontractors and vendors to grant, to NSPI at no additional cost other than what is included in the Contract Price, a perpetual, irrevocable, non-exclusive, transferable and assignable, royalty free, paid up license to use Intellectual Property (as defined below) included in the Work delivered under the EPC Contract for use in the construction, operation and maintenance of NSPI’s Utility Plant. **“Intellectual Property”** will mean all intellectual property and proprietary rights including without limitation all rights of inventorship and authorship, inventions, patents, patent applications, and know-how for any product, process, method, machine, manufacture, design, composition of matter, or any new or useful improvement thereof, as well as copyrights, trademark, trade dress and service mark rights and all rights in trade secrets. The license granted to NSPI above will not apply to third party software sourced from an arm’s length third party (“**Third Party Software**”) and NSPI agrees that the standard license terms for Third Party Software will apply to the relevant Third Party Software. NPPH will make commercially reasonable efforts in respect of any Third Party Software that: (a) a license is granted in the name of NSPI; (b) support for the Third Party Software is commercially available in the Canadian market but NPPH has no liability if such support becomes unavailable after the date of the purchase of the Third Party Software; and (c) open source Third Party Software is considered to the extent reasonably and commercially practicable (having regard to the relevant equipment to which the Third Party Software relates).
+
+^^**Other Use of Intellectual Property or Confidential Information**  Except as provided above, or otherwise expressly permitted by the EPC Contract, neither party will disclose or have the right or license to use the Intellectual Property or confidential information of the other party or its subcontractors, vendors or affiliates, without the prior written consent of the disclosing party or such subcontractor, vendor or affiliate, as applicable.
+
+^**Applicable Permits**
+
+NPPH will obtain and maintain in good standing all permits necessary for the performance of the Work other than those applicable permits specifically designated and described in the EPC Contract as applicable permits for which NSPI will be responsible. Each party will provide the other party with reasonable assistance in obtaining and maintaining all applicable permits. 
+
+^**Dispute Resolution**
+
+^^**Step Negotiation -** In the event of a dispute regarding the Project or the EPC Contract, the parties will attempt to resolve the dispute amicably and promptly by appointing a senior executive of each party to attempt to mutually agree upon a resolution. Either party may give the other party written notice of any dispute or claim. Within ten (10) days after delivery of said notice, the executives will meet at a mutually acceptable time and place and thereafter as often as they reasonably deem necessary to exchange information and attempt to resolve the dispute or claim within thirty (30) days. If the two senior executives cannot reach a resolution, the dispute may be set for arbitration as described herein.
+
+^^**Arbitration -** In the event of a dispute arising between the parties as to the subject matter of the EPC Contract that cannot be resolved between them, the parties agree to submit the dispute to binding arbitration, pursuant to the terms of the *Commercial Arbitration Act* (Nova Scotia). In particular, the parties agree to utilize the arbitration procedure set out in Schedule “A” to the *Commercial Arbitration Act* (Nova Scotia) in the conduct of the arbitration. The party wishing to have any dispute submitted to arbitration (the **“Claimant”**) will give notice to the other party (the **“Respondent”**) specifying the particulars of any issue in dispute and proposing the name of the individual it wishes to be the single arbitrator. Within fifteen (15) days thereafter, the Respondent will give notice to the Claimant advising whether the Respondent accepts the arbitrator proposed by the Claimant. If notice is not given within the fifteen (15) day period, the Respondent will be deemed to have accepted the arbitrator proposed by the Claimant. In the event that the parties can not agree on a single arbitrator within the fifteen (15) day period, the arbitrator will be selected in accordance with the *Commercial Arbitration Act* (Nova Scotia). No such arbitrator will have previously been employed by either party and will not have a direct or indirect interest in either party or the subject matter of the arbitration. The cost of the arbitration (excluding a party’s legal fees and disbursements) will, unless otherwise ordered by the arbitrator or the panel, be borne equally by the parties. The decision of the arbitrator will be final and binding and the beneficiary of any award of the arbitrator may bring proceedings in any jurisdiction to enforce the award or any judgment enforcing the award. The bringing of such proceedings in one or more jurisdictions will not preclude the bringing of enforcement proceedings in any other jurisdiction. In connection with any such proceeding, each party waives any right to de novo review of the award against that party. All matters relating to any arbitration held pursuant to this paragraph, including the existence of the dispute and its referral to arbitration, shall be held in confidence by both parties and disclosed only with the consent of both parties or if required by law.
+
+^^**Continued Performance -** All Work and the performance of all other obligations, including undisputed payments, under the EPC Contract will continue during the dispute resolution proceeding.
+
+^**Force Majeure**
+
+^^**Effect of Force Majeure Event -** Each Party shall be excused from performance and shall not be construed to be in default in respect of any obligation hereunder, for so long as and to the extent that failure to perform such obligation is due to a Force Majeure Event; provided, however, a Force Majeure Event shall not excuse either Party from the obligation to make payments for any obligation.
+
+^^**Notice of Force Majeure Event -** If either Party desires to invoke a Force Majeure Event as a cause for delay in its performance of, or failure to perform, any obligation hereunder, it shall, as soon as is practicable but in any event within ten (10) business days after the occurrence of the inability to perform due to a Force Majeure Event, advise the other Party in writing of such date and the nature and expected duration and effect of such Force Majeure Event. Promptly, but in any event within ten (10) days, after a notice is given pursuant to the preceding sentence, the Parties shall meet (or otherwise communicate) to discuss the basis and terms upon which the arrangements set out in the EPC Contract shall be continued, to the extent feasible taking into account the effects of such Force Majeure Event.
+
+^^**Mitigation of Force Majeure Event -** Each Party suffering a Force Majeure Event shall take, or cause to be taken, such commercially reasonable action as may be necessary to void, or nullify, or otherwise to mitigate, in all material respects, the effects of such Force Majeure Event. The Parties shall take all reasonable steps to ensure normal performance under this Agreement, including the resumption of any disrupted obligations.
+
+^^**Definition of “Force Majeure Event”** **-** for the purposes of this paragraph 13, “Force Majeure Event” means any event which wholly or partly prevents or delays the performance of any obligation arising under this Agreement, but only if and to the extent (i) such event is not within the reasonable control of the Party affected, (ii) such event, despite the affected Party’s exercise of reasonable diligence, cannot be or be caused to be prevented, avoided or removed by the affected Party, and (iii) the party affected has taken all commercially reasonable precautions and measures in order to avoid the effect of such event on such Party’s ability to perform its obligations under this Agreement and to mitigate the consequences thereof including any contingency plans agreed between the Parties or which a Party has represented it has in place, and (iv) such event is not the direct result of the affected Party’s negligence or the failure of such Party to perform any of its obligations under this Agreement. Subject to the foregoing, a “Force Majeure Event” may include any of the following:
+
+^^^acts of God or the public enemy, war, whether declared or not, blockade, insurrection, riot, civil disturbance, public disorder, rebellion, violent demonstration, revolution, or sabotage;
+
+^^^any effect of unusual natural elements, including fire, volcanic eruption, landslide, earthquake, flood, tsunami, lightning, hurricane, unusually severe storm, perils of sea, or similar cataclysmic occurrence or other unusual natural calamity;
+
+^^^explosion, accident or epidemic;
+
+^^^accidents of navigation or breakdown or injury of vessels, accidents to harbours, docks, bridges, canals or other assistances to or adjuncts of shipping or navigation, epidemic or quarantine;
+
+^^^strikes, lockouts or other labour disturbances;
+
+^^^nuclear emergency, radioactive contamination or ionizing radiation or the release of any hazardous material;
+
+^^^air crash, shipwreck, train wreck, or any other failures or delays of transportation if the cause of such other failure or delay otherwise would qualify under the EPC Contract as a Force Majeure Event;
+
+but does not include any event to the extent that: 
+
+^^^it is caused by the unavailability of labour (other than unavailability of labour due to such strikes, lockouts or other labour disturbances as are Force Majeure Events) or raw materials, the breakdown of the Utility Plant or other plant breakdown or equipment failure unless and to the extent that such event is itself caused by a Force Majeure Event or which if it occurred in relation to either Party would have been a Force Majeure Event or is caused by a latent defect in the Utility Plant or other plant or equipment;
+
+^^^the event is constituted by any failure of a subcontractor unless and to the extent that the subcontractor was itself affected by an event, which if it occurred in relation to either Party would have been a Force Majeure Event;
+
+^^^it relates to the condition of the Project site including subsurface conditions and contamination at or affecting the Project site;
+
+^^^risks associated with that event have been accepted by the relevant Party by the terms of the EPC Contract; or
+
+^^^it relates to any change in applicable law.
+
+^**Change Orders**
+
+^^A change order may result only from any of the following:
+
+^^^Changes in the Work required by NSPI in writing, including an acceleration of Work, in accordance with the EPC Contract;
+
+^^^Changes in the Work required by an event of Force Majeure; or
+
+^^^The occurrence of an NSPI caused delay as defined by the EPC Contract;
+
+^^NSPI will have the right to make changes in the Work and all such changes will be deemed to be part of the Work. If NPPH will be actually, demonstrably delayed in the performance of a critical path item identified in the schedule due solely to an NSPI caused delay or a Force Majeure Event, then NPPH may request a change order under which the Project schedule (and each milestone date referenced therein) will be extended by the period of time that NPPH is actually and demonstrably delayed in the performance of such critical path item.
+
+^^In the event the change in Work is caused by a Force Majeure Event, the Contract Price will also be changed to reflect NPPH’s non-labour Project cost resulting from such change less any insurance proceeds in respect of that change.
+
+^^In the event the change in Work is caused by an NSPI caused delay, the Contract Price will also be changed to reflect NPPH’s Project cost resulting from such change order work less any savings or costs not incurred as a result.
+
+^^If NSPI agrees to a change order for changes in the Work required by NSPI in writing, including an acceleration of Work, in accordance with the EPC Contract, the Contract Price will be increased by the agreed amount. In the event the parties cannot agree, the Contract Price will be equitably adjusted in accordance with the principles set out in the EPC Contract.
+
+^^If a change in Work involves a reduction in the cost to perform the Work, there will be a lump sum deduction from the Contract Price, which deduction will be based on the amount that NPPH has in its budget for the Work involved, inclusive of direct and indirect costs, overhead, margins, contingencies, fees and profit that have not already been incurred. If necessary and specified on the change order accepted by NSPI, NSPI will adjust the Contract Price and the Project schedule, the progress payment schedule and otherwise as required as a result of the agreed change order.
+
+^^If any change in applicable law demonstrably increases NPPH’s Project cost by $[[USD Value 5: Number]] or less, such cost will be borne by NPPH without an increase in the Contract Price. If the change in applicable law demonstrably increases NPPH’s Project costs by more than $[[USD Value 6: Number]] the Contract Price shall be increased by an amount equal to the difference between NPPH’s demonstrable increased Project costs resulting from a change in the applicable law and $[[USD Value 7: Number]]
+
+^**Notices**
+
+Any Notice pursuant to the EPC Contract will be in writing and (i) delivered personally, (ii) sent by certified mail, return receipt requested, (iii) sent by a recognized overnight mail or courier service, with delivery receipt requested, or (iv) sent by confirmed facsimile transmission with telephonic confirmation, to the addresses designated in the contract. Notices will be effective when received by the other party. Any technical or other communications pertaining to the Work will be with the parties’ designated representative. Each party will notify the other in writing of the name of such representatives. 
+
+^**Choice of Law**
+
+The EPC Contract will be governed exclusively by and construed and enforced in accordance with the laws of the Province of Nova Scotia and the federal laws of Canada applicable therein. 
+
+^**NPPH Indemnity**
+
+^^For the purposes of this paragraph 17, **“NSPI Indemnified Parties”** means NSPI and its respective employees, agents, partners, directors, officers, and assigns.
+
+^^NPPH shall indemnify and hold the NSPI Indemnified Parties harmless from any liability resulting from the failure of NPPH or its subcontractors to make timely payments of the items referred to in this paragraph or such similar items for which NPPH is responsible. Any interest, penalties or other liabilities arising from such failure shall be the sole responsibility of and be paid for by NPPH.
+
+^^NPPH shall indemnify and save harmless the NSPI Indemnified Parties from all workers’ compensation assessments due by NPPH in relation to the Work.
+
+^^NPPH shall at all times reimburse, protect, indemnify and save free and harmless the NSPI Indemnified Parties, the Project site and the other lands and property of the NSPI Indemnified Parties from and against all liens and claims made or liability incurred by the NSPI Indemnified Parties on account of the Work performed or materials supplied by employees of NPPH and subcontractors, or on account of an exaggerated lien filed by NPPH, including, without limitation, legal fees on a solicitor-and-own-client (indemnity) basis, except to the extent that NSPI has failed to pay NPPH in accordance with the EPC Contract. NPPH shall cause any such lien or claim which may be filed or made, to be released and discharged forthwith at the expense of NPPH. If NPPH fails to release or obtain the release and discharge of any such lien or claim, then NSPI may, but shall not be obliged to, discharge, release or otherwise deal with the lien or claim, and
+
+NPPH shall pay any and all costs and expenses incurred by the NSPI Indemnified Parties in so releasing, discharging or otherwise dealing with the claim or lien, including but not limited to, legal fees on a solicitor-and-own-client (indemnity) basis. Any amounts so paid by the NSPI Indemnified Parties may be deducted from any amounts due NPPH whether under the EPC Contract or otherwise.
+
+^^NPPH shall be liable to and shall indemnify, and hold harmless the NSPI Indemnified Parties for all losses, damages and expenses, including legal fees on a solicitor-and-own-client (indemnity) basis, which they or any of them may incur as a result of any third party claims, demands, actions or proceedings for:
+
+^^^any acts or omissions in connection with the performance, purported performance or non-performance of the EPC Contract or of the Work by NPPH or its subcontractors or their respective employees or agents;
+
+^^^any acts or omissions of NSPI, other contractors or their respective employees or agents, or in connection with such acts or omissions, while acting under the direction and control of NPPH, its subcontractors or their respective employees or agents; or
+
+^^^any liability, claims, damages, costs and expenses arising from the failure of NPPH or its subcontractors, or their respective employees or agents to comply with the law.
+
+^^NPPH shall, at its sole expense, if requested by NSPI, defend those persons entitled to be indemnified by NPPH under the EPC Contract. NSPI shall have the right, if it so elects, to participate in any such defence and NPPH shall have the right to settle claims to a maximum of $[[USD Value 8: Number]] without first consulting with NSPI and thereafter only with the consent of NSPI, which consent shall not be unreasonably withheld, delayed or conditioned and paragraph 24 shall not apply to such consent.
+
+^^NPPH shall be liable to and shall indemnify the NSPI Indemnified Parties for all losses, damages and expenses on account of:
+
+^^^all physical damage caused by NPPH or its subcontractors to the Work, the Project site, the property of the NSPI Indemnified Parties or other contractors or property under the care, custody or control of NSPI or other contractors; and
+
+^^^the cost to repair or make good any and all damage to roads, bridges, railroads, highways, land adjacent to the Project site, irrigation canals or facilities, ditches or equipment relating thereto caused by or resulting from the actions howsoever of NPPH or its subcontractors in relation to this Project.
+
+^**NSPI Indemnity**
+
+^^NSPI shall indemnify and save NPPH harmless from all claims and demands, including legal fees on a solicitor-and-own-client (indemnity) basis arising out of any patent, trademark, copyright or industrial design infringement pertaining to any equipment, machinery, materials, compositions, processes, methods or designs supplied or specified for use by NSPI to NPPH for use in connection with the Work.
+
+^^NSPI shall indemnify and hold harmless NPPH, its subcontractors, and their respective officers and directors from and against all third party claims, demands, losses, damages, expenses, actions and proceedings and which arise on account of and are attributable to NSPI’s obligations hereunder and the action of NSPI employees, agents and contractors (excluding NPPH) while on the Project site to the extent such employees, agents and contractors (excluding NPPH) are not working under the direction or control of NPPH, its subcontractors or their respective employees or agents.
+
+^**Limitation of Liability**
+
+^^Except for liquidated damages, claims arising under the indemnities for intellectual property, liens, third party claims and workers’ compensation and except to the extent to which coverage is provided by a policy or policies of insurance, as applicable:
+
+^^^NPPH’s total aggregate liability on any basis whatsoever (including all financial and non-financial obligations) to NSPI shall be limited to $[[USD Value 12: Number]] Million, provided that in the event that NPPH has abandoned the Work then NPPH’s total aggregate liability, including all liquidated damages, shall be limited to [[Percentage 8: Number]]% of the Contract Price plus $[[USD Value 12]] million; and
+
+^^^NPPH, its subcontractors, and their respective officers and directors shall not be liable to NSPI, or anyone claiming through or under it, whether by way of indemnity or by reason of breach of contract or in tort, including liability for negligence and breach of statutory duty, or on any other legal or equitable basis, for:
+
+^special, punitive, indirect, economic or consequential loss or damage;
+
+^loss of use, whether complete or partial, of the Work or existing facilities of NSPI or third parties;
+
+^loss of product;
+
+^loss of revenue, overhead and profit; or
+
+^loss of any contract that may be suffered by NSPI.
+
+^^NSPI’s total aggregate liability on any basis whatsoever (including all financial and non-financial obligations) to NPPH shall be limited to $[[USD Value 12]] Million except for the obligation to pay the Contract Price in accordance with the terms of the EPC Contract.
+
+^**Title and Risk of Loss**
+
+Title to all Work (including work in process) shall pass to NSPI at the earliest possible moment in time and NPPH will use reasonable commercial efforts to include in its subcontracts a provision expressly for the benefit of NSPI providing that title to any personal property forming, or to form, part of the Work, shall pass directly to NSPI, and not to NPPH. Notwithstanding the previous sentence, NPPH shall ensure that NSPI has the right to pay for the steam turbine generator, main transformer and steam condenser and take title directly from the supplier of such items and, if NSPI exercises that right, NSPI shall provide any necessary deposit, down payment, or prepayment required by the equipment vendor. Any such step would be taken for the sole purpose of securing NSPI’s title to key equipment and would in no way derogate from or reduce NPPH’s responsibilities or obligations under the EPC Contract, including with respect to delivery, installation and performance guarantees. The portion of the Contract Price paid to suppliers directly by NSPI will be deemed to have been paid to NPPH for the purposes of the EPC Contract. Until Commercial Operation has been attained NPPH will bear the risk of loss and full responsibility for the costs of replacement, repair or reconstruction resulting from any damage to or destruction of the Utility Plant (or any portion thereof) or any materials, equipment, tools and supplies, which are purchased for permanent installation in or for use during construction of the Utility Plant regardless of whether NSPI has title thereto under the EPC Contract, provided that in the event such loss or damage is a result of the negligence or intentional misconduct of NSPI, its employees, agents and contractors (excluding NPPH), in which event NSPI will be responsible with respect to any losses covered by the Builder’s Risk insurance for up to the permitted deductible applicable thereto. 
+
+^**Site Conditions**
+
+NPPH will be deemed to have conducted a full and complete investigation of the existing Site, including subsurface site conditions, and acknowledges and accepts the existing Site conditions as is. NPPH will agree that neither the Required Commercial Operation Date nor any other Project dates will be extended, the Contract Price will not be modified, and NPPH will not be entitled to request or be granted any change order as a result of any Site conditions, including any presence of hazardous materials, variance of the subsurface Site conditions from the those assumed by NPPH or geotechnical conditions in agreeing to the Contract Price and executing the contract. 
+
+^**Project Security**
+
+^^To secure NPPH’s performance of its obligations under the EPC Contract, NPPH agrees to obtain:
+
+^^^as a closing condition of the APA, an irrevocable draw-down letter of credit (or other form of security acceptable to NSPI, in its sole discretion) substantially in the form attached as Schedule E in the amount of $[[USD Value 12]] Million; and
+
+^^^on the earlier of:
+
+^the date on which the aggregate Contract Price invoiced under the EPC Contract meets or exceeds $[[USD Value 12]] million; and
+
+^[[Date 3: Date]],
+
+^^letter of credit in replacement of the letter of credit in (i) on the same terms as the letter of credit in (i) in the amount of $[[USD Value 13: Number]] million. 
+
+^^On the Commercial Operation Date, NPPH may reduce the letter of credit to $[[USD Value 12]] Million on the same terms as the original letter of credit. Unless the letter of credit is called, it will expire on the date that is the later of: (a) two weeks following the Total Completion Date; and (b) two weeks following the end of the warranty period set out in section 7(a).
+
+^^The EPC Contract will set out the process for renewing and replacing letters of credit before their expiry.
+
+^^Dollar amounts set out above are in Canadian dollars but the letters of credit and replacements thereof may be denominated in Canadian or US dollars. The EPC Contract will include judgement currency language.
+
+^**Documentation**
+
+^^NSPI shall have the right of inspection and review of all Documentation at all reasonable times. No inspection, or failure to inspect, by NSPI shall relieve NPPH of NPPH’s obligations under the EPC Contract.
+
+^^Prior to commencement of the performance tests, NPPH shall prepare, and submit to NSPI, operation and maintenance manuals and process and instrumentation drawings in accordance with the Owner’s Requirements. The Work shall not be considered to be completed for the purposes of the EPC Contract until such operation and maintenance manuals and process and instrumentation drawings have been submitted to NSPI.
+
+^^NPPH shall:
+
+^^^prepare the Documentation*;*
+
+^^^keep the Documentation up to date, including by way of recording the exact locations of each of any differences, sizes and details of the Work from the as-built drawings, with cross-references to relevant specifications and other requirements on the as-built drawings;
+
+^^^keep the Documentation on the Site;
+
+^^^upon completion of the Work, or at such other later time as may be determined by the Owner, submit the Documentation to NSPI in accordance with the Owner’s Requirements.
+
+^^All final Documentation consisting of plans, specifications, reports or documents of a professional nature shall be signed by and stamped or sealed with the stamp or seal of:
+
+^^^the professional member or licensee who prepared them or under whose supervision and control they were prepared; or
+
+^^^the professional member or licensee who thoroughly reviewed and accepted professional responsibility for them.
+
+^**Deemed Approval**
+
+Unless otherwise agreed in the EPC Contract, with respect to any approval or consent right of NSPI hereunder that is qualified by the words “not to be unreasonably withheld or delayed”, such approval or consent will be deemed to have been given if NSPI does not respond to the request for approval or consent within 10 business days of its receipt of the request. 
+
+^**Insurance**
+
+NPPH agrees to provide and/or cause its subcontractors to provide and maintain in full force and effect with financially responsible insurance carriers, the following insurance, which shall take effect within five business days following full notice to proceed and shall remain in effect during the term of the EPC Contract and any extension thereof or as otherwise specified herein. 
+
+^^Automobile Liability Insurance, covering all licensed motor vehicles owned, rented or leased and used in connection with the Work covering Bodily Injury and Property Damage Liability to a combined inclusive minimum limit of $[[USD Value 9: Number]] and mandatory Accident Benefits.
+
+^^Commercial General Liability Insurance on a Wrap-Up basis in an amount not less than $[[USD Value 10: Number]] inclusive for bodily injury, including death, personal injury and damage to property, including loss of use thereof, for each occurrence. Property damage deductible shall not exceed $[[USD Value 8]] per occurrence and bodily injury shall not be subject to a deductible. The Commercial General Liability Insurance on a Wrap-Up basis shall contain a waiver of any subrogation rights that the insurers may have against NSPI or those for whom NSPI is in law responsible.
+
+Coverage shall specifically include as a minimum, but not be limited to the following: 
+
+^^^Include NSPI as Insured as well as all sub-contractors, architects and engineers working at the site of the Project;
+
+^^^Blanket Contractual Liability;
+
+^^^Damage to property of NSPI including loss of use thereof;
+
+^^^Pollution Liability coverage on at least a Sudden and Accidental basis;
+
+^^^Products & Completed Operations including a provision that such coverage to be maintained for a period not less than 12 months following the Total Completion Date;
+
+^^^Blasting, pile driving, caisson work, underground work;
+
+^^^Employer’s Liability;
+
+^^^Non-Owned Automobile Liability; and
+
+^^^Broad Form Property Damage.
+
+^^Equipment Insurance covering equipment and tools, owned, rented or leased for the full replacement cost of such equipment on an “All Risks” basis including marine based risk subject to normal exclusions.
+
+^^“All Risks” Builder’s Risk insurance and/or Installation Floater as applicable, including mechanical and electrical breakdown, testing and commissioning to a limit of the value of the full replacement cost of the Work, any one occurrence, covering physical loss or damage to the Work and expediting expenses, including physical loss or damage resulting from latent defects, faulty workmanship, errors in design and planning if not otherwise excluded by the terms of the policy. Insured property to include materials, operating equipment, and supplies for incorporation therein, including temporary or off-site storage and project lay-down areas, and all temporary structures used in the erection of the Work while in transit to and from the site or in storage, while at the site, before and during erection and until completed and while awaiting tests and during testing and commissioning. The deductible shall not exceed $[[USD Value 11: Number]] The “All Risks” Builder’s Risk insurance and/or Installation Floater as applicable will contain a waiver of any subrogation rights that the insurers may have against NSPI or those for whom NSPI is in law responsible.
+
+The insurance noted above shall be maintained continuously from commencement of the Work until the Commercial Operation Date, or until operational cover is put into effect, whichever is the later. 
+
+^^Errors & Omissions Insurance or similar insurance coverage rolled into section 25(b) in an amount not less than $[[USD Value 9]] aggregate limit covering the period from start of conceptual design through to completion of the Project and NPPH will provide NSPI an annual certificate of insurance evidencing proof of renewal of such coverage during such period and for every year for five years following the Total Completion Date.
+
+^^Such other insurance as is mutually agreed upon between NPPH and NSPI.
+
+^^All the insurance,
+
+^^^will not be subject to invalidation (as regards the interest of NSPI), by reason of any breach or violation of any warranties, representations, declarations or conditions;
+
+^^^will be at NPPH’s expense and will be primary, non-contributing with, and not excess of, any other insurance available to NSPI;
+
+^^^will be placed with insurers authorized to do business in Nova Scotia; and
+
+^^^will provide for 60 days’ prior notice to NSPI by mail (prepaid, registered, and return receipt requested) in the event of cancellation or material change that reduces or restricts the insurance.
+
+^^NPPH:
+
+^^^will maintain the insurance in full force and effect at all times during the term of the EPC Contract;
+
+^^^will notify NSPI promptly upon becoming aware of any fact or circumstance that could lead to the cancellation or lapsing of the Insurance and, to the extent commercially reasonable and obtainable, will require any financing party having a secured interest in any policy of Insurance to notify NSPI of any possible cancellation or lapsing of any of the Insurance; and
+
+^^^acknowledges and agrees that:
+
+   it will provide NSPI with the Insurance policies including renewals thereof, provided that in respect of equipment and errors and omissions insurance certificates of insurance may be provided in lieu of the Insurance policies;
+
+   its covenant to provide the Insurance does not in any way limit or satisfy any other covenant or agreement of NPPH herein including, but not limited to, indemnification provisions;
+
+   NSPI’s approval of the form of, or a certificate of, the insurance will not in any way limit or satisfy NPPH’s covenant to obtain and maintain the insurance;
+
+   if NPPH fails to maintain the insurance as set forth herein, NSPI will have the right, but not the obligation, to purchase said insurance at NPPH’s expense; and
+
+   all deductibles shall be to the account of NPPH, except as otherwise provided herein.
+
+^^^Except as specifically required in section 25, prior to finalizing the EPC Contract, NPPH will determine the extent to which it is able to obtain in respect of all Insurance (other than automobile insurance) a waiver of any subrogation rights that the insurers may have against NSPI or those for whom NSPI is in law responsible. If NPPH is unable to obtain such a waiver in respect of any Insurance (except as specifically required in section 25), the EPC Contract will provide contractual terms (such as an indemnity) to meet the same objectives.
+
+^**Conditions Precedent**
+
+^^The EPC Contract shall not become effective until a capital work order application made by NSPI in respect of the Project is approved by the Nova Scotia Utility and Review Board and such approval must be satisfactory to NSPI in form and substance acting reasonably.
+
+^^NPPH shall have the right to terminate the EPC Contract if the notice to proceed is not issued by NSPI before [[Date 4: Date]], without liability to either party.
+
+^^Neither party will be obliged to enter into an EPC Contract unless the parties have signed and delivered the MO&M Agreement.
+
+^^The EPC Contract shall not become effective until the APA is executed and delivered by both parties and the transaction contemplated by the APA closes in accordance with its terms.
+
+^**Binding Intent**
+
+This Term Sheet is intended to be binding on the parties. The parties agree to negotiate in good faith the full EPC Contract. The rights and obligations of the parties under this Term Sheet shall terminate upon the execution of the full EPC Contract 
+
+^**Assignment**
+
+This Term Sheet is not assignable. 
+
+^**Counterparts**
+
+This Term Sheet may be executed and delivered by the parties in one or more counterparts, each of which when so executed and delivered will be an original, and those counterparts will together constitute one and the same instrument. 
+
+^**Facsimile Signatures**
+
+Delivery of this Term Sheet by facsimile, e-mail or functionally equivalent electronic transmission constitutes valid and effective delivery. 
+
+\centered **[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK]** 
+
+The within Term Sheet is agreed to this [[Date 5: Date]] 
+
+**[[Organization 2 Name]]**
+
+Per:      /s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+Name:      [[Person 1 First Name]] [[Person 1 Last Name]]
+Title:      President and CEO
+
+Per:      /s/ [[Person 2 First Name]] [[Person 2 Last Name]]
+Name:      [[Person 2 First Name]] [[Person 2 Last Name]]
+Title:      VP Technical and Construction Services
+
+**[[Organization 3 Name]]**
+
+Per:      /s/ [[Person 3 First Name]] [[Person 3 Last Name]]
+[[Person 3 First Name]] [[Person 3 Last Name]]
+*Vice President, General Counsel and*
+*Secretary*
+
+^copy of the Schedules will be furnished supplementally to the Commission upon request.

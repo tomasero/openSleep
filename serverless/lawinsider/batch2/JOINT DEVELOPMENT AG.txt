@@ -1,0 +1,545 @@
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+\centered JOINT DEVELOPMENT AGREEMENT
+
+\centered - BETWEEN -
+
+
+
+\centered AND
+
+\centered [[Organization 1 Name]]
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+This JOINT DEVELOPMENT AGREEMENT (“Agreement”) is effective as of the last date of signature hereunder (“Effective Date”) between [[Organization 2 Name]], a New York corporation with a place of business at 2070 Route 52, [[Address 1: Address]] (“IBM”) and [[Organization 1 Name]] (“NEXX”), a Delaware corporation with a place of business at [[Address 2: Address]]-3929. IBM and NEXX may be individually referred to herein as a “Party” or collectively as the “Parties”.
+
+^IBM has expertise in semiconductor and advanced packaging development and manufacturing.
+
+^NEXX has expertise in developing and manufacturing semiconductor process equipment.
+
+^IBM and NEXX desire to jointly develop semiconductor apparatus and processes related to plating technology for advanced packaging and integration solutions in semiconductor processing and manufacturing.
+
+^IBM, the Research Foundation of State University of New York and New York State are considering the establishment of a center for advanced packaging development (“NYS Packaging Center”).
+
+^NEXX and IBM desire to relocate a portion of the joint development activities to the NYS Packaging Center.
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained, IBM and NEXX agree as follows:
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^**DEFINITIONS**
+
+^^**“Advanced Packaging and Integration”** shall mean any and all processing of Integrated Circuits beyond the last layer of metal formed in an Integrated Circuit manufacturing facility.
+
+^^**“Change of Control”** shall mean one transaction or a series of transactions which results in a third party obtaining, directly or indirectly, (i) all or a majority of the assets of, or (ii) Control of, either Party.
+
+^^**“Confidential Information”** shall mean IBM Confidential Information and/or NEXX Confidential Information, depending on the context of its usage.
+
+lA   **“Control”** shall mean the power to direct the affairs of any individual, corporation, partnership, joint venture, trust, business association, governmental entity or other entity by reason of ownership of voting stock, by asset acquisition, by contract or otherwise.
+
+^^**“Foreground Patents”** shall mean patents and published patent applications (including, but not limited to, design, utility, utility model, provisional, continuation, continuation-in-part, divisional, reexamination, reissue or extensions) on Inventions in any country or jurisdiction of any Party or its Subsidiaries.
+
+^^**“Foreground** **Technology”** shall mean that body of technical information which is developed solely or jointly by IBM and/or NEXX under the Program with the exception of Foreground Patents.
+
+^^**“IBM Associate(s)”** shall mean (i) IBM’s semiconductor process, packaging process, semiconductor modeling/design software and/or materials development alliance companies, and (ii) IBM’s semiconductor process and/or materials licensees. Notwithstanding the above, [[Organization 3 Name]] shall not include
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+companies whose primary business is the design, manufacture or sale of semiconductor plating tools.
+
+^^**“[[Organization 4 Name]]”** shall mean the body of IBM technical information, with the exception of patents and published patent applications in any country or jurisdiction, of IBM or its Subsidiaries which is possessed by IBM outside the Program and provided by IBM to NEXX in performance of the Program under the Agreement. For the avoidance of doubt, [[Organization 4 Name]] shall not include information regarding (i) Integrated Circuits, (ii) active and/or passive circuit elements of Integrated Circuits, (iii) designs for Integrated Circuits, (iv) Semiconductor Products, (v) optics and non-CMOS nanotechnology-related components, nor (vi) methods of manufacturing or using (i) - (v).
+
+^^**“IBM Confidential Information”** shall have the meaning given such term in Section 3 herein.
+
+^^**“IBM**-**East Fishkill”** shall have the meaning set forth in Section 2.3.1 hereof.
+
+^^**“IBM IP Rights”**shall mean IBM’s rights in [[Organization 4 Name]], IBM-solely developed [[Organization 5 Name]] and IBM sole Foreground Patents.
+
+^^**“Integrated Circuit”** shall mean (i) an integral unit formed on a semiconductor substrate including a plurality of active and/or passive circuit elements formed at least in part of semiconductor material, (ii) structural components of such integral unit or (iii) structures intermediate in the manufacture of such integral unit.
+
+^^**“Invention(s)”** shall mean invention(s) conceived and/or first actually reduced to practice by a Representative of a Party in the conduct of activity under the Program.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**“IP Rights”** shall mean IBM IP Rights and/or NEXX IP Rights, depending on the context of its usage.
+
+^^**“[[Organization 6 Name]]”** shall mean the body of NEXX technical information, with the exception of patents and published patent applications in any country or jurisdiction of NEXX or its Subsidiaries, which is possessed by NEXX outside the Program and provided by NEXX to IBM in the performance of the Program under the Agreement.
+
+^^**“NEXX Confidential Information”** shall have the meaning given such term in Section 3 herein.
+
+^^**“NEXX IP Rights”** shall mean NEXX’s rights in [[Organization 6 Name]], NEXX-solely developed [[Organization 5 Name]] and NEXX sole Foreground Patents.
+
+^^**“NEXX Licensed Product(s)”** shall mean any and all hardware or software components of semiconductor plating tools that (a) embody or are derived from any [[Organization 4 Name]] or [[Organization 5 Name]], and/or (b) but for the licenses granted under the IBM sole Foreground Patents, would infringe directly, contributorily or by inducement at least one claim of an IBM sole Foreground Patent.
+
+^^**“NYS Packaging Center”** shall have the meaning set forth in the forth recital of the Agreement.
+
+^^**“Packaging Technology”** means any process, procedure, software, or hardware tools used in the packaging of Integrated Circuit products into single-chip packages, multi-chip packages, or any other higher levels of assembly.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**“Program”** shall mean the joint development effort of the Parties described in Section 2.1 below.
+
+^^**“Program Executives”** shall have the meaning described in Section 2.8 hereof.
+
+^^**“Program Manager”** shall have the meaning described in Section 2.5 hereof.
+
+^^**“Representatives”** shall mean the employees or contractors of a Party or a Party’s Subsidiaries participating in activities under this Agreement.
+
+^^**“Selling Price”** shall mean the actual selling price to unaffiliated customers, and the greater of actual selling price or fair market value in sales to affiliated customers.
+
+^^**“Semiconductor Product”** shall mean a component that contains an Integrated Circuit on a single or multichip module that incorporates a means of connecting those Integrated Circuits with other electronic elements (active or passive) and/or means to make external electrical connections to such elements.
+
+^^**“Statement of Work”** shall have the meaning described in Section 2.1
+
+^^**“Subsidiary”** shall mean a corporation, company or other entity: (i) more than fifty percent ([[Percentage 1: Number]]%) of whose outstanding shares or securities (representing the right to vote for the election of directors or other managing authority) are, now or hereafter, owned by or under the Control of, directly or indirectly, a Party hereto, but such corporation, company or other entity shall be deemed to be a Subsidiary only so long as such ownership or Control exists; or (ii) which does not have outstanding shares or securities, as may be the case in a partnership, joint venture or unincorporated association, but more than fifty percent ([[Percentage 1]]%) of whose ownership interest representing the right to make the decisions for such corporation, company or other entity is now or hereafter, owned by or under the
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+Control of, directly or indirectly, a Party, but such corporation, company or other entity shall be deemed to be a Subsidiary only so long as such ownership or Control exists.
+
+^^**“Technical Coordinator”** shall have the meaning described in Section 2.6 below.
+
+^^**“3D Tool(s)”** shall mean any and all apparatus for performing Advanced Packaging and Integration process step(s).
+
+^**JOINT DEVELOPMENT PROGRAM**  
+^^**Joint Development Program.** The Parties shall engage in a Program for the term of the Agreement. The Program shall be defined by the Statement(s) of Work (SOW) in Exhibit A hereof.
+
+2.1.1   **Additional SOWs.** The Parties agree to consider additional SOWs relating to wet strip/etch processes. NEXX has indicated a willingness to bear the costs for such development.
+
+^^**Statement of Work.** The Statement of Work hereunder shall end no later than the end of the term of the Agreement. The Parties will undertake, perform, and participate in the activities described in the Statement of Work. Any schedule dates specified in the Statement of Work are targets only and not commitments.
+
+^^**NEXX Program Resources.**
+
+2.3.1   NEXX will provide one (1) on-site full time highly qualified person at the start of the Program. This individual will initially work at the IBM facilities in East Fishkill, NY (“IBM-East Fishkill”) or at the NYS Packaging Center and will be designated as NEXX’s initial Program Manager of Section 2.5 below.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+2.3.2   NEXX will send experts from its Billerica, MA office to IBM-East Fishkill or the NYS Packaging Center from time to time to support the Program.
+
+2.3.3   Upon availability of the NYS Packaging Center, NEXX Intends to hire or relocate [*] additional full time staff (highly skilled engineers, technicians or PhDs) for the NYS Packaging Center.
+
+2.3.4   All costs and expenses related to NEXX personnel participating in the Program will be borne by NEXX, and without cost to IBM.
+
+2.3.5   Prior to the readiness-for-development of IBM-procured tool of Section 5.17.1 hereof, NEXX shall make available tooling at NEXX Billerica, MA with technical support as necessary for fulfillment of the Program.
+
+2.3.6   NEXX will provide equipment consumables listed in EXHIBIT B for this program at no cost for up to [*]. [*], IBM will provide all consumables at IBM cost.
+
+^^**IBM** **Resources.**
+
+2.4.1   IBM shall make the IBM-procured tool of Section 5.17.1 hereof available for use in the Program.
+
+2.4.2   IBM will provide personnel and other resources as IBM deems appropriate in support of the Program.
+
+^^**Program Managers.** Each Party shall designate a Program Manager who shall be responsible for such Party’s overall efforts in the Program. Each Party may change its Program Manager by giving advance written notice to the other Party. In addition, the Program Managers shall meet once per quarter on a mutually agreeable date during the Program to discuss and document any improvements made, or planned to be made, to the 3D Tool which may be considered a NEXX
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+Licensed Product. The Program Managers shall use reasonable efforts to come to agreement. If such an agreement cannot be reached, the Program Executives would then be consulted to resolve the issue.
+
+^^**Technical Coordinators.** Each Party shall designate a Technical Coordinator who shall be responsible for (i) coordinating the technical efforts of the Party by which he is employed, (ii) maintaining technical liaison with his counterpart Technical Coordinator, (iii) receiving and disclosing information pursuant to this Agreement, and (iv) scheduling and holding technical review meetings as mutually agreed by the Parties. Each Party may change its Technical Coordinator by giving advance written notice to the other Party. For the avoidance of doubt, NEXX’s Technical Coordinator may be one of the NEXX personnel specified in Section 2.3 hereof.
+
+^^**Work Location(s).** Work under the Program will be performed in IBM’s facilities and/or NEXX’s facilities and/or the NYS Packaging Center in accordance with the SOW. A Party’s Representatives performing work at the other Party’s facilities shall follow the applicable rules and regulations in effect at such facility. NEXX’s access to the NYS Packaging Center may be subject to additional terms applicable to rd party users of the NYS Packaging Center. IBM will furnish any such additional terms to NEXX upon IBM’s entry into the final contract(s) to establish the NYS Packaging Center.
+
+^^**Program Executives / Semi-annual Review.** Each Party will assign one executive each as their respective program executive for purposes of this Program (“Program Executive”), in order to exchange the views and discuss any topics, between the parties, regarding the Program. Such Program Executives will meet with each other in person or by proxy at least once every [*] unless mutually agreed in writing not to do so, for purposes of discussing the progress of the Program, resolving issues that have not been
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+resolved by the respective Parties’ Representatives and discussing any other subjects of mutual interest arising from or relating to the Program.
+
+^^**Semi-annual Program Report.** The Parties will jointly generate a report which summarizes the progress and outcomes of the Program (“Program Report”), which shall be submitted to the respective Program Executives every [*] after the Effective Date, to be in time for and discussed at the Program Executive meeting referenced in Section 2.8 hereof.
+
+^^**Ownership of Tangible Deliverables.** Unless otherwise specified in a Statement of Work, any tangible deliverables provided under such Statement of Work shall remain the property of the providing Party.
+
+^^**Technical Papers I Presentations.** Sole or joint technical papers and/or presentations regarding subject matter relating to or arising from the Program shall not be published or made public without prior written approval of the Parties.
+
+^^**Documentation of Background Information.** It is expected that the Parties will agree on basic background information that would be needed to perform a successful Program, however, neither Party shall be obligated to disclose or receive any background information. Both Parties shall approve and document in advance any disclosure of background information under the Agreement.
+
+^^**Contingency for Protection of NEXX Solely-Developed Foreground** **Technology.** NEXX shall provide documentation of [[Organization 5 Name]] on a quarterly basis to a mutually agreed escrow agent. Such documentation shall be of sufficient detail to place IBM in reasonable possession of the developments contained in such [[Organization 5 Name]] subject to development expense reasonably associated with the then-current state of such
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+developments within NEXX. IBM shall not have access to such escrowed documentation unless mutually agreed conditions for such release are triggered.
+
+^**CONFIDENTIAL** **INFORMATION**
+
+^^**Disclosure and Marking.** Either Party (“Disclosing Party”) may disclose its information to the other Party (“Receiving Party”) orally or in writing or by other media or by transfer of materials. When disclosed in writing or by such other media or materials, information shall be expressly identified as Disclosing Party’s confidential information (“Confidential Information”) if Disclosing Party wishes it to be treated as confidential per the terms of this Section 3. When disclosed orally, Disclosing Party shall identify the information as confidential at the time of such disclosure, with subsequent written confirmation to Receiving Party within thirty (30) d ays of such disclosure indicating the date and type of information disclosed. Receiving Party’s obligations regarding Disclosing Party’s Confidential Information shall not apply to any information which is not identified as confidential in accordance with this Section 3.1. Receiving Party shall clearly label any of Disclosing Party’s Confidential Information reduced to writing by Receiving Party as “IBM CONFIDENTIAL”if **IBM** is Disclosing Party or as “NEXX CONFIDENTIAL” if NEXX is Disclosing Party. Subject to the marking requirement in this Section 3.1, jointly developed [[Organization 5 Name]] shall be considered as Confidential Information disclosed to each Party, as the Receiving Party, as of the date of development.
+
+^^**Confidentiality Term.** For seven (7) years from the date of disclosure, Receiving Party will use the same care and discretion to avoid any disclosure of any part or all of the Confidential Information of the Disclosing Party outside of the Receiving Party, as the Receiving Party employs with information of its own which it regards as confidential and which it does not desire to disclose. Receiving Party will make Disclosing Party’s Confidential Information available only to Representatives of Receiving Party on a need to know basis. Receiving
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+Party shall ensure that such Representatives of Receiving Party shall be bound by terms at least as protective as the terms of this Section 3.
+
+^^**Copies.** Receiving Party shall have the right to make copies of documents containing Disclosing Party’s Confidential Information to the extent reasonably necessary to accomplish the purposes of this Agreement.
+
+^^**Exceptions to Confidentiality Obligation.** Receiving Party’s obligations regarding Disclosing Party’s Confidential Information shall not apply to information (i) which was already known to Receiving Party prior to the disclosure of such information to Receiving Party by Disclosing Party, (ii) which is or becomes publicly available through no act or fault of Receiving Party, (iii) which is rightfully received by Receiving Party from a third party having no obligation of confidentiality to Disclosing Party, (iv) which is independently developed by Receiving Party, or (v) which is inherently disclosed in the use, lease, sale, or other distribution of any available product or service or publicly available supporting documentation therefor by the Receiving Party. If Receiving Party is compelled to disclose information by valid order of a court or governmental body or as otherwise required by applicable law, or if the use of Disclosing Party’s Confidential Information is indispensable to establish or secure legal rights under this Agreement, such disclosure or use by Receiving Party shall be permitted, provided that prior to any such disclosure or use, Receiving Party shall make a reasonable effort to obtain a protective order limiting use of such Confidential Information thereby disclosed or used and shall promptly notify Disclosing Party in writing and provide Disclosing Party with a reasonable opportunity to object to such disclosure or use. font>
+
+^^**No Obligation to Disclose or Receive.** Neither Party shall be under any obligation to receive Confidential Information of the other Party under this Agreement. Disclosing Party’s Confidential Information shall remain the property of Disclosing Party.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**NEXX Disclosure.** Nothing in this Section 3 shall prohibit NEXX from selling or offering for sale NEXX Licensed Products to third parties, provided that such selling or offering for sale does not involve the disclosure of IBM Confidential Information regarding Integrated [[Organization 7 Name]] (including, but not limited to, process information). Notwithstanding the other provisions of this Section 3, NEXX may disclose IBM Confidential Information to IBM Subsidiaries and [[Organization 3 Name]] consistent with the licenses granted to NEXX in Section 4 hereof, provided, however, that (1) such disclosure is unde r a written agreement containing obligations of confidentiality at least as stringent as those contained in this Agreement, and (2) such disclosure shall not include the disclosure of IBM Confidential Information regarding Integrated [[Organization 7 Name]] (including, but not limited to, process information).
+
+^^**IBM Disclosure.** Notwithstanding the other provisions of this Section 3, IBM may disclose NEXX Confidential Information to third parties consistent with the licenses granted to IBM in Section 4 hereof, provided, however, that (1) such disclosure is under a written agreement containing obligations of confidentiality at least as stringent as those contained in this Agreement, and (2) such disclosure shall not include the disclosure to vendors of semiconductor plating tools of any NEXX Confidential Information regarding such semiconductor plating tools.
+
+^^**Disclosure of Agreement.** Each Party hereto agrees not to disclose to other than its Subsidiaries the terms and conditions of this Agreement except as may be required by law or government rule or regulation, without the express written consent of the other Party. Notwithstanding the foregoing, the Parties shall be permitted to disclose (a) the existence of this Agreement and the joint relationship described herein and its high level objectives, provided that the initial announcement of this relationship shall be mutually coordinated and agreed by the Parties, and (b) a summary of pertinent Sections of this Agreement which are reasonably necessary for disclosing and/or licensing under this Agreement,
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+provided, however, that such disclosure is under a written agreement containing obligations of confidentiality at least as stringent as those contained in this Agreement.
+
+^^**Confidential Information in Patent Applications.** No Party may disclose any Confidential Information of the other Party in any patent application or in the prosecution of such patent application without the prior written approval of such other Party, which approval will not be unreasonably withheld.
+
+^**LICENSES**
+
+^^**License to NEXX.** Subject to Section 3.6 hereof, IBM hereby grants to NEXX a worldwide, non-transferable, non-exclusive license under IBM IP Rights to research, develop, make, have made, import, sell, offer for sale, lease, or otherwise transfer NEXX Licensed Products and to use NEXX Licensed Products for internal quality control and evaluations.
+
+^^**License to IBM.** This section includes the following sub-sections:
+
+^^**Integrated [[Organization 7 Name]].** NEXX hereby grants to IBM a worldwide, royalty-free, non-transferable, non-exclusive license under NEXX **IP** Rights to research, develop, use, make, have made, import, sell, offer for sale, lease or otherwise transfer Integrated [[Organization 7 Name]].
+
+^^**Licensed Products - Make & Have Made.** If NEXX elects not to make and sell to IBM, upon commercially reasonable terms and conditions, a particular NEXX Licensed Product requested for purchase and use by IBM, NEXX hereby grants to IBM a worldwide, royalty-free, non­transferable, non-exclusive license under NEXX IP Rights to make or have made such particular NEXX Licensed Product. IBM’s make and have made rights in this Section 4.2.2 shall be limited to quantities of such
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+particular NEXX Licensed Product for use by IBM, IBM Subsidiaries and [[Organization 3 Name]].
+
+4.2.3   **Disclosure of NEXX Background and Foreground.** In the event the circumstances in the foregoing Section 4.2.2 occur, IBM shall be permitted to disclose [[Organization 6 Name]] and [[Organization 5 Name]] to third parties to the extent necessary for IBM to exercise its have made right hereunder. Such disclosure to a third party shall be under a written agreement containing obligations of confidentiality at least as stringent as those contained in this Agreement.
+
+^^**Sublicense to Subsidiaries.** The licenses granted herein include the right of each Party to grant sublicenses to its Subsidiaries existing on or after the Effective Date, which sublicenses may include the right of sublicensed Subsidiaries to sublicense other Subsidiaries of said Party. No such sublicense shall be broader in any respect than the license held by the Party that granted the sublicense. A sublicense granted to a Subsidiary shall terminate on the earlier of:
+
+^^the date such Subsidiary ceases to be a Subsidiary of a Party hereto; and
+
+^^the date of termination or expiration of the license of the Party or Subsidiary that granted the sublicense.
+
+^^**Sublicense to [[Organization 3 Name]].** The licenses granted herein to IBM include the right of IBM to grant sublicenses to [[Organization 3 Name]], which sublicenses may include the right of such [[Organization 3 Name]] to sublicense third parties to the same extent as IBM allows its own technology to be sublicensed by such [[Organization 3 Name]]. No such sublicense shall be broader in any respect that the license held by IBM. A sublicense granted to a Subsidiary of a licensed IBM Associate shall terminate on the earlier of:
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^The date such Subsidiary ceases to be a Subsidiary of such licensed IBM Associate; and
+
+^^The date of termination or expiration of the license of the licensed IBM Associate that granted the sublicense.
+
+^^**Residuals License.** Subject to Section 3 hereof, Receiving Party may use the ideas, concepts, know-how and techniques, related to Receiving Party’s business activities, which are contained in Disclosing Party’s Confidential Information in non-tangible form and retained in the unaided memories of Receiving Party’s employees having access to Disclosing Party’s Confidential Information unless such ideas, concepts, know-how and techniques were intentionally committed to memory by such employees for the purpose of avoiding any limitations on use implied herein. Nothing in this Section 4.5 shall be construed to convey any right or license under any patents, copyrights or mask-work rights of any party.
+
+^^**No Other License Hereunder.** Except as may be expressly provided in Sections 4.1 through 4.5 and Section 6 hereof, no license or other right is granted under this Agreement by either Party directly or by implication, estoppel or otherwise to the other Party or to any third party, with respect to any intellectual property rights (including, but not limited to any patents, technology or copyrights) of the Parties or of any third party, even if such intellectual property rights are necessary to use or practice the IBM Confidential Information, IBM IP Rights, NEXX Confidential Information or NEXX IP Rights.
+
+^**FINANCIALS**
+
+^^**Royalty to IBM.** As partial consideration for the licenses granted by IBM to NEXX in Section 4 above, NEXX shall pay to IBM a royalty for all quantities of NEXX Licensed Products sold or transferred to a third party or IBM by NEXX or NEXX Subsidiaries, used other than for internal quality control
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+and evaluations by NEXX or NEXX Subsidiaries, wherein such royalty shall be computed as six percent ([[Percentage 2: Number]]%) of the entire Selling Price of NEXX Licensed Products, but will not include any external third party chemical management and analysis units and/or third party fire suppression systems and/ or FM4910 fire retardant materials. If the work from this JDP generates knowhow or IP that applies to one or more peripheral equipment, the price for that specific peripheral equipment will be considered as part of as part of NEXX Licensed Product.
+
+^^**Royalty Accrual.** Royalties shall accrue for a term of eight (8) years after a NEXX Licensed Product is first sold, or transferred, directly or indirectly, by NEXX or NEXX Subsidiaries or 8 years after the end date of the contract, which ever comes first, used by NEXX or NEXX Subsidiaries for purposes other than internal quality control and evaluation.
+
+^^**Bearing Taxes.** Each Party shall bear and pay all taxes (including, without limitation, sales and value added taxes but excluding income tax as specified below) imposed by its own national government including any political subdivision thereof as the result of the existence of this Agreement or the exercise of rights hereunder.
+
+^^**Taxes for Representatives.** Each Party shall be responsible for any taxes and tax documents associated with its Representatives.
+
+^^**Semiannual Royalty Payments.** Royalties, if any, due hereunder shall be paid by NEXX to IBM on a [*] basis. The [*] accounting periods (each an “Accounting Period”) shall end on the [*] Within [*] after the end of each such period, NEXX shall furnish to IBM a written report containing the information specified in Section 5.9 and shall pay to IBM all unpaid royalties accrued hereunder through the end of each such period.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**Payment Currency.** NEXX shall make all payments due hereunder in U.S. dollars.
+
+^^**Payment Procedure.** All payments are nonrefundable and shall be made by electronic funds transfer. All payments shall be credited to the following account:
+
+[[Organization 8 Name]] 
+[*] 
+[*] 
+[*] 
+[*] 
+[*] 
+[*]  
+Include the following information in the wire detail:
+
+[[Organization 1 Name]] 
+Reason for Payment 
+License Reference No. L095638  
+^^**Late Payment. IBM** may accept a late payment provided such payment includes all overdue royalties or other payment plus interest. The interest on any overdue royalty or other payment shall be calculated [*] If such interest rate exceeds the maximum legal rate in the jurisdiction where a claim therefore is being asserted, the interest rate shall be reduced to such maximum legal rate.
+
+^^**Royalty Report Content.** NEXX’s written report of Section 5.5 hereof shall be certified by an officer of NEXX and shall contain the following information:
+
+^^a description of each type of Licensed Product, the quantity sold or otherwise transferred to IBM or third parties and the quantity used by NEXX, NEXX Subsidiaries or NEXX non-Subsidiary licensees during the accounting period, and the sum of the Selling Prices for such quantity;
+
+^^the amount of royalties due for each type of Licensed Product;
+
+^^the aggregate amount of all royalties due;
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^an indication in the event that any of (a) through (c) does not apply to an accounting period; and
+
+^^in the event no royalties are due, an indication of such fact.
+
+^^**Record Keeping.** NEXX shall keep records in accordance with generally accepted accounting principles and in sufficient detail to permit the determination of royalties due to IBM. Such records shall include, but not be limited to, detailed records supporting the information provided under Section 5.9. Such records shall be kept for [*] following the submission of the related report.
+
+^^**Royalty Audit.** Upon written notice for an audit, NEXX shall permit a mutually acceptable independent auditor designated by IBM, together with such legal and technical IBM personnel as IBM deems necessary, to examine, during ordinary business hours, records, and materials of NEXX and NEXX Subsidiaries for the purpose of verifying royalty computations under this Agreement. The auditors and IBM will be required to sign appropriate nondisclosure agreements prior to receiving any confidential information of NEXX. Approval of such independent auditor shall not be unreasonably withheld.
+
+^^**Audit Costs.** Each party shall pay the costs that it incurs in the course of the audit. However, in the event that the audit establishes underpayment greater than [*] NEXX shall reimburse IBM for the cost of the audit.
+
+^^**Action Upon Believed Underpayment.** In the event that IBM believes that NEXX is not complying with the provisions of this Section 5 by underpaying the royalties due hereunder, and the Parties are unable to reach agreement on the appropriate amount of royalties due hereunder, before invoking the provisions of Section 7 hereof, IBM will implement the audit provisions of Section 5.11 hereof. If NEXX agrees with the findings of the audit performed pursuant to Section 5.11, it shall promptly pay any shortfall in royalties disclosed thereby to IBM. If NEXX
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+disagrees with the findings of the audit, NEXX shall have the right to request, and IBM will participate in, a meeting of the Program Executives of both Parties to attempt to resolve the disagreement. Said meeting shall take place within [*] of NEXX’s request and before the end of the [*] cure period described in Section 7.3.
+
+^^**License Reference Number.** The License Reference Number L095638 is assigned to this Agreement. This number should be included in all communications, including wire transfer payments, royalty reports, tax credit certificates, letters, faxes and e-mail messages.
+
+^^**No Obligation to Purchase Hereunder.** Unless otherwise stated in the specific terms of a mutually agreeable procurement agreement executed by the Parties regarding NEXX Licensed Product(s), IBMshall not be obligated to purchase any specific quantities of NEXX Licensed Product(s) from NEXX.
+
+^^[*]
+
+^^**Capital Equipment Purchase -** In partial consideration of entering into this Agreement with IBM, NEXX will provide IBM the following under Equipment Agreement number 4908015217.0 and relevant purchase order:
+
+5.17.1   **Tool Purchase.** NEXX will sell to IBM its current model of its Stratus S300FX plating tool consistent with IBM’s Request For Quote number BXE-09252008 and NEXX’s Final Quote number 3148 dated [[Date 1: Date]],
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+2008 [*]  
+^^**Equipment Upgrades.** NEXX agrees to provide on-going equipment upgrades to the Stratus S300FX plating tool from Section 5.17.1 [*] for the duration of the Agreement. Such upgrades will be mutually agreed and necessary to execute this agreement.
+
+^^**Equipment Warranty.** NEXX hereby [*] for equipment, software and spares of NEXX products purchased by IBM during the term of this Agreement in support this Agreement.
+
+^^**Program Location and Equipment Movement.** Program development activity will commence at IBM-East Fishkill, but will likely shift to the NYS Packaging Center. Expenses other than labor for any move of NEXX branded equipment from IBM-East Fishkill to the NYS Packaging Center, whether owned by IBM or NEXX, shall be borne by [*] NEXX will, at [*] provide all labor to disassemble, reassemble and re-qualify the above mentioned Stratus S300FX plating tool in support of relocation to the NYS Packaging Center.
+
+^**OWNERSHIP OF INTELLECTUAL PROPERTY**
+
+^^**Reporting of Inventions.** Representatives performing services under the Program shall promptly report, in a reasonably detailed written disclosure all Inventions to their management. On [*] as set forth in Section 6.6, each Party shall provide a copy of such disclosure(s) received on Invention(s) to the other Party.
+
+^^**Sole Inventions.** All patents and patent applications on Invention(s) conceived solely by Representatives from one Party (“Sole Inventions”) shall be owned by such Party. The owning Party shall retain the entire right, title, and interest
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+throughout the world to such patent(s) including the right to file (or not to file) for patents for such Sole Invention(s). The decision on filing of applications for patents for Sole Inventions shall be made by the Party having an ownership interest in such Sole Invention.
+
+^^**Joint Inventions.** Invention(s) conceived jointly by Representatives of both Parties (herein “Joint Inventions”) shall be jointly owned by the Parties, and title to any patents issued thereon shall be joint between such Parties, and any patents issued thereon shall be freely licensable (notwithstanding Section 4.0) by each Party without permission from or accounting to the other Party. Each Party hereby gives the other Party any necessary consent for granting such licenses as may be required by the law of any country.
+
+^^**Patent Filing on Joint Inventions.** It is expected that the Parties shall equitably share the cost of obtaining and maintaining resulting patents on any Joint Inventions. In the event that a Party elects not to seek patent protection for a Joint Invention in any particular country or not to share equally in the expense thereof with the other Party or wishes to abandon or allow to lapse any patent application or patent based on a Joint Invention, the other Party shall have the right to seek or maintain such protection at its own expense in such country and shall have full control over the prosecution and maintenance thereof even though title to any patent issuing therefrom shall be joint among the Parties.
+
+[[Organization 5 Name]].** Jointly developed [[Organization 5 Name]] shall be jointly owned and subject to the confidentiality obligations of Section 3 hereof, shall be freely licensable by each Party without permission from or accounting to the other Party. Each Party hereby gives the other Party any necessary consent for granting such licenses as may be required by the law of any country.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**Intellectual Property Review.** The Program Managers shall establish and enact a procedure whereby, on [*] during the term of the Agreement or earlier termination of the Agreement, the Parties shall report in writing to the others on the status of all Invention disclosures, any corresponding patent applications, and any corresponding issued patents for which such Party is responsible. On [*] each Party shall provide the other Party a copy of any newly filed original patent applications for Inventions.
+
+^^**Assistance.** Each Party shall reasonably assist the other Party in obtaining patent protection for Joint Inventions. Such assistance shall include provision of invention disclosure documents which include data and examples, causing the execution of assignments and other instruments and provision of such documents as the other Party may consider reasonably necessary or appropriate to the obtaining of patent protection. The Parties shall cooperate to facilitate compliance with the duty of disclosure requirements for patent application filing.
+
+^^**Reporting** **at End of Program.**Within [*] after the end of the Program, each Party shall report to the other Party the status of all Invention disclosures made under the Agreement, any corresponding patent applications, and any corresponding issued patents for which it is responsible.
+
+^**TERM OF AGREEMENT; TERMINATION**
+
+^^**Term.** This Agreement shall commence on the Effective Date and shall expirethree (3) years from the Effective Date, provided however, that the rights granted to NEXX and IBM hereunder by Section 4 shall survive expiration under this Section 7.1.
+
+^^**Termination of Program / SOWs.** Any termination of this Agreement shall result in the immediate termination of the Program. At the end or termination of the Program, but not the Agreement, the provisions of the Agreement other than Sections 2.1 through 2.7 shall remain in force.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**Material Breach.** If either Party (“Breaching Party”) materially breaches a material provision of the Agreement (including, but not limited to, in the case where NEXX fails to make any payment to IBM hereunder or otherwise fails to honor any the terms of Section 5), then the other Party (“Non-Breaching Party”) may terminate this Agreement in a written notice enumerating Breaching Party’s breach(s) or default(s), provided however that within [*] after the date upon which the notice was sent, Breaching Party shall be entitled to cure any of the breaches or events of default identified in the notice. If, at the end of the [*] cur e period, any of the identified defaults has not been cured, such licenses granted to Breaching Party (including any sublicenses to Breaching Party’s Subsidiaries) may be terminated by Non-Breaching Party, effective immediately, upon written notice of termination.
+
+^^**Events of Default.** In the event that either Party engages in or suffers any of the following events of default:
+
+7.4.1   becomes insolvent, is dissolved or liquidated, has a petition in bankruptcy, reorganization, dissolution or liquidation or similar action filed by or against it, is adjudicated as bankrupt, or has a receiver appointed for its business;
+
+7.4.2   has all or a substantial portion of its capital stock or assets expropriated or attached by any government entity;
+
+7.4.3   makes an assignment for the benefit of creditors;
+
+7.4.4   is subject to property attachment, court injunction, or court order materially affecting its operations under this Agreement; or
+
+7.4.5   suffers a Change of Control;
+
+then such Party (“Breaching Party”) shall promptly notify the other Party (“Non-Breaching Party”) in writing that such an event has occurred. The Non-Breaching Party may terminate the licenses granted to Breaching Party herein (including any sublicenses to Breaching Party’s Subsidiaries) in a written notice effective immediately upon receipt. The Non-Breaching Party’s right to terminate commences upon occurrence of the event of default.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**Effect of Termination for Breach / Default.** In the event this Agreement is terminated by Non-Breaching Party due to a breach or default by Breaching Party enumerated in Sections 7.3 or 7.4, respectively, termination shall be handled as follows:
+
+7.5.1   The licenses granted to Breaching Party (including any sublicenses to Breaching Party’s Subsidiaries) in Section 4 of this Agreement shall remain in effect only as they pertain to the other Party’s IP Rights accrued to the date of notice of termination under Section 7.3 hereof or the effective date of the event of default under Section 7.4 hereof; all licenses and/or immunities granted to Non-Breaching Party under Section 4 shall remain in effect as provided herein; if Breaching Party is NEXX, NEXX shall [*] pay IBM in full any additional royalties or other payment obligations that have accrued through to the effective date of the termination and shall provide both the statement regarding NEXX Licensed Products pursuant to Section 5.9 through to the effective date of the termination.
+
+7.5.2   Breaching Party shall destroy or return to Non-Breaching Party all documentation provided by Non-Breaching Party to Breaching Party under this Agreement, as well as all copies and summaries thereof, and officers of Breaching Party shall so certify in writing (except one (1) copy thereof which may be retained by Breaching Party for archival purposes).
+
+^^**Force Majeure.** Each Party shall be excused from the fulfilment of any obligation related to the Agreement, except for payment obligations under the Agreement, for so long as such fulfilment may be hindered or prevented by any circumstances of force majeure such as, but not limited to, acts of God, war, riot, strike, lockout, labor unrest, fire, flood, other natural catastrophe, shortage of materials or transportation, national or local government regulations (including,
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+but not limited to, export regulations, but only to the extent such export regulations do not allow for appropriate dual-use export licenses or such dual-use export licenses are not granted despite the Party (seeking to be excused) having exercised good faith efforts to obtain such export licenses) or any other circumstance outside its control, provided that the Party seeking to be excused shall make every reasonable effort to minimize the hindrance of such fulfilment; and provided further that, if such force majeure continues to prevent or delay performance of such Party for more than [*] and has a material impact on the Program, then within [*] thereafter, the other Party may immediately terminate the Agreement. If such force majeure circumstance ends without the other Party having terminated the Agreement as provided in this Section 7.6, the Party seeking to be excused shall, without undue delay, resume the fulfilment of obligations affected.
+
+^**REPRESENTATIONS; WARRANTIES**
+
+^^**Right to Grant Licenses.** Each Party represents and warrants that, upon the Effective Date of this Agreement, it has the full right and power to grant the licenses granted by such Party pursuant to Section 4.
+
+^^**Products Made.** Neither Party makes any representation or warranty to the other Party, express or implied, regarding the performance or quality of any products produced from the practice of IBMConfidential Information, IBM IP Rights, NEXX Confidential Information or NEXX IP Rights, as practiced by the other Party, is sufficient for the other Party to develop satisfactory NEXX Licensed Products, or that licenses are not required under third party intellectual pro perty rights to practice the IBM Confidential Information, IBM IP Rights, NEXX Confidential Information or NEXX IP Rights.
+
+^^**Third Party Intellectual Property.** Neither Party makes any representation or warranty to the other Party, express or implied, nor does either Party assume any liability in respect to the infringement of patents or other rights of third parties that
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+may arise out of the research, development, use, making, having made, importing, selling, offering for sale, leasing or otherwise transferring of any products incorporating or made by use of IBM Confidential Information, IBM IP Rights, NEXX Confidential Information, or NEXX IP Rights or due to operation under any license(s) here granted.
+
+^^**WARRANTY DISCLAIMER.** SUBJECT TO SECTION 8.1 HEREOF, ALL INFORMATION (INCLUDING BUT NOT LIMITED TO, IBM CONFIDENTIAL INFORMATION, IBM IP RIGHTS, NEXX CONFIDENTIAL INFORMATION, NEXX IP RIGHTS), ITEMS, AND SERVICES, IF ANY, PROVIDED BY THE PARTIES HEREUNDER ARE PROVIDED ON AN “AS-IS” BASIS WITHOUT WARRANTY OF ANY KIND. THE FOREGOING WARRANTIES BY THE PARTIES ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES EXPRESS OR IMPLIED INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR PURPOSE.
+
+^^**Program Outcome.** Each Party recognizes that the outcome of the Program is uncertain and cannot be guaranteed by either Party. Neither Party shall have any liability to the other Party for a failure to develop technology which results in NEXX Licensed Products, Integrated Circuits or Semiconductor Products which are suitable (technically and/or commercially) for use.
+
+^^**Procedures and Agreements with Representatives, Subsidiaries, and** **Contractors.** Each Party represents that it has, or will have, in place prior to disclosure of the other Party’s Confidential Information or the Party’s Representatives’ performance of work under this Agreement, established procedures and agreements with its Representatives, Subsidiaries, and contractors whose services the Party may require, sufficient to enable such Party and its Representatives, Subsidiaries, and contractors to comply with all the
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+provisions of this Agreement, including, but not limited to provisions relating to confidentiality and intellectual property.
+
+^**REMEDIES; INDEMNIFICATION; DAMAGES**
+
+^^**Disclaimer of Liability.** Nothing in this Agreement shall cause either Party to be subject to any liability for damages or loss resulting from (1) any use or application made by the other Party of IBM Confidential Information, IBM IP Rights, NEXX Confidential Information, or NEXX IP Rights or (2) any products developed, manufactured or marketed by the other Party. Nothing in this Agreement shall cause either Party to have any responsibilities whatsoever to customers of the other Party.
+
+^^**Liability Cap.** Except for (i) [*] and (ii) death, bodily injury or physical damage to real property or tangible personal property resulting from a Party’s actions under this Agreement, including that of its Representatives, each Party’s total cumulative liability to the other Party for any and all causes of action in any way relating to this Agreement or the performance or non-performance of such Party hereunder, regardless of the form of action, shall be limited to direct damages, which shall not exceed a cumulative total of [*]
+
+^^**Disclaimer of Indirect I Consequential Damages.** Except for any damages pursuant to Sections 9.4 and 9.5, Nothing in this Agreement shall render either Party liable to the other Party, the other Party’s Subsidiaries at any level, the other Party’s affiliates or the other Party’s licensees for indirect, incidental, punitive, special or consequential damages, regardless of the form of action, even if the Party has been advised of the possibility of such damages.
+
+^^**Indemnification.** For all quantities of NEXX Licensed Products sold, licensed, leased or otherwise transferred to IBM by NEXX, this Section 9.4 shall be
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+superseded by the provisions of any mutually agreeable procurement agreement executed by the Parties. Otherwise, NEXX shall indemnify, defend and hold harmless IBM, IBM Subsidiaries at any level, and the affiliates, directors, officers, agents and employees of each of IBM and IBM Subsidiaries at any level (collectively the “Indemnified Persons”, and each, an “Indemnified Person”) from and against:
+
+9.4.1   all claims, demands, costs, liabilities, causes of action, actions, obligations, and damages (including without limitation, reasonable attorneys’ fees, claims, demands or damages for business injury, property damage, environmental harm, personal injury, and/or death, but excluding claims, demands or damages relative to any third party’s intellectual property rights which are covered by Section 9.4.2 below) of every kind and every nature, in law or in equity, known or unknown, contingent or otherwise, past, present, or future brought by or on behalf of any party other than IBM, IBM Subsidiaries or any other party which obtained all such NEXX Licensed Products directly or indirectly from IBM or IBM Subsidiaries, to the extent related to, arising f rom, or alleged to arise from NEXX’s (or any NEXX Subsidiary’s or any NEXX affiliate’s) development, manufacture, use, misuse, advertising, labeling, marketing, sale, transfer, transportation, storage, support, modification, distribution or disposal of (a) any NEXX Licensed Products or (b) any substances developed or manufactured using IBM Confidential Information, IBM IP Rights, NE)0( Confidential Information, or NEXX IP Rights;
+
+9.4.2   all claims, demands, costs, liabilities, causes of action, actions, obligations, and damages (including without limitation, reasonable attorneys’ fees and/or claims, demands or damages for business injury) brought by or on behalf of any party other than IBM, IBM Subsidiaries or any other party which obtained all such NEXX Licensed Products directly or indirectly from IBM or IBM Subsidiaries, to the extent related to, arising
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+from, or alleged to arise from any violation of any third party’s intellectual property rights in any country by (a) the use of any NEXX Licensed Products manufactured, sold, or transferred by NEXX (or by any NEXX Subsidiary or any NEXX affiliate) by any party other than IBM, IBM Subsidiaries or any other party which obtained all such NEXX Licensed Products directly or indirectly from IBM or IBM Subsidiaries, or (b) the sale, offer for sale, or transfer of any NEXX Licensed Products by NEXX (or by any NEXX Subsidiary or any NEXX affiliate) to any party other than IBM or IBM Subsidiaries; and
+
+9.4.3   NEXX and NEXX’s Subsidiaries’ at any level and the affiliates of NEXX release and covenant that they will not sue or otherwise make any claim against any Indemnified Person regarding any matter which, if it had been the subject matter of a suit brought by a third party, would be subject to the provisions of Section 9.4.1 and/or 9.4.2 above. If NEXX or any NEXX Subsidiary at any level or any NEXX affiliate violates this Section 9.4.3, NEXX agrees to pay all costs and expenses of defending against all claims or suits incurred by such Indemnified Persons, including reasonable attorneys’ fees. NEXX shall cause NEXX’s Subsidiaries at any level and affiliates of NEXX or any NEXX Subsidiary at any level to so release and not sue such Indemnified Persons as provided above.
+
+9.4.4   Indemnified Persons shall continue to be indemnified, defended, held harmless, and released and the covenantors shall continue to covenant to them as provided in Sections 9.4.1 - 9.4.3 above even after they cease to be IBM, IBM Subsidiaries at any level, or affiliates, directors, officers, agents or employees of either of IBM or IBM Subsidiaries at any level.
+
+^^**Expenses of Defense.** Without limiting Section 9.4, above, NEXX agrees to pay all expenses of the defense, including any amount in settlement, of all claims, demands, proceedings or actions described in Sections 9.4.1 through 9.4.3
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+above which may be asserted against any of the Indemnified Persons, regardless of merit, and agrees to permit IBM, at IBM’s expense, to actively participate in the defense or settlement of any such claims, demands, proceedings or actions and in any claim, demand, proceeding or action brought against NEXX and not IBM, at the option of IBM, to permit IBM, at IBM’s expense, to intervene in or become a party to any such claim, demand, proceeding or action. Each Party shall promptly notify the other Party of any claim, demand, proceeding or action of which it becomes aware that relates to the indemnification obligations under Section 9.4.
+
+**MISCELLANEOUS / NOTICES**
+
+^^**Assignment of Agreement.** Neither IBM nor NEXX shall assign this Agreement or any of its rights, privileges or obligations hereunder without the written permission of the other Party, and any such attempted assignment shall be void. Notwithstanding the foregoing, (1) IBM may assign its rights to receive any payment under this Agreement provided that prior written notice of such assignment shall be delivered to NEXX, and (2) IBM may assign in the case of sale or transfer of all or substantially all of its assets relating to the subject matter of this Agreement. I n the event of such an assignment, the license granted under Section 4.2 shall apply only for the use of products to be used by IBM, IBM Subsidiaries and [[Organization 3 Name]] and for no other party. In the event of a sale or transfer of all or substantially all of NEXX’s assets, NEXX may assign its entire rights and obligations under this Agreement, subject to a written notice of approval by IBM, which however shall not be unreasonably withheld or delayed. For the avoidance of doubt, an assignment of this Agreement shall not be considered as a material breach as set forth in Section 7.3 and 7.4. of this Agreement.
+
+^^**Notices.** Notices and other communications shall be sent by facsimile, reputable air courier or other means providing verification of delivery to the Program
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+Managers and shall be effective upon delivery. Additionally, notices and other communications concerning matters relating to any of Sections 4 through Section
+
+^shall be sent by facsimile, reputable air courier or other means providing verification of delivery to the following addresses and shall be effective upon delivery:
+
+**For IBM:**  
+[[Organization 8 Name]] 
+Drop 92B 
+2070 Route 52 
+[[Address 3: Address]]  
+Attention: Associate General Counsel  
+Fax: [[Phone 1]]  
+**For NEXX:** 
+[[Organization 9 Name]] 
+[[Address 4: Address]]-3929  
+Attention: CFO [[Person 1 First Name]] [[Person 1 Last Name]]  
+Fax: [[Phone 2]]  
+^^**Compliance with Laws.** Each Party agrees to comply with all applicable laws, rules and regulations of the United States Government and of any other duly constituted governmental authority having jurisdiction over such Party, to the extent applicable to activities under this Agreement. Each Party shall do all things necessary (i) to obtain in a timely manner all required licenses and approvals related to activities under this Agreement and (ii) to comply with all applicable laws, rules and regulations, including, but not limited to, the Regulations of the United States Government relating to the export and re-export of technical data, software and/or and commodities related to this Agreement or its direct product, to any prohibited country (including release of technology, software and/or commodities to nationals, wherever they may be located, of any prohibited country) as specified in applicable export, embargo, and sanctions regulation. The Parties agree to consult with each other prior to both applying for
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+an export license related to work under this Agreement and accepting government conditions on such export license. Parties shall provide each other with a copy of any such export license obtained by a Party or its agent IBM shall not be required to accept any conditions in any such export license which IBM considers detrimental to its business interests. This section will survive after termination or expiration of this Agreement and will remain in effect until fulfilled. Each Party shall have sole responsibility to comply with all federal, state and other environmental, health and safety laws and regulations that may apply to their respective products manufactured or marketed by such Party pursuant to this Agreement.
+
+^^**Solicitation for Employment.** During the term of the Program neither Party will actively solicit for employment purposes the employees of the other Party who are performing services under the Program. Active solicitation does not include general advertisements for employment by either Party.
+
+^^**Representatives: Selection, Responsibility, Status, Reassignment.** Each Party shall be responsible for the selection of its Representatives who will be assigned to work on the Program, provided that IBM shall not assign Representatives from any semiconductor plating tool vendors and NEXX shall not assign Representatives from any Subsidiary or contractor from any manufacturers of, designers of, developers of, or vendors of [[Organization 10 Name]]. A Party’s Representatives shall not for any purpose be considered employees or agents of any other Party. Each Party shall be responsible for the supervision, direction and control, payment of salary (including withholding of taxes), travel and living expenses (if any), worker’s compensation insurance, disability benefits and the like of its own Representatives. Nothing in the Agreement shall create any obligation in any way limiting or restricting assignment and/or activities of the Representatives of either Party who have participated in the Program and had access to the Confidential Information of the other Party.
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**Dispute Resolution.** Technical Coordinators shall attempt to resolve any dispute or impasse regarding the Program. The Program Managers shall attempt to resolve any dispute or impasse regarding the Program not resolved by the Technical Coordinators. Disputes or impasses which cannot be resolved by the Program Managers shall be escalated to the Program Executives.
+
+^^**Choice of Law / Venue / Jury Trial Waiver.** This Agreement shall be construed and the legal relations created herein between the Parties shall be determined in accordance with the substantive laws of the State of New York, United States of America, without regard to the conflicts of laws principles thereof. Any proceedings to enforce this Agreement, or to resolve disputes relating to this Agreement, shall be brought in the United States Federal District Court for the Southern District of New York, Westchester County Division. Each Party consents to exclusive jurisdiction and venue of such court. In the event of such proceedings, the Parties agree to submit an appropriate protective order to the court to protect IBM Confidential Information or NEXX Confidential Information, as the case may be. The Parties hereby exp ressly waive any right to a jury trial and agree that any proceeding hereunder shall be tried by a judge without a jury. No actions, regardless of form, arising out of the Agreement, except for intellectual property actions, may be brought by either Party more than two (2) years after the cause of action has arisen.
+
+^^**Names, Trade Names, Trademarks.** Each Party shall obtain prior written approval from the other in connection with the use of any name, trade name, trademark or other designation of any other Party hereto (including any contraction, abbreviation or simulation of the foregoing), or the use of references to this Agreement (including the terms and conditions and existence of this Agreement).
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^**Severability.** If any term or provision of this Agreement or the application thereof to any Party hereto or set of circumstances shall, in any jurisdiction and to any extent, be finally held to be invalid or unenforceable, such term or provision shall only be ineffective as to such jurisdiction, and only to the extent of such invalidity or unenforceability, without invalidating or rendering unenforceable any other terms or provisions of this Agreement or under any other circumstances, so long as the remainder of this Agreement still effectuates the essential purposes of this Agreement. If such essential purposes cannot be effectuated, this Agreement shall either be renegotiated or may be terminated without cause by either Party.
+
+^^**No waiver.** The failure of a Party to insist upon strict adherence to any term of this Agreement on any occasion shall not be considered a waiver or deprive that Party of the right to insist later on adherence thereto, or thereafter to insist upon strict adherence to that term or any other term of this Agreement. Any waiver must be in a writing signed by an authorized representative of the Party granting such waiver to be effective.
+
+^^**Headings.** The headings in this Agreement are intended solely for convenience of reference and shall be given no effect in the construction or interpretation of this Agreement. The terms “herein”, “hereof”, “hereunder” and any similar terms used in this Agreement refer to this Agreement and all references to “this Agreement” refer to this instrument and the attachments hereto, as amended from time to time. The terms “including” or “include” shall mean “including, without limitation”, or “include, without limitation”. The word “shall” is mandatory, the word “may” is permissive, the word “or” is not exclusive, the words “includes” ; and “including” are not limiting, and the singular includes the plural.
+
+^^**Expenses.** Except as may otherwise be expressly provided herein, each Party shall bear its own expenses (including those of its attorneys, accountants, bankers, advisers or other agents or representatives) incident to the preparation,
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+negotiation, execution and delivery of this Agreement and the performance of its obligations hereunder.
+
+^^**Survival.** To the extent a particular right or obligation herein does not have a specifically identified survival period, all rights and obligations which by their nature survive the expiration or termination of this Agreement will remain in effect beyond any expiration or termination for the time period reasonably necessary to accomplish their purpose and shall bind and inure to the benefit of the Parties, their legal representatives, successors and assigns. Sections which shall survive any termination or expiration of this Agreement include, but are not limited to, Sections 1, 3, 4, 5 (applicable payment and reporting provisions), and 6 through 10.
+
+^^**Amendment.** No amendment or modification of this Agreement shall be valid or binding upon the Parties unless in a writing executed by the Parties.
+
+^^**No Agency / Partnership.** Neither the provisions of this Agreement nor anything done pursuant to this Agreement shall create any partnership, joint venture, or agency relationship between or among the Parties.
+
+^^**Press Release.** The Parties agree to issuing a joint press release (subject to written pre-approval by IBM of the content of any announcement) announcing the execution of this Agreement. The initial press release will be issued within sixty (60) days of the execution of this agreement. The Parties agree to consider issuing additional press releases related to future developments.
+
+^^**Merger and Order of Precedence.** This Agreement, any mutually agreed Statements of Work and any attachments hereto embody the complete and exclusive understanding of the Parties with respect to the subject matter of this Agreement and shall supersede all prior or contemporaneous agreements, communications, representations, and understandings, oral or written, between
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+the Parties or any officers or representatives thereof with respect to the subject matter of this Agreement. Each mutually agreed Statement of Work shall takeprecedence over the Agreement with respect to the subject matter of that Statement of Work, provided however that no Statement of Work shall contain a grant of rights under background patents of either Party.
+
+^^**Execution.** This Agreement shall be effective only upon signature by both Parties and may be executed by the Parties in one or more counterparts, each of which shall be an original and all of which shall constitute one and the same instrument. Any signed copy of this Agreement made by photocopy, facsimile or Adobe PDFformat shall be considered an original.
+
+\centered **[Signature Page Follows]**
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be duly signed,
+
+ACCEPTED AND AGREED:  
+
+\centered **INTERNATIONAL BUSINESS** **[[Organization 2 Name]]** [[Party 1 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
+
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+\centered **EXHIBIT A**
+
+\centered **Statement of Work**
+
+The following Statement of Work is pursuant to and subject to the terms and conditions of the Agreement. Except as otherwise expressly indicated, all terms used herein shall be used as defined in the Agreement. In the event of any conflict between the terms or conditions contained in the Statement of Work and the Agreement, then the terms or conditions of the Agreement shall govern.
+
+Unless otherwise indicated below with respect to a specific task or milestone, the tasks and milestones indicated in the Statement of Work shall be considered the joint responsibility of the Parties wherein the Parties shall be expected to use commercially reasonable efforts towards the achievement of such tasks and milestones. All dates and time periods in each Statement of Work are targets only.
+
+**Definitions:**  
+^“TSV” or “Thru Silicon Via” shall mean an interconnect from the top side of asilicon wafer/chip to the bottom side.
+
+^^^**TECHNICAL OBJECTIVES **Objectives:****
+
+[*]  
+^^^**DELIVERABLES**
+
+[*]     
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+^^^DEVELOPMENT SCHEDULE   
+[*]  
+
+\centered *********
+
+**[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.**
+
+\centered **EXHIBIT B**
+
+\centered **Consumables List**
+
+[*] 
+ 

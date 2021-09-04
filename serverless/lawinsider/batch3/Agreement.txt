@@ -1,0 +1,39 @@
+\centered 
+
+\centered Agreement
+
+This agreement is made as of this date of [[Date 1: Date]] by and between [[the Company]] (“the Company”), and [[Zoom Executive]] (“Zoom Executive”). 
+
+This agreement specifies the entire agreement between the Company and the Zoom Executive regarding severance pay and acceleration of stock options. This agreement supercedes other agreements, if any, between the Company and the named Zoom Executive that relate to severance pay or acceleration of stock options.
+
+^In the event of a “change of control” (as defined in Section 5 below) or liquidation of the Company, all issued and outstanding stock options issued to the Zoom Executive after [[Date 2: Date]] will become immediately vested, with the right to be exercised at the option grant price upon change of control. 
+
+^The Zoom Executive will receive 6 months base salary as severance pay if:
+
+^^^The Zoom Executive is terminated without “cause” (as defined in Section 5 below) within 6 months after a change of control; or 
+
+^^^the Zoom Executive’s job responsibilities, reporting status, or compensation are materially diminished after a change of control *and* the Zoom Executive leaves the acquired Company or acquiring company, as applicable, within 6 months after the change of control; or 
+
+^^^the Company is liquidated.
+
+^The Company and its successors have the right to terminate the Zoom Executive’s employment “at will.” In the event the Zoom Executive’s employment is terminated by the Company for any reason other than for cause, then (i) all outstanding stock options issued to the Zoom Executive after [[Date 2]] will become immediately vested and will be exercisable for up to 30 days after termination; and (ii) the Company will pay severance to the Zoom Executive in an amount equal to the greater of either a) 3 months base salary, or b) a number of weeks of base salary equal to the number of full years employed by the Company divided by 2. It is understood and agreed that no severance will be paid under this Section 3 of this agreement if severance is paid under Section 2 of this agreement.
+
+^As of the date hereof, Zoom Executive represents and confirms that since his or her date of hire there has been no material diminishment of his or her job responsibilities, reporting status, or compensation as contemplated in Section 2(ii) above.
+
+^For the purpose of this agreement, “cause” shall mean (i) dishonesty, illegal or unethical behavior or other willful behavior detrimental to the best interest of the Company or its subsidiaries; (ii) conduct by the Zoom Executive constituting an act of moral turpitude; (iii) willful disloyalty to the Company or its subsidiaries or refusal or failure of the Zoom Executive to obey the directions of the President or Board of Directors of the Company or its subsidiaries; (iv) incompetent performance or substantial or continuing inattention to or neglect of duties and responsibilities, provided that the Zoom Executive will be notified in writing of the deficiencies set forth in subsection (iv) and given a period of 60 days to correct them. For purposes hereof, “change of control" shall mean any of the following events occurring on or after [[Date 3: Date]]: (A) any merger, consolidation, share exchange, business combination or other similar transaction in which the shareholders of the Company immediately prior to such event would own less than [[Percentage 1: Number]]% of the surviving entity following the consummation thereof; (B) any sale, lease, exchange, transfer or other disposition of all or substantially all of the assets of the Company and its subsidiaries, taken as a whole, in a single transaction or series of related transactions; or (C) the acquisition by a person or entity, or any “group” (as such term is defined under Section 13(d) of the Securities Exchange Act of 1934) of beneficial ownership of [[Percentage 1]]% or more of the Company’s common stock whether by tender offer, exchange offer or otherwise.
+
+\centered [Signature Page Follows on Next Page]
+
+Agreed:
+
+[[Agreed Signatory Email: Identity | Signature]]
+__________________________________________
+{{Agreed Entity => By: [[Agreed Signatory First Name]] [[Agreed Signatory Last Name]]
+Title: [[Agreed Signatory Title]]}}
+
+[[Zoom Executive]]  Zoom Executive Name    [[Person 1 First Name]] [[Person 1 Last Name]]  President or Executive VP of Zoom and the Company
+
+[[Date 1]]    [[Date 1]]
+\centered Date      
+
+\centered Date

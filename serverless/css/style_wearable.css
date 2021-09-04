@@ -1,0 +1,210 @@
+/*=================
+   main divs
+*=================*/
+
+#channels {
+  display: flex;
+  flex-direction: column;
+  width: 13%;
+  height: 90%;
+}
+
+#plot {
+  width: 75%;
+  height: 95%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#right{
+  width: 10%;
+}
+
+
+/*=================
+   things in main
+*=================*/
+
+/* channels */
+
+.channel {
+  height: 33%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  margin-left: 18%;
+
+}
+
+.channel img{
+  margin-top: 20%;
+  width: 75%;
+}
+
+.channel-value {
+  width: 15%;
+  font-weight: 300;
+  margin-top: 80%;
+  margin-left: -20%;
+  color: white;
+}
+
+
+/* deltas */
+
+.deltas{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  height: 50%;
+  margin-right: 10%;
+  margin-top: 10%;
+}
+
+.delta input[type=text]{
+  padding: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  margin-left: 5px;
+}
+
+#delta-hr{
+  border: 1px solid #D60808;
+}
+
+#delta-flex{
+  border: 1px solid #23E300;
+}
+
+#delta-eda{
+  border: 1px solid #0077E3;
+}
+
+.delta-label{
+  display: flex;
+  margin-top: -15px;
+  margin-left: 75%;
+  color: white;
+  justify-content: space-around;
+  font-size: 8px;
+}
+
+
+/* buttons */
+
+.buttons-right {
+  /*margin-top: 100%;*/
+  width: 80%;
+  text-align: center;
+  height: 10%;
+}
+
+.buttons-right button{
+  width: 100%;
+  height: 100%;
+  margin: 5% 5% 5% 5%;
+  text-align: center;
+  background: transparent;
+  border: 1.5px solid white;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+
+#play-buttons{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 5%;
+}
+
+#play-buttons button{
+  width: 80%;
+  height: 100%;
+  margin: 0%;
+  padding: 5%;
+}
+
+#play-buttons img{
+  width: 75%;
+}
+
+
+/*plot stuff*/
+
+
+.domain{
+  fill:none;
+  stroke: #ffffff;
+}
+
+.tick line{
+  stroke: #ffffff;
+}
+
+.tick text{
+  fill: #ffffff;
+
+}
+
+.line-flex {
+  fill: none;
+  stroke: #0B6623;
+  stroke-width: 1px;
+}
+
+.line-hr {
+  fill: none;
+  stroke: #FF0000;
+  stroke-width: 1.5px;
+}
+.axis-hr text{
+  fill: #FF0000;
+}
+
+.line-eda {
+  fill: none;
+  stroke: #0000FF;
+  stroke-width: 1.5px;
+}
+.axis-eda text{
+  fill: #0000FF;
+}
+
+.circle-flex {
+  fill: #fff;
+  stroke: #0B6623;
+  stroke-width: 3px;
+}
+.circle-hr {
+  fill: #fff;
+  stroke: #FF0000;
+  stroke-width: 3px;
+}
+.circle-eda {
+  fill: #fff;
+  stroke: #0000FF;
+  stroke-width: 3px;
+}
+
+.line-wakeup {
+  fill: none;
+  stroke: rgba(0, 0, 0, 0.5);
+  stroke-width: 3px;
+  stroke-dasharray: 10,10;
+}
+
+.line-event {
+  fill: none;
+  stroke: rgba(0, 0, 0, 0.5);
+  stroke-width: 3px;
+  stroke-dasharray: 10,10;
+}
+
+.rect-calibration {
+  fill: rgba(0, 0, 0, 0.2);
+  stroke: none;
+}

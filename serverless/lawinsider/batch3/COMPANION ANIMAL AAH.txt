@@ -1,0 +1,489 @@
+*** *  CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.**
+
+\centered **COMPANION [[Organization 1 Name]] AGREEMENT**
+
+This Agreement dated and effective as of [[Date 1: Date]] is made by and between **[[Organization 2 Name]]**, 235 East 42nd Street, [[Address 1: Address]] (hereinafter, “[[Organization 2 Name]]”) and **[[Organization 3 Name]]**, [[Address 2: Address]] (“MWI”).
+
+^ \centered 1. [[Organization 2 Name]] hereby agrees to supply MWI as a designated product supplier for the [[Organization 2 Name]] Products set forth on Exhibit A (the “Products”), to purchase from [[Organization 2 Name]] and to resell to certain selected Veterinary Hospitals serviced by MWI who are members of the [[Organization 4 Name]] arrangement and listed in Exhibit E hereto, subject to the following terms and conditions. 
+
+^ \centered 2. MWI recognizes and agrees to the following: 
+
+^^ \centered (a) [[Organization 2 Name]] has elected to work with MWI as a designated supplier to MWI serviced hospitals at the request of MWI. MWI agrees to work closely with [[Organization 2 Name]] to coordinate logistics for the supply of Products to such hospitals; 
+
+^^ \centered (b) [[Organization 2 Name]] intends to sell to MWI as the logistics supplier for the hospitals. MWI understands and agrees that [[Organization 2 Name]] has, and may in the future, run promotions and other activities that would be seriously prejudiced if MWI resells the Products to distributors or veterinarians who will resell the Products as a distributor. Incentive payments under Exhibit D hereto will only be paid by [[Organization 2 Name]] to MWI for Sales to the hospitals listed on Exhibit B below or such customers who are added to Exhibit B by mutual agreement of [[Organization 2 Name]] and MWI. 
+
+^ \centered 3. MWI agrees to: 
+
+^^ \centered (a) use its reasonable best efforts to sell the Products by focusing its primary effort at reselling to veterinary hospitals associated with MWI and to pet owner pharmaceutical customers of MWI serviced hospitals; 
+
+^^ \centered (b) store and handle its inventory of Products under conditions that will ensure that such Products retain their potency, purity, quality, and identity; 
+
+^^ \centered (c) accept shipments from [[Organization 2 Name]] of Product at MWI 12 warehouse locations and provide all appropriate shipment and delivery options to the accounts serviced by MWI under this Agreement; 
+
+^^ \centered (d) not sell the Products to distributors, manufacturers or to veterinarians who will resell any [[Organization 2 Name]] Products outside an established veterinary/client/patient relationship, nor shall MWI sell the Products through brokers or non-employee agents; 
+
+^^ \centered (e) set its resale prices for the Products independently and at its sole discretion; 
+
+^^ \centered (f) provide [[Organization 2 Name]] a projected monthly purchase schedule by the end of the second week of each month;   
+
+^^ \centered (g) cooperate fully with [[Organization 2 Name]] by actively participating in such strategy sessions as [[Organization 2 Name]] reasonably may require, for the purpose of developing programs to increase use of the Products; and to cooperate fully with [[Organization 2 Name]] in implementing all promotions and Sales campaigns for the Products; 
+
+^^ \centered (h) distribute the Products only under the labeling provided by [[Organization 2 Name]]; prescribe, recommend, suggest, and advertise each Product for use only under the conditions stated in the labeling provided by [[Organization 2 Name]]; and observe all federal, state, and local laws governing the distribution of animal drugs. In the case of Products bearing the legend, “CAUTION: FEDERAL LAW RESTRICTS THIS DRUG TO USE BY OR ON THE ORDER OF A LICENSED VETERINARIAN,” or any similar legend, sell such Products only to or on the order of a licensed veterinarian for use in the course of his or her professional practice or to another person or entity regularly and lawfully engaged in the use, distribution or dispensing of such legend drugs; 
+
+^^ \centered (i) MWI agrees that credit limits established by [[Organization 2 Name]] shall be subject to change by [[Organization 2 Name]] in its sole discretion and that no shipments will be made to MWI in excess of the established credit limits; 
+
+^^ \centered (j) take no action, whether or not identified above, that would harm the goodwill or name of [[Organization 2 Name]], or damage the interests of [[Organization 2 Name]] or the Products; 
+
+^^ \centered (k) MWI shall immediately notify [[Organization 2 Name]] in the event MWI obtains information indicating that any of the Products may have to be recalled either by virtue of applicable law or regulation or good business judgment. [[Organization 2 Name]] shall control all efforts necessary to conduct any such recall. MWI shall cooperate with [[Organization 2 Name]], at [[Organization 2 Name]]’s expense, and MWI agrees to maintain adequate records to conduct such recall, including the name, address and Product purchases of all purchasers of [[Organization 2 Name]] Products; 
+
+^^ \centered (l) Make payment to [[Organization 2 Name]] for all product purchased from [[Organization 2 Name]] /**/; 
+
+^^ \centered (m) Provide to [[Organization 2 Name]] by the close of business on the last business day of each [[Organization 2 Name]] Accounting Period (as set forth in Exhibit F hereto) an inventory report covering all inventory purchased from [[Organization 2 Name]]. 
+
+^^ \centered (n) Provide [[Organization 2 Name]] with a monthly accounting of Sales via EDI for purposes of allowing [[Organization 2 Name]] proper credit to its sale professionals and provide to Covansys by the close of business on the last day of each [[Organization 2 Name]] Accounting Period an inventory report covering all Product inventory purchased from [[Organization 2 Name]] and setting forth in dollars at MWI’s acquisition cost from [[Organization 2 Name]] the amount of inventory by Product. MWI agrees that [[Organization 2 Name]] shall have the right, upon reasonable advance notice and during business hours to audit inventory in the possession of MWI to confirm compliance with this paragraph 4(n) and to confirm the accuracy of the data contained in the report. 
+
+^^ \centered (o) Provide to Covansys its Health Industry Number, Customer Health Industry Number, [[Organization 2 Name]] Product number, transaction date, ship to zip code, number of units and price with respect to each sale of Product, and unit inventories on each [[Organization 2 Name]] Product sku that MWI sells. 
+
+^^ \centered (p) MWI will also provide to [[Organization 2 Name]] the information, services and opportunities set forth in Exhibit B hereto. MWI represents and warrants to [[Organization 2 Name]] that it will only provide data to [[Organization 2 Name]], including specific patient and animal owner information that is allowable by law.   
+
+^ \centered 4. [[Organization 2 Name]] shall: 
+
+^^ \centered (a) sell the Products to MWI at the prices provided for in Exhibit A. [[Organization 2 Name]] shall have the unrestricted right to revise the prices, terms and conditions of the Price List, and to add or delete Products or package sizes, at anytime, and the revisions shall be effective on all orders submitted after the effective date of the price revisions. In all cases of orders received for other than immediate shipment, the price for the Products shall be that in effect at the time of shipment. Nothing herein shall prohibit [[Organization 2 Name]] from raising or amending prices for Products. [[Organization 2 Name]] agrees to provide MWI /**/ notice of any price increases. [[Organization 2 Name]] shall be free to limit Sales of Products to MWI in advance of any price increases; 
+
+^^ \centered (b) Compensate MWI in accordance with Exhibit D hereto; 
+
+^^ \centered (c) allow MWI credit on prepaid returns in accordance with [[Organization 2 Name]]’s Outdated Products Policy which is in effect at the time; 
+
+^ \centered 5. Nothing in this Agreement shall be deemed to limit [[Organization 2 Name]]’s ability to sell Products to any other party. 
+
+^ \centered 6. All purchases by MWI pursuant to this Agreement shall be in accordance with the terms of [[Organization 2 Name]]’s Pricing and Shipping Policies, as may be amended by [[Organization 2 Name]] from time to time. 
+
+^ \centered 7. The following standard conditions shall apply to all Sales under this Agreement: 
+
+^^ \centered (a) all orders are subject to acceptance by [[Organization 2 Name]]’s Home Office. Title to the goods shall pass to MWI once they have been properly delivered to the address designated by MWI. Products requiring temperature control will be shipped F.O.B. destination; 
+
+^^ \centered (b) any tax or other charge upon the sale and/or shipment of the goods now or hereafter imposed by federal, state or municipal authorities (other than [[Organization 2 Name]]’S income taxes) shall be paid by MWI. In the event that the price of any article includes transportation charges, any increase or decrease in transportation charges shall be for MWI’s account; 
+
+^^ \centered (c) EXCEPT AS SET FORTH IN THIS AGREEMENT, OR IN THE LABELING OF THE PRODUCTS SOLD HEREUNDER, [[Organization 2 Name]] MAKES NO EXPRESS OR IMPLIED WARRANTIES WITH RESPECT TO THE PRODUCTS; 
+
+^^ \centered (d) [[Organization 2 Name]] shall defend, indemnify, and hold MWI harmless from all liabilities, claims, demands, damages, costs and expenses, or money judgments incurred by MWI or rendered against it resulting from (a) any breach by [[Organization 2 Name]] of this Agreement, (b) third party claims or actions for personal injury or property damage which arise out of the distribution or sale of [[Organization 2 Name]] products or the failure to warn, except to the extent that such personal injury or property damage arises out of the negligence or willful misconduct of MWI, and (c) any claim that the Products, as sold by [[Organization 2 Name]], were defective, or (d) any claim that a Product or its associated labeling or advertising prepared by [[Organization 2 Name]] infringes any patent, trademark, trademark, copyright or other intellectual property right of any third party. [[Organization 2 Name]] shall assume the defense of each such claim promptly after written notice from MWI. In the event [[Organization 2 Name]] is found by any court of competent jurisdiction to be liable for any claim based in products liability, then [[Organization 2 Name]] shall reimburse MWI’s reasonable legal fees incurred in the course of cooperating with [[Organization 2 Name]]’s defense. To be covered by this defense and indemnity, MWI must: promptly notify [[Organization 2 Name]] of any such claim; allow [[Organization 2 Name]] to fully control the defense and/or resolution of the claim; and cooperate fully with [[Organization 2 Name]] in the matter. This defense, indemnity and payment for legal fees shall not apply to claims alleging: MWI alteration, negligent handling or improper storage of the Products; sale of outdated Products; sale or recommendation of the Products for uses or in a manner not set forth in either the labeling supplied by [[Organization 2 Name]] or as otherwise specified by [[Organization 2 Name]] in writing; or sale of the Products after receipt of written notice from [[Organization 2 Name]] that such Sales should be halted;   
+
+^^ \centered (e) in no event shall either party be liable to the other for special, collateral, incidental, or consequential damages in connection with or arising out of the purchase, resale, or use of the Products. Except as provided under subparagraph 7(d), above, total damages recoverable against [[Organization 2 Name]] by MWI shall be exclusively limited to the purchase price of the Products with respect to which damages are claimed; 
+
+^^ \centered (f) failure of [[Organization 2 Name]] to make or of MWI to take, when due, any delivery (or portion thereof) pursuant to an order hereunder, if occasioned by any circumstance or condition beyond the control of the party so failing, shall not subject the failing party to any liability to the other and, at the option of either party, that order or portion thereof not delivered may be canceled; 
+
+^^ \centered (g) acceptance of MWI’s order by [[Organization 2 Name]] is expressly made conditional upon the MWI’s acceptance of the conditions of sale as set forth herein, and the prices, terms and conditions of the Price List then in effect, notwithstanding acknowledgment or receipt of MWI’s purchase order containing additional or different provisions, or conflicting oral representations by any agent of [[Organization 2 Name]]. 
+
+^^ \centered (h) All orders to MWI will receive free shipping regardless of order size. 
+
+^^ \centered (i) Payment Due Date: /**/. Payment Discount: /**/. 
+
+^ \centered 8. This Agreement shall not be binding upon [[Organization 2 Name]] until it is approved by [[Organization 2 Name]] at its [[Address 3: Address]] headquarters. 
+
+^ \centered 9. This Agreement shall be effective as of the date first written above and shall continue in force (hereinafter, the “Contract Term”) until [[Date 2: Date]]. Either party may terminate this agreement prior to the expiration date of the Contract Term (i) with or without cause, upon thirty (30) days written notice to the other party, or (ii) immediately upon written notice, in the event of a material breach by the other party. Notwithstanding the above, [[Organization 2 Name]] may terminate this Agreement at any time on 15 days written notice to MWI in the event that [[Organization 2 Name]] determines, in its sole discretion, that MWI has failed to comply with one or more of the terms and conditions set forth in paragraph 3 above. In addition, at its election, [[Organization 2 Name]] may terminate this Agreement, upon thirty (30) days written notice to MWI, in the event that MWI fails to meet the level of Sales identified in Chart B of Exhibit D for two consecutive months. 
+
+^ \centered 10. MWI and [[Organization 2 Name]] acknowledge that in the performance of their duties hereunder MWI and [[Organization 2 Name]] may obtain access to “Confidential Information” (as defined below) of each other. MWI and [[Organization 2 Name]] agree that during the term of this Agreement and for a period of three (3) years after the termination of this Agreement, unless specifically permitted in writing by the other party, to (a) retain in confidence and not disclose to any third party and (b) use only for the purpose of carrying out their duties hereunder, any such Confidential Information. As used herein the term “Confidential Information” means any information, or data, whether of a business or scientific nature and whether in written, oral or tangible form, relating to [[Organization 2 Name]]’s and MWI’s business or potential business or its research and development activities, not generally available to or known to the public, and not otherwise known to the receiving party, that is disclosed to or learned by the other party pursuant hereto. Upon completion of the work provided for hereunder or other termination of this Agreement each party will return to the other party any documents, or copies thereof, or any product samples, containing or constituting Confidential Information disclosed to or generated by either party in connection with this Agreement. 
+
+^ \centered 11. This Agreement shall be governed by the laws of the State of [[Address 4: Address]] contracts to be fully performed therein. This Agreement is not assignable without the express written consent of [[Organization 2 Name]], and may be modified or amended only in writing signed by the party to be bound.   
+
+^ \centered 12. This Agreement and documents referred to herein embody the entire understanding between the parties hereto, will supersede prior agreements relating to the Products, and may be modified only in writing and signed by the parties to be bound. No activities conducted pursuant to this Agreement or related thereto, including but not limited to the future planning activities of the parties, shall be deemed to give rise to any obligations on the part of either party other than as expressly provided for herein. 
+
+IN WITNESS WHEREOF, intending to be legally bound, the parties have executed this Agreement.
+
+[[Organization 3 Name]]      [[Organization 2 Name]]
+
+[[[[Organization 3 Name]]      [[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]      [[Organization 2 Name]] Entity => By: [[[[Organization 3 Name]]      [[Organization 2 Name]] Signatory First Name]] [[[[Organization 3 Name]]      [[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]]      [[Organization 2 Name]] Signatory Title]]}}
+
+U.S. Operations, [[Organization 2 Name]]
+
+Date:   [[Date 3: Date]]      Date:   3/24/09
+
+\centered **EXHIBIT A** 
+
+\centered **Products**
+
+**Biologicals**
+
+**Product No.**      \centered **Product Name**      \centered **Rx**      \centered **Pack Size**      \centered **Saleable Unit**
+**Canine**
+
+^DS BRONCHICINE CAe               
+
+^DS BRONCHICINE CAe (50 x 1ds)               
+
+^DS VANGUARD-B               
+
+^DS VANGUARD DAP               
+
+^DS VANGUARD DAMP               
+
+^DS VANGUARD CV               
+
+^DS VANGUARD PLUS CPV               
+
+^DS VANGUARD PLUS CPV               
+
+^DS VANGUARD PLUS 5               
+
+^DS VANGUARD PLUS 5/CV               
+
+^DS VANGUARD L 4               
+
+^DS VANGUARD PLUS 5 L4               
+
+^DS VANGUARD PLUS 5 L4-CV               
+
+^DS PORPHYROMONAS DENTICANIS-GULAE-SALIVOSA**               
+
+1DS CANINE GnRF IMMUNOTHERAPY**               
+**Rabies**
+
+^DS DEFENSOR 1               
+
+^DS DEFENSOR 3 (CALIF)               
+
+^DS DEFENSOR 3 (CALIF)               
+
+^DS DEFENSOR 3               
+
+^DS DEFENSOR 3               
+**Feline**
+
+^DS FELOCELL 4               
+
+^DS FELOCELL 3               
+
+^DS FELOCELL FVR C Ch               
+
+^DS FELOCELL FVR C               
+
+^DS FELOCELL P               
+
+^DS FELOCELL FVR C (IN)               
+
+^DS LEUKOCELL 2               
+
+^DS [[Organization 5 Name]] (IN)               
+**Biological Accessories**
+
+NEOGEN SLIP TIP SYRINGE 22 ga., 0.75”                 
+
+NEOGEN LUER LOCK SYRINGE 22 ga., 0.75”                 
+
+RABIES TAGS                 
+
+**Product No.**      \centered **Product Name**      \centered **Rx**      \centered **Pack Size**      \centered **Saleable Unit**
+**Anti-Infectives**
+
+ALBON TABLETS 125 MG      **Rx**      \centered 200 CT     
+
+ALBON TABLETS 250 MG      **Rx**      \centered 500 CT     
+
+ALBON TABLETS 500 MG      **Rx**      \centered 100 CT     
+
+ALBON TABLETS 500 MG      **Rx**      \centered 500 CT     
+
+ALBON ORAL SUSP [[Percentage 1: Number]]%      **Rx**      \centered 2 OZ     
+
+ALBON ORAL SUSP [[Percentage 1]]%      **Rx**      \centered 16 OZ     
+
+AMOXI-DROP 50MG      **Rx**      \centered 15 ML     
+
+AMOXI-DROP 50MG      **Rx**      \centered 30 ML     
+
+AMOXI-TABS 50 MG      **Rx**      \centered 500 CT     
+
+AMOXI-TABS 100 MG      **Rx**      \centered 500 CT     
+
+AMOXI-TABS 200 MG      **Rx**      \centered 500 CT     
+
+AMOXI-TABS 150 MG      **Rx**      \centered 500 CT     
+
+AMOXI-TABS 400 MG      **Rx**      \centered 250 CT     
+
+**DELTA ALBAPLEX TABLETS 60 MG**      **Rx**      \centered **500 CT**     
+
+**DELTA ALBAPLEX 3X TABLETS 180 MG**      **Rx**      \centered **250 CT**     
+
+LINCOCIN STERILE SOLUTION 100 MG      **Rx**      \centered 20 ML     
+
+LINCOCIN TABS 100 MG      **Rx**      \centered 500 CT     
+
+LINCOCIN TABS 200 MG      **Rx**      \centered 250 CT     
+
+LINCOCIN TABS 500 MG      **Rx**      \centered 100 CT     
+
+LINCOCIN AQUADROPS      **Rx**      \centered 20 ML     
+
+PRIMOR TABLET 120 MG      **Rx**      \centered 100 CT     
+
+PRIMOR TABLET 120 MG      **Rx**      \centered 1000 CT     
+
+PRIMOR TABLET 240 MG      **Rx**      \centered 100 CT     
+
+PRIMOR TABLET 240 MG      **Rx**      \centered 500 CT     
+
+PRIMOR TABLET 600 MG      **Rx**      \centered 100 CT     
+
+PRIMOR TABLET 600 MG      **Rx**      \centered 250 CT     
+
+PRIMOR TABLET 1200 MG      **Rx**      \centered 100 CT     
+
+**Topical Antibiotics/Other Pharmaceuticals**
+
+**DERMA-CLENS**            \centered 1 OZ     
+
+MITABAN      **Rx**      \centered 10.6 ML     
+
+MITABAN      **Rx**      \centered 10.6 ML      \centered 1-5 bottles
+
+MITA CLEAR            \centered 12 ML     
+
+MITA CLEAR            \centered 22 ML     
+
+**NEO-PREDEF w/TETRACAINE TOPICAL POWDER**      **Rx**      \centered 15 GM     
+
+**OTI-CLENS**            \centered 4 OZ     
+
+PAN OTIC            \centered 2 OZ     
+
+PAN OTIC            \centered 12 OZ     
+
+**TRI-OPTIC-P OPHTHALMIC**      **Rx**      \centered **1/80Z**     
+
+**TRI-OPTIC-S OPHTHALMIC**      **Rx**      \centered **1/80Z**     
+
+**TRITOP**      **Rx**      \centered 10 GM     
+
+TRITOP (Bulk Pack)      **Rx**      \centered 144x 10GM     
+
+**Product No.**      \centered **Product Name**      \centered **Rx**      \centered **Pack Size**      \centered **Saleable Unit**
+**Sedatives**
+
+**Anipryl**
+
+ANIPRYL 2 MG (PURPLE)      **Rx**      \centered 30 CT     
+
+ANIPRYL 5 MG (RED)      **Rx**      \centered 30 CT     
+
+ANIPRYL 10 MG (BLUE)      **Rx**      \centered 30 CT     
+
+ANIPRYL 15 MG (ORANGE)      **Rx**      \centered 30 CT     
+
+ANIPRYL 30 MG (TEAL)      **Rx**      \centered 30 CT     
+
+**Parasiticides**
+
+REVOLUTION Cat 5.1-15 lbs (Blue)      **Rx**      \centered 6 PK     
+
+REVOLUTION Dog 5.1-10 lbs (Purple)      **Rx**      \centered 6 PK     
+
+REVOLUTION Dog 10.1-20 lbs (Brown)      **Rx**      \centered 6 PK     
+
+REVOLUTION Dog 20.1-40 lbs (Red)      **Rx**      \centered 6 PK     
+
+REVOLUTION Dog 40.1-85 lbs (Teal)      **Rx**      \centered 6 PK     
+
+REVOLUTION Dog 85.1-130 lbs (Plum)      **Rx**      \centered 6 PK     
+
+REVOLUTION Puppy/Kitten up to 5lbs (Mauve)      **Rx**      \centered 3 PK     
+
+REVOLUTION Cat 5.1-15 lbs (Blue)      **Rx**      \centered 3 PK     
+
+REVOLUTION Dog 5.1-10 lbs (Purple)      **Rx**      \centered 3 PK     
+
+REVOLUTION Dog 10.1-20 lbs (Brown)      **Rx**      \centered 3 PK     
+
+REVOLUTION Dog 20.1-40 lbs (Red)      **Rx**      \centered 3 PK     
+
+REVOLUTION Dog 40.1-85 lbs (Teal)      **Rx**      \centered 3 PK     
+
+REVOLUTION Dog 85.1-130 lbs (Plum)      **Rx**      \centered 3 PK     
+
+**Parasiticides**
+
+NEMEX 2 DISPLAY PACK            \centered 60 ML     
+
+NEMEX 2 BULK PACK            \centered 60 ML     
+
+NEMEX 2 SUSPENSION            \centered PINT     
+
+NEMEX SMALL DOG TABS            \centered 100 TABS     
+
+NEMEX LARGE DOG TABS            \centered 50 TABS     
+
+**Cestex**
+
+CESTEX TABLET 12.5 MG (Red)      **Rx**      \centered 100 CT     
+
+CESTEX TABLET 25 MG (Brown)      **Rx**      \centered 100 CT     
+
+CESTEX TABLET 50 MG (Gray)      **Rx**      \centered 50 CT     
+
+CESTEX TABLET 100 MG (Orange)      **Rx**      \centered 50 CT     
+
+CESTEX TABLET HALF BOTTLE 12.5 MG (Red)      **Rx**      \centered 50 CT     
+
+CESTEX TABLET HALF BOTTLE 25 MG (Brown)      **Rx**      \centered 50 CT     
+
+CESTEX TABLET HALF BOTTLE 50 MG (Gray)      **Rx**      \centered 25 CT     
+
+CESTEX TABLET HALF BOTTLE 100 MG (Orange)      **Rx**      \centered 25 CT     
+
+**Feline Vitamins**
+
+FAVOR WITH TAURINE            \centered 60 CT     
+
+**Product No.**      \centered **Product Name**      \centered **Rx**      \centered **Pack Size**      \centered **Saleable Unit**
+**Pet Tabs**
+
+PET TABS            \centered 60 CT     
+
+PET TABS            \centered 180 CT     
+
+PET TABS            \centered 500 CT     
+
+PET TABS PLUS            \centered 60 CT     
+
+PET TABS PLUS            \centered 180 CT     
+**Vi-Sorbits**
+
+VI-SORBITS NEW FORMULA            \centered 50 CT     
+
+VI-SORBTTS NEW FORMULA            \centered 200 CT     
+**Unipet Nutritabs**
+
+UNIPET NUTRITABS 300 CT *            \centered 300 CT     
+**Specialties**
+
+LAX-AIRE            \centered 3 OZ     
+
+PET CAL TABLETS            \centered 60 CT     
+
+PET CAL TABLETS            \centered 180 CT     
+
+PET-TINIC            \centered 1 OZ     
+
+PET-TINIC            \centered 4 OZ     
+**Other Canine and Feline Products**
+
+ELIMIN-ODOR PET ACCIDENT            \centered 8 OZ     
+
+GEN PURPOSE ELIMIN-ODOR            \centered 8 OZ     
+
+CANINE ELIMIN-ODOR            \centered 8 OZ     
+
+FELINE ELIMIN-ODOR            \centered 8 OZ     
+
+PET STAIN ELIMINATOR            \centered 8 OZ     
+
+PET HAIR ATTRACTOR REFILL            \centered 12 CT     
+
+PET HAIR ATTRACTOR            \centered 12 CT     
+
+PLASTIC DISPENSING BAGS                 
+
+*These products will be discontinued when inventory is depleted.
+
+\centered **Exhibit B**
+
+\centered [[Organization 4 Name]] Customer List of Customers for whom incentive Payments may be made under Exhibit D, Paragraph 2 includes /**/ Indentified [[Organization 4 Name]] Accounts and have been sent under separate cover.
+
+\centered **Exhibit C**
+
+\centered [[Organization 6 Name]] 2009 Agreement
+
+\centered Revolution Customers that receive Logistics Fee for Sales in Excess of /**/ and with
+
+\centered sales of /**/ or more count towards Incentive Payment
+
+\centered List of Approved Revolution Customers with Purchases Greater than /**/
+
+HIN   NARC      NARC Name   Parent NARC      Approved Company
+/**/   /**/      /**/   /**/      /**/
+
+\centered **Exhibit D** 
+
+\centered **Compensation**
+
+DEFINITIONS:
+
+“**Sales**” shall mean revenues generated by gross sales of Products less any legitimate returns.
+
+[[Organization 2 Name]] shall compensate MWI as follows:
+
+^^^ \centered 1. LOGISTICS PAYMENT: 
+
+In return for MWI receiving shipments at its 12 shipping locations and reshipping to customers as specified in paragraph 3 (c) above, [[Organization 2 Name]] shall pay MWI a logistics payment of /**/ of Sales out by MWI to the AAHA MARKETLink Customers listed in Exhibit E for all Sales out by MWI of [[Organization 2 Name]] CAD products listed in Exhibit A only, including Sales out of up to /**/ of Revolution per customer for all customers, and Sales out of Revolution in excess of /**/ per customer **only** for those customers on the list provided in Exhibit C hereto. This payment will be made once every /**/. For purposes of this paragraph 1 AAHA MARKETLink Customers shall mean all those customers that are AAHA member practices.
+
+^^^ \centered 2. INCENTIVE PAYMENT: 
+
+^^^^ \centered (a) [[Organization 2 Name]] will pay MWI an Incentive Payment as described in this paragraph 2 of Exhibit D. The Incentive Payment will be based on Sales out by MWI only to customers who are on Exhibit B hereto at the time this Agreement is first signed by [[Organization 2 Name]] and MWI. Sales to any Customers added to Exhibit B after the date of last signature hereto shall NOT qualify towards calculation of the incentive payment made under this paragraph 2. 
+
+^^^^ \centered (b) The Incentive Payment shall be calculated as follows: 
+
+^^^^^ \centered (i) /**/ 
+^^^^^ 
+^^^^^ \centered (ii) /**/ 
+^^^^^ 
+^^^ \centered 3. PRODUCT EXCLUSIONS: 
+
+^^^^ \centered (a) This Agreement covers [[Organization 2 Name]] products only, provided however, that Rimadyl, Clavamox, Simplicef, Dexdomitor, Antisedan, Doxirobe, Medrol, Antirobe, Temaril-P,Zeniquin Terramycin Opthalmic Ointment, Roccal D Plus, Depo Medrol 40mg/5ml and Solu Delta Cortef 100mg and 500mg /10ml are handled in separate agreements, and are not subject to the payment terms in this agreement. NO payment in any form shall be due to MWI for Sales by MWI of these products under this Agreement. 
+
+
+\centered **Chart A: Base Target VS. Target Milestones for 2009**
+
+\centered **SALES OUT TARGETS REPRESENTING GROWTH OVER BASE TARGET FOR 2009**
+**Category**      \centered **2008 Actual Sales**      \centered **2009 Base**   \centered **Target**      \centered **Tier 1 Sales Target /**/ Incentive Payment on incremental Sales above 2008 actual Sales if Sales Exceed:**      \centered **Tier 2 Sales Target /**/ Incentive Payment on Incremental Sales above**   \centered **Tier 1 Sales Target if Sales Exceed:**
+Base Products *      /**/      /**/      /**/      /**/
+^- Way Lepto      /**/      /**/      /**/      /**/
+Bronchicine      /**/      /**/      /**/      /**/
+Cerenia      /**/      /**/      /**/      /**/
+Convenia      /**/      /**/      /**/      /**/
+Feline Revolution      /**/      /**/      /**/      /**/
+**Totals**      /**/      /**/      /**/      /**/
+
+\centered **Chart B: Monthly Base Target Schedule**
+
+\centered **BASE TARGETS (Sales per month)**
+**Category**      \centered **March- [[Date 4: Date]]**      \centered **[[Date 5: Date]]**      \centered **[[Date 6: Date]]**      \centered **[[Date 7: Date]]**      \centered **[[Date 8: Date]]**      \centered **[[Date 9: Date]]**      \centered **[[Date 4]]**
+Base Products*      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+4-Way Lepto      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Bronchicine      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Cerenia      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Convenia      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Feline Revolution      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+**Totals**      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+
+\centered **Chart C: Monthly Tier 1 Target Schedule**
+
+\centered **TIER 1 TARGETS (Sales per month)**
+**Category**      \centered **March- [[Date 4]]**      \centered **[[Date 5]]**      \centered **[[Date 6]]**      \centered **[[Date 7]]**      \centered **[[Date 8]]**      \centered **[[Date 9]]**      \centered **[[Date 4]]**
+Base Products*      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+4-Way Lepto      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Bronchicine      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Cerenia      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Convenia      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Feline Revolution      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+**Totals**      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+
+\centered **Chart D: Monthly Tier 2 Target Schedule**
+
+\centered **TIER 2 TARGETS (Sales per month)**
+**Category**      \centered **March- [[Date 4]]**      \centered **[[Date 5]]**      \centered **[[Date 6]]**      \centered **[[Date 7]]**      \centered **[[Date 8]]**      \centered **[[Date 9]]**      \centered **[[Date 4]]**
+Base Products*      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+4-Way Lepto      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Bronchicine      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Cerenia      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Convenia      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+Feline Revolution      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+**Totals**      /**/      /**/      /**/      /**/      /**/      /**/      /**/
+
+*All Products listed on Exhibit A other than Bronchicine, Cerenia, Convenia, L4 Vaccines, and Feline Revolution.
+
+\centered **Exhibit E**
+
+/**/ Accounts for whom logistics payments will be made in accordance with Exhibit D, paragraph 1.

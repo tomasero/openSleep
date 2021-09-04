@@ -1,0 +1,88 @@
+\centered **CREDIT AGREEMENT FIRST AMENDMENT** 
+
+\centered Dated as of [[Date 1: Date]] 
+
+To the Lenders parties to the Credit Agreement and the Administrative Agent and Issuing Bank referred to below 
+
+Ladies and Gentlemen:   
+
+Reference is made to the Credit Agreement, dated as of [[Date 2: Date]] (the “**Credit Agreement**”), among [[Organization 1 Name]], an Indiana corporation, as the Borrower, the institutions from time to time parties hereto as Lenders, [[Organization 2 Name]], Inc, as Administrative Agent and as Issuing Bank, and [[Organization 3 Name]], as Paying Agent. Capitalized terms used herein and not otherwise defined herein have the meanings given such terms in the Credit Agreement. 
+
+The Borrower hereby requests that the Credit Agreement be amended as provided below. 
+
+Section 1. Credit Agreement Amendment. The parties agree that, subject to the satisfaction of the conditions precedent to effectiveness set forth in Section 2 below: 
+
+^^The Credit Agreement is hereby amended by deleting Exhibit A and substituting therefor Exhibit A attached hereto.
+
+Section 2. Conditions to Effectiveness. Section 1 of this amendment (this “**Amendment**”) shall be effective (the “**Effective Date**”) as of the date hereof when and if:
+
+^^^the Borrower and each Lender shall have executed and delivered to the Administrative Agent executed counterparts of this Amendment; (ii) the Administrative Agent shall have received one or more counterparts of an amendment to the Fee Letter, dated the date hereof (the “**Fee Letter Amendment**”), duly executed by the Borrower and CUSA; (iii) the Administrative Agent shall have received documents and certificates relating to (a) the organization, existence and good standing of the Borrower, (b) the authorization of the execution, delivery and performance by the Borrower of this Amendment, the Fee Letter Amendment, the borrowing of Loans under the Credit Agreement, as amended hereby, and the issuance and modification of the Letter of Credit for the account of the Borrower under the Credit Agreement, as amended hereby, and (c) the incumbency of the persons executing this Amendment and the Fee Letter Amendment on behalf of the Borrower;
+
+^^^the Administrative Agent shall have received favorable written opinions (addressed to the Administrative Agent, the Issuing Bank and the Lenders and dated the Effective Date) of (i) [[Organization 4 Name]] LLP, special counsel to the Borrower and (ii) [[Organization 5 Name]] LLP, special Indiana counsel to the Borrower, each in a form reasonably satisfactory to the Administrative Agent; and (v) the representations and warranties of the Borrower set forth in Section 3 below shall be true and correct on and as of the Effective Date as though made on and as of such date.
+
+Section 3. Representations and Warranties. The Borrower represents and warrants that (i) the representations and warranties contained in Article VI of the Credit Agreement, as amended hereby (with each reference therein to “this Agreement”, “hereunder” and words of like import referring to the Credit Agreement being deemed to be a reference to this Amendment and the Credit Agreement, as amended hereby), are true and correct in all material respects on and as of the date hereof as though made on and as of such date (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be required to be tru e and correct in all material respects only as of such specified date), and (ii) no event has occurred and is continuing, or would result from the execution and delivery of this Amendment or the Fee Letter Amendment, that constitutes a Default. 
+
+Section 4. Effect on the Credit Agreement. The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under the Credit Agreement, or constitute a waiver of any provision of the Credit Agreement. Except as expressly amended above, the Credit Agreement is and shall continue to be in full force and effect and is hereby in all respects ratified and confirmed. This Amendment shall be binding on the parties hereto and their respective successors and permitted assigns under the Credit Agreement.
+
+Section 5. Costs, Expenses and Taxes. The Borrower agrees to pay promptly all reasonable out-of-pocket costs and expenses of the Administrative Agent in connection with the preparation, execution and delivery of this Amendment and any other instruments and documents to be delivered hereunder, including, without limitation, the reasonable fees and out-of-pocket expenses of counsel for the Administrative Agent with respect thereto, and all reasonable costs and expenses (including, without limitation, reasonable out-of-pocket counsel fees and expenses), if any, in connection with the enforcement (whether through negotiations, legal proceedings or otherwise) of this Amendment or such other instruments and documents.
+
+Section 6. Miscellaneous. This Amendment shall constitute a Loan Document and shall be subject to the provisions of Articles IX, X, XII, XIII and XIV of the Credit Agreement, each of which is incorporated by reference herein, mutatis mutandis. 
+
+If you consent and agree to the foregoing, please evidence such consent and agreement by (i) executing and returning a counterpart to this Amendment by facsimile or electronic mail to [[Person 1 First Name]] [[Person 1 Last Name]] (fax no.: [[Phone 1]] / e-mail: [[Email 1]]), no later than 5:00 p.m., New York City time, on [[Date 1]], and (ii) executing and returning four original counterparts to this Amendment by overnight mail to [[Organization 6 Name]] LLP, [[Address 1: Address]], 10036, Attention: [[Person 1 First Name]] [[Person 1 Last Name]]. 
+
+\centered [Remainder of page intentionally left blank.]
+
+Very truly yours,
+
+[[Organization 1 Name]],
+as Borrower
+
+[[As Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Borrower Entity => By: [[As Borrower Signatory First Name]] [[As Borrower Signatory Last Name]]
+Title: [[As Borrower Signatory Title]]}}
+
+
+\centered ArvinMeritor - Credit Agreement First Amendment 
+
+The undersigned hereby consents and agrees to the foregoing: 
+
+[[Organization 2 Name]], INC.,
+as Administrative Agent and Issuing Bank
+
+[[As Administrative Agent and Issuing Bank Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Administrative Agent and Issuing Bank Entity => By: [[As Administrative Agent and Issuing Bank Signatory First Name]] [[As Administrative Agent and Issuing Bank Signatory Last Name]]
+Title: [[As Administrative Agent and Issuing Bank Signatory Title]]}}
+
+
+[[Organization 7 Name]], N.A.
+as Lender
+
+[[As Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Lender Entity => By: [[As Lender Signatory First Name]] [[As Lender Signatory Last Name]]
+Title: [[As Lender Signatory Title]]}}
+
+
+\centered ArvinMeritor - Credit Agreement First Amendment 
+
+\centered **EXHIBIT A TO** **CREDIT AGREEMENT**
+
+\centered **Commitments** 
+
+^During the period from and including the date of the Credit Agreement to but excluding [[Date 1]]. 
+
+**Lender**   **Commitment**
+[[Organization 7 Name]], N.A.   $[[USD Value 1: Number]]
+
+**Total**   **$[[USD Value 1]]**
+
+^During the period from and including [[Date 1]] to but excluding the Termination Date. 
+
+**Lender**   **Commitment***
+[[Organization 7 Name]], N.A.   $[[USD Value 2: Number]]
+
+**Total**   $[[USD Value 2]]
+
+* As such Commitment may be reduced from time to time or terminated in accordance with the terms of the Credit Agreement.

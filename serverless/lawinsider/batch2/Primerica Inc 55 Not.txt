@@ -1,0 +1,523 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **$[[USD Value 1: Number]]** 
+
+\centered **[[Percentage 1: Number]]% Notes due [[Date 1: Date]]** 
+
+\centered **Note Agreement** 
+
+\centered **Dated [[Date 2: Date]]** 
+
+\centered Table of Contents 
+
+**Section**      \centered **Heading**      \centered **Page**
+
+Section 1.      Authorization of Notes     
+
+Section 2.      Issuance of Notes     
+
+Section 3.      Closing Items     
+
+Section 4.      Representations and Warranties of the Company     
+
+Section 5.      Representations of the Purchaser     
+
+Section 6.      Information as to Company     
+
+Section 7.      Payment and Redemption of the Notes     
+
+Section 8.      Affirmative Covenants     
+
+Section 9.      Negative Covenants     
+
+Section 10.      Events of Default     
+
+Section 11.      Remedies on Default, Etc.     
+
+Section 12.      Registration; Exchange; Substitution of Notes     
+
+Section 13.      Payments on Notes     
+
+Section 14.      Survival of Representations and Warranties; Entire Agreement     
+
+Section 15.      Amendment and Waiver     
+
+Section 16.      Notices     
+
+Section 17.      Substitution of Purchaser; Assignment and Transfer     
+
+Section 18.      Miscellaneous     
+
+Section 19.      Confidential Information     
+
+\centered ii 
+
+Schedule A  Defined Terms 
+
+Exhibit 1  Form of [[Percentage 1]]% Note due [[Date 1]] 
+
+\centered iii 
+
+\centered [[Percentage 1]]% Notes due [[Date 1]] 
+
+\centered [[Date 2]] 
+
+[[Organization 2 Name]] 
+
+[[Address 1: Address]] 
+
+Ladies and Gentlemen: 
+
+[[Organization 1 Name]], a Delaware corporation (the “**Company**”), and each Subsidiary of the Company listed on the signature pages from time to time hereto with respect to Section 18.11 (the “**Subsidiary Guarantors**”), agrees with [[Organization 2 Name]], a Georgia corporation (the “**Purchaser**””), as follows: 
+
+^Authorization of Notes. 
+
+The Company has authorized the issuance of $[[USD Value 1]] aggregate principal amount of its [[Percentage 1]]% Notes due [[Date 1]] (the “**Notes**”, such term to include any such notes issued in substitution therefor pursuant to Section 12). The Notes shall be substantially in the form set out in Exhibit 1. Certain capitalized and other terms used in this Agreement are defined in Schedule A; and references to a “Schedule” or an “Exhibit” are, unless otherwise specified, to a Schedule or an Exhibit attached to this Agreement. 
+
+^Issuance of Notes. 
+
+Subject to the terms and conditions of the Exchange and Transfer Agreement, dated as of [[Date 3: Date]], by and between the Company and the Purchaser (the “**Exchange Agreement**”), the Company will issue the Notes to the Purchaser pursuant to Section 1(b) of the Exchange Agreement. 
+
+^Closing Items. 
+
+Prior to or as of the date of original issuance of the Notes (the “**Issuance Date**”), the following closing conditions shall be satisfied: 
+
+^Secretary’s Certificate**.** The Company shall have delivered to the Purchaser a certificate of its Secretary or Assistant Secretary, dated as of the Issuance Date, certifying as to the board resolutions and other corporate proceedings relating to the authorization, execution and delivery of the Notes and this Agreement. 
+
+^Opinions of Counsel**.** The Purchaser shall have received opinions in form and substance reasonably satisfactory to the Purchaser, dated as of the Issuance Date, from [[Organization 3 Name]] LLP, covering such matters as reasonably requested by the Purchaser. 
+
+^Representations and Warranties of the Company. 
+
+On the date of this Agreement, the Company represents and warrants to the Purchaser that, after giving effect to the Transactions (as defined in the Company’s registration statement on Form S-1 (No. 333-162918) filed with the SEC (the “**Registration Statement**”)): 
+
+^Organization; Power and Authority**.** The Company is a corporation duly organized, validly existing and in good standing under the laws of its jurisdiction of incorporation, and is duly qualified as a foreign corporation and is in good standing in each jurisdiction in which such qualification is required by law, other than those jurisdictions as to which the failure to be so qualified or in good standing could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. The Company has the corporate power and authority to own or hold under lease the properties it purports to own or hold under lease, to transact the business it transacts and proposes to transact, to execute and deliver this Agreement and the Notes and to perform the provisions hereof and thereof. 
+
+^Authorization, Etc**.** This Agreement and the Notes have been duly authorized by all necessary corporate action on the part of the Company and this Agreement constitutes, and upon execution and delivery thereof each Note will constitute, a legal, valid and binding obligation of the Company enforceable against the Company in accordance with its terms, except as such enforceability may be limited by (i) applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and (ii) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law). 
+
+^Organization and Ownership of Shares of Subsidiaries. (a) Exhibit 21.1 to the Registration Statement contains a complete and correct list of the Company’s Significant Subsidiaries, showing, as to each such Subsidiary, the correct name thereof. The Company owns, directly or indirectly, [[Percentage 2: Number]]% of the shares of each class of capital stock or similar equity interests outstanding of each such Subsidiary. 
+
+^^All of the outstanding shares of capital stock or similar equity interests of each Subsidiary shown in Exhibit 21.1 to the Registration Statement as being owned by the Company and its Subsidiaries have been validly issued, are fully paid and nonassessable and are owned by the Company or another Subsidiary free and clear of any Lien (except as otherwise would not reasonably be expected to have a Material Adverse Effect). 
+
+^^Each Subsidiary identified in Exhibit 21.1 to the Registration Statement is a corporation or other legal entity duly organized, validly existing and in good standing under the laws of its jurisdiction of organization, and is duly qualified as a foreign corporation or other legal entity and is in good standing in each jurisdiction in which such qualification is required by law, other than those jurisdictions as to which the failure to be so qualified or in good standing could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. Each such Subsidiary has the corporate or other power and authority to own or hold under lease the properties it purports to own or hold under lease and to transact the business it transacts and proposes to transact. 
+
+^Compliance with Laws, Other Instruments, Etc. The execution, delivery and performance by the Company of this Agreement and the Notes will not (i) contravene, result in any breach of, or constitute a default under, any corporate charter or by-laws of the Company or any Subsidiary, (ii) contravene, result in any breach of, or constitute a default under, any indenture, mortgage, deed of trust, loan, purchase or credit agreement, lease, or any other agreement or instrument to which the Company or any Subsidiary is bound or by which the Company or any Subsidiary or any of their respective properties may be bound or affected, except for any contravention, breach or default as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (iii) conflict with or result in a breach of any of the terms, conditions or provisions of any order, judgment, decree, or ruling of any court, arbitrator or Governmental Authority applicable to the Company or any Subsidiary or (iv) violate any provision of any statute or other rule or regulation of any Governmental Authority applicable to the Company or any Subsidiary. 
+
+^Governmental Authorizations, Etc. No consent, approval or authorization of, or registration, filing or declaration with, any Governmental Authority is required in connection with the execution, delivery or performance by the Company of this Agreement or the Notes. 
+
+^Litigation; Observance of Agreements, Statutes and Orders. Neither the Company nor any Subsidiary is in default under any term of any agreement or instrument to which it is a party or by which it is bound, or any order, judgment, decree or ruling of any court, arbitrator or Governmental Authority or is in violation of any applicable law, ordinance, rule or regulation (including Environmental Laws or the USA Patriot Act) of any Governmental Authority, which default or violation, individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect. 
+
+^Private Offering by the Company. Neither the Company nor anyone acting on its behalf (excluding, however, the Purchaser and its Affiliates other than the Company and its Subsidiaries) has offered the Notes or any similar securities for sale to, or solicited any offer to buy any of the same from, or otherwise approached or negotiated in respect thereof with, any person other than the Purchaser. Neither the Company nor anyone acting on its behalf has taken, or will take, any action that would subject the issuance or sale of the Notes to the registration requirements of Section 5 of the Securities Act or to the registration requirements of any securities or blue sky laws of any applicable jurisdiction. 
+
+^Representations of the Purchaser. 
+
+^Acquisition for Investment. The Purchaser represents that it is acquiring the Notes for its own account and not with a view to the distribution thereof, *provided* that the disposition of the Purchaser of its property shall at all times be within such Purchaser’s control. The Purchaser understands that the Notes have not been registered under the Securities Act and may be resold only if registered pursuant to the provisions of the Securities Act or if an exemption from registration is available, except under circumstances where neither such registration nor such an exemption is required by law, and that the Company is not required to register the Notes. 
+
+^Information as to Company. 
+
+^Financial and Business Information. So long as any of the Notes are outstanding, the Company shall deliver to each holder of Notes that is not an Affiliate of the Company (“**Non-Affiliate Holder**”) and is an Institutional Investor: 
+
+^^*Quarterly Statements*  within 60 days (or such shorter period as is 15 days greater than the period applicable to the filing of the Company’s Quarterly Report on Form 10-Q (the “**Form 10-Q**”) with the SEC, to the extent the Company is required to file a Form 10-Q) after the end of each quarterly fiscal period in each fiscal year of the Company, regardless of whether the Company is subject to the filing requirements thereof (other than (i) the quarterly period ended [[Date 3]] for which the 60-day period above shall be extended until the date the Form 10-Q for such period is actually filed and (ii) the last quarterly fiscal period of each such fiscal year, for which no quarterly statement shall be required), duplicate copies of, 
+
+^^^a consolidated balance sheet of the Company and its Subsidiaries as at the end of such quarter, and 
+
+^^^consolidated statements of income, changes in shareholders’ equity and cash flows of the Company and its Subsidiaries, for such quarter and (in the case of the second and third quarters) for the portion of the fiscal year ending with such quarter, 
+
+setting forth in each case in comparative form the figures for the corresponding periods in the previous fiscal year, all in reasonable detail, prepared in accordance with GAAP applicable to quarterly financial statements generally, and certified by a Senior Financial Officer as fairly presenting, in all material respects, the financial position of the companies being reported on and their results of operations and cash flows, subject to changes resulting from year-end adjustments, *provided* that delivery within the time period specified above of copies of the Company’s Form 10-Q prepared in compliance with the requirements therefor and filed with the SEC shall be deemed to satisfy the requirements of this Section 6.1(a), *provided*, *further*, that the Company shall be deemed to have made such delivery of such Form 10-Q if it shall have timely made such Form 10-Q available on “EDGAR” or on the Company’s home page on the worldwide web (at the date of this Agreement located at: http//www.primerica.com) (such availability being referred to as “**Electronic Delivery**”); 
+
+^^*Annual Statements*  within 105 days (or such shorter period as is 15 days greater than the period applicable to the filing of the Company’s Annual Report on Form 10-K (the “**Form 10-K**”) with the SEC, to the extent the Company is required to file a Form 10-K) after the end of each fiscal year of the Company, regardless of whether the Company is subject to the filing requirements thereof, duplicate copies of 
+
+^^^a consolidated balance sheet of the Company and its Subsidiaries as at the end of such year, and 
+
+^^^consolidated statements of income, changes in shareholders’ equity and cash flows of the Company and its Subsidiaries for such year, 
+
+setting forth in each case in comparative form the figures for the previous fiscal year, all in reasonable detail, prepared in accordance with GAAP, and accompanied by an opinion thereon of independent public accountants of recognized national standing, which opinion shall state that such financial statements present fairly, in all material respects, the financial position of the companies being reported upon and their results of operations and cash flows and have been prepared in conformity with GAAP, and that the examination of such accountants in connection with such financial statements has been made in accordance with generally accepted auditing standards, and that such audit provides a reasonable basis for such opinion in the circumstances, *provided* that the delivery within the time period specified above of the Company’s Form 10-K for such fiscal year prepared in accordance with the requirements therefor and filed with the SEC shall be deemed to satisfy the requirements of this Section 6.1(b), *provided*, *further*, that the Company shall be deemed to have made such delivery of such Form 10-K if it shall have timely made Electronic Delivery thereof; 
+
+^^*SEC and Other Reports*  promptly upon their becoming available (with Electronic Delivery satisfying this requirement), one copy of (i) each financial statement, report, notice or proxy statement sent by the Company or any Subsidiary to its principal lending banks as a whole (excluding information sent to such banks in the ordinary course of administration of a bank facility, such as information relating to pricing and borrowing availability) or to its public securities holders generally, and (ii) each regular or periodic report, each registration statement (without exhibits), and each prospectus and all amendments thereto filed by the Company or any Subsidiary with the SEC and of all press releases and other statements made available generally by the Company or any Subsidiary to the public concerning developments that are Material; 
+
+^^*Notice of Default or Event of Default*  promptly, and in any event within five Business Days after a Responsible Officer becoming aware of the existence of any Default or Event of Default or that any holder of Notes has given any notice or taken any action in good faith with respect to a claimed default hereunder or that any Person has given any notice or taken any action in good faith with respect to a claimed Default of the type referred to in Section 10(d), a written notice specifying the nature and period of existence thereof and what action the Company is taking or proposes to take with respect thereto; 
+
+^^*Notices from Governmental Authority*  promptly, and in any event within 30 days of receipt thereof, copies of any notice to the Company or any Subsidiary from any Federal or state Governmental Authority relating to any order, ruling, statute or other law or regulation that could reasonably be expected to have a Material Adverse Effect; and 
+
+^^*Requested Information*  with reasonable promptness, such other data and information relating to the ability of the Company to perform its obligations hereunder and under the Notes as from time to time may be reasonably requested by any such holder of Notes (in a manner so as to not interfere with the normal business operations of the Company or any of its Subsidiaries). 
+
+^Officer’s Certificate. Each set of financial statements delivered to a holder of Notes pursuant to Section 6.1(a) or Section 6.1(b) shall be accompanied by a certificate of a Senior Financial Officer setting forth (which, in the case of Electronic Delivery of any such financial statements, shall be by separate delivery of such certificate to each holder of Notes that is a Non-Affiliate Holder and an Institutional Investor promptly following such Electronic Delivery) a statement that such Senior Financial Officer has reviewed the relevant terms hereof and has made, or caused to be made, under his or her supervision, a review of the transactions and conditions of the Company and its Subsidiaries from the beginning of the quarterly or annual period covered by the statements then being furnished to the date of the certificate and that such review shall not have disclosed the existence during such period of any condition or event that constitutes a Default or an Event of Default or, if any such condition or event existed or exists, specifying the nature and period of existence thereof and what action the Company shall have taken or proposes to take with respect thereto. 
+
+^Visitation. The Company shall permit the representatives of each holder of Notes that is a Non-Affiliate Holder and an Institutional Investor, if a Default or Event of Default then exists, at the expense of the Company and upon reasonable prior notice to the Company, to visit and inspect any of the offices or properties of the Company or any Subsidiary, to examine all their respective books of account, records, reports and other papers, to make copies and extracts therefrom, and to discuss their respective affairs, finances and accounts with their respective officers and independent public accountants (and by this provision the Company authorizes said accountants to discuss the affairs, finances and accounts of the Company and its Subsidiaries), all at such times and as often as may be reasonably requested (in a manner so as to not interfere with the normal business operations of the Company or any of its Subsidiaries). 
+
+^Limitation on Provision of Information to Competitors. Notwithstanding anything in this Agreement to the contrary, the Company shall not be required to provide to any Competitor information that the Company deems in its sole discretion to be competitively sensitive information. For the avoidance of doubt, to the extent any Competitor has any information or visitation rights pursuant to this Section 6, such rights shall be limited by the foregoing sentence. 
+
+^Payment and Redemption of the Notes. 
+
+^Maturity. As provided therein, the entire unpaid principal balance of the Notes shall be due and payable on the stated maturity date thereof. 
+
+^Optional Redemption. The Company may, at its option, upon notice as provided below, redeem at any time all, or from time to time any part of, the Notes, at [[Percentage 2]]% of the principal amount so redeemed. The Company will give each holder of Notes written notice of each optional redemption under this Section 7.2 not less than 30 days and not more than 60 days prior to the date fixed for such redemption; *provided*, that such notice may state that it is conditioned upon the occurrence of one or more events specified therein, in which case such notice shall be deemed to be automatically revoked by the Company if such condition is not satisfied. Each such notice shall specify the date fixed for redemption (which shall be a Business Day), the aggregate principal amount of the Notes to be redeemed on such date, the principal amount of each Note held by such holder to be redeemed (determined in accordance with Section 7.3), and the interest to be paid on the redemption date with respect to such principal amount being redeemed. 
+
+^Allocation of Partial Redemptions. In the case of each partial redemption of the Notes, the principal amount of the Notes to be redeemed shall be allocated among all of the Notes at the time outstanding in proportion, as nearly as practicable, to the respective unpaid principal amounts thereof not theretofore called for redemption. 
+
+^Maturity; Surrender, Etc. In the case of each redemption of Notes pursuant to this Section 7, the principal amount of each Note to be redeemed shall mature and become due and payable on the date fixed for such redemption (which shall be a Business Day), together with interest on such principal amount accrued to and excluding such date. From and after such date, unless the Company shall fail to pay such principal amount when so due and payable, as aforesaid, interest on such principal amount shall cease to accrue. Any Note paid or redeemed in full shall be surrendered to the Company and cancelled and shall not be reissued, and no Note shall be issued in lieu of any redeemed principal amount of any Note. Any Note redeemed in part shall be surrendered to the Company if the Company so requests, and the Company shall issue a new Note in principal amount equal to and in exchange for the unredeemed portion of the principal of the Note so surrendered. 
+
+^Change of Control. (a) In the event that a Change of Control (as defined below) shall occur, each holder of Notes, if such holder makes a timely election in accordance with the instructions determined by the Company pursuant to Section 7.5(c) hereof, shall have the right to require the Company to purchase such holder’s Notes at a price in cash equal to [[Percentage 3: Number]]% of the outstanding principal amount plus accrued and unpaid interest to and excluding the date of purchase, in accordance with Section 7.5(c) hereof. 
+
+^^As used herein, “**Change of Control**” means the occurrence of any of the following events: 
+
+^^^a majority of the members of the Company’s board of directors (other than vacant seats) are, at any time, neither (A) nominated by, or whose election was approved by, the board of directors of the Company nor (B) appointed by directors so nominated or elected; or 
+
+^^^the consummation of any transaction resulting in any person or entity (other than [[Organization 4 Name]], Warburg Pincus LLC or any of their respective Affiliates) becoming the beneficial owner, directly or indirectly, of more than [[Percentage 4: Number]]% of the voting power of the Company’s issued and outstanding voting securities. 
+
+^^Within 30 days following any Change of Control, the Company shall mail by first-class mail a notice (the “**Change of Control Notice**”) to each holder of the Notes, stating: 
+
+^^^that a Change of Control has occurred and that such holder of the Notes has the right to require the Company to purchase such holder’s Notes at a price in cash equal to [[Percentage 3]]% of the outstanding principal amount thereof plus accrued and unpaid interest to and excluding the date of purchase; 
+
+^^^a description of such Change of Control; 
+
+^^^the purchase date (which shall be no earlier than 30 days nor later than 60 days from the date the Change of Control Notice is mailed); and 
+
+^^^the instructions determined by the Company, consistent with this Section 7.5(c), that such holder must follow to exercise its rights pursuant to this Section 7.5(c). 
+
+^^Holders of the Notes electing to have their Notes purchased by the Company pursuant to this Section 7.5 must surrender such Notes to the Company in accordance with the instructions determined by the Company pursuant to Section 7.5(c) hereof in order to receive the purchase price. 
+
+^Affirmative Covenants. The Company covenants that so long as any of the Notes are outstanding:
+
+^Payment of Taxes and Assessments. The Company will, and will cause each of its Significant Subsidiaries to, pay and discharge all taxes, assessments, governmental charges, or levies imposed on it or any of its properties, assets, income or franchises, to the extent the same have become due and payable and before they have become delinquent, *provided* that neither the Company nor any Significant Subsidiary need pay any such tax, assessment, charge, levy or claim if (i) the amount, applicability or validity thereof is contested by the Company or such Significant Subsidiary on a timely basis in good faith and in appropriate proceedings, and the Company or a Significant Subsidiary has established adequate reserves therefor in accordance with GAAP on the books of the Company or such Significant Subsidiary or (ii) the nonpayment of all such taxes, assessments, charges, levies and claims in the aggregate could not reasonably be expected to have a Material Adverse Effect. 
+
+^Corporate Existence, Etc. Subject to Section 9.1, the Company will at all times preserve and keep in full force and effect its corporate existence, rights and franchises unless, in the good faith judgment of the Company, the termination of or failure to preserve and keep in full force and effect such right or franchise could not, individually or in the aggregate, reasonably expected to have a Material Adverse Effect. 
+
+^Offices. The Company shall maintain an office or agency where the Notes may be surrendered for registration, exchange or presentation for payment and where notices to the Company may be served. 
+
+^Refinancing of Indebtedness. 
+
+^^From the (x) first anniversary of the Issuance Date until the second anniversary of the Issuance Date (the “**Initial Period**”) on at least two occasions mutually agreeable to the Company and the Citi Affiliate (as defined below) and (y) second anniversary of the Issuance Date to the fourth anniversary of the Issuance Date (the “**Second Period**”), on at least one additional occasion mutually agreeable to the Company and the Citi Affiliate: the Company shall use its commercially reasonable efforts to arrange and consummate an offering of investment grade debt securities, trust preferred securities, surplus notes, hybrids or convertible debt of the Company or a subsidiary of the Company generating net cash proceeds (after deducting fees and expenses incurred in connection with such offering) equal to or greater than the aggregate amount owing at such time under the Notes (the “**Refinancing Indebtedness**”) to be used to refinance the Notes; *provided*, that, in no event shall the Company be required to undertake, arrange or consummate an offering of such securities if the terms (including economics) and conditions thereof are not, in the good faith judgment of the Company after consultation with the Citi Affiliate, the same as or better for the Company than those of the Notes (other than (A) the optional redemption provisions (including make-whole provisions) which shall be no worse for the Company than then-prevailing market terms for similar securities of issuers of similar credit quality and (B)(i) the tenor of the Refinancing Indebtedness, which shall be equal to or longer than five years from the date of the original issuance of the Refinancing Indebtedness and (ii) any change in interest rate that is (x) directly related to any increase in tenor of the Refinancing Indebtedness as compared to the tenor of the Notes and (y) reasonably acceptable to the Company). 
+
+^^The Company shall offer to use a broker dealer Affiliate of [[Organization 4 Name]] (as designated by [[Organization 4 Name]], the “**Citi Affiliate**”) to market the Refinancing Indebtedness offered up to the later of (A) the end of the Initial Period and (B) one year after the Company receives an investment grade rating from Moody’s Investors Service, Inc. and Standard & Poor’s, as a sole bookrunning underwriter or placement agent. 
+
+^^Subject to the expiration of the provisions in Section 8.4(b), the Company shall offer to use the Citi Affiliate to market the Refinancing Indebtedness offered during the Second Period as a bookrunning underwriter or placement agent (but not necessarily sole bookrunning underwriter or placement agent). 
+
+^^The fee payable to the Citi Affiliate in connection with marketing the Refinancing Indebtedness pursuant to Sections 8.4(b) and (c) will be the lesser of [[Percentage 5: Number]]% of the gross proceeds from the sale of the Refinancing Indebtedness and the rate then prevailing in the market charged by underwriters with similar roles in the offerings of similar securities of issuers of similar credit quality. 
+
+^Negative Covenants. 
+
+The Company covenants that so long as any of the Notes are outstanding, without the consent of the holder or holders of more than [[Percentage 4]]% in aggregate principal amount of the Notes at the time outstanding: 
+
+^Merger, Consolidation, Etc. The Company will not consolidate or merge with or into any other Person or convey, transfer or lease all or substantially all of its assets in a single transaction or series of related transactions to any Person unless: 
+
+^^the successor formed by such consolidation or the survivor of such merger or the Person that acquires by conveyance, transfer or lease all or substantially all of the assets of the Company, as the case may be, shall be a corporation organized under the laws of the United States or any State thereof (including the District of Columbia), and, if the Company is not such corporation, such corporation shall have expressly assumed in writing the due and punctual performance and observance of each covenant and condition of this Agreement and the Notes; and 
+
+^^immediately after giving effect to such transaction, no Default or Event of Default shall have occurred and be continuing. 
+
+Such conveyance, transfer or lease of all or substantially all of the assets of the Company shall have the effect of releasing the Company or any successor corporation that shall theretofore have become such in the manner prescribed in this Section 9.1 from all of its liabilities under this Agreement and the Notes. 
+
+^Liens. The Company shall not incur Liens on the capital stock of Significant Subsidiaries securing Indebtedness for borrowed money unless the Company’s obligations under the Notes are secured equally and ratably therewith; *provided*, however, that the Company may incur Liens on the capital stock of Significant Subsidiaries securing Indebtedness for borrowed money with an aggregate principal amount at any time outstanding up to [[Percentage 6: Number]]% of Net Tangible Book Value. The limitations set forth in this Section 9.2 shall not apply to Liens (i) existing on any capital stock prior to the acquisition thereof or existing on any capital stock of any Person that becomes a Subsidiary after the date hereof prior to the time such Person becomes a Subsidiary, *provided*, that such Liens were not created in contemplation of such acquisition or such Person becoming a Subsidiary, or (ii) incurred in connection with any financing transaction effected pursuant to or for the purposes of complying with any minimum regulatory or statutory capital and reserve requirements applicable to the Company or its Subsidiaries (including, without limitation, any reserve funding securitization or reserve financing). 
+
+^Significant Subsidiaries. The Company shall not sell, transfer or otherwise dispose of the capital stock of any Significant Subsidiary other than (i) to the Company or any of its Wholly-Owned Subsidiaries, (ii) for at least fair value (as determined by the Company’s board of directors, acting in good faith) or (iii) to comply with an order of a court or regulatory authority of competent jurisdiction, other than an order issued at the Company’s request or at the request of any of the Company’s Subsidiaries. 
+
+^Events of Default. 
+
+An “**Event of Default**” shall exist if any of the following conditions or events shall occur and be continuing: 
+
+^^the Company defaults in the payment of any principal or premium on any Note when the same becomes due and payable, whether at maturity or at a date fixed for redemption or by declaration or otherwise; or 
+
+^^the Company defaults in the payment of any interest on any Note for more than 30 days after the same becomes due and payable; or 
+
+^^the Company defaults in the performance of or compliance with any covenant or agreement contained herein (other than those referred to in Sections 10(a) and (b)) and such default is not remedied within 60 days after the Company receiving written notice of such default from the holder or holders of at least [[Percentage 7: Number]]% in aggregate principal amount of the Notes at the time outstanding (any such written notice to be identified as a “notice of default” and to refer specifically to this Section 10(c)); or 
+
+^^the Company or any Significant Subsidiary is in default in the payment of principal on any Indebtedness on or after the date of final maturity thereof (whether at the stated maturity or redemption date or as a result of the acceleration thereof), in each case, subject to the expiration of applicable cure periods, if any, and the total principal amount of such unpaid Indebtedness is at least $[[USD Value 2: Number]]; *provided*, such default shall be an Event of Default only if such default is continuing 30 days following the Company’s receipt of written notice of such default from the holder or holders of at least [[Percentage 7]]% in aggregate principal amount of Notes at the time outstanding (any such written notice to be identified as a “notice of default” and to refer specifically to this Section 10(d)); or 
+
+^^the Company or any Significant Subsidiary (i) admits in writing its inability to pay its debts as they become due, (ii) files, or consents by answer or otherwise to the filing against it of, a petition for relief or reorganization or arrangement or any other petition in bankruptcy, for liquidation or to take advantage of any insolvency, bankruptcy, receivership, liquidation, conservatorship, dissolution, rehabilitation or reorganization or other similar proceeding or law of any jurisdiction, (iii) makes a general assignment for the benefit of its creditors, (iv) consents to the appointment of a custodian, receiver, trustee or other officer with similar powers with respect to it or with respect to any substantial part of its property or (v) is adjudicated as insolvent or to be liquidated; or 
+
+^^a court or Governmental Authority of competent jurisdiction enters an order appointing, without consent by the Company or any of its Significant Subsidiaries, a custodian, receiver, trustee or other officer with similar powers with respect to it or with respect to any substantial part of its property, or constituting an order for relief or approving a petition for relief or reorganization or any other petition in bankruptcy or for liquidation or to take advantage of any bankruptcy or insolvency law of any jurisdiction, or ordering the dissolution, winding-up or liquidation of the Company or any of its Significant Subsidiaries, or any such petition shall be filed against the Company or any of its Significant Subsidiaries, and, in each case, such order or petition shall not be dismissed within 60 days. 
+
+^Remedies on Default, Etc. 
+
+^Acceleration. (a) If an Event of Default with respect to the Company described in Section 10(e) or (f) (other than an Event of Default described in clause (i) of Section 10(e)) has occurred, all the Notes then outstanding shall automatically become immediately due and payable. 
+
+^^If any other Event of Default has occurred and is continuing, the holder or holders of more than [[Percentage 7]]% in aggregate principal amount of the Notes at the time outstanding may at any time, at its or their option, by written notice to the Company, declare all the Notes then outstanding to be immediately due and payable. 
+
+^^Upon any Notes becoming due and payable under this Section 11.1, whether automatically or by declaration, such Notes will forthwith mature and the entire unpaid principal amount of such Notes, plus all accrued and unpaid interest thereon, shall all be immediately due and payable, in each and every case without presentment, demand, protest or further notice, all of which are hereby waived. 
+
+^Other Remedies. Notwithstanding any other provision of this Agreement, the holder of any Note shall have the right to receive payment of principal of and interest on the Notes held by such holder, on or after the respective due dates expressed or provided for in the Notes, or to bring suit for the enforcement of any such payment on or after such respective dates, and such right shall not be impaired or affected without the consent of such holder. 
+
+^No Waivers or Election of Remedies, Expenses, Etc. No course of dealing and no delay on the part of any holder of any Note in exercising any right, power or remedy shall operate as a waiver thereof or otherwise prejudice such holder’s rights, powers or remedies. No right, power or remedy conferred by this Agreement or by any Note upon any holder thereof shall be exclusive of any other right, power or remedy referred to herein or therein or now or hereafter available at law, in equity, by statute or otherwise. The Company will pay to the holder of each Note on demand such further amount as shall be sufficient to cover all reasonable costs and expenses of such holder incurred following the occurrence of a Default or an Event of Default in any enforcement or collection under this Section 11, including reasonable attorneys’ fees, expenses and disbursements. 
+
+^Registration; Exchange; Substitution of Notes. 
+
+^Registration of Notes. The Company shall keep at its principal executive office a register for the registration and registration of transfers of Notes. The name and address of each holder of one or more Notes, each transfer thereof and the name and address of each transferee of one or more Notes shall be registered in such register. Prior to due presentment for registration of transfer, the Person in whose name any Note shall be registered shall be deemed and treated as the owner and holder thereof for all purposes hereof, and the Company shall not be affected by any notice or knowledge to the contrary. The Company shall give to any holder of a Note, promptly upon request therefor, a complete and correct copy of the names and addresses of all registered holders of the Notes. 
+
+^Transfer and Exchange of Notes. Upon surrender of any Note to the Company at the address and to the attention of the designated officer (all as specified in Section 16(iii)), for registration of transfer or exchange (and in the case of a surrender for registration of transfer accompanied by a written instrument of transfer duly executed by the registered holder of such Note or such holder’s attorney duly authorized in writing and accompanied by the relevant name, address, tax identification number and other information reasonably satisfactory to the Company that no registration under the Securities Act is required in connection with such transfer (which may include a legal opinion of counsel reasonably satisfactory to the Company) for notices of each transferee of such Note or part thereof), within ten Business Days thereafter, the Company shall execute and deliver, at the Company’s expense (except as provided below), one or more new Notes (as requested by the holder thereof) in exchange therefor, in an aggregate principal amount equal to the unpaid principal amount of the surrendered Note. Each such new Note shall be payable to such Person as such holder may request and shall be substantially in the form of Exhibit 1. Each such new Note shall be dated and bear interest from the date to which interest shall have been paid on the surrendered Note or dated the date of the surrendered Note if no interest shall have been paid thereon. The Company may require payment of a sum sufficient to cover any stamp tax or governmental charge imposed in respect of any such transfer of Notes. Notes shall not be transferred in denominations of less than $[[USD Value 3: Number]] provided that if necessary to enable the registration of transfer by a holder of its entire holding of Notes, one Note may be in a denomination of less than $[[USD Value 4: Number]] 
+
+^Replacement of Notes. Upon receipt by the Company at the address and to the attention of the designated officer (all as specified in Section 16(iii)) of evidence reasonably satisfactory to it of the ownership of and the loss, theft, destruction or mutilation of any Note (which evidence shall be, in the case of an Institutional Investor, notice from such Institutional Investor of such ownership and such loss, theft, destruction or mutilation), and 
+
+^^in the case of loss, theft or destruction, of indemnity reasonably satisfactory to it, or 
+
+^^in the case of mutilation, upon surrender and cancellation thereof, 
+
+within ten Business Days thereafter, the Company at its own expense shall execute and deliver, in lieu thereof, a new Note, dated and bearing interest from the date to which interest shall have been paid on such lost, stolen, destroyed or mutilated Note or dated the date of such lost, stolen, destroyed or mutilated Note if no interest shall have been paid thereon. 
+
+^Payments on Notes. 
+
+^Place of Payment. Subject to Section 13.2, payments of principal and interest becoming due and payable on the Notes shall be made in [[Address 2: Address]] the principal office of the Company in such jurisdiction. The Company may at any time, by notice to each holder of a Note, change the place of payment of the Notes so long as such place of payment shall be either the principal office of the Company in such jurisdiction or the principal office of a bank or trust company in the United States. 
+
+^Home Office Payment. So long as the Purchaser or its nominee shall be the holder of any Note, and notwithstanding anything contained in Section 13.1 or in such Note to the contrary, the Company will pay all sums becoming due on such Note for principal and interest by the method and at the address specified below the Purchaser’s name at the beginning of this Agreement, or by such other reasonable method or at such other address as such Purchaser shall have from time to time specified to the Company in writing for such purpose, without the presentation or surrender of such Note or the making of any notation thereon, except that upon written request of the Company made prior to, concurrently with or reasonably promptly after payment or redemption in full of any Note, such Purchaser shall surrender such 
+
+Note for cancellation, reasonably promptly after any such request, to the Company at its principal executive office or at the place of payment most recently designated by the Company pursuant to Section 13.1. Prior to any sale or other disposition of any Note held by the Purchaser or its nominee, such Purchaser will, at its election, either endorse thereon the amount of principal paid thereon and the last date to which interest has been paid thereon or surrender such Note to the Company in exchange for a new Note or Notes pursuant to Section 12.2. The Company will afford the benefits of this Section 13.2 to any Institutional Investor that is the direct or indirect transferee of any Note purchased by the Purchaser under this Agreement and that has made the same agreement relating to such Note as the Purchaser has made in this Section 13.2. 
+
+^Survival of Representations and Warranties; Entire Agreement. 
+
+All representations and warranties contained herein are made as of the date of this Agreement (unless specifically addressing matters only as of a particular date, then as of that date) and shall survive the execution and delivery of this Agreement and the Notes, the purchase or transfer by the Purchaser of any Note or portion thereof or interest therein and the payment of any Note, and may be relied upon by any subsequent holder of a Note, regardless of any investigation made at any time by or on behalf of the Purchaser or any other holder of a Note. All statements contained in any certificate or other instrument delivered by or on behalf of the Company pursuant to this Agreement (but excluding statements contained in any certificate delivered pursuant to Section 6 to the extent such statements relate to the condition (including financial position) or transactions of the Company or any Subsidiary on or prior to [[Date 4: Date]]) shall be deemed representations and warranties of the Company under this Agreement. Subject to the preceding sentence, this Agreement and the Notes embody the entire agreement and understanding between the Purchaser and the Company and supersede all prior agreements and understandings relating to the subject matter hereof. 
+
+^Amendment and Waiver. 
+
+^Requirements. This Agreement and the Notes may be amended, and the observance of any term hereof or of the Notes may be waived (either retroactively or prospectively), with (and only with) the written consent of the Company and the holder or holders of more than [[Percentage 4]]% in aggregate principal amount of the Notes at the time outstanding, except that (a) for so long as the Purchaser is a holder of a Note, no amendment or waiver of any of the provisions of Sections 15.1(a) and 17 hereof, or any defined term as it is used therein, will be effective as to the Purchaser unless consented to by the Purchaser in writing, and (b) no amendment or waiver may, without the written consent of the holder of each Note at the time outstanding affected thereby, (i) subject to the provisions of Section 11 relating to acceleration, change the amount or time of any payment of principal of, or reduce the rate or change the time of payment or method of computation of interest on, the Notes, (ii) change the percentage of the principal amount of the Notes the holders of which are required to consent to any such amendment or waiver, or (iii) amend any of Sections 10(a), 10(b) or 11. Notwithstanding the foregoing, this Agreement may be amended by the Company, without the consent of any holder of any Note, to add any Subsidiary of the Company as a Subsidiary Guarantor under Section 18.11. 
+
+^Delivery. The Company will deliver executed or true and correct copies of each amendment, waiver or consent effected pursuant to the provisions of this Section 15 to each holder of outstanding Notes reasonably promptly following the date on which it is executed and delivered by, or receives the consent or approval of, the requisite holders of Notes. 
+
+^Binding Effect, etc. Any amendment or waiver consented to as provided in this Section 15 applies equally to all holders of Notes and is binding upon them and upon each future holder of any Note and upon the Company without regard to whether such Note has been marked to indicate such amendment or waiver. No such amendment or waiver will extend to or affect any obligation, covenant, agreement, Default or Event of Default not expressly amended or waived or impair any right consequent thereon. No course of dealing between the Company and the holder of any Note nor any delay in exercising any rights hereunder or under any Note shall operate as a waiver of any rights of any holder of such Note. 
+
+^Notes Held by Company, etc. Solely for the purpose of determining whether the holders of the requisite percentage of the aggregate principal amount of Notes then outstanding approved or consented to any amendment, waiver or consent to be given under this Agreement or the Notes, or have directed the taking of any action provided herein or in the Notes to be taken upon the direction of the holders of a specified percentage of the aggregate principal amount of Notes then outstanding, Notes directly or indirectly owned by the Company or any of its Affiliates under the Control of the Company shall be deemed not to be outstanding. 
+
+^Notices. 
+
+Any notice, request, instruction or other document to be given hereunder by any party to the other will be in writing and will be deemed to have been duly given (a) on the date of delivery if delivered personally or by facsimile, with confirmation of receipt, (b) on the first business day following the date of dispatch if delivered by a recognized next-day courier service or (c) on the third business day following the date of mailing if delivered by registered or certified mail, return receipt requested, postage prepaid: 
+
+^^^if to the Purchaser or its nominee, to the Purchaser or nominee at the address specified below the Purchaser’s name at the beginning of this Agreement, or at such other address as the Purchaser or nominee shall have specified to the Company in writing, 
+
+^^^if to any other holder of any Note, to such holder at such address as such other holder shall have specified to the Company in writing, or 
+
+^^^if to the Company, to the Company at 3120 Breckinridge Blvd., [[Address 3: Address]], to the attention of the General Counsel, or at such other address as the Company shall have specified to the holder of each Note in writing. 
+
+^Substitution of Purchaser; Assignment and Transfer. 
+
+^^**Substitution of Purchaser**. The Purchaser shall have the right to substitute any one of its Affiliates as the purchaser of the Notes that it has agreed to acquire hereunder, by written notice to the Company, which notice shall be signed by both the Purchaser and such Affiliate, shall contain such Affiliate’s agreement to be bound by this Agreement and shall contain a confirmation by such Affiliate of the accuracy with respect to it of the *representations* set forth in Section 5. Upon receipt of such notice, any reference to the Purchaser in this Agreement (other than in this Section 17), shall be deemed to refer to such Affiliate in lieu of such original Purchaser. In the event that such Affiliate is so substituted as a Purchaser hereunder and such Affiliate thereafter transfers to such original Purchaser all of the Notes then held by such Affiliate, upon receipt by the Company of notice of such transfer, any reference to such Affiliate as a “Purchaser” in this Agreement (other than in this Section 17), shall no longer be deemed to refer to such Affiliate, but shall refer to such original Purchaser, and such original Purchaser shall again have all the rights of an original holder of the Notes under this Agreement. 
+
+^^**Assignment and Transfer**. The holders of the Notes may, upon written notice to the Company, assign, participate, grant security interests in, or otherwise transfer any portion of the Notes, and may assign any of its rights or delegate any of its duties hereunder. Upon such notice, the Company shall transfer or exchange any Note pursuant to the procedures and subject to the conditions set forth in Section 12.2. 
+
+^Miscellaneous. 
+
+^Successors and Assigns. All covenants and other agreements contained in this Agreement by or on behalf of any of the parties hereto bind and inure to the benefit of their respective successors and assigns (including any subsequent holder of a Note) whether so expressed or not. 
+
+^Payments Due on Non-Business Days. Anything in this Agreement or the Notes to the contrary notwithstanding (but without limiting the requirement in Section 7.4 that the notice of any optional redemption specify a Business Day as the date fixed for such redemption), any payment of principal of or interest on any Note that is due on a date other than a Business Day shall be made on the next succeeding Business Day without including the additional days elapsed in the computation of the interest payable on such next succeeding Business Day. 
+
+^Accounting Terms. All accounting terms used herein which are not expressly defined in this Agreement have the meanings respectively given to them in accordance with GAAP. Except as otherwise specifically provided herein, (i) all computations made pursuant to this Agreement shall be made in accordance with GAAP, and (ii) all financial statements shall be prepared in accordance with GAAP. 
+
+^Severability. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall (to the full extent permitted by law) not invalidate or render unenforceable such provision in any other jurisdiction. 
+
+^Construction, etc. Each covenant contained herein shall be construed (absent express provision to the contrary) as being independent of each other covenant contained herein, so that compliance with any one covenant shall not (absent such an express contrary provision) be deemed to excuse compliance with any other covenant. 
+
+For the avoidance of doubt, all Schedules and Exhibits attached to this Agreement shall be deemed to be a part hereof. 
+
+^Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original but all of which together shall constitute one instrument. Each counterpart may consist of a number of copies hereof, each signed by less than all, but together signed by all, of the parties hereto. 
+
+^Governing Law. This Agreement shall be construed and enforced in accordance with, and the rights of the parties shall be governed by, the law of the State of New York excluding choice-of-law principles of the law of such State that would permit the application of the laws of a jurisdiction other than such State. 
+
+^Jurisdiction and Process; Waiver of Jury Trial. (a) The Company irrevocably submits to the non-exclusive jurisdiction of any New York State or federal court sitting in the Borough of Manhattan, The City of New York, over any suit, action or proceeding arising out of or relating to this Agreement or the Notes. To the fullest extent permitted by applicable law, the Company irrevocably waives and agrees not to assert, by way of motion, as a defense or otherwise, any claim that it is not subject to the jurisdiction of any such court, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding brought in any such court and any claim that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum. 
+
+^^The Company consents to process being served by or on behalf of any holder of Notes in any suit, action or proceeding of the nature referred to in Section 18.8(a) by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail), postage prepaid, return receipt requested, to it at its address specified in Section 16 or at such other address of which such holder shall then have been notified pursuant to said Section. The Company agrees that such service upon receipt (i) shall be deemed in every respect effective service of process upon it in any such suit, action or proceeding and (ii) shall, to the fullest extent permitted by applicable law, be taken and held to be valid personal service upon and personal delivery to it. 
+
+^^Nothing in this Section 18.8 shall affect the right of any holder of a Note to serve process in any manner permitted by law, or limit any right that the holders of any of the Notes may have to bring proceedings against the Company in the courts of any appropriate jurisdiction or to enforce in any lawful manner a judgment obtained in one jurisdiction in any other jurisdiction. 
+
+^^The parties hereto hereby waive trial by jury in any action brought on or with respect to this Agreement, the Notes or any other document executed in connection herewith or therewith. 
+
+^Immunity. A director, officer, employee, incorporator or stockholder of the Company or any Subsidiary Guarantor (other than the Company or another Subsidiary Guarantor) shall not have any liability for any obligations of the Company or any Subsidiary Guarantor under the Notes or the Subsidiary Guaranty or for any claim based on, in respect of or by reason of such obligations or their creation. By accepting a Note, each holder of the Notes waives and releases all such liability. The waiver and release are part of the consideration for the issue of the Notes. 
+
+^Interpretation. All headings used herein are used for convenience only and shall not be used to construe or interpret this Agreement or the Notes. Whenever the words “include,” “includes” or “including” are used herein, they shall be deemed to be followed by the words “without limitation.” When a reference herein is made to a “party” or “parties,” such reference shall be to a party or parties to this Agreement unless otherwise indicated. Unless the context requires otherwise, the terms “hereof,” “herein,” “hereby,” “hereto” and derivative or similar words in this Agreement refer to this entire Agreement. Unless the context requires otherwise, words in this Agreement using the singular or plural number also include the plural or singular number, respectively, and the use of any gender herein shall be deemed to include the other genders. When a reference is made to a Section, such reference shall be to a Section of this Agreement, unless otherwise indicated. References to “dollars” or “$” are to U.S. dollars. References to days, months or years shall mean calendar days, months or years unless specified otherwise. 
+
+^Guaranty. Each of the Subsidiary Guarantors hereby absolutely, unconditionally and irrevocably guarantees, each as a primary obligor and not merely as surety, the full and punctual payment and performance of all obligations of the Company under the Notes and this Agreement, whether such obligations are absolute or contingent, now existing or subsequently arising, now due or hereafter falling due, monetary or otherwise, as if it were a direct obligor of the Notes. Each of the Subsidiary Guarantors agrees that this is a guarantee of payment and performance when due and not of collection. The Purchaser and each holder of Notes acknowledges and agrees that the obligations of the Subsidiary Guarantors will be limited to the maximum amount that will, after giving effect to such maximum amount and all other contingent and fixed liabilities of the Subsidiary Guarantor that are relevant under such laws, and after giving effect to any collections from, rights to receive contribution from, or payments made by or on behalf of any other Subsidiary Guarantor in respect of the obligations of such other Subsidiary Guarantor under this Section 18.11, result in the obligations of the Subsidiary Guarantor under its guarantee not constituting a fraudulent transfer or conveyance. In the event of any sale or other disposition of all or substantially all of the assets of any Subsidiary Guarantor, by way of merger, consolidation or otherwise, or a sale or other disposition of the capital stock of any Subsidiary Guarantor following which such Person is no longer a Subsidiary of the Company, in each case to a Person that is not a Subsidiary of the Company, then such Subsidiary Guarantor will be automatically released and relieved of any obligations under this Section 18.11, without any further act by any Person. Notwithstanding the foregoing, the Purchaser and each holder of Notes hereby agrees to execute any agreement or instrument (at the expense of the Company) that the Company reasonably requests in order to evidence such release. 
+
+^Confidential Information. For the purposes of this Section 19, “Confidential Information” means information delivered to any Non-Affiliate Holder by or on behalf of the Company or any Subsidiary of the Company in connection with the transactions contemplated by or otherwise pursuant to this Agreement that is proprietary in nature and that was clearly marked or labeled or otherwise adequately identified when received by the Non-Affiliate Holder as being confidential information of the Company or such Subsidiary, provided that such term does not include information that (a) was publicly known or otherwise known to the Non-Affiliate Holder prior to the time of the delivery of such information to such Non-Affiliate Holder by or on behalf of the Company or any Subsidiary thereof (other than through disclosure by (x) the Company or any Subsidiary or (y) a Person who was under a duty of confidentiality to the Company), (b) subsequently becomes publicly known through no act or omission by the Non-Affiliate Holder or any person acting on the holder’s behalf, (c) otherwise becomes known to the Non-Affiliate Holder other than through disclosure by (x) the Company or any Subsidiary or (y) a Person who was under a duty of confidentiality to the Company or (d) constitutes financial statements delivered to the Non-Affiliate Holder under Section 6.1 that are otherwise publicly available. Each Non-Affiliate Holder will maintain the confidentiality of such Confidential Information in accordance with procedures adopted by such holder in good faith to protect confidential information of third parties delivered to such holder, provided that each Non-Affiliate Holder may deliver or disclose Confidential Information to (i) its directors, officers, employees, agents, attorneys, trustees and Affiliates (to the extent such disclosure reasonably relates to the administration of the investment represented by its Notes and such Persons are informed of and agree to be bound by the provisions of this Section 19), (ii) its financial advisors and other professional advisors who agree to hold confidential the Confidential Information substantially in accordance with the terms of this Section 19, (iii) any other Non-Affiliate Holder that is an Institutional Investor, (iv) any Institutional Investor to which it sells or offers to sell such Note or any part thereof or any participation therein (if such Person has agreed in writing prior to its receipt of such Confidential Information to be bound by the provisions of this Section 19), (v) pursuant to the order of any court or administrative agency or in any pending legal or administrative proceeding, or otherwise as required by applicable law, regulation, the rules of an applicable securities exchange or compulsory legal process or upon the request or demand of any regulatory authority having jurisdiction over such Non-Affiliate Holder (in which case each such holder agrees, and agrees to direct its Affiliates and their respective directors, officers, employees, agents, attorneys, trustees, financial advisors and other professional advisors, to the extent permitted by law, to inform the Company as promptly as practicable thereof so that it may seek a protective order or other appropriate remedy, in each case at the Company’s own expense, and/or waive compliance with the terms of this Section 19, it being understood that if such protective order or other remedy is not obtained, or the Company does not waive compliance with the provisions hereof, each such holder agrees to furnish only that portion of such information which it is legally required or requested to furnish and to use reasonable efforts to obtain assurances that confidential treatment will be accorded to such information) or (z) if an Event of Default has occurred and is continuing, to the extent the Non-Affiliate Holder may reasonably determine such delivery and disclosure to be necessary or appropriate in the enforcement or for the protection of the rights and remedies under the holder’s Notes and this Agreement. Each Non-Affiliate Holder, by its acceptance of a Note, will be deemed to have agreed to be bound by and to be entitled to the benefits of this Section 19 as though it were a party to this Agreement. On reasonable request by the Company in connection with the delivery to any Non-Affiliate Holder of information required to be delivered to such holder under this Agreement or requested by such holder (other than a holder that is a party to this Agreement or its nominee), such holder will enter into an agreement with the Company embodying the provisions of this Section 19. 
+
+\centered * * * * * 
+
+If you are in agreement with the foregoing, please sign the form of agreement on a counterpart of this Agreement and return it to the Company, whereupon this Agreement shall become a binding agreement between you, the Company and, solely with respect to Section 18.11, the Subsidiary Guarantors. 
+
+Very truly yours,
+
+[[Organization 1 Name]]
+
+By      \centered /s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+Name:      [[Person 1 First Name]] [[Person 1 Last Name]]
+Title:      Executive Vice President and Secretary
+
+\centered [SIGNATURE PAGE TO NOTE AGREEMENT] 
+
+Solely for purposes of Section 18.11:  [[Organization 5 Name]],
+as Subsidiary Guarantor
+
+By:      \centered /s/ [[Person 2 First Name]] [[Person 2 Last Name]]
+Name:      [[Person 2 First Name]] [[Person 2 Last Name]]
+Title:      Assistant Vice President
+
+Solely for purposes of Section 18.11:
+PRIMERICA SHAREHOLDER SERVICES, INC.,
+as Subsidiary Guarantor
+
+By:      \centered /s/ [[Person 3 First Name]] [[Person 3 Last Name]]
+Name:      [[Person 3 First Name]] [[Person 3 Last Name]]
+Title:      Senior Vice President
+
+Solely for purposes of Section 18.11:
+[[Organization 6 Name]],
+as Subsidiary Guarantor
+
+By:      \centered /s/ [[Person 2 First Name]] [[Person 2 Last Name]]
+Name:      [[Person 2 First Name]] [[Person 2 Last Name]]
+Title:      Executive Vice President
+
+Solely for purposes of Section 18.11:
+[[Organization 7 Name]], INC.,  as Subsidiary Guarantor
+
+By:      \centered /s/ [[Person 3 First Name]] [[Person 3 Last Name]]
+Name:      [[Person 3 First Name]] [[Person 3 Last Name]]
+Title:      Treasurer
+
+\centered [SIGNATURE PAGE TO NOTE AGREEMENT] 
+
+Solely for purposes of Section 18.11:
+[[Organization 8 Name]] OF [[Organization 9 Name]].,  as Subsidiary Guarantor
+
+By:      \centered /s/ [[Person 3 First Name]] [[Person 3 Last Name]]
+Name:      [[Person 3 First Name]] [[Person 3 Last Name]]
+Title:      Treasurer
+
+Solely for purposes of Section 18.11:
+[[Organization 10 Name]],  as Subsidiary Guarantor
+
+By:      \centered /s/ [[Person 2 First Name]] [[Person 2 Last Name]]
+Name:      [[Person 2 First Name]] [[Person 2 Last Name]]
+Title:      Executive Vice President
+
+\centered [SIGNATURE PAGE TO NOTE AGREEMENT] 
+
+This Agreement is hereby accepted and agreed to as of the date thereof.
+
+
+
+By      \centered /s/ [[Person 4 First Name]] [[Person 4 Last Name]]
+Name:      [[Person 4 First Name]] [[Person 4 Last Name]]
+Title:      President
+
+\centered [SIGNATURE PAGE TO NOTE AGREEMENT] 
+
+**Schedule A** 
+
+\centered **Defined Terms** 
+
+As used herein, the following terms have the respective meanings set forth below or set forth in the Section hereof following such term: 
+
+“**Affiliate**” means, at any time, and with respect to any Person, any other Person that at such time directly or indirectly through one or more intermediaries Controls, or is Controlled by, or is under common Control with, such first Person, and, with respect to the Company, shall include any Person beneficially owning or holding, directly or indirectly, [[Percentage 6]]% or more of any class of voting or equity interests of the Company or any Subsidiary or any corporation of which the Company and its Subsidiaries beneficially own or hold, in the aggregate, directly or indirectly, [[Percentage 6]]% or more of any class of voting or equity interests. As used in this definition and in Section 15.4, “**Control**” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise. Unless the context otherwise clearly requires, any reference to an “Affiliate” is a reference to an Affiliate of the Company. 
+
+“**Agreement**” means this Note Agreement, dated as of [[Date 2]], by and between the Purchaser, the Company and the Subsidiary Guarantors, as it may from time to time be amended or supplemented. 
+
+“**Business Day**” means any day other than a Saturday, a Sunday or a day on which commercial banks in New York, New York are required or authorized to be closed. 
+
+“**Capital Lease**” means, at any time, a lease with respect to which the lessee is required concurrently to recognize the acquisition of an asset and the incurrence of a liability in accordance with GAAP. 
+
+“**Change of Control**” is defined in Section 7.5. 
+
+“**Change of Control Notice**” is defined in Section 7.5(c). 
+
+“**Competitor**” means any Person that directly (or indirectly through any Affiliate of such Person) manufactures or distributes life insurance products. 
+
+“**Default**” means an event or condition the occurrence or existence of which would, with the lapse of time or the giving of notice or both, become an Event of Default. 
+
+“**Electronic Delivery**” is defined in Section 6.1(a). 
+
+“**Environmental Laws**” means any and all Federal, state, local, and foreign statutes, laws, regulations, ordinances, rules, judgments, orders, decrees, permits, concessions, grants, franchises, licenses, agreements or governmental restrictions relating to pollution and the protection of the environment or the release of any materials into the environment, including those related to Hazardous Materials. 
+
+“**Event of Default**” is defined in Section 10. 
+
+“**Exchange Agreement**” is defined in Section 2. 
+
+“**Form 10-K**” is defined in Section 6.1(b). 
+
+“**Form 10-Q**” is defined in Section 6.1(a). 
+
+“**GAAP**” means generally accepted accounting principles as in effect from time to time in the United States of America. 
+
+“**Governmental Authority**” means 
+
+^^the government of 
+
+^^^the United States of America or any State or other political subdivision thereof, or 
+
+^^^any other jurisdiction in which the Company or any Subsidiary conducts all or any part of its business, or which asserts jurisdiction over any properties of the Company or any Subsidiary, or 
+
+^^any entity exercising executive, legislative, judicial, regulatory or administrative functions of, or pertaining to, any such government. 
+
+“**Guaranty**” means, with respect to any Person, any obligation (except the endorsement in the ordinary course of business of negotiable instruments for deposit or collection) of such Person guaranteeing or in effect guaranteeing any indebtedness, dividend or other obligation of any other Person in any manner, whether directly or indirectly, including obligations incurred through an agreement, contingent or otherwise, by such Person: 
+
+^^to purchase such indebtedness or obligation or any property constituting security therefor; 
+
+^^to advance or supply funds (i) for the purchase or payment of such indebtedness or obligation, or (ii) to maintain any working capital or other balance sheet condition or any income statement condition of any other Person or otherwise to advance or make available funds for the purchase or payment of such indebtedness or obligation; 
+
+^^to lease properties or to purchase properties or services primarily for the purpose of assuring the owner of such indebtedness or obligation of the ability of any other Person to make payment of the indebtedness or obligation; or 
+
+^^otherwise to assure the owner of such indebtedness or obligation against loss in respect thereof. 
+
+In any computation of the indebtedness or other liabilities of the obligor under any Guaranty, the indebtedness or other obligations that are the subject of such Guaranty shall be assumed to be direct obligations of such obligor. 
+
+“**Hazardous Material**” means any and all pollutants, toxic or hazardous wastes or other substances that might pose a hazard to health and safety, the removal of which may be required or the generation, manufacture, refining, production, processing, treatment, storage, handling, transportation, transfer, use, disposal, release, discharge, spillage, seepage or filtration of which is or shall be restricted, prohibited or penalized by any applicable law including asbestos, urea formaldehyde foam insulation, polychlorinated biphenyls, petroleum, petroleum products, lead based paint, radon gas or similar restricted, prohibited or penalized substances. 
+
+“**holder**” means, with respect to any Note the Person in whose name such Note is registered in the register maintained by the Company pursuant to Section 12.1. 
+
+“**Indebtedness**” with respect to any Person means, at any time, without duplication, 
+
+^^its liabilities for borrowed money; 
+
+^^its liabilities for the deferred purchase price of property acquired by such Person (excluding accounts payable arising in the ordinary course of business but including all liabilities created or arising under any conditional sale or other title retention agreement with respect to any such property); 
+
+^^all liabilities appearing on its balance sheet in accordance with GAAP in respect of Capital Leases; 
+
+^^all liabilities for borrowed money secured by any Lien with respect to any property owned by such Person (whether or not it has assumed or otherwise become liable for such liabilities); 
+
+^^all its liabilities in respect of letters of credit or instruments serving a similar function issued or accepted for its account by banks and other financial institutions (whether or not representing obligations for borrowed money); and 
+
+^^any Guaranty of such Person with respect to liabilities of a type described in any of clauses (a) through (e) hereof. 
+
+“**Initial Period**” is defined in Section 8.4(a). 
+
+“**Institutional Investor**” means (a) the Purchaser, (b) any holder of a Note holding (together with one or more of its Affiliates) more than [[Percentage 8: Number]]% of the aggregate principal amount of the Notes then outstanding or (c) any bank, trust company, savings and loan association or other financial institution, any pension plan, any investment company, any insurance company, any broker or dealer, or any other similar financial institution or entity, regardless of legal form. 
+
+“**Issuance Date**” is defined in Section 3. 
+
+“**Lien**” means, with respect to any Person, any mortgage, lien, pledge, charge, security interest or other encumbrance, or any interest or title of any vendor, lessor, lender or other secured party to or of such Person under any conditional sale or other title retention agreement or Capital Lease, upon or with respect to any property or asset of such Person (including in the case of stock, stockholder agreements, voting trust agreements and all similar arrangements). 
+
+“**Material**” means material in relation to the business, operations, affairs, financial condition, assets or properties of the Company and its Subsidiaries taken as a whole. 
+
+“**Material Adverse Effect**” means a material adverse effect on (a) the business, operations, affairs, financial condition, assets or properties of the Company and its Subsidiaries taken as a whole, or (b) the ability of the Company to perform its obligations under this Agreement and the Notes, or (c) the validity or enforceability of this Agreement and the Notes. 
+
+“**Net Tangible Book Value**” means, at any date, all amounts that would, on a consolidated basis and in conformity with GAAP, represent total assets, less intangible assets, reduced by our total liabilities; *provided* that deferred policy acquisition costs shall not be considered intangible assets for purposes of this definition. 
+
+“**Non-Affiliate Holders**” is defined in Section 6.1. 
+
+“**Notes**” is defined in Section 1. 
+
+“**Person**” means an individual, partnership, corporation, limited liability company, association, trust, unincorporated organization, business entity or Governmental Authority. 
+
+“**property**” or “**properties**” means, unless otherwise specifically limited, real or personal property of any kind, tangible or intangible, choate or inchoate. 
+
+“**Purchaser**” is defined in the first paragraph of this Agreement. 
+
+“**Refinancing Indebtedness**” is defined in Section 8.4(a). 
+
+“**Registration Statement**” is defined in Section 4. 
+
+“**Responsible Officer**” means any Senior Financial Officer and any other officer of the Company with responsibility for the administration of the relevant portion of this Agreement. 
+
+“**SEC**” shall mean the Securities and Exchange Commission of the United States, or any successor thereto. 
+
+“**Second Period**” is defined as Section 8.4(a). 
+
+“**Securities**” or “**Security**” shall have the meaning specified in Section 2(1) of the Securities Act. 
+
+“**Securities Act**” means the Securities Act of 1933, as amended from time to time, and the rules and regulations promulgated thereunder from time to time in effect. 
+
+“**Senior Financial Officer**” means the chief financial officer, principal accounting officer, treasurer or comptroller of the Company or persons serving in comparable positions. 
+
+“**Significant Subsidiary**” shall have the meaning given such term pursuant to Regulation S-X of the Securities Act. 
+
+“**Subsidiary**” means, as to any Person, any other Person in which such first Person or one or more of its Subsidiaries or such first Person and one or more of its Subsidiaries owns sufficient equity or voting interests to enable it or them (as a group) ordinarily, in the absence of contingencies, to elect a majority of the directors (or Persons performing similar functions) of such second Person, and any partnership or joint venture if more than a [[Percentage 4]]% interest in the profits or capital thereof is owned by such first Person or one or more of its Subsidiaries or such first Person and one or more of its Subsidiaries (unless such partnership or joint venture can and does ordinarily take major business actions without the prior approval of such Person or one or more of its Subsidiaries). Unless the context otherwise clearly requires, any reference to a “Subsidiary” is a reference to a Subsidiary of the Company. 
+
+“**Subsidiary Guarantor**” is defined in the introductory paragraph of this Agreement. 
+
+“**USA Patriot Act**” means United States Public Law 107-56, Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, as amended from time to time, and the rules and regulations promulgated thereunder from time to time in effect. 
+
+“**Wholly-Owned Subsidiary**” means, at any time, any Subsidiary one hundred percent of all of the equity interests (except directors’ qualifying shares) and voting interests of which are owned by any one or more of the Company and the Company’s other Wholly-Owned Subsidiaries at such time. 

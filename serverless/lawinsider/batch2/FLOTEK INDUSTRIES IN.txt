@@ -1,0 +1,599 @@
+\centered [[Company]] 
+
+\centered **EXCHANGE AGREEMENT** 
+
+This Exchange Agreement (this “**Agreement**”) is made as of [[Date 1: Date]] by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] with its principal office at 2930 [[Person 1 First Name]] [[Person 1 Last Name]] [[Address 1: Address]], Suite 300, [[Party 2]] (the “**Company**”), the guarantors listed on the signature pages hereto (each a “**Guaranto**r” and together the “**Guarantors**”) and the investors listed on the attached Exhibit A (each an “**Investor**”, and collectively, the “**Investors**”). 
+
+\centered **RECITALS** 
+
+^The Company has authorized and outstanding $[[USD Value 3: Number]] million principal amount of senior unsecured convertible notes (the “**2008 Notes**”) issued pursuant to an indenture dated [[Date 2: Date]], as supplemented by the first supplemental indenture dated [[Date 2]] (the “**2008 Supplement**”). 
+
+^The Investors hold 2008 Notes in the amounts listed on Exhibit A, among others. 
+
+^In connection that certain Amended and Restated Credit Agreement, dated as of the date hereof (the “**Amended Credit Agreement**”), the Company and the Investors wish for the Investors to exchange, in accordance with this Agreement, their 2008 Notes for shares of common stock, par value $[[USD Value 4: Number]]1 per share, of the Company (the “**Common Stock**”), senior secured convertible notes (the “**2010 Notes**”) to be issued pursuant to an indenture in the form of Exhibit B and a first supplemental indenture in the form of Exhibit C (the “**2010 Supplement**” and together with the indenture, the “**Indenture**”), to which the Guarantors are parties and cash for accrued and unpaid interest on the exchanged 2008 Notes. 
+
+^The issuance by the Company of the Common Stock and the 2010 Notes in exchange for the 2008 Notes is intended to be exempt from the registration requirements of the Securities Act of 1933, as amended (the **“Securities Act**”). 
+
+^Contemporaneously with entry into this Agreement, the Company and the Investors are entering into a Registration Rights Agreement (the “**Registration Rights Agreement**”) with respect to the 2010 Notes, the Exchange Shares (as hereinafter defined) and the Conversion Shares (as hereinafter defined). 
+
+\centered **TERMS AND CONDITIONS** 
+
+Now, therefore, in consideration of the foregoing recitals and the mutual covenants and agreements contained herein, the parties hereto, intending to be legally bound, do hereby agree as follows: 
+
+^Exchange of the Securities. 
+
+^^Agreement to Exchange At the Closing (as hereinafter defined), each Investor will deliver to the Company the 2008 Notes in the principal amounts set forth opposite such Investor’s name on Exhibit A, and the Company will (a) pay to each Investor cash in the amount of accrued and upaid interest up to (but not including) the Closing Date on the 2008 Notes being exchanged by such Investor; and (b) issue and deliver to each Inventor, for each $[[USD Value 1: Number]] principal amount of 2008 Notes being exchanged by such Investor, (i) Common Stock (the “**Exchange Shares**” and together with the 2010 Notes issuable upon exchange of the 2008 Notes and the Security Guarantees (as defined in the Indenture), the “**Securities**”) in an amount equal to $50.00 divided by the greater of (x) the [[Percentage 1: Number]]% of the Volume Weighted Average Price of the Common Stock, as determined using Bloomberg function VWAP for the 10 consecutive trading days ending two days before the Closing Date (as hereinafter defined), beginning at 9:30 a.m. (New York time) on the first day of the period and ending at 4:30 p.m. (New York time) on the last day of the period, or (y) [[Percentage 1]]% of the closing price of the Common Stock on the day before the Closing Date, rounded up to the nearest whole share, and (ii) 2010 Notes in a principal amount of $900.00, rounded up to the nearest $[[USD Value 2: Number]] principal amount. 
+
+^^Closing; Closing Date. The completion of the exchange of the 2008 Notes (the “**Closing**”) shall be held at 9:00 a.m. (Central Time) as soon as practicable following the satisfaction of the conditions set forth in Section 4 (the “**Closing Date**”), at the offices of [[Organization 1 Name]] LLP, [[Address 2: Address]] or at such other time and place as the Company and Investors may agree.
+
+^^Delivery of the 2008 Notes. At the Closing, subject to the terms and conditions hereof, each Investor will deliver to the Company the 2008 Notes being exchanged by such Investor by 
+
+^^^in respect of a Definitive Security (as defined in the 2008 Supplement), an Investor must complete and manually sign the Assignment Form on the back of the Definitive Security, obtain the signature guarantee required thereby and deliver Definitive Security, together with the Assignment Form, to the Company; 
+
+^^^in respect of a beneficial interest in a Global Security (as defined in the 2008 Supplement), an Investor who is a Beneficial Owner (as defined in the 2008 Supplement) must comply with DTC’s procedures for assigning a beneficial interest in a Global Security. 
+
+^^Delivery of the 2010 Notes and the Shares. At the Closing, subject to the terms and conditions hereof, the Company, and the Guarantors with respect to the 2010 Notes, will (i) deliver to each Investor the principal amount of 2010 Notes determined in accordance with Section 1.1 in the form set forth in the 2010 Supplement and subject to the legend set forth in Section 3.3, (ii) cause a book entry to be made in the records of the Company’s transfer agent in the name of each Investor evidencing (a “**Book Entry**”) the number of Exchange Shares determined in accordance with Section 1.1 and subject to the notation or legend set forth in Section 3.3, and (iii) pay to each Investor an amount in cash equal to the accrued and unpaid interest on the exchanged 2008 Notes surrendered by such Investor up to (but not including) the Closing Date. 
+
+^Representations and Warranties of the Company and the Guarantors. The Company and the Guarantors hereby jointly and severally represents and warrants to each Investor: 
+
+^^Authorization. 
+
+^^All corporate action on the part of the Company and each Guarantor, its officers, directors and shareholders necessary for the authorization, execution and delivery of this Agreement has been taken. The Company and each Guarantor has the requisite corporate power to enter into this Agreement and carry out and perform its obligations under the terms of this Agreement. At the Closing, the Company will have the requisite corporate power to issue and deliver the 2010 Notes, the Exchange Shares and the Common Stock issuable upon conversion of the 2010 Notes (the “**Conversion Shares**”). At the Closing, each Guarantor will have the requisite corporate power to provide its guarantee to the 2010 Notes. This Agreement has been duly authorized, executed and delivered by the Company and each Guarantor and, upon due execution and delivery by the Investors, this Agreement will be a valid and binding agreement of the Company and each Guarantor, enforceable against the Company and each Guarantor in accordance with its terms (except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles). 
+
+^^The Indenture has been duly authorized by the Company and each Guarantor and, assuming due authorization, execution and delivery thereof by the Trustee named therein, when executed and delivered by the Company and each Guarantor, will constitute a valid and binding instrument enforceable against the Company and each Guarantor in accordance with its terms (except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles). 
+
+\centered Page 2 
+
+^^The 2010 Notes have been duly authorized by the Company and each Guarantor, and, when executed and authenticated in accordance with the provisions of the Indenture and delivered to the Investors in exchange for the 2008 Notes, will have been duly executed and delivered by the Company and each Guarantor and will constitute the valid and binding obligations of the Company and each Guarantor (subject, as to the enforcement of remedies, to applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles) entitled to the benefits of the Indenture and will be convertible into the Conversion Shares in accordance with their terms. The Security Guarantees (as defined in the Indenture) have been duly authorized by each Guarantor and, when executed and delivered by each Guarantor, will constitute a valid and binding instrument enforceable against each Guarantor in accordance with their terms (except as rights to indemnification thereunder may be limited by applicable law and except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles). 
+
+^^Each Security Document (as defined in the 2010 Supplement, together with this Agreement, Indenture and the Registration Rights Agreement, the “**Transaction Documents**”) has been duly authorized by the Company and each Guarantor that is a party thereto and, assuming due authorization, execution and delivery thereof by the other parties thereto, when executed and delivered by the Company and the applicable Guarantors, will constitute a valid and binding instrument enforceable against the Company and the applicable Guarantors in accordance with their terms (except as rights to indemnification thereunder may be limited by applicable law and except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles). 
+
+^^The Registration Rights Agreement has been duly authorized and, when executed and delivered by the Company, assuming due authorization, execution and delivery thereof by the Investors, will constitute a valid and binding instrument enforceable against the Company in accordance with its terms (except as rights to indemnification thereunder may be limited by applicable law and except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles). 
+
+^^No Conflict with Other Instruments. The execution, delivery and performance of the Transaction Documents, the issuance and delivery of the Securities, the issuance of the Conversion Shares upon the conversion of the 2010 Notes and the consummation of the actions contemplated by the Transaction Documents (which for all purposes herein shall include conversion of the 2010 Notes) will not (A) result in any violation of, be in conflict with, or constitute a default under, with or without the passage of time or the giving of notice: (i) any provision of the Company’s, or any of its subsidiary’s or any Guarantor’s Certificate or Articles of Incorporation or Bylaws as in effect on the date hereof or at the Closing; (ii) any provision of any judgment, arbitration ruling, decree or order to which the Company, any subsidiary or any Guarantor is a party or by which any of them is bound; (iii) any bond, debenture, note or other evidence of indebtedness, or any lease, contract, mortgage, indenture, deed of trust, loan agreement, joint venture or other agreement, instrument or commitment to which the Company, any subsidiary or any Guarantor is a party or by which they or their respective properties are bound; or (iv) any statute, rule, law or governmental regulation applicable to the Company, any subsidiary or any Guarantor; or (B) result in the creation or imposition of any lien, encumbrance, claim, security interest or restriction whatsoever upon any of the properties or assets of the Company, any subsidiary or any Guarantor or any acceleration of indebtedness pursuant to any obligation, agreement or condition contained in any bond, debenture, note or any other evidence of indebtedness or any indenture, mortgage, deed of trust or any other agreement or instrument to which the Company, any subsidiary or any Guarantor is a party or by which any of them is bound or to which any of the property or assets of the Company, any subsidiary or any Guarantor is 
+
+\centered Page 3 
+
+subject. No consent, approval, authorization or other order of, or registration, qualification or filing with, any regulatory body, administrative agency, or other governmental body is required for the execution and delivery of the Transaction Documents by the Company or any Guarantor and the valid issuance of the Securities by the Company and the Guarantors pursuant to this Agreement and the Indenture, other than such as have been made or obtained and that remain in full force and effect, and except for the filing of a Form D under the Securities Act or any notice filings required to be made under state securities laws. 
+
+^^Certificate of Incorporation; Bylaws. The Amended and Restated Certificate of Incorporation of the Company filed with the SEC (as hereinafter defined) as Exhibit 3.1 to the Company’s Quarterly Report on Form 10-Q for the period ending [[Date 3: Date]] is a true, correct and complete copy of the Company’s Amended and Restated Certificate of Incorporation as in effect on the date hereof. The Bylaws of the Company attached as Appendix F to the Company’s Definitive Proxy Statement filed with the SEC on [[Date 4: Date]] is a true, correct and complete copy of the Company’s Bylaws as in effect on the date hereof. 
+
+^^Organization, Good Standing and Qualification. The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business as now conducted. The Company, each of its subsidiaries, and each Guarantor has the full power and authority to own, operate and occupy its properties and to conduct its business as presently conducted and is duly qualified to transact business and is in good standing in each jurisdiction in which the failure so to qualify would have a material adverse effect on its or its subsidiaries’ business, financial condition, properties, operations, prospects or assets or its ability to perform its obligations under this Agreement (a “**Material Adverse Effect**”). 
+
+^^SEC Filings. The consolidated financial statements contained in each report, registration statement and definitive proxy statement filed by the Company with the Securities and Exchange Commission (the “**SEC**,” and the documents, the “**Company SEC Documents**”): (i) complied as to form in all material respects with the published rules and regulations of the SEC applicable thereto and were timely filed; (ii) the information contained therein as of the respective dates thereof did not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein in light of the circumstances under which they were made not misleading; (iii) were prepared in accordance with generally accepted accounting principles applied on a consistent basis throughout the periods covered, except as may be indicated in the notes to such financial statements and (in the case of unaudited statements) as permitted by Form 10-Q of the SEC, and except that unaudited financial statements may not contain footnotes and are subject to year-end audit adjustments; and (iv) fairly present the consolidated financial position of the Company and its subsidiaries as of the respective dates thereof and the consolidated results of operations cash flows and the changes in shareholders’ equity of the Company and its subsidiaries for the periods covered thereby. 
+
+^^Capitalization. The authorized capital stock of the Company consists of (i) [[Shares 1: Number]] shares of Common Stock, of which (A) [[Shares 2: Number]] shares were issued and outstanding as of the date of this Agreement, and (B) [[Shares 3: Number]] shares were reserved for issuance upon the exercise or conversion, as the case may be, of outstanding options, warrants or other convertible securities as of the date of this Agreement; and (ii) [[Shares 4: Number]] shares of preferred stock, of which [[Shares 5: Number]] shares have been designated as Series A Cumulative Convertible Preferred Stock (the “**Series A Preferred Stock**”), of which [[Shares 6: Number]] shares of Series A Preferred Stock were issued and outstanding as of the date of this Agreement, and no shares were reserved for issuance upon the exercise or conversion, as the case may be, of outstanding options, warrants or other convertible securities. All issued and outstanding shares of Common Stock and Series A Preferred Stock have been duly authorized and validly issued, are fully paid and nonassessable, have been issued and sold in compliance with the registration requirements (including any exceptions therefrom) of federal and state securities laws or the applicable statutes of limitation have expired, and were not issued in violation of any preemptive rights or similar rights to subscribe for or purchase securities. Except as set forth herein or the Company SEC Documents, there are no (i) outstanding rights 
+
+\centered Page 4 
+
+(including, without limitation, preemptive rights), warrants or options to acquire, or instruments convertible into or exchangeable for, any unissued shares of capital stock or other equity interest in the Company, or any contract, commitment, agreement, understanding or arrangement of any kind to which the Company or any subsidiary is a party and relating to the issuance or sale of any capital stock or convertible or exchangeable security of the Company or any subsidiary, other than 1,594,379 options granted to directors and employees of the Company pursuant to its 2003 Long Term Incentive Plan, 2005 Long Term Incentive Plan or 2007 Long Term Incentive Plan; or (ii) obligations of the Company to purchase redeem or otherwise acquire any of its outstanding capital stock or any interest therein or to pay any dividend or make any other distribution in respect thereof. Except as disclosed in the Company SEC Documents, there are no anti-dilution or price adjustment provisions, co-sale rights, registration rights, rights of first refusal or other similar rights contained in the terms governing any outstanding security of the Company that will be triggered by the issuance of the Securities or the Conversion Shares. 
+
+^^2008 Notes. The Conversion Rate (as defined in the 2008 Supplement) for the 2008 Notes is [[Shares 7: Number]] shares of Common Stock per $[[USD Value 1]] principal amount of 2008 Notes. Since the initial issuance of the 2008 Notes, there has been (i) no transaction that would cause an adjustment to the Conversion Rate pursuant to Section 9.02 of the 2008 Supplement, and (ii) no Reorganization Event (as defined in the 2008 Supplement). 
+
+^^Subsidiaries. Except as set forth in the Company SEC Documents or such additional entities that are guarantors of the 2010 Notes, the Company does not presently own or control, directly or indirectly, and has no stock or other interest as owner or principal in, any other corporation or partnership, joint venture, association or other business venture or entity (each a “**subsidiary**”). Each subsidiary is duly incorporated or organized, validly existing and in good standing under the laws of its jurisdiction of incorporation or organization and has all requisite power and authority to carry on its business as now conducted. All of the outstanding capital stock or other securities of each subsidiary is owned by the Company, directly or indirectly, free and clear of any liens, claims, or encumbrances other than pledges of such shares as security under or in connection with the Amended Credit Agreement and the 2010 Notes. 
+
+^^Valid Issuance of Securities. The Securities and the Conversion Shares are duly authorized and, when issued and delivered in accordance with the terms hereof or of the 2010 Notes, as the case may be, will be duly and validly authorized and issued, fully paid and nonassessable, free from all taxes, liens, claims, encumbrances and charges with respect to the issue thereof; provided, however, that the Securities and the Conversion Shares may be subject to restrictions on transfer under state and/or federal securities laws or as otherwise set forth herein. The issuance and delivery of the Securities and the Conversion Shares in accordance with the terms hereof or the 2010 Notes will not be subject to preemptive rights of stockholders of the Company. The Conversion Shares have been duly reserved for issuance upon conversion of the 2010 Notes. 
+
+^^Offering. Assuming the accuracy of the representations of the Investors in Section 3.3 of this Agreement on the date hereof, on the Closing Date and solely as this Section 2.10 relates to the issue of the Conversion Shares on the date(s) of conversion of the 2010 Notes, the offer and issuance of the Securities to Investors hereunder and issuance of the Conversion Shares upon the conversion of the 2010 Notes in accordance with the terms thereof (assuming no change in applicable law prior to the date the Conversion Shares are issued), are and will be exempt from the registration and prospectus delivery requirements of the Securities Act and have been or will be registered or qualified (or are or will be exempt from registration and qualification) under the registration, permit or qualification requirements of all applicable state securities laws. Neither the Company, nor any of its affiliates, nor any person acting on its or their behalf, has directly or indirectly made any offers or sales of any security or solicited any offers to buy any security under circumstances that would require registration under the Securities Act of the issuance of the Securities to the Investors or the issuance of the Conversion Shares upon conversion of the 2010 Notes. Other than the Company SEC Documents, the Company has not distributed and will not distribute prior to the Closing Date any offering material in connection with the issuance of the Securities 
+
+\centered Page 5 
+
+or Conversion Shares. The Company has not taken any action to sell, offer for sale or solicit offers to buy any securities of the Company that would bring the exchange of the 2008 Notes or the issuance of the Securities or the issuance of the Conversion Shares upon conversion of the 2010 Notes, within the provisions of Section 5 of the Securities Act, unless such offer, issuance or sale was or shall be within the exemptions of Section 4 of the Securities Act. 
+
+^^Litigation. Except as set forth in the Company SEC Documents, there is no action, suit, proceeding nor investigation pending or, to the Company’s knowledge, currently threatened against the Company or any of its subsidiaries that (a) would reasonably be expected to adversely effect the business, condition, prospects, capitalization, assets, liabilities, operations or financial performance of the Company or its subsidiaries or (b) would be required to be disclosed in the Company’s Annual Report on Form 10-K under the requirements of Item 103 of Regulation S-K. The foregoing includes, without limitation, any action, suit, proceeding or investigation, pending or threatened, that questions the validity of the Transaction Documents or the right of the Company to enter into the Transaction Documents and perform its obligations hereunder and thereunder. Neither the Company nor any subsidiary nor any Guarantor is subject to any injunction, judgment, decree or order of any court, regulatory body, arbitral panel, administrative agency or other government body that could reasonably be expected to have a Material Adverse Effect. 
+
+^^Governmental Consents. No consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any federal, state, local or provincial governmental authority on the part of the Company or any Guarantor is required in connection with the consummation of the transactions contemplated by the Transaction Documents, except for notices required or permitted to be filed with certain state and federal securities commissions, which notices will be filed on a timely basis. 
+
+^^No Brokers. Except for any fees payable by the Company to Fig Partners, no broker, finder or investment banker is entitled to any brokerage, finder’s or other fee or commission in connection with the transactions contemplated by the Transaction Documents based on arrangements made by the Company or any Guarantor. 
+
+^^Compliance. The Company is not in violation of its Amended and Restated Certificate of Incorporation or Bylaws. Neither the Company nor any subsidiary nor any Guarantor has been advised or has reason to believe, that it is not conducting its business in compliance with all applicable laws, rules and regulations of the jurisdictions in which it is conducting business, including, without limitation, all applicable local, state and federal environmental laws and regulations; except where failure to be so in compliance would not have a Material Adverse Effect. Each of the Company, the subsidiaries and the Guarantors has all necessary franchises, licenses, certificates and other authorizations from any foreign, federal, state or local government or governmental agency, department or body that are currently necessary for the operation of the business of the Company, the subsidiaries and the Guarantors as currently conducted, except where the failure to currently possess such franchises, licenses, certificates and other authorizations would not reasonably be expected to have a Material Adverse Effect. 
+
+^^Exchange Act Compliance. The Common Stock is registered pursuant to Section 12(b) of the Securities Exchange Act of 1934 (the “**Exchange Act**”) and is listed on the New York Stock Exchange (the “**Principal Market**”), and, except as disclosed in the Company SEC Documents, the Company has taken no action designed to, or likely to have the effect of, terminating the registration of the Common Stock under the Exchange Act or delisting the Common Stock (including the Exchange Shares and the Conversion Shares) from the Principal Market. Except as disclosed in the Company SEC Documents, the Company is in compliance with all of the presently applicable requirements for continued listing of the Common Stock on the Principal Market. The issuance of the Securities and the Conversion Shares does not require stockholder approval including, without limitation, pursuant to the rules and regulations of the Principal Market. 
+
+\centered Page 6 
+
+^^Form S-3 Eligibility; Registration Rights Agreements. The Company is eligible to register the Securities and the Conversion Shares for resale under the Securities Act by the Investors using a Registration Statement on Form S-3. Other than as set forth in the Company SEC Documents or as provided under the Registration Rights Agreement and the Registration Right Agreement related to the Amended Credit Agreement, the Borrower has not agreed to register any of its authorized or outstanding securities under the Securities Act. 
+
+^^Transfer Taxes. On the Closing Date, all stock transfer or other taxes (other than income taxes) that are required to be paid in connection with the issuance of the Securities hereunder will be, or will have been, fully paid or provided for by the Company and the Company will have complied with all laws imposing such taxes. 
+
+^^No General Solicitation. Neither the Company, nor any of its affiliates, nor any Guarantor, nor any person acting on its or their behalf, has engaged in any form of general solicitation or general advertising (within the meaning of Regulation D promulgated under the Securities Act) in connection with the issuance of the Securities. 
+
+^^Application of Takeover Protections; Rights Agreement. The Company and its board of directors have taken all necessary action, if any, in order to render inapplicable any control share acquisition, business combination, poison pill (including any distribution under a rights agreement) or other similar anti-takeover provision under the Certificate of Incorporation or the laws of the jurisdiction of its formation which is or could become applicable to any Investor as a result of the transactions contemplated by the Transaction Documents, including, without limitation, the Company’s issuance of the Securities and the Conversion Shares and any Investor’s ownership of the Securities and the Conversion Shares. The Company has not adopted a shareholder rights plan or similar arrangement relating to accumulations of beneficial ownership of Common Stock or a change in control of the Company. 
+
+^^Security Documents Complete. The Security Documents represent all of the collateral and guarantee agreements, security agreements, mortgages and other similar agreements necessary to grant to Investors a valid security interest in the Collateral (as defined in the 2010 Supplement), which security interest will rank immediately junior in priority (subject to Permitted Collateral Liens (as defined in the 2010 Supplement)) to the security interests in the Collateral securing the Priority Lien Obligations (as defined in the 2010 Supplement). 
+
+^^Security Interests. 
+
+^^Upon execution and delivery of the Security Documents and the filing of Uniform Commercial Code financing statements and any other applicable registrations in the appropriate filing offices, the Investors will obtain a valid and perfected lien upon and security interest in all right, title and interest of the Company and the Guarantors in the Collateral (to the extent a lien upon or security interest in such Collateral may be perfected by possession, by filings under the Uniform Commercial Code as in effect in any applicable jurisdiction or by any filings required with the United States Patent and Trademark Office or United States Copyright Office) as security for the 2010 Notes and the Securities Guarantee (as defined in the Indenture), which security interest will rank immediately junior in priority (subject to Permitted Collateral Liens) to the security interests in the Collateral securing the Priority Lien Obligations. 
+
+^^Upon the execution and delivery of the mortgages to be delivered at Closing (the “**Mortgages**”) related to the Mortgaged Property (as used in the Amended Credit Agreement), such Mortgages will be effective to grant a legal and valid mortgage lien on all of the mortgagor’s right, title and interest in each of the Mortgaged Properties thereunder. When the Mortgages are duly recorded in the proper recorders’ offices or appropriate public records and the mortgage recording fees and taxes in respect thereof are paid and compliance is otherwise had with the formal requirements of state or local 
+
+\centered Page 7 
+
+law applicable to the recording of real estate mortgages generally, each such Mortgage shall constitute a validly perfected and enforceable second-priority security interest in the related Mortgaged Property, for the ratable benefit of the holders of the 2010 Notes, subject only to Permitted Collateral Liens and other encumbrances and exceptions to title expressly set forth therein and except to the extent that such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles. 
+
+^Representations and Warranties of the Investors. Each Investor, severally and not jointly, hereby represents and warrants to the Company as follows: 
+
+^^Legal Power. The Investor has the requisite authority to enter into this Agreement and to carry out and perform its obligations under the terms of this Agreement. All action on the Investor’s part required for the lawful execution and delivery of this Agreement have been or will be effectively taken prior to the Closing. 
+
+^^Due Execution. This Agreement has been duly authorized, executed and delivered by the Investor, and, upon due execution and delivery by the Company, this Agreement will be a valid and binding agreement of the Investor, except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by equitable principles. 
+
+^^Investment Representations. In connection with the issuance of the Securities and Conversion Shares, the Investor, for itself and no other Investor, makes the following representations: 
+
+^^Investment for Own Account. The Investor is acquiring the Securities and any Conversion Shares for its own account, not as nominee or agent, and not with a view to, or for resale in connection with, any distribution or public offering thereof within the meaning of the Securities Act; provided, however, that by making the representations herein, the Investor does not agree to hold any of the Securities or the Conversion Shares for any minimum or specific term and reserves the right to dispose of the securities at any time in accordance with, or pursuant to, a registration statement or an exemption from the registration requirements of the Securities Act. 
+
+^^Transfer Restrictions; Legends. The Investor understands that (i) the Securities and Conversion Shares have not been registered under the Securities Act; (ii) the Securities and Conversion Shares are being issued pursuant to an exemption from registration, based in part upon the Company’s reliance upon the statements and representations made by the Investors in this Agreement, and that the Securities and Conversion Shares must be held by the Investor indefinitely, and that the Investor must, therefore, bear the economic risk of such investment indefinitely, unless a subsequent disposition thereof is registered under the Securities Act or is exempt from such registration; (iii) each note representing the 2010 Notes and each certificate representing Exchange Shares or Conversion Shares will be endorsed with the following legend, and each Book Entry evidencing Exchange Shares or Conversion Shares shall contain the following notation, until the earlier of (1) the time at which the Securities or the Conversion Shares, as applicable, have been sold under a Registration Statement, or (2) the date on which the Securities or the Conversion Shares, as applicable, may be immediately sold without registration and without restriction (including without limitation as to sales volume by each holder thereof) as to the number of Securities or Conversion Shares, as applicable, to be sold, pursuant to Rule 144 under the Securities Act or otherwise: 
+
+THIS SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION 
+
+\centered Page 8 
+
+NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE FORM AND SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE ISSUER, THE REGISTRAR AND THE TRANSFER AGENT. THESE SECURITIES MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT IS AN “ACCREDITED INVESTOR” AS DEFINED IN RULE 501(a) UNDER THE SECURITIES ACT. 
+
+^^^the Company will instruct any transfer agent not to register any transfer of the Securities or the Conversion Shares (or any portion thereof) until the applicable time set forth in clause (iii) above unless the conditions specified in the foregoing legends are satisfied or, if the opinion of counsel referred to above is to the further effect that such legend is not required in order to establish compliance with any provisions of the Securities Act or this Agreement, or other satisfactory assurances of such nature are given to the Company. 
+
+The Company acknowledges and agrees that an Investor may from time to time pledge, and/or grant a security interest in some or all of the Securities or the Conversion Shares pursuant to a bona fide margin agreement in connection with a bona fide margin account with a financial institution that is an “accredited investor,” as defined in Rule 501(a) under the Securities Act, and, if required under the terms of such agreement or account, the Investor may transfer pledged or secured Securities or Conversion Shares to the pledgees or secured parties. Such a pledge or transfer shall not be subject to approval or consent of the Company and no legal opinion of legal counsel to the pledgee, secured party or pledgor shall be required in connection with the pledge, but such legal opinion may be required in connection with a subsequent transfer following default by the Investor transferee of the pledge. No notice shall be required of such pledge. At the applicable Investor’s expense, the Company will execute and deliver such reasonable documentation as a pledgee or secured party of Securities or Conversion Shares may reasonably request in connection with a pledge or transfer of the Securities or Conversion Shares including the preparation and filing of any required prospectus supplement under Rule 424(b)(3) of the Securities Act or other applicable provision of the Securities Act to appropriately amend the list of Selling Stockholders thereunder. 
+
+Book Entries evidencing, and certificates representing, Exchange Shares or Conversion Shares shall not contain any notation or legend, as applicable, (including the notation and legend set forth in this Section): (i) following a sale of such Exchange Shares or Conversion Shares pursuant to an effective registration statement; (ii) following a sale of such Exchange Shares or Conversion Shares pursuant to Rule 144, or (iii) while such Exchange Shares or Conversion Shares are eligible for sale under Rule 144 without volume or manner of sale limitations, or (iv) if such legend is not required under applicable requirements of the Securities Act (including judicial interpretations and pronouncements issued by the staff of the SEC). Following such time as restrictive notations are not required to be made relative to any Book Entry evidencing, or legends are not required to be placed on certificates representing, Exchange Shares or Conversion Shares, the Company will (A) promptly upon a request by an Investor, instruct the transfer agent for the Company to remove the restrictive notation from Book Entries evidencing such Exchange Shares or Conversion Shares; and (B) no later than three Trading Days following the delivery by an Investor to the Company or the Company’s transfer agent of a certificate representing Exchange Shares or Conversion Shares containing a restrictive legend, deliver or cause to be delivered to such Investor a certificate representing such Exchange Shares or Conversion Shares that is free from all restrictive and other legends. 
+
+The Company shall cause its counsel to issue a legal opinion to the Company’s transfer agent promptly after the effective date of a registration statement covering the Exchange Shares or Conversion 
+
+\centered Page 9 
+
+Shares if required by the Company’s transfer agent to effect the removal of any notation on the Book Entries evidencing, or legend on the certificates representing, such Exchange Shares or Conversion Shares. The Company may not make any notation on its records or give instructions to any transfer agent of the Company that enlarge the restrictions on transfer set forth in this Section. Certificates for Exchange Shares or Conversion Shares subject to legend removal hereunder shall be transmitted by the transfer agent of the Company to the Investors by crediting the account of the Investor’s prime broker with [[Organization 2 Name]] system. 
+
+Each Investor, severally and not jointly with the other Investors, agrees that the removal of the restrictive notation on the Book Entries evidencing, or legend from certificates representing, Exchange Shares or Conversion Shares, as set forth in this Section 3.2(b), is predicated upon the Company’s reliance that the Investor will sell any Exchange Shares or Conversion Shares pursuant to either the registration requirements of the Securities Act, including any applicable prospectus delivery requirements, or an exemption therefrom. 
+
+^^Financial Sophistication. The Investor has such knowledge and experience in financial or business matters that it is capable of evaluating the merits and risks of the investment in connection with the transactions contemplated in this Agreement. 
+
+^^Accredited Investor Status. The Investor is an “accredited investor” as such term is defined in Rule 501(a) under the Securities Act. 
+
+^^Residency. The Investor is organized under the laws of the state set forth beneath such Investor’s name on the signature page attached hereto, and its principal place of operations is in the state set forth beneath such Investor’s name on the signature page attached hereto. 
+
+^^No Investment, Tax or Legal Advice. Each Investor understands that nothing in the Company SEC Documents, this Agreement, or any other materials presented to the Investor in connection with the issuance of the Securities constitutes legal, tax or investment advice. Each Investor has consulted such legal, tax and investment advisors as it, in its sole discretion, has deemed necessary or appropriate in connection with its purchase of Securities. 
+
+^^Additional Acknowledgement. Each Investor acknowledges that it has independently evaluated the merits of the transactions contemplated by this Agreement, that it has independently determined to enter into the transactions contemplated hereby, that it is not relying on any advice from or evaluation by any other person. Each Investor acknowledges that it has not taken any actions that would deem the Investors to be members of a “group” for purposes of Section 13(d) of the Exchange Act. 
+
+^Conditions to Closing. 
+
+^^Conditions to Obligations of Investors at Closing. Each Investor’s obligation to exchange 2008 Notes for the Securities at the Closing is subject to the fulfillment to that Investor’s reasonable satisfaction, on or prior to the Closing, of all of the following conditions, any of which may be waived by such Investor: 
+
+^^Representations and Warranties True; Performance of Obligations. The representations and warranties made by the Company in Section 2 shall be true and correct in all material respects on the Closing Date with the same force and effect as if they had been made on and as of the Closing Date and the Company shall have performed and complied with all obligations and conditions herein required to be performed or complied with by it on or prior to the Closing in all material respects and a certificate duly executed by an officer of the Company, to the effect of the foregoing, shall be delivered to the Investors. 
+
+^^Proceedings and Documents. All corporate and other proceedings in connection with the transactions contemplated at the Closing and all documents and instruments incident to such transactions shall be reasonably satisfactory in substance and form to counsel to the Investor, and 
+
+\centered Page 10 
+
+counsel to the Investor shall have received all such counterpart originals or certified or other copies of such documents as they may reasonably request. The Company shall have delivered (or caused to have been delivered) to each Investor, the certificates required by this Agreement. The Conversion Shares shall have been duly authorized and reserved for issuance upon conversion of the 2010 Notes. 
+
+^^Qualifications, Legal Investment. All authorizations, approvals, or permits, if any, of any governmental authority or regulatory body of the United States or of any state that are required in connection with the lawful exchange of the 2008 Notes and issuance of the Securities and Conversion Shares shall have been duly obtained and shall be effective on and as of the Closing. No stop order or other order enjoining the exchange of the 2008 Notes or the issuance of the Securities or Conversion Shares shall have been issued and no proceedings for such purpose shall be pending or, to the knowledge of the Company, threatened by the SEC, or any commissioner of corporations or similar officer of any state having jurisdiction over this transaction. At the time of the Closing, the exchange of the 2008 Notes and the issuance of the Securities and Conversion Shares shall be legally permitted by all laws and regulations to which Investors and the Company are subject. No litigation, statute, rule, regulation, executive order, decree, ruling or injunction shall have been enacted, entered, promulgated or endorsed by or in any court or governmental authority of competent jurisdiction or any self-regulatory organization having authority over the matters contemplated hereby that prohibits the consummation of any of the transactions contemplated by the Transaction Documents. 
+
+^^Execution of Agreements. The Company shall have executed this Agreement and the Registration Rights Agreement and have delivered such agreements to the Investors. 
+
+^^Secretary’s Certificate. The Company shall have delivered to the Investors a certificate of the Secretary of the Company certifying as to the truth and accuracy of the resolutions of the board of directors relating to the transaction contemplated hereby (a copy of which shall be included with such certificate). 
+
+^^Trading and Listing. Trading and listing of the Company’s common stock on the Principal Market shall not have been suspended by the SEC or the Principal Market. 
+
+^^Market Listing. The Company will comply with all of the requirements of the Financial Industry Regulatory Authority, Inc. and the Principal Market with respect to the issuance of the Securities and the Conversion Shares and shall have, or will, list the Exchange Shares and the Conversion Shares on the Principal Market prior to, or on, the date of issuance thereof. 
+
+^^Blue Sky. The Company shall have obtained all necessary “blue sky” law permits and qualifications, or have the availability of exemptions therefrom, required by any state for the exchange of the 2008 Notes and the issuance of the Securities and issuance of the Conversion Shares upon the conversion of the 2010 Notes. 
+
+^^Material Adverse Change. Since the date of this Agreement, there shall not have occurred any event which results in a Material Adverse Effect. 
+
+^^Change in Conversion Rate. Since the date of this Agreement, there shall not have occurred any event that would cause an adjustment to the Conversions Rate (as defined in the 2008 Supplement) pursuant to Section 9.02 of the 2008 Supplement, and (ii) no Reorganization Event (as defined in the 2008 Supplement). 
+
+^^Opinion. The Company shall have delivered to Investors the opinion of Andrews Kurth, LLP, counsel to the Company, dated as of the Closing Date in substantially the form attached hereto as Exhibit D. 
+
+^^Conditions to Obligations of the Company. The Company’s obligation to exchange the 2008 Notes and issue the Securities at the Closing is subject to the fulfillment to the Company’s reasonable satisfaction, on or prior to the Closing of the following conditions, any of which may be waived by the Company: 
+
+^^Representations and Warranties True. The representations and warranties made by the Investors in Section 3 shall be true and correct in all material respects on the Closing Date with the same force and effect as if they had been made on and as of said date. 
+
+\centered Page 11 
+
+^^Performance of Obligations. The Investors shall have performed and complied with all agreements and conditions herein required to be performed or complied with by them on or before the Closing in all material respects. 
+
+^^Qualifications, Legal Investment. All authorizations, approvals, or permits, if any, of any governmental authority or regulatory body of the United States or of any state that are required in connection with the lawful exchange of the 2008 Notes and issuance of the Securities and Conversion Shares shall have been duly obtained and shall be effective on and as of the Closing. No stop order or other order enjoining the conversion of the Notes or the issuance of the Securities or Conversion Shares shall have been issued and no proceedings for such purpose shall be pending or, to the knowledge of the Company, threatened by the SEC, or any commissioner of corporations or similar officer of any state having jurisdiction over this transaction. At the time of the Closing, conversion of the Notes and issuance of the Securities and the Conversion Shares shall be legally permitted by all laws and regulations to which the Investors and the Company are subject. No litigation, statute, rule, regulation, executive order, decree, ruling or injunction shall have been enacted, entered, promulgated or endorsed by or in any court or governmental authority of competent jurisdiction or any self-regulatory organization having authority over the matters contemplated hereby which prohibits the consummation of any of the transactions contemplated by the Transaction Documents. 
+
+^^Execution of Agreements. The Investors shall have executed this Agreement and the Registration Rights Agreement and delivered this Agreement and the Registration Rights Agreement to the Company. 
+
+^Additional Covenants. 
+
+^^Reporting Status. With a view to making available to the Investors the benefits of certain rules and regulations of the SEC which may permit the sale of the Securities and Conversion Shares to the public without registration, the Company agrees to use its best efforts to file with the SEC, in a timely manner all reports and other documents required of the Company under the Exchange Act. The Company will otherwise take such further action as an Investor may reasonably request, all to the extent required from time to time to enable such Investor to sell the Securities and Conversion Shares without registration under the Securities Act or any successor rule or regulation adopted by the SEC. 
+
+^^Listing. So long as an Investor owns any of the Securities or Conversion Shares, the Company will use its reasonable best efforts to maintain the automated quotation of its Common Stock, including the Exchange Shares and Conversion Shares, on the Principal Market or an alternative listing on the NASDAQ Stock Market or, if such quotation on the Principal Market or the NASDAQ Stock Market is not possible, qualification for trading on the OTCBB, and will comply in all material respects with the Company’s reporting, filing and other obligations under the bylaws or rules of the Financial Industry Regulatory Authority, Inc. and such exchange or listing, if applicable. 
+
+^^Non-Public Information. The Company covenants and agrees that neither it nor any other person acting on its behalf will provide any Investor or its agents or counsel with any information that the Company believes constitutes material non-public information, unless prior thereto such Investor shall have executed a written agreement regarding the confidentiality and use of such information. The Company understands and confirms that each Investor shall be relying on the foregoing representations in effecting transactions in securities of the Company. 
+
+\centered Page 12 
+
+^Additional Securities Law Matters. 
+
+^^Limits on Additional Issuances. The Company will not, for a period of six months following the Closing Date, offer for sale or sell any securities unless, in the opinion of the Company’s counsel, such offer or sale does not jeopardize the availability of exemptions from the registration and qualification requirements under applicable securities laws with respect to the securities being offered hereby. Except for the issuance of common stock under the Amended Credit Agreement,  stock options under the Company’s stock option plans, the issuance of common stock upon exercise of outstanding options, warrants and convertible securities, the issuance of common stock purchase warrants, and the offering contemplated hereby, the Company has not engaged in any offering of equity securities during the six months prior to the date of this Agreement. The foregoing provisions shall not prevent the Company from filing a “shelf” registration statement pursuant to Rule 415 under the Securities Act, but the foregoing provisions shall apply to any sale of securities thereunder. 
+
+^^Form D and State Securities Filings. If applicable, the Company will file with the SEC a Notice of Sale of Securities on Form D with respect to the Securities, as required under Regulation D under the Securities Act, no later than 15 days after the Closing Date. The Company will promptly and timely file all documents and pay all filing fees required by any states’ securities laws in connection with the issuance of Securities. 
+
+^^Supplying Information. For so long as the Securities remain outstanding and are “restricted securities” within the meaning of Rule 144(a)(3) under the Securities Act, the Company will furnish to holders of the Securities and prospective purchasers of the Securities designated by such holders, upon the request of such holders or such prospective purchasers, the information required to be delivered pursuant to Rule 144A(d)(4) under the Securities Act, unless the Company is then subject to and in compliance with Section 13 or 15(d) of the Exchange Act. 
+
+^Miscellaneous. 
+
+^^Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to the choice of law provisions thereof, and the federal laws of the United States. 
+
+^^Successors and Assigns. Except as otherwise expressly provided herein, the provisions hereof shall inure to the benefit of, and be binding upon, the successors, assigns, heirs, executors, and administrators of the parties hereto. 
+
+^^Entire Agreement. The Transaction Documents and the exhibits thereto, and the other documents delivered pursuant thereto, constitute the full and entire understanding and agreement among the parties with regard to the subjects hereof and no party shall be liable or bound to any other party in any manner by any representations, warranties, covenants, or agreements except as specifically set forth therein. Nothing in this Agreement, express or implied, is intended to confer upon any party, other than the parties thereto and their respective successors and assigns, any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided therein. 
+
+^^Severability. In the event any provision of this Agreement shall be invalid, illegal, or unenforceable, it shall to the extent practicable, be modified so as to make it valid, legal and enforceable and to retain as nearly as practicable the intent of the parties, and the validity, legality, and enforceability of the remaining provisions shall not in any way be affected or impaired thereby. 
+
+^^Amendment and Waiver. Except as otherwise provided herein, any term of this Agreement may be amended and the observance of any term of this Agreement may be waived (either generally or in a particular instance, either retroactively or prospectively, and either for a specified period of time or indefinitely), with the written consent of the Company and Investors representing a majority of the Securities (determined as if the 2010 Notes had been converted to Common Stock) and the 
+
+\centered Page 13 
+
+Conversion Shares. Any amendment or waiver effected in accordance with this Section 7.5 shall be binding upon any holder of any Securities purchased under this Agreement (including securities into which such Securities have been converted), each future holder of all such securities, and the Company. 
+
+^^Fees and Expenses. The Company agrees to pay on demand (i) all reasonable out-of-pocket costs and expenses of each Investor (including outside counsel fees and expenses of each Investor) in connection with the preparation, execution and delivery and of this Agreement and the related documents, and (ii) all costs and expenses, if any, of each Investor (including outside counsel fees and expenses of each Investor) in connection with the enforcement (whether through negotiations, legal proceedings, or otherwise) of this Agreement and the related documents. 
+
+^^Notices. All notices, requests, consents and other communications hereunder shall be in writing, shall be delivered (A) if within the United States, by first-class registered or certified airmail, or nationally recognized overnight express courier, postage prepaid, or by facsimile, or (B) if from outside the United States, by [[Organization 3 Name]] (or comparable service) or facsimile, and shall be deemed given (i) if delivered by first-class registered or certified mail domestic, upon the business day received, (ii) if delivered by nationally recognized overnight carrier, one business day after timely delivery to such carrier, (iii) if delivered by [[Organization 3 Name]] (or comparable service), two business days after so mailed, (iv) if delivered by facsimile, upon electric confirmation of receipt and shall be addressed as follows, or to such other address or addresses as may have been furnished in writing by a party to another party pursuant to this paragraph: 
+
+if to the Company, to: 
+
+[[Company]]  Attn: Executive Vice President - Finance  2930 [[Person 1 First Name]] [[Person 1 Last Name]] [[Address 1: Address]], Suite 300  [[Party 2]]  Facsimile: [[Phone 1]]  with a copy to:  Andrews Kurth, LLP  Attn: [[Person 2 First Name]] [[Person 2 Last Name]]  600 Travis, Suite 4200  [[Address 3: Address]]  Facsimile: [[Phone 2]]
+
+if to a Guarantor, at its address on the signature page to this Agreement, and if to an Investor, at its address on the signature page to this Agreement. 
+
+^^Survival of Representations, Warranties and Agreements. Notwithstanding any investigation made by any party to this Agreement, all covenants, agreements, representations and warranties made by the Company and the Investors herein shall survive the execution of this Agreement, the delivery to the Investor of the Securities, and a party’s reliance on such representations and warranties shall not be affected by any investigation made by such party or any information developed thereby. 
+
+^^Counterparts. This Agreement may be executed by facsimile signature and in any number of counterparts, each of which shall be deemed an original, but all of which together shall constitute one instrument. 
+
+^^Independent Nature of Investors’ Obligations and Rights. The obligations of each Investor under this Agreement are several and not joint with the obligations of any other Investor, and no Investor shall be responsible in any way for the performance of the obligations of any other Investor under this Agreement. Nothing contained herein, and no action taken by any Investor pursuant hereto, shall be deemed to constitute the Investors as a partnership, an association, a joint venture or any other 
+
+\centered Page 14 
+
+kind of entity, or create a presumption that the Investors are in any way acting in concert or as a group with respect to such obligations or the transactions contemplated by this Agreement. Each Investor confirms that it has independently participated in the negotiation of the transaction contemplated hereby with the advice of its own counsel and advisors. Each Investor shall be entitled to independently protect and enforce its rights, including, without limitation, the rights arising out of this Agreement, and it shall not be necessary for any other Investor to be joined as an additional party in any proceeding for such purpose. 
+
+\centered **[***The remainder of this page is intentionally left blank.***]** 
+
+\centered Page 15 
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+President
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 4 Name]]**  **[[Organization 5 Name]]**  **MATERIAL [[Organization 6 Name]]**  **[[Organization 7 Name]]**  **[[Organization 8 Name]]**  **[[Organization 7 Name]]**  **[[Organization 9 Name]]**  **PADKO INTERNATIONAL INCORPORATED**  **[[Organization 10 Name]]**  **[[Organization 11 Name]]**
+
+[[[[Organization 4 Name]]  [[Organization 12 Name]]  MATERIAL [[Organization 13 Name]].  [[Organization 14 Name]].  [[Organization 15 Name]]  [[Organization 14 Name]].  [[Organization 16 Name]]  PADKO INTERNATIONAL INCORPORATED  [[Organization 10 Name]]  [[Organization 11 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]]  [[Organization 12 Name]]  MATERIAL [[Organization 13 Name]].  [[Organization 14 Name]].  [[Organization 15 Name]]  [[Organization 14 Name]].  [[Organization 16 Name]]  PADKO INTERNATIONAL INCORPORATED  [[Organization 10 Name]]  [[Organization 11 Name]] Entity => By: [[[[Organization 4 Name]]  [[Organization 12 Name]]  MATERIAL [[Organization 13 Name]].  [[Organization 14 Name]].  [[Organization 15 Name]]  [[Organization 14 Name]].  [[Organization 16 Name]]  PADKO INTERNATIONAL INCORPORATED  [[Organization 10 Name]]  [[Organization 11 Name]] Signatory First Name]] [[[[Organization 4 Name]]  [[Organization 12 Name]]  MATERIAL [[Organization 13 Name]].  [[Organization 14 Name]].  [[Organization 15 Name]]  [[Organization 14 Name]].  [[Organization 16 Name]]  PADKO INTERNATIONAL INCORPORATED  [[Organization 10 Name]]  [[Organization 11 Name]] Signatory Last Name]]
+Title: [[[[Organization 4 Name]]  [[Organization 12 Name]]  MATERIAL [[Organization 13 Name]].  [[Organization 14 Name]].  [[Organization 15 Name]]  [[Organization 14 Name]].  [[Organization 16 Name]]  PADKO INTERNATIONAL INCORPORATED  [[Organization 10 Name]]  [[Organization 11 Name]] Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+President
+
+Address for Notice:  2930 [[Person 1 First Name]] [[Person 1 Last Name]] [[Address 1: Address]], Suite 300  [[Party 2]]
+Attn:      [[Person 4 First Name]] [[Person 4 Last Name]]
+Telephone:      [[Phone 3]]
+Facsimile:      [[Phone 1]]
+
+**SOONER ENERGY SERVICES**  **[[Organization 17 Name]]**  **[[Organization 18 Name]], INC.**
+
+[[SOONER ENERGY SERVICES  [[Organization 17 Name]]  [[Organization 18 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SOONER ENERGY SERVICES  [[Organization 17 Name]]  [[Organization 18 Name]]. Entity => By: [[SOONER ENERGY SERVICES  [[Organization 17 Name]]  [[Organization 18 Name]]. Signatory First Name]] [[SOONER ENERGY SERVICES  [[Organization 17 Name]]  [[Organization 18 Name]]. Signatory Last Name]]
+Title: [[SOONER ENERGY SERVICES  [[Organization 17 Name]]  [[Organization 18 Name]]. Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+Chief Executive Officer
+
+Address for Notice:  2930 [[Person 1 First Name]] [[Person 1 Last Name]] [[Address 1: Address]], Suite 300  [[Party 2]]
+Attn:      [[Person 4 First Name]] [[Person 4 Last Name]]
+Telephone:      [[Phone 3]]
+Facsimile:      [[Phone 1]]
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 19 Name]] FZE**
+
+[[[[Organization 19 Name]] FZE Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 19 Name]] FZE Entity => By: [[[[Organization 19 Name]] FZE Signatory First Name]] [[[[Organization 19 Name]] FZE Signatory Last Name]]
+Title: [[[[Organization 19 Name]] FZE Signatory Title]]}}
+
+[[Person 3 First Name]] [[Person 3 Last Name]]
+President
+
+Address for Notice:  2930 [[Person 1 First Name]] [[Person 1 Last Name]] [[Address 1: Address]], Suite 300  [[Party 2]]
+Attn:      [[Person 4 First Name]] [[Person 4 Last Name]]
+Telephone:      [[Phone 3]]
+Facsimile:      [[Phone 1]]
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 20 Name]]**
+
+**By:**      **Whitebox Hedged High Yield Advisors**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Managing Member**
+
+[[Its      Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Managing Member Entity => By: [[Its      Managing Member Signatory First Name]] [[Its      Managing Member Signatory Last Name]]
+Title: [[Its      Managing Member Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: British Virgin Islands
+State of Principal Place of Operations: Minnesota
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 22 Name]] 14 LIMITED**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Investment Manager**
+
+[[Its      Investment Manager Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Investment Manager Entity => By: [[Its      Investment Manager Signatory First Name]] [[Its      Investment Manager Signatory Last Name]]
+Title: [[Its      Investment Manager Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: Cayman Islands
+State of Principal Place of Operations:
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 23 Name]]**
+
+**By:**      **Pandora Select Advisors**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Managing Member**
+
+[[Its      Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Managing Member Entity => By: [[Its      Managing Member Signatory First Name]] [[Its      Managing Member Signatory Last Name]]
+Title: [[Its      Managing Member Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: British Virgin Islands
+State of Principal Place of Operations: Minnesota
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 24 Name]]  SERIES B**
+
+**By:**      **Whitebox Special Opportunities Advisors**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Managing Member**
+
+[[Its      Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Managing Member Entity => By: [[Its      Managing Member Signatory First Name]] [[Its      Managing Member Signatory Last Name]]
+Title: [[Its      Managing Member Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: British Virgin Islands
+State of Principal Place of Operations: Minnesota
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 25 Name]]**
+
+**By:**      **Whitebox Combined Advisors**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Managing Member**
+
+[[Its      Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Managing Member Entity => By: [[Its      Managing Member Signatory First Name]] [[Its      Managing Member Signatory Last Name]]
+Title: [[Its      Managing Member Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: British Virgin Islands
+State of Principal Place of Operations: Minnesota
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 26 Name]]**
+
+**By:**      **Whitebox Convertible Arbitrage Advisors**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Managing Member**
+
+[[Its      Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Managing Member Entity => By: [[Its      Managing Member Signatory First Name]] [[Its      Managing Member Signatory Last Name]]
+Title: [[Its      Managing Member Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: British Virgin Islands
+State of Principal Place of Operations: Minnesota
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+In witness whereof, the foregoing Exchange Agreement is hereby executed as of the date first above written. 
+
+**[[Organization 27 Name]]**
+
+**By:**      **[[Organization 28 Name]]**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 21 Name]]**
+**Its:**      **Managing Member**
+
+[[Its      Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Managing Member Entity => By: [[Its      Managing Member Signatory First Name]] [[Its      Managing Member Signatory Last Name]]
+Title: [[Its      Managing Member Signatory Title]]}}
+
+
+Tax Identification No.:
+State of Organization: British Virgin Islands
+State of Principal Place of Operations: Minnesota
+
+Address for Notice:
+c/o [[Organization 21 Name]]
+[[Address 4: Address]]
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]
+Telephone: [[Phone 4]]
+Facsimile: [[Phone 5]]
+
+Delivery Instructions (if different from above):
+
+Attention:
+Telephone:
+Facsimile:
+
+**[[Organization 29 Name]], L.P.**
+
+**By:**      **[[Organization 30 Name]], L.P.**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 31 Name]]**
+**Its:**      **General Partner**
+
+[[Its      General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      General Partner Entity => By: [[Its      General Partner Signatory First Name]] [[Its      General Partner Signatory Last Name]]
+Title: [[Its      General Partner Signatory Title]]}}
+
+
+**[[Organization 29 Name]], L.P.**
+
+**By:**      **[[Organization 30 Name]], L.P.**
+**Its:**      **General Partner**
+
+**By:**      **[[Organization 31 Name]]**
+**Its:**      **General Partner**
+
+[[Its      General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      General Partner Entity => By: [[Its      General Partner Signatory First Name]] [[Its      General Partner Signatory Last Name]]
+Title: [[Its      General Partner Signatory Title]]}}
+
+
+**[[Organization 29 Name]]**
+
+**By:**      **[[Organization 31 Name]]**
+**Its:**      **Investment Advisor**
+
+[[Its      Investment Advisor Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its      Investment Advisor Entity => By: [[Its      Investment Advisor Signatory First Name]] [[Its      Investment Advisor Signatory Last Name]]
+Title: [[Its      Investment Advisor Signatory Title]]}}
+
+
+**EXHIBIT A** 
+
+\centered **SCHEDULE OF INVESTORS** 
+
+**Investor**      **2008 Notes Held**      **2010 Notes to be Received**
+[[Organization 20 Name]]      $   3,724,000      $   3,352,000
+[[Organization 22 Name]] 14 Limited      $   955,000      $   860,000
+[[Organization 23 Name]]      $   1,711,000      $   1,540,000
+[[Organization 24 Name]]  Series B      $   503,000      $   453,000
+[[Organization 25 Name]]      $   11,244,000      $   10,120,000
+[[Organization 26 Name]]      $   4,196,000      $   3,777,000
+[[Organization 27 Name]]      $   167,000      $   151,000
+[[Organization 29 Name]], L.P.      $   8,892,000      $   8,003,00
+[[Organization 29 Name]], L.P.      $   5,612,000      $   5,051,000
+[[Organization 29 Name]]      $   2,696,400      $   2,697,000

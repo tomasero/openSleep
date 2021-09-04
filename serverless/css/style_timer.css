@@ -1,0 +1,143 @@
+/*=================
+   before timer
+*=================*/
+
+#before-timer{
+  width: 100%;
+  height: 90%;
+  position: relative;
+  padding: 8%;
+  text-align: center;
+}
+
+/*================================
+   countdown for time until sleep
+*================================*/
+
+.timer {
+  width: 825px;
+  height: 300px;
+  display: inline-block;
+  position: absolute;
+  top: 18%;
+  left: 18%;
+  color: white;
+  overflow: hidden;
+}
+
+.timer * {
+  cursor: default;
+}
+
+.timer h3 {
+  width: 100%;
+  font-size: 20px;
+  letter-spacing: 4px;
+  text-align: center;
+}
+
+.timer--clock {
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  position: relative;
+  padding-left: 6px;
+  margin-top: -112px;
+  overflow: hidden;
+}
+.timer--clock .clock-display-grp {
+  width: 100%;
+  position: relative;
+}
+.timer--clock .clock-display-grp .number-grp {
+  width: auto;
+  display: block;
+  height: 160px;
+  float: left;
+  overflow: hidden;
+}
+.timer--clock .clock-display-grp .number-grp .number-grp-wrp {
+  width: 100%;
+  top: -130%;
+  position: relative;
+}
+.timer--clock .clock-display-grp .number-grp .number-grp-wrp .num {
+  width: 100%;
+  position: relative;
+  height: 156px;
+}
+.timer--clock .clock-display-grp .number-grp .number-grp-wrp .num p {
+  width: auto;
+  display: table;
+  font-size: 205px;
+  line-height: 150px;
+  font-weight: normal;
+}
+.timer--clock .clock-separator {
+  width: auto;
+  float: left;
+  display: block;
+  height: 156px;
+  top: -130%;
+}
+.timer--clock .clock-separator p {
+  width: auto;
+  display: table;
+  font-size: 205px;
+  line-height: 120px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+#loops-remaining{
+  padding: 1%;
+}
+
+#session-buttons{
+  justify-content: center;
+	width: 100%;
+	height: 8%;
+	padding: 2%;
+	display: flex;
+	position: fixed;
+	bottom: 0;
+}
+
+#session-buttons button{
+  width: 50%;
+  height: 100%;
+  margin: 0% 2% 2% 2%;
+  text-align: center;
+  background: transparent;
+  border: 2px solid white;
+  cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+#new-button{
+	width: 100%;
+	height: 100%;
+	padding: 10%;
+	text-align: center;
+	color: white;
+}
+
+#new-button button{
+	width: 50%;
+	height: 20%;
+	margin: 0% 2% 2% 2%;
+	text-align: center;
+	background: transparent;
+	border: 2px solid white;
+	cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}

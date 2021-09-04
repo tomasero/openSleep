@@ -1,0 +1,60 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **AMENDMENT TO EMPLOYMENT AGREEMENT** 
+
+This Amendment to Employment Agreement (the “*Amendment*”) is entered into as of [[Date 1: Date]] (the “*Effective Date*”), between [[Executive]] (the “*Executive*”), [[Organization 2 Name]] (the “*Company*”) and [[Organization 3 Name]] (the “*Acquirer*”). Capitalized terms that are not defined in this Amendment shall have the meaning ascribed to them in the Unit Purchase Agreement (hereafter defined). 
+
+\centered **RECITALS** 
+
+WHEREAS, on [[Date 2: Date]], the Executive and the Company entered into an employment agreement (the “*Predecessor Employment Agreement*”) which set forth the terms of the Executive’s employment with the Company; 
+
+WHEREAS, on [[Date 3: Date]], the Executive and the Company amended and restated the Predecessor Employment Agreement (the “*Employment Agreement*”); 
+
+WHEREAS, Section 19.01 of the Employment Agreement provides that the Employment Agreement may be modified by a writing signed by each of the parties thereto; 
+
+WHEREAS the Acquirer, Harvest Partners V L.P., [[Organization 4 Name]] (solely in its capacity as Sellers’ Representative thereunder), [[Organization 1 Name]], and other persons signatory thereto including the Executive entered into a unit purchase agreement dated [[Date 4: Date]] (the “*Unit Purchase Agreement*”); 
+
+WHEREAS, as a condition and inducement to the Acquirer entering into the Unit Purchase Agreement, the Executive executed and delivered the Binding MOU (as defined in the Unit Purchase Agreement) dated [[Date 4]]; and 
+
+WHEREAS the Binding MOU provides for and the parties wish to amend certain provisions of the Employment Agreement regarding the term of employment of the Executive and payments to the Executive upon a change of control pursuant to the terms and conditions set forth below. 
+
+\centered **AGREEMENT** 
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual agreements contained herein and intending to be legally bound hereby, the parties hereby agree that the Employment Agreement shall be amended effective as of the Effective Date to the extent necessary to give effect to this Amendment as follows: 
+
+^The first two sentences of Section 3.01 of the Employment Agreement shall be amended and restated in their entirety with the following language: 
+
+“Unless earlier terminated pursuant to Article 15, Employee’s initial term of employment hereunder shall commence on [[Date 3]] and shall continue through the 2nd anniversary 
+
+of the “*Closing Date*” (as defined in the Unit Purchase Agreement) (the “*Initial Term*”). Thereafter, this Agreement shall automatically renew for successive one-year periods on the same terms and conditions set forth herein unless: (a) earlier terminated or amended as provided herein or (b) either party gives written notice of non-renewal at least sixty (60) days prior to the end of the Initial Term or any renewal term of this Agreement.” 
+
+^With respect to the second paragraph of Section 4.02 of the Employment Agreement, Executive shall be entitled to receive the single lump sum change of control payment from the Sellers (as defined in the Unit Purchase Agreement) in respect of the Closing (as defined in the Unit Purchase Agreement), but shall not be entitled to any further change of control payments after the Closing Date (irrespective of whether Employer undergoes a subsequent “*Change of Control*” (as defined in the Employment Agreement) after the Closing Date). 
+
+^Except as set forth herein, all other terms and conditions of the Employment Agreement shall remain in full force and effect. 
+
+^If the Unit Purchase Agreement is terminated pursuant to its terms prior to the Closing, then this Amendment will be null and void and of no further force or effect. 
+
+\centered **[signature page follows]** 
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first written above. 
+
+**[[Organization 2 Name]]**
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+**[[Organization 3 Name]]**
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+
+**EXECUTIVE**
+
+/s/ [[Executive]]
+[[Executive]]

@@ -1,0 +1,56 @@
+**[[Organization 1 Name]]** 
+
+Profit Sharing Example 
+
+Year Ended [[Date 1: Date]] 
+
+Cash Incentive Bonus Computation: 
+
+The employee cash incentive bonus (“bonus”) is based on EDGEN MURRAY II, L.P. (“EDGEN MURRAY”) achieving its target earnings before interest expense, income taxes, depreciation and amortization (“EBITDA”). No bonus will be earned until EDGEN MURRAY has achieved [[Percentage 1: Number]]% of the target EBITDA amount. Once the [[Percentage 1]]% level has been achieved, the bonus will be earned as follows. For each percentage point achieved in excess of [[Percentage 1]]%, the employee will earn [[Percentage 2: Number]]% of his/her target bonus. If the actual [[Person 1 First Name]] [[Person 1 Last Name]] exceeds [[Percentage 3: Number]]% of target, the employee will continue to earn an additional [[Percentage 4: Number]]% of the target bonus for each additional [[Percentage 4]]% that EBITDA exceeds the target. 
+
+Employee: John 
+
+Annual Base Salary as of [[Date 2: Date]]: $[[USD Value 1: Number]] 
+
+Target Profit Sharing Bonus: [[Percentage 5: Number]]% of Annual Base Salary ($[[USD Value 2: Number]]) 
+
+^^^EDGEN MURRAY achieves [[Percentage 3]]% or less of target EBITDA; the bonus will be calculated as:
+
+(Percent of EBITDA Achieved  Minimum Percent) x 2 x Target Bonus Amount 
+
+For example, if EDGEN MURRAY achieves [[Percentage 6: Number]]% of EBITDA target, the bonus will be ([[Percentage 6]]%  [[Percentage 1]]%) x 2 = [[Percentage 7: Number]]% x $[[USD Value 2]] = $[[USD Value 3: Number]] 
+
+^^^EDGEN MURRAY achieves greater than [[Percentage 3]]% of target EBITDA; the bonus will be calculated as:
+
+Target Bonus ($[[USD Value 2]]) + (Percent of EBITDA achieved  [[Percentage 3]]%) = Bonus 
+
+For example, if EDGEN MURRAY achieves [[Percentage 8: Number]]% of target EBITDA, the bonus will be $[[USD Value 2]] + [([[Percentage 8]]%  [[Percentage 3]]%) x $[[USD Value 2]]] = $[[USD Value 4: Number]] 
+
+Important Note: To be eligible for the full amount of the cash incentive bonus, the employee must have been employed as of [[Date 3: Date]], and must still be employed at time(s) of payment. The profit sharing bonus will be paid on or about [[Date 4: Date]]. 
+
+**Target Bonus:**      **$**   2,500
+
+**Bonus Table:** 
+
+\centered **Percent of Target EBITDA**      **Percent of Target Bonus Earned**         **$ Amount of** **Bonus Earned**
+^to 50       %      $
+
+%      $  
+
+%      $  
+
+%      $   1,000
+
+%      $   1,500
+
+%      $   2,000
+
+%      $   2,500
+
+%      $   2,750
+
+%      $   3,000
+
+\centered All calculations shown are US Dollars. Actual payments will be converted to and paid in the 
+
+\centered currency in which you are normally paid.

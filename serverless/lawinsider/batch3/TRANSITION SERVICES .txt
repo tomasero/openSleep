@@ -1,0 +1,817 @@
+\centered **TRANSITION SERVICES AGREEMENT** 
+
+\centered **by and between** 
+
+\centered [[Citi]] 
+
+\centered **and** 
+
+\centered [[Party]], INC.** 
+
+\centered **Dated as of [[Date 1: Date]]** 
+
+\centered **Table of Contents** 
+
+ARTICLE I DEFINITIONS
+
+Section 1.1      Definitions     
+
+ARTICLE II SERVICES
+
+Section 2.1      Services to be Provided to [[Party]]     
+
+Section 2.2      Services to be Provided to Citi     
+
+Section 2.3      Management of Services by Provider     
+
+Section 2.4      Omitted Services     
+
+Section 2.5      Additional Services     
+
+Section 2.6      Service Coordinators     
+
+Section 2.7      Standard of Performance     
+
+Section 2.8      Cooperation     
+
+Section 2.9      Migration and Integration     
+
+Section 2.10      Conduct of Affiliates     
+
+ARTICLE III LIMITATIONS
+
+Section 3.1      General Limitations     
+
+Section 3.2      Third Party Limitations     
+
+Section 3.3      Compliance with Laws     
+
+Section 3.4      Excluded Services     
+
+Section 3.5      Force Majeure     
+
+Section 3.6      [[Organization 1 Name]]     
+
+Section 3.7      Interim Basis Only     
+
+Section 3.8      No Adverse Effect     
+
+ARTICLE IV PAYMENT
+
+Section 4.1      Base Term Fees     
+
+Section 4.2      Adjustments to Base Cost     
+
+Section 4.3      Billing and Payment Terms     
+
+Section 4.4      Sales Taxes     
+
+Section 4.5      No Offset     
+
+ARTICLE V ACCESS AND SECURITY
+
+Section 5.1      Access to Networks     
+
+Section 5.2      Policies and Procedures     
+
+Section 5.3      Record Retention     
+
+Section 5.4      Audit     
+
+Section 5.5      Regulatory Audit     
+
+Section 5.6      Audit Results     
+
+Section 5.7      Sarbanes Oxley     
+
+ARTICLE VI CONFIDENTIALITY
+
+Section 6.1      Confidential Materials     
+
+Section 6.2      Permitted Disclosures     
+
+Section 6.3      Disclosure in Compliance with Law     
+
+Section 6.4      Unauthorized Disclosures     
+
+Section 6.5      Failure to Comply     
+
+Section 6.6      Injunctive Relief     
+
+ARTICLE VII INTELLECTUAL PROPERTY AND DATA
+
+Section 7.1      Ownership of Data and Intellectual Property     
+
+Section 7.2      Data Protection     
+
+ARTICLE VIII DISCLAIMER OF WARRANTIES
+
+Section 8.1      Disclaimer of Warranties     
+
+ARTICLE IX INDEMNIFICATION
+
+Section 9.1      Indemnification of [[Party]]     
+
+Section 9.2      Indemnification of Citi     
+
+Section 9.3      Indemnification Procedures     
+
+Section 9.4      Limitations     
+
+Section 9.5      Exclusions     
+
+Section 9.6      Payments     
+
+Section 9.7      Insurance     
+
+Section 9.8      Remedies Exclusive     
+
+Section 9.9      Mitigation     
+
+ARTICLE X TERM AND TERMINATION
+
+Section 10.1      Term of Agreement     
+
+Section 10.2      Termination     
+
+Section 10.3      Effect of Termination     
+
+\centered ii. 
+
+ARTICLE XI MISCELLANEOUS
+
+Section 11.1      Construction; Absence of Presumption     
+
+Section 11.2      Headings     
+
+Section 11.3      Notices     
+
+Section 11.4      Governing Law     
+
+Section 11.5      Jurisdiction; Venue; Consent to Service of Process     
+
+Section 11.6      Entire Agreement     
+
+Section 11.7      Amendment, Modification and Waiver     
+
+Section 11.8      Severability     
+
+Section 11.9      Successors and Assigns; No Third Party Beneficiaries     
+
+Section 11.10      WAIVER OF JURY TRIAL     
+
+Section 11.11      Expenses     
+
+Section 11.12      Counterparts     
+
+Section 11.13      Relationship of the Parties     
+
+Section 11.14      Dispute Resolution     
+
+SCHEDULES 
+
+Schedule 2.1(a)      Citi Non-Benefits Services
+Schedule 2.1(b)      [[Organization 2 Name]]
+Schedule 2.2      [[Party]] Services
+Schedule 2.5      Additional Services
+Schedule 2.6      Service Coordinators
+Schedule 3.4      Excluded Services
+Schedule 3.7      Enterprise License Agreements
+Schedule 11.14      Executive Committee
+
+\centered iii. 
+
+\centered **TRANSITION SERVICES AGREEMENT** 
+
+This **TRANSITION SERVICES AGREEMENT** (this “Agreement”), dated as of [[Date 1]] (the “Effective Date”), by and between [[Citi]], a [[State of Formation: State]] [[Organization: EntityType]] (“Citi”), and [[Party]], INC., a [[State of Formation: State]] [[Organization: EntityType]] (“[[Party]],” together with Citi, the “Parties,” and each individually a “Party”). 
+
+WHEREAS, Citi is the indirect owner of all of the issued and outstanding common stock of [[Party]] immediately prior to the date hereof; and 
+
+WHEREAS, in contemplation of [[Party]] ceasing to be so wholly owned by Citi, the Parties hereto have determined that it is necessary and desirable to set forth certain agreements that will govern certain matters between the Parties hereto following the completion of the initial public offering of the common stock of [[Party]] as of the Effective Date, and this Agreement is one such agreement. 
+
+NOW THEREFORE, in consideration of the mutual promises and covenants set forth herein, and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows: 
+
+\centered **DEFINITIONS** 
+
+^Definitions. Unless the context clearly requires otherwise, the following terms shall have the following meanings: 
+
+“AAA” shall have the meaning set forth in Section 11.15. 
+
+“Additional Service” shall have the meaning set forth in Section 2.5(a). 
+
+“Affiliate” shall mean, with respect to a Party, any person or entity that, directly or indirectly, Controls, or is Controlled by, or is under common Control with, such Party. For the purposes of this Agreement, neither Party shall be deemed an Affiliate of the other. 
+
+“Auditors Attestation” shall have the meaning set forth in Section 5.7(b). 
+
+“Bank Holding Company Act” shall mean [[Organization 3 Name]] Act of 1956, as amended, and the rules, regulations and interpretations of the Federal Reserve Board thereunder. 
+
+“Base Cost” shall have the meaning set forth in Section 4.1(a) & (b). 
+
+“Base Term” shall have the meaning set forth in Article X. 
+
+“Beneficially Own” and “Beneficially Owned” means “beneficial ownership” within the meaning of Rule 16a-1(a)(2) promulgated by the SEC under the Exchange Act. 
+
+“BHCA Side Letter” shall have the meaning set forth in Section 10.1(b). 
+
+“Business” shall mean the business of the subsidiaries of [[Party]] as the business was operated by them in the ordinary course prior to the Effective Date. 
+
+“Business Day” shall mean any day other than a Saturday, a Sunday or a legal holiday or a day on which banking institutions or trust companies are authorized or obligated by law to close in The City of [[Address 1: Address]] 
+
+“[[Organization 2 Name]]” shall have the meaning set forth in Section 2.1(b). 
+
+“Citi Fees” shall have the meaning set forth in Section 4.1(a). 
+
+“Citi Indemnified Parties” shall have the meaning set forth in Section 9.2. 
+
+“Citi Non-Benefits Services” shall have the meaning set forth in Section 2.1(a). 
+
+“Citi Parties” shall mean, as applicable, (a) Citi, its Affiliates and its or their third party service providers, when providing Services or (b) Citi and its Affiliates, when receiving Services. 
+
+“Citi Services” shall have the meaning set forth in Section 2.1(b). 
+
+“[[Organization 4 Name]]” means, collectively, [[Organization 4 Name]] and all corporations, partnerships, joint ventures, limited liability companies, associations and other entities (a) in which [[Organization 4 Name]] owns, directly or indirectly, fifty percent ([[Percentage 1: Number]]%) or more of the outstanding voting stock, voting power, partnership interests or similar ownership interests, (b) of which [[Organization 4 Name]] otherwise directly or indirectly controls or directs the policies or operations or (c) which would be considered subsidiaries of [[Organization 4 Name]] within the meaning of Regulation S-K or Regulation S-X, now or hereafter existing, other than [[Party]] and its Subsidiaries, now or hereafter existing (all determinations hereunder to be made after giving effect to the Reorganization (as defined in the Intercompany Agreement). 
+
+\centered 2. 
+
+“Common Stock” means the common stock, par value $[[USD Value 2: Number]] per share, of [[Party]] and any other class or series of common stock of [[Party]] hereafter created. 
+
+“Compliance Period” shall have the meaning set forth in Section 5.7. 
+
+“Confidential Material” shall have the meaning set forth in Section 6.1. 
+
+“Control” and its derivatives mean legal, beneficial or equitable ownership, directly or indirectly, of more than fifty percent ([[Percentage 1]]%) of the outstanding voting capital stock (or other ownership interest, if not a corporation) of an entity, or actual managerial or operational control over such entity. 
+
+“Dispute” shall have the meaning set forth in Section 11.14. 
+
+“Enterprise License Agreement” shall mean each agreement that is set forth on Schedule 3.7, in each case as such agreement exists as of the Effective Date. 
+
+“Excluded Services” shall have the meaning set forth in Section 3.4. 
+
+“Executive Committee” shall have the meaning set forth in Section 11.14. 
+
+“Extension Term” shall have the meaning set forth in Section 10.1(a). 
+
+“Fees” shall mean the [[Party]] Fees and the Citi Fees. 
+
+“First Benefits Extension Term” shall have the meaning set forth in Section 10.1(a)(i). 
+
+“First Trigger Date” means the earlier of (i) the first date on which the members of the [[Organization 4 Name]] cease to Beneficially Own, in the aggregate, shares entitled to fifty percent ([[Percentage 1]]%) or more of the votes entitled to be cast by the holders of then outstanding Common Stock and (ii) the first date on which [[Party]] and its Subsidiaries is or shall be deemed to have been, under GAAP, deconsolidated from [[Organization 4 Name]] for purposes of [[Organization 4 Name]]’s consolidated financial statements. 
+
+“Force Majeure Event” shall have the meaning set forth in Section 3.5(a). 
+
+“Governmental Authority” means any federal, state, local or foreign government, any court, administrative, regulatory or other governmental agency, commission or authority or any organized securities exchange. 
+
+\centered 3. 
+
+“Historical Methodology” means the process used prior to the Effective Date to determine the fees and costs charged to each Service recipient for the applicable Service. 
+
+“Indemnified Parties” shall mean the Citi Indemnified Parties and the [[Party]] Indemnified Parties. 
+
+“Indemnified Party Counsel” shall have the meaning set forth in Section 9.3(b)(iv). 
+
+“Indemnifying Party” shall mean (a) Citi, with respect to any claim for or right to indemnification pursuant to Article IX by a [[Party]] Indemnified Party, and (b) [[Party]], with respect to any claim for or right to indemnification pursuant to Article IX by a Citi Indemnified Party. 
+
+“Indemnity Payments” shall have the meaning set forth in Section 9.6. 
+
+“Intellectual Property” shall mean all intellectual property, including all (i) inventions (whether patentable or unpatentable and whether or not reduced to practice), improvements thereto, and patents, patent applications, and patent disclosures, together with provisionals, reissuances, continuations, continuations-in-part divisions, revisions, extensions, and reexaminations thereof, (ii) Trademarks, (iii) copyrights and website content, and applications, registrations, and renewals in connection therewith, (iv) trade secrets, know-how and confidential business information and, (v) software (in any form), and electronic data, databases, and data collections. 
+
+“Intercompany Agreement” shall mean the Intercompany Agreement by and between Citi and [[Party]], dated as of [[Date 1]]. 
+
+“Law” shall mean any law, rule, regulation, ordinance, treaty, writ, judicial decision, judgment, injunction, decree, determination, award or other order of any Governmental Authority. 
+
+“Losses” shall mean all losses, liabilities, claims, damages, settlements, judgments, awards, actions, suits, fines, penalties, assessments, and all related costs and expenses (including taxes, reasonable attorneys’ fees and disbursements, and costs of investigation, litigation and settlement). 
+
+“Network” shall mean a Party’s and its Affiliates’ information systems, including all data they contain and all computer software and hardware. 
+
+\centered 4. 
+
+“Personnel” shall mean, with respect to any Party, the employees, officers, agents, independent contractors and consultants of (a) such Party, (b) the Affiliates of such Party and (c) any third parties engaged by such Party or its Affiliates to provide a Service. 
+
+“[[Party]] Fees” shall have the meaning set forth in Section 4.1(b). 
+
+“[[Party]] Indemnified Parties” shall have the meaning set forth in Section 9.1. 
+
+“[[Party]] Parties” shall mean, as applicable, (a) [[Party]], its Affiliates and its or their third-party service providers, when providing Services or (b) [[Party]] and its Affiliates, when receiving Services. 
+
+“[[Party]] Services” shall have the meaning set forth in Section 2.2(a). 
+
+“Regulatory Bodies” shall have the meaning set forth in Section 5.5. 
+
+“Rules” shall have the meaning set forth in Section 11.15. 
+
+“Sales Taxes” shall have the meaning set forth in Section 4.4. 
+
+“Sarbanes Oxley Act” shall have the meaning set forth in Section 5.7. 
+
+“Second Benefits Extension Term” shall have the meaning set forth in Section 10.1(a)(ii). 
+
+“Service Coordinator” shall have the meaning set forth in Section 2.6. 
+
+“Service Data” shall have the meaning set forth in Section 7.1(c). 
+
+“Services” shall mean the Citi Services, [[Party]] Services, Omitted Services and Additional Services, including any and all systems, feeds, Networks and Intellectual Property to which a Party has access prior to the Effective Date and which are necessary to provide or receive such Services. 
+
+“Term” shall have the meaning set forth in Section 10.1. 
+
+“Third Party Claim” shall have the meaning set forth in Section 9.1. 
+
+\centered 5. 
+
+“Trademarks” shall mean all registered and unregistered trademarks, service marks, Internet domain names and other similar designations of source or origin, together with the goodwill associated with any of the foregoing. 
+
+\centered 6. 
+
+\centered **SERVICES** 
+
+^Services to be Provided to [[Party]] 
+
+^^Citi shall provide, or shall cause its Affiliates or third-party service providers to provide, to the [[Party]] Parties all services (other than the [[Organization 2 Name]]) provided to the Business in the ordinary course prior to the Effective Date to the extent provided prior to the Effective Date, as the services are set forth on Schedule 2.1(a) (the “Citi Non-Benefits Services”). Solely for informational purposes, and without limiting Citi’s rights pursuant to Section 10.2(b)(ii), Schedule 2.1(a) indicates those Citi Non-Benefits Services that, as of the Effective Date, Citi believes based upon reasonable diligence that [[Party]] must continue to receive to ensure compliance by Citi or its Affiliates with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive. 
+
+^^Citi shall provide, or shall cause its Affiliates or third party service providers to provide, to the [[Party]] Parties the employee-benefit related services provided to the Business in the ordinary course prior to the Effective Date to the extent provided prior to the Effective Date, as the services are set forth on Schedule 2.1(b) (the “[[Organization 2 Name]]” and, together with the Citi Non-Benefits Services, the “Citi Services”). Solely for informational purposes, and without limiting Citi’s rights pursuant to Section 10.2(b)(ii), Schedule 2.1(b) indicates those [[Organization 2 Name]] that, as of the Effective Date, Citi believes based upon reasonable diligence that [[Party]] must continue to receive to ensure compliance by Citi or its Affiliates with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive. 
+
+^^Citi may, in its sole discretion and without any written notice to [[Party]], engage, or cause one of its Affiliates to engage, one or more persons (including third parties or Affiliates of Citi) to provide some or all of the Citi Services, except to the extent such engagement is prohibited by applicable Law; provided, that Citi shall be responsible for the performance or non-performance of any such persons, and shall remain responsible for the performance of the Citi Services in accordance with this Agreement. 
+
+^^In the event that [[Party]] internally restructures, reorganizes or transfers all or any part of the Business to an Affiliate or a third party, [[Party]] may pass through the Citi Services to such Affiliate or third party; provided, that [[Party]] shall (i) remain responsible for the acts and omissions of such Affiliate or third party in connection with such Citi Services and (ii) be responsible for any incremental costs or other expenses incurred by Citi in connection with providing such Citi Services to such Affiliate or third party. Citi shall continue to provide the Citi Services to such Affiliate or third party to the extent provided prior to such restructuring, reorganization or transfer, but only insofar as such Affiliate or such third party continues to conduct the Business. 
+
+\centered 7. 
+
+^Services to be Provided to Citi. 
+
+^^[[Party]] shall provide, or shall cause its Affiliates or third-party service providers to provide, to the Citi Parties all services provided to the business of Citi and its Affiliates in the ordinary course prior to the Effective Date to the extent provided prior to the Effective Date, as the services are set forth on Schedule 2.2 (the “[[Party]] Services”). 
+
+^^[[Party]] may, in its sole discretion and without any written notice to Citi, engage, or cause one of its Affiliates to engage, one or more persons (including third parties or Affiliates of [[Party]]) to provide some or all of the [[Party]] Services, except to the extent such engagement is prohibited by applicable Law; provided, that [[Party]] shall be responsible for the performance or non-performance of any such persons, and shall remain responsible for the performance of the [[Party]] Services in accordance with this Agreement. 
+
+^^In the event that Citi internally restructures, reorganizes or transfers all or any part of the business to which the [[Party]] Services relate to an Affiliate or a third party, Citi may pass through the [[Party]] Services to such Affiliate or third party; provided, that Citi shall (i) remain responsible for the acts and omissions of such Affiliate or third party in connection with such [[Party]] Services and (ii) be responsible for any incremental costs or other expenses incurred by [[Party]] in connection with providing such [[Party]] Services to such Affiliate or third party. [[Party]] shall be obligated to continue to provide the [[Party]] Services to such Affiliate or third party to the extent provided prior to such restructuring, reorganization or transfer, but only insofar as such Affiliate or such third party continues to conduct the business to which the [[Party]] Services relate. 
+
+^Management of Services by Provider. Except as may otherwise be expressly provided in this Agreement, the management of and control over the provision of the Services by a Party shall reside solely with the Party providing such Services, and notwithstanding anything to the contrary herein, such Party shall at any time be permitted to (a) choose the methodology, systems and applications it utilizes in the provision of such Services, including without limitation the location from which any Service is provided at any time and (b) subject to Section 7.14 of the Intercompany Agreement, change its policies or procedures or any Affiliates or third parties that provide any Services; provided that such Party provide reasonable advance written notice to the Party receiving the Services of any change in order for the Party receiving the Service to make, in an appropriate and economical manner, all necessary modifications required as a result of the changes. Notwithstanding any changes, the Party providing the Services shall remain responsible for the performance of the Services in accordance with this Agreement. 
+
+^Omitted Services. If, at any time within ninety (90) days following the Effective Date, either Party becomes aware of any service that had been provided prior to the Effective Date that is not included on Schedule 2.1(a), Schedule 
+
+\centered 8. 
+
+2.1(b) or Schedule 2.2, as applicable, and which the Parties had not included as an Excluded Service on Schedule 3.4 (each such service, an “Omitted Service”), then upon notice to the other Party, such service will be added to the applicable schedule and become a Citi Service or [[Party]] Service, as applicable. The Party that must resume such Service shall resume provision of such Service as soon as reasonably practicable. The cost of any Omitted Service shall be determined in accordance with Section 4.1. 
+
+^Additional Services. 
+
+^^If either Party desires to receive an additional service (or to expand the scope or lengthen the duration of any Service), the Service Coordinators shall meet (in person or by telephone) within ten (10) days of the other Party’s receipt of a written notice by the Party desiring to add such additional service to discuss in good faith whether such other Party is willing to provide such additional service (or such expanded scope or lengthened duration of a Service) (each such service, to the extent provided, an “Additional Service”). 
+
+^^The Parties shall mutually agree on the scope, terms, Base Cost and duration of all Additional Services, all of which shall be set forth on Schedule 2.5. 
+
+^Service Coordinators. Citi and [[Party]] shall each nominate a representative to act as the primary contact person with respect to the performance of the Services (each, a “ Service Coordinator”). Unless otherwise agreed upon by the Parties, all communications relating to this Agreement and to the Services provided hereunder shall be directed to the Service Coordinators. The initial Service Coordinators for [[Party]] and Citi, including relevant contact information, are set forth on Schedule 2.6. Either Party may replace its Service Coordinator at any time by providing notice in accordance with Section 11.3 of this Agreement. 
+
+^Standard of Performance. Each Party shall (and shall cause any party performing services on its behalf to) use commercially reasonable efforts, skill and judgment in providing the Services. Without limiting the foregoing, all Services shall be provided in a timely and professional workmanlike manner, consistent with applicable Law and with recent past practice prior to the Effective Date. 
+
+^Cooperation. 
+
+^^Each Party shall use commercially reasonable efforts, and shall use commercially reasonable efforts to cause its respective Affiliates and third-party service providers, to cooperate reasonably with the other Party in all matters relating to the provision and receipt of the Services and to minimize the expense, distraction and disturbance to each Party, and shall perform all obligations hereunder in good faith and in accordance with principles of fair dealing. Such cooperation shall include (i) the execution and delivery of such further instruments or documents as may be reasonably requested by the other Party to enable the full performance of each Party’s obligations hereunder and (ii) notifying the other Party in advance of any changes to a Party’s operating environment or Personnel (especially changes with respect to employee status), and working with the other Party to minimize the effect of such changes. 
+
+\centered 9. 
+
+^^Each Party will use commercially reasonable efforts to provide information and documentation sufficient for the other Party to perform the Citi Services or the [[Party]] Services, as applicable, in the manner they were provided in the ordinary course prior to the Effective Date, and will use commercially reasonable efforts to make available, as reasonably requested by the other Party, sufficient resources and timely decisions, approvals and acceptances in order that the other Party may perform its obligations under the agreement in a timely and efficient manner. 
+
+^^The [[Party]] Parties and the Citi Parties, in each case as Service recipient, shall follow, and shall cause their respective Affiliates and third-party service providers to follow, the policies, procedures and practices with respect to the Services followed by the Citi Parties or the [[Party]] Parties, in each case as Service providers, immediately prior to the Effective Date, except for any changes to such policies, procedures and practices required due to changes in applicable Law (or changes in the interpretation or enforcement of applicable Law) following the Effective Date of which the Party making such change has provided such advance notice as is reasonable under the circumstances. A failure of either Party to act in accordance with this Section 2.8 that prevents the other Party or its Affiliates or third parties from providing a Service hereunder shall relieve the Party providing the Service of its obligation to provide such Service until such time as the failure has been cured; provided, that the Party claiming the failure has previously notified the other Party in writing of such failure. 
+
+^Migration and Integration. Each Party shall bear its own costs incurred in migrating the Citi Services or the [[Party]] Services, as applicable, from the other Party’s systems and technology and to integrate the Citi Services or the [[Party]] Services, as applicable, with such Party’s own systems and technology; provided that the Parties shall use reasonable efforts, communication and cooperation to achieve the migration and transition of Citi Services and [[Party]] Services, as applicable, in a timely (with a recognition of Section 3.7 below) and cost-efficient manner for each of the Parties to the extent commercially reasonable. 
+
+^Conduct of Affiliates. To the extent that any Service is provided or received by an Affiliate of a Party, such Party shall cause such Affiliate to comply with the terms and conditions of this Agreement relating to the provision and receipt of the Services as if such Affiliate were a named Party under this Agreement. 
+
+\centered **LIMITATIONS** 
+
+^General Limitations. 
+
+^^Unless expressly provided otherwise herein (i) Citi Parties shall be required to provide the Citi Services hereunder only to the extent that such Citi Services were provided to the Business and (ii) the Citi Services shall be available only for the purposes of conducting the Business. 
+
+\centered 10. 
+
+^^Unless expressly provided otherwise herein (i) [[Party]] Parties shall be required to provide the [[Party]] Services hereunder only to the extent that such [[Party]] Services were provided to Citi or its Affiliates in the ordinary course prior to the Effective Date and (ii) the [[Party]] Services shall be available only for the purposes of conducting the business of Citi and its Affiliates. 
+
+^^In no event shall either Party (or its Affiliates) be obligated to maintain the employment of any specific employee or, unless the other Party agrees to bear all associated costs, acquire any specific additional equipment or software; provided, that such Party shall remain responsible for the performance of the Citi Services or [[Party]] Services, as applicable, in accordance with this Agreement. 
+
+^Third Party Limitations. Each Party acknowledges and agrees that the Services provided by a Party through third parties or using third-party Intellectual Property are subject to the terms and conditions of any applicable agreements between the provider of such Service and such third parties. Each Party providing Services through third parties or using third-party Intellectual Property shall use commercially reasonable efforts to (a) obtain any necessary consent from such third parties in order to provide such Services or (b) if any such consent is not obtained, provide acceptable alternative arrangements to provide the relevant Services sufficient for the other Party’s purposes. All costs associated with (a) and (b), above, shall be borne by the Party receiving the applicable Service; provided that the Party providing such Service shall not incur any such costs without the prior written consent of the Party receiving such Service. If any such acceptable alternative arrangement is not reasonably available or the Party receiving such Service does not consent to pay such additional costs, the Party scheduled to provide such Service shall not be required to provide such Service. 
+
+^Compliance with Laws. Neither Party shall provide, or cause to be provided, any Service to the extent that the provision of such Service would require such Party, any of its Affiliates or any of their respective Personnel to violate (a) any applicable Law or (b) any policies or procedures of such Party that were established in response to regulatory concerns. If at any time during the term of this Agreement, either Party becomes aware of any facts or circumstances which would cause the provision of any Service to result in any such violation, such Party, as applicable, shall promptly give notice thereof to the other Party; provided (a) the Parties make commercially reasonable efforts to provide acceptable alternative arrangements to provide the relevant Services sufficient for the other Party’s purposes in a manner that complies with applicable Law and (b) all costs associated with the acceptable alternative arrangement shall be borne by the Party receiving the applicable Services. 
+
+^Excluded Services. Notwithstanding anything to the contrary set forth herein, in no event shall the Services include any of the services set forth on Schedule 3.4 (the “ Excluded Services”). 
+
+\centered 11. 
+
+^Force Majeure. 
+
+^^The Parties shall use commercially reasonable efforts to provide, or cause to be provided, the Services without interruption. If any Party providing, or causing to be provided, Services is wholly or partially prevented from, or delayed in, providing one or more Services, or one or more Services are interrupted or suspended, by reason of events beyond its reasonable control (including acts of God, fire, explosion, accident, floods, earthquakes, embargoes, epidemics, war, acts of terrorism, or nuclear disaster) (each, a “Force Majeure Event”), such Party shall not be obligated to deliver the affected Services during such period, and the Party that would have received such Services shall not be obligated to pay for any Services not delivered. 
+
+^^Upon the occurrence of a Force Majeure Event, the affected Party shall promptly give written notice to the other Party of the Force Majeure Event upon which it intends to rely to excuse its performance, and of the expected duration of such Force Majeure Event. The duties and obligations of such Party hereunder shall be tolled for the duration of the Force Majeure Event, but only to the extent that the Force Majeure Event prevents such Party from performing its duties and obligations hereunder. 
+
+^^During the duration of a Force Majeure Event, the affected Party shall use commercially reasonable efforts to avoid or remove such Force Majeure Event, and shall use commercially reasonable efforts to resume its performance under this Agreement with the least practicable delay. From and during the occurrence of a Force Majeure Event, the other Party may replace the affected Services by providing such Services for itself or engaging a third party to provide such Services. 
+
+^^For the period beginning thirty (30) days after the occurrence of a Force Majeure Event and ending upon the termination of such Force Majeure Event, the affected Party shall pay or reimburse, as applicable, the difference, if any, between (i) all of the other Party’s reasonable costs associated with any replacement Services and (ii) the amount the other Party would have paid to such Party under the terms of this Agreement for the provision of such Services had such Party continued to perform such Services. 
+
+^[[Organization 1 Name]]. No Party shall be required to provide [[Organization 1 Name]] to the extent that the Party that would receive such Services has materially altered the equipment, hardware or software to which such [[Organization 1 Name]] pertain. 
+
+^Interim Basis Only. Each Party acknowledges that the purpose of this Agreement is to provide Services to the other Party on an interim basis, until such Party can perform the Services for itself. Accordingly, at all times from and after the Effective Date, each Party receiving Services hereunder shall use commercially reasonable efforts to make or obtain any approvals, permits or licenses, implement any computer systems and take, or cause to be taken, any and all other actions necessary or advisable for it to provide such Services for itself as soon as commercially reasonably 
+
+\centered 12. 
+
+practicable; provided that this Section 3.7 shall not apply to [[Party]]’s continued receipt of the Citi Service that consists of the ability to receive products or services, as applicable, pursuant to the Enterprise License Agreements, which shall be governed by Section 10.1(c). 
+
+^No Adverse Effect. In providing the Services, no Party shall take any action that could reasonably be expected to have a material adverse effect on the assets or business of the other Party or any of its Affiliates, or on the ability of the other Party to comply with its obligations under this Agreement, without obtaining such other Party’s prior written consent. 
+
+\centered **PAYMENT** 
+
+^Base Term Fees. 
+
+^^In consideration for the Citi Services and subject to Section 10.1(b) and Section 10.2(b)(ii), [[Party]] shall pay to Citi (i) fees and costs for each such Citi Service or Additional Service (x) as determined in a manner consistent with the Historical Methodology or (y) as otherwise expressly agreed by the Parties prior to the Effective Date, or in the case of an Additional Service, after the Effective Date (the “Base Cost”) plus (ii) to the extent not covered by the Base Cost, any reasonable out-of-pocket expenses incurred by Citi in providing the Citi Services, in accordance with Citi’s existing expense policies, which are incidental to providing the Citi Services or Additional Services and are not incorporated in the Historical Methodology (together with the Base Cost, the “Citi Fees”); provided that any out-of-pocket expenses shall be agreed upon in advance by the Parties unless such out-of-pocket expenses were passed through to [[Party]] or its subsidiaries in the ordinary course prior to the Effective Date. The current Base Cost (or the methodology for determining the Base Cost) of each Citi Service is set forth on Schedule 2.1(a) and Schedule 2.1(b). 
+
+^^In consideration for the [[Party]] Services, Citi shall pay to [[Party]] (i) fees and costs for each such [[Party]] Service or Additional Service (x) as determined in a manner consistent with the Historical Methodology or (y) as otherwise expressly agreed by the Parties prior to the Effective Date, or in the case of an Additional Service, after the Effective Date (the “Base Cost”) plus (ii) to the extent not covered by the Base Cost, any reasonable out-of-pocket expenses incurred by [[Party]] in providing the [[Party]] Services, in accordance with [[Party]]’s existing expense policies, which are incidental to providing the [[Party]] Services or Additional Services and are not incorporated in the Historical Methodology (together with the Base Cost, the “[[Party]] Fees”); provided that any out-of-pocket expenses shall be agreed upon in advance by the Parties unless such out-of-pocket expenses were passed through to Citi or its subsidiaries in the ordinary course prior to the Effective Date. The current Base Cost (or the methodology for determining the Base Cost) of each [[Party]] Service is set forth on Schedule 2.2. 
+
+\centered 13. 
+
+^Adjustments to Base Cost. Notwithstanding anything to the contrary set forth herein, but subject to the last sentence of this Section 4.2, each of Citi or [[Party]], as service provider, may adjust the Base Cost of a Service provided by or on behalf of such Party once per calendar year, to the extent that such cost increase is generally applicable to all recipients of such Service from such Party, including similar services provided to such Party’s Affiliates; provided that no such increase made by either Party shall be effective prior to [[Date 2: Date]]. Notwithstanding the foregoing, with respect to any Base Cost of a Citi Service designated with a TSA ID beginning with “FF” on Schedule 2.1(a), Citi may not adjust such Base Cost except as mutually agreed by the Parties. 
+
+^Billing and Payment Terms. 
+
+^^For each country in which a Party provides Services to a recipient located in the same country: (i) such providing Party shall invoice the Party receiving such Services on a monthly basis (such invoice to set forth a description of the Services provided and reasonable documentation to support the charges thereon) for all Services that such providing Party delivered during the preceding month, denominated in the local currency of such country, (ii) each such invoice shall be payable within sixty (60) days after such receiving Party’s receipt of the invoice and (iii) payment of such invoices shall be made by such receiving Party to such providing Party in the local currency of the applicable country. Any Service for which the foregoing process does not apply shall be invoiced by the Party providing such Service to the Party receiving such Service in accordance with the foregoing timetable and in U.S. Dollars, and shall be paid by the Party receiving such Services in accordance with the foregoing timetable and in U.S. Dollars; provided, that the Party providing such Service and the Party receiving such Service may mutually agree to provide invoices and make payments in a different currency. 
+
+^^If any undisputed invoice or undisputed portion of an invoice is not paid in full within sixty (60) days after the date of the invoice, interest shall accrue on the unpaid amount at the annual rate equal to the “Prime Rate” as reported in The Wall Street Journal on the thirtieth (30th) day after the date of the invoice (or, if such day is not a Business Day, the first Business Day immediately after such day), calculated on the basis of a year of three hundred sixty (360) days and the actual number of days elapsed between the end of the sixty (60) day period and the actual payment date. 
+
+^^A Party may dispute any or all charges within ninety (90) days after the receipt of the applicable invoice. If a Party disputes any charges, the Parties shall work together in good faith to resolve such dispute in accordance with Section 11.14. If the resolution of such a dispute is that a Party owes an amount of money to the other Party, the Party that owes money shall add a credit of such owed amount to the next invoice that such Party prepares as a Service provider, provided, that if no further such invoices are due, the Party owing such amount shall pay it to the other Party within sixty (60) days following resolution of the dispute. A failure by a Party to dispute a charge within ninety (90) days after receipt of invoice shall not waive such Party’s audit and collection rights under Article V. 
+
+\centered 14. 
+
+^^The Parties acknowledge that there may be a lag in the submission of charges from third parties relating to the provision of Services, and that the Party providing Services through such third parties shall use commercially reasonable efforts to obtain such third-party invoices, and to provide same to the other Party, in a timely fashion. 
+
+^^The existence of a dispute pursuant to Section 4.3(c) above shall not excuse either Party from any other obligation under this Agreement, including each Party’s obligations to continue to provide Services hereunder. 
+
+^Sales Taxes. All consideration under this Agreement is exclusive of any sales, transfer, value-added, goods or services tax or similar gross receipts based tax (including any such taxes that are required to be withheld, but excluding all other taxes including taxes based upon or calculated by reference to income or capital) imposed against or on services provided (“ Sales Taxes”) by a Party providing Services hereunder and such Sales Taxes will be added to the consideration where applicable. Such Sales Taxes shall be separately stated on the relevant invoice to the Party receiving Services hereunder. All taxable goods and services for which a Party receiving Services hereunder is compensating, or reimbursing, a Party providing Services hereunder shall be set out separately from non-taxable goods and services, if practicable. The Party receiving Services hereunder shall be responsible for any such Sales Taxes and shall either (a) remit such Sales Taxes to the Party providing Services hereunder (and such providing Party shall remit the such amounts to the applicable taxing authority) or (b) provide such providing Party with a certificate or other acceptable proof evidencing an exemption from liability for such Sales Taxes. In the event the Party providing Services hereunder fails timely to invoice Sales Taxes on taxable goods or services covered by this Agreement, such providing Party shall notify the Party receiving Services hereunder and such receiving Party shall remit such Sales Taxes to such providing Party. 
+
+^No Offset. In no event shall a Party offset any amounts due hereunder for its receipt of Services by amounts owed to it hereunder for its provision of Services. 
+
+\centered **ACCESS AND SECURITY** 
+
+^Access to Networks. 
+
+^^Each Party may provide the other Party with access to such Party’s Network via a secure, industry-standard method selected by such Party with reasonable input from such other Party, as necessary to provide or receive the Services, as applicable; provided, that the cost of providing access shall be charged in accordance with Section 4.1. 
+
+\centered 15. 
+
+^^Each Party shall only use (and will ensure that its Personnel only use) the other Party’s Network for the purpose of providing or receiving, and only to the extent required to provide or receive, the Services. 
+
+^^Neither Party shall allow nor permit its agents or subcontractors to use or have access to the other Party’s Network except to the extent that such other Party gives its express prior written approval for such use or access by each relevant agent or subcontractor. 
+
+^^Neither Party shall (and shall ensure that its Personnel shall not): (i) use the other Party’s Network to develop software, process data or perform any work or services other than for the purpose of providing or receiving the Services, (ii) break, interrupt, circumvent, adversely affect or attempt to break, interrupt, circumvent or adversely affect any security system or measure of the other Party; (iii) obtain, or attempt to obtain, access to any hardware, program or data comprised in the other Party’s Network except to the extent reasonably necessary to perform or receive the Services; or to which such other Party has given its prior written consent for such Party to obtain or attempt to obtain such access; or (iv) use, disclose or give access to any part of the other Party’s Network to any third party, other than its agents and sub-contractors authorized by such other Party in accordance with this Section 5.1. All user identification numbers and passwords for a Party’s Network disclosed to the other Party, and any information obtained from the use of such Party’s Network, shall be deemed Confidential Material of such Party. 
+
+^^If a Party or any of its Personnel breach any provision of this Article, such Party shall promptly notify the other Party of such breach and cooperate as requested by such other Party in any investigation of such breach. 
+
+^^A material failure to comply with the provisions of this Section 5.1 shall constitute a material breach of this Agreement. 
+
+^Policies and Procedures. 
+
+^^When receiving Services, each Party shall (and shall ensure that its Personnel) comply with all policies, procedures and regulations of the other Party relating to confidentiality, continuity of business and computer and network security measures, including data encryption policies and procedures established by such other Party, to the extent that such polices, procedures and regulations have been disclosed to such Party. 
+
+^^Each Party shall ensure that when entering or within the other Party’s premises, all such Party’s Personnel must establish their identity to the satisfaction of security Personnel and comply with all directions given by them, including directions to display any identification cards provided by such other Party or to vacate the premises of such other Party. 
+
+\centered 16. 
+
+^Record Retention. Each Party shall take reasonable steps to preserve and maintain all records relating to the Services provided hereunder, which records shall be retained by such Party or its Affiliates for the period of time specified in such Party’s record retention policies and procedures. 
+
+^Audit. 
+
+^^Each Party may from time to time review or audit any document, information or matter relating to the other Party’s performance under this Agreement through its own staff or through contractors, agents, auditors or advisers and will ensure that such persons are bound by a confidentiality provision substantially similar to that contained in Article VI. 
+
+^^Each Party, as service provider, will provide the other Party and its Personnel, auditors and advisers with such information, assistance and access to such Party’s premises, employees and documentation as is reasonable in order that they may fully and promptly carry out each audit described in Section 5.4(a); provided, that: (i) such other Party will permit such Party the opportunity to deliver up any information required by such other Party prior to such other Party carrying out any audit hereunder which may render an audit visit unnecessary; (ii) such access shall not unreasonably interfere with the conduct of the business of the Party providing access; and (iii) in the event any Party reasonably determines that affording any such access to the other Party would be commercially detrimental in any material respect or violate any applicable Law or any agreement to which such Party is a party, or waive any attorney-client privilege applicable to such Party, the Parties shall use reasonable efforts to permit the compliance with such request in a manner that avoids such harm or consequence. 
+
+^Regulatory Audit. In addition to the rights set out above, each Party acknowledges and agrees that certain government departments and regulatory, statutory and other entities, committees and bodies which, whether under Law or codes of practice or otherwise, are entitled to regulate, investigate or influence any matters within this Agreement or any other affairs of the other Party (collectively, “ Regulatory Bodies”) from time to time require the right, whether by virtue of Law or code of practice or otherwise, to investigate the affairs of such Party; and, accordingly, such Party agrees to provide such access as is referred to in Section 5.4 and all such other access, information and assistance as such Regulatory Bodies properly require in order to fulfill such requirements. If the other Party considers that any requirement relates to information which is confidential to such other Party, such other Party will be entitled to disclose the information directly to the Regulatory Body without having to disclose it to such Party. 
+
+\centered 17. 
+
+^Audit Results. 
+
+^^Without prejudice to each Party’s other rights under this Agreement, if a Party’s exercise of its rights under this Article V results in audit findings that the other Party has failed to perform its material obligations under this Agreement, such Party will make the audit findings available to such other Party, and the Parties will use all reasonable efforts to agree to a remedial plan and a timetable for achievement of the planned actions or improvements. Following agreement of the timetable, such other Party will implement that plan in accordance with the agreed timetable and will confirm its completion by a notice in writing to such Party. If such other Party fails to agree or implement such plan, such Party will be entitled to terminate this Agreement or any part thereof pursuant to the provisions of Article X. 
+
+^^If a Party’s exercise of its rights under this Article V results in audit findings that any Fees have been overpaid by such Party, then upon receiving notice of such audit findings, the appropriate reduction will be made to the next applicable invoice(s). If such audit findings show that such Party overpaid by five percent ([[Percentage 2: Number]]%) or greater, the other Party shall bear any costs associated with such audit. 
+
+^Sarbanes Oxley. At all times during the Term and continuing thereafter until the later of the completion of the audit of the applicable Party’s financial statements or the completion and filing of the applicable Party’s annual report, in each case for the fiscal year during which this Agreement expires or terminates (the “ Compliance Period”), the other Party shall, and shall cause its Affiliates or third party service providers providing Services hereunder to: 
+
+^^maintain in effect all controls, operations and systems (consistent with past procedures immediately prior to the Effective Date) necessary and appropriate to enable such Party to comply with their obligations under the Sarbanes Oxley Act of 2002 (as amended), the rules and regulations promulgated thereunder and the SEC guidance issued with respect thereto, including Section 302 and Section 404 (the “Sarbanes Oxley Act”), the rules and regulations promulgated thereunder and the SEC guidance issued with respect thereto; 
+
+^^provide to such Party or their auditors and counsel on a timely basis, all information, reports and other material which such Party or its auditors or counsel may reasonably request in order to (i) evaluate and confirm that such Party is in compliance with its obligations under the Sarbanes Oxley Act, and (ii) enable such Party’s auditors to provide the auditors’ attestation contemplated by Section 404 of the Sarbanes Oxley Act (“Auditors Attestation”); 
+
+^^provide to the applicable Party and its auditor or counsel access to such of the other Party’s and its Affiliates’ respective books and records and Personnel as the applicable Party may reasonably request to enable (i) the applicable Party or its auditors or counsel to evaluate whether the applicable Party complies with the 
+
+\centered 18. 
+
+Sarbanes Oxley Act as it relates to the Services, and (ii) the applicable Party’s auditors to provide the Auditors Attestation. The other Party will confirm the same information regarding any Services delegated to subcontractors and report to the applicable Party. 
+
+\centered **CONFIDENTIALITY** 
+
+^Confidential Materials. Each Party shall keep confidential and shall not, without the prior written consent of the other Party, make available or disclose to any person, or make or permit any use of Confidential Material by any person, any information or material of the other Party or its Affiliates that is or has been (a) disclosed by such other Party or its Affiliates under or in connection with this Agreement, whether orally, electronically, in writing or otherwise, including copies, or (b) learned, acquired, or generated by the other Party in connection with this Agreement, including the terms of this Agreement (collectively, “ Confidential Material”). Notwithstanding the foregoing, Confidential Material may be disclosed on an as needed basis to Personnel of the receiving Party as required for the purpose of fulfilling the receiving Party’s obligations under this Agreement. Each Party shall take all reasonable steps to require that any such Confidential Material disclosed to any such Personnel in accordance with this Section 6.1 is treated as confidential by such Personnel and shall require its subcontractors to enter into a confidentiality agreement which imposes confidentiality obligations no less protective of the Confidential Material than those imposed upon under this Agreement. The receiving Party will be liable to the disclosing Party for any non-compliance by its Personnel who are not employees or officers to the same extent it would be liable for non-compliance by its employees or officers. 
+
+^Permitted Disclosures. The provisions of this Article shall not apply to any Confidential Material which: (a) is or becomes commonly known within the public domain other than by breach of this Agreement or any other agreement that Citi or [[Party]] has with any third party; (b) is obtained from a third party who is lawfully authorized to disclose such information free from any obligation of confidentiality; or (c) is independently developed without reference to any Confidential Material. 
+
+^Disclosure in Compliance with Law. Nothing in this Article shall prevent either Party from disclosing Confidential Material where it is required to be disclosed by judicial, administrative, governmental or regulatory process in connection with any action, suit, proceeding or claim or otherwise by applicable Law; provided, however, that a Party that is so required to disclose Confidential Material shall, if legally permitted, give the other Party prior reasonable notice as soon as possible, of such required disclosure so as to enable such other Party to seek relief from such disclosure requirement or measures to protect the confidentiality of the disclosure. 
+
+^Unauthorized Disclosures. Each Party shall immediately inform the other Party in the event that it becomes aware of the possession, use or knowledge of any of such other Party’s Confidential Material by any person not authorized to possess, use or have knowledge of the Confidential Material and shall at the request of such other Party provide such reasonable assistance as is required by such other Party to mitigate any damage caused thereby. 
+
+\centered 19. 
+
+^Failure to Comply. Failure by a Party to comply with this Article VI shall constitute a material breach of this Agreement. 
+
+^Injunctive Relief. Without prejudice to any other rights or remedies that a Party may have, each Party acknowledges that the other Party may not have an adequate remedy at law for any breach by such Party or its Personnel of the provisions of this Article VI, and, therefore, any such other Party shall be entitled to equitable relief including injunctive relief. Each Party agrees to provide reasonable assistance at its own expense or to join at the request of the other Party in any action against any of such Party’s staff where such other Party is seeking equitable relief, including injunctive relief, for any such breach. 
+
+\centered **INTELLECTUAL PROPERTY AND DATA** 
+
+^Ownership of Data and Intellectual Property. 
+
+^^Citi shall be the sole and exclusive owner of all Intellectual Property it creates hereunder. Citi hereby grants to [[Party]] Parties a non-exclusive, non-sublicensable, non-transferable, limited license to use such Intellectual Property during the Term, solely to the extent required to provide the [[Party]] Services or receive the Citi Services, as applicable. 
+
+^^[[Party]] shall be the sole and exclusive owner of all Intellectual Property it creates hereunder. [[Party]] hereby grants to Citi Parties a non-exclusive, non-sublicensable, non-transferable, limited license to use such Intellectual Property during the Term, solely to the extent required to provide the Citi Services or receive the [[Party]] Services, as applicable. 
+
+^^All data created, transmitted through or maintained pursuant to a Service and on behalf of the Party receiving such Service (“Service Data”) shall be owned by such receiving Party and following termination of this Agreement, the Party providing such Service shall store such data on behalf of the Party receiving the Service for the period of time specified in such Party’s record retention policies and procedures and shall, upon such Party’s request, provide such Party with complete access to such data in a commercially reasonable manner. 
+
+^^A Party receiving a Service may request that the Party providing a Service deliver (i) prior to the termination of a Service, an extract of data for such Service to be used by the Party receiving the Service to test the ability of its replacement systems to perform such Service and (ii) on or prior to the date that is thirty (30) days following the effective date of termination of a Service, a copy of all Service 
+
+\centered 20. 
+
+Data for such Service. In each case, the Party providing the applicable Service shall (y) use commercially reasonable efforts to provide the requested data promptly following receipt of such request and (z) provide the requested data in its then-current format in accordance with Citi’s Transportable Media Policy. The Party providing the applicable Service shall bear the costs of providing one (1) copy of data for testing purposes and one (1) final copy of Service Data with respect to each Service in accordance herewith, and the Party receiving a Service shall bear the costs of providing any other copies of data requested by such Party. 
+
+^Data Protection. To the extent reasonably required by a Party to comply with any applicable Law (including interpretations or enforcements of applicable Law) relating to data protection, the Parties shall execute a written agreement sufficient to comply. 
+
+\centered **DISCLAIMER OF WARRANTIES** 
+
+^Disclaimer of Warranties. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES, AND EACH PARTY EXPRESSLY DISCLAIMS, ANY AND ALL REPRESENTATIONS OR WARRANTIES WHATSOEVER, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE SERVICES TO BE PROVIDED UNDER THIS AGREEMENT, INCLUDING WARRANTIES WITH RESPECT TO MERCHANTABILITY, OR SUITABILITY OR FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT OF ANY SOFTWARE OR HARDWARE PROVIDED HEREUNDER, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR TRADE USAGE. 
+
+\centered **INDEMNIFICATION** 
+
+^Indemnification of [[Party]] Subject to the terms of this Article IX, from and after the Effective Date, Citi shall indemnify, defend, save and hold harmless [[Party]] and its Affiliates and each of their respective Personnel and directors and each of their successors and assigns (collectively, the “ [[Party]] Indemnified Parties”), from and against any and all Losses (including such reasonable fees and expenses related to the enforcement of this Agreement), to the extent resulting from or arising out of any action, suit, proceedings, claim, arbitration, investigation or litigation, whether civil or criminal, at law or in equity, made or brought by a third party that is not an Affiliate of the Indemnified Party (each, a “ Third Party Claim”) to the extent resulting from or arising out of (a) Citi Parties’ material breach of this Agreement or (b) infringement or misappropriation by the Services and materials provided by a Citi Party under this Agreement of such third party’s Intellectual Property. 
+
+^Indemnification of Citi. Subject to the terms of this Article IX, from and after the Effective Date, [[Party]] shall indemnify, defend, save and 
+
+\centered 21. 
+
+hold harmless Citi and its Affiliates and each of their respective Personnel and directors and each of their successors and assigns (collectively, the “Citi Indemnified Parties” and, together with the [[Party]] Indemnified Parties, the “Indemnified Parties”), from and against any and all any and all Losses (including such reasonable fees and expenses related to the enforcement of this Agreement), to the extent resulting from or arising out of any Third Party Claim to the extent resulting from or arising out of (a) [[Party]] Parties material breach of this Agreement or (b) infringement or misappropriation by the Services and materials provided by a [[Party]] Party under this Agreement of such third party’s Intellectual Property. 
+
+^Indemnification Procedures. 
+
+^^Upon receipt by an Indemnified Party of notice of any Third Party Claim with respect to a matter for which such Indemnified Party is indemnified under this Article IX that has or is expected to give rise to a claim for Losses, the Indemnified Party shall promptly (but in any event within ten (10) days of receipt of such Third Party Claim) notify the Indemnifying Party in writing, indicating the nature of such Third Party Claim and the basis therefor; provided, however, that any delay or failure by the Indemnified Party to give notice to the Indemnifying Party shall relieve the Indemnifying Party of its obligations hereunder only to the extent, if at all, that it is prejudiced by reason of such delay or failure. Such written notice shall (i) describe such Third Party Claim in reasonable detail, including the facts underlying each particular claim and the specific sections of this Agreement pursuant to which indemnification is being sought for each such set of facts; (ii) attach copies of all material written evidence upon which such claim is based; and (iii) set forth the estimated amount of the Losses that have been or may be sustained by an Indemnified Party. 
+
+^^The Indemnifying Party shall have sixty (60) days after receipt of a written notice that complies with the requirements of Section 9.3(a) to elect, at its option, to exercise its right to assume and control the defense of, at its own expense and by its own counsel, any such Third Party Claim and shall be entitled to assert any and all defenses available to the Indemnified Party to the fullest extent permitted by applicable Law; provided, however, that the applicable Party shall have sole control of the defense (including selecting counsel) of any Third Party Claim brought against such Party by (i) any customer of such Party or (ii) any Regulatory Body or other supervisory agency, notwithstanding the fact that such Party is indemnified by the Indemnifying Party for such Third Party Claim pursuant to Section 9.2; and provided, further, that, to the extent required to avoid any prejudice to the Indemnified Party’s rights or remedies with respect to such Third Party Claim, the Indemnified Party may conduct the defense of such claim in any manner not otherwise inconsistent with this Agreement prior to the Indemnifying Party’s exercise of such right. For any such Third Party Claims, such Party shall not settle, compromise or discharge, or admit any liability with respect to, such Third Party Claims without the prior written consent of the Indemnifying Party (which consent will not be unreasonably withheld, delayed or conditioned). 
+
+\centered 22. 
+
+^^^If the Indemnifying Party shall undertake to compromise or defend any such Third Party Claim, it shall promptly notify the Indemnified Party of its intention to do so, and the Indemnified Party shall cooperate fully with the Indemnifying Party and its counsel in the compromise of, or defense against, any such Third Party Claim. Such cooperation shall include (A) furnishing and, upon request, using reasonable efforts to procure the attendance of potential witnesses for interview, preparation, submission of witness statements and the giving of evidence at any related hearing; (B) promptly furnishing documentary evidence to the extent available to it or its Affiliates; and (C) using reasonable efforts to provide access to any other relevant party, including any representatives of the Parties as reasonably needed; provided, however, that the Indemnifying Party shall not settle, compromise or discharge, or admit any liability with respect to, any such Third Party Claim without the prior written consent of the Indemnified Party (which consent shall not be unreasonably withheld or delayed), unless the relief consists solely of money Losses to be paid by the Indemnifying Party and includes a provision whereby the plaintiff or claimant in the matter releases the Indemnified Party from all liability with respect thereto. 
+
+^^^Notwithstanding an election by the Indemnifying Party to assume the defense of such Third Party Claim, the Indemnified Party shall have the right to employ separate counsel and to participate in the defense of the Third Party Claim, and the Indemnifying Party shall bear the reasonable fees, costs and expenses of such separate counsel if the (A) Indemnified Party shall have determined in good faith that an actual or potential conflict of interest makes representation by the same counsel or the counsel selected by the Indemnifying Party inappropriate or (B) Indemnifying Party shall have authorized the Indemnified Party to employ separate counsel at the Indemnifying Party’s expense. 
+
+^^^The Indemnified Party and Indemnifying Party and their counsel shall cooperate in the defense of any Third Party Claim subject to this Article IX and keep such persons informed of all developments relating to any such Third Party Claims, and provide copies of all relevant correspondence and documentation relating thereto. All costs and expenses incurred in connection with the Indemnified Party’s cooperation shall be borne by the Indemnifying Party. In any event, the Indemnified Party shall have the right at its own expense to participate in the defense of such asserted liability. 
+
+^^^If the Indemnifying Party, after receiving a written notice that complies with Section 9.3(a) of a Third Party Claim, does not elect to defend such Third Party Claim within sixty (60) days after receipt of such written notice, the Indemnified Party shall have the right, in addition to any other right or remedy it may have hereunder, at the Indemnifying Party’s expense, to defend such Third Party Claim (upon providing further written notice to the Indemnifying Party), subject to the right of the Indemnifying Party to (A) assume 
+
+\centered 23. 
+
+the defense of such Third Party Claim at any time prior to the settlement, compromise or final determination thereof and (B) approve the counsel selected by the Indemnified Party (“Indemnified Party Counsel”), which approval shall not be unreasonably withheld or delayed; provided, however, that the Indemnified Party shall not settle, compromise or discharge, or admit any liability with respect to any such Third Party Claim without the written consent of the Indemnifying Party (which consent shall not be unreasonably withheld or delayed). 
+
+^^^Notwithstanding the foregoing, unless expressly agreed by the Indemnifying Party, the Indemnified Party Counsel (A) shall have no conflict of interest relative to the Indemnifying Party; (B) shall not previously have acted in any matter adverse to the Indemnifying Party with respect to any matters arising in connection with the transactions entered into between the Parties concurrently with this Agreement; (C) shall not assume any representation adverse to the Indemnifying Party during the time of its retention as Indemnified Party Counsel; and (D) shall not assume any representation of the Indemnified Party in a dispute between the Parties during the time of its retention as Indemnified Party Counsel. 
+
+^^^If the Indemnified Party wishes to admit liability or agree or compromise in respect of any Third Party Claim it is defending pursuant to Section 9.3(b)(iv), it must provide a written notification to the Indemnifying Party specifying the course of action proposed by the Indemnified Party to be taken (including the amount of any proposed settlement). If no reply is received from the Indemnifying Party within thirty (30) days of such written notification being made to it by the Indemnified Party, then the Indemnifying Party shall be deemed to have consented to the course of action proposed by the Indemnified Party to be taken; provided, however, that the Indemnified Party shall not consent, and the Indemnifying Party shall not be required to agree, to the entry into any settlement that (A) requires an express admission of wrongdoing by the Indemnifying Party or (B) provides for injunctive or other non-monetary relief affecting the Indemnifying Party in any way. If the Indemnifying Party provides written notice to the Indemnified Party within the thirty (30) day period that it does not consent to the intended course of action, it shall set out the reasons therefor, as well as the course of action which it believes should be followed in respect of any proposed admission of liability, agreement or compromise with respect to the Third Party Claim. 
+
+^^^If an Indemnified Party otherwise settles a Third Party Claim it is defending pursuant to Section 9.3(b)(iv) without obtaining the Indemnifying Party’s written consent to such settlement (or waiting the required thirty (30) days), then the Indemnifying Party shall be relieved of its indemnification obligations hereunder with respect to such Third Party Claim unless the Indemnified Party demonstrates that (A) it was actually liable to the Third Party claimant; (B) there was no good defense available; and (C) the settlement amount was reasonable; and if the Indemnified Party does demonstrate 
+
+\centered 24. 
+
+the matters listed in the foregoing clauses (A), (B) and (C), then any right to indemnification for such Third Party Claim shall be subject to the requirements and limitations of this Article IX. 
+
+^Limitations. 
+
+^^Notwithstanding anything else contained in this Agreement to the contrary, but subject to Section 9.4(c), each of Citi’s and [[Party]]’s total liability (other than for the payment of the [[Party]] Fees or Citi Fees, as applicable) under this Agreement shall not exceed, (i) in the case of Citi, the aggregate amount of the Citi Fees payable by [[Party]] during the first twelve (12) months of the Term; provided, that if this Agreement has been in effect for less than twelve (12) months, the Citi Fees shall be annualized to a full twelve (12) months or (ii) in the case of [[Party]], the aggregate amount of the greater of: (x) the [[Party]] Fees payable by Citi during the first twelve (12) months of the Term; provided, that if this Agreement has been in effect for less than (12) months, the [[Party]] Fees shall be annualized to a full twelve (12) months or (y) six hundred thousand dollars ($[[USD Value 1: Number]]). 
+
+^^EXCEPT TO THE EXTENT OTHERWISE EXPRESSLY PROVIDED IN THIS ARTICLE IX, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY (OR TO ANY PERSON OR ENTITY CLAIMING THROUGH THE OTHER PARTY) FOR LOST PROFITS OR FOR SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY MANNER CONNECTED WITH THIS AGREEMENT OR THE SUBJECT MATTER HEREOF, REGARDLESS OF THE FORM OF ACTION AND WHETHER OR NOT SUCH PARTY HAS BEEN INFORMED OF, OR OTHERWISE MIGHT HAVE ANTICIPATED, THE POSSIBILITY OF SUCH DAMAGES. 
+
+^^THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION 9.4 SHALL NOT APPLY TO DAMAGES (i) ARISING OUT OF INDEMNIFICATION CLAIMS UNDER THIS AGREEMENT, (ii) RESULTING FROM THE GROSS NEGLIGENCE OR THE WILLFUL OR INTENTIONAL MISCONDUCT OF A PARTY OR ITS PERSONNEL, (iii) STEMMING FROM PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE CAUSED BY A PARTY OR ITS PERSONNEL, OR (iv) ARISING FROM EITHER PARTY’S BREACH OF ITS OBLIGATIONS SET FORTH IN ARTICLE IV OR ARTICLE VI. 
+
+^Exclusions. Notwithstanding anything contained in this Agreement to the contrary, in no event shall any Indemnifying Party be obligated under this Article IX to indemnify an Indemnified Party otherwise entitled to indemnity hereunder in respect of any Losses to the extent that such Losses result from (a) the Indemnified Party’s willful or intentional misconduct or negligence, (b) the acts or omissions of the Indemnified Party, (c) violation of Law by the Indemnified Party or (d) acts taken by the Indemnifying Party at the Indemnified Party’s direction. 
+
+\centered 25. 
+
+^Payments. Amounts payable by the Indemnifying Party to the Indemnified Party in respect of any Losses for which such Party is entitled to indemnification hereunder (“ Indemnity Payments”) shall be paid in immediately available funds within thirty (30) Business Days of receipt by the Indemnifying Party of a written notice from the Indemnified Party that the payment that is the subject of the Indemnity Payment has been made by the Indemnified Party, except to the extent such Indemnity Payment is contested by the Indemnifying Party. All such Indemnity Payments shall be made to the designated account of, and in the manner specified in writing by, the Party entitled to such Indemnity Payments. 
+
+^Insurance. Notwithstanding anything contained in this Agreement to the contrary, Losses shall be net of any insurance or other prior or subsequent recoveries actually received by the Indemnified Party or its Affiliates in connection with the facts giving rise to the claim for indemnification. If an Indemnified Party shall have used commercially reasonable efforts to recover any amounts recoverable under insurance policies and shall not have recovered the applicable Losses, the Indemnifying Party shall be liable for the amount by which such Losses exceeds the amounts actually recovered. 
+
+^Remedies Exclusive. Except as otherwise specifically provided herein, the remedies provided in this Agreement shall be the exclusive monetary remedies (including equitable remedies that involve monetary payment, such as restitution or disgorgement, other than specific performance to enforce any payment or performance due hereunder) of the Parties with respect to Third Party Claims, and Section 9.4 shall govern with respect to all other claims for monetary remedies, in each case from and after the Effective Date in connection with any non-performance, partial or total, of any term, provision, covenant or agreement contained herein. 
+
+^Mitigation. Notwithstanding anything to the contrary contained in this Agreement, each Indemnified Party shall use commercially reasonable efforts to mitigate any claim or liability that an Indemnified Party asserts or may assert under this Agreement. In the event that an Indemnified Party shall fail to make such commercially reasonable efforts to mitigate any such claim or liability, then notwithstanding anything contained in this Agreement to the contrary, neither Citi nor [[Party]], as the case may be, shall be required to indemnify any Indemnified Party for that portion of any Losses that would reasonably be expected to have been avoided if the Indemnified Party had made such efforts. 
+
+\centered 26. 
+
+\centered **TERM AND TERMINATION** 
+
+^Term of Agreement. Except as set forth below relating to the [[Organization 2 Name]] or as otherwise expressly set forth in this Agreement, this Agreement shall become effective, and each Service shall commence, on the Effective Date, and this Agreement shall remain in force, and each Service shall continue, unless otherwise specified in Schedule 2.1(a), Schedule 2.2, Section 10.1(b) or Section 10.1(c), for a period of eighteen (18) months thereafter (the “ Base Term”, and together with any Extension Term, First Benefits Extension Term or Second Benefits Extension Term, the “ Term”), unless earlier terminated by the Parties as provided in this Article X. Notwithstanding the foregoing, each Citi Benefits Service shall continue until [[Date 3: Date]], unless (x) extended in accordance with Section 10.1(a) or otherwise specified in Schedule 2.1(b), or (y) earlier terminated by the Parties as provided in this Article X. 
+
+^^Except as set forth below relating to the [[Organization 2 Name]], not less than sixty (60), nor more than ninety (90), days prior to the expiration of the Base Term, [[Party]] or Citi, as applicable, may notify the other Party if such Party determines in good faith that it will not be able to complete the transition from, or to replace, one or more Services prior to the expiration of the Base Term for such Services. Provided that such Party has at all times performed its obligations under Section 3.7, the other Party shall continue to provide such Services, and, solely with respect to such Services, the term of this Agreement shall be extended for an additional period of up to six (6) months each (the “Extension Term”); provided, that (i) such Party shall at all times use commercially reasonable efforts to minimize the duration of any such extension and (ii) such Party shall indemnify the other Party for any reasonable expenses, payments, penalties or liabilities incurred by the other Party as a result of any such extension (which indemnification payments shall be in addition to any Fees which may be due as a result of such extension). 
+
+^^^Not less than thirty (30) days prior to the expiration of the [[Organization 2 Name]] as set forth in Section 10.1, [[Party]] may notify Citi if [[Party]] determines in good faith that it will not be able to complete the transition from, or to replace, one or more [[Organization 2 Name]] prior to the expiration of the [[Organization 2 Name]]. Provided that [[Party]] has at all times performed its obligations under Section 3.7, Citi shall continue to provide such [[Organization 2 Name]], and, solely with respect to such [[Organization 2 Name]], the term of this Agreement shall be extended for an additional period of up to three (3) months (the “First Benefits Extension Term”); provided, that (1) [[Party]] shall at all times use commercially reasonable efforts to minimize the duration of any such extension and (2) [[Party]] shall indemnify Citi for any reasonable expenses, payments, penalties or liabilities incurred by Citi (but, for the avoidance of doubt, excluding underlying benefits costs under employee benefit plans and arrangements) as a result of any such extension (which indemnification payments shall be in addition to any Fees which may be due as a result of such extension). 
+
+\centered 27. 
+
+^^^Not less than thirty (30) days prior to the expiration of the First Citi Benefits Extension Term as set forth in Section 10.1(a)(i), [[Party]] may notify Citi if [[Party]] determines in good faith that it will not be able to complete the transition from, or to replace, one or more [[Organization 2 Name]] prior to the expiration of the First Benefits Extension Term and request a further extension of such Services. Provided that [[Party]] has at all times performed its obligations under Section 3.7, Citi shall continue to provide such [[Organization 2 Name]], and, solely with respect to such [[Organization 2 Name]], the term of this Agreement shall be extended for an additional period of up to three (3) months (“Second Benefits Extension Term”); provided, that (1) [[Party]] shall at all times use commercially reasonable efforts to minimize the duration of any such extension and (2) [[Party]] shall indemnify Citi for any reasonable expenses, payments, penalties or liabilities incurred by Citi (but for the avoidance of doubt, excluding underlying benefits costs under employee benefit plans or arrangements) as a result of any such extension (which indemnification payments shall be in addition to any Fees which may be due as a result of such extension). 
+
+^^Notwithstanding anything in this Agreement to the contrary, in the event that, Citi, in its reasonable judgment, determines that the expiration of any one or more Citi Services would cause Citi or its Affiliates to be in non-compliance with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive, Citi may require the continuation of such Citi Service beyond the Base Term or Extension Term, as applicable, until such time as expiration thereof would no longer cause Citi or its Affiliates to be in such non-compliance; provided that [[Party]] shall not be obligated to pay any Citi Fees in consideration of the receipt of such Citi Service from and after the date on which such Citi Service would have otherwise expired. From and after the First Trigger Date, if Citi exercises the foregoing right, [[Party]] may instead elect to receive the relevant Citi Services from itself or a third party; provided that if Citi, in its reasonable judgment, determines that [[Party]]’s receipt of the relevant Citi Services from [[Party]] or such third party would cause Citi or its Affiliates to be in non-compliance with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive, Citi may require that [[Party]] continue to receive such Citi Service from Citi beyond the Base Term or Extension Term, as applicable, until such time as expiration thereof would no longer cause Citi or its Affiliates to be in such non-compliance; provided, further, that [[Party]] shall not be obligated to pay any Citi Fees in consideration of the receipt of such Citi Service from and after the date on which such Citi Service would have otherwise expired. Citi may exercise either such continuation right by providing written notice to [[Party]] not less than thirty (30) days prior to the date such Service would otherwise expire, whether through expiration of the Base Term or the Extension Term. This Agreement shall continue in full force and effect with respect to each such Citi Service. In the event of any dispute between [[Party]] and Citi regarding whether expiration of a Citi Service will cause Citi or its Affiliates to be in non-compliance with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive, such dispute shall be subject to the procedures set forth in that certain letter agreement between the Parties dated as of [[Date 1]] (the “BHCA Side Letter”). 
+
+\centered 28. 
+
+^^This Agreement shall remain in force with respect to the Citi Service that consists of [[Party]]’s ability to receive products or services, as applicable, pursuant to each Enterprise License Agreement until such time as the provisions of such Enterprise License Agreement prohibit [[Party]]’s continued receipt of such Citi Service, provided that in no event shall the term of such Citi Service continue for more than four (4) years following the Effective Date. 
+
+^Termination. 
+
+^^Termination by Citi or [[Party]] This Agreement, or any Service provided hereunder, as applicable, may be terminated by either Party (the “Terminating Party”) upon written notice to the other Party, if: 
+
+^^^the other Party fails to perform or otherwise breaches a material provision of this Agreement and such failure or breach is not cured, to the reasonable satisfaction of the Terminating Party, within thirty (30) days of written notice thereof; provided, that the Parties first submit any such uncured failure or breach for resolution in accordance with the procedures set forth in Section 11.14; 
+
+^^^the other Party fails to perform or otherwise breaches a material provision of this Agreement, where such second failure or breach is substantially similar to a prior failure or breach by such other Party, unless, within thirty (30) days of written notice of such subsequent failure or breach, such other Party has (A) cured such subsequent failure or breach to the reasonable satisfaction of such Party (if such failure or breach is subject to cure) and (B) demonstrated, to such Party’s sole satisfaction, that such other Party has enacted remedial measures designed to prevent the failure or breach from occurring again; 
+
+^^^the other Party makes a general assignment for the benefit of creditors or becomes insolvent, or a receiver is appointed for, or a court approves reorganization or arrangement proceedings on, such Party; 
+
+^^^performance of this Agreement or any Service provided hereunder has been rendered impossible for a period of at least sixty (60) days by reason of the occurrence of any Force Majeure Event, or if any other event occurs that is reasonably deemed to permanently prevent the performance of this Agreement or any Service provided hereunder; provided, however, that this Agreement may only be terminated under this Section 10.2(a)(iv) with respect to the affected Service; or 
+
+\centered 29. 
+
+^^required by any Governmental Authority, upon thirty (30) days’ notice or sooner if necessary; provided, however, that prior to any such notice of termination, the Parties mutually agree that this Agreement cannot be amended in a manner that will satisfy such Governmental Authority without materially changing the effect or intent of this Agreement. 
+
+^^Partial Termination. 
+
+^^^Subject to Section 10.2(b)(ii), either Party may, as a Service recipient, on sixty (60) days’ written notice to the other Party, terminate any Service received by such Party, as applicable. Any such terminated Service shall be deleted from Schedule 2.1(a), Schedule 2.1(b) or Schedule 2.2, as applicable, and the terminating Party shall have no obligation to continue to use or pay for any such Citi Service or [[Party]] Service, as applicable; provided, however, that this Agreement shall remain in effect until the expiration of the Term, or until otherwise terminated pursuant to this Article X. Any termination notice delivered by either Party shall specify in detail the Service or Services to be terminated, and the effective date of such termination. 
+
+^^^Notwithstanding the foregoing, Citi may deny any such termination of a Citi Service requested by [[Party]] if Citi, in its reasonable judgment, determines that the termination of such Citi Service would cause Citi or its Affiliates to be in non-compliance with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive, provided that [[Party]] shall not be obligated to pay any Citi Fees in consideration of the receipt of such Citi Service provided by Citi from and after the date on which such Citi Service would have otherwise been terminated. From and after the First Trigger Date, if Citi exercises the foregoing right [[Party]] may instead elect to receive the relevant Citi Service from itself or a third party; provided, that if Citi, in its reasonable judgment, determines that [[Party]]’s receipt of the relevant Citi Services from [[Party]] or such third party would cause Citi or its Affiliates to be in non-compliance with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive, Citi may require that [[Party]] continue to receive such Citi Service from Citi, until such time as termination thereof would no longer cause Citi or its Affiliates to be in such non-compliance; provided, further, that [[Party]] shall not be obligated to pay any Citi Fees in consideration of the receipt of such Citi Service from and after the date on which Citi notifies [[Party]] that Citi must continue to provide such Citi Service to [[Party]] Citi may exercise either of the foregoing rights with respect to a Citi Service by providing written notice to [[Party]] not less than thirty (30) days after the receipt by Citi of [[Party]]’s partial termination request with respect to such Citi Service. In the event of any dispute between [[Party]] and Citi regarding whether expiration of a Citi Service will cause Citi or its Affiliates to be in non-compliance with [[Organization 3 Name]] Act or any other bank regulatory law, rule, regulation, guidance, order or directive, such dispute shall be subject to the procedures set forth in the BHCA Side Letter. 
+
+\centered 30. 
+
+^Effect of Termination. In the event that this Agreement is terminated for any reason: 
+
+^^Each Party agrees and acknowledges that the obligations of each Party to provide the Services, or to cause the Services to be provided, hereunder shall immediately cease. Upon cessation of the applicable Party’s obligation to provide any Service, the Party receiving the Service shall stop using, directly or indirectly, such Service. 
+
+^^Upon request, each Party shall, and shall cause its Affiliates and third parties (subject to the terms of such Party’s agreements with such third parties) retained by such Party or its Affiliates to, return to the other Party or, at the other Party’s option, destroy (and certify to the destruction of) all tangible personal property and books, records or files owned by such other Party or its Affiliates or third parties and used in connection with the provision of Services that are in their possession as of the termination date. 
+
+^^Subject to Section 10.2(b)(ii), in the event that a Service recipient seeks to discontinue a Service without providing the sixty (60) day notice provided for herein, such Service recipient shall be responsible to the Service provider for reasonable and proper termination charges, including all reasonable cancellation costs; provided, that the Service provider shall use commercially reasonable efforts to minimize such cancellation costs. 
+
+^^The following matters shall survive the termination of this Agreement (i) the rights and obligations of each Party under Section 5.3, Section 5.4, Section 5.5, Section 5.6, Section 5.7, Article VI, Article VII, Article VIII, Article IX, this Section 10.3 and Article XI and (ii) the obligations under Article IV of each Party to pay the applicable Fees for Services furnished prior to the effective date of termination. 
+
+\centered **MISCELLANEOUS** 
+
+^Construction; Absence of Presumption. 
+
+^^For the purposes of this Agreement, (i) words (including capitalized terms defined herein) in the singular shall be held to include the plural and vice versa and words (including capitalized terms defined herein) of one gender shall be held to include the other gender as the context requires; (ii) the terms “hereof,” “herein” and “herewith” and words of similar import shall, unless otherwise stated, be construed to refer to this Agreement as a whole (including all of the Schedules, Exhibits and Addenda) and not to any particular provision of this Agreement, and Article, Section, paragraph, Schedule, Exhibit and Addendum references are to the Articles, Sections, paragraphs, Schedules, Exhibits and Addenda to this Agreement, unless otherwise provided; (iii) the word “including” and words of similar import when used in this Agreement shall mean 
+
+\centered 31. 
+
+“including, without limitation”; (iv) references to this Agreement shall, unless otherwise stated, be construed to refer to this Agreement as a whole (including all Schedules, Exhibits and Addenda) and any amendments hereto or thereto; (v) all references to any period of days shall be deemed to be to the relevant number of calendar days unless otherwise provided; and (v) all references herein to “$” or dollars shall refer to United States dollars, unless otherwise provided. 
+
+^^For the avoidance of doubt, with respect to all references in this Agreement to “prior written consent, which shall not be unreasonably withheld, conditioned or delayed,” it shall be deemed reasonable for the applicable Party to withhold, condition or delay any such consent because of requirements of Law or any objection from a Regulatory Body, including any guidance or other advice or direction communicated informally by Regulatory Bodies to the applicable Party. 
+
+^^The Parties hereby acknowledge that each Party and its counsel have reviewed and revised this Agreement and that no rule of construction to the effect that any ambiguities are to be resolved against the drafting Party shall be employed in the interpretation of this Agreement (including all of the Schedules, Exhibits and Addenda) or any amendments hereto or thereto. 
+
+^Headings. The Article and Section headings contained in this Agreement are inserted for convenience of reference only and shall not affect the meaning or interpretation of this Agreement. 
+
+^Notices. All notices, demands and other communications required or permitted to be given to any Party under this Agreement must be in writing. Any such notice, demand or other communication will be deemed to have been duly given (i) when delivered by hand, courier or overnight delivery service;(ii) two business days after deposit in the mail, provided such mail is sent certified or registered mail, return receipt requested and with first-class postage prepaid; or (iii) in the case of facsimile notice, when sent and transmission is confirmed. Regardless of method, all such notices, demands and other communications must be addressed to the Party at its address or facsimile number set forth below (or at such other address or facsimile number as the Party may furnish the other Party in accordance with this Section) and, must also be included in an email transmission using the email address provided below: 
+
+^^If to Citi:
+
+[[Organization 5 Name]] 
+
+[[Address 2: Address]] 
+
+Ontario Canada L6P 2A3 
+
+Attn: [[Person 1 First Name]] [[Person 1 Last Name]] 
+
+Phone: [[Phone 1]] 
+
+Email address: [[Email 1]] 
+
+\centered 32. 
+
+[[Organization 6 Name]] 
+
+[[Address 3: Address]] 
+
+Attn: [[Person 2 First Name]] [[Person 2 Last Name]] 
+
+Phone: [[Phone 2]] 
+
+Email address: [[Email 2]] 
+
+With a copy to: 
+
+[[Organization 7 Name]] LLP 
+
+Four Times Square 
+
+[[Address 4: Address]]-6522 
+
+Attn: [[Person 3 First Name]] [[Person 3 Last Name]] 
+
+Facsimile: [[Phone 3]] 
+
+Email address: [[Email 3]] 
+
+and 
+
+[[Organization 7 Name]] LLP 
+
+Four Times Square 
+
+[[Address 4: Address]]-6522 
+
+Attn: [[Person 4 First Name]] [[Person 4 Last Name]] 
+
+Facsimile: [[Phone 4]] 
+
+Email address: [[Email 4]] 
+
+^^If to [[Party]]:
+
+[[Address 5: Address]]-0001 
+
+Attn: President 
+
+Facsimile: [[Phone 5]] 
+
+Email address: [[Email 5]] 
+
+\centered 33. 
+
+With a copy to: 
+
+[[Address 5: Address]]-0001 
+
+Attn: General Counsel 
+
+Facsimile: [[Phone 6]] 
+
+Email address: [[Email 6]] 
+
+^Governing Law. This Agreement shall be governed by and construed in accordance with the Laws of the State of [[Address 6: Address]] agreements made and to be performed entirely within such state, without regard to the conflict of laws principles of such state. 
+
+^Jurisdiction; Venue; Consent to Service of Process. With respect to any action, suit or other proceeding resulting from, relating to or arising out of this Agreement, each Party irrevocably and unconditionally submits to the exclusive jurisdiction of the United States District Court for the Southern District of [[Address 7: Address]], if such court will not accept jurisdiction, the Supreme Court of the State of [[Address 8: Address]] court of competent civil jurisdiction sitting in [[Address 9: Address]], [[Address 10: Address]](and each Party agrees not to commence any such action, suit or other proceeding except in such courts). In any such action, suit or other proceeding, each Party irrevocably and unconditionally waives and agrees not to assert by way of motion, as a defense or otherwise any claims (a) that it is not subject to the jurisdiction of the above courts, (b) that such action or suit is brought in an inconvenient forum or (c) that the venue of such action, suit or other proceeding is improper. Each Party also hereby agrees that any final and unappealable judgment against a Party in connection with any such action, suit or other proceeding shall be conclusive and binding on such Party and that such award or judgment may be enforced in any court of competent jurisdiction, either within or outside of the United States. A certified or exemplified copy of such award or judgment shall be conclusive evidence of the fact and amount of such award or judgment. With respect to any action, suit or other proceeding for which it has submitted to jurisdiction pursuant to this Section, each Party irrevocably consents to service of process in the manner provided for the giving of notices pursuant to Section 11.3 of this Agreement. Nothing in this Section shall affect the right of any Party to serve process in any other manner permitted by Law. The foregoing consent to jurisdiction shall not (a) constitute submission to jurisdiction or general consent to service of process in the State of [[Address 11: Address]] purpose except with respect to any action, suit or proceeding resulting from, relating to or arising out of this Agreement or (b) be deemed to confer rights on any person other than the respective Parties to this Agreement. 
+
+^Entire Agreement. This Agreement, together with all Schedules, Exhibits and Addenda hereto and thereto, embody the entire agreement of the Parties hereto with respect to the subject matter hereof and supersede all prior agreements with respect thereto. The Parties intend that this Agreement shall constitute the complete and exclusive statement of its terms and that no extrinsic evidence whatsoever may be introduced in any judicial proceeding involving this Agreement. 
+
+\centered 34. 
+
+^Amendment, Modification and Waiver. No amendment to this Agreement shall be effective unless it shall be in writing and signed by each Party hereto. Any failure of a Party to comply with any obligation, covenant, agreement or condition contained in this Agreement may be waived by the Party entitled to the benefits thereof only by a written instrument duly executed and delivered by the Party granting such waiver, but such waiver or failure to insist upon strict compliance with such obligation, covenant, agreement or condition shall not operate as a waiver of, or estoppel with respect to, any subsequent or other failure of compliance. 
+
+^Severability. If any provision of this Agreement, or the application of any such provision, is invalid, illegal or unenforceable in any jurisdiction, such invalidity, illegality or unenforceability shall not affect any other provision of this Agreement, or invalidate or render unenforceable such provision in any other jurisdiction. To the extent permitted by applicable Law, the Parties waive any provision under Law that renders any provision of this Agreement invalid, illegal or unenforceable in any respect. The Parties shall, to the extent lawful and practicable, use commercially reasonable efforts to enter into arrangements to reinstate the intended benefits, net of the intended burdens, of any such provision held invalid, illegal or unenforceable. 
+
+^Successors and Assigns; No Third Party Beneficiaries. This Agreement and all its provisions shall be binding upon and inure to the benefit of the Parties and their respective permitted successors and assigns. Nothing in this Agreement, whether expressed or implied, will confer on any person, other than the Parties or their respective permitted successors and assigns, any rights, remedies or liabilities; provided, that the provisions of Article IX will inure to the benefit of the Indemnified Parties. No Party may assign its rights or obligations under this Agreement without the prior written consent of the other Party (which consent may not be unreasonably withheld or delayed) and any purported assignment without such consent shall be void; provided, that Citi may, without the consent of [[Party]], assign any or all of its rights, and its respective related obligations hereunder, to any of its Affiliates (although no such assignment shall relieve Citi of its obligations to [[Party]] or any [[Party]] Indemnified Party hereunder). 
+
+^WAIVER OF JURY TRIAL. TO THE FULLEST EXTENT PERMITTED BY LAW, EACH OF THE PARTIES HERETO IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, SUIT, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OF THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT. 
+
+^Expenses. Except as otherwise expressly stated in this Agreement, any costs, expenses, or charges incurred by any of the Parties shall be borne by the Party incurring such cost, expense or charge whether or not the transactions contemplated by this Agreement shall be consummated. 
+
+^Counterparts. This Agreement may be executed by the Parties in multiple counterparts which may be delivered as an electronic copy or by facsimile transmission. Each counterpart when so executed and delivered shall be deemed an original, and all such counterparts taken together shall constitute one and the same instrument. 
+
+\centered 35. 
+
+^Relationship of the Parties. Each Party and its Affiliates, as applicable, shall be acting as an independent company in performing under this Agreement, and shall not be considered or deemed to be an agent, employee, joint venturer or partner of the other Party or any of its Affiliates, as applicable. Each Party and its Affiliates, as applicable, shall, at all times, maintain complete control over its Personnel and operations, and shall have sole responsibility for staffing, instructing and compensating its Personnel. Neither Party (nor its Affiliates, as applicable) shall have, or shall represent that it has, any power, right or authority to bind the other Party (or its Affiliates, as applicable) to any obligation or liability, to assume or create any obligation or liability or transact any business in the name or on behalf of the other Party (or its Affiliates, as applicable), or make any promises or representations on behalf of the other Party (or its Affiliates, as applicable), unless agreed to in writing. 
+
+^Dispute Resolution. Except as set forth in Section 10.1(b) and Section 10.2(b)(ii), in the event of any dispute, controversy or claim arising out of or relating to this Agreement, or the breach, termination or validity thereof, including the dispute of any Fees invoiced under Article IV or any claim by any Party that any other Party has breached the material terms hereof (each, a “ Dispute”), the Service Coordinators of Citi and [[Party]] shall meet (by telephone or in person) no later than two Business Days after receipt of notice by any Party of a request for resolution of a Dispute. The Service Coordinators shall enter into negotiations aimed at resolving any such Dispute. If the Service Coordinators are unable to reach mutually satisfactory resolution of the Dispute within ten (10) Business Days after receipt of notice of the Dispute, the Dispute shall be referred to an executive committee comprised of at least one member of the senior management of each Party (the “ Executive Committee”). The initial members of the Executive Committee, including relevant contact information, are set forth on Schedule 11.14, and either Party may replace its Executive Committee members at any time with other representatives of similar seniority by providing notice in accordance with Section 11.3. The Executive Committee will meet (by telephone or in person) during the next ten (10) Business Days and attempt to resolve the Dispute. If the Executive Committee is unable for any reason to resolve a Dispute within thirty (30) days after the receipt of notice of the Dispute, then either party may submit the Dispute to arbitration in accordance with Section 11.15 hereof as the exclusive means to resolve such Dispute. 
+
+^Arbitration. 
+
+^^Except as set forth in Section 10.1(b) and Section 10.2(b)(ii), any Dispute not resolved pursuant to Section 11.14 hereof shall, at the request of either Party, be finally settled by arbitration administered by the American Arbitration Association (the “AAA”) under its Commercial Arbitration Rules then in effect (the “Rules”) except as modified herein. The arbitration shall be held in [[Address 12: Address]]. 
+
+\centered 36. 
+
+^^There shall be three (3) arbitrators of whom each Party shall select one within fifteen (15) days of respondent’s receipt of claimant’s demand for arbitration. The two party-appointed arbitrators shall select a third arbitrator to serve as Chair of the tribunal within fifteen (15) days of the selection of the second arbitrator. If any arbitrator has not been appointed within the time limits specified herein, such appointment shall be made by the AAA in accordance with the Rules upon the written request of either party within fifteen (15) days of such request. The hearing shall be held no later than one hundred twenty (120) days following the appointment of the third arbitrator. 
+
+^^The arbitral tribunal shall permit prehearing discovery that is relevant to the subject matter of the Dispute taking into account the Parties’ desire that the arbitration be conducted expeditiously and cost effectively. All discovery shall be completed within sixty (60) days of the appointment of the third arbitrator. 
+
+^^By agreeing to arbitration, the Parties do not intend to deprive a court of its jurisdiction to issue a pre-arbitral injunction, pre-arbitral attachment, or other order in aid of arbitration proceedings and the enforcement of any award. Without prejudice to such provisional remedies as may be available under the jurisdiction of a court, the arbitral tribunal shall have full authority to grant provisional remedies, to direct the Parties to request that any court modify or vacate any temporary or preliminary relief issued by such court, and to award damages for the failure of any party to respect the arbitral tribunal’s orders to that effect. For the purpose of any provisional relief contemplated hereunder, the Parties hereby submit to the exclusive jurisdiction of the [[Address 13: Address]]. Each Party unconditionally and irrevocably waives any objections which they may have now or in the future to the jurisdiction of the [[Address 14: Address]] objections by reason of lack of personal jurisdiction, improper venue, or inconvenient forum. 
+
+^^The award shall be in writing, shall state the findings of fact and conclusions of law on which it is based, shall be final and binding and shall be the sole and exclusive remedy between the Parties regarding any claims, counterclaims, issues, or accounting presented to the arbitral tribunal. The arbitration shall be governed by the United States Arbitration Act, 9 U.S.C. § 1 *et seq*., and judgment upon any award may be entered in any court having jurisdiction. 
+
+^^The Parties will bear equally all fees, costs, disbursements and other expenses of the arbitration, and each Party shall be solely responsible for all fees, costs, disbursements and other expenses incurred in the preparation and prosecution of their own case; provided that in the event that a Party fails to comply with the orders or decision of the arbitral tribunal, then such noncomplying Party shall be liable for all costs and expenses (including attorneys fees) incurred by the other Party in its effort to obtain either an order to compel, or an enforcement of an award, from a court of competent jurisdiction. 
+
+\centered 37. 
+
+^^The arbitral tribunal shall have the authority, for good cause shown, to extend any of the time periods in this arbitration provision either on its own authority or upon the request of any of the Parties. The arbitral tribunal shall be authorized in its discretion to grant pre-award and post-award interest at commercial rates. The arbitral tribunal shall have no authority to award punitive, exemplary or multiple damages or any other damages not measured by the prevailing Parties’ actual damages. The arbitral tribunal shall have the authority to order specific performance or to issue any other type of temporary or permanent injunction. 
+
+^^All notices by one Party to the other in connection with the arbitration shall be in accordance with the provisions of Section 11.3 hereof, except that all notices for a demand for arbitration made pursuant to this Article XI must be made by personal delivery or receipted overnight courier. This agreement to arbitrate shall be binding upon the successors and permitted assigns of each Party. This Agreement and the rights and obligations of the Parties shall remain in full force and effect pending the award in any arbitration proceeding hereunder. 
+
+\centered [Remainder of page intentionally left blank] 
+
+\centered 38. 
+
+IN WITNESS WHEREOF, each Party hereto has caused this Agreement to be duly executed on its behalf as of the day and year first above written. 
+
+[[Citi]]
+
+[[Citi Signatory Email: Identity | Signature]]
+__________________________________________
+{{Citi Entity => By: [[Citi Signatory First Name]] [[Citi Signatory Last Name]]
+Title: [[Citi Signatory Title]]}}
+
+
+[[Party]], INC.
+
+[[Party INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party INC. Entity => By: [[Party INC. Signatory First Name]] [[Party INC. Signatory Last Name]]
+Title: [[Party INC. Signatory Title]]}}

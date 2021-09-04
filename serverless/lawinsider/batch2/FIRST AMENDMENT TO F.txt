@@ -1,0 +1,511 @@
+\centered **FIRST AMENDMENT TO FIRST AMENDED AND RESTATED SECURED TERM LOAN AGREEMENT** 
+
+THIS FIRST AMENDMENT TO FIRST AMENDED AND RESTATED SECURED TERM LOAN AGREEMENT (“Amendment”) is made as of [[Date 1: Date]] (the “Effective Date”), by and among [[Lender]], a [[State of Formation: State]] [[Organization: EntityType]]ly, a “Lender”) and [[Party 2]], not individually but as “Administrative Agent”. 
+
+\centered **RECITALS** 
+
+^Borrower, Administrative Agent, KeyBank and the Lenders entered into that certain First Amended and Restated Secured Term Loan Agreement dated as of [[Date 2: Date]] (the “Loan Agreement”) for the purposes described therein, pursuant to which Lenders made a TWO HUNDRED FIFTY MILLION and NO/100THS DOLLARS ($[[USD Value 1: Number]]) loan (“Loan”) to Borrower. All of the documents evidencing, securing or executed in connection with the Loan, as the same may be amended from time to time pursuant to the terms hereof, are collectively referred to as the “Loan Documents.” 
+
+^Concurrently herewith, pursuant to Section 3.1(e) of the Loan Agreement, Borrower desires to make a voluntarily prepayment of the Loan, reducing the outstanding balance of the Loan by $[[USD Value 2: Number]]. 
+
+^In connection with the current voluntary partial prepayment of $[[USD Value 2]], Borrower hereby desires that the Lenders agree to remove and release, and the Lenders hereby agree to remove and release, the following Projects as “Subject Properties” under the Loan Agreement: (i) 3240, 3260, 3280 Bayshore Boulevard, Brisbane, California, (ii) 9885 Towne Centre Drive, [[Address 1: Address]], and (iii) 3450 Monte Villa Parkway, Seattle, Washington. 
+
+^In addition to the removal and release of the above-referenced Projects as Subject Properties under the Loan Agreement, Borrower and the Lenders hereby desire to further amend the Loan Agreement to permit future Subject Property Releases (as defined below) provided that certain conditions precedent are satisfied. 
+
+^The parties hereto desire to provide for an amendment to the Loan Agreement to address such changes in the removal and release provisions relating to Subject Properties and to make such other amendments and revisions to the Loan Agreement as are more particularly set forth hereinbelow. 
+
+\centered **TERMS AND CONDITIONS** 
+
+NOW, THEREFORE, with reference to the foregoing Recitals, all of which are incorporated herein by this reference, for valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows: 
+
+^The following Definition from Article I of the Loan Agreement is hereby deleted in its entirety: 
+
+^^“Bayshore Project”.  
+
+^^^^^ 
+^Additional Definitions. The following Definitions are hereby added to Article I of the Loan Agreement: 
+
+“Minimum Release Price” for each Subject Property shall have the value ascribed to each such Subject Property on **Schedule 1.3** attached hereto and made a part hereof. 
+
+“Release Price” for each Subject Property shall mean, respectively, a cash amount reasonably determined by the Administrative Agent that is equal to the greater of: (i) the Minimum Release Price for each such Subject Property, or (ii) that portion of the then-current Gross Asset Value attributable to the applicable Subject Property less the outstanding principal balance of the corresponding Subject Property Indebtedness as of the end of the most recent Fiscal Quarter for which financial results have been reported. 
+
+“Subject Property Release” means the removal and release of an Income-Producing Project or a Project or any portion thereof as a “Subject Property” under this Agreement. 
+
+^Voluntary Partial Prepayment. Concurrently herewith Borrower has made a voluntary partial prepayment of the Loan to the Lenders in the aggregate amount of $[[USD Value 2]]. From and after the date hereof, the current aggregate principal amount of the Loan outstanding is $[[USD Value 3: Number]]. 
+
+^Subject Property Releases.  
+^^As of the Effective Date, the following Projects are hereby released and removed as “Subject Properties” under the Loan Agreement: 
+
+^^^3240, 3260, 3280 Bayshore Boulevard, Brisbane, California,
+^^^9885 Towne Centre Drive, [[Address 1: Address]], and
+^^^3450 Monte Villa Parkway, Seattle, Washington.
+
+^^Concurrently herewith, the Administrative Agent shall execute such documents or instruments and take all other actions necessary or advisable on behalf of the Lenders to release the related security interests (including without limitation releases of any pledged Equity Interests) evidenced by any Security Documents pertaining to the Projects referenced in Section 4(a)(i)-(iii) above, and to release the corresponding Subsidiary Guarantors relating to such aforementioned Projects from any continuing obligations under the Subsidiary Guaranty. 
+
+^Schedule of Subsidiary Guarantors. As of the Effective Date, Schedule 1.2 to the Loan Agreement (Schedule of Subsidiary Guarantors) is hereby deleted in its entirety and replaced with the attached **Schedule 1.2**. 
+
+^Schedule of Subject Properties. As of the Effective Date, Schedule 1.3 to the Loan Agreement (Schedule of Subject Properties) is hereby deleted in its entirety and replaced with the attached **Schedule 1.3**. 
+
+^^^^^ 
+^Schedule of Subsidiaries and Projects. As of the Effective Date, Schedule 4.4 (Subsidiaries) and Schedule 4.19 (Projects) to the Loan Agreement are hereby deleted in their entirety and replaced with the attached **Schedule 4.4** and **Schedule 4.19****.** 
+
+^Sale of a Subject Property. The provisions set forth in Section 2A.3 of the Loan Agreement are hereby amended, restated and wholly replaced in their entirety by the following: 
+
+“2A.3 Sale of a Subject Property. Provided that no Default or Event of Default shall have occurred hereunder or under the other Loan Documents and be continuing (or would exist immediately after giving effect to the transactions contemplated by this Section 2A.3), a Subject Property Owner (or Borrower or another applicable Subsidiary) may engage in a Subject Property Sale upon the following terms and conditions: 
+
+^^Borrower shall deliver to the Administrative Agent written notice of the desire to consummate such Subject Property Sale on or before the date that is five (5) Banking Days prior to the date on which the Subject Property Sale is to be effected; 
+
+^^On the date of the proposed Subject Property Sale, Borrower shall make a principal prepayment of the Loan to Administrative Agent on behalf of the Lenders equal to the Release Price for the Project that is the subject of the proposed Subject Property Sale; 
+
+^^On or before the date that is five (5) Banking Days prior to the date the Subject Property Sale is to be effected, Borrower shall submit to the Administrative Agent a Certificate, which shall be subject to the Administrative Agent’s review and reasonable approval, setting forth the Subject Properties Leverage Ratio on a pro forma basis as of the date of the Subject Property Sale (the “Pro Forma Subject Properties Leverage Ratio”), giving effect to (in addition to other changes to the Subject Properties Leverage Ratio during the intervening period (e.g., any reductions to the outstanding principal balance of the Subject Property Indebtedness)): (A) the Subject Property Sale and the corresponding payment to Administrative Agent on behalf of the Lenders of the applicable Release Price for such Subject Property being sold, and (B) any other Projects that became or are becoming a Subject Property prior to the date of the Subject Property Sale; 
+
+^^If the Pro Forma Subject Properties Leverage Ratio exceeds the Target Subject Properties Leverage Ratio, Borrower shall, concurrently or before the closing of the Subject Property Sale and in addition to the payment of the Release Price, pay to the Administrative Agent for the account of the Lenders, which payment shall be applied to reduce the Outstanding Loan Amount, the amount necessary to make the Pro Forma Subject Properties Leverage Ratio no greater than the Target Subject Properties Leverage Ratio; and 
+
+^^Upon the occurrence of the Subject Property Sale, the underlying Project shall no longer be a Subject Property, and the Administrative Agent shall execute such documents or instruments and take all other actions necessary or advisable on behalf of the Lenders to release the related security interests (including without limitation releases of any pledged Equity Interests) evidenced by any Security Documents and to release the related Subsidiary Guarantor(s), if applicable, from any obligations under the Subsidiary Guaranty.” 
+
+^^^^^ 
+^Future Subject Property Release Provisions. The following shall be added as new Section 2A.5 to the Loan Agreement: 
+
+“2A.5 Release of a Subject Property. Provided that no Default or Event of Default shall have occurred hereunder or under the other Loan Documents and be continuing (or would exist immediately after giving effect to the transactions contemplated by this Section 2A.5), a Subject Property Owner (or Borrower or another applicable Subsidiary) may engage in a Subject Property Release upon the following terms and conditions: 
+
+^^Borrower shall deliver to the Administrative Agent written notice of the desire to consummate such Subject Property Release on or before the date that is five (5) Banking Days prior to the date on which the Subject Property Release is to be effected; 
+
+^^On the date of the proposed Subject Property Release, Borrower shall make a principal prepayment of the Loan to Administrative Agent on behalf of the Lenders equal to the Release Price for the Project that is the subject of the proposed Subject Property Release; 
+
+^^On or before the date that is five (5) Banking Days prior to the date the Subject Property Release is to be effected, Borrower shall submit to the Administrative Agent a Certificate, which shall be subject to the Administrative Agent’s review and reasonable approval, setting forth the Pro Forma Subject Properties Leverage Ratio as of the date of the Subject Property Release giving effect to (in addition to other changes to the Subject Properties Leverage Ratio during the intervening period (e.g., any reductions to the outstanding principal balance of the Subject Property Indebtedness)): (A) the Subject Property Release and the corresponding payment to Administrative Agent on behalf of the Lenders of the applicable Release Price for such Subject Property being released, and (B) any other Projects that became or are becoming a Subject Property prior to the date of the Subject Property Release; 
+
+^^If the Pro Forma Subject Properties Leverage Ratio exceeds the Target Subject Properties Leverage Ratio, Borrower shall, concurrently or before the closing of the Subject Property Release and in addition to the payment of the Release Price, pay to the Administrative Agent for the account of the Lenders, which payment shall be applied to reduce the Outstanding Loan Amount, the amount necessary to make the Pro Forma Subject Properties Leverage Ratio no greater than the Target Subject Properties Leverage Ratio; and 
+
+^^Upon the occurrence of the Subject Property Release, the underlying Project shall no longer be a Subject Property, and the Administrative Agent shall execute such documents or instruments and take all other actions necessary or advisable on behalf of the Lenders to release the related security interests (including without limitation releases of any pledged Equity Interests) evidenced by any Security Documents and to release the related Subsidiary Guarantor(s), if applicable, from any obligations under the Subsidiary Guaranty.” 
+
+^^^^^ 
+^Full Force and Effect. Except as amended hereby, the terms and provisions of the Loan Agreement and the Loan Documents remain unchanged, are and shall remain in full force and effect unless and until modified or amended in writing in accordance with their terms, and are hereby ratified and confirmed. Except as expressly provided herein, this Amendment shall not constitute an amendment, waiver, consent or release with respect to any provision of any Loan Document, a waiver of any default or Event of Default under any Loan Document, or a waiver or release of any of the Lenders’ rights and remedies (all of which are hereby reserved). The Borrower expressly ratifies and confirms the confession of judgment (if applicable) and waiver of jury trial provisions contained in the Loan Documents. 
+
+^References to Loan Documents; Capitalized Terms. Any and all references to any Loan Document in any other Loan Document shall be deemed to refer to such Loan Document as amended by this Amendment. This Amendment is deemed incorporated into each of the Loan Documents. Any initially capitalized terms used in this Amendment without definition shall have the meanings assigned to those terms in the Loan Documents. To the extent that any term or provision of this Amendment is or may be inconsistent with any term or provision in any Loan Document, the terms and provisions of this Amendment shall control. 
+
+^Successors and Assigns. This Amendment will be binding upon and inure to the benefit of the Borrower and the Lenders and their respective heirs, executors, administrators, successors and assigns. 
+
+^Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of New York. 
+
+^Counterparts. This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one agreement, and any of the parties hereto may execute this Amendment by signing any such counterpart. 
+
+\centered [Signature page follows.] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Borrower, the Lenders and the Administrative Agent have executed this Agreement as of the date first above written. 
+
+**BORROWER**:  [[Lender]], a Maryland limited partnership
+[[BORROWER  Lender a Maryland limited partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{BORROWER  Lender a Maryland limited partnership Entity => By: [[BORROWER  Lender a Maryland limited partnership Signatory First Name]] [[BORROWER  Lender a Maryland limited partnership Signatory Last Name]]
+Title: [[BORROWER  Lender a Maryland limited partnership Signatory Title]]}}
+
+partner
+
+[[Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Partner Entity => By: [[Partner Signatory First Name]] [[Partner Signatory Last Name]]
+Title: [[Partner Signatory Title]]}}
+
+
+Address:
+
+[[Organization 1 Name]]
+17190 Bernardo Center Drive [[Address 2: Address]]
+
+\centered Signature Page to Amendment S-1 
+
+^^^^^ 
+
+**ADMINISTRATIVE AGENT**:  [[Party 2]], a national banking association, as Administrative Agent
+[[ADMINISTRATIVE AGENT  Party 2 a national banking association as Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{ADMINISTRATIVE AGENT  Party 2 a national banking association as Administrative Agent Entity => By: [[ADMINISTRATIVE AGENT  Party 2 a national banking association as Administrative Agent Signatory First Name]] [[ADMINISTRATIVE AGENT  Party 2 a national banking association as Administrative Agent Signatory Last Name]]
+Title: [[ADMINISTRATIVE AGENT  Party 2 a national banking association as Administrative Agent Signatory Title]]}}
+
+
+Address:
+
+[[Organization 2 Name]]
+127 Public Square - 8th Floor Mail Code: OH-01-27-0839 Cleveland, Ohio 44114 Phone: [[Phone 1]] Facsimile: [[Phone 2]] Attn: [[Person 1 First Name]] [[Person 1 Last Name]]
+
+**LENDERS**:  [[Party 2]], a national banking association
+[[LENDERS  Party 2 a national banking association Signatory Email: Identity | Signature]]
+__________________________________________
+{{LENDERS  Party 2 a national banking association Entity => By: [[LENDERS  Party 2 a national banking association Signatory First Name]] [[LENDERS  Party 2 a national banking association Signatory Last Name]]
+Title: [[LENDERS  Party 2 a national banking association Signatory Title]]}}
+
+
+Address:
+[[Organization 2 Name]]
+127 Public Square - 8th Floor Mail Code: OH-01-27-0839 Cleveland, Ohio 44114 Phone: [[Phone 1]] Facsimile: [[Phone 2]] Attn: [[Person 1 First Name]] [[Person 1 Last Name]]
+
+\centered Signature Page to Amendment S-2 
+
+^^^^^ 
+
+**[[Organization 3 Name]],** a national banking association
+[[[[Organization 3 Name]] a national banking association Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] a national banking association Entity => By: [[[[Organization 3 Name]] a national banking association Signatory First Name]] [[[[Organization 3 Name]] a national banking association Signatory Last Name]]
+Title: [[[[Organization 3 Name]] a national banking association Signatory Title]]}}
+
+
+Address:
+
+[[Organization 3 Name]]
+[[Address 3: Address]] Telephone: [[Phone 3]] Fax: [[Phone 4]] Attn: [[Person 2 First Name]] [[Person 2 Last Name]]  [[Organization 3 Name]] 4747 Executive Drive, 3rd Floor [[Address 4: Address]] Telephone: [[Phone 5]] Fax: [[Phone 4]] Attn: [[Person 3 First Name]] [[Person 3 Last Name]]
+
+\centered Signature Page to Amendment S-3 
+
+^^^^^ 
+
+**SOCIETE GENERALE**
+[[SOCIETE GENERALE Signatory Email: Identity | Signature]]
+__________________________________________
+{{SOCIETE GENERALE Entity => By: [[SOCIETE GENERALE Signatory First Name]] [[SOCIETE GENERALE Signatory Last Name]]
+Title: [[SOCIETE GENERALE Signatory Title]]}}
+
+
+Address:  
+[[Address 5: Address]]
+
+Telephone: [[Phone 6]]
+
+Facsimile: [[Phone 7]]
+
+Attn: [[Person 4 First Name]] [[Person 4 Last Name]] 
+
+\centered Signature Page to Amendment  S-4 
+
+^^^^^ 
+
+
+[[^^^^^ Signatory Email: Identity | Signature]]
+__________________________________________
+{{^^^^^ Entity => By: [[^^^^^ Signatory First Name]] [[^^^^^ Signatory Last Name]]
+Title: [[^^^^^ Signatory Title]]}}
+
+
+Address:  
+BBVA Compass
+
+15South 20th Street
+
+Suite 1504
+
+[[Address 6: Address]]
+
+Telephone: [[Phone 8]]
+
+Facsimile: [[Phone 9]]
+
+Attn: [[Person 5 First Name]] [[Person 5 Last Name]], Senior Vice President 
+
+\centered Signature Page to Amendment  S-5 
+
+^^^^^ 
+
+**ALLIED IRISH BANKS, p.l.c.**
+[[ALLIED IRISH BANKS p.l.c. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ALLIED IRISH BANKS p.l.c. Entity => By: [[ALLIED IRISH BANKS p.l.c. Signatory First Name]] [[ALLIED IRISH BANKS p.l.c. Signatory Last Name]]
+Title: [[ALLIED IRISH BANKS p.l.c. Signatory Title]]}}
+
+
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
+
+
+Address:  
+[[Address 7: Address]]
+
+Telephone: [[Phone 10]]
+
+Facsimile: [[Phone 11]]
+
+Attn: [[Person 6 First Name]] [[Person 6 Last Name]]
+
+Attn: [[Person 7 First Name]] [[Person 7 Last Name]] 
+
+\centered Signature Page to Amendment  S-6 
+
+^^^^^ 
+
+**[[Organization 4 Name]], FSB**
+[[[[Organization 4 Name]] FSB Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] FSB Entity => By: [[[[Organization 4 Name]] FSB Signatory First Name]] [[[[Organization 4 Name]] FSB Signatory Last Name]]
+Title: [[[[Organization 4 Name]] FSB Signatory Title]]}}
+
+
+Address:  
+710 Carillon Parkway
+
+St. Petersburg, Florida 33716
+
+Telephone: [[Phone 12]]
+
+Facsimile: [[Phone 13]]
+
+Attn: [[Person 8 First Name]] [[Person 8 Last Name]], Senior Vice President 
+
+\centered Signature Page to Amendment  S-7 
+
+^^^^^ 
+
+**[[Organization 5 Name]]**
+[[[[Organization 5 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] Entity => By: [[[[Organization 5 Name]] Signatory First Name]] [[[[Organization 5 Name]] Signatory Last Name]]
+Title: [[[[Organization 5 Name]] Signatory Title]]}}
+
+
+[[Title Lender1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Lender1 Signatory Title}} Entity => By: [[Title Lender1 Signatory Title}} Signatory First Name]] [[Title Lender1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Lender1 Signatory Title}} Signatory Title]]}}
+
+Address:  
+c/o [[Organization 6 Name]]
+
+[[Address 8: Address]]
+
+Attn: [[Person 9 First Name]] [[Person 9 Last Name]], Managing Director
+
+Telephone: [[Phone 14]]
+
+Facsimile: [[Phone 15]] 
+
+\centered Signature Page to Amendment  S-8 
+
+^^^^^ 
+
+**[[Organization 7 Name]]**
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+
+[[Title Lender3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Lender3 Signatory Title}} Entity => By: [[Title Lender3 Signatory Title}} Signatory First Name]] [[Title Lender3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Lender3 Signatory Title}} Signatory Title]]}}
+
+
+Address:  
+
+
+[[Address 9: Address]]
+
+Attn: [[Person 10 First Name]] [[Person 10 Last Name]], Assistant Vice President
+
+Telephone: [[Phone 16]]
+
+Facsimile: [[Phone 17]] 
+
+\centered Signature Page to Amendment  S-9 
+
+^^^^^ 
+
+**[[Organization 9 Name]],** a national banking association (**d/b/a Charter One)**
+[[[[Organization 9 Name]] a national banking association d/b/a Charter One Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] a national banking association d/b/a Charter One Entity => By: [[[[Organization 9 Name]] a national banking association d/b/a Charter One Signatory First Name]] [[[[Organization 9 Name]] a national banking association d/b/a Charter One Signatory Last Name]]
+Title: [[[[Organization 9 Name]] a national banking association d/b/a Charter One Signatory Title]]}}
+
+
+Address:  
+[[Organization 9 Name]] d/b/a Charter One
+
+[[Address 10: Address]]
+
+Phone: [[Phone 18]]
+
+Facsimile: [[Phone 19]]
+
+Attn: [[Person 11 First Name]] [[Person 11 Last Name]], Assistant Vice President 
+
+\centered Signature Page to Amendment  S-10 
+
+^^^^^ 
+
+**[[Organization 10 Name]], successor-by-merger to [[Organization 11 Name]]**
+[[[[Organization 10 Name]] successor-by-merger to [[Organization 12 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] successor-by-merger to [[Organization 12 Name]] Entity => By: [[[[Organization 10 Name]] successor-by-merger to [[Organization 12 Name]] Signatory First Name]] [[[[Organization 10 Name]] successor-by-merger to [[Organization 12 Name]] Signatory Last Name]]
+Title: [[[[Organization 10 Name]] successor-by-merger to [[Organization 12 Name]] Signatory Title]]}}
+
+
+Address:  
+[[Organization 10 Name]]
+
+301 S. College Street, 4th Floor
+
+Mailcode D1053-04R
+
+[[Address 11: Address]]
+
+Telephone: [[Phone 20]]
+
+Facsimile: [[Phone 21]]
+
+Attn: [[Person 12 First Name]] [[Person 12 Last Name]], Relationship Manager 
+
+\centered Signature Page to Amendment  S-11 
+
+^^^^^ 
+
+**[[Organization 13 Name]], N.A.**, a national banking association
+[[[[Organization 13 Name]] a national banking association Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 13 Name]] a national banking association Entity => By: [[[[Organization 13 Name]] a national banking association Signatory First Name]] [[[[Organization 13 Name]] a national banking association Signatory Last Name]]
+Title: [[[[Organization 13 Name]] a national banking association Signatory Title]]}}
+
+
+Address:   [[Address 12: Address]] Telephone: [[Phone 22]] Facsimile: [[Phone 23]] Attn: [[Person 13 First Name]] [[Person 13 Last Name]], Vice President
+
+\centered Signature Page to Amendment  S-12 
+
+^^^^^ 
+
+**SOVEREIGN BANK**
+[[SOVEREIGN BANK Signatory Email: Identity | Signature]]
+__________________________________________
+{{SOVEREIGN BANK Entity => By: [[SOVEREIGN BANK Signatory First Name]] [[SOVEREIGN BANK Signatory Last Name]]
+Title: [[SOVEREIGN BANK Signatory Title]]}}
+
+
+Address:  
+^State Street MA1 SST04-11
+
+[[Address 13: Address]]
+
+Telephone: [[Phone 24]]
+
+Facsimile: [[Phone 25]]
+
+Attn: [[Person 14 First Name]] [[Person 14 Last Name]], Senior Vice President 
+
+\centered Signature Page to Amendment  S-13 
+
+^^^^^ 
+
+**[[Organization 14 Name]] (f/k/a TD Banknorth, N.A.)**
+[[[[Organization 15 Name]] f/k/a TD Banknorth N.A. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 15 Name]] f/k/a TD Banknorth N.A. Entity => By: [[[[Organization 15 Name]] f/k/a TD Banknorth N.A. Signatory First Name]] [[[[Organization 15 Name]] f/k/a TD Banknorth N.A. Signatory Last Name]]
+Title: [[[[Organization 15 Name]] f/k/a TD Banknorth N.A. Signatory Title]]}}
+
+
+Address:  
+[[Organization 14 Name]]
+
+[[Address 14: Address]]
+
+Telephone:: [[Phone 26]]
+
+Facsimile: [[Phone 27]]
+
+Attn: [[Person 15 First Name]] [[Person 15 Last Name]], Assistant Vice President 
+
+\centered Signature Page to Amendment  S-14 
+
+^^^^^ 
+
+**[[Organization 16 Name]]**
+[[[[Organization 16 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 16 Name]] Entity => By: [[[[Organization 16 Name]] Signatory First Name]] [[[[Organization 16 Name]] Signatory Last Name]]
+Title: [[[[Organization 16 Name]] Signatory Title]]}}
+
+
+[[Title Party 20 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 20 Signatory Title}} Entity => By: [[Title Party 20 Signatory Title}} Signatory First Name]] [[Title Party 20 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 20 Signatory Title}} Signatory Title]]}}
+
+
+Address:  
+[[Address 15: Address]]
+
+Phone: +49 6131 9280 7263
+
+Facsimile: +49 6131 9280 7308
+
+Attn: [[Person 16 First Name]] [[Person 16 Last Name]], Executive Director 
+
+\centered Signature Page to Amendment  S-15 
+
+^^^^^ 
+
+**PEOPLE’S UNITED BANK**
+[[PEOPLE’S UNITED BANK Signatory Email: Identity | Signature]]
+__________________________________________
+{{PEOPLE’S UNITED BANK Entity => By: [[PEOPLE’S UNITED BANK Signatory First Name]] [[PEOPLE’S UNITED BANK Signatory Last Name]]
+Title: [[PEOPLE’S UNITED BANK Signatory Title]]}}
+
+
+Address:  
+People’s United Bank
+
+[[Address 16: Address]]
+
+Phone: [[Phone 28]]
+
+Facsimile: [[Phone 29]]
+
+Attn: [[Person 17 First Name]] [[Person 17 Last Name]], Vice President 
+
+\centered Signature Page to Amendment  S-16 
+
+^^^^^ 
+
+**[[Organization 17 Name]], NATIONAL ASSOCIATION, successor to [[Organization 18 Name]]**
+[[[[Organization 17 Name]] successor to [[Organization 18 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 17 Name]] successor to [[Organization 18 Name]] Entity => By: [[[[Organization 17 Name]] successor to [[Organization 18 Name]] Signatory First Name]] [[[[Organization 17 Name]] successor to [[Organization 18 Name]] Signatory Last Name]]
+Title: [[[[Organization 17 Name]] successor to [[Organization 18 Name]] Signatory Title]]}}
+
+
+Address:  
+[[Organization 19 Name]]
+
+1900 E. Ninth Street  22nd Floor
+
+(Mail Stop: B7-YB13-22-1)
+
+Cleveland, OH 44114
+
+Telephone: [[Phone 30]]
+
+Facsimile: [[Phone 31]]
+
+Attn: [[Person 18 First Name]] [[Person 18 Last Name]], II 
+
+Senior Vice President  
+
+Real Estate Banking  
+
+\centered Signature Page to Amendment  S-17 
+
+^^^^^ 
+
+**[[Organization 20 Name]], LTD., NEW YORK BRANCH**
+[[[[Organization 20 Name]] NEW YORK BRANCH Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 20 Name]] NEW YORK BRANCH Entity => By: [[[[Organization 20 Name]] NEW YORK BRANCH Signatory First Name]] [[[[Organization 20 Name]] NEW YORK BRANCH Signatory Last Name]]
+Title: [[[[Organization 20 Name]] NEW YORK BRANCH Signatory Title]]}}
+
+
+Address:  
+[[Address 17: Address]]
+
+Telephone: [[Phone 32]]
+
+Facsimile: [[Phone 33]]
+
+Attn: [[Person 19 First Name]] [[Person 19 Last Name]], Executive Vice President and General Manager

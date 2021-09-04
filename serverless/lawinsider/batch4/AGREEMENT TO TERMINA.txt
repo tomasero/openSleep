@@ -1,0 +1,52 @@
+\centered **AGREEMENT TO TERMINATE EMPLOYMENT AGREEMENT**
+
+This Agreement to Terminate Employment Agreement (this “Agreement”), dated as of [[Date 1: Date]], is among [[Person 1 First Name]] [[Person 1 Last Name]] (the “Executive”), [[Organization 1 Name]] (“Bicus”), [[Organization 2 Name]] (“Mercer”) and [[Organization 3 Name]].
+
+WHEREAS, Bicus, Mercer, [[Organization 3 Name]] and the Executive entered into an Employment Agreement dated as of [[Date 2: Date]], (as amended, the “Employment Agreement”), pursuant to which Bicus agreed to employ the Executive as President and Chief Executive Officer and the Executive accepted such employment;
+
+WHEREAS, Mercer is entering into an Agreement and Plan of Merger by and among [[Organization 4 Name]], [[Organization 5 Name]] and [[Organization 2 Name]] dated as of [[Date 1]] (the “Merger Agreement”); and
+
+WHEREAS, in connection with the consummation of the Merger Agreement, the parties desire to terminate the Employment Agreement, other than certain continuing provisions specified herein, and to provide for certain payments to be made to the Executive upon such termination.
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants and agreements contained herein, the parties hereby agree as follows:
+
+^**Termination of Employment Agreement**. In accordance with Treas. Reg. 1.409A-3(j)(ix)(B), the parties hereby agree that the Employment Agreement shall be terminated as of the Effective Time, as defined in the Merger Agreement; **provided, however**, that Section 18 of the Employment Agreement entitled Confidential Information and Section 19 of the Employment Agreement entitled Covenants Not to Compete or to Solicit shall continue and remain in full effect in accordance with their terms.
+
+^**Payment Upon Termination**. In connection with the termination of the Employment Agreement, Mercer shall pay to the Executive within 10 business days of the Effective Time, a lump sum cash payment in the amount of the cash payment that would have been payable to the Executive pursuant to Section 11 of the Employment Agreement in the event the Executive terminated his employment with Good Reason (as defined in the Employment Agreement) at the Effective Time. The Executive shall not be entitled to any other payments or benefits under the Employment Agreement or in connection with the termination thereof.
+
+^**Governing Law; Validity**. The interpretation, construction and performance of this Agreement shall be governed by and construed and enforced in accordance with the laws of the Commonwealth of Pennsylvania. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which other provisions shall remain in full force and effect.
+
+^**Entire Agreement; Amendment**. This Agreement contains the entire understanding of the parties hereto with regard to the subject matter contained herein and supersedes all prior agreements, understandings or intents between or among any of the parties hereto or any related parties; provided, however, this Agreement does not supersede or preempt Section 18 of the Employment Agreement entitled Confidential Information and Section 19 of the Employment Agreement entitled Covenants Not to Compete or to Solicit. The parties hereto, by mutual agreement in writing, may amend, modify and suppl ement this Agreement. Any such amendment shall be validly and sufficiently authorized for purposes of this Agreement if it is evidenced by a writing signed by all of the parties hereto.
+
+^**Counterparts**. This Agreement may be executed in two or more counterparts, all of which shall be deemed to be an original and all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties have duly executed this Agreement as of the day and year first written above.
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+
+
+[[[[Person 1 First Name]] [[Person 1 Last Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Person 1 First Name]] [[Person 1 Last Name]] Entity => By: [[[[Person 1 First Name]] [[Person 1 Last Name]] Signatory First Name]] [[[[Person 1 First Name]] [[Person 1 Last Name]] Signatory Last Name]]
+Title: [[[[Person 1 First Name]] [[Person 1 Last Name]] Signatory Title]]}}
+
+Attest:
+
+[[Organization 2 Name]]
+
+[[[[Organization 2 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. Entity => By: [[[[Organization 2 Name]]. Signatory First Name]] [[[[Organization 2 Name]]. Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. Signatory Title]]}}
+
+Attest:
+
+[[Organization 3 Name]]
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+Attest:

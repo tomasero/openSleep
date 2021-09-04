@@ -1,0 +1,521 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **PC MASTER TRUST AGREEMENT** 
+
+**THIS PC MASTER TRUST AGREEMENT** is entered into as of [[Date 1: Date]], by and among [[Party 1]], and the Holders of the PCs offered from time to time pursuant to [[Organization 1 Name]]’s Offering Circular referred to herein. 
+
+\centered **WHEREAS:** 
+
+^^[[Organization 1 Name]] is a corporation duly organized and existing under and by virtue of the [[Organization 1 Name]] Act and has full corporate power and authority to enter into this Agreement and to undertake the obligations undertaken by it herein; and 
+
+^^[[Organization 1 Name]] may from time to time (i) purchase Mortgages, in accordance with the applicable provisions of the [[Organization 1 Name]] Act, (ii) as Depositor, transfer and deposit such Mortgages into various trust funds that are established pursuant to this Agreement and that are referred to herein as “PC Pools,” (iii) as Trustee, create and issue hereunder, on behalf of the related PC Pool, PCs representing undivided beneficial ownership interests in the assets of that PC Pool and otherwise act as trustee for each such PC Pool, (iv) as Guarantor, guarantee the payment of interest and principal for the benefit of the Holders of such PCs and (v) as Administrator, administer the affairs of each such PC Pool. 
+
+**NOW, THEREFORE**, in consideration of the premises and mutual covenants contained in this Agreement, the parties to this Agreement, do hereby declare and establish this Agreement and do hereby undertake and otherwise agree as follows with respect to the transfer of the Mortgages to various PC Pools, the issuance of the PCs and the establishment of the rights and obligations of the parties. 
+
+\centered **Definitions** 
+
+The following terms used in this Agreement have the respective meanings set forth below. 
+
+*Accrual Period:* As to any PC and any Payment Date, (i) the calendar month preceding the month of the Payment Date for Gold PCs or (ii) the second calendar month preceding the month of the Payment Date for ARM PCs. 
+
+*Administrator:* [[Organization 1 Name]], in its corporate capacity, as administrator of the PC Pools created under this Agreement. 
+
+*Agreement:* This PC Master Trust Agreement, dated as of [[Date 1]], by and among [[Party 1]], and the Holders of the various PCs, as originally executed, or as modified, amended or supplemented in accordance with the provisions set forth herein. Unless the context requires otherwise, the term “Agreement” shall be deemed to include any applicable Pool Supplement entered into pursuant to Section 1.01 of this Agreement. 
+
+*ARM:* An adjustable rate Mortgage.  
+
+^^^^^ 
+*ARM PC:* A PC with a Payment Delay of 75 days and which is backed by ARMs. ARM PCs include Deferred Interest PCs. 
+
+*Book-Entry Rules:* The provisions from time to time in effect, currently contained in Title 24, Part 81, Subpart H of the Code of Federal Regulations, setting forth the terms and conditions under which [[Organization 1 Name]] may issue securities on the book-entry system of the Federal Reserve Banks and authorizing a Federal Reserve Bank to act as its agent in connection with such securities. 
+
+*Business Day:* A day other than (i) a Saturday or Sunday and (ii) a day when the Federal Reserve Bank of New York (or other agent acting as [[Organization 1 Name]]’s fiscal agent) is closed or, as to any Holder, a day when the Federal Reserve Bank that maintains the Holder’s account is closed. 
+
+*Conventional Mortgage:* A Mortgage that is not guaranteed or insured by the United States or any agency or instrumentality of the United States. 
+
+*Custodial Account:* As defined in Section 3.05(e) of this Agreement. 
+
+*Deferred Interest:* The amount by which the interest due on a Mortgage exceeds the borrower’s monthly payment, which amount is added to the unpaid principal balance of the Mortgage. 
+
+*Deferred Interest PC:* A PC representing an undivided beneficial ownership interest in a PC Pool that includes Mortgages providing for negative amortization. 
+
+*Depositor:* [[Organization 1 Name]], in its corporate capacity, as depositor of Mortgages into the PC Pools created under this Agreement. 
+
+*Eligible Investments:* Any one or more of the following obligations, securities or holdings maturing on or before the Payment Date applicable to the funds so invested: 
+
+^^^obligations of, or obligations guaranteed as to the full and timely payment of principal and interest by, the United States; 
+
+^^^obligations of any agency or instrumentality of the United States (other than [[Organization 1 Name]]) or taxable debt obligations of any state or local government (or political subdivision thereof) that have a long-term rating or a short-term rating, as applicable, from S&P, Moody’s or Fitch in any case in one of its two highest rating categories for long-term securities or in its highest ratings category for short-term securities; 
+
+^^^time deposits of any depository institution or trust company domiciled in the Cayman Islands or Nassau and affiliated with a financial institution that is a member of the Federal Reserve System, provided that the short-term securities of the depository institution or trust company are rated by S&P, Moody’s or Fitch in the highest applicable ratings category for short-term securities; 
+
+^^^federal funds, certificates of deposit, time deposits and bankers’ acceptances with a fixed maturity of no more than 365 days of any depository institution or trust company, provided that the short-term securities of the depository institution or trust company are rated by S&P, Moody’s or Fitch in the highest applicable ratings category for short-term securities; 
+
+^^^commercial paper with a fixed maturity of no more than 270 days, of any corporation that is rated by S&P, Moody’s or Fitch in its highest short-term ratings category; 
+
+^^^^^ 
+^^^debt securities that have a long-term rating or a short-term rating, as applicable, from S&P, Moody’s or Fitch, in any case in one of its two highest ratings categories for long-term securities or in its highest ratings category for short-term securities; 
+
+^^^money market funds that are registered under the Investment Company Act of 1940, as amended, are entitled, pursuant to Rule 2a-7 of the Securities and Exchange Commission, or any successor to that rule, to hold themselves out to investors as money market funds, and are rated by S&P, Moody’s or Fitch in one of its two highest ratings categories for money market funds; 
+
+^^^asset-backed commercial paper that is rated by S&P, Moody’s or Fitch in its highest short-term ratings category; 
+
+^^^repurchase agreements on obligations that are either specified in any of clauses (i), (ii), (iv), (v), (vi) or (viii) above or are mortgage-backed securities insured or guaranteed by an entity that is an agency or instrumentality of the United States; provided that the counterparty to the repurchase agreement is an entity whose short-term debt securities are rated by S&P, Moody’s or Fitch in its highest ratings category for short-term securities; and 
+
+^^^any other investment without options that is approved by [[Organization 1 Name]] and is within the two highest ratings categories of the applicable rating agency for long-term securities or the highest ratings category of the applicable rating agency for short-term securities. 
+
+The rating requirement will be satisfied if the relevant security, issue or fund at the time of purchase receives at least the minimum stated rating from at least one of S&P, Moody’s or Fitch. The rating requirement will not be satisfied by a rating that is the minimum rating followed by a minus sign or by a rating lower than Aa2 from Moody’s. 
+
+*Event of Default:* As defined in Section 5.01 of this Agreement. 
+
+*FHA/VA Mortgage:* A Mortgage insured by the Federal Housing Administration or by the Department of Agriculture Rural Development (formerly the Rural Housing Service) or guaranteed by the Department of Veterans Affairs or the Department of Housing and Urban Development. 
+
+*Final Payment Date:* As to any PC, the first day of the latest month in which the related Pool Factor will be reduced to zero. The Administrator publishes the Final Payment Date upon formation of the related PC Pool. 
+
+*Fitch:* [[Organization 2 Name]], also known as [[Organization 3 Name]], or any successor thereto. 
+
+*[[Organization 1 Name]]:* [[Organization 4 Name]], a corporation created pursuant to the [[Organization 1 Name]] Act for the purpose of establishing and supporting a secondary market in residential mortgages. Unless the context requires otherwise, the term “[[Organization 1 Name]]” shall be deemed to refer to [[Organization 1 Name]] acting in one or more of its corporate capacities, as specified or as provided in context, and not in its capacity as Trustee. 
+
+*[[Organization 1 Name]] Act:* Title III of the Emergency Home Finance Act of 1970, as amended, 12 U.S.C. §§1451-1459. 
+
+*Gold PC:* A PC with a Payment Delay of 45 days and which is backed by fixed-rate Mortgages. 
+
+*Guarantor:* [[Organization 1 Name]], in its corporate capacity, as guarantor of the PCs issued by each PC Pool. 
+
+^^^^^ 
+*Guide:* [[Organization 1 Name]]’s Single-Family Seller/Servicer Guide, as supplemented and amended from time to time, in which [[Organization 1 Name]] sets forth its mortgage purchase standards, credit, appraisal and underwriting guidelines and servicing policies. 
+
+*Holder:* With respect to any PC Pool, any entity that appears on the records of a Federal Reserve Bank as a holder of the related PCs. 
+
+*Monthly Reporting Period:* The period during which servicers report Mortgage payments to the Administrator, generally consisting of the calendar month preceding the related Payment Date for Gold PCs and the second calendar month preceding the related Payment Date for ARM PCs, which period the Administrator has the right to change as provided in Section 3.05(d) of this Agreement; *provided, however*, that with respect to prepayments on PCs issued before [[Date 2: Date]], the Monthly Reporting Period generally is from the 16th of a month through the 15th of the next month. 
+
+*Moody’s:* Moody’s Investors Service, Inc., or any successor thereto. 
+
+*Mortgage:* A mortgage loan or a participation interest in a mortgage loan that is secured by a first or second lien on a one-to-four family dwelling and that has been purchased by the Depositor and transferred by the Depositor to the Trustee for inclusion in the related PC Pool. With respect to each PC Pool, the Mortgages to be included therein shall be identified on the books and records of the Depositor and the Administrator. 
+
+*Mortgage Coupon:* The per annum fixed or adjustable interest rate of a Mortgage. 
+
+*MultiLender Swap Program:* A program under which [[Organization 1 Name]] purchases Mortgages from one or more sellers in exchange for PCs representing undivided beneficial ownership interests in a PC Pool consisting of Mortgages that may or may not be those delivered by the seller(s). 
+
+*Negative Amortization Factor:* With respect to PCs backed by Mortgages providing for negative amortization, a truncated eight-digit decimal number that reflects the amount of Deferred Interest added to the principal balances of the related Mortgages in the preceding month. 
+
+*Offering Circular:* [[Organization 1 Name]]’s Mortgage Participation Certificates Offering Circular dated [[Date 1]], as amended and supplemented by any Supplements issued from time to time, or any successor thereto, as it may be amended and supplemented from time to time. 
+
+*Payment Date:* The 15th of each month or, if the 15th is not a Business Day, the next Business Day. 
+
+*Payment Delay:* The delay between the first day of the Accrual Period for a PC and the related Payment Date. 
+
+*PC:* With respect to each PC Pool, a Mortgage Participation Certificate issued pursuant to this Agreement, representing a beneficial ownership interest in such PC Pool. The term “PC’’ includes a Gold PC or an ARM PC unless the context requires otherwise. 
+
+*PC Coupon:* The per annum fixed or adjustable rate of a PC calculated as described in the Offering Circular or the applicable Pool Supplement, computed on the basis of a 360-day year of twelve 30-day months. 
+
+*PC Issue Date:* With respect to each PC Pool, the date specified in the related Pool Supplement or, if not specified therein, the date on which [[Organization 1 Name]] issues a PC in exchange for the Mortgages delivered by a dealer or other customer. 
+
+^^^^^ 
+*PC Pool:* With respect to each PC, the corpus of the related trust fund created by this Agreement, consisting of (i) the related Mortgages and all proceeds thereof, (ii) amounts on deposit in the Custodial Account, to the extent allocable to such PC Pool, (iii) the right to receive payments under the related guarantee and (iv) any other assets specified in the related Pool Supplement, excluding any investment earnings on any of the assets of that PC Pool. With respect to each PC Pool, and unless expressly stated otherwise, the provisions of this Agreement will be interpreted as referring only to the Mortgages included in that PC Pool, the PCs issued by that PC Pool and the Holders of those PCs. 
+
+*Person:* Any legal person, including any individual, corporation, partnership, limited liability company, financial institution, joint venture, association, joint stock company, trust, unincorporated organization or governmental unit or political subdivision of any governmental unit. 
+
+*Pool Factor:* With respect to each PC Pool, a truncated eight-digit decimal calculated for each month by the Administrator which, when multiplied by the original principal balance of the related PCs, will equal their remaining principal amount. The Pool Factor for any month reflects the remaining principal amount after the payment to be made on the Payment Date in the same month for Gold PCs or in the following month for ARM PCs. 
+
+*Pool Supplement:* Any physical or electronic document or record (which may be a supplement to the Offering Circular or any other supplemental document prepared by [[Organization 1 Name]] for the related PCs), which, together herewith, evidences the establishment of a PC Pool and modifies, amends or supplements the provisions hereof in any respect whatsoever. The Pool Supplement for a particular PC Pool shall be binding and effective upon formation of the related PC Pool and issuance of the related PCs, whether or not such Pool Supplement is executed, delivered or published by [[Organization 1 Name]]. 
+
+*Purchase Documents:* The mortgage purchase agreements between [[Organization 1 Name]] and its Mortgage sellers and servicers, which are the contracts that govern the purchase and servicing of Mortgages and which include, among other things, the Guide and any negotiated modifications, amendments or supplements to the Guide. 
+
+*Record Date:* As to any Payment Date, the close of business on the last day of (i) the preceding month for Gold PCs or (ii) the second preceding month for ARM PCs. 
+
+*S&P:* Standard & Poor’s Ratings Services, a division of [[Organization 5 Name]], or any successor thereto. 
+
+*Transferor:* For purposes of Section 7.06(a) of this Agreement with respect to each PC Pool created on or after the date hereof, (a) a Person, acting in its capacity as principal, that transfers Mortgages to the Depositor in exchange for cash or PCs, or a combination of cash and PCs, for conveyance to such PC Pool; or (b) if the Depositor transfers Mortgages that it has previously been holding in its own portfolio into such PC Pool, [[Organization 1 Name]], in its corporate capacity as the Depositor. 
+
+*Trustee:* [[Organization 1 Name]], in its capacity as trustee of each PC Pool formed under this Agreement, and its successors and assigns, which will have the trustee responsibilities specified in this Agreement, as amended or supplemented from time to time. 
+
+*Trustee Event of Default:* As defined in Section 6.06 of this Agreement. 
+
+^^^^^ 
+\centered **Conveyance of Mortgages; Creation of PC Pools** 
+
+Section 1.01. Declaration of Trust; Transfer of Mortgages. The Depositor, by delivering any Mortgages pursuant to this Agreement, unconditionally, absolutely and irrevocably hereby transfers, assigns, sets over and otherwise conveys to the Trustee, on behalf of the related Holders, all of the Depositor’s right, title and interest in and to such Mortgages, including all payments of principal and interest thereon received after the month in which the PC Issue Date occurs. Once Mortgages have been identified as being part of a related PC Pool for which at least one PC has been issued, they shall remain in that PC Pool unless removed in a manner consistent with this Agreement. Concurrently with the Depositor’s transferring, assigning, setting over and otherwise conveying the Mortgages to the Trustee for a PC Pool, the Trustee hereby accepts the Mortgages so conveyed and acknowledges that it holds the entire corpus of each PC Pool in trust for the exclusive benefit of the related Holders and shall deliver to, or on the order of, the Depositor, the PCs issued by such PC Pool. The Administrator agrees to administer the related PC Pool and such PCs in accordance with the terms of this Agreement. On the related PC Issue Date and upon payment to the Depositor for any such PC by a Holder, such Holder shall, by virtue thereof, acknowledge, accept and agree to be bound by all of the terms and conditions of this Agreement. 
+
+^Pool Supplement shall evidence the establishment of a particular PC Pool and shall relate to specific PCs representing the entire beneficial ownership interests in such PC Pool. If for any reason the creation of a Pool Supplement is delayed, [[Organization 1 Name]] shall create one as soon as practicable, and such delay shall not affect the validity and existence of the PC Pool or the related PCs. With respect to each PC Pool, the collective terms hereof and of the related Pool Supplement shall govern the issuance and administration of the PCs related to such PC Pool, and all matters related thereto, and shall have no applicability to any other PC Pool or PCs. As applied to each PC Pool, the collective terms hereof and of the related Pool Supplement shall constitute an agreement as if the collective terms of those instruments were set forth in a single instrument. In the event of a conflict between the terms hereof and the terms of a Pool Supplement for a PC Pool, the terms of the Pool Supplement shall control with respect to that PC Pool. A Pool Supplement is not considered an amendment to this Agreement requiring approval pursuant to Section 7.05. 
+
+Section 1.02. Identity of the Mortgages; Substitution and Repurchase. 
+
+^^In consideration for the transfer of the related Mortgages by the Depositor to a PC Pool, the Depositor (i) shall receive the PCs issued by such PC Pool and (ii) may retain such PCs or transfer them to the related Mortgage seller or otherwise, as the Depositor deems appropriate. 
+
+^^After the PC Issue Date but prior to the first Payment Date, the Depositor may, in accordance with its customary mortgage purchase and pooling procedures, adjust the amount and identity of the Mortgages to be transferred to a PC Pool, the PC Coupon and/or the original unpaid principal balance of the PCs and the Mortgages in the PC Pool, provided that any changes to the characteristics of the PCs shall be evidenced by an amendment or supplement to the related Pool Supplement. 
+
+^^Except as provided in this Section 1.02 or in Section 1.03, once the Depositor has transferred a Mortgage to a particular PC Pool, such Mortgage may not be transferred out of such PC Pool, except (x) if a mortgage insurer exercises an option under an insurance contract to purchase such Mortgage or (y) in the case of repurchase by the Guarantor, the Administrator or the related Mortgage seller or servicer, under the following circumstances: 
+
+^^^The Guarantor may repurchase from the related PC Pool a Mortgage in connection with a guarantee payment under Section 3.09(a)(ii). 
+
+^^^^^ 
+^^^The Administrator may repurchase from the related PC Pool, or require or permit a Mortgage seller or servicer to repurchase, any Mortgage if a repurchase is necessary or advisable (A) to maintain servicing of the Mortgage in accordance with the provisions of the Guide, or (B) to maintain the status of the PC Pool as a grantor trust for federal income tax purposes. 
+
+^^^The Guarantor may repurchase from the related PC Pool, or require or permit a Mortgage seller or servicer to repurchase, any Mortgage if (A) such Mortgage is 120 or more days delinquent, or (B) the Guarantor determines, on the basis of information from the related borrower or servicer, that loss of ownership of the property securing a Mortgage is likely or default is imminent due to borrower incapacity, death or hardship or other extraordinary circumstances that make future payments on such Mortgage unlikely or impossible. 
+
+^^^The Guarantor may repurchase from the related PC Pool a Mortgage if a bankruptcy court approves a plan that materially affects the terms of the Mortgage or authorizes a transfer or substitution of the underlying property. 
+
+^^^The Administrator may require or permit a Mortgage seller or servicer to repurchase from the related PC Pool any Mortgage or (within six months of the issuance of the related PCs) substitute for any Mortgage a Mortgage of comparable type, unpaid principal balance, remaining term and yield, if there is (A) a material breach of warranty by the Mortgage seller or servicer, (B) a material defect in documentation as to such Mortgage or (C) a failure by a seller or servicer to comply with any requirements or terms set forth in the Guide and, if applicable, other Purchase Documents. 
+
+^^^The Administrator shall repurchase from the related PC Pool any Mortgage or (within two years of the issuance of the related PCs) substitute for any Mortgage a Mortgage of comparable type, unpaid principal balance, remaining term and yield, if (A) a court of competent jurisdiction or a federal government agency duly authorized to oversee or regulate [[Organization 1 Name]]’s mortgage purchase business determines that [[Organization 1 Name]]’s purchase of such Mortgage was unauthorized and [[Organization 1 Name]] determines that a cure is not practicable without unreasonable effort or expense or (B) such court or government agency requires repurchase of such Mortgage. 
+
+^^^To the extent a PC Pool includes convertible ARMs or Balloon/Reset Mortgages (each, as defined in the Offering Circular), the Administrator shall repurchase from the related PC Pool or require or allow the Mortgage seller or servicer to repurchase such Mortgages (a) when the borrower exercises its option to convert the related interest rate from an adjustable rate to a fixed rate, in the case of a convertible ARM; and (b) shortly before such Mortgage reaches its scheduled balloon repayment date, in the case of a Balloon/Reset Mortgage. 
+
+^^The purchase price of a Mortgage repurchased by a Mortgage seller or servicer shall be equal to the then unpaid principal balance of such Mortgage, less any principal on such Mortgage that the Mortgage seller or servicer advanced to the Depositor or the Administrator. The purchase price of a Mortgage repurchased by the Administrator or the Guarantor under this Agreement shall be equal to the then unpaid principal balance of such Mortgage, less any outstanding advances of principal on such Mortgage that the Administrator, on behalf of the Trustee, distributed to Holders. The Administrator, on behalf of the Trustee, agrees to release any Mortgage from the PC Pool upon payment of the applicable purchase price. 
+
+^^In determining whether a Mortgage shall be repurchased from the related PC Pool as described in this Section 1.02, the Guarantor and the Administrator may consider such factors as they deem appropriate, including the reduction of administrative costs (in the case of the Administrator) or possible exposure as Guarantor under its guarantee (in the case of the Guarantor). 
+
+^^^^^ 
+^Post-Settlement Purchase Adjustments 
+
+^^The Administrator shall make any post-settlement purchase adjustments necessary to reflect the actual aggregate unpaid principal balance of the related Mortgages or other Mortgage characteristics as of the date of their purchase by the Depositor or their delivery to the Trustee in exchange for PCs, as the case may be. 
+
+^^Post-settlement adjustments may be made in such manner as the Administrator deems appropriate, but shall not adversely affect any Holder’s rights to monthly payments of interest at the PC Coupon, any Holder’s pro rata share of principal or any Holder’s rights under the Guarantor’s guarantees. Any reduction in the principal balance of the Mortgages held by a PC Pool shall be reflected by the Administrator as a corresponding reduction in the principal balance of the related PCs with a corresponding principal payment to the related Holders, on a pro rata basis. 
+
+Section 1.04. Custody of Mortgage Documents. With respect to each PC Pool, the Administrator, a custodian acting as its agent (which may be a third party or a trust or custody department of the related seller or servicer), or the originator or seller of the Mortgage may hold the related Mortgage documents, including Mortgage notes and participation certificates evidencing the Trustee’s legal ownership interest in the Mortgages. The Administrator may adopt and modify its policies and procedures for the custody of Mortgage documents at any time, provided such modifications are prudent and do not materially and adversely affect the Holders’ interests. 
+
+Section 1.05. Interests Held or Acquired by [[Organization 1 Name]]. [[Organization 1 Name]] shall have the right to purchase and hold for its own account any PCs. Subject to Section 7.06, PCs held or acquired by [[Organization 1 Name]] from time to time and PCs held by other Holders shall have equal and proportionate benefits, without preference, priority or distinction. In the event that [[Organization 1 Name]] retains any interest in a Mortgage, the remaining interest in which is part of a PC Pool, [[Organization 1 Name]]’s interest in such Mortgage shall rank equally with that of the related PC Pool, without preference, priority or distinction. No Holder shall have any priority over any other Holder. 
+
+Section 1.06. Intended Characterization. It is intended that the conveyance, transfer, assignment and setting over of the Mortgages by the Depositor to the Trustee pursuant to this Agreement be a true, absolute and unconditional sale of the related Mortgages by the Depositor to the Trustee, and not a pledge of the Mortgages to secure a debt or other obligation of the Depositor, and that the Holders of the related PCs shall be the beneficial owners of such Mortgages. Notwithstanding this express intention, however, if the Mortgages are determined by a court of competent jurisdiction or other competent authority to be the property of the Depositor, then it is intended that: (a) this Agreement be deemed to be a security agreement within the meaning of Articles 8 and 9 of the Uniform Commercial Code; (b) the conveyances provided for in Section 1.01 shall be deemed to be (1) a grant by the Depositor to the Trustee on behalf of the related Holders of a security interest in all of the Depositor’s right (including the power to convey title thereto), title and interest, whether now owned or hereafter acquired, in and to the related Mortgages, any and all general intangibles consisting of, arising from or relating to any of the foregoing, and all proceeds of the conversion, voluntary or involuntary, of the foregoing into cash, instruments, securities or other property, including without limitation all amounts from time to time held or invested in the Custodial Account and allocable to such Mortgages, whether in the form of cash, instruments, securities or other property and (2) an assignment by the Depositor to the Trustee on behalf of the related Holders of any security interest in any and all of the Depositor’s right (including the power to convey title thereto), title and interest, whether now owned or hereafter acquired, in and to the property described in the foregoing clause (1); and (c) notifications to Persons holding such property, and acknowledgments, receipts or confirmations from Persons holding such property, shall be deemed notifications to, or acknowledgments, receipts or confirmations from, financial intermediaries, bailees or agents (as applicable) of the Trustee on behalf of the related Holders, for the purpose of perfecting such security interest under applicable law. 
+
+^^^^^ 
+^Encumbrances. Except as may otherwise be provided expressly in this Agreement, neither [[Organization 1 Name]] nor the Trustee shall directly or indirectly, assign, sell, dispose of or transfer all or any portion of or interest in any PC Pool, or permit all or any portion of any PC Pool to be subject to any lien, claim, mortgage, security interest, pledge or other encumbrance of any other Person. This Section shall not be construed as a limitation on [[Organization 1 Name]]’s rights with respect to PCs held by it in its corporate capacity. 
+
+\centered **Administration and Servicing of the Mortgages** 
+
+Section 2.01. The Administrator as Primary Servicer. With respect to each PC Pool, the Administrator shall service or supervise servicing of the related Mortgages and administer, on behalf of the Trustee, in accordance with the provisions of the Guide and this Agreement, including management of any property acquired through foreclosure or otherwise, all for the benefit of the related Holders. The Administrator shall have full power and authority to do or cause to be done any and all things in connection with such servicing and administration that the Administrator deems necessary or desirable. The Administrator shall seek from the Trustee, as representative of the related Holders, any consents or approvals relating to the control, management and servicing of the Mortgages included in any PC Pool and that are required hereunder. 
+
+Section 2.02. Servicing Responsibilities. With respect to each PC Pool, the Administrator shall service or supervise servicing of the related Mortgages in a manner consistent with prudent servicing standards and in substantially the same manner as the Administrator services or supervises the servicing of unsold mortgages of the same type in its portfolio. In performing its servicing responsibilities hereunder, the Administrator may engage servicers, subservicers and other independent contractors or agents. The Administrator may discharge its responsibility to supervise servicing of the Mortgages by monitoring servicers’ performance on a reporting and exception basis. Except as provided in Articles V and VI and Sections 7.05 and 7.06 of this Agreement, [[Organization 1 Name]], as Administrator shall not be subject to the control of the Holders in the discharge of its responsibilities pursuant to this Article. Except with regard to its guarantee obligations pursuant to Section 3.09 with respect to a PC Pool, the Administrator shall have no liability to any related Holder for the Administrator’s actions or omissions in discharging its responsibilities under this Article II other than for any direct damage resulting from its failure to exercise that degree of ordinary care it exercises in the conduct and management of its own affairs. In no event shall the Administrator have any liability for consequential damages. 
+
+Section 2.03. Realization Upon Defaulted Mortgages. With respect to each PC Pool, unless the Administrator deems that another course of action (e.g., charge-off) would be in the best economic interest of the Holders, the Administrator (or its authorized designee or representative) shall, as soon as practicable, foreclose upon (or otherwise comparably convert the ownership of) any real property securing a Mortgage which comes into and continues in default and as to which no satisfactory arrangements can be made for collection of delinquent payments. In connection with such foreclosure or conversion, the Administrator (or its authorized designee or representative) shall follow such practices or procedures as it deems necessary or advisable and consistent with general mortgage servicing standards. 
+
+Section 2.04. Automatic Acceleration and Assumptions. 
+
+^^With respect to each PC Pool, to the extent provided in the Guide, the Administrator shall enforce the terms of each applicable Mortgage that gives the mortgagee the right to demand full payment of the unpaid principal balance of the Mortgage upon sale or transfer of the property securing the Mortgage regardless of the creditworthiness of the transferee (a right of “automatic acceleration’’), subject to applicable state and federal law and the Administrator’s then-current servicing policies. 
+
+^^^^^ 
+^^With respect to each PC Pool, the Administrator shall permit the assumption by a new mortgagor of an FHA/VA Mortgage upon the sale or transfer of the underlying property, as required by applicable regulations. Any such assumption shall be in accordance with applicable regulations, policies, procedures and credit requirements and shall not result in loss or impairment of any insurance or guaranty. 
+
+Section 2.05. Prepayment Penalties. Unless otherwise provided in the Pool Supplement for a PC Pool, the related Holders shall not be entitled to receive any prepayment penalties, assumption fees or other fees charged on the Mortgages included in such PC Pool, and either the related servicer or the Administrator shall retain such amounts. 
+
+Section 2.06. Mortgage Insurance and Guarantees. 
+
+^^With respect to each PC Pool, if a Conventional Mortgage is insured by a mortgage insurer and the mortgage insurance policy is an asset of such PC Pool, the related Holders acknowledge that the insurer shall have no obligation to recognize or deal with any Person other than the Administrator, the Trustee, or their respective authorized designees or representatives regarding the mortgagee’s rights, benefits and obligations under the related insurance contract. 
+
+^^With respect to each PC Pool, each FHA/VA Mortgage shall have in full force and effect a certificate or other satisfactory evidence of insurance or guaranty, as the case may be, as may be issued by the applicable government agency from time to time. None of these agencies has any obligation to recognize or deal with any Person other than the Administrator, the Trustee, or their respective authorized designees or representatives with regard to the rights, benefits and obligations of the mortgagee under the contract of insurance or guaranty relating to each FHA/VA Mortgage included in such PC Pool. 
+
+\centered **Distributions to Holders; Guarantees** 
+
+Section 3.01. Monthly Reporting Period. For purposes of this Agreement with respect to any PC Pool, any payment or any event with respect to any Mortgage included in such PC Pool that is reported to the Administrator by the related servicer as having been made or having occurred within a Monthly Reporting Period shall be deemed to have been received by the Administrator or to have in fact occurred within such Monthly Reporting Period used by the Administrator for such purposes. Payments reported by servicers include all principal and interest payments made by a borrower, insurance proceeds, liquidation proceeds and repurchase proceeds. Events reported by servicers include foreclosure sales, payments of insurance claims and payments of guarantee claims. 
+
+Section 3.02. Holder’s Undivided Beneficial Ownership Interest. With respect to each PC Pool, the Holder of a PC on the Record Date shall be the owner of record of a pro rata undivided beneficial ownership interest in the remaining principal balance of the Mortgages in the related PC Pool as of such date and shall be entitled to interest at the PC Coupon on such pro rata undivided beneficial ownership interest, in each case on the related Payment Date. Such pro rata undivided beneficial ownership interest shall change accordingly if any Mortgage is added to or removed from such PC Pool in accordance with this Agreement. A Holder’s pro rata undivided beneficial ownership interest in the Mortgages included in a PC Pool is calculated by dividing the original unpaid principal balance of the Holder’s PC by the original unpaid principal balance of all the Mortgages in the related PC Pool. 
+
+Section 3.03. Distributions of Principal. With respect to each PC Pool, the Administrator, on behalf of the Trustee, shall withdraw from the Custodial Account and shall distribute to each related Holder its pro rata share of principal collections with respect to the Mortgages in such PC Pool, including, if applicable, each Holder’s pro rata share of the aggregate amount of any Deferred Interest that has been 
+
+^^^^^ 
+added to the principal balance of the related Mortgages; *provided, however*, that with respect to guarantee payments, the Guarantor’s obligations herein shall be subject to its subrogation rights pursuant to Section 3.10. The Administrator may retain from any prepayment or delinquent principal payment on any Mortgage, for reimbursement to the Guarantor, any amount not previously received with respect to such Mortgage but paid by the Guarantor to the related Holders under its guarantee. For Mortgages purchased by the Depositor in exchange for PCs under its MultiLender Swap Program, the Depositor shall retain principal payments made on such Mortgages in the amount of any difference between the aggregate unpaid principal balance of the Mortgages as of delivery by the seller and the aggregate unpaid principal balance as of the PC Issue Date, and the Depositor shall purchase additional Mortgages with such principal payments; such additional Mortgages may or may not be included in the related PC Pool represented by the PCs received by the seller. 
+
+Section 3.04. Distributions of Interest. With respect to each PC Pool, the Administrator, on behalf of the Trustee, shall withdraw from the Custodial Account and shall distribute to each related Holder its pro rata share of interest collections with respect to the Mortgages included in such PC Pool, at a rate equal to the PC Coupon (excluding, if applicable, each Holder’s pro rata share of any Deferred Interest that has been added to the principal balance of the related Mortgages). Interest shall accrue during the applicable Accrual Periods. The Administrator may retain from any delinquent interest payment on any Mortgage, for reimbursement to the Guarantor, any amount not previously received with respect to such Mortgage but paid by the Guarantor to the related Holders under its guarantee. With respect to each PC Pool, a partial month’s interest retained by [[Organization 1 Name]] or remitted to the related Holders with respect to prepayments shall constitute an adjustment to the fee payable to the Administrator and the Guarantor pursuant to Section 3.08(a) for such PC Pool. 
+
+Section 3.05. Payments.  
+
+^^With respect to each PC Pool, distributions of principal and interest on the related PCs shall begin in the month after issuance for Gold PCs and in the second month after issuance for ARM PCs. The Administrator, on behalf of the Trustee, shall calculate, or cause to be calculated, for each PC the distribution amount for the current calendar month. 
+
+^^On or before each Payment Date, the Administrator, on behalf of the Trustee, shall instruct the Federal Reserve Banks to credit payments on PCs from the Custodial Account to the appropriate Holders’ accounts. The related PC Pool’s payment obligations shall be met upon transmittal of the Administrator’s payment order to the Federal Reserve Banks provided sufficient funds are then on deposit in the Custodial Account. A Holder shall receive the payment of principal, if applicable, and interest on each Payment Date on each PC held by such Holder as of the related Record Date. 
+
+^^The Administrator relies on servicers’ reports of mortgage activity to prepare the Pool Factors. There may be delays or errors in processing mortgage information, such as a servicer’s failure to file an accurate or timely report of its collections of principal or its having filed a report that cannot be processed. In these situations the Administrator’s calculation of scheduled principal to be made on Gold PCs may not reflect actual payments on the related Mortgages. The Administrator shall account for and reconcile any differences as soon as practicable. 
+
+^^The Administrator reserves the right to change the period during which a servicer may hold funds prior to payment to the Administrator, as well as the period for which servicers report payments to the Administrator, including adjustments to the Monthly Reporting Period. Either change may change the time at which prepayments are distributed to Holders. Any such change, however, shall not impair Holders’ rights to payments as otherwise provided in this Section. 
+
+^^The Administrator shall maintain one or more accounts (together, the “Custodial Account”), segregated from the general funds of [[Organization 1 Name]], in its corporate capacity, for the deposit of collections of 
+
+^^^^^ 
+principal (including full and partial principal prepayments) and interest received from or advanced by the servicers in respect of the Mortgages. Mortgage collections in respect of the PC Pools established by [[Organization 1 Name]] under this Agreement or trust funds established by [[Organization 1 Name]] pursuant to any other trust agreements may be commingled in the Custodial Account, provided that the Administrator keeps, or causes to be kept, separate records of funds with respect to each such PC Pool and other trust fund. Collections due to [[Organization 1 Name]], in its corporate capacity as owner of mortgages held in its portfolio, may also be commingled in the Custodial Account, provided that the Administrator shall withdraw such amounts for remittance to [[Organization 1 Name]] on a monthly basis. Funds on deposit in the Custodial Account may be invested by the Administrator in Eligible Investments. Investment earnings on deposits in the Custodial Account shall be for the benefit of the Administrator, and any losses on such investments shall be paid by the Administrator. On each Payment Date, amounts on deposit in the Custodial Account shall be withdrawn upon the order of the Administrator, on behalf of the Trustee, for the purpose of making distributions to the related Holders, in accordance with this Agreement. 
+
+Section 3.06. Pool Factors.  
+
+^^The Administrator, on behalf of the Trustee, shall calculate and make payments to Holders on each Payment Date based on the monthly Pool Factors (including Negative Amortization Factors) until such time as the Administrator determines that a more accurate and practicable method for calculating such payments is available and implements that method. Pursuant to Section 7.05(e), the Administrator may modify the Pool Factor methodology from time to time, without the consent of Holders. With respect to each PC Pool, the Administrator, on behalf of the Trustee, shall do the following: 
+
+^^^The Administrator shall publish or cause to be published for each month a Pool Factor with respect to each PC Pool. Beginning in the month after formation of a PC Pool, Pool Factors shall be published on or about the fifth Business Day of the month, which Pool Factors may reflect prepayments reported to the Administrator after the end of the related Monthly Reporting Period and before the publication of the applicable Pool Factors. However, the Administrator may, in its own discretion, publish Pool Factors on any other Business Day. The Pool Factor for the month in which the PC Pool is established is 1.00000000 and need not be published. 
+
+^^^The Administrator shall distribute principal each month to a Holder of a Gold PC in an amount equal to such Holder’s pro rata share of such principal, calculated by multiplying the original principal balance of the Gold PC by the difference between its Pool Factors for the preceding and current months. 
+
+^^^The Administrator shall distribute principal each month to a Holder of an ARM PC in an amount equal to such Holder’s pro rata share of such principal, calculated by multiplying the original principal balance of the ARM PC by the difference between its Pool Factors for the two preceding months. 
+
+^^^The Administrator shall distribute interest each month in arrears to a Holder (assuming no Deferred Interest) in an amount equal to 1/12th of the applicable PC Coupon multiplied by such Holder’s pro rata share of principal, calculated by multiplying the original principal balance of such Holder’s PC by the preceding month’s Pool Factor for Gold PCs or by the second preceding month’s Pool Factor for ARM PCs. 
+
+^^For any month that Deferred Interest has accrued on a Deferred Interest PC, the Administrator shall distribute principal (if any is due) to a Holder in an amount equal to such Holder’s pro rata share of principal, calculated by (A) subtracting the preceding month’s Pool Factor from the second preceding month’s Pool Factor, (B) adding to the difference the Negative Amortization Factor for the preceding month and (C) multiplying the resulting sum by the original PC principal balance. The interest payment on the Deferred Interest PC in that month shall be (i) 1/12th of the PC Coupon 
+
+^^^^^ 
+multiplied by (ii) the original principal balance of the Holder’s PC multiplied by (iii) the preceding month’s Pool Factor minus the preceding month’s Negative Amortization Factor. 
+
+^^With respect to each PC Pool, a Pool Factor shall reflect prepayments reported for the applicable Monthly Reporting Period. The Administrator, on behalf of the Trustee, may also, in its discretion, reflect in a Pool Factor any prepayments reported after the end of the applicable Monthly Reporting Period. To the extent a given Pool Factor (adjusted as necessary for payments made pursuant to the Guarantor’s guarantee of timely payment of scheduled principal on Gold PCs) does not reflect the actual unpaid principal balance of the related Mortgages, the Administrator shall account for any difference by adjusting subsequent Pool Factors as soon as practicable. 
+
+^^In the case of a PC Pool that is comprised of ARMs, a Pool Factor shall be based upon the unpaid principal balance of the related Mortgages that servicers report to the Administrator for the Monthly Reporting Period that ended in the second month preceding the month in which the Pool Factor is published. The Administrator, on behalf of the Trustee, may also, in its discretion, include as part of the aggregate principal payment in any month any prepayments received after the Monthly Reporting Period that ended in the second month preceding the month in which the Pool Factor is published. To the extent a given Pool Factor does not reflect the actual aggregate unpaid principal balance of the Mortgages, the Administrator shall account for any difference by adjusting subsequent Pool Factors as soon as practicable. 
+
+^^The Pool Factor method for a PC Pool may affect the timing of receipt of payments by related Holders but shall not affect the Guarantor’s guarantee with respect to such PC Pool, as set forth in Section 3.09. The Guarantor’s guarantee shall not be affected by the implementation of any different method for calculating and paying principal and interest for any PC Pool, as permitted by this Section 3.06. 
+
+Section 3.07. Servicing Fees; Retained Interest. 
+
+^^To the extent provided by contractual arrangement with the Administrator, with respect to each PC Pool, the related servicer of each Mortgage included in such PC Pool shall be entitled to retain each month, as a servicing fee, any interest payable by the borrower on a Mortgage that exceeds the servicer’s required remittance with respect to such Mortgage. Each servicer is required to pay all expenses incurred by it in connection with its servicing activities and shall not be entitled to reimbursement for those expenses, except as provided in Section 3.08(c). If a servicer advances any principal and/or interest on a Mortgage to the Administrator prior to the receipt of such funds from the borrower, the servicer may retain (i) from prepayments or collections of delinquent principal on such Mortgage any payments of principal so advanced, or (ii) from collections of delinquent interest on such Mortgage any payments of interest so advanced. To the extent permitted by its servicing agreement, the servicer is entitled to retain as additional compensation certain incidental fees related to Mortgages it services. 
+
+^^With respect to a PC Pool, pursuant to the related Purchase Documents, a seller may retain each month as extra compensation a fixed amount of interest on a Mortgage included in such PC Pool. In such event, the related servicer shall retain each month as a servicing fee the excess of any interest payable by the borrower on such Mortgage (less the seller’s retained interest amount) over the servicer’s required remittance with respect to such Mortgage. 
+
+Section 3.08. Administration Fee; Guarantee Fee. 
+
+^^Subject to any adjustments required by Section 3.04, with respect to any PC Pool, the Administrator and the Guarantor shall be entitled to receive from monthly interest payments on each related Mortgage a fee (to be allocated between the Administrator and the Guarantor as they may agree) equal to the excess of any interest received by the Administrator from the servicer over the amount of interest payable to the related Holders; *provided, however,* that the aggregate fee amount shall be automatically adjusted with respect to each PC Pool to the extent a Pool Factor does not reflect the unpaid principal 
+
+^^^^^ 
+balance of the Mortgages. Any such adjustment shall equal the difference between (i) interest at the applicable PC Coupon computed on the aggregate unpaid principal balance of the Mortgages for such month based on monthly principal payments actually received by the Administrator and (ii) interest at the applicable PC Coupon computed on the remaining balance of the Mortgages included in the PC Pool derived from the Pool Factor. The Administrator shall (i) withdraw the aggregate fee amount from the Custodial Account prior to distributions to the related Holders, (ii) retain its portion of the fee for the Administrator’s own account and (iii) remit the remaining portion of the fee to the Guarantor as the guarantee fee. In addition, the Administrator is entitled to retain as additional compensation certain incidental fees on the Mortgages as provided in Section 2.05 and certain investment earnings as provided in Section 3.05(e). 
+
+^^The Depositor shall pay all expenses incurred in connection with the transfer of the Mortgages, the establishment and administration of each PC Pool and the issuance of the PCs. Any amounts (including attorney’s fees) expended by the Trustee or the Administrator (or the servicers on the Administrator’s behalf) for the protection, preservation or maintenance of the Mortgages, or of the real property securing the Mortgages, or of property received in liquidation of or realization upon the Mortgages, shall be expenses to be borne pro rata by the Administrator and the Holders in accordance with their interests in each Mortgage. The Administrator, on behalf of the Trustee, may retain an amount sufficient to pay the portion of such expenses borne pro rata by the Depositor and the Holders from payments otherwise due to Holders, which may affect the timing of receipt of payments by Holders but shall not affect the Guarantor’s obligations under Section 3.09. 
+
+^^The Administrator shall reimburse a servicer for any amount (including attorney’s fees) it expends (on the Administrator’s behalf and with its approval) for the protection, preservation or maintenance of the Mortgages, or of the real property securing the Mortgages, or of property received in liquidation of or realization upon the Mortgages. Such expenses shall be reimbursable to the servicer from the assets of the related PC Pool, to the extent provided in the Guide. 
+
+^^Any fees and expenses described above shall not affect the Guarantor’s guarantee with respect to any PC Pool, as set forth in Section 3.09. 
+
+Section 3.09. Guarantees.  
+
+^^With respect to each PC Pool, the Guarantor guarantees to the Trustee and to each Holder of a PC: 
+
+^^^the timely payment of interest at the applicable PC Coupon; 
+
+^^^the full and final payment of principal on the underlying Mortgages on or before the Payment Date that falls (A) in the month of its Final Payment Date, for Gold PCs, or (B) in the month after its Final Payment Date, for ARM PCs; and 
+
+^^^for Gold PCs only, the timely payment of scheduled principal on the underlying Mortgages. 
+
+In the case of Deferred Interest PCs, the Guarantor’s guarantee of principal includes, and its guarantee of interest excludes, any Deferred Interest added to the principal balances of the related Mortgages. The Guarantor shall make payments of any guaranteed amounts by transfer to the Custodial Account for distribution to the related Holders, in accordance with Sections 3.03 and 3.04. The guarantees pursuant to this Section will inure to the benefit of each PC Pool and its related Holders, and shall be enforceable by the Trustee of that PC Pool and by such Holders, as provided in Article V of this Agreement. 
+
+^^The Guarantor shall compute guaranteed scheduled monthly principal payments on any Gold PC, subject to any applicable adjustments, in accordance with procedures adopted by the Guarantor from time to time. With respect to each PC Pool, any payment the Guarantor makes to the Administrator, on behalf 
+
+^^^^^ 
+of the Trustee, on account of the Guarantor’s guarantee of scheduled principal payments shall be considered to be a payment of principal for purposes of calculating the Pool Factor for such PC Pool and the Holder’s pro rata share of the remaining unpaid principal balance of the related Mortgages. 
+
+^^The Guarantor’s guarantees shall continue to be effective or shall be reinstated (i) in the event that any principal or interest payment made to a Holder is for any reason returned by the Holder pursuant to an order, decree or judgment of any court of competent jurisdiction that the Holder was not entitled to retain such payment pursuant to this Agreement and (ii) notwithstanding any provision hereof permitting fees, expenses, indemnities or other amounts to be paid from the assets of any PC Pool. 
+
+Section 3.10. Subrogation. With respect to each PC Pool, the Guarantor shall be subrogated to all the rights, interests, remedies, powers and privileges of each related Holder in respect of any Mortgage included in such PC Pool on which it has made guarantee payments of principal and/or interest to the extent of such payments. Nothing in this Section shall impair the Guarantor’s right to receive distributions in its capacity as Holder, if it is a Holder of any PCs. 
+
+Section 3.11. Termination Upon Final Payment. Each PC Pool is irrevocable and will terminate only in accordance with the terms of this Agreement. Except as provided in Sections 3.05(e), 6.06 and 7.01, with respect to each PC Pool, [[Organization 1 Name]]’s and the Trustee’s obligations and responsibilities under this Agreement shall terminate as to a PC Pool and its Holders upon (i) the full payment to such Holders of all principal and interest due to the Holders based on the Pool Factors or by reason of the Guarantor’s guarantees or (ii) the payment to the Holder of all amounts held by [[Organization 1 Name]] and the Trustee, respectively, and required to be paid hereunder; *provided, however*, that in no event shall any PC Pool created hereby continue beyond the expiration of 21 years from the death of the survivor of the descendants of [[Person 1 First Name]] [[Person 1 Last Name]], the late ambassador of the United States to the Court of St. James’s, living on the date hereof. 
+
+Section 3.12. Effect of Final Payment Date. The actual final payment on a PC may occur prior to the Payment Date specified in Section 3.09(a)(ii) due to prepayments of principal, including prepayments made in connection with the repurchase of any Mortgage from the related PC Pool. 
+
+Section 3.13. Payment Error Corrections. In the event of a principal or interest payment error, the Administrator, in its sole discretion, may effect corrections by the adjustment of payments to be made on future Payment Dates or in such other manner as it deems appropriate. 
+
+\centered **PCs** 
+
+Section 4.01. Form and Denominations. With respect to each PC Pool, the principal balances, PC Coupons and other characteristics of the PCs to be issued shall be specified in the related Pool Supplement. Delivery of the PCs of a PC Pool shall constitute the issuance of the PCs for that PC Pool. PCs shall be issued, held and transferable only on the book-entry system of the Federal Reserve Banks in minimum original principal amounts of $[[USD Value 1: Number]] and additional increments of $1. PCs shall at all times remain on deposit with a Federal Reserve Bank in accordance with the provisions of the Book-Entry Rules. A Federal Reserve Bank will maintain a book-entry recordkeeping system for all transactions in PCs with respect to Holders. 
+
+Section 4.02. Transfer of PCs. PCs may be transferred only in minimum original principal amounts of $[[USD Value 1]] and additional increments of $1. PCs may not be transferred if, as a result of the transfer, the 
+
+^^^^^ 
+transferor or the new Holder would have on deposit in its account PCs of the same issue with an original principal amount of less than $[[USD Value 2: Number]]The transfer, exchange or pledge of PCs shall be governed by the fiscal agency agreement between [[Organization 1 Name]] and a Federal Reserve Bank, the Book-Entry Rules and such other procedures as shall be agreed upon from time to time by [[Organization 1 Name]] and a Federal Reserve Bank. A Federal Reserve Bank shall act only upon the instructions of the Holder in recording transfers of a PC. A charge may be made for any transfer of a PC and shall be made for any tax or other governmental charge imposed in connection with a transfer of a PC. [[Organization 1 Name]] hereby assigns to the Trustee [[Organization 1 Name]]’s rights under each fiscal agency agreement with respect to PCs issued by any PC Pool. 
+
+Section 4.03. Record Date. The Record Date for each Payment Date shall be the close of business on the last day of the preceding month for Gold PCs and the second preceding month for ARM PCs. A Holder of a PC on the books and records of a Federal Reserve Bank on the Record Date shall be entitled to payment of principal and interest on the related Payment Date. A transfer of a PC made on or before the Record Date in a month shall be recognized as effective as of the first day of such month. 
+
+\centered **Remedies** 
+
+Section 5.01. Events of Default. With respect to each PC Pool, an “Event of Default’’ means any one of the following events: 
+
+^^Default by the Guarantor or the Administrator in the payment of interest or principal to the related Holders as and when the same shall become due and payable as provided in this Agreement, and the continuance of such default for a period of 30 days. 
+
+^^Failure by the Guarantor or the Administrator to observe or perform any other covenants of this Agreement relating to their respective obligations, and the continuance of such failure for a period of 60 days after the date of receipt by such party of written notice of such failure and a demand for remedy by the affected Holders representing not less than 65 percent of the remaining principal balance of any affected PC Pool. 
+
+^^The entry by any court having jurisdiction over the Guarantor or the Administrator of a decree or order for relief in an involuntary case under any applicable bankruptcy, insolvency or other similar law now or hereafter in effect, or for the appointment of a receiver, liquidator, assignee, custodian or sequestrator (or other similar official) of the Guarantor or the Administrator or for any substantial part of its property, or for the winding up or liquidation of its affairs, if such decree or order remains unstayed and in effect for a period of 60 consecutive days. 
+
+^^Commencement by the Guarantor or the Administrator of a voluntary case under any applicable bankruptcy, insolvency or other similar law now or hereafter in effect, or consent by the Guarantor or the Administrator to the entry of an order for relief in an involuntary case under any such law, or its consent to the appointment of or taking possession by a receiver, liquidator, assignee, trustee, custodian or sequestrator (or other similar official) of the Guarantor or the Administrator or for any substantial part of their respective properties, or any general assignment made by the Guarantor or the Administrator for the benefit of creditors, or failure by the Guarantor or the Administrator generally to pay their debts as they become due. 
+
+The appointment of a conservator (or other similar official) by a regulator having jurisdiction over the Guarantor or the Administrator, whether or not such party consents to such appointment, shall not constitute an Event of Default. 
+
+^^^^^ 
+^Remedies.  
+
+^^If an Event of Default occurs and is continuing with respect to a PC Pool, the Holders of PCs representing a majority of the remaining principal balance of such PC Pool may, by written notice to [[Organization 1 Name]], remove [[Organization 1 Name]] as Administrator and nominate its successor under this Agreement with respect to such PC Pool. The nominee shall be deemed appointed as [[Organization 1 Name]]’s successor as Administrator unless [[Organization 1 Name]] objects within 10 days after such nomination. Upon such objection: 
+
+^^^The Administrator may petition any court of competent jurisdiction for the appointment of its successor; or 
+
+^^^Any bona fide Holder that has been a Holder for at least six months may, on behalf of such Holder and all others similarly situated, petition any such court for appointment of the Administrator’s successor. 
+
+^^If a successor Administrator is appointed, the Administrator shall submit to its successor a complete written report and accounting of the Mortgages in the affected PC Pool and shall take all other steps necessary or desirable to transfer its interest in and administration of such PC Pool to its successor. 
+
+^^Subject to the [[Organization 1 Name]] Act, a successor may take any action with respect to the Mortgages as may be reasonable and appropriate in the circumstances. Prior to the designation of a successor, the Holders of PCs representing a majority of the remaining principal balance of any affected PC Pool may waive any past or current Event of Default. 
+
+^^Appointment of a successor shall not relieve [[Organization 1 Name]], in its capacity as Guarantor, of its guarantee obligations as set forth in this Agreement. 
+
+Section 5.03. Limitation on Suits by Holders. 
+
+^^With respect to any PC Pool, except as provided in Section 5.02, no Holder shall have any right to institute any action or proceeding at law or in equity or in bankruptcy or otherwise or seek any other remedy whatsoever against [[Organization 1 Name]] or the Trustee with respect to this Agreement or the related PCs or Mortgages, unless: 
+
+^^^Such Holder previously has given the Trustee written notice of an Event of Default and the continuance thereof; 
+
+^^^The Holders of PCs representing a majority of the remaining principal balance of any affected PC Pool have made a written request to the Trustee to institute an action or proceeding in its own name and have offered the Trustee reasonable indemnity against the costs, expenses and liabilities to be incurred; 
+
+^^^The Trustee has failed to institute any such action or proceeding for 60 days after its receipt of the written notice, request and offer of indemnity described above; and 
+
+^^^The Trustee has not received from such Holders any direction inconsistent with the written request described above during the 60-day period. 
+
+^^No Holder shall have any right under this Agreement to prejudice the rights of any other Holder, to obtain or seek preference or priority over any other Holder or to enforce any right under this Agreement, except for the ratable and common benefit of all Holders of PCs representing interests in any affected PC Pool. 
+
+^^^^^ 
+^^For the protection and enforcement of the provisions of this Section, [[Organization 1 Name]], the Trustee and each and every Holder shall be entitled to such relief as can be given either at law or in equity. Notwithstanding the foregoing, no Holder’s right to receive payment (or to institute suit to enforce payment) of principal and interest as provided herein on or after the due date of such payment shall be impaired or affected without the consent of the Holder. 
+
+\centered **Trustee** 
+
+Section 6.01. Duties of Trustee.  
+
+^^If an Event of Default has occurred and is continuing with respect to a PC Pool, the Trustee shall exercise the rights and powers vested in it by this Agreement and use the same degree of care and skill in its exercise as a prudent person would exercise or use under the circumstances in the conduct of such person’s own affairs. 
+
+^^Except during the continuance of an Event of Default, the Trustee undertakes to perform such duties and only such duties as are specifically set forth in this Agreement and shall not be liable except for the performance of such duties and obligations as are specifically set forth in this Agreement and no implied covenants or obligations shall be read into this Agreement against the Trustee. 
+
+^^The Trustee and its directors, officers, employees and agents may not be protected from liability which would otherwise be imposed by reason of willful misfeasance, bad faith or gross negligence in the performance of their respective duties or by reason of reckless disregard of obligations and duties under this Agreement, except that: 
+
+^^^this paragraph does not limit the effect of paragraph (b) of this Section; 
+
+^^^the Trustee shall not be liable for any action taken, or not taken, by the Trustee in good faith pursuant to this Agreement or for errors in judgment; and 
+
+^^^the Trustee shall not be required to take notice or be deemed to have notice or knowledge of any default or Event of Default, unless the Trustee obtains actual knowledge or written notice of such default or Event of Default. In the absence of such actual knowledge or notice, the Trustee may conclusively assume that there is no default or Event of Default. 
+
+^^Every provision of this Agreement shall be subject to the provisions of this Section and Section 6.02. 
+
+^^The Trustee shall not be liable for indebtedness evidenced by or arising under this Agreement, including principal of or interest on the PCs, or interest on any money received by it except as the Trustee may agree in writing. 
+
+^^Money held in trust by the Trustee need not be segregated from other funds except to the extent required by law or the terms of this Agreement. 
+
+^^No provision of this Agreement shall require the Trustee to expend, advance or risk its own funds or otherwise incur financial liability in the performance of any of its duties hereunder or in the exercise of any of its rights or powers, if it shall have reasonable grounds to believe that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured to it. 
+
+^^^^^ 
+^^The Trustee may, but shall not be obligated to, undertake any legal action that it deems necessary or desirable in the interest of Holders. The Trustee may be reimbursed for the legal expenses and costs of such action from the assets of the related PC Pool. 
+
+Section 6.02. Certain Matters Affecting the Trustee. 
+
+^^The Trustee, and any director, officer, employee or agent of the Trustee may rely in good faith on any certificate, opinion or other document of any kind which, prima facie, is properly executed and submitted by any appropriate Person respecting any matters arising hereunder. The Trustee may rely on any such documents believed by it to be genuine and to have been signed or presented by the proper Person and on their face conforming to the requirements of this Agreement. The Trustee need not investigate any fact or matter stated in such documents. 
+
+^^Before the Trustee acts or refrains from acting, it may require an officer’s certificate or an opinion of counsel, which shall not be at the expense of the Trustee. The Trustee shall not be liable for any action it takes or omits to take in good faith in reliance on an officer’s certificate or opinion of counsel. The right of the Trustee to perform any discretionary act enumerated in this Agreement shall not be construed as a duty and the Trustee shall not be answerable for other than its willful misfeasance, bad faith or gross negligence in the performance of such act. 
+
+^^The Trustee may execute any of the trusts or powers hereunder or perform any duties hereunder either directly or by or through agents or attorneys or a custodian or nominee. 
+
+^^The Trustee shall not be liable for any action it takes or omits to take in good faith which it believes to be authorized or within its rights or powers; provided, that the Trustee’s conduct does not constitute willful misfeasance, bad faith or gross negligence. In no event shall the Trustee have any liability for consequential damages. 
+
+^^The Trustee may consult with and rely on the advice of counsel, accountants and other advisors and shall not be liable for errors in judgment or for anything it does or does not do in good faith if it so relies. Any opinion of counsel with respect to legal matters relating to this Agreement and the PCs shall be full and complete authorization and protection from liability in respect to any action taken, omitted or suffered by it hereunder in good faith and in accordance with any opinion of such counsel. 
+
+^^Any fees, expenses and indemnities payable from the assets of any PC Pool to [[Organization 1 Name]], in its capacity as Trustee, in the performance of its duties and obligations hereunder shall not affect [[Organization 1 Name]]’s guarantee with respect to that PC Pool, as set forth in Section 3.09. 
+
+Section 6.03. Trustee’s Disclaimer. The Trustee shall not be responsible for and makes no representation as to the validity or adequacy of this Agreement, the assets of the PC Pool or the PCs. 
+
+Section 6.04. Trustee May Own PCs. Subject to Section 7.06, the Trustee in its individual or any other capacity may become the owner or pledgee of PCs with the same rights as it would have if it were not the Trustee. 
+
+Section 6.05. Indemnity. Each PC Pool shall indemnify the Trustee and the Trustee’s employees, directors, officers and agents, as provided in this Agreement, against any and all claims, losses, liabilities or expenses (including attorneys’ fees) incurred by it in connection with the administration of this trust and the performance of its duties under this Agreement (to the extent not previously reimbursed above), including, without limitation, the execution and filing of any federal or state tax returns and information returns and being the mortgagee of record with respect to the related Mortgages. The Trustee shall notify the Administrator promptly of any claim for which it may seek indemnity. Failure by the Trustee to so 
+
+^^^^^ 
+notify the Administrator shall not relieve the related PC Pool of its obligations hereunder. A PC Pool shall not be required to reimburse any expense or indemnify against any loss, liability or expense incurred by the Trustee through the Trustee’s own willful misfeasance, bad faith or gross negligence. 
+
+The Trustee’s rights pursuant to this Section shall survive the discharge of this Agreement. 
+
+Section 6.06. Replacement of Trustee. The Trustee may resign at any time. Any successor Trustee shall resign if it ceases to be eligible in accordance with the provisions of Section 6.09. In either case, the resignation of the Trustee shall become effective, and the resigning Trustee shall be discharged from its obligations with respect to the PC Pools created under this Agreement by giving 90 days’ written notice of the resignation to the Depositor, the Guarantor and the Administrator and upon the effectiveness of an appointment of a successor Trustee, which may be as of a date prior to the end of the 90-day period. Upon receiving such notice of resignation, the Depositor shall promptly appoint one or more successor Trustees by written instrument, one copy of which is delivered to the resigning Trustee and one copy of which is delivered to the successor Trustee. The successor Trustee need not be the same Person for all PC Pools. If no successor Trustee has been appointed for a PC Pool, or one that has been appointed has not accepted the appointment within 90 days after giving such notice of resignation, the resigning Trustee may petition any court of competent jurisdiction for the appointment of a successor Trustee. 
+
+Prior to an Event of Default, or if an Event of Default has occurred and has been cured with respect to a PC Pool, [[Organization 1 Name]] cannot be removed as Trustee with respect to that PC Pool. If an Event of Default has occurred and is continuing while [[Organization 1 Name]] is the Trustee, at the direction of Holders of PCs representing a majority of the remaining principal balance of such PC Pool, [[Organization 1 Name]] shall resign or be removed as Trustee, and to the extent permitted by law, all of the rights and obligations of the Trustee with respect to the related PC Pool only, will be terminated by notifying the Trustee in writing. Holders of PCs representing a majority of the remaining principal balance of the PC Pool will then be authorized to name and appoint one or more successor Trustees. Notwithstanding the termination of the Trustee, its liability under this Agreement and arising prior to such termination shall survive such termination. 
+
+If a successor Trustee is serving as the Trustee, the following events are “Trustee Events of Default” with respect to a PC Pool: 
+
+^^^the Trustee fails to comply with Section 6.09; 
+
+^^^the Trustee is adjudged bankrupt or insolvent; 
+
+^^^a receiver or other public officer takes charge of the Trustee or its property; or 
+
+^^^the Trustee otherwise becomes incapable of acting. 
+
+If at any time a Trustee Event of Default has occurred and is continuing, the Guarantor (or if an Event of Default has occurred and is continuing, the Depositor) may, and if directed by Holders of PCs representing a majority of the remaining principal balance of such PC Pool, shall, remove the Trustee as to such PC pool and appoint a successor Trustee by written instrument, one copy of which shall be delivered to the Trustee so removed and one copy of which shall be delivered to the successor Trustee, and the Guarantor (or if an Event of Default has occurred and is continuing, the Depositor) shall give written notice of the successor Trustee to the Holders affected by the succession. Notwithstanding the termination of the Trustee, its liability under this Agreement arising prior to such termination will survive such termination. 
+
+If the Trustee resigns or is removed or if a vacancy exists in the office of the Trustee for any reason (the Trustee in such event being referred to herein as the retiring Trustee), the Depositor shall promptly appoint a successor Trustee that satisfies the eligibility requirements of Section 6.09. 
+
+^^^^^ 
+The retiring Trustee agrees to cooperate with the Depositor and any successor Trustee in effecting the termination of the retiring Trustee’s responsibilities and rights hereunder and shall promptly provide such successor Trustee all documents and records reasonably requested by it to enable it to assume the Trustee’s functions hereunder. 
+
+^successor Trustee shall deliver a written acceptance of its appointment to the retiring Trustee and to the Depositor, the Guarantor and the Administrator. Thereupon the resignation or removal of the retiring Trustee shall become effective, and the successor Trustee shall have all the rights, powers and duties of the Trustee under this Agreement with respect to such PC Pool. The successor Trustee shall mail a notice of its succession to the related Holders. The retiring Trustee shall promptly transfer all property held by it as Trustee to the successor Trustee. 
+
+If a successor Trustee does not take office within 30 days after the retiring Trustee resigns or is removed, the retiring Trustee or the Depositor may petition any court of competent jurisdiction for the appointment of a successor Trustee. 
+
+Section 6.07. Successor Trustee By Merger. If a successor Trustee consolidates with, merges or converts into, or transfers all or substantially all its corporate trust business or assets to, another corporation or banking association, the resulting, surviving or transferee corporation without any further act shall be the successor Trustee; provided, that such corporation or banking association shall be otherwise qualified and eligible under Section 6.09. 
+
+Section 6.08. Appointment of Co-Trustee or Separate Trustee. 
+
+^^Notwithstanding any other provisions of this Agreement, at any time, for the purpose of meeting any legal requirement of any jurisdiction in which any part of a PC Pool may at the time be located, the Trustee shall have the power and may execute and deliver all instruments to appoint one or more Persons to act as a co-trustee or co-trustees, or separate trustee or separate trustees, of all or any part of such PC Pool and to vest in such Person or Persons, in such capacity and for the benefit of the related Holders, such title to such PC Pool, or any part thereof, and, subject to the other provisions of this Section, such powers, duties, obligations, rights and trusts as the Trustee may consider necessary or desirable. No co-trustee or separate trustee hereunder shall be required to meet the terms of eligibility as a successor trustee under Section 6.09 and no notice to the related Holders of the appointment of any co-trustee or separate trustee shall be required under Section 6.06 hereof. 
+
+^^With respect to each PC Pool, every separate trustee and co-trustee shall, to the extent permitted by law, be appointed and act subject to the following provisions and conditions: 
+
+^^^all rights, powers, duties and obligations conferred or imposed upon the Trustee shall be conferred or imposed upon and exercised or performed by the Trustee and such separate trustee or co-trustee jointly (it being understood that such separate trustee or co-trustee is not authorized to act separately without the Trustee joining in such act), except to the extent that under any law of any jurisdiction in which any particular act or acts are to be performed the Trustee shall be incompetent or unqualified to perform such act or acts, in which event such rights, powers, duties and obligations (including the holding of title to the related PC Pool or any portion thereof in any such jurisdiction) shall be exercised and performed singly by such separate trustee or co-trustee, but solely at the direction of the Trustee; 
+
+^^^no trustee hereunder shall be personally liable by reason of any act or omission of any other trustee hereunder; and 
+
+^^^^^ 
+^^^the Trustee may at any time accept the resignation of or remove any separate trustee or co-trustee. 
+
+^^Any notice, request or other writing given to the Trustee shall be deemed to have been given to each of the then separate trustees and co-trustees, as effectively as if given to each of them. Every instrument appointing any separate trustee or co-trustee shall refer to this Agreement and the conditions of this Article VI. Each separate trustee and co-trustee, upon its acceptance of the trusts conferred, shall be vested with the estates or property specified in its instrument of appointment, either jointly with the Trustee or separately, as may be provided therein, subject to all the provisions of this Agreement, specifically including every provision of this Agreement relating to the conduct of, affecting the liability of, or affording protection to, the Trustee. Every such instrument shall be filed with the Trustee. 
+
+^^Any separate trustee or co-trustee may at any time constitute the Trustee, its agent or attorney-in-fact with full power and authority, to the extent not prohibited by law, to do any lawful act under or in respect of this Agreement on its behalf and in its name. If any separate trustee or co-trustee shall die, become incapable of acting, resign or be removed, all of its estates, properties, rights, remedies and trusts shall vest in and be exercised by the Trustee, to the extent permitted by law, without the appointment of a new or successor trustee. 
+
+Section 6.09. Eligibility; Disqualification. [[Organization 1 Name]] is eligible to act as the Trustee and is initially the Trustee for the PC Pools created under this Agreement. Any successor to [[Organization 1 Name]] (i) at the time of its appointment as Trustee, must be reasonably acceptable to [[Organization 1 Name]] and (ii) must be organized as a corporation or association doing business under the laws of the United States or any State thereof, be authorized under such laws to exercise corporate trust powers, have combined capital and surplus of at least $[[USD Value 3: Number]] and be subject to supervision or examination by federal or state financial regulatory authorities. If any successor Trustee shall cease to satisfy the eligibility requirements set forth in (ii) above, that successor Trustee shall resign immediately in the manner and with the effect specified in Section 6.06. 
+
+\centered **Miscellaneous Provisions** 
+
+Section 7.01. Annual Statements. Within a reasonable time after the end of each calendar year, the Administrator (or its agent) shall furnish to each Holder on any Record Date during such year information that the Administrator deems necessary or desirable to enable Holders and beneficial owners of PCs to prepare their United States federal income tax returns, if applicable. 
+
+Section 7.02. Limitations on Liability. Neither [[Organization 1 Name]], in its corporate capacity, nor any of its directors, officers, employees, authorized designees, representatives or agents (“related persons’’) shall be liable to Holders for any action taken, or not taken, by them or by a servicer in good faith pursuant to this Agreement or for errors in judgment. This provision shall not protect [[Organization 1 Name]] or any related person against any liability which would otherwise be imposed by reason of willful misfeasance, bad faith or gross negligence in the performance of duties or by reason of reckless disregard of obligations and duties under this Agreement. In no event shall [[Organization 1 Name]] or any related person be liable for any consequential damages. [[Organization 1 Name]] and any related person may rely in good faith on any document or other communication of any kind properly executed and submitted by any Person with respect to any matter arising under this Agreement. [[Organization 1 Name]] has no obligation to appear in, prosecute or defend any legal action which is not incidental to its duties to service or supervise the servicing of the Mortgages in accordance with this Agreement and which in its opinion may involve any expense or liability for [[Organization 1 Name]]. [[Organization 1 Name]] may, in its discretion, undertake or participate in any action it deems necessary or 
+
+^^^^^ 
+desirable with respect to any Mortgage, this Agreement, the PCs or the rights and duties of the parties hereto and the interests of the Holders hereunder. In such event, the legal expenses and costs of such action and any resulting liability shall be expenses for the protection, preservation and maintenance of the Mortgages borne pro rata by [[Organization 1 Name]] and Holders as provided in Section 3.08(b). 
+
+Section 7.03. Limitation on Rights of Holders. The death or incapacity of any Person having an interest in a PC shall not terminate this Agreement or any PC Pool. Such death or incapacity shall not entitle the legal representatives or heirs of such Person, or any Holder for such Person, to claim an accounting, take any action or bring any proceeding in any court for a partition or winding up of the related PC Pool, nor otherwise affect the rights, obligations and liabilities of the parties hereto or any of them. 
+
+Section 7.04. Control by Holders. With respect to any PC Pool, except as otherwise provided in Articles V and VI and Sections 7.05 and 7.06, no Holder shall have any right to vote or to otherwise control in any manner the operation and management of the Mortgages included in such PC Pool, or the obligations of the parties hereto. This Agreement shall not be construed so as to make the Holders from time to time partners or members of an association. Holders shall not be liable to any third person by reason of any action taken by the parties to this Agreement pursuant to any provision hereof. 
+
+Section 7.05. Amendment.  
+
+^^[[Organization 1 Name]] and the Trustee may amend this Agreement (including any related Pool Supplement) from time to time without the consent of any Holders to (i) cure any ambiguity or correct or supplement any provision in this Agreement, *provided, however,* that any such amendment shall not have a material adverse effect on any Holder; (ii) maintain the classification of any PC Pool as a grantor trust for federal income tax purposes; or (iii) avoid the imposition of any state or federal tax on a PC Pool; it being understood that any amendment permitting the repurchase of a Mortgage by [[Organization 1 Name]] due to a delinquency of less than 120 days, other than in the circumstances described in Section 1.02(c)(iii), may not be adopted under this clause (a). 
+
+^^Except as provided in Section 7.05(c), [[Organization 1 Name]] and the Trustee may amend this Agreement as to any PC Pool, with the consent of Holders representing not less than a majority of the remaining principal balance of the affected PC Pool. 
+
+^^[[Organization 1 Name]] and the Trustee may not amend this Agreement, without the consent of a Holder, if such amendment would impair or affect the right of such Holder to receive payment of principal and interest on or after the due date of such payment or to institute suit for the enforcement of any such payment on or after such date. 
+
+^^To the extent that any provisions of this Agreement differ from the provisions of any [[Organization 1 Name]] Mortgage Participation Certificates Agreement or PC Master Trust Agreement dated prior to the date of this Agreement, this Agreement shall be deemed to amend such provisions of the prior agreement, but only to the extent that [[Organization 1 Name]], under the terms of such prior agreement, could have effected such change as an amendment of such prior agreement without the consent of Holders of PCs thereunder; *provided, however,* that the trust declarations and related provisions set forth in Section 7.05(d) of the PC Master Trust Agreement dated as of [[Date 3: Date]] are hereby reaffirmed with respect to each PC Pool created before [[Date 3]]. 
+
+^^Notwithstanding any other provision of this Section, (i) the Administrator (in its own discretion and in its own interest) and the Trustee (at the Administrator’s direction) may amend this Agreement to reflect any modification in the Administrator’s methodology of calculating payments to Holders, including any modifications described in Section 3.05(d) and Section 3.06(a) and the manner in which it distributes prepayments to Holders, (ii) the Administrator (in its own discretion and in its own interest) and the Trustee (at the Administrator’s direction) may amend this Agreement to cure any inconsistency between this 
+
+^^^^^ 
+Agreement and the provisions of the Guide and (iii) the Depositor (in its own discretion and in its own interest) and the Trustee (at the Administrator’s direction) may amend any Pool Supplement to make the adjustments described in Section 1.02(b) to the characteristics of the Mortgages to be transferred to a PC Pool or to the related PCs. 
+
+Section 7.06. Voting Rights.  
+
+^^Except as otherwise provided in Section 7.06(b), in determining whether Holders of the requisite amount of PCs of a PC Pool have given any request, demand, authorization, direction, notice, consent or waiver requested or permitted under this Agreement, any PCs beneficially held by a Transferor of Mortgages in such PC Pool, or the affiliates or agents of a Transferor, will be disregarded and deemed not to be outstanding. In addition, if [[Organization 1 Name]] is acting as Administrator or Trustee and an Event of Default has occurred and is continuing, any PCs held by [[Organization 1 Name]] shall be disregarded and deemed not to be outstanding for purposes of exercising the remedies set forth in Section 5.02 and the second paragraph of Section 6.06. 
+
+^^The first sentence of Subsection 7.06(a) shall not apply when determining whether Holders of the requisite amount of PCs of a PC Pool have given any request, demand, authorization, direction, notice, consent or waiver under this Agreement (i) in respect of any matter regarding an Event of Default or a Trustee Event of Default or succession upon such Event of Default or Trustee Event of Default, (ii) in accordance with Section 7.05(c) of this Agreement or (iii) in respect of any matter the outcome of which would not affect the classification of the transfer of Mortgages by the Depositor to the related PC Pool as a sale under accounting principles generally accepted in the United States. 
+
+Section 7.07. Persons Deemed Owners. With respect to each PC Pool, [[Organization 1 Name]], the Trustee, the Administrator and a Federal Reserve Bank (or any agent of any of them) may deem and treat the related Holder(s) as the absolute owner(s) of a PC and the undivided beneficial ownership interests in the Mortgages included in the related PC Pool for the purpose of receiving payments and for all other purposes, and none of [[Organization 1 Name]], the Trustee, the Administrator or a Federal Reserve Bank (nor any agent of any of them) shall be affected by any notice to the contrary. All payments made to a Holder, or upon such Holder’s order, shall be valid, and, to the extent of the payment, shall satisfy and discharge the related PC Pool’s payment obligations with respect to the Holder’s PC. None of [[Organization 1 Name]], the Trustee, the Administrator or any Federal Reserve Bank shall have any direct obligation to any beneficial owner unless it is also the Holder of a PC. 
+
+Section 7.08. Governing Law. THIS AGREEMENT AND THE PARTIES’ RIGHTS AND OBLIGATIONS WITH RESPECT TO PCs, SHALL BE GOVERNED BY THE LAWS OF THE UNITED STATES. INSOFAR AS THERE MAY BE NO APPLICABLE PRECEDENT, AND INSOFAR AS TO DO SO WOULD NOT FRUSTRATE THE PURPOSES OF THE [[Organization 1 Name]] ACT OR ANY PROVISION OF THIS AGREEMENT OR THE TRANSACTIONS GOVERNED HEREBY, THE LOCAL LAWS OF THE STATE OF NEW YORK SHALL BE DEEMED REFLECTIVE OF THE LAWS OF THE UNITED STATES. 
+
+Section 7.09. Grantor Trust Status. No provision in this Agreement shall be construed to grant [[Organization 1 Name]], the Trustee or any other Person authority to act in any manner which would cause a PC Pool not to be treated as a grantor trust for federal income tax purposes. 
+
+Section 7.10. Payments Due on Non-Business Days. If the date fixed for any payment on any PC is a day that is not a Business Day, then such payment shall be made on the next succeeding Business Day, with the same force and effect as though made on the date fixed for such payment, and no interest shall accrue for the period after such date. 
+
+^^^^^ 
+^Successors. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors, including any successor by operation of law, and permitted assigns. 
+
+Section 7.12. Headings. The headings in this Agreement are for convenience only and shall not affect the construction of this Agreement. 
+
+Section 7.13. Notice and Demand.  
+
+^^Any notice, demand or other communication required or permitted under this Agreement to be given to or served upon any Holder may be given or served (i) in writing by deposit in the United States mail, postage prepaid, and addressed to such Holder as such Holder’s name and address may appear on the books and records of a Federal Reserve Bank or (ii) by transmission to such Holder through the communication system of the Federal Reserve Banks. Any notice, demand or other communication to or upon a Holder shall be deemed to have been sufficiently given or made, for all purposes, upon mailing or transmission. 
+
+^^Any notice, demand or other communication which is required or permitted to be given to or served under this Agreement may be given in writing addressed as follows (i) in the case of [[Organization 1 Name]] in its corporate capacity, to [[Organization 1 Name]], 8200 Jones Branch Drive, McLean, Virginia 22102, Attention: Executive Vice President  General Counsel and Secretary and (ii) in the case of the Trustee, to: [[Organization 1 Name]] (as Trustee), 8200 Jones Branch Drive, McLean, Virginia 22102, Attention: Executive Vice President  General Counsel and Secretary. 
+
+^^Any notice, demand or other communication to or upon [[Organization 1 Name]] or the Trustee shall be deemed to have been sufficiently given or made only upon its actual receipt of the writing. 
+
+^^^^^ 
+THE SALE OF A PC AND RECEIPT AND ACCEPTANCE OF A PC BY OR ON BEHALF OF A HOLDER, WITHOUT ANY SIGNATURE OR FURTHER MANIFESTATION OF ASSENT, SHALL CONSTITUTE THE UNCONDITIONAL ACCEPTANCE BY THE HOLDER AND ALL OTHERS HAVING A BENEFICIAL INTEREST IN SUCH PC OF ALL THE TERMS AND PROVISIONS OF THIS AGREEMENT (INCLUDING THE RELATED POOL SUPPLEMENT) AND THE AGREEMENT OF [[Organization 1 Name]], SUCH HOLDER AND SUCH OTHERS THAT THOSE TERMS AND PROVISIONS SHALL BE BINDING, OPERATIVE AND EFFECTIVE. 
+
+[[Organization 4 Name]], in its corporate capacity and as Trustee
+/s/ [[Person 2 First Name]] [[Person 2 Last Name]]
+
+Authorized Signatory

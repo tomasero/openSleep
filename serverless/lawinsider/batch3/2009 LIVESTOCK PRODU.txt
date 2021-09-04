@@ -1,0 +1,1131 @@
+*** *  CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.**
+
+\centered **2009 LIVESTOCK PRODUCTS DISTRIBUTION AGREEMENT**
+
+This Livestock Products Agreement (“Agreement”) effective as of [[Date 1: Date]] (“Effective Date”) is made by and between [[Organization 1 Name]], [[Address 1: Address]] (“Pfizer”) and MWI Veterinary Supply, [[Address 2: Address]] (“MWI”).
+
+WHEREAS, MWI is in the business of buying and selling animal health products and servicing customers for those products, and
+
+WHEREAS, MWI and Pfizer wish to set forth the terms of their relationship related to the purchase and supply of such products,
+
+NOW, THEREFORE, in consideration of the promises and covenants contained herein, the parties hereby agree as follows:
+
+Definitions:
+
+“PARTICIPATING CUSTOMERS” shall mean customers from the list of customers approved by Pfizer who have entered into a Leaders Edge Agreement with Pfizer.
+
+“Products” shall mean the Pfizer cattle and swine products sold to MWI by Pfizer pursuant to this Agreement (and referenced in Schedule A to this Agreement).
+
+“Sales Out” shall mean the reported sales by MWI to Covansys and accepted by Pfizer.
+
+“Strategic Accounts” shall mean all those PARTICIPATING CUSTOMERS listed in Schedule B hereto.
+
+^(a) Pfizer shall continue to promote its Products to certain select customers in the livestock field. The parties agree that each time a PARTICIPATING CUSTOMER selects MWI as their supplier and to service that customer’s account, Pfizer shall send to MWI a Pfizer Suggested Resale Price List which shall specify the Pfizer Products and the Pfizer suggested resale prices quoted to such PARTICIPATING CUSTOMER (hereafter “SUGGESTED RESALE PRICE LIST”). Each such SUGGESTED RESALE PRICE LIST shall be incorporated into and become part of this Agreement. Please find the current SUGGESTED RESALE PRICE LIST listed on Schedule C hereto. Also included on Schedule C is the current [[Organization 2 Name]] Pricing. The Products and suggested resale prices are subject to change at any time in Pfizer’s sole discretion upon thirty (30) days prior written notice.
+
+^^Pfizer reserves the right to add or delete PARTICIPATING CUSTOMERS or Strategic Accounts at any time at Pfizer’s sole discretion. Pfizer will provide written notice to MWI of any changes. Pfizer will notify MWI of any (i) additions to the Strategic Accounts list within twenty-four (24) hours of Pfizer’s receipt of the customer contract and (ii) removals from the Strategic Accounts list within four (4) business days prior to the removal effective date.
+
+^(a) MWI represents and warrants that for the purposes of this Agreement, it is in the business of purchasing Products from Pfizer for the sole purpose of resale and distribution, is registered within the state(s) with which it does business, is compliant with all pharmacy and distribution licensing requirements within the state(s) with which it does business, and is compliant with and capable of participating in Electronic Data Interchange (EDI).
+
+^^MWI agrees to purchase from Pfizer, at credit terms agreed to between the parties and as may be further set forth on Pfizer’s invoices, Products sufficient to fulfill demand from all customers to whom MWI will sell Products in the quantities desired by the customers.
+
+^^MWI agrees to maintain an inventory of Products equal to /**/ Demand, but excluding all Products indicated on Schedule A as ineligible for RSA payments. For purposes of this Agreement “Demand” shall mean /**/.
+
+All Products shall count towards the amount held in inventory by MWI. MWI and Pfizer agree to act in good faith to resolve any material differences in the on hand inventory calculations.
+
+^^Pfizer reserves the right to allocate purchases such that MWI may not purchase more than two (2) months MWI’s average of the most current Moving Annual Total sales purchases. Exceptions must be approved by Pfizer’s [[Address 3: Address]].
+
+^^MWI agrees that all sales of Pfizer Products from MWI to a PARTICIPATING CUSTOMER shall reflect the specific prices for each Product provided for in that PARTICIPATING CUSTOMER’S most recent SUGGESTED RESALE PRICE LIST. In the event that the price listed on a PARTICIPATING CUSTOMER’S most recent SUGGESTED RESALE PRICE LIST for any particular Product is lower (at the time of consummation of a sale of such particular Products between MWI and that PARTICIPATING CUSTOMER) than the price paid by MWI to Pfizer for such Product, Pfizer agrees to credit MWI’s account for the amount of such difference.
+
+^Nothing herein contained shall create or be deemed to create any relationship between the parties other than as specifically provided for herein. No employment, partnership, specific or general agency relationship shall exist unless specifically provided for in writing between the parties. MWI shall not represent, directly or indirectly, expressly or by implication, that any such relationships exist and/or that MWI has any authority except as set forth in this Agreement.
+
+^MWI shall use commercially reasonable efforts to provide appropriate service to the customers to whom MWI will sell hereunder. For customers serviced pursuant to this Agreement, MWI shall:
+
+^^Store its inventory of Pfizer Products under conditions (including refrigeration where appropriate) in accordance with package labeling or other written instructions from Pfizer to ensure that such Products retain their potency, purity, quality, and identity;
+
+^^Provide to Covansys by the close of business on Friday of each week an inventory report covering all Product inventory purchased from Pfizer and setting forth in dollars at MWI’s acquisition cost from Pfizer the amount of inventory by species. MWI agrees that Pfizer shall have the right, upon reasonable advance notice and during business hours to audit inventory in the possession of MWI to confirm compliance with this paragraph 4(b) and to confirm the accuracy of the data contained in the report;
+
+^^Provide to Covansys its Health Industry Number, Customer Health Industry Number, Pfizer Product number, transaction date, ship to zip code, number of units and price with respect to each sale of Product, and unit inventories on each Pfizer Product sku that MWI sells;
+
+^^Provide Sales Out data, which shall include Leaders Edge and Non-Leaders Edge sales, to Covansys within ten (10) working days of the date of each invoice. MWI will use its best efforts to ensure Sales Out data integrity and timeliness;
+
+^^Submit all orders to Pfizer via EDI. EDI report 867 is the acceptable format;
+
+^^Establish any service fee or other charge or discount to any customer including PARTICIPATING CUSTOMERS for Pfizer Products independently and at its sole discretion;
+
+^^Provide regularly scheduled delivery service to its customers and use commercially reasonable efforts to anticipate its customers’ requirements for Pfizer Products. In the event Pfizer delivers any product order to PARTICIPATING CUSTOMERS (drop ship), no consideration shall be payable to MWI for that order under paragraph 5 below, provided that Pfizer will pay MWI for any drop ship if such shipment is made necessary by the unavailability of Pfizer Products;
+
+^^MWI agrees that credit limits established by Pfizer shall be subject to change upon written notice by Pfizer in its sole discretion and that no Product shipments will be made to MWI in excess of the established credit limits;
+
+^^Invoice customers in an accurate and timely manner;
+
+^^Refer to that PARTICIPATING CUSTOMERS SUGGESTED RESALE PRICE LIST on each invoice for Pfizer Products;
+
+^^Take no action, whether or not identified above, that would harm the Goodwill or name of Pfizer, or damage the interests of Pfizer or the Products, other than where supported by sound factual evidence, including, but not limited to, the diversion of Products and statements of false information. For purposes of this Agreement “Goodwill” shall mean the marketplace advantage of customer patronage and loyalty developed with continuous business under the same name over a period of time; and
+
+^^Make payment to Pfizer for all Products purchased from Pfizer /**/. In the event MWI fails to maintain the inventory levels specified in paragraph 2(c) above Pfizer shall have the right, upon /**/ written notice to MWI, to receive payment from MWI /**/.
+
+^In consideration of MWI undertaking the obligations set forth herein Pfizer shall make payments to MWI in accordance with Schedule D hereto.
+
+^All sales of Products to PARTICIPATING CUSTOMER or Strategic Accounts for whom a SUGGESTED RESALE PRICE LIST has been incorporated into this Agreement are covered by this Agreement with regard to compensation payable to MWI hereunder. Any transaction involving Products with any customer including a PARTICIPATING CUSTOMER for which MWI has not been selected by that PARTICIPATING CUSTOMER as the distributor are not covered by this Agreement with regard to compensation payable hereunder.
+
+^(a) MWI shall not be provided with any rebate, discount or other compensation for Products handled under this Agreement unless specifically set forth herein. MWI will NOT be eligible to collect an RSA on any lateral sales to an unauthorized Pfizer distributor. (It is MWI’s obligation to confirm with Pfizer, prior to making a sale, as to whether a distributor is an authorized distributor.) All sales by Pfizer to MWI shall be at the then current Pfizer list price but subject to appropriate credits in accordance with paragraph 2(e). Pfizer shall have the right to raise or change the price of any or all Products to MWI on /**/ prior written notice. Pfizer shall be free to limit sales of any or all Products to MWI in advance of any price increase.
+
+^^The parties agree that Pfizer shall not be obligated to issue credits for any returns that exceed the current average of returns of distributors as specified below unless such returns are the subject of a recall or made at the request of Pfizer. The current average of returns of distributors for the calendar year of the contract timeline [[Date 1]] to [[Date 2: Date]] shall be:
+
+Distributor Average Returns (credits and exchanges) as a % of sales: /**/
+
+^The payments described in Schedule D hereto constitute full and complete compensation.
+
+^All returns shall be approved by Pfizer and subject to Pfizer’s Returned Goods Policy, attached hereto as Schedule F. MWI may not offset payment to Pfizer of invoice amounts as credit for any compensation payable hereunder. Pfizer shall make bi-monthly payments of appropriate fees to MWI.
+
+^MWI and Pfizer agree that, under the specific circumstances delineated in this Section 10, Pfizer, at Pfizer’s sole discretion, may recoup the sums outstanding to it from MWI against those sums which may become due from Pfizer to MWI, in that the obligations arise from mutual transactions. The specific circumstances which will enable Pfizer to initiate recoupment are:
+
+^^MWI becomes insolvent, which shall be defined as:
+
+^^^the sum of MWI’s debts is greater than all of MWI’s property (“Balance Sheet Test”); or
+
+^^^MWI is generally not paying its debts as they come due; or
+
+^^^MWI has failed to act in good faith for a period in excess of six (6) months to resolve any outstanding invoice or purchase order issues or reconciliations.
+
+^^MWI commences a liquidation of its operations by means of a sale of its assets in their entirety or piecemeal; or
+
+^^MWI ceases its business operations whether or not such cessation is voluntary or involuntary; or;
+
+^^MWI files a proceeding pursuant to the U.S. Bankruptcy Code or any state court proceeding, including an Assignment for the Benefit of Creditors.
+
+^Nothing in this Agreement shall be deemed to preclude MWI from negotiating a service fee or any other consideration from, or providing any discount or rebate to, any customer, including PARTICIPATING CUSTOMERS for any services provided by MWI.
+
+^MWI shall distribute Pfizer Products only under the labeling provided by Pfizer or as otherwise approved in writing by Pfizer, prescribe, recommend, suggest, and advertise each Product for use only under the conditions stated in the labeling provided by Pfizer; and observe all federal, state, and local laws governing the distribution of the Products.
+
+^Nothing in this Agreement shall be deemed to limit Pfizer’s ability to sell any Product at any time to any customer including PARTICIPATING CUSTOMERS or any other party. Transactions consummated directly between Pfizer and any such customer or other party shall not qualify for any of the compensation payable to MWI hereunder. Nothing in this Agreement shall be deemed to limit MWI’s ability to sell non-Pfizer products at any time to any customer including PARTICIPATING CUSTOMERS or any other party. MWI’s active promotion or sale of products not made by Pfizer will not be considered harmful to the Goodwill or name of Pfizer, or the Products, provided that the Pfizer Products are not maligned in any way as prohibited under Section 4(k) of this Agreement.
+
+^EXCEPT AS SET FORTH IN THIS AGREEMENT, IN THE LABELING OF THE PRODUCTS SOLD HEREUNDER, OR AS OTHERWISE SPECIFIED IN WRITING BY PFIZER, PFIZER MAKES NO EXPRESS OR IMPLIED WARRANTIES WITH RESPECT TO THE PRODUCTS.
+
+^^Pfizer shall defend, indemnify, and hold MWI harmless from all liabilities, claims, demands, damages, costs and expenses, or money judgments incurred by MWI or rendered against it resulting from (a) any breach by Pfizer of this Agreement, (b) third party claims or actions for personal injury or property damage which arise out of the distribution or sale of Pfizer products or the failure to warn, except to the extent that such personal injury or property damage arises out of the negligence or willful misconduct of MWI, and (c) any claim that the Products, as sold by Pfizer, were defective. In the event Pfizer is found by any court of competent jurisdiction to be liable for any claim based in products liability, then Pfizer shall reimburse MWI’s reasonable legal fees incurred in the course of cooperating with Pfizer’s defense. To be covered by this defense and indemnity, MWI must: promptly notify Pfizer of any such claim; allow Pfizer to fully control the defense and/or resolution of the claim; and cooperate fully with Pfizer in the matter. This defense, indemnity and payment for legal fees shall not apply to claims alleging: MWI alteration, negligent handling or improper storage of the Products; sale of outdated Products; sale or recommendation of the Products for uses or in a manner not set forth in either the labeling supplied by Pfizer or as otherwise specified by Pfizer in writing; or sale of the Products after receipt of written notice from Pfizer that such sales should be halted.
+
+^^In no event shall either party be liable to the other party for special, collateral, incidental, punitive or consequential damages in connection with or arising out of this Agreement. Except as provided under subparagraph 14(a), above, total damages recoverable against Pfizer by MWI shall be exclusively limited to the purchase price of the Products with respect to which damages are claimed.
+
+^MWI and Pfizer acknowledge that in the performance of their duties hereunder each may obtain access to “Confidential Information” (as defined below) of the other. MWI and Pfizer agree that during the term of this Agreement and for a period of three (3) years after the termination of this Agreement, unless specifically permitted in writing by the other party, which permission shall not be unreasonably withheld, especially in connection with a sale of all or a substantial portion of MWI’s business, to (a) retain in confidence and not disclose to any third party and (b) use only for the purpose of carrying out their duties hereunder, any such Confidential Information. As used herein the term “Confidential Information” means any information, or data, whether of a business or scientific nature and whether in written, oral or tangible form, relating to Pfizer’s and MWI’s business or potential business or its research and development activities, not generally available to or known to the public, and not otherwise known to the receiving party, that is disclosed to or learned by the other party pursuant hereto. “Confidential information” does not mean or include any information: (a) which is, at the time of disclosure, available to the general public; or (b) which following disclosure becomes available to the general public through no fault of the recipient; or (c) which recipient can demonstrate was in its possession before receipt; or (d) which is disclosed to recipient without restriction on disclosure. Upon written request from either party after completion of the work provided for hereunder or other termination of this Agreement each party will return to the other party any documents, or copies thereof, or any product samples, containing or constituting Confidential Information disclosed to or generated by either party in connection with this Agreement.
+
+^All notices or communications given hereunder by one party to the other shall be sent by hand or by first class prepaid registered or recorded delivery post or by facsimile addressed to such party as follows:
+
+If to Pfizer:
+
+[[Organization 3 Name]]
+
+Attention: President, Animal Health
+
+235 East 42nd°Street
+
+[[Address 4: Address]]
+
+If to MWI:
+
+MWI Veterinary Supply
+
+Attention: President, CEO
+
+[[Address 5: Address]]
+
+Either party may change its address by giving written notice to the other party.
+
+^This Agreement shall be effective as of [[Date 1]] and shall continue in force until [[Date 2]]. This Agreement may be terminated by either party upon thirty (30) days prior written notice. Such termination may be without cause. This Agreement may be terminated immediately by either party upon written notice in the event of a material breach by the other. In the event MWI takes any action that harms or damages the interests of Pfizer or the Products, other than where supported by sound factual evidence, including, but not limited to, the diversion of Products and statements of false information, Pfizer may terminate this Agreement immediately upon written notice.
+
+^This Agreement shall governed by the laws of the State of [[Address 6: Address]] contracts made and performed therein. This Agreement is not assignable without the express written consent of the other party, and may be modified or amended only in writing signed by both parties.
+
+^This Agreement and documents referred to herein embody the entire understanding between the parties hereto, will supersede prior agreements relating to the Products. No activities conducted pursuant to this Agreement or related thereto, including but not limited to the future planning activities of the parties, shall be deemed to give rise to any obligations on the part of either party other than as expressly provided for herein.
+
+IN WITNESS WHEREOF, intending to be legally bound, the parties have executed this Agreement.
+
+MWI      [[Organization 1 Name]]
+
+[[MWI      [[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{MWI      [[Organization 1 Name]] Entity => By: [[MWI      [[Organization 1 Name]] Signatory First Name]] [[MWI      [[Organization 1 Name]] Signatory Last Name]]
+Title: [[MWI      [[Organization 1 Name]] Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]], Jr.
+President, U.S. Operations
+[[Organization 4 Name]]
+
+Date 12/8/08      Date 12/11/08
+
+\centered SCHEDULE A
+
+\centered FEE ELIGIBLE PRODUCTS
+
+**SKU**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **RSE ELIGIBLE**      \centered **RSA (Sales to [[Organization 5 Name]] Health Accounts**      \centered **RSA (Sales to Strategic Producers**      \centered **RSA (Sales to LE Producers)**
+\centered **Cattle Items**
+
+Bovi-Shield BRSV          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield BRSV          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD 4          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD 4          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5 L5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5 L5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5 L5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5 VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD FP 5 VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield GOLD IBR BVD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Bovi-Shield IBR          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CalfGuard          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster 4+VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster 4+VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster 4+VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster GOLD FP 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster GOLD FP 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster GOLD FP 5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster Gold FP 5 L5 (4139)          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster Gold FP 5 L5 (4140)          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+CattleMaster Gold FP 5 L5 (4141)          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+E.coli Bacterin- J-5 Strain          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+E.coli Bacterin- J-5 Strain          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Leptoferm-5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Leptoferm-5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot Ultra 7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot Ultra 7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot Ultra 8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+One Shot Ultra 8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+PregGuard GOLD FP 10          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+PregGuard GOLD FP 10          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Resvac 4/Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Resvac 4/Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+ScourGuard 4K          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+ScourGuard 4K          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+**SKU**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **RSE ELIGIBLE**      \centered **RSA (Sales to [[Organization 5 Name]] Health Accounts**      \centered **RSA (Sales to Strategic Producers**      \centered **RSA (Sales to LE Producers)**
+
+ScourGuard 4 KC          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+ScourGuard 4 KC          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spirovac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spirovac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spirovac L5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spriovac L5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spirovac VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spirovac VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+StayBred VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+StayBred VL5          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+TSV 2          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+TSV 2          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+TSV 2          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+TSV 2          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-7/Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-7/Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-7/Somubac          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-CD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Ultrabac-CD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice 7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice 7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice 7          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice 8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice 8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice 8          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+UltraChoice CD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Vibrin          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+A180      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+A180      \centered 250ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Albon Bolus      \centered 5gmx50      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Albon Bolus      \centered 15gmx12      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Albon Bolus      \centered 15gmx50      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 6 Name]]      \centered 50ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 6 Name]]      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 6 Name]]      \centered 250ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 6 Name]]      \centered 500ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Excede Sterile Suspension      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 7 Name]]      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Liquamycin LA-200      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Liquamycin LA-200      \centered 250ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+**SKU**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **RSE ELIGIBLE**      \centered **RSA (Sales to [[Organization 5 Name]] Health Accounts**      \centered **RSA (Sales to Strategic Producers**      \centered **RSA (Sales to LE Producers)**
+
+Liquamycin LA-200      \centered 500ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Naxcel Sterile Powder      \centered 1gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Naxcel Sterile Powder      \centered 4gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Sterile Water      \centered 80ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Terramycin-343      \centered 4.78      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Terramycin-343      \centered 9.56oz      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 8 Name]]      \centered 250mg,24/btl      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 8 Name]]      \centered 250mg,100/bt      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix water soluble      \centered 160gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix water soluble      \centered 480gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Linco-Spectin      \centered 20ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Albadry Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Albadry Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Orbeseal          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 9 Name]]          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 9 Name]]          \centered /**/      \centered /**/      \centered /**/.      \centered /**/
+
+Quartermaster          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Quartermaster (Bulk Pack)          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spectramast LC          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spectramast LC          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spectramast DC          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Spectramast DC          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Injectable      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Injectable      \centered 200ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Injectable      \centered 500ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Pour-On      \centered 250ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Pour-On      \centered lLt      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Pour-On      \centered 2.5Lt      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Pour-On      \centered 5Lt      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Durasect      \centered 1gallon      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Durasect II      \centered 450ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Durasect 11      \centered 900ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Valbazen      \centered 500ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Valbazen      \centered lLt      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Valbazen      \centered 5Lt      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+EAZI-Breed CIDR Applicator      \centered Applicator      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+EAZI-Breed CIDR Green Applicator      \centered Applicator      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+EAZ1-Breed CIDR Insert      \centered Bag of 10      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 10 Name]]      \centered 30ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 10 Name]]      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Entrolyte H.E.      \centered 178gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Norcalciphos      \centered 500ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Predef 2X      \centered 100ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Re-Sorb          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Re-Sorb          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Therabloat      \centered 2oz      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+MGA 200 Premix      \centered 501b bag      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+MGA 500 Liquid Premix      \centered 401b drum      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+**SKU**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **RSE ELIGIBLE**      \centered **RSA (Sales to [[Organization 5 Name]] Health Accounts**      \centered **RSA (Sales to Strategic Producers**      \centered **RSA (Sales to LE Producers)**
+\centered **Swine Items**
+
+FluSure XP          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/FarrowSure GOLD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/FarrowSure GOLD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/FarrowSure GOLD Plus B          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure-ONE          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure-ONE          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/ ER-Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP / ER-Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure-ONE/ER-Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FluSure XP/RespiSure-ONE/ER-Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure-ONE/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure-ONE/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure-ONE/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure/ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+ER Bac Plus          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure-ONE          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure-ONE          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure-ONE          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+RespiSure          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+ER Bac L5 GOLD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FarrowSure GOLD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FarrowSure GOLD          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+FarrowSure GOLD B          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+LitterGuard          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+LitterGuard LT-C          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+LitterGuard LT-C          \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Draxxin      \centered 50 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Draxxin      \centered 100 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Draxxin      \centered 250 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Draxxin      \centered 500 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+EXCEDE for Swine      \centered 100 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 7 Name]]      \centered 100 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Linco-Spectin      \centered 20 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix, 100mg/100m1      \centered 100 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix, 300mg/100m1      \centered 100 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 10 Name]]      \centered 30 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+[[Organization 10 Name]]      \centered 100 ml vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Naxcel      \centered 1 gm vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+**SKU**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **RSE ELIGIBLE**      \centered **RSA (Sales to [[Organization 5 Name]] Health Accounts**      \centered **RSA (Sales to Strategic Producers**      \centered **RSA (Sales to LE Producers)**
+
+Naxcel      \centered 4 gm vial      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Sterile Water      \centered 80 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Predef 2X      \centered 100 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Injectable      \centered 100 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Injectable      \centered 200 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Dectomax Injectable      \centered 500 mi      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Liquamycin LA-200      \centered 100 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Liquamycin LA-200      \centered 250 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Liquamycin LA-200      \centered 500 ml      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix Soluble Powder      \centered 160 gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix Soluble Powder      \centered 480 gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Terramycin-343      \centered 9.56 oz      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+LS 50      \centered 75 gm      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix 20      \centered 501b      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+Lincomix 50      \centered 501b      \centered /**/      \centered /**/      \centered /**/      \centered /**/
+
+\centered SCHEDULE B
+
+\centered LIST OF STRATEGIC ACCOUNTS
+
+**Parent Narc ID**      \centered **Parent Narc Name**      \centered **City**      \centered **State**
+/**/      /**/      /**/      /**/
+
+**Parent Narc ID**      \centered **Parent Narc Name**      \centered **City**      \centered **State**
+
+**Parent Narc ID**      \centered **Parent Narc Name**      \centered **City**      \centered **State**
+
+** Please note that this list of Strategic Accounts is subject to change. Please contact [[Organization 1 Name]]’s Sales Support Services for updated information at SSEXTON@Pfizer.
+
+\centered SCHEDULE C
+
+\centered SUGGESTED RESALE PRICE LIST
+
+\centered The SUGGESTED RESALE PRICE LIST will be provided to MWI upon Pfizer’s receipt of MWI’s signed copies of this Agreement.
+
+\centered SCHEDULE C continued
+
+\centered [[Organization 2 Name]] PRICING CONFIDENTIAL - DO NOT DISTRIBUTE, EFFECTIVE [[Date 1]]
+
+\centered CATTLE DISTRIBUTOR PRICING
+
+**ITEM NUMBER**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **CASE QUANTITY**      \centered **DISTRIBUTOR PRICE**
+\centered **BIOLOGICALS**
+
+Bovi-Shield® BRSV              /**/
+
+Bovi-Shield BRSV              /**/
+
+Bovi-Shield GOLD® 4              /**/
+
+Bovi-Shield GOLD 4              /**/
+
+Bovi-Shield GOLD® 5              /**/
+
+Bovi-Shield GOLD 5              /**/
+
+Bovi-Shield GOLD 5              /**/
+
+Bovi-Shield GOLD® FP® 5              /**/
+\centered 521.2      Bovi-Shield GOLD FP 5              /**/
+
+Bovi-Shield GOLD® FPO® 5 L5              /**/
+
+Bovi-Shield GOLD FP 5 L5              /**/
+
+Bovi-Shield GOLD FP 5 L5              /**/
+
+Bovi-Shield GOLD® FP® 5 VL5              /**/
+
+Bovi-Shield GOLD FP 5 VL5              /**/
+
+Bovi-Shield GOLD® IBR BVD              /**/
+
+Bovi-Shield® IBR              /**/
+
+Calf-Guard®              /**/
+
+CattleMaster® 4+VL5TM              /**/
+
+CattleMaster 4+VL5              /**/
+
+CattleMaster 4+VL5              /**/
+
+CattleMaster® GOLDTM FP® 5              /**/
+
+CattleMaster GOLD FP 5              /**/
+
+CattleMaster GOLD FP 5              /**/
+
+CattleMaster® GOLDTM FP® 5 L5              /**/
+
+CattleMaster GOLD FP 5 L5              /**/
+
+CattleMaster GOLD FP 5 L5              /**/
+
+E.coli Bacterin-1-5TMStrain              /**/
+
+E.coli Bacterin- J-5 Strain              /**/
+
+Leptoferm-5®              /**/
+
+Leptoferm-5              /**/
+
+One Shot®              /**/
+
+One Shot              /**/
+
+One Shot              /**/
+
+One Shot Ultra® 7              /**/
+
+One Shot Ultra 7              /**/
+
+One Shot Ultra® 8              /**/
+
+One Shot Ultra 8              /**/
+
+PregGuard® GOLD FP® 10              /**/
+
+PregGuard GOLD FP 10              /**/
+
+**ITEM NUMBER**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **CASE QUANTITY**      \centered **DISTRIBUTOR PRICE**
+
+Resvac® 4/Somubac®              /**/
+
+Resvac 4/Somubac              /**/
+\centered **BIOLOGICALS**
+
+ScourGuard® 4K              /**/
+
+ScourGuard 4K              /**/
+
+ScourGuard® 4KC              /**/
+
+ScourGuard 4KC              /**/
+
+Somubac®              /**/
+
+Somubac              /**/
+
+[[Organization 11 Name]]              /**/
+
+Spirovac              /**/
+
+[[Organization 11 Name]] L5              /**/
+\centered 5201.      Spirovac L5              /**/
+
+[[Organization 11 Name]] VL5              /**/
+
+Spirovac VL5              /**/
+
+StayBredTM VL5              /**/
+
+StayBred VL5              /**/
+
+TSV-2®              /**/
+
+TSV-2              /**/
+
+TSV-2              /**/
+
+TSV-2              /**/
+
+Ultrabac® 7              /**/
+
+Ultrabac 7              /**/
+
+Ultrabac 7              /**/
+
+Ultrabac® 7/Somubac®              /**/
+
+[[Organization 12 Name]]              /**/
+
+[[Organization 12 Name]]              /**/
+
+Ultrabac-8®              /**/
+
+Ultrabac-8              /**/
+
+Ultrabac-8              /**/
+
+Ultrabac® CD              /**/
+
+Ultrabac CD              /**/
+
+UltraChoice® 7              /**/
+
+UltraChoice 7              /**/
+
+UltraChoice 7              /**/
+
+UltraChoice® 8              /**/
+
+UltraChoice 8              /**/
+
+UltraChoice 8              /**/
+
+UltraChoice® CD              /**/
+
+Vibrin®              /**/
+\centered **ANTI-INFECTIVES**
+
+A180®   **Rx**      \centered 100ml          /**/
+
+A180   **Rx**      \centered 250ml          /**/
+
+Albon® Bolus      \centered 5gmx50          /**/
+
+Albon Bolus      \centered 15gmx12          /**/
+
+**ITEM NUMBER**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **CASE QUANTITY**      \centered **DISTRIBUTOR PRICE**
+
+Albon Bolus      \centered 15gmx50          /**/
+\centered **ANTI-INFECTIVES**
+
+Draxxin® Injectable Solution   **Rx**      \centered 50ml          /**/
+
+[[Organization 6 Name]]   **Rx**      \centered 100ml          /**/
+
+[[Organization 6 Name]]   **Rx**      \centered 250ml          /**/
+
+[[Organization 6 Name]]   **Rx**      \centered 500ml          /**/
+
+Excede® Sterile Suspension   **Rx**      \centered 100ml          /**/
+
+Excenel® RTU EZ Sterile Suspension   **Rx**      \centered 100ml          /**/
+
+Liquamycin® LA-200®      \centered 100m1          /**/
+
+Liquamycin LA-200      \centered 250m1          /**/
+
+Liquamycin LA-200      \centered 500m1          /**/
+
+Naxcel® Sterile Powder   **Rx**      \centered 1gm          /**/
+
+Naxcel Sterile Powder   **Rx**      \centered 4gm          /**/
+
+Sterile Water      \centered 80m1          /**/
+
+[[Organization 13 Name]]-343**      \centered 4.78oz          /**/
+
+Terramycin-343**      \centered 9.56oz          /**/
+
+[[Organization 13 Name]] Scour Tabs      \centered 250mg,24/btl          /**/
+
+[[Organization 8 Name]]      \centered 250mg,100/btl          /**/
+\centered **LINCOMIX**
+
+Lincomix® Soluble Powder      \centered 160gm          /**/
+
+Lincomix Soluble Powder      \centered 480gm          /**/
+
+Linco-Spectin®   **Rx**      \centered 20ml          /**/
+\centered **MASTITIS**
+
+Albadry Plus®      \centered Box (12 syringes)          /**/
+
+Albadry Plus      \centered Pail (144 syringes)          /**/
+
+Orbeseal®      \centered Pail (144 syringes)          /**/
+
+[[Organization 14 Name]]   **Rx**      \centered Box (12 syringes)          /**/
+
+[[Organization 9 Name]]   **Rx**      \centered Pail (144 syringes)          /**/
+
+Quartermaster®   **Rx**      \centered Box (12 syringes)          /**/
+
+Quartermaster (Bulk Pack)   **Rx**      \centered Pail (144 syringes)          /**/
+
+Spectramast® LC   **Rx**      \centered Box (12 syringes)          /**/
+
+Spectramast LC   **Rx**      \centered Pail (144 syringes)          /**/
+
+Spectramast® DC   **Rx**      \centered Box (12 syringes)          /**/
+
+Spectramast DC   **Rx**      \centered Pail (144 syringes)          /**/
+\centered **PARASITICIDES**
+
+Dectomax® [[Percentage 1: Number]]% Injectable      \centered 100m1          /**/
+
+Dectomax [[Percentage 1]]% Injectable      \centered 200m1          /**/
+
+Dectomax [[Percentage 1]]% Injectable      \centered 500m1          /**/
+
+[[Organization 15 Name]]-On      \centered 250m1          /**/
+
+Dectomax Pour-On      \centered 1Lt          /**/
+
+Dectomax Pour-On      \centered 2.5Lt          /**/
+
+Dectomax Pour-On      \centered 5Lt          /**/
+
+Durasect®      \centered 1gallon          /**/
+
+Durasect® II      \centered 450m1          /**/
+
+Durasect II      \centered 900m1          /**/
+
+**ITEM NUMBER**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **CASE QUANTITY**      \centered **DISTRIBUTOR PRICE**
+
+[[Organization 16 Name]]      \centered 500m1          /**/
+
+Valbazen      \centered 1Lt          /**/
+
+Valbazen      \centered 5Lt          /**/
+\centered **REPRODUCTION**
+
+Eazi-BreedTM CIDR® Applicator      \centered Applicator          /**/
+
+Eazi-Breed CIDR Green Applicator      \centered Applicator          /**/
+
+Eazi-Breed CIDR Insert      \centered Bag of 10      \centered 50 Bags of 10      /**/
+
+[[Organization 10 Name]] Sterile Solution   **Rx**      \centered 30m1          /**/
+
+[[Organization 10 Name]]   **Rx**      \centered 100m1          /**/
+\centered FEED
+
+MGA® 200 Premix      \centered 501b Bag          /**/
+
+MGA® 500 Liquid Premix      \centered 401b Drum          /**/
+\centered **OTHER PHARMACEUTICALS**
+
+[[Organization 17 Name]]      \centered 178gm          /**/
+
+Norcalciphos   **Rx**      \centered 500ml          /**/
+
+Predef 2X   **Rx**      \centered 100ml          /**/
+
+Re-Sorb®              /**/
+
+Re-Sorb              /**/
+
+[[Organization 18 Name]]      \centered 2oz          /**/
+
+*Terramycin-343 will be discontinued once inventory is depleted.
+
+Pfizer reserves the right to modify or discontinue this pricing at any time and for any reason.
+
+Case quantities are subject to change.
+
+\centered SCHEDULE C continued
+
+\centered SWINE DISTRIBUTOR PRICING
+
+**ITEM**                  \centered **DISTRIBUTOR PRICE**
+**NUMBER**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **UNIT**      \centered **DOSE***
+\centered **SWINE RESPIRATORY BIOLOGICALS**
+
+FluSure XPTM          /**/      /**/
+
+FluSure XP          /**/      /**/
+
+FluSure XPTM/FarrowSureC) GOLD          /**/      /**/
+
+FluSure XP/FarrowSure GOLD          /**/      /**/
+
+FluSure XPTM/FarrowSure® GOLD Plus B          /**/      /**/
+
+FluSure XPTM/RespiSure®          /**/      /**/
+
+FluSure XP/RespiSure          /**/      /**/
+
+FluSure XPTM/RespiSure-ONEC)          /**/      /**/
+
+FluSure XP/RespiSure-ONE          /**/      /**/
+
+FluSure XPTM/ER Bac Plus®          /**/      /**/
+
+FluSure XP/ER Bac Plus          /**/      /**/
+
+FluSure XPTM/RespiSure®/ER Bac PlusC)          /**/      /**/
+
+FluSure XP/RespiSure/ER Bac Plus          /**/      /**/
+
+FluSure XPTM/RespiSure-ONEC)/ER Bac Plus®          /**/      /**/
+
+FluSure XP/RespiSure-ONE/ER Bac Plus          /**/      /**/
+
+RespiSure-ONE®/ER Bac Plus®          /**/      /**/
+
+RespiSure-ONE/ER Bac Plus          /**/      /**/
+
+RespiSure-ONE/ER Bac Plus          /**/      /**/
+
+RespiSure®/ER Bac Plus®          /**/      /**/
+
+RespiSure/ER Bac Plus          /**/      /**/
+
+RespiSure/ER Bac Plus          /**/      /**/
+
+[[Organization 19 Name]] Plus          /**/      /**/
+
+RespiSure-ONE®          /**/      /**/
+
+RespiSure-ONE          /**/      /**/
+
+RespiSure-ONE          /**/      /**/
+
+RespiSure®          /**/      /**/
+
+RespiSure          /**/      /**/
+
+RespiSure          /**/      /**/
+
+\centered **UNIT**      \centered **DOSE***
+\centered **[[Organization 20 Name]]**
+
+[[Organization 19 Name]] L5 GOLD          /**/      /**/
+
+FarrowSure® GOLD          /**/      /**/
+
+FarrowSure GOLD          /**/      /**/
+
+FarrowSure® GOLD B          /**/      /**/
+
+LitterGuard®          /**/      /**/
+
+LitterGuard® LTC          /**/      /**/
+
+LitterGuard LT-C          /**/      /**/
+
+* Product pricing is based on the unit prices. The dose price is displayed for informational purposes only.
+
+**ITEM NUMBER**      \centered **ITEM DESCRIPTION**      \centered **SIZE**      \centered **DISTRIBUTOR PRICE**
+\centered **LARGE ANIMAL VIALS**
+
+Draxxin® Injectable Solution   **Rx**      \centered 50m1      \centered /**/
+
+[[Organization 6 Name]]   **Rx**      \centered 100ml      \centered /**/
+
+[[Organization 6 Name]]   **Rx**      \centered 250ml      \centered /**/
+
+[[Organization 6 Name]]   **Rx**      \centered 500ml      \centered /**/
+
+EXCEDETM for Swine   **Rx**      \centered 100ml      \centered /**/
+
+Excenel® RTU EZ Sterile Suspension   **Rx**      \centered 100ml      \centered /**/
+
+Linco-Spectin®   **Rx**      \centered 20ml      \centered /**/
+
+Lincomix® 100mg Injectable      \centered 100ml      \centered /**/
+
+Lincomix 300mg Injectable      \centered 100ml      \centered /**/
+
+LutaIyse® Sterile Solution   **Rx**      \centered 30ml      \centered /**/
+
+[[Organization 10 Name]]   **Rx**      \centered 100ml      \centered /**/
+
+Naxcel® Sterile Powder   **Rx**      \centered 1gm      \centered /**/
+
+Naxcel Sterile Powder   **Rx**      \centered 4gm      \centered /**/
+
+Sterile Water*      \centered 80ml      \centered /**/
+
+Predef 2X   **Rx**      \centered 100ml      \centered /**/
+
+Dectomax® [[Percentage 1]]% Injectable      \centered 100ml      \centered /**/
+
+Dectomax [[Percentage 1]]% Injectable      \centered 200ml      \centered /**/
+
+Dectomax [[Percentage 1]]% Injectable      \centered 500ml      \centered /**/
+
+Liquamycin® LA-200®      \centered 100ml      \centered /**/
+
+Liquamycin LA-200      \centered 250ml      \centered /**/
+
+Liquamycin LA-200      \centered 500ml      \centered /**/
+\centered **OTC: SOLUBLE POWDERS**
+
+Lincomix® Soluble Powder      \centered 160gm      \centered /**/
+
+Lincomix Soluble Powder      \centered 480gm      \centered /**/
+
+[[Organization 13 Name]]-343**      \centered 4.78oz      \centered /**/
+
+Terramycin-343**      \centered 9.56oz      \centered /**/
+
+LS 50      \centered 75gm      \centered /**/
+\centered **POWDER IN DRUMS/FEED MEDICATION**
+
+Lincomix® 20      \centered 50Ib      \centered /**/
+
+Lincomix® 50      \centered 50lb      \centered /**/
+
+**Terramycin-343 will be discontinued once inventory is depleted.
+
+Pfizer reserves the right to modify or discontinue this pricing at any time and for any reason.
+
+Case quantities are subject to change.
+
+\centered SCHEDULE D
+
+Section A
+
+Fee for Logistics
+
+**Definitions****:**“Fee Eligible Products” shall mean those Pfizer Products listed in Schedule A hereto for which a Fee payment will be made to MWI in accordance with paragraph 5.
+
+^Pfizer shall pay to MWI a fee for logistics (hereinafter, “Fee”) paid at a rate of (i) a differentiated percentage [see SCHEDULE E for breakdown] on Sales Out for Fee Eligible Products to identified PARTICIPATING CUSTOMERS who are producers (but not including Strategic Accounts), (ii) /**/ on Sales Out for Fee Eligible Products to identified PARTICIPATING CUSTOMERS who are veterinarians (but not including Strategic Accounts), and (iii) /**/ on Sales Out for Fee Eligible Products to identified PARTICIPATING CUSTOMERS who are Strategic Accounts. For a Veterinarian to receive an RSA on Strategic Producer product sales, the Veterinarian must buy those product quantities directly from [[Organization 4 Name]]. Such product purchases must be made within the timeframe of the reported sales to the Strategic Producer in order to receive a /**/for sales to Leaders’ Edge Strategic Producers. The Veterinarian also must hold the accounts receivable on those products for the Strategic Producer. The remaining product purchases to service Leaders’ Edge accounts or Non-Leaders’ Edge accounts may be sourced from an authorized Pfizer distributor or directly from [[Organization 4 Name]]. The Fee is calculated on a Product by Product basis and based on the Product price contained in the Participating Customer’s SUGGESTED RESALE PRICE LIST in effect at the time of such Product purchase. The Fee is contingent on MWI fulfilling all conditions outlined in paragraph 4 of this Agreement. The payments made pursuant to this Schedule D, Section A are not payable for sales to anyone other than PARTICIPATING CUSTOMERS. The Fee is net of any difference between MWI’s purchase price and the SUGGESTED RESALE PRICE LIST price. MWI shall only receive the payments set out in this Schedule D, Section A for sales to PARTICIPATING CUSTOMERS which are consummated after confirmation by Pfizer to MWI that a customer is a PARTICIPATING CUSTOMER.
+
+^Pfizer shall have the right to audit shipping records of MWI to confirm delivery of Products to producers or veterinarians in order to assure proper Fee payments under paragraph 1 of this Schedule D, Section A. Any material misrepresentations by MWI related to paragraph 1 of this Schedule D, Section A and the party actually taking possession of the products shall void any payments due under paragraph 1 of this Schedule D, Section A. In addition, MWI recognizes that the Leaders Edge program is designed as an effective go-to market approach to selling for the benefit of veterinarians and/or dealers who add value in the transaction to their customers as well as value for those customers. Blatant abuse of the intended structure of the Leaders Edge Program by MWI (including, but not limited to, falsification of EDI data or establishing false business entities or inserting business entities that add no commercial value to end users purely to obtain additional Fee payments) will subject MWI to potential forfeiture of all Fee’s paid on those transactions provided for in this Schedule D, Section A at the sole discretion of Pfizer. Decisions made as a result of Pfizer’s investigations of blatant abuse of the intended structure of Leaders Edge are solely Pfizer’s to make and forfeitures of Fees may happen retroactively in the form of credits against future Fee payments.
+
+^The parties agree that MWI will provide to Pfizer on request and within two (2) business days, proof of delivery on any suspicious (as determined by Pfizer) EDI transaction. MWI agrees that Pfizer shall be entitled to audit, either directly or through external auditors hired by Pfizer and upon reasonable notice by Pfizer, MWI’s books and records for the purpose of determining the accuracy of EDI data for Pfizer Product sales communicated to Pfizer through Covansys.
+
+^Products which are not listed in Schedule A do not qualify for Fee payments. All such Products shall be purchased by MWI on a buy sell basis. If new sku’s are added to Schedule A, Pfizer will communicate this to MWI on a quarterly basis.
+
+\centered SCHEDULE E
+
+\centered Cattle Swine Leaders Edge/Differentiated RSA (Taken from Price Memo #4444. Confidential, Do Not Distribute)
+
+Effective January 1, 2009 through [[Date 2]] Leaders’ Edge Suppliers will receive a service fee (RSA) for sales to eligible Leaders’ Edge customers as indicated below.
+
+\centered RSA Payments
+
+\centered **[[Organization 5 Name]]/Dealer**      \centered **[[Organization 21 Name]] Producer**      
+
+\centered **LE Producer**
+Distributor      \centered /**/      \centered /**/      /**/
+Veterinarian      \centered /**/      \centered /**/      /**/
+
+\centered SCHEDULE F Pfizer Returned Goods Policy & Procedure
+
+**AUDIENCE**
+
+Customer Service Operations, Finance, Marketing, & Field Force
+
+**SCOPE**
+
+Cattle, Swine, Equine, and CAD products purchased directly from [[Organization 4 Name]] may be returned for credit based on the current [[Organization 4 Name]] Return Goods Price List providing it is not outside the defined return window. ONLY CAD products may be returned for exchange providing it is not outside the defined return window.
+
+· Cattle, Swine, Equine, and CAD products return window is defined as two months prior and six months beyond the product’s expiration date. (except Revolution 6pk and Rimadyl 180ct, which can be exchanged or credited six months prior to the products expiration date).
+
+· In addition, CAD products may also be returned 12 months after the invoice date for Return Goods Credit only provided that the product has not expired.
+
+Cattle, Swine, and Equine Biologicals purchased directly from [[Organization 4 Name]] may be returned for credit based upon [[Percentage 2: Number]]% of the customer’s prior calendar year’s pricing. All other Cattle, Swine, and Equine products will receive credit based upon [[Percentage 3: Number]]% of the customer’s prior calendar year’s pricing.
+
+· Exception #1: Short dated products (defined as consistently shipping with 4-6 months dating or less, such as ScourGuard) may receive a return goods credit based upon [[Percentage 2]]% of customer’s current year’s pricing.
+
+· Exception #2: Newly launched products not available the prior year, will follow the return policy as stated above but pricing will be based off of the current year.
+
+Cad Products purchased directly from [[Organization 4 Name]] may be returned for credit at [[Percentage 4: Number]]% of current list price or be exchanged for like product in full packaged quantities provided they are within the return window.
+
+· Exception #1: Customers that receive discount pricing due to a contract may have terms per their contract stating they will receive returns pricing at [[Percentage 4]]% of invoice price.
+
+Products sold on a non-returnable basis are not eligible for credit or exchange. Products sold on a non-returnable basis include: syringes, rabies tags, Unipet Nutritabs, Roccal-D, Plastic Dispensing Bags, Sterile Water, Terramycin-343, Terramycin Soluble Powder, Lincomix Soluble Powder, Lincomix Feed, Neomix 325 Commercial Grade, LS 50, and MGA
+
+^Products NOT eligible for exchange include:
+
+Products not purchased directly from [[Organization 4 Name]]
+
+Cattle, Swine, and Equine Products
+
+Products outside the defined return window
+
+Items returned in less than the original packaged unit (partials)
+
+^Products NOT eligible for credit include:
+
+Products not purchased directly from [[Organization 4 Name]]
+
+Products outside the defined return window
+
+Items returned in quantities less than the original packaged unit (partials), with the exception of small animal biologicals, Amoxi tablets, Clavamox tablets, Albon tablets, Primor, Zeniquin, Cestex, Anipryl, and Temaril-P. Partial returns of these items will be credited in [[Percentage 5: Number]]% increments.
+
+^Claims for Breakage or Shortage - Any obvious breakage or shortage must be brought to the attention of [[Organization 4 Name]] and the carrier. This must also be noted when signing delivery documents. Mis-shipments, shortages and concealed damages must be reported to [[Organization 4 Name]] within 15 business days for distribution (21 days for Veterinarians) from invoice date to receive full invoice credit. Claims received after this timeframe will not be considered for credit. Credits for damages and mis-shipments (i.e. CSR or warehouse error) will be matched up to the original invoice and credited at full invoice pricing.
+
+^Discontinued Products - Discontinued products may not be returned for exchange but can be returned for credit at our current return’s price. Return of discontinued product must meet all other return requirements detailed in this policy.
+
+**PROCEDURE**
+
+Pfizer AH Customer Service will make pick up arrangements for returns of outdated product purchased directly from Pfizer. Veterinarians or Pfizer Territory Mangers should contact Customer Service to arrange for pick-up at [[Phone 1]]. Returns for all other classes of trade should be sent freight prepaid to the Pfizer Returns Center located in Lee’s Summit, MO.
+
+Customer Service and/or [[Organization 4 Name]] Territory Manager must complete the Merchandise Return Form (MRF) and forward along with the return shipment to the [[Organization 4 Name]] Returns Center at One Pfizer Way, Building 200, Lee’s Summit, MO 64081. The MRF should be marked as credit or exchange. If the return shipment contains both product to be credited, and also product to be exchanged, a separate MRF should be completed for the credit and the exchange. Credit or exchange will be issued only upon receipt of the product at the [[Organization 4 Name]] Returns Center. Product should not be destroyed in the field. The product must have been purchased directly from [[Organization 4 Name]] and within the defined returns window.
+
+Distributor accounts should fax a copy of the completed MRF to Major Accounts at [[Phone 2]] for returns authorization. Once approved, a copy of the signed form will be faxed back to the distributor to be included in the return shipment.

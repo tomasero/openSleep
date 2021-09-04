@@ -1,0 +1,390 @@
+THE ISSUANCE AND SALE OF THIS SUBORDINATED PROMISSORY NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR QUALIFIED UNDER APPLICABLE STATE SECURITIES LAWS AND MAY NOT BE SOLD OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION FROM REGISTRATION, UNDER THE SECURITIES ACT OF 1933. 
+
+THIS SUBORDINATED PROMISSORY NOTE AND THE RIGHTS AND OBLIGATIONS EVIDENCED HEREBY ARE SUBORDINATE IN THE MANNER AND TO THE EXTENT SET FORTH IN SECTION 9 BELOW, AND EACH HOLDER OF THIS SUBORDINATED PROMISSORY NOTE, BY ITS ACCEPTANCE HEREOF, IRREVOCABLY AGREES TO BE BOUND BY THE PROVISIONS CONTAINED IN SECTION 9 BELOW. 
+
+\centered **SUBORDINATED PROMISSORY NOTE** 
+
+\centered **[[Organization 1 Name]]** 
+
+\centered 
+
+$[[USD Value 1: Number]]    New York, New York [[Date 1: Date]]  
+
+FOR VALUE RECEIVED, the undersigned [[Organization 1 Name]], a New Jersey corporation (the “Maker”), promises to pay to the order of [[Organization 2 Name]] (“Spheris”), a [[State of Formation: State]] [[Organization: EntityType]] (together with its successors and assigns, transferees and any permitted holder of this Note from time to time, or any portion hereof, hereinafter, the “Holder”), or to such other account pursuant to such other wiring instruction as the Holder may from time to time designate in writing, the original principal amount of SEVENTEEN MILLION FIVE HUNDRED THOUSAND AND 00/100 DOLLARS ($[[USD Value 1]]) (the “Original Principal Amount”), together with interest thereon and all other amounts payable to the Holder under this note (this “Note”), pursuant to the terms and conditions herein. This Note has been executed and delivered pursuant to and in accordance with the terms and conditions of the Stock and Asset Purchase Agreement, dated as of [[Date 2: Date]] (the “Purchase Agreement”), by and among [[Guarantee]] and [[Organization 3 Name]] The Maker’s payment and other obligations under this Note are guaranteed (each, a “Guarantee”) by [[Organization 3 Name]], a [[State of Formation: State]] [[Organization: EntityType]] (“Holdings”), and the other guarantors (the “Subsidiary Guarantors,” and, together with Holdings, the “Guarantors”) as provided in Appendix 1 hereto. 
+
+^Definitions. Capitalized terms used here and not otherwise defined in this Note shall have the meanings ascribed to them in the Purchase Agreement. In addition, the following terms, as used herein, have the following meanings: 
+
+^^“Agent” shall have the meaning ascribed to it in the Senior Secured Credit Agreement. 
+
+^^^^^ 
+^^“Applicable Law” means the law in effect, from time to time, applicable to the transaction evidenced by this Note which lawfully permits the receipt, contracting for, charging and collection of the highest permissible lawful, non-usurious rate of interest on this Note and the transactions evidenced hereby, and arising in connection herewith, including laws of the State of New York and, to the extent controlling, the federal laws of the United States of America. 
+
+^^“Applicable Rate” shall mean the following: from Closing through six months following Closing, [[Percentage 1: Number]]% per annum. From six months following Closing through nine months following Closing, [[Percentage 2: Number]]% per annum. From nine months following Closing through the rest of the Term, [[Percentage 3: Number]]% per annum (up to [[Percentage 4: Number]]% of which may be paid by increasing the Principal Amount in accordance with Section 2 hereof). 
+
+^^“Business Day” shall mean any day other than Saturday, Sunday or other day on which commercial banks in the State of New York are authorized or required by law or execute order to remain closed. 
+
+^^“Capitalized Lease Obligations” means, as to any Person, the obligations of such Person under a lease that are required to be classified and accounted for as capital lease obligations under GAAP and, for purposes of this definition, the amount of such obligations at any date shall be the capitalized amount of such obligations at such date, determined in accordance with GAAP. 
+
+^^“Capital Stock” means (i) with respect to any Person that is a corporation, any and all shares, interests, participations or other equivalents (however designated and whether or not voting) of corporate stock, including each class of Common Stock and Preferred Stock, of such Person and (ii) with respect to any Person that is not a corporation, any and all partnership or other equity interests of such Person. 
+
+^^“Common Stock” of any Person means any and all shares, interests or other participations in, and other equivalents (however designated and whether voting or non-voting) of such Person’s common stock, whether outstanding on the date of this Note or issued after date of this Note, and includes, without limitation, all series and classes of such common stock. 
+
+^^“Consolidated EBITDA” shall have the meaning provided in the Senior Secured Credit Agreement in effect on the date of this Note. 
+
+^^“Currency Agreement” means any foreign exchange contract, currency swap agreement, futures contract, option contract or other similar agreement or arrangement designed to protect Holdings, the Maker and their subsidiaries against fluctuations in currency values. 
+
+^^“Disqualified Capital Stock” means with respect to any Person, any Capital Stock which by its terms (or by the terms of any security into which it is convertible or for which it is exchangeable at the option of the holder) or upon the happening of any event: (i) matures or is mandatorily redeemable (other than redeemable only for Capital Stock of such Person which is not itself Disqualified Capital Stock) pursuant to a sinking fund obligation or 
+
+^^^^^ 
+otherwise; (ii) is convertible or exchangeable at the option of the holder for Indebtedness or Disqualified Capital Stock (excluding Capital Stock which is convertible or exchangeable solely at the option of Holdings, the Maker or their subsidiaries); or (iii) is mandatorily redeemable or must be purchased upon the occurrence of certain events or otherwise, in whole or in part; in each case on or prior to (a) the final maturity date of this Note or (b) the date on which there is no Note outstanding. 
+
+^^“GAAP” means generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in such other statements by such other entity as may be approved by a significant segment of the accounting profession of the United States of America, as in effect as of date of this Note. All ratios and computations based on GAAP contained in this Note will be computed in conformity with GAAP, except as expressly provided in this Note. 
+
+^^“Indebtedness” means with respect to any Person, without duplication: (i) all Obligations of such Person for borrowed money; (ii) all Obligations of such Person evidenced by bonds, debentures, notes or other similar instruments; (iii) all Capitalized Lease Obligations of such Person; (iv) all Obligations of such Person issued or assumed as the deferred and unpaid purchase price of property, all conditional sale obligations and all Obligations under any title retention agreement (but excluding trade accounts payable and other accrued liabilities arising in the ordinary course of business); (v) all Obligations for the reimbursement of any obligor on any letter of credit, banker’s acceptance or similar credit transaction (including reimbursement obligations with respect thereto except to the extent such reimbursement obligation relates to a trade payable and such obligation is satisfied within 30 days of incurrence); (vi) guarantees and other contingent obligations in respect of Indebtedness of other Persons referred to in clauses (i) through (v) above and clause (viii) below; (vii) all Obligations of any other Person of the type referred to in clauses (i) through (vi) which are secured by any Lien on any property or asset of such Person whether or not such Indebtedness is assumed by such Person, the amount of such Obligation being deemed to be the lesser of the fair market value of such property or asset at such date of determination and the amount of the Obligation so secured; (viii) all Obligations under Currency Agreements and Interest Swap Obligations of such Person (the amount of any such obligations to be equal at any time to the termination value, as determined in good faith by the Company’s Board of Directors, which determination will be conclusive, of such agreement or arrangement giving rise to such obligation that would be payable by such Person at such time); and (ix) all Disqualified Capital Stock issued by such Person with the amount of Indebtedness represented by such Disqualified Capital Stock being equal to the greater of its voluntary or involuntary liquidation preference and its maximum fixed repurchase price or, with respect to any subsidiary of Holdings or the Maker that is not a Guarantor of this Note, any Preferred Stock (but excluding, in each case, accrued dividends, if any). 
+
+^^“Interest Swap Obligations” means the obligations of any Person pursuant to any arrangement with any other Person, whereby directly or indirectly, such Person is entitled to receive from time to time periodic payments calculated by applying either a floating or a fixed rate of interest on a stated notional amount in exchange for periodic payments made by such other Person calculated by applying a fixed or a floating rate of interest on the same notional 
+
+^^^^^ 
+amount and shall include, without limitation, interest rate swaps, caps, floors, collars and similar agreements. 
+
+^^“Lenders” shall have the meaning ascribed to it in the Senior Secured Credit Agreement. 
+
+^^“Lien” means any lien, mortgage, deed of trust, pledge, security interest, charge or encumbrance of any kind (including any conditional sale or other title retention agreement, any lease in the nature thereof and any agreement to give any security interest). 
+
+^^“Maximum Rate” means, on any day, the maximum lawful non-usurious rate of interest (if any) which, under Applicable Law, the Holder is permitted or authorized to contract for, charge, collect, receive, reserve or take from or of the Maker on the indebtedness evidenced by this Note from time to time in effect, including changes in such Maximum Rate attributable to changes under Applicable Law which permit a greater rate of interest to be contracted for, charged, collected, received, reserved or taken as of the effective dates of the respective changes. 
+
+^^“Obligations” means all obligations for principal, premium, interest, penalties, fees, indemnifications, reimbursements, damages and other liabilities payable under the documentation governing any Indebtedness. 
+
+^^“Paid in Full” means the full irrevocable and indefeasible payment in cash, in immediately available funds, of all the Senior Debt (whether or not any of the Senior Debt shall have been voided, disallowed or subordinated pursuant to any provision of the Bankruptcy Code, any applicable state fraudulent conveyance law, any other law in connection with an insolvency proceeding or otherwise) and the termination of all commitments of the Lenders to make loans and other extensions of credit to or for the benefit of the Borrowers pursuant to the terms of the Senior Secured Credit Agreement. The expressions “prior payment in full”, “payment in full”, “paid or satisfied in full” and “paid in full” (whether or not such expressions are capitalized) and other similar phrases shall have correlative meanings. 
+
+^^“Person” means an individual, partnership, corporation, limited liability company, unincorporated organization, trust or joint venture, or a governmental agency or political subdivision thereof. 
+
+^^“Preferred Stock” of any Person means any Capital Stock of such Person that has preferential rights to any other Capital Stock of such Person with respect to dividends or redemptions or upon liquidation or dissolution of such Person, over shares of Capital Stock of any other class of such Person. 
+
+^^“Principal Amount” shall mean the Original Principal Amount (i) as decreased from time to time by the amount of any prepayments, if any, pursuant to Section 5, to the extent applied to principal and (ii) as increased from time to time by any Additional Principal Amounts pursuant to Section 2. 
+
+^^“Securities Act” means the Securities Act of 1933, as amended. 
+
+^^^^^ 
+^^“Senior Debt” means the Obligations (as such term is defined in the Senior Secured Credit Agreement) and all other Indebtedness, obligations and other liabilities of the Maker or its affiliates now or hereafter existing in favor of the Lenders, the L/C Issuers (as defined in the Senior Secured Credit Agreement) and Agent under the Senior Secured Credit Agreement (in each case, as amended, restated, supplemented or otherwise modified from time to time), whether for principal (including, without limitation, protective advances and overadvances), interest (including interest accruing subsequent to the filing of any petition initiating any insolvency proceeding, whether or not a claim for such interest is allowed in any such proceeding), premiums, indemnities, fees, costs, expenses (including, without limitation, auditor, legal and other professional fees, costs and expenses, and including, without limitation, fees, costs and expenses accruing subsequent to the filing of any petition initiating insolvency proceeding, whether or not a claim for such fees, costs and expenses is allowed in any such proceeding), or otherwise, in each case whether now existing or hereafter arising, direct or indirect, absolute or contingent, joint or several, secured or unsecured, matured or unmatured, monetary or nonmonetary, liquidated or unliquidated, acquired outright, conditionally or as collateral security from another, and all extensions, renewals, refundings, replacements and modifications of any of the foregoing; provided, however, that the aggregate principal amount of all Senior Debt shall not exceed $[[USD Value 2: Number]] at any one time outstanding. 
+
+^^“Senior Default” means any “Event of Default” as defined in the Senior Secured Credit Agreement. 
+
+^^“Senior Secured Credit Agreement” means that certain Credit Agreement, entered into by and among the Maker, [[Organization 3 Name]], the Lenders, the L/C Issuers (as defined in that agreement), and [[Organization 4 Name]] as administrative agent and collateral agent, dated as of [[Date 1]], as amended, restated, supplemented, amended and restated, refinanced or otherwise modified from time to time. 
+
+^^“Significant Subsidiary,” with respect to any Person, means any subsidiary of such Person that satisfies the criteria for a “significant subsidiary” set forth in Rule 1-02(w) of Regulation S-X under the Securities Act. 
+
+(aa) “Subordinated Debt” means all Obligations arising with respect to this Note and all guarantees of such Obligations. 
+
+^Payments. Payments of interest on this Note shall be made semi-annually, on each six-month anniversary following the date of the closing of the acquisition of substantially all of the assets of Spheris by the Maker (the “Closing”) as contemplated in the Purchase Agreement. Interest shall accrue on the Principal Amount at the Applicable Rate, payable in cash semi-annually in arrears on each six month anniversary of the Closing Date or, if such day is not a Business Day, on the next succeeding Business Day (the “Interest Payment Date”). All payments of interest hereunder shall be computed on the basis of a 360-day year and the number of days elapsed (including the first day but excluding the last day). Notwithstanding anything herein to the contrary, from and after the nine month anniversary of the Closing Date, at the option of the Maker, in lieu of being paid in cash, an amount of interest representing [[Percentage 4]]% per annum applied to the Principal Amount may be added to the outstanding principal amount (such additional principal amount from time to time being the “Additional Principal Amount”) and, in 
+
+^^^^^ 
+such event, shall be deemed to have been paid in the form of Additional Principal Amounts, and the cash payment of interest for such period shall be correspondingly reduced. Any Additional Principal Amount shall accrue interest from the Interest Payment Date on which such Additional Principal Amount was issued. The Maker shall pay interest on overdue principal and interest at the Applicable Rate plus [[Percentage 5: Number]]% per annum, which interest shall be paid by adding Additional Principal Amount. 
+
+^Future Guarantors. Promptly after a subsidiary of the Maker guarantees the Senior Secured Credit Agreement, the Maker shall cause such subsidiary also to guarantee this Note on the same basis as the other Guarantors. 
+
+^Term. This Note shall mature on the date that is 5 years (the “Term”) from the date of the Closing, or the next succeeding Business Day if such day is not a Business Day. 
+
+^Prepayment. This Note shall be prepayable at the option of the Maker. Such prepayments shall be applied first, to accrued and unpaid interest, and second, to remaining payments of the Principal Amount. To prepay this Note, the Maker shall pay to the Holder an amount equal to the outstanding Principal Amount at such time, multiplied by the percentage rate (the “Applicable Percentage”) from the table below corresponding to the date of such payoff, plus accrued and unpaid interest. In each case, the dates set forth below shall be either such date, or the next succeeding Business Day if such date is not a Business Day. 
+
+\centered 
+
+**Applicable** **Date of Payoff**    **Percentage** The date of Closing through and including the date that is 6 months following Closing       77.5   % Following the date that is 6 months following Closing through and including the date that is 9 months following Closing       87.5   % Following the date that is 9 months following Closing through and including the date that is one year following Closing       97.5   % Following the date that is one year following Closing through and including the date that is two years following Closing       102.0   % Following the date that is two years following Closing through and including the date that is three years following Closing       101.0   % Following the date that is three years following Closing and thereafter       100.0   %  
+
+^Security. This Note shall be an unsecured obligation of the Maker, and the Guarantees shall be unsecured obligations of the Guarantors. 
+
+^Covenants. (i) Each of Holdings and the Maker covenants and agrees that, until all obligations evidenced by, and provided for in, this Note are fully, finally and indefeasibly paid: 
+
+^^^^^ 
+^^Payment of Notes. The Maker shall pay or cause to be paid the principal amount and interest on this Note on the dates and in the manner provided herein. 
+
+^^Compliance Certificate. Holdings and the Maker shall each deliver to the Holder an officers’ certificate within 90 days after the end of each fiscal year stating that a review of the activities of Holdings, the Maker and their subsidiaries during the preceding fiscal year has been made under the supervision of the signing officers with a view to determining whether Holdings and the Maker have kept, observed, performed and fulfilled its obligations under this Note, and further stating that, as to each such officer signing such certificate, that to the best of his or her knowledge Holdings and the Maker have kept, observed, performed and fulfilled each and every covenant contained in this Note and are not in default in the performance or observance of any of the terms, provisions and conditions of this Note (or, if a default or Event of Default shall have occurred, describing all such defaults or Events of Default of which he or she may have knowledge and what action the Maker is taking or proposes to take with respect thereto) and that to the best of his or her knowledge no event has occurred and remains in existence by reason of which payments on account of the principal of or interest, if any, on this Note is prohibited or if such event has occurred, a description of the event and what action Holdings or the Maker is taking or proposes to take with respect thereto. For purposes of this paragraph, such compliance shall be determined without regard to any period of grace or requirement of notice provided under this Note. 
+
+^^Total Leverage Ratio. As of the end of each Fiscal Quarter, Holdings shall not have a ratio of (x) Consolidated Total Debt (as defined in the Senior Secured Credit Agreement in effect on the date of this Note) to (y) Consolidated EBITDA for the last period of four consecutive Fiscal Quarters ending on or before such date that is greater than 2:00:1.00 for any Fiscal Quarter ending after the date hereof. 
+
+^^Conduct of Business. Holdings and the Maker shall not, and shall not permit any of their subsidiaries to, engage in any material line of businesses a majority of whose revenues are not derived from businesses that are the same or reasonably similar, complementary, ancillary or related to, or a reasonable extension, development or expansion of, the businesses in which Holdings, the Maker and their subsidiaries are engaged on the date hereof except as otherwise permitted under the Senior Secured Credit Agreement. 
+
+^^Corporate Existence. Holdings and the Maker shall preserve and maintain (i) their corporate existence, and the corporate, partnership or other existence of each of their subsidiaries, in accordance with the respective organizational documents of Holdings, the Maker and their subsidiaries, and (ii) the rights (charter and statutory), licenses and franchises of Holdings, the Maker and their subsidiaries, in each case, except as otherwise permitted under the Senior Secured Credit Facility. 
+
+^^^^^ 
+^^No Senior Subordinated Debt. Each of Holdings, the Maker and the Guarantors shall not incur or suffer to exist Indebtedness that is senior in right of payment to this Note or such Person’s Guarantee, as the case may be, and subordinate in right of payment to any other Indebtedness such Person; provided that the foregoing does not prohibit subordination of Liens among holders of Senior Debt. 
+
+^^^Each of Holdings and the Maker covenants and agrees that: 
+
+^^Exchange Notes. Subject to the execution of the indenture as described in Section 7(ii)(b), the Maker shall exchange this Note for one or more notes (the “Exchange Notes”), of like principal amount (in the aggregate) to this Note, to be governed by the indenture described in Section 7(ii)(b). 
+
+^^Indenture. The Maker and Holder shall negotiate in good faith and use all commercially reasonable efforts to enter into, and Maker shall, and shall cause each of the Guarantors to, enter into, within 30 days of the Closing, an indenture (the “New Indenture”), in form and substance reasonably satisfactory to the Maker and the Holder, governing the Exchange Notes, with [[Organization 5 Name]], N.A., as trustee, or such other trustee acceptable to the Maker and the Holder, which shall contain, among other things, the (A) covenants listed on Annex A hereto (the “Listed Covenants”) (applicable to Holdings (as the “Company” for such purposes), the Maker and the Guarantors); provided that (1) the Listed Covenants shall have terms that are customary and no more restrictive than those contained in either (a) the Indenture (the “Spheris Indenture”), dated as of [[Date 3: Date]], by and among [[Organization 2 Name]], the guarantors party thereto and [[Organization 6 Name]], as trustee, governing the [[Percentage 6: Number]]% Senior Subordinated Notes due 2012 of [[Organization 2 Name]] or (b) the Senior Secured Credit Agreement and (2) the Total Leverage Ratio shall be the only financial maintenance covenant, (B) events of default and other provisions that are customary and no more restrictive than those contained in either the Spheris Indenture or the Senior Secured Credit Agreement and (C) guarantees of the Exchange Notes on the terms described herein under “Guarantee”. 
+
+The Maker and Holder agree that the covenant to act in good faith and use commercially reasonable efforts shall not require that Maker agree to any provision that is prohibited by the definition of “Permitted Junior Capital” (as defined in the Senior Secured Credit Agreement (as in effect on the date hereof)). 
+
+^Events of Default; Acceleration. If any one or more of the following events (each an “Event of Default”) shall occur for any reason whatsoever (and whether such occurrence shall be voluntary or involuntary or come about or be effected by operation of law or pursuant to or in compliance with any judgment, decree or order of any court or any order, rule or regulation of any Governmental Authority): 
+
+^^if default shall be made in the due and punctual payment of the principal of or premium on, if any, interest on or other amounts payable on account of this Note, when and 
+
+^^^^^ 
+as the same shall become due and payable, whether at maturity or by acceleration or declaration or otherwise, and, in the case of interest, such failure continues for ten (10) Business Days (it being agreed that interest shall continue to accrue on all such unpaid amounts until such payment is made); 
+
+^^if default shall be made in the performance or observance in any other covenant, agreement or provision contained in this Note and such default shall continue for 30 Business Days after written notice thereof is provided to the Maker; 
+
+^^the failure to pay at final stated maturity (giving effect to any applicable grace periods and any extensions thereof) the principal amount of any Indebtedness of Holdings, the Maker or any Significant Subsidiary of Holdings, or the acceleration of the final stated maturity of any such Indebtedness, if the aggregate principal amount of such Indebtedness, together with the principal amount of any other such Indebtedness, whether such Indebtedness now exists, or is created after the date of this Note, in default for failure to pay principal at final maturity or which has been accelerated, aggregates $[[USD Value 4: Number]] million or more at any time; 
+
+^^one or more judgments in an aggregate amount in excess of $[[USD Value 4]] million (excluding amounts adequately covered by insurance payable to Holdings or any of its subsidiaries, to the extent the relevant insurer has not denied coverage therefor) shall have been rendered against Holdings, the Maker or any of Holdings’ Significant Subsidiaries or group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Maker and the subsidiaries), would constitute a Significant Subsidiary, and such judgments remain undischarged, unpaid or unstayed for a period of 60 days after such judgment or judgments become final and non-appealable; 
+
+^^if Holdings, the Maker or any of Holdings’ Significant Subsidiaries or a group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Company and their subsidiaries) would constitute a Significant Subsidiary, shall file a petition or seek relief under or take advantage of any insolvency law; make an assignment for the benefit of its creditors; commence a proceeding for the appointment of a receiver, trustee, liquidator, custodian or conservator of itself or of the whole or substantially all of its property; file a petition or an answer to a petition under any chapter of the Bankruptcy Code or file a petition or seek relief under or take advantage of any other similar law or statute of the United States of America, any state thereof or any foreign country; or 
+
+^^if a court of competent jurisdiction shall enter an order, judgment or decree appointing or authorizing a receiver, trustee, liquidator, custodian or conservator of Holdings, the Maker or any of Holdings’ Significant Subsidiaries or a group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Maker and their subsidiaries) would constitute a Significant Subsidiary, or of the whole or substantially all of any of their property, or enter an order for relief against Holdings, the Maker or any of Holdings’ Significant Subsidiaries or a group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Maker and their subsidiaries) would constitute a Significant Subsidiary, in any case commenced under any chapter of the Bankruptcy Code or grant relief under any other similar law or statute of the 
+
+^^^^^ 
+United States of America, any state thereof or any foreign country; or if, under the provisions of any law for the relief or aid of debtors, a court of competent jurisdiction or a receiver, trustee, liquidator, custodian or conservator shall assume custody or control or take possession of Holdings, the Maker or any of Holdings’ Significant Subsidiaries or a group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Maker and their subsidiaries) would constitute a Significant Subsidiary, or of the whole or substantially all of their property; or if there is commenced against Holdings, the Maker or any of Holdings’ Significant Subsidiaries or a group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Maker and their subsidiaries) would constitute a Significant Subsidiary, any proceeding for any of the foregoing relief or if a petition is filed against Holdings, the Maker or any of Holdings’ Significant Subsidiaries or a group of Holdings’ subsidiaries that, taken together (as of the latest audited consolidated financial statements for Holdings, the Maker and their subsidiaries) would constitute a Significant Subsidiary, under any chapter of the Bankruptcy Code or under any other similar law or statute of the United States of America or any state thereof or any foreign country and such proceeding or petition remains undismissed for a period of sixty (60) days; or if Holdings, the Maker or any Significant Subsidiary consents to, approves of or acquiesces in any such proceeding or petition; 
+
+then, upon the occurrence of any Event of Default, the unpaid Principal Amount of, and accrued and unpaid interest on, this Note shall automatically become immediately due and payable, together with all other amounts payable under this Note, without presentment, demand, protest, notice of intent to accelerate, notice of acceleration or further notice of any kind, all of which are hereby expressly waived by the Maker. 
+
+^Subordination. Notwithstanding anything to the contrary set forth in this Note, this Note is subordinated to Senior Debt to the extent and in the manner set forth in this Section 9. For the avoidance of doubt, this Note is not subordinated to any instrument or Indebtedness other than Senior Debt. 
+
+^^No payment or distribution of any kind, whether direct or indirect (by set-off, recoupment or otherwise) and whether in cash, securities or other property, shall be made on account of any Subordinated Debt, or in respect of any redemption, retirement, purchase or other acquisition of any Subordinated Debt, by or for the account of Maker or any guarantor, at any time during which any Senior Debt shall be outstanding or any commitment to extend Senior Debt exists, other than (a) any increases to the principal amount owing under this Note resulting from the compounding of interest or the payment of interest in kind rather than in cash, (b) to the extent no Senior Default has occurred and is continuing, regularly scheduled payments of interest at a rate not to exceed [[Percentage 7: Number]]% per annum; provided, however, with respect to clauses (a) and (b), the total interest rate per annum on this Note does not exceed [[Percentage 8: Number]]% per annum, (c) prepayments of principal of this Note to the extent permitted pursuant to and made in accordance with clause (ii) of Section 8.6 of the Senior Secured Credit Agreement and (d) payment of principal on this Note at its stated maturity date so long as no Senior Default has occurred and is continuing or the maturity date of the Senior Debt was extended beyond the maturity date of this Note. 
+
+^^In the event of any payment or distribution of assets of the Maker of any kind or character, whether in cash, property, or securities, upon the dissolution, winding up, or total or 
+
+^^^^^ 
+partial liquidation or reorganization, readjustment, arrangement, or similar proceeding relating to such Maker or its property, whether voluntary or involuntary, or in bankruptcy, insolvency, receivership, arrangement or similar proceedings or upon an assignment for the benefit of creditors, or upon any other marshaling or composition of the assets and liabilities of such Maker (each, a “Proceeding”), or event described in 8(d) or 8(e) of this Note or otherwise: (x) all amounts owing on account of the Senior Debt shall first be Paid in Full before any payment of the Subordinated Debt is made and (y) any payment to which the Holder would be entitled (but for the provisions hereof) shall be paid or delivered by the trustee in bankruptcy, receiver, assignee for the benefit of creditors, or other liquidating agent making such payment or distribution to the Agent directly, for application to the payment of the Senior Debt until all Senior Debt shall have been Paid in Full. 
+
+^^If any proceeding referred to in clause (b) is commenced by or against the Maker, 
+
+^^^the Agent is hereby irrevocably authorized and empowered (in its own name or in the name of the Maker, the Holder or otherwise), but shall have not obligation, to demand, sue for, collect and receive every payment or distribution referred to in clause (b) and give acquaintance therefore and to file claims and proofs of claim and take such other action as it may deem necessary or advisable for the exercise or enforcement of any of the rights or interests of holders of Senior Debt; and 
+
+^^^Holder shall duly and promptly take any or all of the following actions as the Agent may request: (A) to collect the Subordinated Debt for the account of the holders of the Senior Debt and to file appropriate claims or proofs of claim in respect of the Subordinated Debt, (B) to execute and deliver to such Agent such powers of attorney, assignments, or other instruments as such Agent may request in order to enable Agent to enforce any and all claims with respect to, and any security interests and other liens securing payment of, the Subordinated Debt, or (C) to collect and receive any and all payments or distributions which may be payable or deliverable upon or with respect to the Subordinated Debt. 
+
+^^Until all the Senior Debt shall have been Paid in Full, no Holder shall: 
+
+^^^accelerate, make demand, or otherwise make due and payable prior to the original due date thereof any Note or bring suit or institute any other actions or proceeding to enforce its rights or interest in respect of the obligations of the Maker or the Guarantors; 
+
+^^^exercise any rights to set-offs and counterclaims in respect of any indebtedness, liabilities or obligations of the Maker or the Guarantors, or 
+
+^^^commence, or cause to be commenced, or join with any creditor in commencing any insolvency proceeding against the Maker or the Guarantors; or 
+
+^^^exercise any other rights or remedies against the Maker or the Guarantors; 
+
+provided, however, that the Holder may accelerate and make demand against all obligations of, or enforce or exercise any or all rights and remedies, or commence or 
+
+^^^^^ 
+petition for any such action or proceedings, against, the Maker after a period of 180 days has elapsed since the date on which the Holder has delivered to the Agent written notice of an Event of Default (the “Standstill Period”); provided, further, however, that the Holder may (A) upon any acceleration of any Senior Debt, accelerate and make demand against all obligations of any entity against whom such Senior Debt has been accelerated during the Standstill Period and (B) after the stated maturity of this Note, make demand against all obligations of, or enforce or exercise any or all rights and remedies, or commence or petition for any such action or proceedings, against, the Maker. Notwithstanding the foregoing, the Holder may file a proof of claim against the Maker or any of the Guarantors in connection with an insolvency proceeding of the Maker or any Guarantor. 
+
+^^In the event that, notwithstanding the foregoing, any payment or distribution of assets of Maker or any guarantor of any kind or character, whether direct or indirect (by set-off, recoupment or otherwise) and whether in cash, property or securities, shall be received by the Holder on account of the Subordinated Debt in violation of the provisions of this Note and before all Senior Debt is paid in full in cash, such payment or distribution shall be received and held in trust by the Holder for the benefit of the holders of Senior Debt, or their designated representative, ratably according to the respective amounts of Senior Debt held or represented by each, to the extent necessary to cause all such Senior Debt to be Paid in Full. 
+
+^^If at any time hereafter, the Holder obtains any judgment against Maker in respect of any Subordinated Debt, such judgment shall be subject to the subordination provisions of this Note and the rights of the holders of Senior Debt to the same extent as such rights apply to Subordinated Debt under this Note. 
+
+^^The provisions of this Section 9 shall continue to be effective or be reinstated, as the case may be, if at any time any payment in respect of any Senior Debt is rescinded or must otherwise be returned by any holders of Senior Debt (including, without limitation, in the event of a Proceeding), all as though such payment had not been made. Without limitation to the foregoing, in the event that any Senior Debt is avoided, disallowed or subordinated pursuant to Section 548 of the U.S. Bankruptcy Code or any applicable state fraudulent conveyance laws, whether asserted directly or under Section 544 of the U.S. Bankruptcy Code, the provisions of this Section 9 shall continue to be effective or be reinstated, as the case may be. 
+
+^^Agent is hereby authorized to demand specific performance of the subordination provisions contained herein, whether or not Maker shall have complied with any of the provisions hereof applicable to it, at any time when Holder shall have failed to comply with any of the provisions of this Agreement applicable to it. Holder hereby irrevocably waives any defense based on the adequacy of a remedy at law, which might be asserted as a bar to such remedy of specific performance. 
+
+^^^All rights and interests of the holders of Senior Debt hereunder, and all agreements and obligations of the Holder, or Maker hereunder, shall remain in full force and effect irrespective of: 
+
+^^^^^ 
+^^^any lack of validity or enforceability of the Senior Secured Credit Agreement, this Note (as defined in the Senior Secured Credit Agreement) or any other Loan Document (as defined in the Senior Secured Credit Agreement); 
+
+^^^any change in the time, manner or place of payment of, or in any other term of, all or any of the Senior Debt, or any other amendment or waiver of or any consent to any departure from the Senior Secured Credit Agreement or any other Loan Document (as defined in the Senior Secured Credit Agreement), including, without limitation, any increase in the Senior Debt resulting from the extension of additional credit to Maker or otherwise: 
+
+^^^any taking, exchange, release or non-perfection of any collateral, or any taking, release or amendment or waiver of or consent to departure from any guaranty, for all or any part of the Senior Debt; 
+
+^^^any manner of application of collateral, or proceeds thereof, to all or any of the Senior Debt, or any manner of sale or other disposition of any collateral for all or any of the Senior Debt or any other assets of any Borrower; 
+
+^^^the grant of any adjustment, indulgence or forbearance, or compromise with, Maker with respect to the Senior Debt; 
+
+^^^any change, restructuring or termination of the structure or existence of the Maker; or 
+
+^^^any other circumstance which might otherwise constitute a defense available to, or a discharge of, the Maker or any Holder. 
+
+^^Each of Maker and Holder hereby waives promptness, diligence, notice of acceptance and any other notice with respect to any of the Senior Debt and this clause 9 and any requirement that Agent or any Lender protect, secure, perfect or insure any security interest or lien on the any property subject thereto or exhaust any right to taken any action against Maker or any other person or entity or any collateral. 
+
+^^This Note and all other instruments (and all replacements thereof) evidencing the Subordinated Debt or any part thereof shall be inscribed with a legend conspicuously indicating that the payment thereof is subordinated to the payment of Senior Debt pursuant to the provisions of this Section 9. 
+
+^^This Section 9 shall constitute a continuing offer to all Persons who become holders of, or continue to hold, Senior Debt; and such holders are made obligees hereunder and any one or more of them, or their designated representative, may enforce such provisions, and all such holders shall be deemed to have relied thereon. The subordination effected by this Section 9 is a continuing subordination, and the Holder unconditionally waives notice of the incurring of any Senior Debt or any part thereof and reliance by any holders of Senior Debt upon the subordination contained herein. The Holder acknowledges and agrees that the foregoing subordination provisions are, and are intended to be, an inducement to and a consideration of the holders of Senior Debt, whether such Senior Debt was created or acquired before or after the 
+
+^^^^^ 
+incurrence or creation of any Subordinated Debt and whether such holders of Senior Debt are now known or hereafter become known, and each holder of Senior Debt shall be deemed conclusively to have relied upon such subordination provisions in acquiring and holding, or in continuing to hold, such Senior Debt and shall be entitled to enforce the provisions of this Section 9 directly as if it were a party to this Note. No right of any present or future holders of Senior Debt to enforce subordination provisions contained in this Section 9 shall at any time be prejudiced or impaired by any act or failure to act on the part of Maker or by any noncompliance by Maker with the terms of this Note. 
+
+^Notices. Any notice or communication must be given in writing or delivered in person, or by overnight courier, or by facsimile addressed as follows: 
+
+Holder:    [[Organization 2 Name]]
+[[Address 1: Address]]
+Attention:    Chief Executive Officer and
+General Counsel
+Facsimile:    [[Phone 1]]
+
+With a copy to:    Willkie Farr & Gallagher LLP
+[[Address 2: Address]]
+Attention:    [[Person 1 First Name]] [[Person 1 Last Name]], Esq.
+[[Person 2 First Name]] [[Person 2 Last Name]], Esq.
+
+Maker:    [[Organization 1 Name]]
+[[Address 3: Address]]
+Attention:    [[Person 3 First Name]] [[Person 3 Last Name]], General Counsel
+Facsimile:    [[Phone 2]]
+
+With a copy to:    Wachtell, Lipton, Rosen & Katz
+^West 52nd Street
+New York, New York 10019
+Attention:    [[Person 4 First Name]] [[Person 4 Last Name]], Esq.
+[[Person 5 First Name]] [[Person 5 Last Name]], Esq.
+[[Person 6 First Name]] [[Person 6 Last Name]], Esq.
+Facsimile:    [[Phone 3]]
+
+Any such notice or communication is effective (x) when received, if delivered in person or by facsimile or (y) on the next Business Day, if delivered by overnight courier. 
+
+^No Waiver. The Holder shall not by any act, delay, omission or otherwise be deemed to have amended, modified, supplemented, waived, extended, discharged or terminated any of its rights or remedies, except by an amendment, modification, supplement, waiver, extension, discharge or termination in writing and signed by the appropriate parties, as 
+
+^^^^^ 
+may be applicable. All rights and remedies of the Holder under the terms of this Note and applicable statutes or rules of law shall be cumulative, and may be exercised successively or concurrently. The Maker agrees that there are no defenses, equities or setoffs with respect to the obligations set forth herein. 
+
+^Compliance With Applicable Law. It is the intent of Holder and Maker in the execution and performance of this Note to remain in strict compliance with Applicable Law from time to time in effect. In furtherance thereof, the Holder and the Maker stipulate and agree that none of the terms and provisions contained in this Note shall ever be construed to create a contract to pay for the use, forbearance or detention of money with interest at a rate or in an amount in excess of the Maximum Rate or maximum amount of interest permitted or allowed to be contracted for, charged, received, taken or reserved under Applicable Law. For purposes of this Note, “interest” shall include the aggregate of all amounts which constitute or are deemed to constitute interest under Applicable Law which are contracted for, taken, charged, reserved, received or paid under this Note. The Maker shall never be required to pay unearned interest and shall never be required to pay interest at a rate or in an amount in excess of the Maximum Rate or maximum amount of interest that may be lawfully contracted for, charged, received, taken or reserved under Applicable Law, and the provisions of this paragraph shall control over all other provisions of this Note, which may be in actual or apparent conflict herewith. If the maturity of this Note is accelerated for any reason, or if under any other contingency the interest effective rate or amount of interest which would otherwise be payable under this Note would exceed the Maximum Rate or maximum amount of interest Holder is permitted or allowed by Applicable Law to charge, contract for, take, reserve or receive, or in the event Holder shall charge, contract for, take, reserve or receive monies that are deemed to constitute interest which would, in the absence of this provision, increase the effective interest rate or amount of interest payable under this Note to a rate or amount in excess of that permitted or allowed to be charged, contracted for, taken, reserved or received under Applicable Law then in effect, then the principal amount of this Note or the amount of interest which would otherwise be payable under this Note, or both, shall be reduced to the amount allowed under Applicable Law as now or hereinafter construed by the courts having jurisdiction, and all such monies so charged, contracted for, taken, reserved or received that are deemed to constitute interest in excess of the Maximum Rate or maximum amount of interest permitted by Applicable Law shall immediately be returned to or credited to the account of the Maker upon such determination. The Holder and the Maker further stipulate and agree that, without limitation of the foregoing, all calculations of the rate or amount of interest contracted for, charged, taken, reserved or received under this Note which are made for the purpose of determining whether such rate or amount exceeds the Maximum Rate, shall be made to the extent not prohibited by Applicable Law, by amortizing, prorating, allocating and spreading during the period of the full stated term of this Note, all interest hereon at any time contracted for, charged, taken, reserved or received from the Maker or otherwise by the Holder. 
+
+^General. This Note was negotiated in New York, and made by the Maker and accepted by the Holder in the State of New York, and the proceeds of this Note were disbursed from New York, which State the parties agree has a substantial relationship to the parties and to the underlying transaction embodied hereby, and in all respects (including, without limitation, matters of construction, validity and performance), this Note and the obligations arising hereunder shall be governed by, and construed in accordance with, the laws of the State of New 
+
+^^^^^ 
+York applicable to contracts made and performed in such State and any applicable law of the United States of America. 
+
+ANY LEGAL SUIT, ACTION OR PROCEEDING AGAINST THE HOLDER OR THE MAKER ARISING OUT OF OR RELATING TO THIS NOTE SHALL BE INSTITUTED IN (A) WITH RESPECT TO A SUIT, ACTION OR PROCEEDING INITIATED IN CONNECTION WITH SECTION 7(ii) OF THIS NOTE PRIOR TO THE EXECUTION OF THE INDENTURE, THE U.S. BANKRUPTCY COURT FOR THE DISTRICT OF DELAWARE AND (B) WITH RESPECT TO ALL OTHER MATTERS, ANY FEDERAL OR STATE COURT IN NEW YORK, NEW YORK. HOLDINGS AND THE MAKER, AND BY ACCEPTANCE OF THIS NOTE, THE HOLDER, HEREBY (i) IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY OBJECTION WHICH IT MAY NOW OR HEREAFTER HAVE TO THE LAYING OF VENUE OF ANY SUCH SUIT, ACTION OR PROCEEDING BROUGHT IN SUCH A COURT AND ANY CLAIM THAT ANY SUCH PROCEEDING BROUGHT IN SUCH A COURT HAS BEEN BROUGHT IN AN INCONVENIENT FORUM, AND (ii) IRREVOCABLY SUBMITS TO THE JURISDICTION OF ANY SUCH COURT IN ANY SUIT, ACTION OR PROCEEDING. 
+
+THE MAKER AND, BY ACCEPTANCE HEREOF, THE HOLDER, TO THE FULLEST EXTENT THAT EACH MAY LAWFULLY DO SO, WAIVE TRIAL BY JURY IN ANY ACTION OR PROCEEDING (INCLUDING, WITHOUT LIMITATION, ANY TORT ACTION), BROUGHT BY EITHER PARTY HERETO WITH RESPECT TO THIS NOTE. 
+
+^Subject to applicable law, Spheris may transfer this Note (or portions thereof) to any holders of Spheris claims pursuant to a plan (the “Spheris Plan”) of reorganization or liquidation under Chapter 11 of Title 11 of the United States Code. In case this Note or any portion thereof is to be transferred to any such parties, Holdings and the Maker agree to use all commercially reasonable efforts to facilitate such transfer, so long as such transfer does not require registration under the Securities Act. 
+
+\centered [Signature page follows] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Maker, Holdings and the Guarantors have caused this Note to be executed as of the day and year first above written. 
+
+\centered 
+
+**MAKER**: 
+
+[[Organization 1 Name]] 
+
+[[[[Organization 7 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]]. Entity => By: [[[[Organization 7 Name]]. Signatory First Name]] [[[[Organization 7 Name]]. Signatory Last Name]]
+Title: [[[[Organization 7 Name]]. Signatory Title]]}}
+
+
+**HOLDINGS**: 
+
+[[Organization 3 Name]] 
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+
+**GUARANTORS**: 
+
+[[Organization 8 Name]] 
+
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+
+[[Organization 9 Name]] 
+
+[[[[Organization 9 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]] Entity => By: [[[[Organization 9 Name]] Signatory First Name]] [[[[Organization 9 Name]] Signatory Last Name]]
+Title: [[[[Organization 9 Name]] Signatory Title]]}}
+
+
+MEDQUIST OF DELAWARE, INC. 
+
+[[[[Organization 10 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]]. Entity => By: [[[[Organization 10 Name]]. Signatory First Name]] [[[[Organization 10 Name]]. Signatory Last Name]]
+Title: [[[[Organization 10 Name]]. Signatory Title]]}}
+
+
+^^^^^ 
+\centered 
+
+Agreed and Accepted: 
+
+[[Organization 11 Name]] 
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+^^^^^ 
+\centered **GUARANTEE** 
+
+^Each of Guarantors hereby unconditionally and irrevocably guarantees, jointly and severally, to each Holder and its successors and assigns (a) the full and punctual payment of principal of and premium, if any, and interest, on the attached Subordinated Promissory Note of [[Organization 1 Name]] (the “Maker”), dated [[Date 1]] (the “Note”) when due, whether at maturity, by acceleration, by redemption or otherwise and (b) the full and punctual payment and performance within applicable grace periods of all other Obligations of the Maker under the Note whether for fees, expenses, indemnification or otherwise under the Note (all the foregoing being hereinafter collectively called the “Guaranteed Obligations”). Capitalized terms used but not otherwise defined in this Guarantee shall have the meanings given them in the Note. 
+
+^Each Guarantor further agrees that the Guaranteed Obligations may be extended or renewed, in whole or in part, without notice or further assent from each such Guarantor and that such Guarantor will remain bound under this Guarantee notwithstanding any extension or renewal of any Guaranteed Obligation. 
+
+^Each Guarantor waives presentation to, demand of, payment from and protest to the Maker of any of the Guaranteed Obligations and also waives notice of protest for nonpayment. Each Guarantor waives notice of any default under the Notes or the Guaranteed Obligations. The obligations of each Guarantor hereunder shall not be affected by (a) the failure of any Holder to assert any claim or demand or to enforce any right or remedy against the Maker or any other Person under the Note or any other agreement or otherwise; (b) any extension or renewal of the Note or any other agreement; (c) any rescission, waiver, amendment or modification of any of the terms or provisions of the Note or any other agreement; (d) the release of any security held by any Holder for the Guaranteed Obligations or any Guarantor; (e) the failure of any Holder to exercise any right or remedy against any other guarantor of the Guaranteed Obligations; or (f) any change in the ownership of such Guarantor. 
+
+^Each Guarantor hereby waives any right to which it may be entitled to have its obligations hereunder divided among the Guarantors, such that such Guarantor’s obligations would be less than the full amount claimed. Each Guarantor hereby waives any right to which it may be entitled to have the assets of the Maker first be used and depleted as payment of the Maker’s or such Guarantor’s obligations hereunder prior to any amounts being claimed from or paid by such Guarantor hereunder. Each Guarantor hereby waives any right to which it may be entitled to require that the Maker be sued prior to an action being initiated against such Guarantor. 
+
+^Each Guarantor further agrees that its Guarantee herein constitutes a guarantee of payment, performance and compliance when due (and not a guarantee of collection) and waives any right to require that any resort be had by any Holder to any security held for payment of the Guaranteed Obligations. 
+
+^Each Guarantee is, to the extent and in the manner set forth in Section 9 of the Note, subordinated and subject in right of payment to the prior payment in full of the principal of 
+
+^^^^^ 
+and premium, if any, and interest and other Senior Debt of the Guarantor giving such Guarantee; and each Guarantee is made subject to such provisions of the Note. 
+
+^Except as expressly set forth in Section 11 of this Guarantee, the obligations of each Guarantor hereunder shall not be subject to any reduction, limitation, impairment or termination for any reason, including any claim of waiver, release, surrender, alteration or compromise, and shall not be subject to any defense of setoff, counterclaim, recoupment or termination whatsoever or by reason of the invalidity, illegality or unenforceability of the Guaranteed Obligations or otherwise. Without limiting the generality of the foregoing, the obligations of each Guarantor herein shall not be discharged or impaired or otherwise affected by the failure of any Holder to assert any claim or demand or to enforce any remedy under the Note or any other agreement, by any waiver or modification of any thereof, by any default, failure or delay, willful or otherwise, in the performance of the obligations, or by any other act or thing or omission or delay to do any other act or thing which may or might in any manner or to any extent vary the risk of such Guarantor or would otherwise operate as a discharge of such Guarantor as a matter of law or equity. 
+
+^Each Guarantor further agrees that its Guarantee herein shall continue to be effective or be reinstated, as the case may be, if at any time payment, or any part thereof, of principal of or interest on any Guaranteed Obligation is rescinded or must otherwise be restored by any Holder upon the bankruptcy or reorganization of the Maker or otherwise. 
+
+^In furtherance of the foregoing and not in limitation of any other right which any Holder has at law or in equity against any Guarantor by virtue hereof, upon the failure of the Maker to pay the principal of or interest on any Guaranteed Obligation when and as the same shall become due, whether at maturity, by acceleration, by redemption or otherwise, or to perform or comply with any other Guaranteed Obligation, each Guarantor hereby promises to and shall, upon receipt of written demand by the Holder, forthwith pay, or cause to be paid, in cash, to the Holder an amount equal to the sum of (1) the unpaid principal amount of such Guaranteed Obligations and (2) accrued and unpaid interest on such Guaranteed Obligations (but only to the extent not prohibited by applicable law). 
+
+^Each Guarantor agrees that it shall not be entitled to any right of subrogation in relation to the Holder in respect of any Guaranteed Obligations guaranteed hereby until payment in full in cash of all Guaranteed Obligations and all obligations to which the Guaranteed Obligations are subordinated as provided in Section 9 of the Note. Each Guarantor further agrees that, as between it, on the one hand, and the Holder, on the other hand, (x) the maturity of the Guaranteed Obligations may be accelerated as provided in the Note for the purposes of such Guarantor’s Guarantee herein, notwithstanding any stay, injunction or other prohibition preventing such acceleration in respect of the Guaranteed Obligations guaranteed hereby, and (y) in the event of any declaration of acceleration of such Guaranteed Obligations as provided in Section 8 of the Note, such Guaranteed Obligations (whether or not due and payable) shall forthwith become due and payable by such Guarantor for the purposes of this Guarantee. Each Guarantor also agrees to pay any and all costs and expenses (including reasonable attorneys’ fees and expenses) incurred by any Holder in enforcing any rights under this Guarantee. 
+
+^^^^^ 
+^Any term or provision of the Note to the contrary notwithstanding, the maximum aggregate amount of the Guaranteed Obligations guaranteed hereunder by any Guarantor shall not exceed the maximum amount that can be hereby guaranteed without rendering the Note and the Guarantee, as it relates to such Guarantor, void or voidable under applicable law relating to solvency, fraudulent conveyance or fraudulent transfer, prohibited distributions to shareholders or similar laws affecting the rights of creditors generally. 
+
+^Each Guarantor that makes a payment under its Guarantee shall be entitled upon payment in full in cash of all Guaranteed Obligations to a contribution from each other Guarantor in an amount equal to such other Guarantor’s pro rata portion of such payment based on the respective net assets of all the Guarantors at the time of such payment determined in accordance with GAAP. 
+
+^^^^^ 
+\centered **Annex A** 
+
+The following are the Listed Covenants:  
+Offer to Purchase by Application of Net Proceeds Offer Amount;
+
+Payment of Notes;
+
+Maintenance of Office or Agency;
+
+Reports (to be satisfied with current public reporting of Holdings if the Notes are guaranteed by Holdings in accordance with Rule 3-10(d) of Regulation S-X);
+
+Compliance Certificate;
+
+Stay, Extension and Usury Laws;
+
+Restricted Payments;
+
+Dividend and Other Payment Restrictions Affecting Subsidiaries;
+
+Incurrence of Indebtedness (to permit Senior Debt of up to $[[USD Value 3: Number]] million);
+
+Asset Sales;
+
+Transactions with Affiliates;
+
+Liens (to permit liens to secure the Senior Debt up to $[[USD Value 3]] million);
+
+Conduct of Business;
+
+Corporate Existence;
+
+Offer to Repurchase upon Change of Control;
+
+No Senior Subordinated Debt;
+
+Future Guarantees by Domestic Subsidiaries;
+
+Limitation on Preferred Stock of Restricted Subsidiaries;
+
+Consolidated Leverage Ratio (as set forth in Section 7(i)(c) of the Note); and
+
+Merger, Consolidation or Sale of Assets.

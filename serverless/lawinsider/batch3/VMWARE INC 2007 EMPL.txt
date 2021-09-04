@@ -1,0 +1,123 @@
+AS AMENDED FEBRUARY 24, 2010 
+
+\centered [[Organization 1 Name]] 
+
+\centered 2007 EMPLOYEE STOCK PURCHASE PLAN 
+
+^Purpose of Plan 
+
+[[Organization 1 Name]] 2007 Employee Stock Purchase Plan (the “Plan”) is intended to provide a method by which eligible employees of [[Organization 1 Name]] (“VMware”) and its subsidiaries (collectively, the “Company”) may use voluntary, systematic payroll deductions or other contributions (as described in Section 5 below) to purchase VMware’s class A common stock, $.01 par value, (“stock”) and thereby acquire an interest in the future of VMware. For purposes of the Plan, a subsidiary is any corporation in which VMware owns, directly or indirectly, stock possessing [[Percentage 1: Number]]% or more of the total combined voting power of all classes of stock unless the Board of Directors of VMware (the “Board of Directors”) determines that employees of a particular subsidiary shall not be eligible. 
+
+The Plan is intended qualify as an “employee stock purchase plan” under Section 423 of the Internal Revenue Code of 1986, as amended (the “Code”). Notwithstanding the foregoing, the Board of Directors may establish comparable offerings under the Plan that are not intended to qualify under Code Section 423. Such offerings will be designated as being made under the non-423 component of this Plan. 
+
+For purposes of this Plan, if the Board of Directors so determines, the employees of VMware and/or of any designated subsidiary will be deemed to participate in a separate offering under the 423 component of the Plan, even if the dates of the applicable offering period of each such offering are identical, provided that the terms of participation are the same within each separate offering as determined under Code Section 423. 
+
+^Options to Purchase Stock 
+
+Under the Plan, no more than [[Shares 1: Number]] shares of stock are available for purchase (subject to adjustment as provided in Section 16) pursuant to the exercise of options (“options”) granted under the Plan to employees of the Company (“employees”). All of the shares of stock are available for purchase under the Plan may be used for offerings under the 423 component of the Plan. The stock to be delivered upon exercise of options under the Plan may be either shares of VMware’s authorized but unissued stock, or shares of reacquired stock, as the Board of Directors shall determine. 
+
+^Eligible Employees 
+
+Except as otherwise provided in Section 20, each employee who has completed three months or more of continuous service in the employ of the Company, or any lesser number of months established by the Committee (if required under local law), shall be eligible to participate in the Plan provided such inclusion is consistent with requirements under Code Section 423 or offered under the non-423 component.Notwithstanding any other provision herein, individuals who are not contemporaneously classified as employees of VMware or an eligible subsidiary for purposes of VMware’s or the applicable eligible subsidiary’s payroll system are not considered to be eligible employees and shall not be eligible to participate in the Plan. In the event any such individuals are reclassified as employees of VMware or an eligible subsidiary for any purpose, including, without limitation, common law or statutory employees, by any action of any third party, including, without limitation, any government agency, or as a result of any private lawsuit, action or administrative proceeding, such individuals shall, notwithstanding such reclassification, remain ineligible for participation. Notwithstanding the foregoing, the exclusive means for individuals who are not contemporaneously classified as employees of VMware or an eligible subsidiary on the applicable payroll system to become eligible to participate in this Plan is through an amendment to this Plan, duly executed by VMware, which specifically renders such individuals eligible to participate herein. 
+
+^Method of Participation 
+
+Option periods of any duration up to 27 months in length shall be determined by the Committee. In the event no period is designated by the Committee, the option periods shall have a duration of six months commencing on the first day following termination of the prior period. For example, if an option period ends on [[Date 1: Date]], the following option period would be [[Date 2: Date]] through [[Date 3: Date]] unless the Committee determines otherwise prior to commencement of such following option period. Each person who will be an eligible employee on the first day of any option period may elect to participate in the Plan by executing and delivering, at least one business day prior to such day, a payroll deduction authorization and/or other required enrollment agreement(s)/form(s) in accordance with Section 5. Such employee shall thereby become a participant (“participant”) on the first day of such option period and shall remain a participant until his or her participation is terminated as provided in the Plan. VMware may permit participants to elect or indicate whether an enrollment election, once made, will apply to subsequent option periods without being required to submit a new enrollment form. If an employee makes an enrollment election that does not apply to subsequent option periods, the employee will be deemed to have terminated his or her participation with respect to subsequent option periods unless and until the employee submits a new enrollment form in accordance with the Plan. 
+
+^Contributions 
+
+^participant may elect to make contributions under the Plan at a rate of not less than [[Percentage 2: Number]]% nor more than [[Percentage 3: Number]]% from the participant’s compensation (subject to a maximum of $[[USD Value 1: Number]] per six-month option period and pro-rated for longer or shorter periods, at the Committee’s discretion), by means of substantially equal payroll deductions over the option period; provided, however, where applicable local laws prohibit payroll deductions for the purpose of participation in the Plan, the Committee may permit all participants in a specified separate offering under the 423 component or an offering under the non-423 component of the Plan to contribute amounts to the Plan through payment by cash, check or other means set forth in the enrollment form. For option periods beginning after [[Date 4: Date]], any amount remaining in a participant’s contribution account at the end of an option period representing a fractional share that is rolled over to the contribution account for the next option period pursuant to Section 8 below (a “rollover”) may be used to purchase additional stock; provided that the maximum dollar amount per option period shall be reduced by the amount of any rollover. For purposes of the Plan, “compensation” shall mean all cash compensation paid to the participant by the Company. 
+
+^participant may only elect to change his or her contribution rate by written notice delivered to VMware (or its designated agent) at least one business day prior to the first day of the option period as to which the change is to be effective. Following delivery to VMware (or its designated agent) of any enrollment form or any election to change the withholding rate of a payroll deduction authorization, appropriate payroll deductions or changes thereto shall commence as soon as reasonably practicable. All amounts withheld in accordance with a participant’s payroll deduction authorization or contributed by other permitted means (if any) shall be credited to a contribution account for such participant. 
+
+^Grant of Options 
+
+Each person who is a participant on the first day of an option period shall, as of such day, be granted an option for such period. Such option shall be for the number of shares of stock to be determined by dividing (a) the balance in the participant’s contribution account on the last day of the option period by (b) the purchase price per share of the stock determined under Section 7, and eliminating any fractional share from the quotient. In the event that the number of shares then available under the Plan is otherwise insufficient, VMware shall reduce on a substantially proportionate basis the number of shares of stock receivable by each participant upon exercise of his or her option for an option period and shall return the balance in a participant’s contribution account to such participant. In no event shall the number of shares of stock that a participant may purchase during any one six-month option period under the Plan exceed [[Shares 2: Number]] shares of stock, and pro-rated for longer or shorter periods, at the Committee’s discretion. 
+
+^Purchase Price 
+
+The purchase price of stock issued pursuant to the exercise of an option shall be [[Percentage 4: Number]]% of the fair market value of the stock at (a) the time of grant of the option or (b) the time at which the option is deemed exercised, whichever is less. “Fair market value” shall mean the closing sales price per share of the stock on the principal securities exchange on which the stock is traded or, if there is no such sale on the relevant date, then on the last previous day on which a sale was reported; if the stock is not listed for trading on a national securities exchange, the fair market value of the stock shall be determined in good faith by the Board of Directors. 
+
+^Exercise of Options 
+
+If an employee is a participant in the Plan on the last business day of an option period, he or she shall be deemed to have exercised the option granted to him or her for that period. Upon such exercise, VMware shall apply the balance of the participant’s contribution account to the purchase of the number of whole shares of stock determined under Section 6, and as soon as practicable thereafter shall issue and deliver certificates for said shares to the participant (or have the shares deposited in a brokerage account for the benefit of the participant). No fractional shares shall be issued hereunder. Any balance accumulated in the participant’s contribution account that is not sufficient to purchase a full share shall be retained in such account for any remaining or subsequent option period, subject to early withdrawal by the participant as provided in Section 10. Any other monies remaining in the participant’s contribution account under the Plan after the date of exercise shall be returned to the participant or his or her beneficiary (as applicable) in cash without interest (unless otherwise required by local law). 
+
+Notwithstanding anything herein to the contrary, VMware shall not be obligated to deliver any shares unless and until, in the opinion of VMware’s counsel, all requirements of applicable federal, state and foreign laws and regulations (including any requirements as to legends) have been complied with, nor, if the outstanding stock is at the time listed on any securities exchange, unless and until the shares to be delivered have been listed (or authorized to be added to the list upon official notice of issuance) upon such exchange, nor unless or until all other legal matters in connection with the issuance and delivery of shares have been approved by VMware’s counsel. 
+
+^Interest 
+
+No interest will be payable on contribution accounts, except as may be required by applicable law, as determined by the Committee. 
+
+^Cancellation and Withdrawal 
+
+^participant who holds an option under the Plan may cancel all (but not less than all) of his or her option by written notice delivered to the Company, in such form as the Committee may prescribe, provided that VMware (or its designated agent) must receive such notice at least 15 days before the last day of the option period (the “Withdrawal Deadline”). Any participant who delivers such written notice shall be deemed to have canceled his or her option, terminated any applicable payroll deduction authorization with respect to the Plan and terminated his or her participation in the Plan, in each case, as of the date of such written notice. In the event that the date of the Withdrawal Deadline with respect to the applicable option period, shall be a Saturday, Sunday or day on which banks in the State of Delaware are required to close, a participant may cancel his or her option by written notice given on or prior to the last business day immediately preceding such date. Following delivery of any such notice, any balance in the participant’s contribution account will be returned to such participant as soon as reasonably practicable. Any participant who has delivered such notice may elect to participate in the Plan in any future option period in accordance with the provisions of Section 4. 
+
+^Termination of Employment 
+
+Except as otherwise provided in Section 12, upon the termination of a participant’s employment with the Company for any reason whatsoever, he or she shall cease to be a participant, and any option held by him or her under the Plan shall be deemed cancelled, the balance of his or her contribution account shall be returned to him or her, and he or she shall have no further rights under the Plan. For purposes of this Section 11, a participant’s employment will not be considered terminated in the case of a transfer to the employment of a subsidiary or to the employment of the Company. However, in the event of a transfer of employment, VMware may transfer participant’s participation to a separate offering or non-423 component offering, if advisable or necessary, considering applicable local law and Code Section 423 requirements. For purposes of the Plan, an individual’s employment relationship is still considered to be continuing intact while such individual is on sick leave, or other leave of absence approved for purposes of this Plan by the Company; provided however, that if such period of leave of absence exceeds ninety (90) days, and the individual’s right to reemployment is not guaranteed either by statute or by contract, the employment relationship shall be deemed to have terminated on the ninety-first (91st) day of such leave. 
+
+^Death of Participant 
+
+In the event a participant holds any option hereunder at the time his or her employment with the Company is terminated by his or her death, whenever occurring, then his or her legal representative, may, by a writing delivered to VMware on or before the date such option is exercisable, elect either (a) to cancel any such option and receive in cash the balance in his or her contribution account, or (b) to have the balance in his or her contribution account applied as of the last day of the option period to the exercise of his or her option pursuant to Section 8, and have the balance, if any, in such account in excess of the total purchase price of the whole shares so issued returned in cash. In the event his or her legal representative does not file a written election as provided above, any outstanding option shall be treated as if an election had been filed pursuant to subparagraph 12(a) above. 
+
+^Participant’s Rights Not Transferable, etc. 
+
+All participants granted options under a specified offering under the 423 component of the Plan shall have the same rights and privileges. Each participant’s rights and privileges under any option granted under the Plan shall be exercisable during his or her lifetime only by him or her, and shall not be sold, pledged, assigned, or otherwise transferred in any manner whatsoever except by will or the laws of descent and distribution. In the event any participant violates the terms of this Section, any options held by him or her may be terminated by VMware and, upon return to the participant of the balance of his or her contribution account, all his or her rights under the Plan shall terminate. 
+
+^Employment Rights 
+
+Neither the adoption of the Plan nor any of the provisions of the Plan shall confer upon any participant any right to continued employment with the Company or a subsidiary or affect in any way the right of the participant’s employer to terminate the employment of such participant at any time. 
+
+^Rights as a Shareholder/Use of Funds 
+
+^participant shall have the rights of a shareholder only as to stock actually acquired by him or her under the Plan. 
+
+All contributions received under the Plan may be used by the Company for any corporate purpose, and the Company shall not be obligated to segregate such funds, but may do so if required under applicable local law. 
+
+^Change in Capitalization 
+
+In the event of a stock dividend, stock split or combination of shares, recapitalization, merger in which VMware is the surviving corporation or other change in VMware’s capital stock, the number and kind of shares of stock or securities of VMware to be subject to the Plan and to options then outstanding or to be granted hereunder, the maximum number of shares or securities which may be delivered under the Plan, the option price and other relevant provisions shall be appropriately adjusted by the Board of Directors, whose determination shall be binding on all persons. In the event of a consolidation or merger in which VMware is not the surviving corporation or in the event of the sale or transfer of substantially all VMware’s assets (other than by the grant of a mortgage or security interest), all outstanding options shall thereupon terminate, provided that prior to the effective date of any such merger, consolidation or sale of assets, the Board of Directors shall either (a) return the balance in all contribution accounts and cancel all outstanding options, or (b) accelerate the exercise date provided for in Section 8, or (c) if there is a surviving or acquiring corporation, arrange to have that corporation or an affiliate of that corporation grant to the participants replacement options having equivalent terms and conditions as determined by the Board of Directors. 
+
+In the event of a corporate restructuring, VMware may transfer or terminate participant’s participation to a separate offering or non-423 component offering, if advisable or necessary, considering applicable local law and Code Section 423 requirements. 
+
+^Administration of Plan 
+
+The Plan will be administered by the Board of Directors. The Board of Directors will have authority, not inconsistent with the express provisions of the Plan, to take all action necessary or appropriate hereunder, to interpret its provisions, and to decide all questions which may arise in connection therewith. Except with respect to officers of VMware who are subject to the reporting requirements of Section 16 of the Securities Act of 1934, management of VMware is also authorized to resolve participant disputes under the Plan, consistent with the terms of the Plan and any agreements thereunder and any interpretations or guidance issued under the Plan by the Board of Directors or the Committee. 
+
+The Board may, in its discretion, delegate its powers with respect to the Plan to an Employee Benefit Plan Committee or any other committee at VMware (the “Committee”), in which event all references to the Board of Directors hereunder, including without limitation the references in Section 17, shall be deemed to refer to the Committee. A majority of the members of any such Committee shall constitute a quorum, and all determinations of the Committee shall be made by a majority of its members. Any determination of the Committee under the Plan may be made without notice or meeting of the Committee by a writing signed by all of the Committee members. 
+
+Determinations of the Board of Directors, the Committee or where appropriate, management of the Company, shall be conclusive and shall bind all parties. 
+
+^Amendment and Termination of Plan 
+
+The Board of Directors may at any time or times amend the Plan or amend any outstanding option or options for the purpose of satisfying the requirements of any changes in applicable laws or regulations or for any other purpose which may at the time be permitted by law, provided that (except to the extent explicitly required or permitted herein) no such amendment will, without the approval of the shareholders of the Company, (a) increase the maximum number of shares available under the Plan, (b) reduce the option price of outstanding options or reduce the price at which options may be granted, (c) change the conditions for eligibility under the Plan, or (d) amend the provisions of this Section 18 of the Plan, and no such amendment will adversely affect the rights of any participant (without his or her consent) under any option theretofore granted. 
+
+The Plan may be terminated at any time by the Board of Directors, but no such termination shall adversely affect the rights and privileges of holders of the outstanding options. 
+
+^Approval of Shareholders 
+
+The Plan shall be subject to the approval of the shareholders of the Company, which approval shall be secured within twelve months after the date the Plan is adopted by the Board of Directors. Notwithstanding any other provisions of the Plan, no option shall be exercised prior to the date of such approval. 
+
+^Limitations 
+
+Notwithstanding any other provision of the Plan: 
+
+^^An employee shall not be eligible to receive an option pursuant to the Plan if, immediately after the grant of such option to him or her, he or she would (in accordance with the provisions of Sections 423 and 424(d) of the Code own or be deemed to own stock possessing [[Percentage 5: Number]]% or more of the total combined voting power or value of all classes of stock of the employer corporation or of its parent or subsidiary corporation, as defined in Section 424 of the Code. 
+
+^^No employee shall be granted an option under this Plan that would permit his or her rights to purchase shares of stock under all employee stock purchase plans (as defined in Section 423 of the Code) of VMware or any subsidiary or parent corporation to accrue at a rate which exceeds $[[USD Value 2: Number]] in fair market value of such stock (determined at the time the option is granted) for each calendar year during which any such option granted to such employee is outstanding at any time, as provided in Section 423 of the Code. 
+
+^^No employee shall be granted an option under this Plan that would permit him or her to withhold more than $[[USD Value 1]] in each six-month option period, and pro-rated for longer or shorter periods, at the Committee’s discretion, or $[[USD Value 3: Number]] per calendar year, less the amount of any rollover. 
+
+^^No employee whose customary employment is 20 hours or less per week shall be eligible to participate in the Plan, unless otherwise required under applicable law. If participation in the Plan is offered to employees whose customary employment is 20 hours or less, the offering will be made under a separate offering under the 423 component or under the non-423 component of the Plan. 
+
+^^No independent contractor shall be eligible to participate in the Plan. 
+
+^Jurisdiction and Governing Law. 
+
+The Company and each participant in the Plan submit to the exclusive jurisdiction and venue of the U.S. federal or state courts of Delaware to resolve issues that may arise out of or relate to the Plan or the same subject matter. The Plan shall be governed by the laws of Delaware, excluding its conflicts or choice of law rules or principles that might otherwise refer construction or interpretation of this Plan to the substantive law of another jurisdiction. 
+
+^: Compliance with Foreign Laws and Regulations. 
+
+Notwithstanding anything to the contrary herein, the Board, in order to conform with provisions of local laws and regulations in foreign countries in which the Company or its subsidiaries operate, shall have sole discretion to (i) adversely modify the terms and conditions of options granted to participants employed outside the United States to the extent consistent with the U.S. Treasury regulations under Code Section 423; (ii) establish comparable offerings that are not intended to qualify under Code 
+
+423 with the shares to be taken from the allotment available under this Plan and with modified enrollment or exercise procedures and/or establish such other modifications as may be necessary or advisable under the circumstances presented by local laws and regulations; and (iii) take any action which it deems advisable to obtain, comply with or otherwise reflect any necessary governmental regulatory procedures, exemptions or approvals with respect to the Plan or any sub-plan established hereunder. 

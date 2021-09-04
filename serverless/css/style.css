@@ -1,0 +1,407 @@
+body {
+    /*font-size:0.9em;*/
+    line-height:130%;
+    font-family: 'Open Sans', sans-serif;
+	background-image: url('../img/bg.png'); 
+}
+
+html, body { height: 100%; width: 100%; margin: 0; padding:0; }
+
+/*=================
+   scrollbar
+*=================*/
+
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #888; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #666; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+/*=================
+   atoms
+*=================*/
+
+h1, h2, h3, h4, p{
+	color: white;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: normal;
+}
+
+h2{
+  font-size: 36px;
+  font-weight: normal;
+}
+
+h3{
+  font-size: 24px;
+  font-weight: normal;
+}
+
+h4{
+  font-size: 14px;
+  font-weight: normal;
+}
+
+p{
+  font-size: 12px;
+}
+
+input {
+    background-color: transparent;
+    border: 2px solid;
+    color: #fff;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  border-radius: 5px;
+
+}
+
+input[type=submit] {
+	background-color: transparent;
+    border: 2px solid;
+    color: #fff;
+    padding:5px 15px; 
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+
+button{
+  width: 30%;
+  height: 20%;
+  margin: 3% 2% 2% 0%;
+  text-align: center;
+  background: transparent;
+  border: 2px solid white;
+  cursor:pointer;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+select {
+  width: 100px;
+}
+
+/*===========================
+
+   universal main divs
+
+*============================*/
+
+#container{
+  height: 100%;
+  width: 100%;
+  /*overflow-x: hidden;*/
+  overflow: hidden;
+}
+
+#header {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 12%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#main{
+  display: flex;
+  width: 100%;
+  height: 88%;
+}
+
+#opener{
+  width: 2%;
+  background-color: #000;
+  height: 100%;
+  cursor: pointer;
+  /*border-left: 0.3px solid white;
+  border-right: 0.3px solid white;*/
+  display: flex;
+  justify-content: center;
+}
+
+#opener img{
+  width: 100%;
+}
+
+#other{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+/*===========================
+
+   header stuff
+
+*============================*/
+
+#icon {
+  height: 75%;
+  width: 10%;
+  padding: 1%;
+}
+
+#links{
+	width: 10%;
+	display: flex;
+	padding: 1%;
+}
+
+#links img{
+	width: 100%;
+	padding: 1%;
+}
+
+/*=================
+   form stuff
+*=================*/
+
+.overlay {
+  width: 0;
+  height: 100%;
+  position: fixed;
+  transition: 0.5s;
+  display: flex;
+  z-index: 1;
+  overflow-x: hidden;
+  transition: 0.5s;
+  display: flex;
+
+}
+
+.overlay-content {
+  width: 98%;
+  overflow-y: scroll;
+  /*background-image: url('../img/bg.png');*/
+  position: relative;
+  align-content: center;
+  flex-direction: column;
+  display: flex;
+  padding: 5% 15% 5% 15%;
+  color: white;
+ }
+
+
+#closer{
+	width: 2%;
+	height: 100%;
+	right:0;
+	background-color: transparent;
+	cursor: pointer;
+	display: none;
+}
+
+#closer img{
+	width: 100%;
+}
+
+.user-elem {
+  margin: 2% 0% 2% 0%;
+  width: 100%;
+}
+
+#dropdowns{
+	font-size: 24px;
+}
+
+#dropdowns input{
+	width: 10%;
+	padding: 8px 0px 8px 20px;
+	margin: 0px 3px 0px 3px;
+	font-size: 30px;
+	border-radius: 5px;
+}
+
+#dropdowns .user-elem{
+	margin: 5% 0% 3% 0%;
+}
+
+/*=================
+   recording stuff
+*=================*/
+
+.recording-container{
+	display: flex;
+	justify-content: space-between;
+}
+
+.recording-elem{
+	width: 48%;
+}
+
+.recording-content input:hover[type="submit"]{
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.recording-content{
+    width: 100%;
+    display: flex;
+    padding-top: 3%;
+}
+.recording-content img{
+    width: 25%;
+}
+
+.recording-circle {
+  height: 15px;
+  width: 20px;
+  border-radius: 15px;
+  background: rgba(255,255,255,0.6);
+  /*float: right;*/
+  /*margin: 40px 0px 0px 20px;*/
+}
+
+.record-buttons{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.big-button{
+  width: 100%;
+  height: 60%;
+  font-size:20px;
+  font-style: 'Open Sans';
+  letter-spacing: 1px;
+  background-color: rgba(255,255,255, 0.5);
+}
+
+.small-record-buttons{
+    display: flex;
+    height: 40%;
+    padding-top: 1%;
+}
+
+.small-button{
+    width: 100%;
+    height: 100%; 
+  	font-style: 'Open Sans';
+  	letter-spacing: 1px;
+  	margin-top: 1%;
+}
+
+.small-left-button{
+	margin-right: 0.5%;
+}
+
+.small-right-button{
+	margin-left: 0.5%;
+}
+
+
+/*=================
+   start button
+*=================*/
+
+#start-button-container{
+	height: 50%;
+	padding: 1% 0% 1% 0%;
+	margin-bottom: 5%;
+	/*margin-bottom: 60px;*/
+}
+
+#start-button-container h3{
+	padding: 0px;
+}
+
+#start_button{
+	padding: 15px;
+	font-size: 20px;
+	width: 100%;
+}
+
+
+/*=================
+       tooltip
+ *=================*/
+
+  /* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline;
+}
+
+.tooltip img{
+  width: 2%;
+  margin-left: 3px;
+  margin-top: 2px;
+}
+
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 400px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 6px;
+  font-size: 18px;
+  line-height: 1.5;
+
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  top: 100%;
+  margin-left: -200px;  /*Use half of the width to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  z-index:100000; 
+}
+
+/*===========================
+
+   index specific stuff
+
+*============================*/
+
+#maintext{
+  padding: 3% 3%;
+  text-align: center;
+  width: 100%;
+  opacity: 85%;
+  overflow-y: scroll;
+}
+
+#below{
+	height: 50%;
+	padding: 5%;
+}
+
+
+#below button{
+	height: 25%;
+	margin-top: 0%;
+}

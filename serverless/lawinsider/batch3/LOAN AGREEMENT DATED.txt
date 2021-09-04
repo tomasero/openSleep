@@ -1,0 +1,52 @@
+\centered 
+
+\centered LOAN AGREEMENT DATED MAY 15, 2010
+
+\centered [[Organization 1 Name]]
+
+\centered [[Organization 1 Name]]
+
+\centered Scotia Plaza bldg
+
+\centered 51rst & [[Organization 2 Name]].
+
+\centered Panama City, Panama
+
+LOAN AGREEMENT  
+LOAN AGREEMENT dated the [[Date 1: Date]],
+
+BETWEEN:  
+[[Organization 1 Name]], a corporation organized under the laws of Panama, with registered address on 51, Frederico Boyd St, Panama (hereinafter, the "LENDER")
+
+AND:  
+[[Organization 3 Name]], a Nevada domestic corporation, 6901 Los Trechos, Albuquerque, NM (hereinafter, the "COMPANY")
+
+NOW THEREFORE THIS LOAN AGREEMENT ("AGREEMENT")WITNESSES that the parties hereto agree as follows:
+
+^LOAN COMMITMENT. The Lender shall make available to the Company in accordance with, and subject to the terms and conditions of, this Agreement, until [[Date 2: Date]] (the "COMPLETION DATE"), up to $[[USD Value 1: Number]] by way of Advances. The Completion Date may be extended for an additional term of up to twelve months at the option of the Company or the Lender upon written notice on or before the Completion Date.
+
+^THE ADVANCES. On the terms and conditions set forth herein the Lender, from time to time, on any Banking Day, prior to the Completion Date, agrees to make advances to the Company ("ADVANCES"). Each Advance shall be in an aggregate amount of not more than $[[USD Value 2: Number]]
+
+^PROCEDURE TO REQUEST ADVANCES. Each Advance shall be made on or before five Banking Days following notice from the Company. Each such notice shall be given by a notice to the Lender.
+
+^USE OF PROCEEDS. The Company shall use all Advances to fund operating expenses, acquisitions, working capital and general corporate activities.
+
+^OPTION. The Company may, at its discretion, exercise the option to borrow up to a further $[[USD Value 3: Number]] when the total Advances from this agreement have been received by the Company.
+
+^TERMS. The Advances will be subject to a [[Percentage 1: Number]]% annual interest rate. The Company will also issue the Lender 50,000 restricted 
+
+common shares of the Company per $[[USD Value 4: Number]] advanced. Amounts loaned under this Agreement shall be repaid within 36 months.
+
+^COUNTERPARTS. This Agreement may be executed in one or more counterparts and/or by facsimile, each of which when executed by any party hereto will be deemed to be an original and such counterparts will together constitute one and the same instrument.
+
+^TERMINATION. Either party may terminate this agreement with 30 days written notice.
+
+IN WITNESS WHEREOF the parties hereto have executed this Agreement as of the day first above written.
+
+**[[Organization 3 Name]]**  
+Per: **/s/ [[Person 1 First Name]] [[Person 1 Last Name]]**  
+Authorized Signatory    
+**[[Organization 1 Name]] Corp**.  
+Per: **/s/ [[Person 2 First Name]] [[Person 2 Last Name]]** _____________________________ 
+
+Authorized Signatory Witness

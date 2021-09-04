@@ -1,0 +1,72 @@
+\centered **FIRST AMENDMENT TO** 
+
+\centered **[[Organization 1 Name]]**
+
+\centered **LONG-TERM STOCK INCENTIVE PLAN**
+
+THIS FIRST AMENDMENT TO [[Organization 1 Name]]-TERM STOCK INCENTIVE PLAN (this “First Amendment”), made as of [[Date 1: Date]], is made and adopted by [[Organization 1 Name]], a Utah corporation (the “Company”). Capitalized terms used but not otherwise defined herein shall have the respective meanings ascribed to them in the Plan (as defined below).
+
+WHEREAS, the Company maintains the [[Organization 1 Name]]-Term Stock Incentive Plan, as amended and restated effective [[Date 2: Date]] (the “Plan”);
+
+WHEREAS, pursuant to Section 13(h) of the Plan, the Plan may be amended from time to time by the Company’s Board of Directors; and
+
+WHEREAS, the Company desires to amend the Plan as set forth herein. 
+
+NOW, THEREFORE BE IT RESOLVED, that the Plan be amended as follows:
+
+^The following definitions are hereby added in alphabetical order to Section 2 of the Plan:
+
+“‘Conversion Award’ shall have the meaning specified in Section 15 hereof.”
+
+“‘QEP’ shall mean [[Organization 2 Name]], a Delaware corporation.”
+
+“‘Service’ shall include any Participant’s service as an employee, nonemployee director, or consultant of an Employer and, with respect to the Conversion Awards, ‘Service’ shall also include any Participant’s service as an employee, nonemployee director, or consultant of QEP or any business entity to the extent that QEP would be deemed an ‘eligible issuer of service recipient stock’ to the service providers of such entity, as determined pursuant to Treasury Regulation Section 1.409A-1(b)(5)(iii)(E).” 
+
+^The definition of “Termination of Service” in Section 2 of the Plan is hereby amended and restated as follows:
+
+“‘Termination of Service’ shall mean the date on which a Participant’s Service shall cease for any reason.”
+
+^The first sentence of the second paragraph of Section 5 is hereby amended and restated as follows:
+
+“For purposes of determining the number of shares of Common Stock that remain available for issuance under this Plan, the number of shares corresponding to Awards (including Conversion Awards) under the Plan that are forfeited or cancelled or otherwise expire for any reason without having been exercised or settled or that is settled through issuance of consideration other than shares (including, without limitation, cash) shall be added back to the Plan and will again be available for the grant of Awards.”
+
+^The following sentence is hereby added to the end of Section 14 of the Plan:
+
+“For the avoidance of doubt, the consummation of the spin-off of QEP by the Company pursuant to the transactions contemplated by the Separation Agreement (as defined in Section 15) shall not be deemed to be a Change of Control of the Company under this Section 14.”
+
+^The following new Section 15 is hereby immediately following Section 14 of the Plan:
+
+“Section 15.
+
+Conversion Awards
+
+^^As a result of the spin-off transaction contemplated by that certain Separation and Distribution Agreement, by and between the Company and QEP, dated as of [[Date 3: Date]] (the ‘Separation Agreement’), (i) certain Awards may be adjusted under the Plan in connection with the equitable adjustment set forth therein, and (ii) shares of Restricted Stock may be granted under the Plan as a result of the conversion of certain outstanding cash awards under the [[Organization 1 Name]]-Term Cash Incentive Plan (the ‘Questar LTCIP’) (collectively, the ‘Conversion Awards’). Notwithstanding any other provision of the Plan to the contrary and subject to the terms of that certain Employee Matters Agreement, by and between the Company and QEP, dated as of [[Date 3]], (i) the number of shares to be subject to each Conversion Award shall be determined by the Committee, and (ii) the other terms and co nditions of each Conversion Award, including option exercise price, shall be determined by the Committee, provided that such determinations are made prior to the ‘Distribution’ (as defined in the Separation Agreement). 
+
+^^With respect to any Conversion Award (other than a Conversion Award consisting of Restricted Stock issued in exchange for a cash award under the Questar LTCIP) held by an employee, consultant, or non-employee director in the employ or service of QEP (a ‘QEP Holder’), the Committee shall, upon written notification from QEP, provide that any such Conversion Award shall vest upon the terms and conditions set forth in such notification, to the extent permitted by the Plan. 
+
+^^If a Change in Control of QEP (as defined below) occurs and a QEP Holder incurs a Qualifying Termination of Employment (as defined below) from QEP within 2 years following the date of such Change in Control of QEP, all Conversion Awards (other than a Conversion Award consisting of Restricted Stock issued in exchange for a cash award under the Questar LTCIP) held by a QEP Holder shall vest immediately. For the purposes of this Section 15(c):
+
+^^^^‘Change in Control of QEP’ shall be deemed to have occurred upon a ‘Change in Control of the Company’ as such term is defined in the [[Organization 2 Name]] 2010 Long-Term Stock Incentive Plan, as may be amended from time to time.
+
+^^^^‘Qualifying Termination’ shall be deemed to have occurred if a QEP Holder’s employment with QEP is terminated by QEP without ‘Cause’ or by the QEP Holder for ‘Good Reason’ (as such terms are defined in the [[Organization 2 Name]] Executive Severance Compensation Plan, as may be amended from time to time, whether or not such QEP Holder is a participant in such plan. 
+
+^^QEP shall be an intended third party beneficiary of, and shall have standing to enforce the terms of, this Section 15 as if it were a party hereto.”
+
+^This First Amendment shall be and is hereby incorporated in and forms a part of the Plan.
+
+^All other terms and provisions of the Plan shall remain unchanged except as specifically modified herein.
+
+\centered [*Signature Page Follows*]
+
+^hereby certify that the foregoing First Amendment to the [[Organization 1 Name]]-Term Stock Incentive Plan was duly adopted by the Board of Directors of [[Organization 1 Name]] as of [[Date 1]].
+
+Executed on this _____ day of _________, 2010.
+
+[[Executed on this  day of  2010. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Executed on this  day of  2010. Entity => By: [[Executed on this  day of  2010. Signatory First Name]] [[Executed on this  day of  2010. Signatory Last Name]]
+Title: [[Executed on this  day of  2010. Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+Chairman, President and Chief Executive Officer

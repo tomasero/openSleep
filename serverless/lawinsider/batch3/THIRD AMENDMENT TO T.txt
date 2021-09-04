@@ -1,0 +1,180 @@
+\centered **Confidential Treatment Requested** 
+
+\centered **THIRD AMENDMENT TO** 
+
+\centered **TECHNOLOGY AND SERVICES AGREEMENT** 
+
+This THIRD AMENDMENT TO TECHNOLOGY AND SERVICES AGREEMENT **(“Third Amendment”)** is made by and between [[Organization 1 Name]] (“**FMR**”) and [[Organization 2 Name]] **(“[[Organization 2 Name]]”)** as of [[Date 1: Date]] (the **“Third Amendment Effective Date”)**.Reference is made to a certain Technology and Services Agreement dated as of [[Date 2: Date]] by and between FMR and [[Organization 2 Name]] (the **“Technology Services Agreement”),** as amended by the First Amendment to Technology Services Agreement dated as of [[Date 3: Date]] (the **“First Amendment”)** and the Second Amendment to Technology Services Agreement dated as of [[Date 4: Date]] **(the “Second Amendment”,** together with the First Amendment and the Technology Services Agreement, the **“Agreement”).** Capitalized terms not otherwise defined in this Third Amendment shall have the meanings ascribed to such terms in the Agreement. 
+
+WHEREAS, the Parties wish to amend Exhibit F to the Agreement in its entirety in order to further refine the payment schedule and payment allocation schedule set forth therein. 
+
+NOW, THEREFORE, in consideration of the premises and the mutual promises and covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound, agree as follows: 
+
+^Payment Allocation Schedule.
+
+Exhibit F to the Agreement is hereby deleted in its entirety and replaced with the new Exhibit F attached to this Third Amendment, which provides for differential treatment of Platform Services Fees as between IWS and NFS. 
+
+^Miscellaneous.
+
+This Third Amendment may be executed in two or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same agreement. Except as specifically amended by this Third Amendment, the Agreement shall continue unchanged and in full force and effect according to its terms. This Third Amendment may not be altered, amended, or modified except by a written instrument signed by an authorized representative of each Party. 
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Third Amendment to be duly executed and effective as of the Third Amendment Effective Date. 
+
+**[[Organization 2 Name]]**
+
+[[[[Organization 2 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]]. Entity => By: [[[[Organization 2 Name]]. Signatory First Name]] [[[[Organization 2 Name]]. Signatory Last Name]]
+Title: [[[[Organization 2 Name]]. Signatory Title]]}}
+
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+\centered **Confidential Treatment Requested** 
+
+\centered **EXHIBIT F** 
+
+**EXHIBIT F: PAYMENT ALLOCATION SCHEDULE** 
+
+^**Payment Allocation Schedule**: Shown below is the payment schedule with respect to NFS (Table F-1(a)) and IWS (Table F-1(b)) and payment allocation schedule (Table F-2) for [[Organization 3 Name]] Fees, by investment product type. 
+
+^**Component Services**: Fidelity shall be entitled to receive any of the component services so long as [[Organization 2 Name]] continues to receive the fees described under the corresponding column of the payment allocation schedule in Table F-2. 
+
+^**Technology Services-Software Updates. Maintenance and Support**: Fidelity shall be entitled to receive Technology services so long as [[Organization 2 Name]] continues to receive Technology services fees. The Technology services shall differ as described in Exhibit A depending on whether [[Organization 2 Name]] provides Hosting, or Fidelity provides Hosting. For the first 48 months following the Effective Date, [[Organization 2 Name]] shall provide Hosting, and the Technology fees will be those shown in Table F-2 which differ depending on the corresponding Investment Product being serviced. If after such 48 month period, Fidelity takes over Hosting services, the Technology service fee shall be reduced to a flat [*** ] on all assets, but subject to a minimum of [*** ] per year and Maximum of [*** ] per year, which minimum and maximum will be adjusted annually by the US Bureau of Labor and Statistics CPI-U (urban cities all services) starting as a reference point of [[Date 5: Date]]. An historic version of this CPI-U index can be found at: ftp://ftp.bls.gov/pub/special.requests/cpi/cpiai.txt. 
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Table F-1: [[Organization 2 Name]] ANNUAL PLATFORM SERVICES FEE PAYMENT SCHEDULE BY INVESTMENT PRODUCT TYPE** 
+
+^^NFS Fee Payment Schedule 
+
+**Investment Product Type**      \centered **Description**      \centered **Platform services fee in bps (1)**      \centered **Minimum services fee per account in $ per year (2)**
+Equity SMA      An SMA is a separately managed brokerage account, held in the clients’ name. It is reconciled and traded directly using Security APL on an individual account basis. Program includes proposal generation, due diligence, billing, and performance reporting.      [*** ]      \centered [*** ]
+
+Fixed Income SMA      An SMA with over [[Percentage 1: Number]]% fixed income. Program includes proposal generation, due diligence, billing, and performance reporting.      [*** ]      \centered [*** ]
+
+Equity SMA “light”      An Equity SMA with no performance reporting or due diligence      [*** ]      \centered [*** ]
+
+Fixed Income SMA “light”      An SMA with over [[Percentage 1]]% fixed income, no performance reporting or due diligence      [*** ]      \centered [*** ]
+
+Model based SMA      An SMA where [[Organization 2 Name]] performs trading and model administration      [*** ]      \centered [*** ]
+
+Model based MMA/UMA      An SMA with multiple investment strategies in a single account, where [[Organization 2 Name]] performs trading and model administration      [*** ]      \centered [*** ]
+
+Model based Equity SMA “light”      An SMA with no performance reporting or due diligence, where [[Organization 2 Name]] performs trading and model administration      [*** ]      \centered [*** ]
+
+Model based Fixed Income SMA “light”      An SMA with over [[Percentage 1]]% fixed income, no performance reporting or due diligence, where [[Organization 2 Name]] performs trading and model administration      [*** ]      \centered [*** ]
+
+Mutual Fund/ETF/Home Office Wrap (MFW)      A model based portfolio that contains only mutual funds or ETFs, traded and administered by [[Organization 2 Name]]. Program includes proposal generation, billing, and performance reporting. This program includes mutual fund wrap strategists, and home offices who create their own models.      [*** ]      \centered [*** ]
+
+Rep as PM      Rep utilizes tools to create, rebalance, and trade portfolios. Includes proposal generator, billing and performance reporting. Rep is responsible for trading.      [*** ]      \centered [*** ]
+
+Rep as PM (Seat License)      Rep utilizes tools to create, rebalance, and trade portfolios. Includes proposal generator. Excludes billing and performance reporting. Rep is responsible for trading.      [*** ]      \centered [*** ]
+
+Home Office Traded Models      This is a new [[Organization 2 Name]] product that is currently under development. Home offices will utilize toots to create, rebalance, and trade portfolios. Includes proposal generator, billing and performance reporting.      [*** ]      \centered [*** ]
+
+Performance reporting and full billing administration (3)      Includes quarterly performance reporting and on-line reporting. Accounts are fully reconciled daily for both performance and trading. Asset based pricing.      [*** ]      \centered [*** ]
+
+Performance reporting and full billing administration (3)      Includes quarterly performance reporting and on-line reporting. Accounts are fully reconciled daily for both performance and trading. Fixed dollar per account pricing, minimum of 1000 accounts.      [*** ]      \centered [*** ]
+
+Performance reporting only- fee calculations but no administration (3)      Includes quarterly performance reporting and on-line reporting. Accounts are fully reconciled daily for both performance and trading. 50 account minimum, or [**] in platform assets per branded RIA entity.  First 500 accounts  Next 500 accounts  Above 1000 accounts  Enterprise license (> 10,000 accounts)      [*** ]      \centered [*** ]
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+^^IWS Fee Payment Schedule 
+
+**Investment Product Type**      \centered **Description**      **Platform services fee in bps (1)**      **Minimum services fee per account in $ per year (2)**
+Equity SMA      An SMA is a separately managed brokerage account, held in the clients’ name. It is reconciled and traded directly using Security APL on an individual account basis. Program includes proposal generation, due diligence, billing, and performance reporting.      [*** ]      [*** ]
+
+Fixed Income SMA      An SMA with over [[Percentage 1]]% fixed income. Program includes proposal generation, due diligence, billing, and performance reporting.      [*** ]      [*** ]
+
+Equity SMA “light”      An Equity SMA with no performance reporting or due diligence      [*** ]      [*** ]
+
+Fixed Income SMA “light”      An SMA with over [[Percentage 1]]% fixed income, no performance reporting or due diligence      [*** ]      [*** ]
+
+Model based SMA      An SMA where [[Organization 2 Name]] performs trading and model administration      [*** ]
+
+Model based MMA/UMA      An SMA with multiple investment strategies in a single account, where [[Organization 2 Name]] performs trading and model administration      [*** ]      [*** ]
+
+Model based Equity SMA “light”      An SMA with no performance reporting or due diligence, where [[Organization 2 Name]] performs trading and model administration      [*** ]      [*** ]
+
+Model based Fixed Income SMA “light”      An SMA with over [[Percentage 1]]% fixed income, no performance reporting or due diligence, where [[Organization 2 Name]] performs trading and model administration      [*** ]      [*** ]
+
+Mutual Fund/ETF/Home Office Wrap (MFW)      A model based portfolio that contains only mutual funds or ETFs, traded and administered by [[Organization 2 Name]]. Program includes proposal generation, billing, and performance reporting. This program includes mutual fund wrap strategists, and home offices who create their own models.      [*** ]      [*** ]
+
+Rep as PM      Rep utilizes tools to create, rebalance, and trade portfolios. Includes proposal generator, billing, and performance reporting. Rep is responsible for trading.      [*** ]      [*** ]
+
+Rep as PM (Seat License)      Rep utilizes tools to create, rebalance, and trade portfolios. Includes proposal generator. Excludes billing and performance reporting. Rep is responsible for trading.      [*** ]      [*** ]
+
+Home Office Traded Models      This is a new [[Organization 2 Name]] product that is currently under development. Home offices will utilize tools to create, rebalance and trade portfolios. Includes proposal generator, billing and performance reporting.      [*** ]      [*** ]
+
+Performance reporting and full billing administration (3)      Includes quarterly performance reporting and on-line reporting. Accounts are fully reconciled daily for both performance and trading. Asset based pricing.      [*** ]      [*** ]
+
+Performance reporting and full billing administration (3)      Includes quarterly performance reporting and on-line reporting. Accounts are fully reconciled daily for both performance and trading. Fixed dollar per account pricing, minimum of 1000 accounts.      [*** ]      [*** ]
+
+Performance reporting only-fee calculations but no administration (3)      Includes quarterly performance reporting and on-line reporting. Accounts are fully reconciled daily for both performance and trading. 50 account minimum, or [***] in platform assets per branded RIA entity.            [*** ]
+First 500 accounts      [*** ]
+Next 500 accounts      [*** ]
+Above 1000 accounts      [*** ]
+Enterprise license (> 10,000 accounts)      [*** ]
+
+[[Organization 2 Name]] understands that the “Breakaway Broker” is a key growth segment of the IWS Managed Accounts business and as such [[Organization 2 Name]] is willing to offer the IWS Managed Accounts business [[Organization 3 Name]] with all “minimum service fees per account” waived (except for the [[Organization 2 Name]]”s Performance Reporting and Fee billing administration and [[Organization 2 Name]]’s Rep as PM products) as of the Effective Date until [[Date 6: Date]]. 
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+NOTES to TABLE F-l(a) and (b): 
+
+^Where indicated, Fidelity shall also pay [[Organization 2 Name]] the actual Security APL charges paid by [[Organization 2 Name]] for the associated accounts.
+
+^Annual full service platform fees (all fee components from Table F-2 purchased) on a per account basis will be the greater of either the bps charge or the corresponding “per account $ charge” by Investment Product. Platform fee minimums will be adjusted pro-rata when different categories of platform services are provided. [[Organization 2 Name]] reserves the right to refuse accounts that fall below the minimums if it feels these cannot be properly administered, typically due to trade minimums.
+
+^All performance reports are trade ready and fully reconciled daily for both performance and trading. Includes quarterly performance report (pdf) and daily on-line reporting (html). Billing administration includes billing computation, collection from the custodian, and disbursement to the broker/dealer home office or RIA. Conversion of performance or cost basis not included in this price. [[Organization 2 Name]] reserves the right to charge additional fees for large numbers of securities, excessive trading frequency, or holding large numbers of certain types of securities that require special daily pricing services arrangements (i.e. municipal or foreign bonds, collateralized debt obligations, foreign equities, etc.). Billing at these rates will be done by brokerage account range/office code, and will not on an individual account basis.
+
+^Fidelity and [[Organization 2 Name]] recognize that certain advisors will wish to avail themselves of a la carte services such as SMA light or stand-alone performance reporting. Such advisors may also wish to open other brokerage accounts within the same client proposal but manage these brokerage accounts directly, without using the products or services available through the [[Organization 2 Name]] platform (“Self-Directed Accounts’’). Both [[Organization 2 Name]] and Fidelity have acknowledged the importance of this scenario, and in [[Organization 2 Name]]’s contract with Fidelity Brokerage Services dated [[Date 7: Date]], [[Organization 2 Name]] provides for this scenario by allowing Accounts without paying a basis point fee on Self-Directed Accounts. [[Organization 2 Name]] agrees to allow Fidelity’s advisor clients to continue using the proposal tool for the purpose of combining these Self-Directed Accounts with the accounts managed jointly between the advisor and [[Organization 2 Name]] without paying a basis point fee on the self-directed accounts. [[Organization 2 Name]] agrees to be compensated through the proposed license fee for the source code access to the [[Organization 2 Name]] Proposal tool. However for the purpose of opening Self-Directed Accounts, Fidelity will continue to pay [[Organization 2 Name]] [*** ] per quarter for administering the data needed to support this a la carte usage until IWS platform services fees exceed [***] year or upon a [[Organization 2 Name]] obtaining reduced clearing/custody fees to our mutual satisfaction, then [[Organization 2 Name]] would then waive the [*** ] per month proposal data admin fee.
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Table F-2: PLATFORM SERVICES BREAKDOWN OF COMPONENT SERVICES** 
+
+**Back Office Services**      **Client Services**
+**Investment Product Type**      **Full Platform Fee (all services provided)**      **Technology (1)**      **Hosting (1)**      **Due Diligence**      **Platform & Account Administration**      **Trade Admin**      **Sales/ Wholesaling**      **Client Support**      **Customization** **Services**
+
+Equity SMA      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Fixed Income SMA      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Equity SMA-lite      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Fixed Income SMA-lite      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Model-Based MMA/UMA      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Model based Equity SMA  “light”      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Model based Fixed Income SMA “light”      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Mutual Fund/ETF Wrap      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Ren as PM      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+Technology Fee for all product types when [[Organization 2 Name]] does not provide Hosting Services. (3)      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]      [*** ]
+
+NOTES TO TABLE F-2: 
+
+^PRICING TECHNOLOGY SERVICES WHEN [[Organization 2 Name]] DOES NOT PROVIDE HOSTING SERVICES: For the first 48 months following the Effective Date, [[Organization 2 Name]] will provide Software Updates, and Maintenance and Support as described in Exhibit A at no additional charge beyond the Technology fees shown in Table F-2. If after such 48 month period Fidelity elects not to purchase Hosting Services, [[Organization 2 Name]] will provide a reduced Software Update, Maintenance and Support Services for [***] on assets subject to a minimum charge of [***] per year, and a maximum charge of [***] per year. The minimum/maximum charge will be adjusted annually for the U.S. core CP1 index as of 1/1/2008.
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.

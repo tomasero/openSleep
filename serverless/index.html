@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="dormio">
+  <meta name="author" content="Christina Chen">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/dormio/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/dormio/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/dormiofavicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <title>dormio | home</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+  <script src="js/multithread.js"></script>
+  <script src="js/d3.v4.min.js"></script>
+  <script src="js/FileSaver.min.js"></script>
+  <script src="js/jszip.min.js"></script>
+  <script src="js/hr.js"></script>
+
+</head>
+
+<body>
+
+	<div id = "container">
+    
+    	<div id = "header">
+      		<a href = "index.html"><img src="img/icon.png" id="icon"></a>
+      		<div id = "links">
+      			<a href="https://www.media.mit.edu/"><img src="img/ml_symbol.png" id="ml"></a>
+				<a href="https://www.media.mit.edu/groups/fluid-interfaces/overview/"><img src="img/fluid_symbol.png" id="fluid"></a>
+      		</div> <!-- close header links-->
+    	</div> <!-- close header-->
+
+    	<div id = "main">
+
+            	<div id = "maintext">
+            		<h1 style = "font-size: 130px;">welcome to</h1>
+            		<h1 style = "font-size: 200px;">dormio</h1>
+            		<h3>an opportunity to interact with your dreams</h3>
+            		<div id = "below">
+            			<h4>select a session type to get started</h4>
+		            	<a href="timer.html"><button>timer session</button></a>
+        		    	<a href="wearable.html"><button>wearable session</button></a>
+
+        		    	<h4> is your study using dormio? click the button below to go to your customized session.</h4>
+          		   		<a href = "wearablebc.html"><button id = "studybuttons">bc tmr study</button></a>
+        			</div>
+        		</div> <!-- close maintext-->
+
+        		 <!-- <div id = "studies">
+            		<h4> is your study using dormio? click the button below to go to your customized session.</h3>
+          		    <a href = "wearablebc.html"><button id = "studybuttons">bc tmr study</button></a>
+        		</div>   --><!-- close studies-->
+			  
+		</div> <!-- close main -->
+	</div><!-- close container -->
+
+</body>
+</html>

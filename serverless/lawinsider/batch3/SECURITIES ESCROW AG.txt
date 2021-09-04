@@ -1,0 +1,215 @@
+\centered **SECURITIES ESCROW AGREEMENT**
+
+SECURITIES ESCROW AGREEMENT, dated as of May [__], 2010 (the “Agreement”) by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), [[Organization 1 Name]] LLC (“Holdings” or the “Initial Stockholder”), the undersigned parties listed as the Underwriter Warrantholders on the signature pages hereto (the “Underwriter Warrantholders”), and [[Escrow Agent]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Escrow Agent”).
+
+WHEREAS, the Company has entered into an Underwriting Agreement, dated May [__], 2010 (“Underwriting Agreement”) with [[Organization 2 Name]], (“MJ” or the “Representative”), acting as representative of the several underwriters (collectively, the “Underwriters”), pursuant to which, among other matters, the Underwriters have agreed to purchase 5,000,000 units (not including the underwriters’ over-allotment option) (“Units”) of the Company’ securities. Each Unit consists of one share of the Company’s common stock, par value $.0001 per share (the “Common Stock”), and one warrant (“Warrant”), each Warrant to purchase one share of Common Stock, all as more fully described in the Company’s definitive Prospectus, dated May [__], 2010 (“Prospectus”) comprising part of the Company’s Registration Statement on Form S-1 (File No. 333-163134) under the Securities Act of 1933, as amended (the “Registration Statement”), declared effective on May [__], 2010 (the “Effective Date”);
+
+WHEREAS, the Initial Stockholder has agreed, as a condition of the Underwriters’ obligation to purchase the Units pursuant to the Underwriting Agreement and to offer them to the public, to deposit all of its shares of Common Stock, as set forth opposite its name on Exhibit A attached hereto, in aggregate [[Shares 1: Number]] shares (83,333 of which are subject to forfeiture to the extent the over-allotment option is not exercised in full) (the “Escrow Shares”), in escrow as hereinafter provided;
+
+WHEREAS, the Company has entered into an amended and restated Warrant Subscription Agreement with Holdings and the Underwriter Warrantholders (collectively, the “Initial Warrantholders”), dated [[Date 1: Date]] (the “Subscription Agreement”), pursuant to which the Initial Warrantholders have agreed to purchase 3,700,000 warrants (the “Private Warrants”) in a private placement transaction;
+
+WHEREAS, the Initial Warrantholders have agreed as a condition of the sale of the Private Warrants to deposit all of their respective Private Warrants (together with the Escrow Shares, the “Escrow Securities”), as set forth opposite their respective names on Exhibit A attached hereto, with the Escrow Agent as hereinafter provided; and
+
+WHEREAS, the Company and the Initial Stockholder and Initial Warrantholders desire that the Escrow Agent accept the Escrow Securities, in escrow, to be held and disbursed as hereinafter provided.
+
+IT IS AGREED:  
+^**Appointment of Escrow Agent**. The Company, the Initial Stockholder and Initial Warrantholders hereby appoint the Escrow Agent to act in accordance with and subject to the terms of this Agreement and the Escrow Agent hereby accepts such appointment and agrees to act in accordance with and subject to such terms.
+
+^**Deposit of Escrow Securities**. On or before the Effective Date, the Initial Stockholder and Initial Warrantholders shall deliver to the Escrow Agent certificates representing their respective Escrow Securities, in proper transfer order with Medallion guaranteed stock powers, to be held and disbursed subject to the terms and conditions of this Agreement. The Initial Stockholder and Initial Warrantholders acknowledge and agree that the certificates representing the Escrow Securities will bear a legend to reflect the deposit of such Escrow Securities under this Agreement.
+
+^**Disbursement of the Escrow Securities**. The Escrow Agent shall hold each of the Escrow Shares and the Private Warrants until the termination of their respective Escrow Period (as defined below). In the case of the Escrow Shares, the “Escrow Period” shall be the period beginning on the date the certificates representing the Shares are deposited with the Escrow Agent and ending on the date that is one year following the consummation of the initial Business Transaction (as such term is defined in the Registration Statement) or earlier if, subsequent to the Business Transaction the Company consummates a subsequent liquidation, merger, stock exchange or other similar transaction which results in all of the Company stockholders having the right to exchange their shares of Common Stock for cash, securities or other property. In the case of the Private Warrants, the “Escrow Period” shall be the period beginning on the date the certificates representing the Private Warrants are deposited with the Escrow Agent and ending 30 days following the date of the consummation of the initial Business Transaction. On the termination date of the applicable Escrow Period, the Escrow Agent shall, upon written instructions from the Company, disburse the Escrow Securities to such holders; provided, however, that if the Escrow Agent is notified by the Company pursuant to Section 6.7 hereof that the Company is (i) being liquidated at any time during the Escrow Period, or (ii) that up to 83,333 of the Escrow Shares have been forfeited, then the Escrow Agent shall promptly destroy the certificates representing such Escrow Securities (or portion thereof, as applicable). The Escrow Agent shall have no further duties hereunder after the disbursement or destruction of the Escrow Securities in accordance with this Section 3.
+
+^**Rights of Initial Holder in Escrow Securities**.
+
+^^**Voting Rights as a Stockholder**. Subject to the terms of the Insider Letter described in Section 4.4 hereof and except as herein provided, the Initial Stockholder shall retain all of its rights as a stockholder of the Company during the Escrow Period, including, without limitation, the right to vote the Escrow Shares.
+
+^^**Dividends and Other Distributions in Respect of the Escrow Securities**. During the Escrow Period, all dividends payable in cash with respect to the Escrow Securities shall be paid to the Initial Stockholder, but all dividends payable in stock or other non-cash property (“Non-Cash Dividends”) shall be delivered to the Escrow Agent to hold in accordance with the terms hereof. As used herein, the term “Escrow Securities” shall be deemed to include the Non-Cash Dividends distributed thereon, if any.
+
+^^**Restrictions on Transfer**. During the Escrow Period, no sale, transfer or other disposition may be made of any or all of the Escrow Securities except (i) upon the dissolution and liquidation of holder and the distribution of assets to its members; (ii) by gift to an immediate family member of any Initial Stockholder or the Initial Warrantholders members or to a trust, the beneficiary of which is an immediate family member of such Initial Stockholder or a member of the immediate family of the Initial Warrantholders’ members, (iii) by virtue of the laws of descent and distribution upon death of any Initial Stockholder or any member of an Initial Warrantholder, (iv) pursuant to a qualified domestic relations order, (v) in the event of the Company’s liquidation prior to completion of its initial Business Transaction or (vi) in the event of the Company’s consummation of a liquidation, merger, stock exchange or other similar transaction which results in all of the Company’s stockholders having the right to exchange their shares of common stock for cash, securities or other property subsequent to the Company’s consummation of an initial Business Transaction; provided, however, that such permissive transfers may be implemented only upon the respective transferee’s written agreement to be bound by the terms and conditions of this Agreement and of the Insider Letter signed by the Initial Stockholder that is transferring the Escrow Shares. Even if transferred in accordance with this Section 4.3, the Escrow Securities will remain subject to this agreement and may be released from escrow only in accordance with Section 3 hereof. During the Escrow Period, the Initial Stockholder shall not pledge or grant a security interest in the Escrow Securities or grant a security interest in its rights under this Agreement.
+
+^^**Insider Letters**. The Initial Stockholder has executed a letter agreement with the Representative and the Company, dated as of the Effective Date, and which is filed as an exhibit to the Registration Statement (each an “Insider Letter”), respecting the rights and obligations of such Initial Stockholder in certain events, including, but not limited to, the liquidation of the Company.
+
+^**Concerning the Escrow Agent**.  
+^^**Good Faith Reliance**. The Escrow Agent shall not be liable for any action taken or omitted by it in good faith and in the exercise of its own best judgment, and may rely conclusively and shall be protected in acting upon any order, notice, demand, certificate, opinion or advice of counsel (including counsel chosen by the Escrow Agent, which counsel may be company counsel), statement, instrument, report or other paper or document (not only as to its due execution and the validity and effectiveness of its provisions, but also as to the truth and acceptability of any information therein contained) which is believed by the Escrow Agent to be genuine and to be signed or presented by the proper person or persons. The Escrow Agent shall not be bound by any notice or demand, or any waiver, modification, termination or rescission of this Agreement unless evidenced by a writing delivered to the Escrow Agent signed by the proper party or parties and, if the duties or rights of the Escrow Agent are affected, unless it shall have given its prior written consent thereto.
+
+^^**Indemnification**. The Escrow Agent shall be indemnified and held harmless by the Company from and against any expenses, including reasonable counsel fees and disbursements, or loss suffered by the Escrow Agent in connection with any action taken by it hereunder, action, suit or other proceeding involving any claim which in any way, directly or indirectly, arises out of or relates to this Agreement, the services of the Escrow Agent hereunder, or the Escrow Securities held by it hereunder, other than expenses or losses arising from the gross negligence or willful misconduct of the Escrow Agent. Promptly after the receipt by the Escrow Agent of notice of any demand or claim or the commencement of any action, suit or proceeding, the Escrow Agent shall notify the other parties hereto in writing. In the event of the receipt of such notice, the Escrow Agent, in its sole discretion, may commence an action in the nature of interpleader in an appropriate court to determine ownership or disposition of the Escrow Securities or it may deposit the Escrow Securities with the clerk of any appropriate court or it may retain the Escrow Securities pending receipt of a final, non appealable order of a court having jurisdiction over all of the parties hereto directing to whom and under what circumstances the Escrow Securities are to be disbursed and delivered. The provisions of this Section 5.2 shall survive in the event the Escrow Agent resigns or is discharged pursuant to Sections 5.5 or 5.6 below.
+
+^^**Compensation**. The Escrow Agent shall be entitled to reasonable compensation from the Company for all services rendered by it hereunder, as set forth on Exhibit B hereto. The Escrow Agent shall also be entitled to reimbursement from the Company for all expenses paid or incurred by it in the administration of its duties hereunder including, but not limited to, all counsel, advisors’ and agents’ fees and disbursements and all taxes or other governmental charges.
+
+^^**Further Assurances**. From time to time on and after the date hereof, the Company and the Initial Stockholder shall deliver or cause to be delivered to the Escrow Agent such further documents and instruments and shall do or cause to be done such further acts as the Escrow Agent shall reasonably request to carry out more effectively the provisions and purposes of this Agreement, to evidence compliance herewith or to assure itself that it is protected in acting hereunder.
+
+^^**Resignation**. The Escrow Agent may resign at any time and be discharged from its duties as escrow agent hereunder by its giving the other parties hereto written notice and such resignation shall become effective as hereinafter provided. Such resignation shall become effective at such time that the Escrow Agent shall turn over to a successor escrow agent appointed by the Company and approved by the Representative, which approval will not be unreasonably withheld, conditioned or delayed, the Escrow Securities held hereunder. If no new escrow agent is so appointed within the 60 day period following the giving of such notice of resignation, the Escrow Agent may deposit the Escrow Securities with any court it reasonably deems appropriate.
+
+^^**Discharge of Escrow Agent**. The Escrow Agent shall resign and be discharged from its duties as escrow agent hereunder if so requested in writing at any time by the other parties hereto, jointly, provided, however, that such resignation shall become effective only upon acceptance of appointment by a successor escrow agent as provided in Section 5.5.
+
+^^**Liability**. Notwithstanding anything herein to the contrary, the Escrow Agent shall not be relieved from liability hereunder for its own gross negligence or its own willful misconduct.
+
+^**Miscellaneous**.  
+^^**Governing Law**. This Agreement shall for all purposes be deemed to be made under and shall be construed in accordance with the laws of the State of [[Address 1: Address]] the parties hereby agrees that any action, proceeding or claim against it arising out of or relating in any way to this Agreement shall be brought and enforced in the courts of the State of [[Address 2: Address]] United States District Court for the Southern District of [[Address 3: Address]] submits to such personal jurisdiction, which jurisdiction shall be exclusive. Each of the parties hereby waives any objection to such exclusive jurisdiction and that such courts represent an inconvenient forum.
+
+^^**Entire Agreement**. This Agreement and the Insider Letters contain the entire agreement of the parties hereto with respect to the subject matter hereof and, except as expressly provided herein, may not be changed or modified except by an instrument in writing signed by the party to the charged. In connection with any proposed amendment, the Escrow Agent may request an opinion of issuer’s counsel as to the validity of the proposed amendment as a condition to its execution of said amendment. 
+
+^^**Headings**. The headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation thereof.
+
+^^**Binding Effect**. This Agreement shall be binding upon and inure to the benefit of the respective parties hereto and their legal representative, successors and assigns.
+
+^^**Notices**. Any notice or other communication required or which may be given hereunder shall be in writing and either be delivered personally or by private national courier service, or be mailed, certified or registered mail, return receipt requested, postage prepaid, and shall be deemed given when so delivered personally or, if sent by private national courier service, on the next business day after delivery to the courier, or, if mailed, two business days after the date of mailing, as follows:
+
+if to the Escrow Agent, to:  
+[[Escrow Agent]]
+
+[[Address 4: Address]] 
+Attn: [ ] 
+Fax No.: [ ] if to the Company, to:  
+[[Company]] 
+[[Address 5: Address]] 
+Attn: [[Person 1 First Name]] [[Person 1 Last Name]] 
+Fax No.: [ ]  
+and a copy, which shall not constitute notice, to:
+
+Ellenoff, [[Organization 3 Name]] LLP 
+150 East 42nd Street, 11th Floor 
+[[Address 7: Address]] 
+Attn: [[Person 2 First Name]] [[Person 2 Last Name]], Esq. 
+Fax No.: [[Phone 1]]  
+if to any Initial Stockholder or Initial Warrantholders, to the address set forth in Exhibit A hereto.
+
+if the to the representative of the underwriters, to:
+
+[[Organization 2 Name]], 
+[[Organization 2 Name]] 
+[[Address 8: Address]] 
+Attn: [[Person 3 First Name]] [[Person 3 Last Name]] 
+Fax No.: [[Phone 2]]  
+with a copy, to:  
+[[Organization 4 Name]] LLP 
+[[Address 10: Address]] 
+Attn: [[Person 4 First Name]] [[Person 4 Last Name]], Esq. 
+Fax No.: [[Phone 3]]  
+The parties may change the persons and addresses to which the notices or other communications are to be sent by giving written notice to any such change in the manner provided herein for giving notice.
+
+^^**Liquidation of Company; Forfeiture**. The Company shall give the Escrow Agent prompt written notification of (i) the liquidation of the Company or (ii) forfeiture of up to 83,333 Escrow Shares held by [[Organization 1 Name]] LLC to the extent the underwriters over-allotment option is not exercised in full, as further described in the Registration Statement.
+
+^^**Trust Account Waiver**. Notwithstanding anything herein to the contrary, the Escrow Agent hereby waives any and all right, title, interest or claim of any kind (“Claim”) in or to any distribution of the trust account (the “Trust Account”) in which the proceeds of the initial public offering conducted by the Company pursuant to the Prospectus (the “IPO”) and the proceeds of the sale of the Private Warrants will be deposited and held for the benefit of the holders of the securities purchased in the IPO, as described in greater detail in the Prospectus, and hereby agrees not to seek recourse, reimbursement, payment or satisfaction for any Claim against the Trust Account for any reason whatsoever.
+
+^^**Third Party Beneficiaries**. The Initial Stockholder hereby acknowledges that the Underwriters, including, without limitation, the Representative, are third party beneficiaries of this Agreement and this Agreement cannot be modified or changed without the prior written consent of the Representative.
+
+^^**Counterparts**. This Agreement may be executed in several counterparts each one of which shall constitute an original and may be delivered by facsimile transmission and together shall constitute one instrument.
+
+\centered [remainder of page intentionally left blank]
+
+IN WITNESS WHEREOF, the Company has caused the execution of this Agreement as of the date first above written.
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+[[Escrow Agent]]
+
+[[Escrow Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{Escrow Agent Entity => By: [[Escrow Agent Signatory First Name]] [[Escrow Agent Signatory Last Name]]
+Title: [[Escrow Agent Signatory Title]]}}
+
+
+[[Organization 1 Name]] LLC
+
+[[[[Organization 1 Name]] LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] LLC Entity => By: [[[[Organization 1 Name]] LLC Signatory First Name]] [[[[Organization 1 Name]] LLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] LLC Signatory Title]]}}
+
+
+UNDERWRITER WARRANTHOLDERS:
+
+[[Organization 2 Name]]
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+[[Organization 5 Name]]
+
+[[[[Organization 5 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] Entity => By: [[[[Organization 5 Name]] Signatory First Name]] [[[[Organization 5 Name]] Signatory Last Name]]
+Title: [[[[Organization 5 Name]] Signatory Title]]}}
+
+
+I-BANKERS SECURITIES, INC.
+
+[[[[Organization 6 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]]. Entity => By: [[[[Organization 6 Name]]. Signatory First Name]] [[[[Organization 6 Name]]. Signatory Last Name]]
+Title: [[[[Organization 6 Name]]. Signatory Title]]}}
+
+
+[[Organization 7 Name]]
+
+[[[[Organization 7 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] Entity => By: [[[[Organization 7 Name]] Signatory First Name]] [[[[Organization 7 Name]] Signatory Last Name]]
+Title: [[[[Organization 7 Name]] Signatory Title]]}}
+
+
+[[Organization 8 Name]]
+
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+
+\centered **EXHIBIT A**
+
+[[Organization 1 Name]] LLC 
+590 Madison Avenue, 35th Floor 
+[[Address 6: Address]] 
+Attn: 
+Facsimile Number: 
+EIN: 27-1215274 
+Number of Shares: 638,889 (up to 83,333) of which are subject to forfeiture in the event the underwriters over-allotment option is not exercised in full)
+
+Number of Warrants: 3,500,000  
+[[Organization 2 Name]] 
+600 Fifth Avenue, 19th Floor 
+[[Address 9: Address]] 
+Attn: [[Person 3 First Name]] [[Person 3 Last Name]] 
+Fax No.: [[Phone 2]] 
+Number of Warrants: [________]  
+[[Organization 5 Name]] 
+153 East 53rd Street, 49th Floor 
+[[Address 6: Address]] 
+Attn: [[Person 5 First Name]] [[Person 5 Last Name]] 
+Fax No.: [[Phone 4]] 
+Number of Warrants: [________]  
+[[Organization 6 Name]]orporated 
+[[Address 11: Address]] 
+Attn: [[Person 6 First Name]] [[Person 6 Last Name]] 
+Fax No.: [[Phone 5]] 
+Number of Warrants: [________]  
+[[Organization 8 Name]] 
+[[Address 12: Address]] 
+Attn: [[Person 7 First Name]] [[Person 7 Last Name]] 
+Fax No.: [[Phone 6]] 
+Number of Warrants: [________]  
+[[Organization 7 Name]] 
+1251 Avenue of the Americas, 20th Floor 
+[[Address 9: Address]] 
+Attn: [[Person 8 First Name]] [[Person 8 Last Name]] 
+Fax No.: [[Phone 7]] 
+Number of Warrants: [________]    
+
+\centered **EXHIBIT B**
+
+\centered Escrow Agent Fees
+
+$______ annually for acting agent escrow fee.
+
+First year agent fee to be paid at closing.

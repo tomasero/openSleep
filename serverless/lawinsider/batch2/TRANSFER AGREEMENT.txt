@@ -1,0 +1,911 @@
+\centered **TRANSFER AGREEMENT**
+
+THIS AGREEMENT is entered into as of [[Date 1: Date]] by and between (i) The Persons Named in Schedule 1 (collectively, the “**Principal Vendors**”); (ii) the Persons Named in Part 1 of Schedule 2 (collectively, the "**Other Shareholders**"); (iii) the Persons Named in Part 2 of Schedule 2 (collectively, the “**Beneficial Shareholders**”); (iv) [[Organization 1 Name]], a [[State of Formation: State]] [[Organization: EntityType]], whose registered office is at [[Address 1: Address]], 94502, United States of America ("**Purchaser**"); and (v) [[Organization 2 Name]], a Singapore private limited company, whose registered off ice is at 60 Biopolis Street #01-03 Genome Singapore 138672 (“**ESI**”).
+
+WHEREAS:  
+
+^ESI has, as at the date of this Agreement, an issued and paid up share capital of S$[[USD Value 1: Number]] divided into (i) 6,000,000 Series A1 ESI Preferred Shares (as defined below), 3,334,000 Series A2 ESI Preferred Shares (as defined below) and 3,885,076 Series A3 ESI Preferred Shares (as defined below) (collectively, the “**ESI Preferred Shares**”); and (ii) 6,300,000 ordinary shares (“**ESI Ordinary Shares**”).
+
+^As at the date of this Agreement, each Principal Vendor is the legal and beneficial owner of the ESI Ordinary Shares and the ESI Preferred Shares as set out against its name in Schedule 1 (collectively, the “**Principal ESI Shares**”). As at the date of this Agreement, each Other Shareholder is the legal owner of the ESI Ordinary Shares as set out against its name in Part 1 of Schedule 2 (collectively, the “**Other ESI Shares**”). Details of the beneficial ownership of the Other ESI Shares are set out in Part 2 of Schedule 2.
+
+^The Principal ESI Shares and the Other ESI Shares (collectively, the “**ESI Shares**”) comprise, together, the entire issued share capital of ESI.
+
+^The Purchaser has agreed:  
+^^^to purchase the Principal ESI Shares held by all the Principal Vendors in the aggregate, each fully paid up, on the terms and subject to the conditions, contained in the equity and note purchase agreement to be made between each of the Principal Vendors and Purchaser on even date; and
+
+^^^to purchase the Other ESI Shares held by all the Other Shareholders in the aggregate, each fully paid up, on the terms and subject to the conditions contained in this Agreement.
+
+IN CONSIDERATION of the representations, warranties, conditions and covenants contained in this Agreement, and for other valuable consideration, the receipt and adequacy of which is hereby acknowledged by the parties to this Agreement (the “**Parties**”), the Parties hereto agree as follows:
+
+\centered **SALE OF SHARES**
+
+^^**Sale of Other ESI Shares**. Each of the Other Shareholders agrees to sell and transfer to Purchaser, and Purchaser agrees to purchase from the Other Shareholders, the number of Other ESI Shares set out against the name of such Other Shareholder in column (2) of Schedule 2. The sale of the Other ESI Shares shall be together with all rights and advantages attaching to them as at Closing (as defined below) (including the right to receive any and all accrued but unpaid dividends on or after Closing).
+
+1.1A **Waiver of Pre-Emption Rights**. Each of the Other Shareholders and the Beneficial Shareholders hereby waives its pre-emption rights under the ESI articles of association (including Articles 22 and 22A thereunder) and the amended and restated shareholders agreement dated 15 [[Date 2: Date]] entered into between the Principal Vendors, the Other Shareholders, the Beneficial Shareholders and ESI (the “**Shareholders’ Agreement**”) (including Clauses 7.2 and 7.3 of the Shareholders’ Agreement) or any other document or agreement in respect of the sale by each of the Principal Vendor s and the Other Shareholders to the Purchaser of its respective portion of the ESI Preferred Shares and ESI Ordinary Shares, as the case may be, as contemplated by this Agreement or otherwise.
+
+1.1B **Termination of Shareholders’ Agreement**.In consideration of the mutual covenants and releases herein contained, subject to Closing taking place, the Principal Vendors, the Other Shareholders, the Beneficial Shareholders and ESI (collectively, the “**SHA Parties**”) hereby agree to terminate by mutual consent the Shareholders’ Agreement with effect from the Closing Date (as defined below) without the need for any further action on the part of any of the SHA Parties. Each SHA Party hereby releases and discharges the other SHA Parties from the further performance after the Closing Date of, and from any and all outstanding liabilities and obligations (whether actual or contingent) owing to it under the Shareholders’ Agreement and hereby agrees and irrevocably undertakes not to assert or make after the Closing Date any claim or take any legal proceedings relating to any such obligations or liabilities against the other SHA Parties, and hereby waives and agrees to waive all its rights and remedies available to it at law or otherwise relating to any such obligations and liabilities against the other SHA Parties.
+
+^^**Purchase Price**. The purchase price of the Other ESI Shares (the "**Purchase P**rice**") shall be satisfied by the allotment and issue by Purchaser to the Other Shareholders of common shares, no par value, of Purchaser (the "BioTime Shares**"). The number of BioTime Shares allocated to each Other Shareholder, being the portion of such Purchase Price attributable to such Other Shareholder, is set out in column (3) of Part 1 of Schedule 2. The Parties further agree that the BioTime Shares shall rank pari passu with the existing common shares, no par value, of Purchaser, including, the right to receive all dividends declared and paid after Closing.
+
+^^**Closing; Closing Date**. Subject to Sections 1.6, 4.3, 4.4, and 4.5, the consummation of the purchase and sale of the Other ESI Shares ("**Closing**") shall take place on [[Date 3: Date]] at [[Organization 3 Name]] LLP, One Marina Boulevard #30-00 Singapore 018989, or at such other place and on such other date as Purchaser and the Principal Vendors holding a majority of the ESI Preferred Shares shall mutually agree in writing (the "**Closing Date**") which shall be notified promptly by Purchaser and Principal Vendors to Other Shareholders. At the Closing, each Other Shareholder shall tra nsfer to Purchaser legal and beneficial title to the Other ESI Shares being sold by such Other Shareholders, free and clear of all mortgages, pledges, liens, security interests, conditional sales agreements, leases, indentures, encumbrances, levies, and attachments of third parties or charges of any kind or nature (the “**Liens**”). [[Organization 4 Name]] hereby directs Purchaser to allot and issue the BioTime Shares set out against its name in column (3) of Part 1 of Schedule 2 to [[Organization 5 Name]], [[Address 2: Address]] and the delivery of an original stock certificate registered in the name of [[Organization 5 Name]] evidencing the number of BioTime Shares set out against [[Organization 4 Name]] in column (3) of Part 1 of Schedule 2 shall be deemed to be a full discharge of the obligations of B ioTime owed to [[Organization 4 Name]] pursuant to Section 4.2(a) of this Agreement.
+
+^^**Taxes**. Purchaser shall pay any and all stamp duty or other taxes arising from the purchase of the Other ESI Shares under this Agreement.
+
+^^**Registration of BioTime Shares**. On the Closing Date, Purchaser and the Other Shareholders shall enter into a Registration Rights Agreement, in the form attached as Exhibit A (the "**Registration Rights Agreement**"), pursuant to which Purchaser shall agree to prepare and file with the United States Securities and Exchange Commission a registration statement registering inter alia the BioTime Shares for sale under the Securities Act of 1933, as amended (the "**Securities Act**"), in accordance with the terms and conditions of the Registra tion Rights Agreement. All costs and expenses incurred for the preparation, filing and/or registration of the BioTime Shares with respect to this Agreement and to the transactions contemplated by this Agreement shall be borne by Purchaser as provided in the Registration Rights Agreement.
+
+^^**Minimum Number of ESI Shares to Be Sold**. Save as provided in this Section 1.6, the Parties further agree and acknowledge that the Purchaser shall not be obligated to acquire less than [[Percentage 1: Number]]% of the ESI Shares issued on the Closing Date. Nor shall Purchaser be obligated to acquire any ESI Share subject to any Liens. If any Principal Vendor or Other Shareholder (the “**Excepted Holder**”) is unable to deliver to Purchaser title and possession of any of the ESI Shares owned by it free of all Liens (the “**Excepted Shares**”), Purchaser shall have the ri ght to exclude from this Agreement the Excepted Shares and the Purchase Price attributable to such Excepted Holder shall be reduced by an amount equivalent to the Purchase Price attributable to the Excepted Shares held by such Excepted Holder based on the number of BioTime Shares per ESI Ordinary Share, Series A1 ESI Preferred Share, Series A2 ESI Preferred Share or Series A3 ESI Preferred Share, as the case may be, set out in Schedule 1 and Schedule 2.
+
+^^If the total amounts of ESI Shares that the Principal Vendors and the Other Shareholders are ready, willing, and able to sell and transfer to Purchaser at the Closing free and clear of Liens are less than [[Percentage 1]]%, unless the Purchaser agrees, on Closing, to consummate the purchase of the remaining ESI Shares at the Purchase Price based on the number of BioTime Shares per ESI Ordinary Share, Series A1 ESI Preferred Share, Series A2 ESI Preferred Share or Series A3 ESI Preferred Share, as the case may be, set out in Schedule 1 and Schedule 2, this Agreement shall ipso facto cease and terminate on the Closing Date and none of the Parties shall have any claim against th e other for costs, damages, compensation or otherwise, save for any claim by the relevant Party arising from any antecedent breaches, including any breach of the provisions of this Section 1.6.
+
+^^If the Purchaser agrees to exclude the Excepted Shares or consummate the purchase of the remaining ESI Shares at the Purchase Price based on the number of BioTime Shares per ESI Ordinary Share, Series A1 ESI Preferred Share, Series A2 ESI Preferred Share or Series A3 ESI Preferred Share, as the case may be, pursuant to this Section 1.6, the Purchaser shall not have any claim against the Principal Vendors and those Other Shareholders who will sell, assign, transfer, and convey, as the case may be, their ESI Shares to Purchaser on Closing, in accordance with the provisions of this Agreement.
+
+\centered **REPRESENTATIONS, WARRANTIES, AND COVENANTS**
+
+\centered **OF OTHER SHAREHOLDERS AND BENEFICIAL SHAREHOLDERS**
+
+^^The Other Shareholders and the Beneficial Shareholders make the representations and warranties in this Article 2 for the benefit and reliance of Purchaser. The representations and warranties in this Article 2 shall be true and correct in all material respects on the date of this Agreement and on the Closing Date, as if made on both such dates. Each Other Shareholder, severally (and not jointly) and as to itself, represents and warrants as follows:
+
+^^All of the issued Other ESI Shares held by such Other Shareholder have been legally and validly issued and fully paid. All of the issued Other ESI Shares held by such Other Shareholder are owned beneficially by such Other Shareholder save as set forth in Part 2 of Schedule 2. The information set out in Part 2 of Schedule 2 in respect of the beneficial ownership of the Other ESI Shares held by such Other Shareholder is true and accurate.
+
+^^There are no outstanding subscriptions, options, warrants, rights, calls, convertible securities, or other agreements entitling any person or entity to purchase or otherwise acquire any Other ESI Shares held by such Other Shareholder, nor are there any agreements, contracts, options, or commitments of any character relating to the issued Other ESI Shares held by such Other Shareholder to which such Other Shareholder is a party to.
+
+^^**Certain Definitions**.  
+^^Accredited Investor. "**Accredited Investor**" has the meaning ascribed in Section 501 of Regulation D under the Securities Act.
+
+^^Regulation S. "**Regulation S**" means Rules 901 through 905 promulgated by the United States Securities and Exchange Commission under the Securities Act.
+
+^^United States. "**United States**" means the United States of America, its territories and possessions, any State of the United States, and the District of Columbia.
+
+^^U.S. Person. "**U.S. Person**" means: (i) Any natural person resident in the United States; (ii) any partnership or corporation organized or incorporated under the laws of the United States; (iii) any estate of which any executor or administrator is a U.S. Person; (iv) any trust of which any trustee is a U.S. Person; (v) any agency or branch of a foreign entity located in the United States; (vi) any non-discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary for the benefit or account of a U.S. Person; (vii) any discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary organized, incorporated, or (if an individual) resident in the United States; and (viii) any partnership or corporation if: (A) organized or incorporated under the laws of any foreign jurisdiction; and (B) formed by a U.S. Person principally for the purpose of investing in securities not registered under the Securities Act, unless it is organized or incorporated, and owned, by Accredited Investors who are not natural persons, estates or trusts.
+
+^^**Investment Representations**. Each Other Shareholder and each Beneficial Shareholder makes the following representations, severally (and not jointly) and as to itself, in connection with the acquisition of the BioTime Shares:
+
+^^If the Other Shareholder or Beneficial Shareholder is a U.S. Person, they are an Accredited Investor and have executed and are delivering to Purchaser an Accredited Investor Certification in the form of Exhibit B.
+
+^^If the Other Shareholder or Beneficial Shareholder is not a U.S. Person, they have executed and are delivering to Purchaser a Foreign Resident Certification in the form of Exhibit C.
+
+^^The Other Shareholder or Beneficial Shareholder and its or his attorneys, accountants and financial advisors have made such investigation of Purchaser as they deemed appropriate for determining to acquire (and thereby make an investment in) the BioTime Shares, and in making such investigation they have received copies of the following reports filed by Purchaser with the Securities and Exchange Commission under the Securities Exchange Act of 1934, as amended (the "**Disclosure Documents**"): Annual Report on Form 10-K for the year ended [[Date 4: Date]]; definitive proxy statement for Purchaser's most recent annual m eeting of shareholders; and each Current Report on Form 8-K filed by Purchaser after the filing of its most recent Annual Report on Form 10-K. Neither such inquiries nor any other diligence investigation conducted by such Other Shareholder, Beneficial Shareholder, or its attorneys, accountants and financial advisors shall modify, amend or affect such Other Shareholder’s or Beneficial Shareholder’s right to rely upon the Purchaser’s representations and warranties and covenants contained herein and in the Disclosure Documents.
+
+^^The Other Shareholder or Beneficial Shareholder and its or his attorneys, accountants and financial advisors have made such investigation of ESI and its subsidiaries as they deemed appropriate for evaluating their Other ESI Shares and for determining to sell their Other ESI Shares to Purchaser.
+
+^^The Other Shareholder or Beneficial Shareholder understands that the BioTime Shares are being offered and sold without registration under the Securities Act or registration or qualification under the California Corporate Securities Law of 1968, the laws of other states of the United States, or the laws of Singapore, or any other country, in reliance upon the exemptions from such registration and qualification requirements for non-public offerings to U.S. Persons and offerings made to non-U.S. Persons. The Other Shareholder or Beneficial Shareholder acknowledges and understands that the availability of the aforesaid exemptions depends in part upon the accuracy of certain of the representations, declarations and warranties contained herein, which the Other Shareholder or Beneficial Shareholder makes with the intent that they may be relied upon by Purchaser. The Other Shareholder or Beneficial Shareholder understands and acknowledges that no Singapore, Australian, Israeli, or United States federal, state or other agency has reviewed or endorsed the offer or sale of the BioTime Shares or made any finding or determination as to the fairness of the offering or sale of the BioTime Shares.
+
+^^The Other Shareholder or Beneficial Shareholder, either alone or together with its or his attorneys, accountants and financial advisors, has such knowledge and experience in financial and business matters to enable them to evaluate the merits and risks of an investment in the BioTime Shares and to make an informed investment decision with respect thereto.
+
+^^The Other Shareholder or Beneficial Shareholder is acquiring the BioTime Shares solely for its or his own account and for investment purposes, and not with a view to, or for sale in connection with, any distribution of the BioTime Shares, unless registered under the Securities Act.
+
+^^It has never been represented, guaranteed or warranted to the Other Shareholder or Beneficial Shareholder by Purchaser, or by any officer, director, employee, or agent of Purchaser, that the Other Shareholder or Beneficial Shareholder will realize any specific value, sale price, or profit as a result of acquiring the BioTime Shares.
+
+^^**Resale Restrictions.**
+
+^^Each Other Shareholder or Beneficial Shareholder agrees that they will not sell, offer for sale, or transfer any of their BioTime Shares in any manner in the United States or to a U.S. Person, unless those BioTime Shares have been registered under the Securities Act, or unless there is an exemption from such registration and an opinion of counsel reasonably acceptable to Purchaser has been rendered stating that such offer, sale, or transfer will not violate any United States federal or state securities laws, and in the case of a sale by a person who is not a U.S. Person, was made in compliance with Regulation S. Notwithstanding anything herein to the contrary, n o registration statement or opinion of counsel shall be required for any transfer of any BioTime Shares (i) in compliance with Rule 144 or Rule 144A under the Securities Act, (ii) by an Other Shareholder that is a partnership or a corporation to (A) a partner of such partnership or shareholder of such corporation, (B) a retired partner of such partnership who retires after the date hereof, (C) the estate of any such partner or shareholder, or (iii) by an Other Shareholder to an affiliated fund or entity of such Other Shareholder; **provided, however**, that in each of the foregoing cases, the transferee agrees in writing to be subject to the terms of this to the same extent as if the transferee were an original Other Shareholder hereunder.
+
+^^The certificates evidencing BioTime Shares sold to an Other Shareholder or Beneficial Shareholder who is not a U.S. Person will contain a legend to the effect that transfer is prohibited except in accordance with the provisions of Regulation S, pursuant to registration under the Securities Act, or pursuant to an available exemption from registration; and that hedging transactions involving those securities may not be conducted unless in compliance with the Securities Act.
+
+^^The certificates evidencing BioTime Shares sold to an Other Shareholder or Beneficial Shareholder who is a U.S. Person will contain a legend to the effect that transfer is prohibited except pursuant to registration under the Securities Act, or pursuant to an available exemption from registration under the Securities Act.
+
+^^Purchaser will issue instructions to the transfer agent and registrar of the BioTime Shares to refuse to register the transfer of any BioTime Shares not made in accordance with the provisions of Regulation S, pursuant to registration under the Securities Act, or pursuant to an available exemption from registration under the Securities Act.
+
+^^**Title to Other ESI Shares**. At Closing, the Other Shareholder or Beneficial Shareholder will deliver to Purchaser, legal and/or beneficial title (as the case may be) to the Other ESI Shares it owns to Purchaser, free and clear of all Liens.
+
+^^**Authority**. If the Other Shareholder is an entity rather than a natural person, it has the power and authority to execute and deliver this Agreement and to assume and perform all of its obligations under this Agreement, and the execution and delivery of this Agreement and the performance of the Other Shareholder’s obligations under this Agreement have been duly authorized by the Other Shareholder’s board of directors, managers, partners, or persons holding comparable authority.
+
+^^**Enforceability**. This Agreement is the valid and binding agreement of the Other Shareholder or Beneficial Shareholder, as the case may be, enforceable in accordance with its terms, except to the extent limited by any bankruptcy, insolvency, or similar law affecting the rights of creditors generally.
+
+^^**No Conflict**. The execution and delivery of this Agreement, and consummation of the transactions contemplated by this Agreement, including the sale of the Other Shareholder’s or Beneficial Shareholder’s Other ESI Shares to Purchaser, do not and will not: (a) violate any provisions of (i) any rule, regulation, statute, or law applicable to such Other Shareholder or Beneficial Shareholder with respect to the sale of the Other ESI Shares, or (ii) the terms of any order, writ or decree of any court or judicial or regulatory authority or body by which such Other Shareholder or Beneficial Shareholder is bound; or (b) conflict with or result in a breach of any condition or provision or const itute a default under or pursuant to the terms of any contract, mortgage, lien, lease, agreement, debenture, bond, or instrument to which the Other Shareholder or Beneficial Shareholder is a party, or which is binding upon it or him or upon any of its or his assets or property; or (c) result in the creation or imposition of any Lien on its or his Other ESI Shares.
+
+^^**No Litigation**. There are no pending or, to the best knowledge of such Other Shareholder or Beneficial Shareholder, threatened lawsuits or other proceedings, or any basis therefore, challenging the right or authority of the Other Shareholder or Beneficial Shareholder to enter into this Agreement and to consummate the transactions contemplated by this Agreement.
+
+For the avoidance of doubt, the Principal Vendors shall not be responsible or liable for any of the obligations imposed upon or warranties given by any of the Other Shareholders or Beneficial Shareholders.
+
+\centered **REPRESENTATIONS AND WARRANTIES OF PURCHASER**
+
+The Purchaser makes the representations and warranties contained in this Article 3 for the benefit and reliance of the Other Shareholders and Beneficial Shareholders. The representations and warranties in this Article 3 shall be true and correct in all material respects on the date of this Agreement and on the Closing Date, as if made on both such dates. Purchaser hereby represents and warrants to each of the Other Shareholdersand the Beneficial Shareholders the following:
+
+^^**Organization**. Purchaser is a corporation duly organized, validly existing and in good standing under the laws of the state of its incorporation, with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. Purchaser is not in violation of any of the provisions of its certificate or articles of incorporation, bylaws or other organizational or charter documents. Purchaser is duly qualified to conduct its business and is in good standing as a foreign corporation or other entity in each jurisdiction in which the nature of the business conducted or property owned by it makes such qualification necessary.
+
+^^**Authority; Enforceability**. Purchaser has the corporate power and authority to execute and deliver this Agreement and to assume and perform all of its obligations under this Agreement, the Registration Rights Agreement and each of the other agreements entered into by the Parties hereto in connection with the transactions contemplated by this Agreement (the “**Transaction Documents**”). The execution and delivery of this Agreement and the Transaction Documents and the performance by Purchaser of its obligations hereunder and thereunder have been duly authorized by all necessary action on the part of Purchaser and no further action is required by Purchaser, the Board of Directors of Purchaser or the stockholders of Purchaser. This Agreement, and each of the Transaction Documents, is the valid and binding agreement of Purchaser, enforceable in accordance with its terms, except to the extent limited by any bankruptcy, insolvency, or similar law affecting the rights of creditors generally.
+
+^^**No Conflict**. The execution and delivery of this Agreement and the Transaction Documents, and consummation of the transactions contemplated hereunder and thereunder, by Purchaser do not and will not (a) violate any provisions of (i) any United States federal or state rule, regulation, statute, or law applicable to Purchaser with respect to the purchase of the Other ESI Shares, or (ii) the terms of any order, writ or decree of any United States federal or state court or judicial or regulatory authority or body by which Purchaser is bound, or (iii) the Articles of Incorporation or By-laws of Purchaser; (b) will not conflict with or result in a breach of any condition or provision or constitute a de fault under or pursuant to the terms of any contract, mortgage, lien, lease, agreement, debenture or instrument to which Purchaser is a party and which is binding upon Purchaser; and (c) result in the creation or imposition of any Lien on the BioTime Shares.
+
+^^**Validity of BioTime Shares**. The BioTime Shares, when delivered at Closing will be duly authorized and validly issued, fully paid and nonassessable, free and clear of all liens and encumbrances.
+
+^^**SEC Documents; Financial Statements**. Purchaser has filed all reports required to be filed by it under the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”), including pursuant to Section 13(a) or 15(d) thereof, during the two (2) years prior to the date hereof (the foregoing materials being collectively referred to herein as the“**SEC Reports**”) on a timely basis or has timely filed a valid extension of such time of filing and has filed any such SEC Reports prior to the expiration of any s uch extension. As of their respective dates, the SEC Reports complied in all material respects with the requirements of the Exchange Act and contained the financial statements and other information for the periods required by the Exchange Act and the rules and regulations of the Securities and Exchange Commission promulgated thereunder, and none of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. The financial statements of Purchaser included in the SEC Reports have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis during the periods involved, except as may be otherwise specified in such financial statements or the notes thereto, and fairly present in all material respects the financial position of Purchaser as of and for the dates thereof and the results of operations and cash flows for the periods then ended, subject, in the case of unaudited statements, to normal, immaterial, year-end audit adjustments.
+
+^^**Private Placement**. Assuming the accuracy of the representations and warranties set forth in Section 3, no registration under the Securities Act is required for the offer and sale of the BioTime Shares by Purchaser to the Other Shareholders as contemplated hereby. Upon NYSE Amex approval for listing of the BioTime Shares, the issuance and sale of the BioTime Shares hereunder will not contravene the rules and regulations of the NYSE Amex. No claim may be brought for any breach or violation of the representation and warranty under this Section 3.6 later than one year after the Closing Date.
+
+\centered **CLOSING**
+
+^^**Documents Delivered By Other Shareholders and Beneficial Shareholders**. Subject to Sections 4.4 and 4.5, on the Closing Date, the Other Shareholders shall deliver to Purchaser originals of the following documents:
+
+^^Share Certificates. Share certificates, duly registered in the name of the Other Shareholders, evidencing all of the Other ESI Shares owned by them (or an express indemnity in a form satisfactory to Purchaser in the case of any certificate found to be missing), together with the relevant transfer instruments, duly executed in blank by the Other Shareholders, and a Working Sheet C for Transfer of Shares certifying the net asset value per share of ESI, executed by a director of ESI, in connection with the payment of stamp duty.
+
+^^Registration Rights Agreement. Sixteen counterparts of the Registration Rights Agreement, duly executed by each of the Other Shareholders.
+
+^^Certifications. A Foreign Resident Investor Certification or Accredited Investor Certification, as applicable, duly executed by the Other Shareholders and Beneficial Shareholders.
+
+^^**Documents Delivered By Purchaser**. On the Closing Date, Purchaser shall deliver to the Other Shareholders originals of the following documents:
+
+^^BioTime Shares. A stock certificate registered in the name of each of the Other Shareholders (and in the case of [[Organization 4 Name]], a stock certificate registered in the name of [[Organization 5 Name]], 614 Walnut Street, 13th Floor, [[Address 3: Address]]) evidencing the number of BioTime Shares set out against their names in column (3) of Part 1 of Schedule 2.
+
+^^Registration Rights Agreement. Sixteen counterparts of the Registration Rights Agreement, duly executed by Purchaser.
+
+^^**Breach of Closing Obligations**. If Sections 4.1 and 4.2 are not fully complied with by the Purchaser (other than due to the failure of a condition under Section 4.4 to be satisfied) or by the Other Shareholders (other than due to the failure of a condition under Section 4.5 to be satisfied) by or on the Closing Date, the Purchaser, in the case of non-compliance by the Other Shareholders, or each of the Other Shareholders, in the case of non-compliance by the Purchaser, shall be entitled (in addition to and without prejudice to all other rights or remedies available to the terminating Party including the right to claim damages) by written notice to the other Parties served on such date: 
+
+^^to elect to terminate this Agreement (other than Section ‎5.2 and Article 6) without liability on the part of the terminating Party(ies); or
+
+^^to effect Closing to the extent practicable, having regard to the defaults which have occurred; or
+
+^^to fix a new date for Closing (not being more than 20 Business Days after the agreed date for Closing), in which case the foregoing provisions of this Section 4.3 shall apply to Closing as so deferred but provided such deferral may only occur once.
+
+^^**Conditions to Purchaser's Obligation to Close**. Purchaser’s obligations to purchase the Other ESI Shares under this Agreement are subject to and conditioned upon the satisfaction of the following conditions on or before the Closing Date:
+
+^^Delivery of Documents. Purchaser shall have received all of the documents required to be delivered to Purchaser under Section 4.1.
+
+^^Representations and Warranties. The representations and warranties made by the Other Shareholders and the Beneficial Shareholders in Article 2 of this Agreement shall be true and correct in all material respects on and as of the Closing Date (or, if made as of a specific date, at and as of such date) with the same effect as though such representations and warranties had originally been made as of the Closing. By delivering their Other ESI Shares to Purchaser on the Closing Date, each Other Shareholder will be deemed to have confirmed to Purchaser that their representations and warranti es in Article 2 are in fact true and correct in all material respects on and as of the Closing Date.
+
+^^Performance. The Other Shareholders shall have performed and complied, in all material respects, with all agreements, obligations, and conditions that it is required to perform or comply with under this Agreement, on or before the Closing Date.
+
+^^Lawsuits. No lawsuit, proceeding, or investigation shall have been commenced by any governmental authority on any grounds to restrain, enjoin, or hinder the consummation of the transactions contemplated by this Agreement.
+
+^^Listing Approval. The NYSE Amex shall have approved the listing of the BioTime Shares on a when issued basis.
+
+^^Compliance with Securities Laws. The sale and issuance of the BioTime Shares shall be (a) exempt from registration under the Securities Act, and (b) exempt from registration, qualification or other regulation under the laws of any state of the United States and any country in which any Other Shareholder resides.
+
+^^**Conditions to Other Shareholders’ Obligation to Close**. The obligations of the Other Shareholders to sell and transfer their respective Other ESI Shares to Purchaser under this Agreement are subject to and conditioned upon the satisfaction of the following conditions on or before the Closing Date.
+
+^^Delivery of Documents. Purchaser shall have delivered all of the documents required to be delivered under Section 4.2 to the Other Shareholders.
+
+^^Representations and Warranties. The representations and warranties made by the Purchaser in Article 3 of this Agreement shall be true and correct in all material respects on and as of the Closing Date (or, if made as of a specific date, at and as of such date) with the same effect as though such representations and warranties had originally been made as of the Closing.
+
+^^Performance. Purchaser shall have performed and complied, in all material respects, with all agreements, obligations, and conditions that it is required to perform or comply with, on or before the Closing Date.
+
+^^**Responsibility for Satisfaction**. The Other Shareholders shall use all reasonable endeavours to ensure the satisfaction of the conditions set out in Sections 4.4(a), 4.4(b), and 4.4(c) and the Purchaser shall use all reasonable endeavours to ensure the satisfaction of the conditions set out in Section 4.4(e), 4.4(f) and Section 4.5. The Purchaser undertakes to disclose in writing to the Other Shareholders any event which will or may prevent the conditions specified in Section 4.4(e), Section 4.4(f) and Section 4.5 from being satisfied on or before the Closing Date promptly upon its knowledge of such event. The Other Shareholders undertake to disclose in writing to the Purcha ser any event which will or may prevent the conditions specified in Sections 4.4(a), 4.4(b), and 4.4(c) from being satisfied on or before the Closing Date promptly upon its knowledge of such event.
+
+^^**Non-Satisfaction /Waiver**
+
+^^The Purchaser may at any time waive in whole or in part the conditions set out in Sections 4.4(a), 4.4(b), and 4.4(c) by notice in writing to the other Parties. In the event the Purchaser waives, in whole or in part, any of the conditions set out in Sections 4.4(a), 4.4(b), and 4.4(c) (the “**Waived Purchaser Condition**”), the Purchaser shall not have any claim against any of the Other Shareholders, Beneficial Shareholders or Principal Vendors for such, whole or part, of the Waived Purchaser Condition.
+
+^^The Other Shareholders may at any time waive in whole or in part the conditions set out in Section 4.5 by notice in writing signed by at least four Other Shareholders (the “**Majority Other Shareholders**”), to the Purchaser. In the event the Majority Other Shareholders waive, in whole or in part, any of the conditions set out in Section 4.5 (the “**Waived Other Shareholders Condition**”), the Principal Vendors, the Other Shareholders and the Beneficial Shareholders shall not have any claim against the Purchaser for such, whole or part, of th e Waived Other Shareholders Condition. Any written notification given by the Majority Other Shareholders pursuant to this Section 4.7(b) shall be deemed to have been duly given by and on behalf of the Other Shareholders and each of the Other Shareholders agrees to be bound by the written notification of the Majority Other Shareholders pursuant to this Section 4.7(b).
+
+^^If the conditions in Sections 4.4 and 4.5 are not satisfied or waived on or before the Closing Date, this Agreement (other than Section 5.2 and Article 6) shall ipso facto cease and terminate on the Closing Date and none of the Parties shall have any claim against the other for costs, damages, compensation or otherwise, save for any claim by the relevant Party arising from antecedent breaches of this Agreement.
+
+\centered **ADDITIONAL COVENANTS**
+
+^^**Further Assurances**.
+
+The Other Shareholders and the Beneficial Shareholders will execute, acknowledge, deliver, file, and record such additional certificates, deeds, instruments, notices, and documents; and will take such additional actions as Purchaser may reasonably request on or after the date of this Agreement to effect, complete, or perfect the sale, transfer, assignment, and conveyance of the Other ESI Shares to Purchaser. The Purchaser will execute, acknowledge, deliver, file, and record such additional certificates, deeds, instruments, notices, and documents; and will take such additional actions as any of the Other Shareholders, the Beneficial Shareholders or the Principal Vendors may reasonably request on or after the date of this Agreement to effect, complete, or perfect the sale, transfer, assignment, and conveyance of the Other ESI Shares to Pur chaser and the allotment and issue of the BioTime Shares to the Other Shareholders.
+
+^^**Confidentiality**. Each Other Shareholder and Beneficial Shareholder agrees that it will not disclose to any person or entity (other than the officers and directors of the Purchaser or ESI) for any reason, or otherwise use, any Confidential Information which the Other Shareholders or Beneficial Shareholders may have acquired with respect to the business of ESI or any of ESI's consolidated subsidiaries, or Purchaser's business, prior to or after the date of this Agreement, without the prior written consent of the Purchaser. "**Confidential Information**" means all information of ESI or any of ESI's consolidated subsidiaries that includes or pertai ns to: (a) the formulation, composition, or methods of manufacture of any product; (b) the results of any research, testing, or evaluation of any product or technology (including, without limitation, non-public regulatory agency data, pre-clinical and clinical data, medicinal chemistry, test and analysis results, and other technical information); (c) formulae, processes, the content of Patent Applications, know-how, ideas, unpatented inventions, and research protocols; (d) research and development plans and programs; (e) business methods and strategies; (f) business planning, marketing plans, and customer lists; (g) accounting, income tax, and financial information; (h) the terms of contracts and licenses, and proposed contracts, licenses, and other business arrangements with third parties; and (i) information concerning the compensation of employees and consultants. "**Patent Application**" includes all applications, amendments to applications, continuations, divisionals, and continuations in part. The restriction in this Section 5.2 shall continue to apply for three years after Closing but shall not apply to any Confidential Information which was or is:
+
+^^already or may hereafter be in the public domain other than arising from a breach of this Section 5.2;
+
+^^lawfully obtained by the party receiving the Confidential Information from a third party, where the third party was not known, or was not reasonably thought to be known, to such receiving party to be bound by any obligation to the other party to maintain the confidentiality of such information;
+
+^^required by any laws, rules or regulations or by any governmental or statutory authority, agency or regulatory body or its equivalent (including any relevant stock exchange or tax authorities which may be applicable to it and/or its related corporations) or by a court of competent jurisdiction to be disclosed provided that in such event, the relevant Party shall (and shall procure that its relevant related corporations shall) forthwith consult with the other Parties on the form and content of the announcement or the disclosure (as the case may be) prior to making the announcement or disclosure (as the case may be);
+
+^^disclosed to the professional advisers of the respective Parties;
+
+^^required to be disclosed or used to vest the full benefit of this Agreement in any of the Parties; or
+
+^^information independently developed after Closing without the use of Confidential Information.
+
+Except as may be required to be disclosed pursuant to any applicable requirement issued by any competent governmental or statutory authority, and rules or regulations of any relevant regulatory body, including but not limited to the rules and regulations of the United States Securities and Exchange Commission, and the rules and regulations of the NYSE Amex or any other relevant stock exchange, each Party undertakes that prior to Closing it will not make any announcement in connection with this Agreement, unless the other Parties shall have given its written consent to such announcement (which consent not to be unreasonably withheld).
+
+^^**Injunctive Remedies**. Each Other Shareholder and Beneficial Shareholder acknowledges that it would be extremely difficult to measure the damages which the Purchaser might suffer if the Other Shareholder or Beneficial Shareholder were to breach the provisions of Section 5.2 of this Agreement. Purchaser and any successor in interest or permitted assignee of Purchaser (each, the “**Purchaser’s Successor**”) shall be entitled, in the event of a breach of the provisions of Section 5.2 of this Agreement, to injunctive relief to restrain any person or entity from any such breach, without showing any actual damage to Purchas er or Purchaser’s Successor. The Purchaser or Purchaser’s Successor shall also in the event of a breach of the provisions of Section 5.2 of this Agreement, be entitled to any other remedies available to any of them at law or in equity.
+
+\centered **MISCELLANEOUS**
+
+^^**Governing Law**. This Agreement shall be construed and governed in all respects by the laws of Singapore.
+
+^^**Successors and Assigns**. The provisions of this Agreement shall inure to the benefit of, and be binding upon, the successors, permitted assigns, heirs, executors, and administrators of each Party to this Agreement. Purchaser may assign some or all of Purchaser's rights under this Agreement to a subsidiary of Purchaser; or may direct that title to and possession of some or all of the Other ESI Shares be taken in the name of one or more of Purchaser's subsidiaries. Except as set out in this Section 6.2, Purchaser shall not assign the benefit of all or any of its obligations under this Agreement, or any benefit arising under or out of this Agreement to any third party, except t hat the provisions of Sections 5.2 and 5.3 may be assigned in connection with a merger or consolidation with another company or business entity or a sale of ESI, without the prior written consent of the other Parties.
+
+^^**Entire Agreement; Amendment**. This Agreement constitutes the full and entire understanding and agreement among the Parties with regard to the subject matter of this Agreement at the date of this Agreement to the exclusion of any terms implied by law which may be excluded by contract and supersedes any previous written or oral agreement between ESI and the Purchaser in relation to the matters dealt with in this Agreement (including the letters of intent issued by Purchaser dated 2 [[Date 5: Date]] and 11 [[Date 6: Date]]). The Purchaser acknowledges that it has not been induced to enter into this Agreement by any representation, warranty or undertaking not expressly incorporated into this Agreem ent. In this Section 6.3, “**this Agreement**” includes the Schedules to this Agreement and all documents entered into pursuant to this Agreement. This Agreement and any term of this Agreement may be amended, waived, discharged, or terminated only by a written instrument signed by the Parties.
+
+^^**Arbitration**. In case any dispute or difference shall arise between the Parties as to the construction of this Agreement or as to any matter of whatsoever nature arising thereunder or in connection therewith, including any question regarding its existence, validity or termination, such dispute or difference shall be submitted to a single arbitrator to be agreed in writing between the Purchaser and the Principal Vendors (on behalf of the Principal Vendors, the Other Shareholders and the Beneficial Shareholders) or, failing agreement within two (2) weeks of submission of a request to agree by either Purchaser or the Principal Vendors, to be appointed by the Chairman of the Singapore International A rbitration Centre (the “**SIAC**”) at that time. Such submission shall be a submission to arbitration in accordance with the Arbitration Rules of the SIAC in force at that time, which rules are deemed to be incorporated by reference in this clause, by which the Parties hereto agree to be so bound. The place of arbitration shall be Singapore and the arbitration shall be conducted wholly in the English language. Each Party irrevocably submits to the exclusive jurisdiction of the courts of Singapore and to support and assist the arbitration process set out above, including if necessary the grant of interlocutory relief pending the outcome of that process.
+
+^^**Notices, etc.** All notices and other communications required or permitted to be given pursuant to this Agreement shall be in writing and shall be deemed given when delivered by hand, messenger, or express air freight service, in any case addressed as follows:
+
+To Purchaser:   [[Organization 1 Name]]
+
+[[Address 4: Address]] 
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]], President 
+
+**with a copy to**: 
+[[Person 2 First Name]] [[Person 2 Last Name]], Esq. 
+[[Person 3 First Name]] [[Person 3 Last Name]] ,Welch, [[Organization 6 Name]] LLP
+
+[[Address 5: Address]]  
+**and to**: 
+[[Person 4 First Name]] [[Person 4 Last Name]] 
+[[Organization 7 Name]] 
+^Raffles Place #32-00 Republic Plaza 
+Singapore 048619  
+To the Principal Vendors  
+:   To the applicable address and attentioned to the person shown on Schedule 1 of this Agreement.
+
+To the Other Shareholders  
+:   To the applicable address and attentioned to the person shown on Part 1 of Schedule 2 of this Agreement.
+
+To the Beneficial Shareholders  
+:   To the applicable address and attentioned to the person shown on Part 2 of Schedule 2 of this Agreement.
+
+To ESI  
+:   60 Biopolis Street #01-03 Genome Singapore 138672
+
+Attention: [[Person 5 First Name]] [[Person 5 Last Name]]  
+Any Party may change its address for the purpose of this Section by giving notice to each other Party in accordance with this Section.
+
+^^**Delays and Omissions**. No delay or omission to exercise any right, power, or remedy accruing to any Party to this Agreement, upon any breach or default of any other Party under this Agreement, shall impair any such right, power, or remedy of such Party nor shall such delay or omission be construed to be a waiver of, or an acquiescence in, any such breach or default or any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent, or approval of any kind or character on the part of any Party of any breach or default under this Agre ement, or any waiver on the part of any Party of any provisions or conditions of this Agreement, must be made in writing, as provided in Section 6.3, and shall be effective only to the extent specifically set forth in such writing.
+
+^^**Expenses**. Except for ESI, the Parties shall bear their own expenses, incurred on their behalf with respect to this Agreement and to the transactions contemplated by this Agreement. [[Organization 8 Name]] shall bear all expenses incurred by ESI with respect to this Agreement and to the transactions contemplated by this Agreement.
+
+^^**Severability**. If one or more provisions of this Agreement are held to be unenforceable under applicable law, each such unenforceable provision shall be excluded from this Agreement and the balance of this Agreement shall be interpreted as if each such unenforceable provision were so excluded; the balance of this Agreement as so interpreted shall be enforceable in accordance with its terms.
+
+^^**Time of the Essence**. Time shall be of the essence of this Agreement both as regards any dates and periods mentioned and as regards any dates and periods which may be substituted for them in accordance with this Agreement or by agreement in writing between the Parties.
+
+^^**Counterparts**. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. Counterparts of this Agreement may be transmitted by facsimile, electronic mail, or other electronic means and, upon receipt, shall be deemed an original; provided that, upon demand of the recipient, the sender shall mail or deliver an original signed copy within a reasonable time of such demand.
+
+^^**Third Party Rights**. A person who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act, Chapter 53B of Singapore to enforce any term of this Agreement.
+
+^^**Interpretation****.** In this Agreement, unless the context otherwise requires, the provisions in this Section 6.12 apply:
+
+^^The sign “S$” means the lawful currency of Singapore.
+
+^^“**Business Day**” means a day on which commercial banks are open for business in Singapore (excluding Saturdays, Sundays and gazetted public holidays).
+
+^^"**Series A1 ESI Preferred Shares**" means the series A1 ESI Preferred Shares, which may be converted into ESI Ordinary Shares in accordance with the provisions of the ESI articles of association;
+
+^^"**Series A2 ESI Preferred Shares**" means the series A2 ESI Preferred Shares, which may be converted into ESI Ordinary Shares in accordance with the provisions of the ESI articles of association;
+
+^^"**Series A3 ESI Preferred Shares**" means the series A3 ESI Preferred Shares, which may be converted into ESI Ordinary Shares in accordance with the provisions of the ESI articles of association; and
+
+^^The expressions “**subsidiary**” and “**related corporations**” shall have the same meanings in this Agreement as their respective definitions in the Companies Act, Cap. 50 of Singapore.
+
+\centered ***Signatures Start on Following Page***
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the date first above written.
+
+**PURCHASER**:  
+[[Organization 1 Name]]   
+[[[[Organization 9 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]]. Entity => By: [[[[Organization 9 Name]]. Signatory First Name]] [[[[Organization 9 Name]]. Signatory Last Name]]
+Title: [[[[Organization 9 Name]]. Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]], 
+Chief Executive Officer   
+[[Chief Executive Officer Signatory Email: Identity | Signature]]
+__________________________________________
+{{Chief Executive Officer Entity => By: [[Chief Executive Officer Signatory First Name]] [[Chief Executive Officer Signatory Last Name]]
+Title: [[Chief Executive Officer Signatory Title]]}}
+
+[[Person 6 First Name]] [[Person 6 Last Name]], 
+Secretary   
+**PRINCIPAL VENDORS**:  
+[[Organization 10 Name]]   
+[[[[Organization 10 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 10 Name]] Entity => By: [[[[Organization 10 Name]] First Name]] [[[[Organization 10 Name]] Last Name]]
+Title: [[[[Organization 10 Name]] Title]]}}
+
+[[Person 7 First Name]] [[Person 7 Last Name]]  
+Title **Director**   
+[[Organization 8 Name]]
+
+[[[[Organization 8 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] First Name]] [[[[Organization 8 Name]] Last Name]]
+Title: [[[[Organization 8 Name]] Title]]}}
+
+[[Person 8 First Name]] [[Person 8 Last Name]]  
+Title **Director**   
+[[Organization 11 Name]]   
+[[[[Organization 11 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 11 Name]] Entity => By: [[[[Organization 11 Name]] First Name]] [[[[Organization 11 Name]] Last Name]]
+Title: [[[[Organization 11 Name]] Title]]}}
+
+[[Person 9 First Name]] [[Person 9 Last Name]]  
+Title **Director** 
+
+**OTHER SHAREHOLDERS AND BENEFICIAL SHAREHOLDERS:**
+
+[[Organization 12 Name]]   
+[[[[Organization 12 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 12 Name]] Entity => By: [[[[Organization 12 Name]] First Name]] [[[[Organization 12 Name]] Last Name]]
+Title: [[[[Organization 12 Name]] Title]]}}
+
+Prof. [[Person 10 First Name]] [[Person 10 Last Name]]  
+Title **Director**   
+
+**/s/ Martin Frederick Pera** 
+MARTIN FREDERICK PERA   
+[[Organization 13 Name]]  
+[[[[Organization 13 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 13 Name]] Entity => By: [[[[Organization 13 Name]] Signatory First Name]] [[[[Organization 13 Name]] Signatory Last Name]]
+Title: [[[[Organization 13 Name]] Signatory Title]]}}
+
+[[Person 11 First Name]] [[Person 11 Last Name]]  
+Title **Chief Financial Officer**   
+[[Organization 4 Name]]   
+[[[[Organization 4 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] Entity => By: [[[[Organization 4 Name]] First Name]] [[[[Organization 4 Name]] Last Name]]
+Title: [[[[Organization 4 Name]] Title]]}}
+
+[[Person 12 First Name]] [[Person 12 Last Name]]  
+Title **President**   
+[[Organization 14 Name]]   
+[[[[Organization 14 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 14 Name]] Entity => By: [[[[Organization 14 Name]] First Name]] [[[[Organization 14 Name]] Last Name]]
+Title: [[[[Organization 14 Name]] Title]]}}
+
+[[Person 13 First Name]] [[Person 13 Last Name]]  
+Title **Director**
+
+[[Organization 15 Name]] AND 
+[[Organization 16 Name]]  
+[[[[Organization 16 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 16 Name]] Entity => By: [[[[Organization 16 Name]] Signatory First Name]] [[[[Organization 16 Name]] Signatory Last Name]]
+Title: [[[[Organization 16 Name]] Signatory Title]]}}
+
+Dr. Einat Zisman  
+Title **Chief Executive Officer**   
+
+**/s/ [[Person 14 First Name]] [[Person 14 Last Name]]** 
+[[Person 14 First Name]] [[Person 14 Last Name]]    
+
+**/s/ [[Person 15 First Name]] [[Person 15 Last Name]]** 
+[[Person 15 First Name]] [[Person 15 Last Name]]     
+
+**/s/ [[Person 16 First Name]] [[Person 16 Last Name]] Reubinoff** 
+[[Person 16 First Name]] [[Person 16 Last Name]] REUBINOFF   
+**ESI:**  
+[[Organization 2 Name]]   
+[[[[Organization 2 Name]] Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] First Name]] [[[[Organization 2 Name]] Last Name]]
+Title: [[[[Organization 2 Name]] Title]]}}
+
+Dr. [[Person 17 First Name]] [[Person 17 Last Name]]  
+Title **Director**  
+
+\centered Schedule 1
+
+\centered The Principal Vendors
+
+\centered (1)   \centered **Name and Particulars**   \centered (2)   \centered **Number and Class of Principal ESI Shares**   \centered (3)   
+
+\centered **Number of BioTime Shares per Principal ESI Share**
+[[Organization 11 Name]] Address: Suite 203/63 Stead Street [[Address 6: Address]], 3205 Australia Attention: [[Person 18 First Name]] [[Person 18 Last Name]]   \centered 3,000,000 A1 ESI Preferred Shares   \centered 1,667,000 A2 ESI Preferred Shares   \centered 153,547 ESI Ordinary Shares   \centered 0.00307680755416697 per A1 ESI Preferred Share   \centered 0.00369216906500036 per A2 ESI Preferred Share   \centered 0.00307680755416697 per ESI Ordinary Share
+[[Organization 10 Name]] Address: 250 North Bridge Road #20-02 Raffles City Tower Singapore 179101 Attention: [[Person 7 First Name]] [[Person 7 Last Name]]   \centered 3,000,000 A1 ESI Preferred Shares   \centered 1,667,000 A2 ESI Preferred Shares   \centered 1,962,000 A3 ESI Preferred Shares   \centered 0.00307680755416697 per A1 ESI Preferred Share   \centered 0.00369216906500036 per A2 ESI Preferred Share   \centered 0.00470443875032130 per A3 ESI Preferred Share
+[[Organization 8 Name]] Address: 250 North Bridge Road #20-02 Raffles City Tower Singapore 179101 Attention: [[Person 8 First Name]] [[Person 8 Last Name]]   \centered 1,923,076 A3 ESI Preferred Shares   \centered 0.00470443875032130 per A3 ESI Preferred Share
+
+\centered Schedule 2
+
+\centered Other Shareholders
+
+\centered Part 1
+
+\centered (1)   \centered **Name and Particulars of Legal Shareholders**   \centered (2)   \centered **Number of Other ESI Shares**   \centered (3)   \centered **Number of BioTime Shares to be allotted and issued to Legal Shareholders**   
+
+\centered **(based on 0.00307680755416697 BioTime Shares per ESI Ordinary Share)**
+
+[[Organization 13 Name]] 45 Moulton Street [[Address 7: Address]], USA Attention: [[Person 19 First Name]] [[Person 19 Last Name]]   \centered 2,100,000   \centered 6,461
+
+[[Organization 14 Name]] University Building 3a, Wellington Road, Clayton Victoria, Australia 3800 Attention: David Munro Pitt   \centered 1,200,000   \centered (this includes 200,000 ESI Ordinary Shares held by [[Organization 14 Name]] on trust for Martin Frederick Pera – please see row 1 in Part 2 of Schedule 2 below)   \centered 3,692
+
+[[Organization 12 Name]] 21 Heng Mui Keng Terrace, Level 5, Singapore 119613 Attention: [[Person 20 First Name]] [[Person 20 Last Name]] and [[Person 21 First Name]] [[Person 21 Last Name]]   \centered 1,246,453   \centered (this includes 400,000 ESI Ordinary Shares held by [[Organization 12 Name]] on trust for [[Person 14 First Name]] [[Person 14 Last Name]] and 100,000 ESI Ordinary Shares held by [[Organization 12 Name]] on trust for [[Person 15 First Name]] [[Person 15 Last Name]] – please see rows 2 and 3 in Part 2 of Schedule 2 respectively)   \centered 3,835
+
+[[Organization 15 Name]] and [[Organization 16 Name]] Kiryat Hadassah P.O.B 12000 Jerusalem, Israel 91120 Attention: [[Person 22 First Name]] [[Person 22 Last Name]]   \centered 1,200,000   \centered (this includes 400,000 Ordinary Shares held by [[Organization 15 Name]] and [[Organization 16 Name]]   \centered on trust for B. Reubinoff – please see row 4 in Part 2 of Schedule 2 below)   \centered 3,692
+
+Martin Frederick Pera 2294 Alcyona Dr. [[Address 8: Address]], USA   \centered 200,000  
+
+[[Organization 4 Name]] [[Address 9: Address]] USA Attention: [[Person 23 First Name]] [[Person 23 Last Name]]   \centered 200,000     \centered (to be allotted and issued to [[Organization 5 Name]])
+
+\centered Part 2
+
+\centered **Name and Particulars of Beneficial Shareholders**   
+
+\centered **Number of Other ESI Shares**
+
+Martin Frederick Pera 2294 Alcyona Dr. [[Address 8: Address]], USA   \centered 200,000   \centered (Held by [[Organization 14 Name]] on trust)
+
+[[Person 14 First Name]] [[Person 14 Last Name]] C/O: [[Organization 12 Name]] 21 Heng Mui Keng Terrace, Level 5, Singapore 119613   \centered 400,000   \centered (Held by [[Organization 12 Name]] on trust)
+
+[[Person 15 First Name]] [[Person 15 Last Name]] C/O: [[Organization 12 Name]] 21 Heng Mui Keng Terrace, Level 5, Singapore 119613   \centered 100,000   \centered (Held by [[Organization 12 Name]] on trust)
+
+[[Person 16 First Name]] [[Person 16 Last Name]] [[Person 24 First Name]] [[Person 24 Last Name]] Hadassah P.O.B 12000 Jerusalem, Israel 91120   \centered 400,000   \centered (Held by [[Organization 15 Name]] and [[Organization 16 Name]] on trust)
+
+\centered Exhibit A
+
+\centered Registration Rights Agreement
+
+\centered REGISTRATION RIGHTS AGREEMENT
+
+\centered by and among
+
+\centered [[Organization 1 Name]]
+
+\centered and the SHAREHOLDERS named herein
+
+\centered Dated: [[Date 3]]
+
+\centered **TABLE OF CONTENTS**
+
+**Page**
+
+^Definitions and Interpretations.  
+
+^General; Securities Subject to this Agreement  
+
+^S-3 Registration  
+
+^Registration Procedures  
+
+^Indemnification; Contribution  
+
+^Reports Under Exchange Act  
+
+^Miscellaneous  
+
+\centered i
+
+\centered **REGISTRATION RIGHTS AGREEMENT**
+
+REGISTRATION RIGHTS AGREEMENT, dated as of [[Date 3]], by and among [[Organization 1 Name]], a California corporation (the “**Company**”), and the shareholders that are party to this Agreement from time to time, as set forth on the signature page hereto (each, a “**Designated Shareholder**”).
+
+WHEREAS, the parties hereto desire to provide for, among other things, the grant of registration rights with respect to the Registrable Securities (as hereinafter defined).
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein and for good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto agree as follows:
+
+^**Definitions and Interpretations.**
+
+^^**Definitions**. As used in this Agreement, and unless the context requires a different meaning, the following terms have the meanings indicated:
+
+^^^“Acquired Shares” means the Shares, other than Warrant Shares, issued to the Designated Shareholders pursuant to that certain Equity and Note Purchase Agreement, dated [[Date 1]], Transfer Agreement, dated [[Date 1]] and the Option Holders Agreement, dated [[Date 1]], among the Company and the Designated Shareholders, including any Shares placed into escrow or subject to holdback.
+
+^^^“Affiliate” means, with respect to a Person, any other Person directly or indirectly controlling, controlled by or under direct or indirect common control with such specified Person. For purposes of this definition, “control” (including, with correlative meanings, the terms “controlling,” “controlled by” and “under common control with”), as used with respect to a Person, shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such Person, whether through the ownership of voting securities, by agreement or otherwise.
+
+^^^“Agreement” means this Registration Rights Agreement as the same may be amended, supplemented or modified in accordance with the terms.
+
+^^^“Automatic Shelf Registration Statement” means an “automatic shelf registration statement” as defined in Rule 405 promulgated under the Securities Act.
+
+^^^“Board of Directors” means the Board of Directors of the Company (or any duly authorized committee thereof).
+
+^^^“Business Day” means any day other than a Saturday, Sunday or other day on which commercial banks in New York, New York and San Francisco, California are authorized or required by law or executive order to close.
+
+^^^“Commission” means the Securities and Exchange Commission or any similar agency then having jurisdiction to enforce the Securities Act.
+
+^^^“Company” has the meaning set forth in the preamble to this Agreement.
+
+^^^“Company Free Writing Prospectus” means each Free Writing Prospectus prepared by or on behalf of the Company or used or referred to by the Company in connection with an offering of Registrable Securities.
+
+^^^Designated Shareholder” has the meaning set forth in the preamble to this Agreement.
+
+^^^“Designated Shareholders’ Counsel” has the meaning set forth in Section 4(a)(i).
+
+^^^“Disclosure Package” means, with respect to any offering of Registrable Securities, (i) the preliminary Prospectus, (ii) each Free Writing Prospectus and (iii) all other information, in each case, that is deemed, under Rule 159 promulgated under the Securities Act, to have been conveyed to purchasers of securities at the time of sale of such securities (including, without limitation, a contract of sale).
+
+^^^“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations of the Commission thereunder.
+
+^^^“Free Writing Prospectus” means any “free writing prospectus” as defined in Rule 405 promulgated under the Securities Act.
+
+^^^“Indemnified Party” has the meaning set forth in Section 5(c).
+
+^^^“Indemnifying Party” has the meaning set forth in Section 5(c).
+
+^^^“Inspector” has the meaning set forth in Section 4(a)(i).
+
+^^^“Liability” has the meaning set forth in Section 5(a).
+
+^^^“Permitted Assignee” means, with respect to any Person, to the extent applicable, (i) such Person’s parents, spouse, siblings, siblings’ spouses, children (including stepchildren and adopted children), children’s spouses, grandchildren or grandchildren’s spouses (“Family Members”), (ii) a corporation, partnership or limited liability company, a majority of the beneficial interests of which shall be held by such Person, such Person’s Affiliates and/or such Person’s Family Members, (iii) a trust, the beneficiaries of which are such Person and/or such Person’s Family Members, (iv) such Person’ ;s heirs, executors, administrators, estate or a trust under such Person’s will, (v) an entity described in Section 501(c)(3) of the United States Internal Revenue Code of 1986, as amended, that is established by such Person, and (vi) any Affiliate of such Person.
+
+^^^“Person” means any individual, corporation, partnership, limited liability company, trust, incorporated or unincorporated association, joint venture, joint stock company, government (or an agency or political subdivision t) or other entity of any kind, and shall include any successor (by merger or otherwise) of such entity.
+
+^^^“Pledgee” has the meaning set forth in Section 2(d)(i).
+
+^^^“Prospectus” means the prospectus related to any Registration Statement (including, without limitation, a prospectus or prospectus supplement that discloses information previously omitted from a prospectus filed as part of an effective registration statement in reliance on Rule 415, 430A, 430B or 430C under the Securities Act, as amended or supplemented by any amendment or prospectus supplement), including post-effective amendments, and all materials incorporated by reference in such prospectus.
+
+^^^“Records” has the meaning set forth in Section 4(a)(viii).
+
+^^^“Registrable Securities” means, subject to Section 2(b) and Section 2(d)(i), (i) the Acquired Shares, (ii) Warrant Shares, and (iii) any other securities that are (A) distributed as a dividend or otherwise with respect to Acquired Shares or Warrant Shares, or (B) issued or issuable in exchange for or through conversion of the Acquired Shares or Warrant Shares pursuant to a recapitalization, reorganization, merger, consolidation, sale of assets or other transaction.
+
+^^^“Registration Expenses” has the meaning set forth in Section 4(d).
+
+^^^“Registration Statement” means a registration statement filed pursuant to the Securities Act.
+
+^^^“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations of the Commission promulgated thereunder.
+
+^^^“Shares” means (i) the common shares, no par value, of the Company, (ii) any securities of the Company or any successor or assign of the Company into which such shares described in clause (i) are reclassified or reconstituted or into which such shares are converted or otherwise exchanged in connection with a combination of shares, recapitalization, merger, sale of assets, consolidation or other reorganization or otherwise or (iii) any securities received as a dividend or distribution in respect of the securities described in clauses (i) and (ii) above.
+
+^^^“Warrant” means any warrant issued by the Company under that certain Warrant Agreement, of even date, among the Company and the Designated Shareholders.
+
+^^^“Warrant Shares” means the Shares, or any other securities, issuable upon the exercise of the Warrants.
+
+^^**Interpretation**. Unless otherwise noted:
+
+^^^All references to laws, rules, regulations and forms in this Agreement shall be deemed to be references to such laws, rules, regulations and forms, as amended from time to time or, to the extent replaced, the comparable successor laws, rules, regulations and forms thereto in effect at the time.
+
+^^^All references to agencies, self-regulatory organizations or governmental entities in this Agreement shall be deemed to be references to the comparable successor thereto.
+
+^^^All references to agreements and other contractual instruments shall be deemed to be references to such agreements or other instruments as they may be amended, waived, supplemented or modified from time to time.
+
+^^^All references to any amount of securities (including Registrable Securities) shall be deemed to be a reference to such amount measured on an as-converted or as-exercised basis.
+
+^**General; Securities Subject to this Agreement**
+
+^^**Grant of Rights**. The Company hereby grants registration rights to the Designated Shareholders upon the terms and conditions set forth in this Agreement.
+
+^^**Registrable Securities**. For the purposes of this Agreement, Registrable Securities held by any Designated Shareholder will cease to be Registrable Securities when (i) a Registration Statement covering such Registrable Securities has been declared effective under the Securities Act by the Commission and such Registrable Securities have been disposed of pursuant to such effective Registration Statement, (ii) the entire amount of the Registrable Securities held by any Designated Shareholder may be sold in a single sale, in the opinion of counsel reasonably satisfactory to the Company, without any limitation as to volume or manner of sale pursuant to Rule 144 promulgated under the Securities Act or (iii) they have ceased to be outstanding.
+
+^^**Holders of Registrable Securities**. A Person is deemed to be a holder of Registrable Securities whenever such Person owns of record Registrable Securities. If the Company receives conflicting instructions, notices or elections from two or more Persons with respect to the same Registrable Securities, the Company may act upon the basis of the instructions, notice or election received from the registered owner of such Registrable Securities. Registrable Securities consisting of Warrant Shares shall be deemed outstanding for the purposes of this Agreement.
+
+^^**Transfer of Registration Rights****.**  
+^^^Each Designated Shareholder may transfer or pledge Registrable Securities with the associated registration rights under this Agreement (including transfers occurring by operation of law or by reason of intestacy) to a Permitted Assignee or a pledgee (“**Pledgee**”) only if (1) such Permitted Assignee or Pledgee agrees in writing to be bound as a Designated Shareholder by the provisions of this Agreement, such agreement being substantially in the form of **Annex A** hereto, and (2) immediately following such transfer or pledge, the further disposition of such Registrable Securities by such Permitted Assignee or Pledgee would be restricted under the Securities Act and the entire amount of all such Registrable Securities could not be sold in a single sale, in the opinion of counsel reasonably satisfactory to the Company, without any limitation as to volume or manner of sale pursuant to Rule 144 promulgated under the Securities Act. Upon any transfer or pledge of Registrable Securities other than as set forth in this Section 2(d), such securities shall no longer constitute Registrable Securities.
+
+^^^Subject to Section 2(b), if a Designated Shareholder assigns its rights under this Agreement in connection with the transfer of less than all of its Registrable Securities, the Designated Shareholder shall retain its rights under this Agreement with respect to its remaining Registrable Securities. If a Designated Shareholder assigns its rights under this Agreement in connection with the transfer of all of its Registrable Securities, such Designated Shareholder shall have no further rights or obligations under this Agreement, except under Section 5 in respect of offerings in which it participated.
+
+^**S-3 Registration**
+
+^^As soon as practicable after the date hereof, the Company shall prepare and file with the Commission a Registration Statement covering the resale of all of the Registrable Securities for an offering to be made on a continuous basis pursuant to Rule 415. Such Registration Statement filed hereunder shall be on Form S-3 or, if such form is not available to the Company, Form S-1. Subject to the terms of this Agreement, the Company shall use its reasonable best efforts to cause such Registration Statement to be declared effective under the Securities Act as promptly as possible after the filing thereof, but in any event within sixty (60) days of the date hereof (**provided, however**, that in the event the Company is notified by the Commission that the Registration Statement will not be reviewed or is no longer subject to further review and comments, within five (5) business days following the date on which the Company is so notified).
+
+^^If for any reason the Commission does not permit all of the Registrable Securities to be included in the Registration Statement(s) filed pursuant to Section 3(a), or for any other reason any outstanding Registrable Securities are not then covered by an effective Registration Statement(s), then the Company shall prepare and file, as promptly as possible and in all instances within 30 days of the Commission’s notification not to permit registration of all the Registrable Securities, an additional Registration Statement covering the resale of all Registrable Securities not already covered by an existing and effective Registration Statement for an offering to be made on a continuous basis pur suant to Rule 415, on Form S-3 (or on such other form appropriate for such purpose).
+
+^**Registration Procedures**
+
+^^**Obligations of the Company**. Whenever registration of Registrable Securities has been required pursuant to this Agreement, the Company shall use its reasonable best efforts to effect the registration of such Registrable Securities as quickly as practicable, and in connection with any such request, the Company shall:
+
+^^^prepare and file with the Commission a Registration Statement on any form for which the Company then qualifies or which counsel for the Company shall deem appropriate and which form shall be available for the sale of such Registrable Securities in accordance with the intended method of distribution, and cause such Registration Statement to become effective; **provided, however**, that (x) before filing a Registration Statement or Prospectus or any amendments or supplements thereto (including, without limitatio n, any documents incorporated by reference therein), or before using any Free Writing Prospectus, the Company shall provide one firm of legal counsel selected by the Designated Shareholders holding a majority of the Registrable Securities being registered in such registration (“**Designated Shareholders’ Counsel**”), any managing underwriter or broker/dealer participating in any disposition of such Registrable Securities pursuant to a Registration Statement and any attorney retained by any such managing underwriter or broker/dealer (each, an “**Inspector**” and collectively, the “**Inspectors**”) with an opportunity to review and comment on such Registration Statement and each Prospectus included therein (and each amendment or supplement thereto) and each Free Writing Prospectus to be fi led with the Commission, subject to such documents being under the Company’s control, and (y) the Company shall notify the Designated Shareholders’ Counsel and each seller of Registrable Securities pursuant to such Registration Statement of any stop order issued or threatened by the Commission and take all reasonable actions required to prevent the entry of such stop order or to remove it if entered;
+
+^^^prepare and file with the Commission such amendments and supplements to such Registration Statement and the Prospectus used in connection therewith as shall be necessary to keep such Registration Statement effective for the lesser of (x) such period which will terminate when all Registrable Securities covered by such Registration Statement have been sold (or, if such Registration Statement is an Automatic Shelf Registration Statement, on the first anniversary of the date of filing of such Automatic Shelf Registration Statement) or (y) the securities covered by such Registration Statement are no longer Registrable Securities;
+
+^^^furnish to each seller of Registrable Securities such number of copies of such Registration Statement, each amendment and supplement thereto, the Prospectus included in such Registration Statement (including each preliminary Prospectus), any Prospectus filed under Rule 424 under the Securities Act and any Free Writing Prospectus as each such seller may reasonably request in order to facilitate the disposition of the Registrable Securities owned by such seller; provided that the Company need not provide copies of exhibits to the Registration Statement.
+
+^^^use its commercially reasonable efforts to expeditiously register or qualify such Registrable Securities under such other securities or “blue sky” laws of California and New York if required by the laws of such states, and continue such registration or qualification in effect in such jurisdiction for as long as permissible pursuant to the laws of such jurisdiction, or for as long as any such seller requests or until all of such Registrable Securities are sold or are “covered securities” under the Securities Act, whichever is shortest, and do any and all other acts and things which may be reasonably necessary or advisable to enable any such seller to consummate the disposition of the Registrable Securities owned by such seller in such jurisdictions; **provided, however**, that the Company shall not be required to (x) qualify generally to do business in any jurisdiction where it would not otherwise be required to qualify but for this Section 4(a)(iv), (y) subject itself to taxation in any such jurisdiction or (z) consent to general service of process in any such jurisdiction;
+
+^^^following its actual knowledge thereof, notify each seller of Registrable Securities: (A) when a Prospectus, any Prospectus supplement, any Free Writing Prospectus, a Registration Statement or a post-effective amendment to a Registration Statement has been filed with the Commission, and, with respect to a Registration Statement or any post-effective amendment, when the same has become effective; (B) of any request by the Commission for amendments or supplements to a Registration Statement, related Prospectus or Free Writing Prospectus or for additional information; (C) of the receipt by the Company of any notification with respect to the suspension of the qualification or exemption from qualification of any of the Registrable Securities for sale in any jurisdiction or the initiation or threatening of any proceedings for such purpose; and (D) of the existence of any fact or happening of any event of which the Company has knowledge which makes any statement of a material fact in such Registration Statement, related Prospectus or Free Writing Prospectus or any document incorporated or deemed to be incorporated therein by reference untrue or which would require the making of any changes in the Registration Statement, Prospectus or Free Writing Prospectus in order that, in the case of the Registration Statement, it will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading, and that in the case of such Prospectus or Free Writing Prospectus, it will not contain any untrue statement of a material fact or omit to state any m aterial fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, provided that the Company need not disclose any facts or events that have not bee publicly disclosed by the Company;
+
+^^^upon the occurrence of any event contemplated by Section 4(a)(v)(D), as promptly as practicable, prepare a supplement or amendment to such Registration Statement, related Prospectus or Free Writing Prospectus and furnish to each seller of Registrable Securities a reasonable number of copies of such supplement to, or amendment of, such Registration Statement, Prospectus or Free Writing Prospectus as may be necessary so that, after delivery to the purchasers of such Registrable Securities, in the case of the Registration Statement, it will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading, and that in the case of such Prospectus or Free Writing Prospectus, it will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading;
+
+^^^enter into and perform customary agreements and take such other actions as are reasonably required in order to facilitate the disposition of such Registrable Securities and shall provide all reasonable cooperation, including causing counsel to the Company to deliver customary legal opinions in connection with any such underwriting agreements;
+
+^^^make available at reasonable times for inspection by any Inspector all financial and other records, pertinent corporate documents and properties of the Company and its subsidiaries (collectively, the “**Records**”) as shall be reasonably necessary to enable them to exercise their due diligence responsibility, and cause the Company’s and its subsidiaries’ officers, directors, managers and employees, and the Company’s independent registered public accounting firm, to supply all information reasonably requested by any such Inspector in connection with such Registratio n Statement. Records that the Company determines, in good faith, to be confidential and which it notifies the Inspectors are confidential shall not be disclosed by the Inspectors (and the Inspectors shall confirm their agreement in writing in advance to the Company if the Company shall so request) unless (x) the disclosure of such Records is necessary, in the Company’s reasonable judgment, to avoid or correct a misstatement or omission in the Registration Statement, (y) the release of such Records is ordered pursuant to a subpoena or other order from a court of competent jurisdiction after exhaustion of all appeals therefrom or (z) the information in such Records was known to the Inspectors on a non-confidential basis prior to its disclosure by the Company or has been made generally available to the public. Each seller of Registrable Securities agrees that it shall, upon learning that disclosure of such Records is sought in a court of competent jurisdiction, promptly give notice t o the Company and allow the Company, at the Company’s expense, to undertake appropriate action to prevent disclosure of the Records deemed confidential;
+
+^^^if such sale is pursuant to an underwritten offering, obtain a “cold comfort” letter dated the effective date of the Registration Statement and the date of the closing under the underwriting agreement from the Company’s independent registered public accounting firm in customary form and covering such matters of the type customarily covered by “cold comfort” letters as the managing underwriter reasonably requests;
+
+^^^furnish, at the request of any seller of Registrable Securities on the date such securities are delivered to the underwriters for sale pursuant to such registration, an opinion, dated such date, of counsel representing the Company for the purposes of such registration, addressed to the underwriters, covering such legal matters with respect to the registration in respect of which such opinion is being given as the underwriters, may reasonably request and are customarily included in such opinions; cause any Shares included in the Registration Statement to be listed on each securities exchange on which the Shares are then listed, **provided** that the applicable listing requirements are satisfied;
+
+^^^make all required filings of all Prospectuses and Free Writing Prospectuses with the Commission;
+
+^^^make all required filing fee payments in respect of any Registration Statement or Prospectus used under this Agreement (and any offering covered thereby); and
+
+^^^take all other steps reasonably necessary to effect the registration of the Registrable Securities contemplated hereby
+
+^^**Seller Requirements**. In connection with any offering under any Registration Statement under this Agreement, each Designated Shareholder (i) shall promptly furnish to the Company in writing such information with respect to such Designated Shareholder and the intended method of disposition of its Registrable Securities as the Company may reasonably request or as may be required by law or regulations for use in connection with any related Registration Statement or Prospectus (or amendment or supplement thereto) and all information required to be disclosed in order to make the information previously furnished to the Company by such Designated Shareholder not contain a material misstatement of fact or necessary to cause such Registration Statement or Prospectus (or amendment or supplement thereto) not to omit a material fact with respect to such Designated Shareholder necessary in order to make the statements therein not misleading; (ii) shall comply with the Securities Act and the Exchange Act and all applicable state securities laws and comply with all applicable regulations in connection with the registration and the disposition of the Registrable Securities; and (iii) shall not use any Free Writing Prospectus without the prior written consent of the Company. If any seller of Registrable Securities fails to provide such information required to be included in such Registration Statement by applicable securities laws or otherwise necessary or desirable in connection with the disposition of such Registrable Securities in a timely manner after written request therefor, the Company may exclude such seller’s Regis trable Securities from the registration statement.
+
+^^**Notice to Discontinue**. Each Designated Shareholder agrees that, upon receipt of any notice from the Company of the happening of any event of the kind described in Section 4(a)(v)(D), such Designated Shareholder shall forthwith discontinue disposition of Registrable Securities pursuant to the Registration Statement covering such Registrable Securities until such Designated Shareholder’s receipt of the copies of the supplemented or amended Prospectus or Free Writing Prospectus contemplated by Section 4(a)(vi) (or if no supplemental or amended prospectus or Free Writing Prospectus is required, upon confirmation from the Company that use of the Prospectus or Free Writing Prospectus is once again permitted) and, if so directed by the Company, such Designated Shareholder shall deliver to the Company (at the Company’s expense) all copies, other than permanent file copies then in such Designated Shareholder’s possession, of the Prospectus or Free Writing Prospectus covering such Registrable Securities which is current at the time of receipt of such notice.
+
+^^**Registration Expenses**. The Company shall pay all expenses arising from or incident to its performance of, or compliance with, this Agreement, including, without limitation, (i) Commission, filing fees, (ii) all fees and expenses incurred in complying with state securities or “blue sky” laws (including reasonable fees, charges and disbursements of counsel to any underwriter incurred in connection with “blue sky” qualifications of the Registrable Securities as may be set forth in any underwriting agreement), (iii) all printing, messenger and delivery expenses, and (iv) the fees, charges and expense s of counsel to the Company and of its independent registered public accounting firm and any other accounting fees, charges and expenses incurred by the Company (including, without limitation, any expenses arising from any “cold comfort” letters and the reasonable and documented legal fees, charges and expenses of Designated Shareholder’s Counsel and regardless of whether such Registration Statement is declared effective. All of the expenses described in the preceding sentence of this Section 4(d) are referred to herein as “Registration Expenses”.
+
+^**Indemnification; Contribution**
+
+^^**Indemnification by the Company**. The Company agrees to indemnify and hold harmless each Designated Shareholder, its partners, directors, officers, Affiliates, stockholders, members, employees, trustees, legal counsel and accountants and each Person who controls (within the meaning of Section 15 of the Securities Act) such Designated Shareholder from and against any and all losses, claims, damages, liabilities and expenses, or any action or proceeding in respect thereof (including reasonable costs of investigation and reasonable attorneys’ fees and expenses) (each, a “Liability” and collectively, “ Liabilities”), arising out of or based upon (a) any untrue, or allegedly untrue, statement of a material fact contained in the Disclosure Package, the Registration Statement, the Prospectus, any Free Writing Prospectus or in any amendment or supplement thereto; (b) the omission or alleged omission to state in the Disclosure Package, the Registration Statement, the Prospectus, any Free Writing Prospectus or in any amendment or supplement thereto any material fact required to be stated therein or necessary to make the statements therein not misleading under the circumstances such statements were made and (c) any violation or alleged violation by the Company of the Securities Act, the Exchange Act or any state securities law, or any rule or regulation thereunder, in connection with the performance of its obligations under this Agreement; provided, however, that the Company shall not be held liable in any such case to the extent that any such Liability arises out of or is based upon an untrue statement or alleged untrue statement or omission or alleged omission contained in such Disclosure Package, Registration Statement, Prospectus, Free Writing Prospectus or such amendment or supplement thereto solely in reliance upon and in conformity with information concerning a Designated Shareholder furnished in writing to the Company by or on behalf of any Designated Shareholder expressly for use therein, including, without limitation, the information furnished to the Company pursuant to Sections 4(b) and 5(b). The Company shall also provide customary indemnities to any underwriters of the Registrable Securities, their officers, directors and employees and each Person who controls such underwriters (within the meaning of Section 15 of the Securities Act) to the same extent as provided above with respect to the indemnification of the Designated Shareholders.
+
+^^**Indemnification by Designated Shareholders**. In connection with any offering in which a Designated Shareholder is participating pursuant to Section 3, such Designated Shareholder agrees severally to indemnify and hold harmless the Company, the other Designated Shareholders, any underwriter retained by the Company and each Person who controls the Company, the other Designated Shareholders or such underwriter (within the meaning of Section 15 of the Securities Act) to the same extent as the foregoing indemnity from the Company to the Designated Shareholders (including indemnification of their respective partners, directors , officers, Affiliates, stockholders, managers, members, employees, trustees and Controlling Persons), but only to the extent that Liabilities arise out of or are based upon a statement or alleged statement or an omission or alleged omission that was made solely in reliance upon and in conformity with information with respect to such Designated Shareholder furnished in writing to the Company by or on behalf of such Designated Shareholder expressly for use in such Disclosure Package, Registration Statement, Prospectus, Free Writing Prospectus or such amendment or supplement thereto, including, without limitation, the information furnished to the Company pursuant to Section 4(b). In no event shall the liability of any selling Designated Shareholder hereunder be greater in amount than the net proceeds received by such Designated Shareholder upon the sale of the Registrable Securities giving rise to such indemnification obligation except in the case of fraud by such Desig nated Shareholder.
+
+^^**Conduct of Indemnification Proceedings**. Any Person entitled to indemnification or contribution hereunder (the “Indemnified Party”) agrees to give prompt written notice to the indemnifying party (the “Indemnifying Party”) after the receipt by the Indemnified Party of any written notice of the commencement of any action, suit, proceeding or investigation or threat made in writing for which the Indemnified Party intends to claim indemnification or contribution pursuant to this Agreement; provided, however, that the failure to so notify the Indemnifying Party shall not relieve the Indemnifying Party of any Liability that it may have to the Indemnified Party hereunder (except to the extent that the Indemnifying Party is materially prejudiced or otherwise forfeits substantive rights or defenses by reason of such failure). If notice of commencement of any such action is given to the Indemnifying Party as provided in this Section 5(c), the Indemnifying Party shall be entitled to participate in and, to the extent it may wish, jointly with any other Indemnifying Party similarly notified, to assume the defense of such action at its own expense, with counsel chosen by it and reasonably satisfactory to such Indemnified Party. Each Indemnified Party shall have the right to employ separate counsel in any such action and participate in the defense thereof, but the reasonable and documented out-of-pocket fees and expenses of such counsel shall be paid by the Indemnified Party unless (i) the Indemnifying Party agrees to pay the same, (ii) the Indemnifying Party fails to assume the defense of suc h action with counsel reasonably satisfactory to the Indemnified Party or (iii) the named parties to any such action (including any impleaded parties) include both the Indemnifying Party and the Indemnified Party and such parties have been advised by such counsel that either (x) representation of such Indemnified Party and the Indemnifying Party by the same counsel would be inappropriate under applicable standards of professional conduct or (y) there may be one or more legal defenses available to the Indemnified Party which are different from or additional to those available to the Indemnifying Party. In any of such cases, the Indemnifying Party shall not have the right to assume the defense of such action on behalf of such Indemnified Party, it being understood, however, that the Indemnifying Party shall not be liable for the reasonable and documented out-of-pocket fees and expenses of more than one separate firm of attorneys (in addition to any local counsel) for all Indemnified Parties and all such reasonable and documented out-of-pocket fees and expenses shall be reimbursed as incurred. No Indemnifying Party shall be liable for any settlement entered into without its written consent, which consent shall not be unreasonably withheld. No Indemnifying Party shall, without the consent of such Indemnified Party, effect any settlement of any pending or threatened proceeding in respect of which such Indemnified Party is a party and indemnity has been sought hereunder by such Indemnified Party, unless such settlement includes an unconditional release of such Indemnified Party from all liability for claims that are the subject matter of such proceeding.
+
+^^**Contribution**. If the indemnification provided for in this Section 5 from the Indemnifying Party is unavailable to an Indemnified Party hereunder or insufficient to hold harmless an Indemnified Party in respect of any Liabilities referred to herein, then each Indemnifying Party, in lieu of indemnifying such Indemnified Party, shall contribute to the amount paid or payable by such Indemnified Party as a result of such Liabilities in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party and Indemnified Party in connection with the actions which resulted in such Liabilities, as well as an y other relevant equitable considerations. The relative faults of such Indemnifying Party and Indemnified Party shall be determined by reference to, among other things, whether any action in question, including any untrue or alleged untrue statement of a material fact or omission or alleged omission to state a material fact, has been made by, or relates to information supplied by, such Indemnifying Party or Indemnified Party, and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such action. The amount paid or payable by a party as a result of the Liabilities referred to above shall be deemed to include, subject to the limitations set forth in Sections 5(a), 5(b), and 5(c) , any reasonable and documented out-of-pocket legal or other fees, charges or expenses reasonably incurred by such party in connection with any investigation or proceeding.
+
+^^^The parties hereto agree that it would not be just and equitable if contribution pursuant to this Section 5(d)) were determined by pro rata allocation or by any other method of allocation which does not take account of the equitable considerations referred to in the immediately preceding paragraph. No Person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any Person who was not guilty of such fraudulent misrepresentation. In no event shall any Designated Shareholder be required to contribute an amount under this Section 5(d ) in excess of the net proceeds received by such Designated Shareholder upon the sale of such Designated Shareholder’s Registrable Securities pursuant to the Registration Statement giving rise to such contribution obligation, except in the case of fraud by such Designated Shareholder.
+
+^**Reports Under Exchange Act**
+
+With a view to making available to the Designated Shareholders the benefits of Rule 144 promulgated under the Securities Act and any other rule or regulation of the Commission that may at any time permit a Designated Shareholder to sell Registrable Shares of the Company to the public without registration, the Company agrees to:
+
+^^Make and keep public information available, as those terms are used in Rule 144, at all times;
+
+^^File with the Commission in a timely manner all reports and other documents required of the Company under the Exchange Act and the rules and regulations of any applicable securities exchanges;
+
+^^Furnish to any Designated Shareholder, so long as the Designated Shareholder owns any Registrable Shares, forthwith on request, (i) a written statement by the Company that it has complied with the reporting requirements of Rule 144 and the Exchange Act, and (ii) a copy of the most recent annual or quarterly report of the Company filed under the Exchange Act; and
+
+^^Undertake any additional actions reasonably necessary to maintain the availability of the use of Rule 144, the Company’s eligibility to file and maintain continuously effective Form S-3 registration statements and any future rules adopted by the Commission permitting the resale of the Registrable Securities.
+
+^**Miscellaneous**
+
+^^**Share Splits, etc**. The provisions of this Agreement shall be appropriately adjusted for any share dividends, splits, reverse splits, combinations recapitalizations and the like occurring after the date.
+
+^^**Amendments and Waivers**. Except as otherwise provided herein, the provisions of this Agreement may not be amended, modified or supplemented, and waivers or consents to departures from the provisions may not be given unless consented to in writing by the Company and Designated Shareholders holding a majority of the Registrable Securities; provided, however, that no amendment, modification, supplement, waiver or consent to depart from the provisions shall be effective if such amendment, modification, supplement, waiver or consent to depart from the provisions materially and adversely affect s the substantive rights or obligations of one Designated Shareholder, or group of Designated Shareholders, without a similar and proportionate effect on the substantive rights or obligations of all Designated Shareholders, unless each such disproportionately affected Designated Shareholder consents in writing thereto.
+
+^^**Notices**. All notices, demands and other communications provided for or permitted hereunder shall be made in writing and shall be made by telecopy, electronic transmission, air courier service or personal delivery:
+
+If to the Company:   [[Organization 1 Name]]
+
+[[Address 4: Address]] 
+Attention: [[Person 25 First Name]] [[Person 25 Last Name]], Chief Financial
+
+Officer 
+[[Email 1]]  
+with a copy to:  
+[[Person 3 First Name]] [[Person 3 Last Name]], Welch, 
+[[Organization 6 Name]] LLP 
+[[Address 5: Address]] 
+Attention: [[Person 2 First Name]] [[Person 2 Last Name]] 
+[[Email 2]]  
+If to any Designated Shareholder, at its address as it appears in the books and records of the Company.
+
+All such notices, demands and other communications shall be deemed to have been duly given when delivered by hand, if personally delivered; when delivered by air courier, if delivered by commercial courier service; and when receipt is acknowledged, if telecopied, or electronically transmitted. Any party may by notice given in accordance with this Section 7(c) designate another address or Person for receipt of notices hereunder.
+
+^^**Permitted Assignees; Third Party Beneficiaries**. This Agreement shall inure to the benefit of and be binding upon the permitted assignees of the parties hereto as provided in Section 2(d). Except as provided in Section 5, no Person other than the parties hereto and their permitted assignees is intended to be a beneficiary of this Agreement.
+
+^^**Counterparts**. This Agreement may be executed in any number of counterparts and by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+
+^^**Headings**. The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning.
+
+^^**GOVERNING LAW**. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF CALIFORNIA, WITHOUT REGARD TO THE PRINCIPLES OF CONFLICTS OF LAW.
+
+^^**Jurisdiction**. Any action or proceeding against any party hereto relating in any way to this Agreement or the transactions contemplated hereby may be brought and enforced in the federal or state courts in the State of California, and each party, on behalf of itself and its respective successors and assigns, irrevocably consents to the jurisdiction of each such court in respect of any such action or proceeding. Each party, on behalf of itself and its respective successors and assigns, irrevocably consents to the service of process in any such action or proceeding by the mailing of copies t by registered or cert ified mail, postage prepaid, return receipt requested, to such person or entity at the address for such person or entity set forth in Section 7(c) or such other address such person or entity shall notify the other in writing. The foregoing shall not limit the right of any person or entity to serve process in any other manner permitted by law or to bring any action or proceeding, or to obtain execution of any judgment, in any other jurisdiction.
+
+^^^Each party, on behalf of itself and its respective successors and assigns, hereby irrevocably waives any objection that it may now or hereafter have to the laying of venue of any action or proceeding arising under or relating to this Agreement or the transactions contemplated hereby in any court located in the State of California or located in any other jurisdiction chosen by the Company in accordance with Section 7(h). Each party, on behalf of itself and its respective successors and assigns, hereby irrevocably waives any claim that a court located in the State of California is not a convenient forum for any such action o r proceeding.
+
+^^^Each party, on behalf of itself and its respective successors and assigns, hereby irrevocably waives, to the fullest extent permitted by applicable United States federal and state law, all immunity from jurisdiction, service of process, attachment (both before and after judgment) and execution to which it might otherwise be entitled in any action or proceeding relating in any way to this Agreement or the transactions contemplated hereby in the courts of the State of California, of the United States or of any other country or jurisdiction, and hereby waives any right he might otherwise have to raise or claim or cause to be pleaded an y such immunity at or in respect of any such action or proceeding.
+
+^^**Severability**. If any one or more of the provisions contained herein, or the application t in any circumstance, is held invalid, illegal or unenforceable in any respect for any reason, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions shall not be in any way impaired.
+
+^^**Rules of Construction**. Unless the context otherwise requires, references to sections or subsections refer to sections or subsections of this Agreement. Terms defined in the singular have a comparable meaning when used in the plural, and vice versa.
+
+^^**Entire Agreement**. This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto with respect to the subject matter. There are no restrictions, promises, representations, warranties or undertakings with respect to the subject matter, other than those set forth or referred to herein. This Agreement supersedes all prior agreements and understandings among the parties with respect to such subject matter.
+
+^^**Further Assurances**. Each of the parties shall execute such documents and perform such further acts as may be reasonably required or desirable to carry out or to perform the provisions of this Agreement.
+
+^^**Other Agreements**. Nothing contained in this Agreement shall be deemed to be a waiver of, or release from, any obligations any party hereto may have under, or any restrictions on the transfer of Registrable Securities or other securities of the Company imposed by, any other agreement.
+
+\centered ***Signatures Begin On Next Page***
+
+IN WITNESS WHEREOF, the undersigned have executed, or have caused to be executed, this Registration Rights Agreement on the date first written above.
+
+[[Organization 1 Name]]
+
+[[[[Organization 9 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 9 Name]]. Entity => By: [[[[Organization 9 Name]]. Signatory First Name]] [[[[Organization 9 Name]]. Signatory Last Name]]
+Title: [[[[Organization 9 Name]]. Signatory Title]]}}
+
+
+[[Organization 10 Name]]
+
+By
+
+Title
+
+[[Organization 8 Name]]
+
+By
+
+Title
+
+[[Organization 11 Name]]
+
+By
+
+Title
+
+[[Organization 12 Name]]
+
+By
+
+Title
+
+[[Organization 13 Name]]
+
+By
+
+Title
+
+[[Organization 4 Name]], INC.
+
+By
+
+Title
+
+[[Organization 14 Name]]
+
+By
+
+Title
+
+[[Organization 15 Name]] AND
+[[Organization 16 Name]].
+
+By
+
+Title
+
+Martin Frederick Pera
+
+[[Person 26 First Name]] [[Person 26 Last Name]]
+
+[[Organization 17 Name]]
+
+By
+
+Title
+
+[[Person 27 First Name]] [[Person 27 Last Name]] AND ASSOCIATES PTY LTD
+
+By
+
+Title
+
+\centered **[Name and Address of Transferee]**
+
+________  
+[Address]  
+**[Name and Address of Transferor]**  
+________, 20__  
+Ladies and Gentlemen:  
+Reference is made to the Registration Rights Agreement, dated as of [[Date 3]] (the “**Registration Rights Agreement**”), by and among [[Organization 1 Name]] a California corporation, and the certain shareholders named therein. All capitalized terms used herein but not otherwise defined shall have the meanings given to them in the Registration Rights Agreement.
+
+In connection with the transfer by **[Name of Transferor]** of Registrable Securities with associated registration rights under the Registration Rights Agreement to **[Name of Transferee]** as transferee (the “**Transferee**”), the Transferee hereby agrees to be bound as a Designated Shareholder by the provisions of the Registration Rights Agreement as provided under Section 2(d)(i)) thereto. 
+
+This consent shall be governed by California law.
+
+Yours sincerely,
+**[Name of Transferee]**
+[[Name of Transferee Signatory Email: Identity | Signature]]
+__________________________________________
+{{Name of Transferee Entity => By: [[Name of Transferee Signatory First Name]] [[Name of Transferee Signatory Last Name]]
+Title: [[Name of Transferee Signatory Title]]}}
+
+
+\centered Exhibit B
+
+\centered Accredited Investor Certification
+
+**EXHIBIT B**  
+
+\centered **Accredited Investor Certification**
+
+The undersigned (“Selling Security Holder”) is executing and delivering this Accredited Investor Certification pursuant to that certain Share Purchase Agreement (the “Agreement”) among Selling Security Holder, certain other security holders of [[Organization 2 Name]], a Singapore corporation (“ESI”), and [[Organization 1 Name]] (“BioTime”). In consideration of BioTime’s agreement to purchase Selling Security Holder’s ESI Shares and to issue to Selling Security Holder BioTime Shares pursuant to the Agreement, the undersigned certifies, represents, warrants, covenants, and agrees, for the benefit of BioTime, as follows:
+
+^**Certain Definitions**. Unless otherwise defined in this Accredited Investor Certification, capitalized terms used herein have the definitions ascribed to such terms in the Agreement.
+
+^**Accredited Investor**. Selling Security Holder qualifies as an “accredited investor” under Regulation D in the following manner. (Please check or initial all that apply to verify that you qualify as an “accredited investor.”)
+
+_____ (a) Selling Security Holder is a natural person whose net worth, or joint net worth with spouse, at the date of purchase exceeds $[[USD Value 2: Number]] (including the value of home, home furnishings, and automobiles).
+
+_____ (b) Selling Security Holder is a natural person whose individual gross income (excluding that of spouse) exceeded $[[USD Value 3: Number]] in 2008 and 2009, and who reasonably expects individual gross income exceeding $[[USD Value 3]] in 2010.
+
+_____ (c) Selling Security Holder is a natural person whose joint gross income with spouse exceeded $[[USD Value 4: Number]] in 2008 and 2009, and who reasonably expects joint gross income with spouse exceeding $[[USD Value 4]] in 2010.
+
+_____ (d) Selling Security Holder is a bank, savings and loan association, broker/dealer, insurance company, investment company, pension plan or other entity defined in Rule 501(a)(1) of Regulation D as promulgated under the Securities Act of 1933 by the Securities and Exchange Commission.
+
+_____ (e) Selling Security Holder is a trust, and the trustee is a bank, savings and loan association, or other institutional investor as defined in Rule 501(a)(1) of Regulation D as promulgated under the Securities Act of 1933 by the Securities and Exchange Commission.
+
+_____ (f) Selling Security Holder is a private business development company as defined in section 202(a)(22) of the Investment Advisers Act of 1940.
+
+_____ (g) Selling Security Holder is a trust, and the grantor (i) has the power to revoke the trust at any time and regain title to the trust assets; and (ii) meets the requirements of items (a) (b), or (c) above.
+
+_____ (h) Selling Security Holder is a tax-exempt organization described in Section 501(c) (3) of the Internal Revenue Code, or a corporation, Massachusetts or similar business trust, or partnership, not formed for the specific purpose of acquiring BioTime Shares with total assets in excess of $[[USD Value 5: Number]]
+
+_____ (i) The Selling Security Holder is a trust with total assets in excess of $[[USD Value 6: Number]] not formed for the specific purpose of acquiring BioTime Shares, whose purchase is directed by a person who has such knowledge and experience in financial and business matters that he is capable of evaluating the merits and risks of an investment in the BioTime Shares.
+
+_____ (j) The Selling Security Holder is an entity in which all of the equity owners meet the requirements of at least one of items (a) through (i) above.
+
+^**Address and Nationality**. The address of Selling Security Holder’s place of residence, or principal place of business if Selling Security Holder is not a natural person, and their citizenship or country in which they are incorporated or organized is as follows:
+
+Address: ___________________________________________________
+
+___________________________________________________________
+
+Citizenship/Country of Organization: _________________________________
+
+\centered SIGNATURE PAGE FOR
+
+\centered INDIVIDUALS AND TRUSTS
+
+Executed this ________ day of ____________, 2010
+
+(Signature)
+
+(Please Print Name of Individual
+or Trust and Date of Trust if Applicable)
+
+(Signature)
+
+(Please Print Name of Individual
+or Trust and Date of Trust if Applicable)
+
+\centered SIGNATURE PAGE FOR
+
+\centered CORPORATIONS, PARTNERSHIPS, AND LIMITED LIABILITY COMPANIES
+
+Executed this _____ day of ______________, 2010.
+
+(Please Print Name of Entity)
+
+[[Please Print Name of Entity Signatory Email: Identity | Signature]]
+__________________________________________
+{{Please Print Name of Entity Entity => By: [[Please Print Name of Entity Signatory First Name]] [[Please Print Name of Entity Signatory Last Name]]
+Title: [[Please Print Name of Entity Signatory Title]]}}
+
+(Title)
+
+[[Title Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Entity => By: [[Title Signatory First Name]] [[Title Signatory Last Name]]
+Title: [[Title Signatory Title]]}}
+
+(Title)
+
+Affix Seal Here
+
+\centered Exhibit C
+
+\centered Foreign Resident Certification
+
+**EXHIBIT C**  
+
+\centered **Foreign Resident Investor Certification**
+
+The undersigned (“Selling Security Holder”) is executing and delivering this Foreign Resident Investor Certification pursuant to that certain Equity and Note Purchase Agreement (the “Agreement”) among Selling Security Holder, certain other security holders of [[Organization 2 Name]], a Singapore corporation (“ESI”), and [[Organization 1 Name]] (“BioTime”). In consideration of BioTime’s agreement to purchase Selling Security Holder’s ESI Equity or Notes and to issue to Selling Security Holder BioTime Shares or Warrants pursuant to the Agreement, the undersigned certifies, represents, warrants, covenants, and agrees, for the benefit of BioTime, as follows:
+
+^**Certain Definitions**. Unless otherwise defined in this Foreign Resident Investor Certification, capitalized terms used herein have the definitions ascribed to such terms in the Agreement.
+
+^**Non-U.S. Person Status**. Selling Security Holder certifies that (a) they are not a U.S. Person as defined in Regulation S promulgated by the United States Securities and Exchange Commission under the Securities Act, and (b) they are not acquiring the BioTime Shares, Warrants or Warrant Shares for the account or benefit of any U.S. Person.
+
+^**Resale or Transfer of BioTime Securities**. Selling Security Holder agrees that they will not offer or sell any of their BioTime Shares, Warrants, or Warrant Shares prior to the expiration of six months after the Closing Date, except in accordance with the provisions of Regulation S, pursuant to registration under the Securities Act, or pursuant to an available exemption from registration under the Securities Act. Selling Security Holder further agrees not to engage in hedging transactions with regard to BioTime Shares, Warrants, or Warrant Shares unless in compliance with the Securities Act.
+
+^**Address and Nationality**. The address of Selling Security Holder’s place of residence, or principal place of business if Selling Security Holder is not a natural person, and their citizenship or country in which they are incorporated or organized is as follows:
+
+Address: ___________________________________________________
+
+___________________________________________________________
+
+Citizenship/Country of Organization: _________________________________
+
+\centered SIGNATURE PAGE FOR
+
+\centered INDIVIDUALS AND TRUSTS
+
+Executed this ________ day of ____________, 2010
+
+(Signature)
+
+(Please Print Name of Individual
+or Trust and Date of Trust if Applicable)
+
+(Signature)
+
+(Please Print Name of Individual
+or Trust and Date of Trust if Applicable)
+
+\centered SIGNATURE PAGE FOR
+
+\centered CORPORATIONS, PARTNERSHIPS, AND LIMITED LIABILITY COMPANIES
+
+Executed this _____ day of ______________, 2010.
+
+(Please Print Name of Entity)
+
+[[Please Print Name of Entity Signatory Email: Identity | Signature]]
+__________________________________________
+{{Please Print Name of Entity Entity => By: [[Please Print Name of Entity Signatory First Name]] [[Please Print Name of Entity Signatory Last Name]]
+Title: [[Please Print Name of Entity Signatory Title]]}}
+
+(Title)
+
+[[Title Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Entity => By: [[Title Signatory First Name]] [[Title Signatory Last Name]]
+Title: [[Title Signatory Title]]}}
+
+(Title)
+
+Affix Seal Here

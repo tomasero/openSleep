@@ -1,0 +1,335 @@
+\centered **LOAN AGREEMENT** 
+
+\centered by and between
+
+\centered Y**AYI** [[Organization 1 Name]]** I**NC****.** 
+
+\centered as Borrower 
+
+\centered and
+
+\centered **SAIF**P**ARTNERS** III**L.P.** 
+
+\centered as Lender 
+
+\centered Dated: [[Date 1: Date]]
+
+\centered **CONTENTS** 
+
+**Section**   **Page**
+
+^Definitions  
+^LOAN  
+^Conditions to Closing  
+^Use of Proceeds  
+^Principal Repayment  
+^Representations and Warranties of the Borrower  
+^Affirmative Covenants  
+^Negative Covenants  
+^Events of Default  
+^Notices  
+^Waivers; Amendments  
+^Expenses  
+^Successors and Assigns  
+^Counterparts; Integration; Effectiveness  
+^Severability  
+^Governing Law  
+^Jurisdiction  
+^Headings  
+
+Exhibit A   Form of Promissory Note
+Appendix 1   Form of First Amendment to the Pledge Agreement
+
+\centered **LOAN AGREEMENT** 
+
+**THIS LOAN AGREEMENT** (this “**Agreement**”) is dated [[Date 1]] and made by and among: 
+
+[[Organization 2 Name]], a Delaware company with its address at No. 9 Xingguang Road, Northern Industrial Park of Zhongbei Town, Xiqing District, Tianjin 300384, China, as borrower (the “**Borrower**”); and
+
+^[[Organization 3 Name]], an exempted limited partnership duly established and validly existing under the laws of the Cayman Islands, with its registered address at PO Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands, as lender (the “**Lender**”).
+
+\centered R E C I T A L S
+
+^The Borrower has requested that the Lender loan US$[[USD Value 1: Number]] to the Borrower, and the Lender has agreed to make such a loan, upon the terms and subject to the conditions set forth in the Agreement.
+
+NOW, THEREFORE, in consideration of the foregoing premises, the respective representations and warranties, covenants and agreements contained herein, the parties hereto agree as follows: 
+
+^**DEFINITIONS**
+
+As used in this Agreement, the following capitalized terms shall have the meanings set forth below:
+
+“**Affiliate**” means, with respect to any Person, any other Person (i) which directly or indirectly through one or more intermediaries Controls, or is Controlled by, or is under common Control with, such first Person, (ii) which beneficially owns or holds [[Percentage 1: Number]]% or more of any class of the voting stock of such first Person, or (iii) whereby [[Percentage 1]]% or more of the voting stock (or in the case of a Person which is not a corporation, [[Percentage 1]]% or more of the equity interest) of such other Person is beneficially owned or held by such first Person or by a Subsidiary of such first Person.
+
+“**Business Day**” means, with respect to any location (*i.e.*, Hong Kong and/or the PRC), any day other than a Saturday, Sunday or other day with respect to which banks in such location are authorized or required to be closed; however, provided, that if such day relates to the making of the Loan or the repayment or prepayment of the Loan, then “Business Day” shall be further limited to refer to a Business Day in New York City.
+
+“**Control**” means, when used with respect to any Person, the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise, and the terms “Controlling” and “Controlled” have meanings correlative to the foregoing.
+
+“**Debt**” means: (i) indebtedness or liability for borrowed money, or for the deferred purchase price of property or services (including trade obligations); (ii) obligations as lessee under capital leases; (iii) obligations under letters of credit issued for the account of any Person; (iv) all obligations arising under bankers’ acceptance facilities; (v) all guaranties, endorsements (other than for collection or deposit in the ordinary course of business), and other contingent obligations to purchase, to provide funds for payment, to supply funds to invest in any Person, or otherwise to assure a creditor against loss; and (vi) obligations secured by any Lien on property owned, whether or not the obligations have been assumed. 
+
+“**Default Rate**” has the meaning set forth in Section 9.2 hereof. 
+
+“**Dollars**” and the symbol “$”mean such coin or currency of the United States of America as is, at the relevant time, legal tender for the payment of public and private debts. 
+
+“**Event of Default**” has the meaning set forth in Section 9.1 hereof. 
+
+“**GAAP**” means generally accepted accounting principles as in effect in an applicable jurisdiction from time to time. 
+
+“**Governmental Approval**” means any authorization, consent, approval, license, franchise, concession, lease, ruling, permit, certification, exemption, filing or registration by or with any Governmental Authority or legal or administrative body material and necessary for the authority of the Borrower or each of the Group Companies to conduct their respective businesses or for the execution and delivery of this Agreement or the Note. 
+
+“**Governmental Authority**” means any nation or government, any state or other political subdivision thereof, and any entity exercising executive, legislative, judicial, regulatory or administrative authority or functions of or pertaining to government. 
+
+“**Group Company**” means any Subsidiary of the Borrower and any Person (other than a natural person) that is controlled by the Borrower. 
+
+“**Lien**” means, with respect to any property, any security interest, mortgage, pledge, lien, claim, charge or other encumbrance in, of, or on such property or the income therefrom, including, without limitation, the interest of a vendor or lessor under a conditional sale agreement, capital lease or other title retention agreement, or any other agreement or arrangement providing any of the foregoing or having a similar effect. 
+
+“**Loan Amount**” has the meaning set forth in Section 2.1. 
+
+“**Loan Closing Date**” has the meaning set forth in Section 2.4. 
+
+“**Loan Documents**” has the meaning set forth in Section 6.2. 
+
+“**Loan**” has the meaning set forth in Section 2.1. 
+
+“**Material Adverse Effect**” means a material adverse effect on (i) the business, assets, operations, prospects or financial or other condition of the Borrower or any Group Company; (ii) the ability of the Borrower or any Group Company to pay or perform the Obligations in accordance with the terms hereof and to avoid an Event of Default, or an event which, with the giving of notice or the passage of time or both, would constitute an Event of Default, under any Loan Document; or (iii) the rights and remedies of the Lender under any Loan Document or any related document, instrument or agreement. 
+
+“**Maturity Date**” has the meaning set forth in Section 2.3. 
+
+“**Note**” has the meaning set forth in Section 2.4. 
+
+“**Obligations**” means and includes all loans, advances, debts, liabilities and obligations, howsoever arising, owed by the Borrower or any Group Company to the Lender of every kind and description (whether or not evidenced by any note or instrument and whether or not for the payment of money), now existing or hereafter arising under or pursuant to the terms of this Agreement and the Note, including, all interest, fees, charges, expenses, attorneys’ fees and costs and accountants’ fees and costs chargeable to and payable by the Borrower hereunder and thereunder, in each case, whether direct or indirect, absolute or contingent, due or to become due. 
+
+“**Ordinary Course of Business**”, with respect to the Borrower or any Group Company, means the ordinary course of the research, development, planting, processing, and sale of organic cereals, fishing services, storage of cereals, development of agricultural products and other related businesses, consistent with past practice or as otherwise contemplated by the business plan of the Borrower or any Group Company.
+
+“**Permitted Indebtedness**”, with respect to the Borrower or any Group Company, means (i) the Obligations; (ii) indebtedness incurred in the Ordinary Course of Business; (iii) indebtedness of a company that becomes a Subsidiary after the date hereof; provided, however, that (A) the Lender has approved the acquisition or establishment of such Subsidiary and (B) the indebtedness existed at the time such company became a Subsidiary; (iv) indebtedness existing on the date hereof and has been disclosed to the Lender; (v) any refinancing, extension or renewal of any existing Permitted Indebtedness hereunder not involving an increase in the principal amount thereof; and “(vi) any other indebtedness incurred with the prior written consent of the Lender.
+
+“**Permitted Liens**” means, as of any particular time, (i) Liens of taxes, assessments or governmental charges not then delinquent or being contested as provided below, (ii) any mechanic’s, worker’s, repairer’s, supplier’s, vendor’s or like Liens securing obligations arising in the ordinary course of business that (A) are not mature or not overdue for more than fifteen (15) days, or (B) both (x) are being contested in good faith and (y) as to which adequate reserves have been established on the books of the Borrower in accordance with GAAP, (iii) Liens upon tangible personal property acquired after the date hereof (provided that the aggregate cost of all such tangible personal property acquired by the Borrower after the date hereof shall not exceed $[[USD Value 2: Number]]) granted by the Borrower, each of which Liens was created solely to secure Debt incurred to finance the cost of such property (provided that no such Lien shall extend to cover any property other than the property so acquired), and (iv) Liens not otherwise permitted hereunder that secure Permitted Indebtedness not exceeding $[[USD Value 3: Number]] in aggregate amount outstanding at any time. A contest referred to in this definition shall be permitted only if the execution or enforcement of the Lien being contested shall have been stayed or is taxed as a result thereof and such contest could not be reasonably expected to have a Material Adverse Effect. 
+
+“**Person**” means an individual, a partnership, a corporation, a limited liability company, an association, a joint stock company, a trust, a joint venture, an un[[Payor]] organization and a governmental entity or any department, agency or political subdivision thereof. 
+
+“**PRC**” means the People’s Republic of China, excluding Hong Kong, Macau and Taiwan. 
+
+“**Preferred Shares**” means the shares of Series A Preferred Stock of the Borrower that the Lender holds. 
+
+“**Security Documents**” means First Amendment to the Pledge Agreement and any other document executed from time to time by any person as a further guarantee of or security for the Borrower’s obligations hereunder or under any other Loan Document. 
+
+“**Share Pledge Agreement**” means First Amendment to the Pledge Agreement by and between [[Organization 4 Name]], a British Virgin Island company (the “**Pledgor**”) and the Lender, in form and substance as set forth in Appendix 1 attached hereto, as the same may be supplemented, amended or otherwise in effect from time to time. 
+
+**“Subsidiary”** means any “significant subsidiary” as defined in Rule 1-02(w) of the Regulation S-X promulgated by the U.S. Securities and Exchange Commission under the Exchange Act of 1934, as amended.
+
+^**LOAN**
+
+^^Loan Amount. Subject to the terms and conditions set forth herein, the Lender agrees to make a term loan (the “**Loan**”) to the Borrower on or before [[Date 2: Date]], which Loan shall be in the amount three million U.S. Dollars (US$[[USD Value 1]]) (the “**Loan Amount**”).
+
+^^Interest Rate. The Loan shall bear interest at a rate of twelve percent ([[Percentage 2: Number]]%) per annum, calculated on the basis of the actual number of days elapsed during the relevant period and a 360-day year.
+
+^^Term. The entire principal amount of the Loan and any accrued interest on the Loan shall become fully due and payable on the date (the “**Maturity Date**”) that is the earlier to occur of (i) the date that is six (6) months after the Loan Closing Date (as defined below), unless extended in the sole discretion of the Lender; provided, however, that such date may be extended with the written consent of the Lender, and (ii) the acceleration of the maturity of the Loan upon the occurrence of an Event of Default (as defined in Section 9.1 below), without further action on the part of the Lender. The Borrower can repay the entire principal and the accrued interest before Maturity Date without any prepayment penalty.
+
+^^Closing. Subject to the conditions to Closing in Section 3 hereof, on or before [[Date 2]] (the “**Loan Closing Date**”), the Lender shall wire funds equal to the Loan Amount to a bank account designated by the Borrower which is under co-signature management of the Borrower and the Lender. The Borrower shall issue an executed promissory note (the “**Note**”) in favor of the Lender in form and substance as set forth in Exhibit A attached hereto. The Note shall be dated the Loan Closing Date and shall mature on the Maturity Date.
+
+^**CONDITIONS TO CLOSING**
+
+The Lender’s obligations at the Closing are subject to the satisfaction, on or prior to the Loan Closing Date, of each of the following conditions, any of which may be waived in whole or in part by the Lender:
+
+^^Representations and Warranties. The representations and warranties made by the Borrower in Section 6 hereof shall have been true, correct and complete when made, and shall be true and correct on the Loan Closing Date.
+
+^^Legal Requirements. The sale and issuance by the Borrower, and the purchase by the Lender, of the Note shall be legally permitted by all laws and regulations to which the Lender or the Borrower is subject.
+
+^^Proceedings and Documents. All corporate proceedings, including board resolutions, in connection with the transactions contemplated hereby and all documents incident to such transactions shall be reasonably satisfactory in form and substance to the Lender, and the Lender shall have received such counterpart original or other copies of such documents as it may reasonably request.
+
+^^Loan Agreements and Security Documents. (i) The Borrower shall have duly executed and delivered to the Lender this Agreement; (ii) the Borrower shall have duly executed and delivered to the Lender the Note issued hereunder; and (iii) the Pledgor shall have duly executed and delivered to the Lender the Share Pledge Agreement.
+
+^**USE OF PROCEEDS**
+
+The Borrower shall use the proceeds of the Loan for the benefit of the Borrower and the Group Company and shall obtain the Lender’s written permit before each tranche of the use of the proceeds, which written permit shall not be unreasonably withheld, conditioned or delayed.
+
+^**PRINCIPAL REPAYMENT**
+
+The Borrower hereby unconditionally promises to pay to the Lender the entire outstanding principal amount of the Loan and any accrued interest thereon in immediately available funds on the Maturity Date.
+
+^**REPRESENTATIONS AND WARRANTIES OF THE BORROWER**
+
+The Borrower hereby represents and warrants to the Lender as follows:
+
+^^Organization; Good Standing. The Borrower is duly organized, validly existing and in good standing under the laws of the State of Delaware. The Borrower has all requisite corporate power and authority to carry on its business as now conducted and as proposed to be conducted and is duly qualified and licensed to do business in each jurisdiction in which the failure to be so qualified or licensed could reasonably be expected to have a Material Adverse Effect.
+
+^^Due Authorization. All corporate actions on the part of the Borrower, its directors and its shareholders necessary for the authorization, execution and delivery of this Agreement and the Note (together with this Agreement, the “**Loan Documents**”) by the Borrower, and the performance of the obligations of the Borrower under the Loan Documents, as applicable, have been taken or will be taken prior to the Loan Closing Date. The Loan Documents constitute the valid and legally binding obligations of the Borrower, enforceable against the Borrower in accordance with their terms, except as limited by (i) applicable bankruptcy, insolvency or other laws of general application affecting enforcement of creditors’ rights generally and (ii) laws relating to the availability of specific performance, injunctive relief or other equitable remedies (whether enforcement is sought by proceedings in equity or at law).
+
+^^Governmental Consents. All consents, approvals, orders and authorizations of, and all registrations, qualifications, designations, declarations and filings with, any governmental authority or other third party required on the part of the Borrower in connection with the valid execution and delivery of the Loan Documents, the offer, sale or issuance of the Note, or the consummation of any other transaction contemplated hereby shall have been obtained and will be effective at the Loan Closing Date.
+
+^^No Judgments or Litigation. There is no action, suit, proceeding or investigation pending or, to the knowledge of the Borrower, threatened against the Borrower, that questions the validity of this Agreement or the right of the Borrower to consummate the transactions contemplated hereby or that might result, either individually or in the aggregate, in any material adverse change in the assets, condition, affairs or prospects of the Borrower, nor is the Borrower aware that there is any basis for the foregoing. The Borrower is not a party or subject to the provisions of any order, writ, injunction, judgment or decree of any court or government agency or instrumentality.
+
+^^Compliance with Other Instruments; Non-Contravention. The authorization, execution and delivery of the Loan Documents, and the consummation of the transactions contemplated under the Loan Documents, do not and will not (i) constitute or result in a default or violation of any law or regulation applicable to the Borrower or any term or provision of the Borrower’s current Certificate of Incorporation , or any material judgment, order, writ, decree, statute, rule or regulation applicable to the Borrower; (ii) violate any provision of, or result in the breach or the acceleration of, or entitle any other Person to accelerate (whether after the giving of notice or lapse of time or both), any material mortgage, indenture, agreement, instrument or contract to which the Borrower is a party or by which any of them is bound; or (iii) result in the creation or imposition of any material Lien upon any property, asset or revenue of the Borrower, or the suspension, revocation, impairment, forfeiture, or nonrenewal of any material permit, license, authorization or approval applicable to the Borrower, its business or operations, or any of its assets or properties.
+
+^**AFFIRMATIVE COVENANTS**
+
+So long as any portion of the Loan remains outstanding, the Borrower shall:
+
+^^Inspection Rights. Permit the Lender to visit and inspect its facilities and properties, to examine its books of account and records and to discuss its affairs, business, finances, accounts and operations with its directors, officers, employees, accountants, legal counsel and investment bankers, all at such reasonable times as may be requested by the Lender.
+
+^^Compliance with Laws. Comply in all material respects with applicable laws, rules, regulations and orders, such compliance to include, without limitation, paying before the same become delinquent all taxes, assessments, and governmental charges imposed upon it or upon its property except for good faith contests for which adequate reserves are being maintained.
+
+^^Notice of Litigation. Provide to Lender promptly after the commencement thereof, notice of all actions, suits, and proceedings before any court or governmental entity in which the Borrower is named as a party.
+
+^^Notice of Defaults and Events of Defaults. Provide to Lender, as soon as possible and in any event within five (5) days after the occurrence thereof, with written notice of each event which either (i) is an Event of Default, or (ii) with the giving of notice or lapse of time or both would constitute an Event of Default, in each case setting forth the details of such event and the action which is proposed to be taken by the Borrower with respect thereto.
+
+^^Governmental Approvals. Promptly obtain and maintain all Governmental Approvals as are necessary for the operation of its business.
+
+^^Continuance of Business. Maintain its corporate existence, licenses and privileges in good standing under and in compliance with all applicable laws and continue to operate the business it currently conducts.
+
+^^Maintenance. Conduct its business in a manner consistent with relevant industry standards, keep its material assets and properties in good working order and condition and make all necessary and proper repairs, replacements and improvements thereof so that such business may be properly and prudently conducted at all times.
+
+^**NEGATIVE COVENANTS**
+
+^^Protective Provisions. So long as any portion of the Loan remains outstanding, the Borrower shall not permit any Group Company to, take any of the actions as listed in section 8 (Protective Provisions) of the valid CERTIFICATE OF DESIGNATION OF SERIES A PREFERRED STOCK of the Borrower dated [[Date 3: Date]] without the prior written consent of the Lender or the director appointed by the Lender in the Borrower.
+
+^^Liens. The Borrower shall not create or suffer to exist any Lien on any of its assets except Permitted Liens and Liens in existence on the date hereof of which it has provided the Lender written notice or documents evidencing such Liens. For the avoidance of doubt, the Borrower may make (i) pledges or deposits in connection with workers’ compensation, employee welfare and other social security legislation and (ii) deposits to secure the performance of bids, trade contracts, leases, statutory obligations, performance bonds and other obligations of a like nature incurred in the Ordinary Course of Business of the Borrower without the Lender’s prior consent.
+
+^**EVENTS OF DEFAULT**
+
+^^Each of the following shall constitute an event of default (each, an “**Event of Default**”) under this Agreement and the Note:
+
+^^The Borrower fails to pay on the Maturity Date any unpaid principal, accrued interest or other amounts owing under any Loan Document;
+
+^^Any representation or warranty made by the Borrower in the Loan Documents, or any representation or warranty made by the Pledgor in the Security Documents shall prove, when given, to have been false or misleading in any material respect;
+
+^^The Borrower or the Pledgor, as applicable, breaches any covenant set forth in any of the Loan Documents and the Security Documents;
+
+^^The Borrower defaults in the observance or performance of any other agreement contained in the Loan Documents (other than as provided in paragraphs (a) through (c) above in this Section 9.1), and such default shall continue unremedied for a period of thirty (30) days; provided, however, that the Borrower shall have notified the Lender within five (5) days of the occurrence of such default;
+
+^^The Borrower or any Group Company shall fail to make any payment in respect of any Debt in principal amount of $[[USD Value 4: Number]] or more when due or within any applicable grace period;
+
+^^Any event or condition shall occur which results in the acceleration of the maturity of any Debt in principal amount of $[[USD Value 4]] or more of the Borrower or any Group Company or enables the holder of such Debt to accelerate the maturity thereof;
+
+^^The Borrower or any Group Company files any petition or action for relief under any bankruptcy, reorganization, insolvency or moratorium law or any other law for the relief of, or relating to, debtors, now or hereafter in effect, makes any general assignment for the benefit of creditors or takes any corporate action in furtherance of any of the foregoing or fails to pay its debts as they become due; or
+
+^^An involuntary petition is filed against the Borrower or any Group Company (unless such petition is dismissed or discharged within forty-five (45) days) under any bankruptcy statute now or hereafter in effect, or a custodian, receiver, trustee, assignee for the benefit of creditors (or other similar official) is appointed to take possession, custody or control of any property of the Borrower or any Group Company.
+
+^^Upon the occurrence of any Event of Default specified in paragraphs 9.1(c), 9.1(g) and 9.1(h) above in Section 9.1, all unpaid principal on the Note, accrued and unpaid interest thereon and all other amounts owing under this Agreement and the Note shall become immediately due and payable without any action on the part of the Lender, and the Borrower shall immediately pay to the Lender all such amounts. Upon the occurrence of any other Event of Default, the Borrower shall notify the Lender in writing within five (5) days of the occurrence of such Event of Default. Upon receipt of the notice, the Lender may by notice to the Borrower declare the Loan to be due and payable forthwith, whereupon the Loan shall become immediately due and payable. From and after an Event of Default, all Indebtedness hereunder shall accrue interest at a rate of seventeen percent ([[Percentage 3: Number]]%) per annum (the “**Default Rate**”). In the event of any Event of Default, the Borrower shall pay all reasonable attorneys’ fees and any other reasonable costs incurred by the Lender in enforcing the Note and the other Loan Documents and in any effort to collect Indebtedness hereunder. No right or remedy conferred upon or reserved to the Lender under this Agreement is intended to be exclusive of any other right or remedy, and every right and remedy shall be cumulative and in addition to every other right and remedy given hereunder or now and hereafter existing under applicable law.
+
+^**NOTICES**
+
+All notices, request, demands, claims, and other communications hereunder shall be in writing. Any notice, request, demand, claim, or other communication hereunder shall be deemed duly given (i) when delivered personally to the recipient, (ii) one (1) Business Day after being sent to the recipient by reputable courier service (charges prepaid), (iii) one (1) Business Day after being sent to the recipient by facsimile transmission or electronic mail, or (iv) four (4) Business Days after being mailed to the recipient by certified or registered mail, return receipt requested and postage prepaid, and addressed to the intended recipient as set forth below:
+
+\centered If to the Lender, to:   [[Organization 3 Name]] c/o [[Organization 5 Name]] Limited PO Box 309, Ugland House Grand Cayman, KY1-1104 Cayman Islands Fax: +852 2234-9116 
+
+With a copy to:   [[Organization 6 Name]] Suites 2115-2118, Two Pacific Place 88 Queensway, Hong Kong Attention: [[Person 1 First Name]] [[Person 1 Last Name]] [[Person 2 First Name]] [[Person 2 Last Name]]/Jason So Fax: +852 2234-9116 
+
+If to the Borrower, to:   c/o [[Organization 7 Name]], No. 9 Xingguang Road, Northern Industrial Park of Zhongbei Town, Xiqing District, Tianjin 300384, China Attention: [[Person 3 First Name]] [[Person 3 Last Name]] Fax: 86 (22) 2798-4358
+
+Any Party may change the address to which notices, requests, demands, claims, and other communications hereunder are to be delivered by giving the other Parties notice in the manner herein set forth.
+
+^**WAIVERS; AMENDMENTS**
+
+Neither this Agreement or the Note nor any terms hereof or thereof may be changed, waived, discharged, or terminated unless such change, waiver, discharge, termination or release is in writing signed by the parties. Neither failure or delay by the parties hereto in exercising any right or power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power, or any abandonment or discontinuance of steps to enforce such a right or power, preclude any other or further exercise thereof or the exercise of any other right or power. The rights and remedies of the parties hereunder are cumulative and are not exclusive of any rights or remedies that the parties would otherwise have.
+
+^**EXPENSES**
+
+The Borrower shall bear any expenses (including, without limitation, legal fees) incurred by the Borrower or the Lender with respect to this Agreement and the transactions contemplated hereby in connection with the Loan made hereunder, including all such out- of-pocket expenses reasonably incurred during any negotiations.
+
+^**SUCCESSORS AND ASSIGNS**
+
+The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted hereby. The Borrower may not assign, encumber or otherwise transfer any of its rights or obligations hereunder without the prior written consent of the Lenders, and any attempted assignment or transfer by the Borrower without such consent shall be null and void. The Lender may assign, encumber or otherwise transfer any or all of its rights or obligations hereunder without the prior written consent of the Borrower. Nothing in this Agreement, expressed or implied, shall be construed to confer upon any person (other than the parties hereto, their respective successors and assigns permitted hereby) any legal or equitable right, remedy or claim under or by reason of this Agreement.
+
+^**COUNTERPARTS; INTEGRATION; EFFECTIVENESS**
+
+This Agreement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Agreement, including all exhibits and schedules hereto, which are expressly [[Payor]] herein by reference, and any amendments hereto shall constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Delivery of an executed counterpart of a signature page of this Agreement by facsimile shall be as effective as delivery of a manually executed counterpart of this Agreement.
+
+^**SEVERABILITY**
+
+Any provision of this Agreement held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+
+^**GOVERNING LAW**
+
+This Agreement and the rights and obligations of the parties hereunder shall be construed in accordance with and governed by the laws of the State of New York without giving effect to choice of law provisions.
+
+^**JURISDICTION**
+
+^^Arbitration. In the event the Parties are unable to settle any dispute between them regarding this Agreement within thirty (30) days after the occurrence of the dispute, such dispute may he referred to and finally settled by arbitration at the Hong Kong International Arbitration Centre in accordance with the UNCITRAL Arbitration Rules (the “**UNCITRAL Rules**”) in effect, which rules are deemed to be [[Payor]] by reference into this Section 18.1. The arbitration tribunal shall consist of three (3) arbitrators; one (1) of whom shall be appointed by the claimant, one (1) of whom shall be appointed by the respondent, and the third arbitrator, who shall be the presiding arbitrator, shall be appointed by the Hong Kong International Arbitration Centre. The language of the arbitration shall be English. By agreeing to arbitration, the Parties do not intend to deprive any court of its jurisdiction to issue a pre-arbitral injunction, pre-arbitral attachment or other order in aid of arbitration proceedings and enforcement of any award.
+
+^**HEADINGS**
+
+Article and Section headings used herein are for convenience of reference only, are not part of this Agreement and shall not affect the construction of, or be taken into consideration in interpreting, this Agreement.
+
+\centered **[NO FURTHER TEXT ON THIS PAGE]** 
+
+\centered **[SIGNATURE PAGE 1  LOAN AGREEMENT]** 
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written. 
+
+**THE BORROWER:** 
+
+**[[Organization 2 Name]]** 
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+**[Signatures Continued on the Following Page]** 
+
+\centered **[SIGNATURE PAGE 2  LOAN AGREEMENT]** 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written. 
+
+**THE LENDER:** 
+
+**[[Organization 3 Name]],** 
+
+[[[[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] Entity => By: [[[[Organization 3 Name]] Signatory First Name]] [[[[Organization 3 Name]] Signatory Last Name]]
+Title: [[[[Organization 3 Name]] Signatory Title]]}}
+
+
+\centered **Exhibit A** 
+
+\centered **Promissory Note** 
+
+\centered PROMISSORY NOTE 
+
+\centered [[Organization 2 Name]] 
+
+\centered US$[[USD Value 1]] 
+
+FOR VALUE RECEIVED, [[Organization 2 Name]], a company duly [[Payor]] and validly existing under the laws of Delaware (the “**Payor**”) promises to pay to the order of [[Organization 3 Name]], an exempted limited partnership duly established and validly existing under the laws of the Cayman Islands (together with its successors and assigns, the “**Payee**”), the principal sum of three million U.S. Dollars (US$[[USD Value 1]]), together with all accrued and unpaid interest thereon as set forth below. 
+
+Terms defined in the Loan Agreement dated as of [[Date 1]] by and between the Payor and the Payee (the “**Loan Agreement**”) are used herein with the same meanings. This Promissory Note (this “**Note**”) is the promissory note referred to in Section 2.4 of the Loan Agreement and is issued pursuant to and entitled to the benefits of the Loan Agreement, to which reference is hereby made for a more complete statement of the terms and conditions under which the Loan evidenced hereby was made and is to be repaid. 
+
+The entire principal amount of the Loan and all unpaid accrued interest thereon shall become fully due and payable on the date (the “**Maturity Date**”) that is the earlier to occur of (i) the date that is six (6) months after the Loan Closing Date (unless extended at the discretion of the Payee), or (ii) the acceleration of the maturity of the Loan upon the occurrence of an Event of Default, without further action on the part of the Payee. Payment of principal and interest hereunder shall be made by wire transfer of immediately available funds to a bank account furnished by the Payee to the Payor for that purpose. 
+
+Reference is made to the Loan Agreement and the Security Documents for (i) provisions for the prepayment hereof and the acceleration of the maturity hereof and (ii) a description of the property mortgaged, charged, pledged, assigned and transferred pursuant to the Security Documents and the nature and extent of the security and rights of the Payor and the Payee in respect of such security. 
+
+Payment of the principal and interest payable thereon in respect of this Note shall be made in lawful money of the United States of America in same day funds at such place as shall be designated in writing for such purpose in accordance with the terms of the Loan Agreement. Unless and until this Note has been assigned pursuant to Section 13 of the Loan Agreement, the Payor shall be entitled to deem and treat the Payee as the owner and holder of this Note and the Loan evidenced hereby. The Payee hereby agrees, by its acceptance hereof, that before disposing of this Note or any part hereof it will make a notation hereon of all principal and interest payments previously made hereunder; provided, however, that the failure to make a notation of any payment made on this Note shall not limit or otherwise affect the obligations of the Payor hereunder with respect to payments of principal and interest of this Note. 
+
+\centered Exhibit A
+
+Whenever any payment on this Note shall be stated to be due on a day which is not a business day, such payment shall be made on the next succeeding Business Day. 
+
+The LOAN Agreement and this Note shall be governed by, and shall be construed and enforced in accordance with, the laws of the State of New York without giving effect to choice of law provisions. 
+
+The terms of this Note are subject to amendment only in the manner provided in the Loan Agreement. 
+
+No reference herein to the Loan Agreement and no provision of this Note or the Loan Agreement shall alter or impair the obligations of the Payor, which are absolute and unconditional, to pay the principal and interest of this Note at the place, at the respective times, and in the currency herein prescribed. 
+
+The Payor hereby waives diligence, presentment, protest, demand and notice of every kind and, to the full extent permitted by law, the right to plead any statute of limitations as a defense to any demand hereunder. Upon the occurrence and during the continuance of any Event of Default, the entire principal balance and any accrued and unpaid interest on this Note shall become immediately due and payable in full in accordance with Section 9.2 of the Loan Agreement. In the event of any Event of Default, the Payor shall pay all reasonable attorneys’ fees and any other costs incurred by the Payee in collecting any Indebtedness and enforcing its rights under this Note. Payor may not prepay this Note prior to the Maturity Date without the express written consent of the Payee. 
+
+This Note and the Payee’s rights hereunder may not be assigned or otherwise transferred by the Payee, or any interest of any sort whatsoever transferred, directly or indirectly, to any person or entity other than the Payee, in whole or in part, except in compliance with Section 13 of the Loan Agreement. 
+
+\centered Exhibit A
+
+IN WITNESS WHEREOF, the Payor has caused this Note to be duly executed and delivered by its officer thereunto duly authorized as of the date and at the place first written above. 
+
+**[[Organization 2 Name]]** 
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+\centered Exhibit A
+
+\centered **Appendix 1** 
+
+\centered **Form of First Amendment to the Pledge Agreement**

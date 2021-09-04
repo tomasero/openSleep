@@ -1,0 +1,91 @@
+\centered **CERTAIN INFORMATION (INDICATED BY “[***]”) IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.**
+
+[[Organization 1 Name]]      **TOSHIBA**
+[[Address 1: Address]]
+
+\centered **Design and Production Agreement Amendment #2 Netlist Inc****.**
+
+This Amendment #2 (‘‘Amendment #2”) to the ID ASIC Design and Production Agreement, dated [[Date 1: Date]], as amended (TAEC# 51N12402125) (“Agreement”) is between [[Organization 1 Name]], with a principal place of business at 19900 MacArthur Boulevard, Suite 400, [[Address 2: Address]] (“TAEC”) and [[Organization 2 Name]], with a place of business at 51 Discovery, Suite 150 [[Address 3: Address]] (“Customer”) and sets out the terms and conditions under which TAEC will design the product identified herein for Customer. This Amendment is effective as of the date finally executed below (“Effective Date”).
+
+^Project Name
+
+\centered **ID ASIC**
+
+^New Schedule
+
+The parties agree to delete the contents of Section 4 of the Agreement, Schedule, and replace it with the following:
+
+Major Project Milestones.
+
+**Event**      \centered **Target Date/Completed**
+Development PO Released      **[***]**
+Preliminary Feasibility Study      **[***]**
+Design Decision      **[***]**
+Design Initiation      **[***]**
+Package Selection Finalized      **[***]**
+Early RTL for Pipecleaning      **[***]**
+Final RTL (functionally correct)      **[***]**
+Tapeout - Second Signoff (GDSII transfer)      **[***]**
+Delivery of Prototypes      TBD
+System compliance phase - start      TBD
+System compliance phase - complete      TBD
+st Risk Production shipment      TBD
+
+\centered Production turnaround time: 16 working weeks.
+
+\centered Schedule is provisional.
+
+^New Internal/External IP
+
+The parties agree to delete the contents of Section 7 of the Agreement, Internal/External IP, and replace it with the following:
+
+\centered Toshiba Confidential
+
+Internal IP:
+
+**[***]**
+
+External IP:
+
+**[***]**
+
+4.**Additional Features Non-Recurring Engineering Charges and Payment Schedule:**
+
+^^Customer agrees to pay non-recurring engineering charges (“Additional Features NRE”) to TAEC for support of the following design changes:
+
+**[***]**
+
+^^The Additional Features NRE will he calculated according to the resources expended by TAEC, which will be charged at the rate of US$**[***]** per full-time-equivalent person per week. TAEC will provide a weekly update to Customer regarding resources expended.
+
+TAEC estimates that the Additional Features NRE for this ID design will be US$**[***]**, or thirty-two (32) person-weeks. This estimate is subject to change.
+
+^^The Additional Features NRE will be payable as follows:
+
+^US$**[***]** (**[***]**% of estimated Additional Features NRE) upon tapeout or **[***]**, whichever is earlier.
+
+^The balance (total person-weeks actually expended, less US$**[***]**) upon Delivery of Prototypes together with test logs showing successful completion of the Toshiba Testing as defined in the Product Testing Agreement between the parties.
+
+For the avoidance of doubt, the Additional Features. NRE payable under this Amendment #2 is in addition to and does not replace the NRE payable under the Agreement and/or Amendment #1.
+
+^Cancellation
+
+^^If Customer wishes to discontinue the project set forth in this Amendment #2 prior to tapeout, then Customer shall pay TAEC US$**[***]** (“Additional Features Cancellation Fee”), In addition, TAEC reserves the right to invoice Customer for any resources expended by TAEC prior to cancellation in excess of 19 person-weeks. The Additional Features Cancellation Fee shall be offset by any amount of the Additional Features NRE already paid to TAEC by Customer.
+
+^^In the event that Customer unilaterally fails to provide information, data, or approvals necessary for TAEC to proceed with the project for a period of **[***]** from TAEC’s initial request for such information, data, or approvals, TAEC reserves the right to deem the project set forth in this Amendment #2 cancelled and assess the Additional Features Cancellation Fee.
+
+Except as modified herein, all Other terms and conditions of the. Agreement shall remain in lull force and effect pet their terms
+
+[[Organization 3 Name]]      Netlist Inc,
+
+[[[[Organization 4 Name]]      Netlist Inc Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]]      Netlist Inc Entity => By: [[[[Organization 4 Name]]      Netlist Inc Signatory First Name]] [[[[Organization 4 Name]]      Netlist Inc Signatory Last Name]]
+Title: [[[[Organization 4 Name]]      Netlist Inc Signatory Title]]}}
+
+*Signature*      *Signature*
+
+[[Person 1 First Name]] [[Person 1 Last Name]] VP, Customer [[Organization 5 Name]]      Gail Itow, CFO
+*Printed name and title*      *Printed name and title*
+
+3/10/10      3/5/10
+*Date*      *Date*

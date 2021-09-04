@@ -1,0 +1,48 @@
+\centered 
+
+To:    [[Party B]] Attention: [[Person 1 First Name]] [[Person 1 Last Name]] 6975 Seukview Drive St. Cloud, MN 58303 Telephone; [[Phone 1]] Fax: [[Phone 2]] From:    [[Organization 1 Name]], N.A. Attention: [[Person 2 First Name]] [[Person 2 Last Name]] 417 Montgomery Street Suite 500 MAC A0108-050 [[Address 1: Address]] Telephone: [[Phone 3]] Fax: [[Phone 4]]  
+
+Date: [[Date 1: Date]] 
+
+Dear [[Person 1 First Name]] [[Person 1 Last Name]], 
+
+The purpose of this letter agreement is to confirm the terms and conditions of the transaction (Transaction) entered into between [[Organization 1 Name]], N.A. (“Party A”) and [[Party B]], a Minnesota limited ability company (“Party B”). This Transaction is effective at, ovules of 12:01 a.m., California time, on the Trade Data specified below. 
+
+This Confirmation supplements, forms part of, and is subject to that certain interest Rate Master Agreement by and between Party A and Party B, a copy of which either is being delivered herewith or has been delivered if such Interest Rate Master Agreement has not been previously executed, Party B hereby agrees to promptly execute and deliver such Interest Rate Master Agreement together with such other documents Party A may reasonably require. tint’) the parties hereto execute en interest Rate Master Agreement, this communication itself constitutes a binding agreement between us setting forth the essential terms or the Transaction and incorporates by reference Party As form of interest Rate master Agreement. All provisions incorporated by reference from that Interest Rate Master Agreement govern this Confirmation except as expressly modified below. 
+
+The terms of the Transaction to which this Confirmation relates are as follows: 
+
+\centered 
+
+Transaction Type:    Swap Trade Date:    [[Date 1]] Effective *Date:*    September t. 2006, subject to adjustment in accordance with *the* Following Business Day Convention. Termination Date:    [[Date 2: Date]], subject to adjustment in accordance with the Following Business Day Convention. Fees:    Not applicable. National Amount:    USD 4,000,000.00 (initial Notional Amount  please refer to the attached Schedule I) Fixed Rate Side: Fixed Rate Payer:    Party B Fixed Rate:       6.00   % Day Count Convention:    Actual/100 Business Day Convention:    Following Calculation Period:    From the 1st day of each month, up to the 1st day of the following month, continuing until the Termination Dale, subject to adjustment in accordance with the designated Business Day Convention. The first Calculation Period will be [[Date 3: Date]]. 2006 to [[Date 4: Date]]. Floating Rate Side: Floating Rate Payer:    Party A Floating Rate:    USD-LIBOR plus [[Percentage 1: Number]]% Initial Floating Rate:    To be determined. Floating Rate Maturity:    1 Month Reset Dates:    The 1st day of each month, subject to adjustment in accordance with the designated Business Day convention. The first Reset Date is [[Date 5: Date]]. Compounding:    No Applicable. Day Count Convention:    Actual/360 Business Day Convention:    Following Calculation Period:    From the 1st day of each month, up to the 1st day of the following month, continuing until the Termination Date, subject to adjustment in accordance with the designated Business Day convention. The first Calculation Period will be [[Date 5]] to [[Date 4]]. Settlement Payment Dates:    The 1st day of each month, beginning with [[Date 4]], continuing up to the and including the Termination Date, subject to adjustment in accordance with the designated Business Day Convention. Business Days:    New York City  
+
+Loan Facility: That certain Loan Facility as evidenced *by* that certain promissory note dated on or about [[Date 6: Date]] in the amount of USD 4,000,000.00, extended by Party A to Party B (“Note”), which is subject to the terms and conditions of that certain loan agreement dated as of an even date therewith (“Loan Agreement”), as modified, amended and/or extended from time to time, (the Note and the Loan Agreement are hereby collectively defined herein as the “Loan Documents”). 
+
+\centered 
+
+Security:    Not Applicable. Credit Support:    Not Applicable. Settlement Instructions for Payments: Payments due to Party A:    Party A will debit settlement payment(s) from the following account: ABA Number: 0911300019 DDA Number: 2526133869 Payments due to Party B:    Party A will credit settlement payment(s) to the following account: ABA Number: 091004019 ODA Number: 2528133869 Delivery Instructions for Notices: Send Notices to Party A:    [[Organization 2 Name]]. N.A. Attention: Documentation Group 417 Montgomery Street, Suite 500 MAC AD3108050 [[Address 2: Address]] Telephone: [[Phone 5]] Fax: (415)648-9165 Send Notices to Party B:    [[Party B]] Attention: [[Person 1 First Name]] [[Person 1 Last Name]] 6975 Seukview Drive St. St. Cloud, MN 54303 Telephone: (320)253-0228 Fax: [[Phone 6]]  
+
+Please confirm that the foregoing comedy sets forth the terms of our agreement by having an authorized individual sign and return this document by facsimile to the Documentation Group at [[Phone 7]]. If you have any questions, please cell [[Person 3 First Name]] [[Person 3 Last Name]] at [[Phone 5]]. 
+
+Yours sincerely, 
+
+[[Organization 1 Name]], N.A. 
+
+\centered 
+
+[[Party B Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party B Entity => By: [[Party B Signatory First Name]] [[Party B Signatory Last Name]]
+Title: [[Party B Signatory Title]]}}
+
+
+Accepted and confirmed as of the Trade Date:  
+
+[[Party B]], a Minnesota limited liability company 
+
+\centered 
+
+[[Party 2 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 2 Entity => By: [[Party 2 Signatory First Name]] [[Party 2 Signatory Last Name]]
+Title: [[Party 2 Signatory Title]]}}

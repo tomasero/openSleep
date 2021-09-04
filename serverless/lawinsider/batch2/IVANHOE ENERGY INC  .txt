@@ -1,0 +1,996 @@
+\centered **[[ISSUER]]** 
+
+\centered **- and -** 
+
+\centered **[[Organization 1 Name]].** 
+
+\centered **- and -** 
+
+\centered **[[Organization 2 Name]]** 
+
+\centered **Share Purchase Warrant Indenture Dated as of [[Date 1: Date]] Providing for the Issue of Common Share Purchase Warrants of **[[ISSUER]]** 
+
+^^^^^ 
+\centered **TABLE OF CONTENTS** 
+
+Page  1.1 Definitions     1.2 Headings     1.3 Gender     1.4 Business Day     1.5 Meaning of “Outstanding“     1.6 Time     1.7 Applicable Law      2.1 Creation and Issue of Warrants     2.2 Book Entry System     2.3 Global Warrant Certificates     2.4 Form and Terms of Warrants     2.5 Registration and Transfer of Warrants     2.6 List of Warrantholders     2.7 Transfer and Ownership of Warrants     2.8 Legends     2.9 Warrantholders Not Shareholders     2.10 Signing of Warrants     2.11 Countersigning     2.12 Loss, Mutilation, Destruction or Theft of Warrants     2.13 Issue of Warrants     2.14 Fractions     2.15 Warrants to Rank Pari Passu     2.16 Exchange of Warrants     2.17 Recognition of Registered Holder     2.18 Cancellation of Surrendered Warrants      3.1 Covenants of the Company     3.2 Suits by Warrantholder     3.3 Warrant Agent May Institute Proceedings      4.1 Adjustment of Subscription Rights     4.2 Proceedings Prior to any Action Requiring Adjustment     4.3 Certificate of Adjustment     4.4 Adjustment Rules     4.5 Notice of Special Matters     4.6 No Action after Notice     4.7 Protection of Warrant Agent      5.1 Exercise of Warrants     5.2 Effect of Exercise of Warrants     5.3 Postponement of Delivery of Certificates     5.4 Warrants Void after Expiry Time     5.5 Fractions     5.6 Partial Exercise of Warrants     5.7 Accounting and Recording     5.8 Warrant Exercise Proceeds      
+
+^^^^^ 
+
+Page  6.1 Convening of Meeting     6.2 Notice     6.3 Chairman     6.4 Quorum     6.5 Show of Hands     6.6 Poll     6.7 Regulations     6.8 Minutes     6.9 Powers Exercisable by Extraordinary Resolution     6.10 Meaning of “Extraordinary Resolution”     6.11 Powers Cumulative     6.12 Company, Warrantholders and Warrant Agent May be Represented     6.13 Instruments in Writing     6.14 Binding Effect of Resolutions     6.15 Holdings by the Company or Subsidiaries of the Company Disregarded      7.1 Provision for Supplemental Agreements for Certain Purposes     7.2 Company May Consolidate, etc. on Certain Terms     7.3 Successor Body Corporate Substituted      8.1 No Conflict of Interest     8.2 Replacement of Warrant Agent     8.3 Duty of Warrant Agent     8.4 Experts, Advisors and Agents     8.5 Warrant Agent Not Required to Give Security     8.6 Warrant Agent Not Ordinarily Bound     8.7 Warrant Agent may Rely on Certificates     8.8 Warrant Agent’s Liability     8.9 Indemnification     8.10 No Representation as to Validity     8.11 Acceptance of Duties     8.12 Contracting with Company     8.13 Warrant Agent’s Authority to Carry on Business     8.14 Monetary Distributions     8.15 Trust Indenture Legislation     8.16 Limitations on Warrant Agent      9.1 Notice to Company or Agent     9.2 Notice to Warrantholders     9.3 Notice to Warrant Agent     9.4 Mail Service Interruption     9.5 General Provisions as to Certificates      10.1 Power of Board of Directors     10.2 Formal Date and Execution Date     10.3 Further Assurances     10.4 Unenforceable Terms     10.5 Entire Agreement     10.6 Amendments     10.7 Counterparts     10.8 No Waiver     10.9 Enurement     10.10 Conflicts     10.11 Assignment      
+
+^^^^^ 
+**THIS WARRANT INDENTURE** made as of the [[Date 2: Date]]. 
+
+**BETWEEN:**  
+**[[ISSUER]]**, a corporation incorporated under the laws of the Yukon Territory 
+
+(the “**Company**”)  
+**AND:**  
+**[[Organization 1 Name]].**, a company incorporated under the laws of Ontario 
+
+(the “**Agent**”)  
+**AND:**  
+**[[Organization 2 Name]]**, a trust company existing under the laws of Canada and having an office in the City of Vancouver 
+
+(the “**Warrant Agent**”)  
+**WHEREAS:**  
+^terms used in these recitals which are not otherwise defined have the meanings assigned to them in Article 1;
+
+^pursuant to the terms of the Agency Agreement and the Special Warrants, the Company proposes to create and issue the Warrants to be constituted and issued in the manner set forth herein;
+^the Company is authorized to create and issue the Warrants;
+
+^each one (1) Warrant will entitle the holder to acquire upon exercise thereof one (1) Common Share, subject to adjustment and on the terms and conditions as set forth herein;
+
+^the Company represents to the Warrant Agent that all necessary resolutions of the directors of the Company have been duly enacted, passed or confirmed and all other proceedings taken and conditions complied with to authorize the execution and delivery of this Indenture and the execution and issue of the Warrants and to make the same legal and valid and binding on the Company in accordance with the laws relating to the Company;
+
+^the foregoing recitals are made as representations and statements of fact by the Company and not by the Warrant Agent and the Warrant Agent shall not be liable for or by reason of any statements of fact or recitals in this Indenture and all such statements are and shall be deemed to be made by the Company;
+
+^^^^^ 
+^the Warrant Agent has agreed to act as Warrant Agent for the Warrantholders on the terms and conditions herein set forth; and
+
+^all things necessary have been done and performed to make the Warrants, when certified by the Warrant Agent and issued as in this Indenture provided, legal, valid and binding upon the Company with the benefits of and subject to the terms of this Indenture.
+
+**NOW THEREFORE**, in consideration of the premises and in further consideration of the mutual covenants herein set forth, the parties hereto agree as follows: 
+
+^^Definitions  
+In this Indenture unless there is something in the subject matter or context inconsistent therewith, the following words have the respective meanings indicated below: 
+
+^^“**Agency Agreement**” means the agency agreement dated as of [[Date 3: Date]] between the Company and the Agent;
+
+^^“**Agent’s Option Warrants**” means any Common Share purchase warrants underlying the Option Special Warrants issued pursuant to the exercise of the Option, such warrants to have substantially the same terms and conditions as the Warrants;
+^^“**Applicable Legislation**” has the meaning set forth in Section 8.15 hereof;
+
+^^“**Applicable Securities Laws**” means, collectively, the applicable securities laws of the Qualifying Provinces, the securities laws of the United States and the states thereof, the regulations, rules, rulings and orders made thereunder, the applicable policy statements issued by the securities regulatory authorities in the Qualifying Provinces, the United States Securities and Exchange Commission and the securities legislation and policies of each other relevant jurisdiction;
+
+^^“**Beneficial Owners**” means any person who holds a beneficial interest in a Global Warrant Certificate as shown on the books of the Depository or a Participant;
+
+^^“**Book Entry Only System**” means the book-based securities transfer system administered by a Depository in accordance with its operating procedures;
+
+^^“**Business Day**” means any day except Saturday, Sunday or a statutory or banking holiday in Vancouver, British Columbia;
+
+^^“**Certificate of the Company**” means a certificate signed by any one of the President, Vice-President, Secretary or Chief Financial Officer of the Company in accordance with Section 9.5;
+
+^^^^^ 
+^^“**Common Shares**” means, collectively, the fully paid and non-assessable common shares in the capital of the Company as presently constituted and, except where the context hereof otherwise requires, includes common shares issued or to be issued in accordance with the exercise of Warrants hereunder;
+
+^^“**Company’s auditors**” means the firm of accountants appointed by the shareholders of the Company as the auditors of the Company from time to time;
+
+^^“**counsel**” means a barrister and solicitor or a firm of barristers and solicitors retained by the Warrant Agent or retained by the Company and acceptable to the Warrant Agent;
+
+^^“**Current Market Price**” of a Common Share at any date means the price per share equal to the volume weighted average price at which the Common Shares have traded on the TSX for any 20 consecutive Trading Days immediately preceding such date or, if the Common Shares are not listed on the TSX, on any other stock exchange or securities market on which the Common Shares are then listed as may be selected by the directors, or, if the Common Shares are not listed on any stock exchange, then on the over-the-counter market, with the weighted average price per Common Share being determined by dividing the aggregate sale price of all Common Shares sold on such stock exchange or market, as the case may be, during such 20 consecutive Trading Day period by the aggregate number of Common Shares so sold or, if not traded on any recognized market or exchange, as determined by the directors, acting reasonably;
+
+^^“**Depository**” means [[Organization 3 Name]] (“**CDS**”), or its successor, or any other depository offering a book based securities registration and transfer system similar to that administered by CDS which the Company, with the consent of the Trustee, acting reasonably, may designate;
+
+^^“**director**” means a director of the Company for the time being and reference without more to action by the directors means action by the directors of the Company as a board or, whenever duly empowered, action by a committee of the board;
+^^“**Document**” shall have the meaning ascribed to such term in Section 9.5 hereof;
+^^“**Exercise Date**” has the meaning set forth in Section 5.2 hereof;
+
+^^“**Exercise Consideration**” means the sum of Cdn.$[[USD Value 1: Number]], being the amount payable in connection with the exercise of one (1) Warrant in order to purchase one (1) Common Share, subject to adjustment under Article 4;
+
+^^“**Expiry Date**” means [[Date 4: Date]], representing the first anniversary of the closing date of the issue of the Special Warrants;
+
+^^“**Expiry Time**” means 5:00 p.m. (Vancouver time) on the Expiry Date;
+
+^^^^^ 
+^^“**Extraordinary Resolution**” has the meaning set forth in Section 6.10 and 6.13 hereof;
+
+^^“**Final Prospectus**” means the (final) short form prospectus of the Company which qualifies, among other things, the distribution of the Warrants in the Qualifying Jurisdictions and includes any amendments or supplements thereto;
+
+^^“**Final Receipt**” means the final decision document in respect of the Final Prospectus issued in accordance with Multilateral Instrument 11-102  *Passport System* and National Policy 11-202  *Process for Prospectus Reviews in Multiple Jurisdictions* by the Ontario Securities Commission and the Company’s principal regulator on its own behalf and on behalf of the regulators in the Qualifying Jurisdictions (other than the Ontario Securities Commission);
+
+^^“**Global Warrant Certificate**” means a Warrant Certificate that is issued to and registered in the name of the Depository or its nominee;
+
+^^“**Indenture**”, “**hereto**”, “**hereunder**”, “**hereof**”, “**hereby**” and similar expressions mean or refer to this Indenture and not to any particular Article, Section, Subsection, paragraph, clause, subdivision or portion hereof and include any agreement, deed or instrument supplemental or ancillary hereto and the expressions “Article”, “Section”, “Subsection” and “paragraph” followed by a number mean and refer to the specified Articles, Sections, Subsections or paragraphs of this Indenture;
+
+^^“**Issue Date**” means in respect of any Warrants issued hereunder, their date of issue as shown on the corresponding Warrant Certificate;
+^^“**Option**” has the meaning ascribed thereto in the Agency Agreement;
+
+(aa)      “**Option Special Warrants**” has the meaning ascribed thereto in the Special Warrant Indenture;
+
+(bb)      “**Participant**” means a person recognized by the Depository as a participant in the Book-Entry Only System administered by the Depository;
+
+(cc)      “**person**” means any entity whatsoever including, without limitation, an individual, a corporation, a partnership, a trust, an unincorporated organization, a syndicate and words importing persons have a similar meaning;
+
+(dd)      “**Qualifying Provinces**” has the meaning set out in the Special Warrant Indenture;
+(ee)      “**Regulation S**” means Regulation S under the U.S. Securities Act;
+(ff)      “**Share Rate**” has the meaning ascribed to such term in Section 4.1(b) hereto;
+
+^^^^^ 
+(gg)      “**Special Warrants**” means special warrants of the Company issued pursuant to the Special Warrant Indenture, each special warrant entitling the holder thereof to one Common Share and one-quarter (0.25) of one Warrant upon conversion or deemed conversion thereof;
+
+(hh)      “**Special Warrant Indenture**” means the Special Warrant Indenture among the Company, the Agent and the Warrant Agent dated [[Date 5: Date]];
+
+^^^“**subsidiary of the Company**” means a corporation of which voting securities carrying a majority of votes attached to all outstanding voting securities are owned, directly or indirectly, by the Company or by one or more subsidiaries of the Company, or by the Company and one or more subsidiaries of the Company, and, as used in this definition, voting securities means securities, other than debt securities, carrying a voting right to elect directors either under all circumstances or under some circumstances that may have occurred and are continuing;
+
+(jj)      “**Trading Day**”, with respect to any stock exchange or over-the-counter market, means a day on which shares may be traded through the facilities of such stock exchange or in such over-the-counter market and otherwise means a day on which shares may be traded through the facilities of the principal stock exchange on which the Common Shares are then listed (or, if the Common Shares are not then listed on any stock exchange, then in the over-the-counter market).
+
+(kk) “**TSX**” means the Toronto Stock Exchange; 
+
+(ll)      “**United States**” means the “United States” as that term is defined in Rule 902 of Regulation S;
+
+(mm)      “**U.S. Person**” means a “U.S. person” as that term is defined in Rule 902 of Regulation S;
+
+(nn)      “**U.S. Securities Act**” means the *United States Securities Act of 1933*, as amended;
+
+(oo)      “**Warrant Certificate**” means a certificate substantially in the form attached hereto as Schedule “A” evidencing one or more Warrants;
+(pp)      “**Warrantholder**” or “**holder**” means the registered holder of a Warrant hereunder;
+
+(qq)      “**Warrantholders’ Request**” means an instrument, signed in one or more counterparts by Warrantholders and/or holders of Agent’s Option Warrants who hold in the aggregate not less than [[Percentage 1: Number]]% of the total number of Warrants and Agent’s Option Warrants then outstanding, requesting the Warrant Agent to take some action or proceeding specified therein;
+
+^^^^^ 
+(rr)      “**Warrants**” means, collectively, the Common Share purchase warrants of the Company issued and certified hereunder entitling holders thereof to receive, upon the exercise of one (1) such Common Share purchase warrant, one (1) Common Share and/or such kind and amount of securities or property determined pursuant to Article 4 hereof; and
+
+(ss)      “**written direction of the Company**”, “**written order of the Company**” and any other document required to be signed by the Company, mean, respectively, a written direction, order or request, consent or other document signed in the name of the Company by any of the President, Vice-President, Secretary or Chief Financial Officer of the Company, and may consist of one or more instruments so executed.
+
+^^Headings  
+The division of this Indenture into Articles, Sections, Subsections, paragraphs or other subdivisions, the provision of a table of contents and the insertion of headings are for convenience of reference only and shall not affect the construction or interpretation of this Indenture or the Warrants. 
+
+^^Gender  
+In this Indenture wherever the context permits or requires words importing number shall include the singular and the plural and words importing gender shall include all genders. 
+
+^^Business Day  
+In the event that any day on or before which any action is required to be taken hereunder is not a Business Day, then such action shall be required to be taken on or before the requisite time on the next succeeding day that is a Business Day. 
+
+^^Meaning of “Outstanding”  
+Every Warrant represented by a Warrant Certificate countersigned and delivered by the Warrant Agent hereunder shall be deemed to be outstanding until it shall be cancelled or delivered to the Warrant Agent for cancellation or until the Expiry Time; provided that where a new Warrant Certificate has been issued pursuant to Section 2.12 hereof to replace one which has been mutilated, lost, stolen or destroyed, the Warrants represented by any such new Warrant Certificate shall be counted for the purpose of determining the aggregate number of Warrants outstanding. 
+
+^^Time  
+Time shall be of the essence hereof and of the Warrants issued hereunder. 
+
+^^Applicable Law  
+This Indenture and the Warrants shall be governed by and construed in accordance with the laws of the Province of British Columbia. The parties hereto submit to the exclusive jurisdiction of the courts in the Province of British Columbia. The parties agree that any litigation between the parties which arises pursuant to or in connection with this Indenture or any of its provisions, shall be referred to the courts in the Province of British Columbia and shall not be referred to the courts in any other jurisdiction. 
+
+^^^^^ 
+^^Creation and Issue of Warrants  
+^total of up to 10,416,667 Warrants are hereby created and authorized to be issued and shall be executed by the Company and certified by, or on behalf of, the Warrant Agent upon the written order of the Company and delivered by the Warrant Agent to the Company in accordance with the written direction of the Company. Subject to the provisions hereof, the Warrants to be issued under this Indenture shall be limited in the aggregate to 10,416,667 Warrants and one (1) such Warrant shall entitle a holder, upon exercise thereof, to acquire one (1) Common Share (except in certain circumstances noted below) and/or such other kind and amount of securities or property determined pursuant to the provisions of Article 4, as the case may be. 
+
+^^Book Entry System  
+^^Unless the Book-Entry Only System is terminated or required to do so by applicable law, Warrant Certificates will only be issued in the form of a Global Warrant Certificate, which will be registered in the name of and deposited with the Depository or its nominee.
+
+^^All references herein to actions by, notices given or payments made to Warrantholders shall, where Warrants are held through the Depository, refer to actions taken by, or notices given or payments made to, the Depository upon instruction from the Participants in accordance with its rules and procedures. For the purposes of any provision hereof requiring or permitting actions with the consent of or at the direction of Warrantholders evidencing a specified percentage of the aggregate Warrants outstanding, such direction or consent may be given by holders of Warrants acting through the Depository and the Participants owning Warrants evidencing the requisite percentage of the Warrants. The rights of a Warrantholder whose Warrants are held through the Depository shall be exercised only through the Depository and the Participants and shall be limited to those established by law and agreements between such holders and the Depository and the Participants upon instructions from the Participants. Each of the Warrant Agent and the Company may deal with the Depository for all purposes as the authorized representative of the respective Warrantholders and such dealing with the Depository shall constitute satisfaction or performance, as applicable, of their respective obligations hereunder. For so long as Warrants are held through the Depository, if any notice or other communication is required to be given to Warrantholders, the Warrant Agent will give such notices and communications to the Depository.
+
+^^^^^ 
+^^Global Warrant Certificates  
+^^The Company shall issue the Warrants pursuant to one or more Global Warrant Certificates registered in the name of the Depository or its nominee and the Company shall execute and the Warrant Agent shall certify and deliver one or more Global Warrant Certificates that shall represent the aggregate number of outstanding Warrants.
+
+^^Transfers of beneficial ownership in any Warrant represented by a Global Warrant Certificate will be effected only (i) with respect to the interest of a Participant, through records maintained by the Depository or its nominee for such Global Warrant Certificate, and (ii) with respect to the interest of any person other than a Participant, through records maintained by Participants. Beneficial Owners who are not Participants but who desire to sell or otherwise transfer ownership of or any other interest in Warrants represented by such Global Warrant Certificate may do so only through a Participant.
+
+^^The rights of Beneficial Owners shall be limited to those established by applicable law and agreements between the Depository and the Participants and between such Participants and Beneficial Owners and must be exercised through a Participant in accordance with the rules and procedures of the Depository.
+
+^^Subject to subsection 2.3(e) and 2.3(f), neither the Company nor the Warrant Agent shall be under any obligation to deliver to any Participant or Beneficial Owner, nor shall any Participant or Beneficial Owner have any right to require the delivery of, a certificate or other instrument evidencing any interest in Warrants except where physical certificates evidencing ownership in the Warrants.
+
+^^If any Warrant is represented by a Global Warrant Certificate and any of the following events occurs:
+
+^^^the Depository or the Company has notified the Warrant Agent that (A) the Depository is unwilling or unable to continue as Depository or (B) the Depository ceases to be a clearing agency in good standing under applicable laws and, in either case, the Company is unable to locate a qualified successor Depository within 90 days of delivery of such notice;
+
+^^^the Company has determined, in is sole discretion, to terminate the Book-Entry Only System in respect of such Global Warrant Certificate and has communicated such determination to the Warrant Agent in writing;
+
+^^^the Company or the Depository is required by applicable law to take the action contemplated in this subsection 2.3(e); or
+
+^^^the Book-Entry Only System administered by the Depository ceases to exist;  then one or more definitive fully registered Warrant Certificates shall be executed by the Company and certified and delivered by the Warrant Agent to the Depository in exchange for the Global Warrant Certificate(s) held by the Depository.
+
+^^^^^ 
+^^Fully registered Warrant Certificates issued and exchanged pursuant to subsection 2.3(e) shall be registered in such names and in such denominations as the Depository shall instruct the Warrant Agent, provided that the aggregate number of Warrants represented by such Warrant Certificates shall be equal to the aggregate number of Warrants represented by the Global Warrant Certificate(s) so exchanged. Upon exchange of a Global Warrant Certificate for one or more Warrant Certificates in definitive form, such Global Warrant Certificate shall be cancelled by the Warrant Agent.
+
+^^Notwithstanding anything herein or in the terms of the Warrant Certificates to the contrary, neither the Company nor the Warrant Agent nor any agent thereof shall have any responsibility or liability for (i) the records maintained by the Depository relating to any ownership interests or any other interest in the Warrants or the depository system maintained by the Depository, or payments made on account of any ownership interest or any other interest of any person in any Warrant represented by any Global Warrant Certificate (other than the applicable Depository or its nominee), (ii) maintaining, supervising or reviewing any records of the Depository or any Participant relating to any such interest, or (iii) any advice or representation made or given by the Depository or those contained herein that relate to the rules and regulations of the Depository or any action to be taken by the Depository on its own direction or at the direction of any Participant.
+
+^^The provisions of Sections 2.6 and 2.7 with respect to the transfer of Warrants are subject to the provisions of this section 2.3 while the Warrants are represented by Global Warrant Certificate(s).
+
+^^Form and Terms of Warrants  
+The Warrants shall be issued pursuant to one or more Global Warrant Certificates, including all replacements issued in accordance with this Indenture, substantially in the form set out in Schedule “A” hereto with, subject to the provisions of this Indenture, such additions, variations and/or omissions as may from time to time be agreed upon between the Company and the Warrant Agent, shall be dated as of the Issue Date, and shall be numbered or lettered in such manner and shall have such legends as the Company, with the approval of the Warrant Agent, may prescribe. All Warrants shall, save as to denominations, be of like tenor and effect. No change in the form of the Warrant Certificate shall be required by reason of any adjustment made pursuant to Article 4 hereof. Warrant Certificates may be engraved, lithographed or printed or such combination thereof as the Company with the approval of the Warrant Agent may determine. 
+
+^^^^^ 
+^^Registration and Transfer of Warrants 
+
+The Company hereby appoints the Warrant Agent as the registrar and transfer agent of the Warrants and the Warrant Agent shall maintain a register of the holders of the Warrants at its principal stock transfer office in the City of Vancouver, which shall be open for inspection by any agent or representative of the Company or a Warrantholder, in which shall be entered the name and addresses of the Warrantholders and the number of Warrants held by them and all other information required by law, and in which will be recorded all transfers of the Warrants and the date and other particulars of each transfer. 
+
+^^List of Warrantholders  
+The Warrant Agent shall, from time to time when requested to do so by the Company in writing, furnish the Company with a list of the names and addresses of the Warrantholders entered in the register kept by the Warrant Agent and showing the number of Warrants held by each such holder. 
+
+^^Transfer and Ownership of Warrants  
+Unless the Company has instructed the Warrant Agent in writing to waive any or all of the following requirements, Warrants may be transferred upon receipt by the Warrant Agent of a duly completed and executed transfer instrument in the form attached to the Warrant Certificate, executed by the registered holder or his executors, administrators or other legal representatives or his or their attorney duly appointed by an instrument in writing in form and execution satisfactory to the Warrant Agent, together with evidence to its reasonable satisfaction that the transferee of such Warrants is: 
+
+^^the executor, administrator, heir or legal representative of the heirs of the estate of a deceased Warrantholder;
+
+^^a guardian, committee, Warrant Agent, curator or tutor representing a Warrantholder who is an infant, an incompetent person or a missing person;
+^^a liquidator of, or a Warrant Agent in bankruptcy for, a Warrantholder; or
+
+^^a transferee of a Warrantholder who provides the Warrant Agent with evidence satisfactory to the Warrant Agent and the Company, acting reasonably, including but not limited to a properly completed and executed declaration attached as Exhibit “A” to the transfer form attached to the Warrant Certificate, that such transferee is/was either: (i) not in the United States at the time the buy order for the Warrants was executed, not acquiring the Warrants for the account or benefit of a U.S. Person or a person in the United States and was not offered the Warrants in the United States, or (ii) a person that has purchased or acquired Warrants in a transaction that was exempt from registration under the U.S. Securities Act and has provided the Company with satisfactory evidence of the availability of such exemption which shall include an opinion of counsel reasonably acceptable to the Company that such transaction was exempt from registration under any applicable securities laws of any state of the United States and that the securities laws of any other applicable jurisdiction(s) have been complied with in relation to the transfer of the Warrants involved,
+
+^^^^^ 
+together with the Warrant Certificate in question (by delivery or mail as set forth in Section 9.3 hereof), and subject to such reasonable requirements relating to the payment of costs of the transfer by the holder as the Warrant Agent may prescribe and compliance with all applicable securities legislation and requirements of regulatory authorities. A transferee of Warrants who complies with the requirements of this Section 2.7 will be entitled to become noted upon the register of holders as a Warrantholder. After receiving the surrendered Warrant Certificate and upon the person surrendering the Warrant Certificate meeting the requirements as hereinbefore set forth, the Warrant Agent shall as soon as practicable give written notice thereof to the Company together with confirmation as to the identity of the person entitled to become the holder to the Company. Forthwith after receiving written notice from the Warrant Agent as aforesaid, the Company shall, in accordance with the provisions of this Section 2.7 hereof, cause a new Warrant Certificate to be issued and sent to the new holder and the Warrant Agent shall alter its register of holders accordingly. 
+
+Subject to the provisions of this Indenture and applicable law, the Warrantholder shall be entitled to the rights and privileges attaching to the Warrants free from all equities and rights of set-off or counterclaim between the Company and the transferor or any previous holder of Warrants and the issuance of Common Shares by the Company upon the exercise of Warrants by any Warrantholder in accordance with the terms and conditions herein contained shall discharge all responsibilities of the Company and the Warrant Agent with respect to such Warrants. 
+
+^^Legends  
+^^No Common Shares will be issued pursuant to the exercise of any Warrant if the issue of such Common Shares would constitute a violation of the securities laws of any jurisdiction and, without limiting the generality of the foregoing, the certificates representing the Common Shares thereby issued will bear such legend or legends as may, in the opinion of counsel to the Company, be necessary or advisable in order to avoid a violation of any securities laws of any jurisdiction or to comply with the requirements of any stock exchange on which the Common Shares are then listed, provided that if, at any time, in the opinion of counsel to the Company, such legend or legends are no longer necessary or advisable in order to avoid a violation of any such laws or requirements, or the holder of any such legended certificate, at such holder’s expense, provides the Company with evidence satisfactory in form and substance to the Company (which may include an opinion of counsel satisfactory to the Company) to the effect that such holder is entitled to sell or otherwise transfer such Common Shares in a transaction in which such legend or legends are not required, such legended certificate may thereafter be surrendered to the Company in exchange for a certificate which does not bear such legend or legends.
+
+^^^^^ 
+^^For greater certainty, if any Special Warrants are converted to Common Shares and Warrants prior to the receipt of the Final Receipt, the certificates representing such Warrants and the Common Shares issuable upon the exercise of such Warrants will bear the following legend:
+
+“UNLESS PERMITTED UNDER SECURITIES LEGISLATION, THE HOLDER OF THIS SECURITY MUST NOT TRADE THE SECURITY BEFORE MAY 26, 2010.” 
+
+^^Certificates representing Warrants and Common Shares issuable on the exercise of such Warrants originally issued to a U.S. Person, a person in the United States, or a person purchasing for the account or benefit of a U.S. Person or a person in the United States, as well as all certificates issued in exchange for or in substitution of such certificates, will bear the following additional legend:
+
+“THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “U.S. SECURITIES ACT”) OR THE SECURITIES LAWS OF ANY STATE OF THE UNITED STATES. THE HOLDER HEREOF, BY PURCHASING SUCH SECURITIES, AGREES FOR THE BENEFIT OF THE COMPANY THAT SUCH SECURITIES MAY BE OFFERED, SOLD OR OTHERWISE TRANSFERRED ONLY (A) TO THE COMPANY, (B) OUTSIDE THE UNITED STATES IN ACCORDANCE WITH RULE 904 OF REGULATION S UNDER THE U.S. SECURITIES ACT AND IN COMPLIANCE WITH CANADIAN LAWS AND REGULATIONS, (C) INSIDE THE UNITED STATES, PURSUANT TO THE EXEMPTION FROM REGISTRATION UNDER THE U.S. SECURITIES ACT PROVIDED BY RULE 144 THEREUNDER, IF AVAILABLE, IN COMPLIANCE WITH ANY APPLICABLE STATE SECURITIES LAWS OF THE UNITED STATES, OR (D) INSIDE OR OUTSIDE THE UNITED STATES, PURSUANT TO ANOTHER EXEMPTION FROM REGISTRATION UNDER THE U.S. SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LEGISLATION AFTER PROVIDING A LEGAL OPINION SATISFACTORY TO THE COMPANY THAT SUCH TRANSFER IS EXEMPT FROM OR OTHERWISE NOT SUBJECT TO REGISTRATION UNDER THE U.S. SECURITIES ACT AND APPLICABLE SECURITIES LAWS.” 
+
+In reaching a decision to affix to a Warrant the legend set forth above, the Warrant Agent shall be entitled to act and rely upon the direction of the Company to issue the Warrant with or without the legend. In reaching a decision to remove the legend set forth above from a Warrant transferred in accordance with the provisions of this Section 2.8, the Warrant Agent and the Company shall be entitled to act and rely upon the evidence provided by the transferee of the Warrant. 
+
+^^^^^ 
+^^Warrant Certificates in the form of a Global Warrant Certificate, as well as all certificates issued in exchange for, in substitution of or upon exercise of such certificates representing Warrants, will, if directed by the Company, bear the following legend:
+
+“UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF CDS CLEARING AND DEPOSITARY SERVICES INC. (“CDS”) TO **[[ISSUER]]** (THE “ISSUER”) OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IN RESPECT THEREOF IS REGISTERED IN THE NAME OF [[Organization 4 Name]], OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF CDS (AND ANY PAYMENT IS MADE TO [[Organization 4 Name]] OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF CDS), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL SINCE THE REGISTERED HOLDER HEREOF, [[Organization 4 Name]], HAS A PROPERTY INTEREST IN THE SECURITIES REPRESENTED BY THIS CERTIFICATE HEREIN AND IT IS A VIOLATION OF ITS RIGHTS FOR ANOTHER PERSON TO HOLD, TRANSFER OR DEAL WITH THIS CERTIFICATE.” 
+
+^^Warrantholders Not Shareholders  
+^Warrantholder shall not, as such, be deemed to be or regarded as a shareholder of the Company nor shall such Warrantholder be entitled to any right or interest, including any right to vote at, receive notice of or attend any meeting of shareholders or any other proceeding of the Company or any right to receive any dividend or other distribution, except as is expressly provided in this Indenture and in the Warrant Certificate. 
+
+^^Signing of Warrants  
+The Warrant Certificates shall be signed either manually or by facsimile signature by any officer or director of the Company and may, but need not be, under the corporate seal of the Company. A facsimile signature upon any Warrant Certificate shall for all purposes hereof be deemed to be the signature of the person whose signature it purports to be and to have been signed at the time such facsimile signature is reproduced. If a person whose signature, either manually or in facsimile, appears on a Warrant Certificate is not a director or officer of the Company at the date of this Indenture or at the date of the countersigning and delivery of such Warrant Certificate, such fact shall not affect in any way the validity of the Warrants evidenced thereby or the entitlement of the holder thereof to the benefits of this Indenture. 
+
+^^Countersigning  
+No Warrant Certificate shall be issued, or if issued, shall be valid for any purpose or exercisable or entitle the holder to the benefits hereof or thereof until the Warrant Certificate has been countersigned by or on behalf of the Warrant Agent. The Warrant Agent will countersign the Warrant Certificates upon the written direction of the Company. The countersignature by or on behalf of the Warrant Agent on any Warrant Certificate shall not be construed as a representation or warranty by the Warrant Agent as to the validity of this Indenture or of the Warrants or as to the performance by the Company of its obligations under this Indenture, and the Warrant Agent shall in no way be liable or answerable for the use made of the Warrants or any of them or of the consideration therefor except as specified herein. The countersignature of the Warrant Agent shall, however, be a representation and warranty of the Warrant Agent that the Warrant Certificate has been duly countersigned by or on behalf of the Warrant Agent pursuant to the provisions of this Indenture and shall be conclusive evidence as against the Company that the Warrant Certificate so countersigned has been duly issued hereunder and the holder is entitled to the benefits hereof. 
+
+^^^^^ 
+^^Loss, Mutilation, Destruction or Theft of Warrants 
+
+In case any of the Warrant Certificates issued and countersigned hereunder shall become mutilated or be lost, destroyed or stolen, the Company shall, upon the holder complying with this Section 2.12 and subject to applicable law, issue and thereupon the Warrant Agent shall countersign and deliver, a new Warrant Certificate of like date and tenor in exchange for and in place of the one mutilated, lost, destroyed or stolen and upon surrender and cancellation of such mutilated Warrant Certificate or in lieu of and in substitution for such lost, destroyed or stolen Warrant Certificate, and the substituted Warrant Certificate shall be in a form approved by the Warrant Agent and shall entitle the holder thereof to the benefits hereof and rank equally in accordance with its terms with all other Warrants issued hereunder. 
+
+The applicant for the issuance of a new Warrant Certificate pursuant to this Section 2.12 shall bear the reasonable costs (including applicable taxes) of the issuance thereof and in case of loss, destruction or theft shall, as a condition precedent to the issue thereof, furnish to the Company and to the Warrant Agent such evidence of ownership and of the loss, destruction or theft of the Warrant Certificate so lost, destroyed or stolen as shall be satisfactory to the Company and to the Warrant Agent, in their discretion, and such applicant may also be required to furnish an indemnity and a surety bond in amount and form satisfactory to the Company and the Warrant Agent in their discretion, and shall pay the reasonable charges of the Company and the Warrant Agent in connection therewith. 
+
+^^Issue of Warrants  
+Warrant Certificates shall be signed by the Company as aforesaid and delivered to the Warrant Agent from time to time. The Warrant Agent shall countersign any Warrant Certificate delivered by the Company to the Warrant Agent as aforesaid and shall forthwith deliver or cause to be delivered to the person or persons in whose name or names the Warrant Certificate is to be issued (as specified in any written order from time to time given by the Company to the Warrant Agent and signed by a director or officer of the Company) or mail to such person or persons at their respective addresses specified in the written order from the Company the Warrant Certificate for the appropriate number of Warrants. 
+
+^^Fractions  
+The Company will not, whether pursuant to an adjustment in accordance with Article 4 hereof or under any other circumstance, be obligated after the aggregation of the number of Common Shares and Warrants to be issued to each holder of Special Warrants to issue any fraction of a Warrant on the conversion of Special Warrants. If a holder of a Special Warrant would otherwise be entitled to a fractional Warrant pursuant to the conversion of the Special Warrants, the number of Warrants to be issued will be rounded down to the next whole number, if the holder is entitled to receive less than 0.5 of a Warrant and rounded up to the next whole number, if the holder is entitled to receive 0.5 or more of a Warrant, and the holder of such Special Warrants will not be entitled to any cash compensation in respect of such fraction. 
+
+^^^^^ 
+^^Warrants to Rank Pari Passu  
+All Warrants shall rank pari passu, whatever may be the actual date of issue of the Warrant Certificates by which they are represented. All Warrants will also rank *pari passu* with the Agent’s Option Warrants. 
+
+^^Exchange of Warrants  
+Except as otherwise herein provided:  
+^^Warrant Certificates may, upon compliance with the reasonable requirements of the Warrant Agent, be exchanged for Warrant Certificates in any other authorized denomination representing in the aggregate the same number of Warrants. The Company shall sign, and the Warrant Agent shall countersign, in accordance with Sections 2.10 and 2.11, all Warrant Certificates necessary to carry out the exchanges contemplated herein;
+
+^^Warrant Certificates may be exchanged only at the principal office of the Warrant Agent in the city of Vancouver. Any Warrant Certificates tendered for exchange shall be surrendered to the Warrant Agent and cancelled; and
+
+^^the Warrant Agent may charge registered holders requesting an exchange a reasonable sum for each Warrant Certificate exchanged and payment of such charges and reimbursement of the Warrant Agent or the Company for any and all taxes or governmental or other charges required to be paid shall be made by the party requesting such exchange as a condition precedent to such exchange.
+
+^^Recognition of Registered Holder  
+The Company and the Warrant Agent may deem and treat the registered holder of any Warrant Certificate as the absolute beneficial owner of the Warrants represented thereby for all purposes under this Indenture, and the Company and the Warrant Agent shall not be affected by any notice or knowledge to the contrary except where the Company or the Warrant Agent is required to take notice by statute or by order of a court of competent jurisdiction. A Warrantholder shall be entitled to the rights evidenced by the Warrants registered in his name free from all equities or rights of set-off or counterclaim between the Company and the original or any intermediate holder thereof and all persons may act accordingly and the receipt by any such Warrantholder of the Common Shares issuable upon the exercise thereof shall be a good discharge to the Company and the Warrant Agent for the same and neither the Company nor the Warrant Agent shall be bound to inquire into the title of any such holder except where the Company or the Warrant Agent is required to take notice by statute or by order of a court of competent jurisdiction. 
+
+^^^^^ 
+^^Cancellation of Surrendered Warrants 
+
+All Warrant Certificates surrendered to the Warrant Agent pursuant to Section 2.7, Section 2.12, Section 2.16 (where a new certificate is issued) or Section 5.1 will be cancelled and destroyed by the Warrant Agent in accordance with applicable legislation and its ordinary business practices and, if required by the Company, the Warrant Agent will deliver to the Company a destruction certificate identifying each Warrant Certificate so destroyed. 
+
+^^Covenants of the Company  
+The Company represents, warrants, covenants and agrees with the Warrant Agent for the benefit of the Warrant Agent and the Warrantholders as follows: 
+
+^^To Issue Warrants and Reserve Common Shares: The Company is duly authorized to create and issue the Warrants and the Warrant Certificates, when issued and countersigned as herein provided, will be valid and enforceable against the Company and, subject to the provisions of this Indenture, the Company will cause a sufficient number of Common Shares from time to time issuable upon the exercise of Warrants under this Indenture together with the certificates representing such Common Shares to be duly issued and delivered in accordance with instructions on the Warrant Certificates and the terms hereof. At all times prior to the Expiry Time, while any of the Warrants are outstanding, the Company shall reserve and allot and conditionally issue out of its authorized capital a number of Common Shares sufficient to enable the Company to meet its obligation to issue Common Shares in respect of the exercise of all Warrants outstanding hereunder from time to time. All Common Shares acquired upon the exercise of the Warrants shall be fully paid and non-assessable.
+
+^^To Pay Warrant Agent’s Remuneration: The Company will pay to the Warrant Agent from time to time reasonable remuneration for its services hereunder and will repay to the Warrant Agent on demand the amount of all expenditures, disbursements and advances whatsoever which the Warrant Agent reasonably incurs in and about the administration or execution of the trusts hereby created (including the compensation and disbursements of its counsel and other advisors and assistants not regularly in its employ), both before any default hereunder and thereafter until all duties of the Warrant Agent hereunder have been finally and fully performed.
+
+^^To Execute Further Assurances: The Company will do, execute, acknowledge and deliver or cause to be done, executed, acknowledged and delivered, all other acts, deeds and assurances in law as the Warrant Agent may reasonably require for effecting the intentions and provisions of this Indenture.
+
+^^^^^ 
+^^To Carry on Business: Subject to the express provisions hereof, the Company will at all times maintain its corporate existence, carry on and conduct (and cause to be carried on and conducted) its business in the same manner as heretofore carried on and conducted, provided, however, that the Company or any subsidiary of the Company may dispose of any business, premises, property or operation if in the reasonable opinion of the directors or officers of the Company or any subsidiary of the Company, as the case may be, it would be advisable and in the best interests of the Company or any subsidiary of the Company to do so; and subject to the express provisions hereof, it will do or cause to be done all things necessary to preserve and keep in full force and effect its corporate existence, provided, however, that (subject to compliance with the provisions of Article 4 hereof) nothing herein contained shall prevent the amalgamation, consolidation or merger of the Company or any subsidiary of the Company or the abandonment of any rights and franchises of the Company or any subsidiary of the Company if, in the reasonable opinion of the directors or officers of the Company, or the directors or officers of any subsidiary of the Company, as the case may be, it would be advisable and in the best interests of the Company or of such subsidiary of the Company to do so. The Company will keep or cause to be kept proper books of account in accordance with generally accepted accounting practices and will file with the Warrant Agent copies of all annual statements of the Company furnished to its shareholders after the date hereof, forthwith following delivery to its shareholders.
+
+^^Performance of Covenants By Warrant Agent: If the Company shall fail to perform any of its covenants contained in this Indenture, the Warrant Agent may notify the Warrantholders of such failure on the part of the Company or may itself perform any of the said covenants capable of being performed by it, but, subject to Section 8.3 hereof, the Warrant Agent shall be under no obligation to do so or to notify any Warrantholder. All sums reasonably expended or advanced by the Warrant Agent in performance of its rights provided for in this Subsection 3.1(e) shall be repayable as provided in Subsection 3.1(b). No such performance, expenditure or advance by the Warrant Agent shall be deemed to relieve the Company of any default hereunder or its continuing obligations hereunder.
+
+^^Performance of Indenture: The Company will well and truly perform and carry out all of the acts or things to be done by it as provided in this Indenture.
+
+^^Suits by Warrantholder  
+Subject to the provisions of this Indenture, all or any of the rights conferred upon a Warrantholder by the terms of the Warrant held by him or by this Indenture may be enforced by such Warrantholder by appropriate legal proceedings, but subject to the rights which are hereby conferred upon the Warrant Agent to proceed in its own name to enforce each and all of the provisions herein contained for the benefit of the Warrantholders from time to time. 
+
+^^Warrant Agent May Institute Proceedings 
+
+The Warrant Agent shall also have the power at any time and from time to time to institute and to maintain such suits and proceedings as it may be advised shall be necessary or advisable to preserve and protect its interest and the interests of the Warrantholders. 
+
+^^^^^ 
+^^Adjustment of Subscription Rights  
+The subscription rights attaching to the Warrants with respect to the Common Shares issuable upon the exercise of the Warrants and the Exercise Consideration shall be subject to adjustment from time to time as follows: 
+
+^^if and whenever at any time from the date hereof (and for greater certainty such date being prior to the issuance of the Warrants) and prior to the Expiry Time, the Company shall:
+
+^^^subdivide, redivide or change its outstanding Common Shares into a greater number of shares;
+
+^^^reduce, consolidate or combine the outstanding Common Shares into a lesser number of shares; or
+
+^^^issue Common Shares or securities convertible into or exchangeable for Common Shares to all or substantially all of the holders of Common Shares by way of stock dividend or other distribution;
+
+then, in each such event, the number of Common Shares obtainable upon the exercise of each Warrant and the Exercise Consideration therefor will be adjusted, at no cost to the holder, on the record date for such event or, if no record date is fixed, the effective date of such event, by multiplying the number of Common Shares theretofore obtainable on the exercise thereof, and correspondingly dividing the Exercise Consideration, by the fraction of which: 
+
+^the numerator shall be the total number of Common Shares outstanding immediately after such date, or, in the case of the issuance of securities convertible into or exchangeable for Common Shares, the total number of Common Shares outstanding immediately after such date plus the number of Common Shares issuable upon conversion or exchange of such securities, and
+
+^the denominator shall be the total number of Common Shares outstanding immediately prior to such date,
+
+and such adjustment shall be made successively whenever any event referred to in this Subsection 4.1(a) shall occur (and all adjustments in this Subsection are cumulative); 
+
+^^^^^ 
+^^if and whenever at any time from the date hereof (and for greater certainty such date being prior to the issuance of the Warrants) and prior to the Expiry Time, the Company shall fix a record date for the issue of rights, options or warrants to all or substantially all of the holders of Common Shares entitling the holders thereof, within a period expiring not more than 45 days after the record date for such issue, to subscribe for or purchase Common Shares (or securities convertible into or exchangeable for Common Shares) at a price per Common Share (or having a conversion or exchange price per Common Share) less than [[Percentage 2: Number]]% of the Current Market Price on the earlier of such record date and the date on which the Company announces its intention to make such issue, then, in each such case, the Exercise Consideration will be adjusted immediately after such record date so that it will equal the price determined by multiplying the Exercise Consideration in effect on such record date by a fraction, of which the denominator shall be the total number of Common Shares outstanding on such record date plus the number arrived at when (A) either the product of (1) the number of Common Shares so offered for subscription and (2) the price at which those Common Shares are offered, or the product of (3) the conversion price thereof and (4) the maximum number of Common Shares for or into which the convertible or exchangeable securities so offered pursuant to the rights offering may be converted or exchanged, as the case may be, is divided by (B) the Current Market Price on the record day, and of which the numerator shall be the total number of Common Shares outstanding on such record date plus the total number of additional Common Shares so offered for subscription or purchase (or into or for which the convertible or exchangeable securities so offered are convertible or exchangeable). Any Common Shares owned by or held for the account of the Company or any subsidiary of the Company will be deemed not to be outstanding for the purpose of any such computation. Such adjustment will be made successively whenever such a record date is fixed, provided that if two or more such record dates or record dates referred to in Section 4.1(c) hereof are fixed within a period of 20 Trading Days, such adjustment will be made successively as if each of such record dates occurred on the earliest of such record dates. To the extent that any such rights, options or warrants are not exercised prior to the expiration thereof, the number of Common Shares obtainable on the exercise of each Warrant (“**Share Rate**”) will then be readjusted to the Share Rate which would then be in effect based upon the number of Common Shares (or securities convertible into or exchangeable for Common Shares) actually issued upon the exercise of such rights, options or warrants, as the case may be;
+
+^^if and whenever at any time from the date hereof (and for greater certainty such date being prior to the issuance of the Warrants) and prior to the Expiry Time, the Company shall fix a record date for the making of a distribution to all or substantially all of the holders of Common Shares of:
+
+^^^shares of any other class other than Common Shares whether of the Company or any other corporation;
+
+^^^rights, options or warrants to acquire Common Shares or securities exchangeable for or convertible into Common Shares or property or other assets of the Company (other than rights, options or warrants exercisable by the holders thereof within a period expiring not more than 45 days after the record date for such issue or distribution to acquire Common Shares or securities exchangeable for or convertible into Common Shares at a price per share, or at an exchange or conversion price per share in the case of securities exchangeable for or convertible into Common Shares, of at least [[Percentage 2]]% of the Current Market Price of the Common Shares on such record date);
+
+^^^^^ 
+^^^evidences of indebtedness; or
+
+^^^cash, securities or other property or assets (other than cash dividends paid in the ordinary course);
+
+then, in each such case, (A) the Exercise Consideration will be adjusted immediately after such record date so that it will equal the rate determined by multiplying the Exercise Consideration in effect on such record date by a fraction, of which the numerator shall be the total number of Common Shares outstanding on such record date multiplied by the Current Market Price on the earlier of such record date and the date on which the Company announces its intention to make such distribution, less the aggregate fair market value (as determined by the directors at the time such distribution is authorized) of such securities or rights, options or warrants or evidences of indebtedness or cash or other property or assets so distributed, and of which the denominator shall be the total number of Common Shares outstanding on such record date multiplied by such Current Market Price, and (B) the Share Rate will be adjusted immediately after such record date so that it will equal the rate determined by multiplying the Share Rate in effect on such record date by a fraction, of which the denominator shall be the total number of Common Shares outstanding on such record date multiplied by the Current Market Price on the earlier of such record date and the date on which the Company announces its intention to make such distribution, less the aggregate fair market value (as determined by the directors at the time such distribution is authorized) of such securities or rights, options or warrants or evidences of indebtedness or cash or other property or assets so distributed, and of which the numerator shall be the total number of Common Shares outstanding on such record date multiplied by such Current Market Price. Such adjustment will be made successively whenever such a record date is fixed, provided that if two or more such record dates or record dates referred to in Subsection 4.1(b) are fixed within a period of 20 Trading Days on the principal stock exchange on which the Common Shares are listed, such adjustment will be made successively as if each of such record dates occurred on the earliest of such record dates. To the extent that such distribution is not so made or to the extent that any such rights, options or warrants so distributed are not exercised prior to the expiration thereof, the Exercise Consideration and the Share Rate will then be readjusted to the Exercise Consideration and the Share Rate which would then be in effect if such record date had not been fixed or to the Exercise Consideration and the Share Rate which would then be in effect based upon such securities or rights, options or warrants or evidences of indebtedness or cash or other property or assets actually distributed or based upon the number or amount of securities or the property or assets actually issued or distributed upon the exercise of such rights, options or warrants, as the case may be; 
+
+^^^^^ 
+^^if and whenever at any time from the date hereof (and for greater certainty such date being prior to the issuance of the Warrants) and prior to the Expiry Time, there is a reclassification of the Common Shares or a capital reorganization of the Company other than as described in Subsections 4.1(a), (b) or (c) or a consolidation, amalgamation, arrangement or merger of the Company or other form of business combination of the Company with or into any other body corporate, trust, partnership or other entity, any sale, conveyance, lease, exchange or transfer of the undertaking or assets of the Company as an entirety or substantially as an entirety to another corporation or entity, any Warrantholder who has not exercised his right of subscription prior to the effective date of such reclassification, capital reorganization, consolidation, amalgamation, merger, sale or conveyance, upon the exercise of such right thereafter, shall be entitled to receive and shall accept the kind and number of shares, securities or property that such Warrantholder would have been entitled to receive on such reclassification, capital reorganization, consolidation, amalgamation, merger, sale or conveyance, if, on the record date or the effective date thereof, as the case may be, the Warrantholder had been the registered holder of the number of Common Shares receivable upon the exercise of Warrants then held, subject to adjustment thereafter in accordance with provisions the same, as nearly as may be possible, as those contained in this Section 4.1; provided that no such action shall be carried into effect unless all necessary steps shall have been taken so that the holders of the Warrants shall thereafter be entitled to receive such kind and number of securities and property. The Company, its successor, or purchasing body corporate, partnership, trust or other entity, as the case may be, shall, as a condition precedent to any such reclassification, capital reorganization, consolidation, amalgamation, merger, sale or conveyance, take all necessary steps hereunder to enter into an agreement which shall provide, to the extent possible, that the provisions set forth in this Indenture shall thereafter correspondingly be made applicable, as nearly as may reasonably be, to the securities and property to which a Warrantholder is entitled on the exercise of his Warrants thereafter. Any agreement entered into between the Company and the Warrant Agent pursuant to the provisions of this Subsection 4.1(d) shall be a supplemental agreement entered into pursuant to the provisions of Article 7 hereof. Any agreement entered into between the Company, any successor to the Company or any purchasing body corporate, partnership, trust or other entity and the Warrant Agent shall provide for adjustments which shall be as nearly equivalent as may be practicable to the adjustments provided in this Section 4.1 and which shall apply to successive reclassifications, capital reorganizations, amalgamations, consolidations, mergers, sales or conveyances;
+
+^^in any case in which this Section 4.1 requires an adjustment to become effective immediately after a record date for an event referred to herein, the Company may defer, until the occurrence of such event, issuing any Warrantholder exercising or deemed to be exercising his subscription rights after such record date the additional Common Shares or other securities or property issuable upon such exercise by reason of the adjustment required by such event; provided, however, that the Company shall deliver to such holder an appropriate instrument evidencing such holder’s right to receive such additional Common Shares or other securities or property, as the case may be, upon the occurrence of the event requiring such adjustment and the right to receive any distributions made on such additional Common Shares or other securities or property, as the case may be, declared in favour of holders of record of such Common Shares or other securities or property, as the case may be, on and after the date of exercise or such later date as such holder would but for the provisions of this Subsection 4.1(e), have become the holder of record of such additional Common Shares, other securities or property, as the case may be, upon the exercise of the Warrants held by such holder;
+
+^^^^^ 
+^^after any adjustment pursuant to this Section 4.1, the term “Common Shares” where used in this Indenture shall be interpreted to mean securities of any class or classes or property which, as a result of such adjustment and all prior adjustments pursuant to this Section 4.1, a Warrantholder is entitled to receive upon the exercise of such holder’s Warrants, and the number of Common Shares indicated to be issuable upon any exercise of a Warrant shall be interpreted to include the number of Common Shares or other securities or property a Warrantholder is entitled to receive, as a result of such adjustment and all prior adjustments pursuant to this Section 4.1, upon the exercise of the Warrant;
+
+^^all shares of any class or classes or other securities or property which a Warrantholder is at the time in question entitled to receive on the exercise of his Warrant, whether or not as a result of adjustments made pursuant to this Section 4.1 shall, for the purposes of the interpretation of this Indenture, be deemed to be Common Shares which such Warrantholder is entitled to subscribe for pursuant to the exercise of such Warrant;
+
+^^anything in this Section 4.1 to the contrary notwithstanding, no adjustment shall be made in the subscription rights attaching to the Warrants if the issue of Common Shares is being made pursuant to any stock option or stock purchase plan in force from time to time for directors, officers or employees of the Company or any other currently existing obligation of the Company; and
+
+^^in the event of any question arising with respect to the adjustments provided for in this Section 4.1 such question shall be conclusively determined, subject to the consent of any stock exchange upon which the Common Shares are then listed, by a firm of chartered accountants appointed by the Company and acceptable to the Warrant Agent (which may be the Company’s auditors). Such accountants shall have access to all necessary records of the Company, and such determination shall be binding upon the Company, the Warrant Agent, all Warrantholders and all other persons interested therein. In the event that any such determination is made, the Company shall deliver a certificate to the Warrant Agent describing such determination;
+
+provided that no adjustment will be required if the holder of a Warrant is otherwise entitled to participate in the event which triggers the adjustment pursuant to this Section 4.1 on the same basis as such Warrantholder would have been entitled had he exercised or been deemed to have exercised his Warrants and subscribed for Common Shares immediately prior to such event. Any such adjustment shall be subject to the prior consent of the TSX. 
+
+^^^^^ 
+^^Proceedings Prior to any Action Requiring Adjustment 
+
+As a condition precedent to the taking of any action which would require an adjustment in any of the subscription rights attaching to the Warrants, including the number of Common Shares which are to be received upon the exercise thereof, the Company shall take any corporate action which may, in the opinion of counsel, be necessary in order for the Company to allot and reserve for issuance and to validly and legally issue as fully paid and non-assessable, such number of Common Shares and validly and legally deliver all other securities or property which the holders of such Warrants are entitled to receive on the exercise thereof in accordance with the provisions hereof. 
+
+^^Certificate of Adjustment  
+The Company shall from time to time immediately after the occurrence of any event which requires an adjustment or readjustment as provided in Section 4.1 hereof, deliver a certificate of the Company to the Warrant Agent specifying the nature of the event requiring the same and the amount of the adjustment necessitated thereby and setting forth in reasonable detail the method of calculation and the facts upon which such calculation is based, which certificate and the amount of the adjustment specified therein shall be verified by the Company’s auditors, upon whose verification the Warrant Agent shall be entitled to act and rely. When so verified, the Company shall, except in respect of any subdivision or consolidation of the Common Shares, forthwith give written notice to the Warrantholders specifying the event requiring such adjustment or readjustment and the results thereof; provided that if the Company has already given the required notices under Section 4.5 hereof covering all the relevant facts in respect of such event and if the Warrant Agent consents in writing, no further notice need be given under this Section 4.3. 
+
+^^Adjustment Rules  
+The adjustments provided for in this Article 4 are cumulative and shall apply (without duplication) to successive actions requiring an adjustment under the provisions of Section 4.1; provided that, notwithstanding any other provision of this Article 4, no adjustment shall be made in the number of Common Shares which may be subscribed for on the exercise of a Warrant unless it would result in a change of at least one-hundredth of a Common Share and no adjustment shall be made to the Exercise Consideration unless it would result in a [[Percentage 3: Number]]% increase or decrease in the Exercise Consideration (provided, however, that any adjustments which by reason of this Section 4.4 are not required to be made shall be carried forward and taken into account in any subsequent adjustment). 
+
+^^^^^ 
+In the event that the Company after the date of this Indenture shall take any action affecting the Common Shares other than an action described in this Article 4, the directors of the Company may, but shall not be required to, make any other adjustments to the number of Common Shares which may be acquired upon exercise of the Warrants, to the extent, if any, such directors deem appropriate, provided that no such adjustment shall, in the opinion of the directors, relying on the advice of counsel, be prejudicial to the interests of the Warrantholders and that no such adjustment shall be made unless prior approval of any stock exchange on which the Common Shares are then listed for trading, if required, has been obtained. 
+
+^^Notice of Special Matters  
+The Company covenants with the Warrant Agent that so long as any Warrant remains outstanding it will give at least 14 days prior written notice in the manner provided for in Article 9 to the Warrant Agent and to each Warrantholder of any event which requires an adjustment to the subscription rights attaching to any of the Warrants pursuant to this Article 4. The Company covenants and agrees that such notice shall contain the particulars of such event in reasonable detail and, if determinable, the required adjustment in the manner provided for in this Article 4. The Company further covenants and agrees that it shall promptly as soon as the adjustment calculations are reasonably determinable, file a Certificate of the Company with the Warrant Agent showing how such adjustment shall be computed and direct the Warrant Agent to send a copy of such certificate to the Warrantholders. 
+
+^^No Action after Notice  
+The Company covenants with the Warrant Agent that it will not close its transfer books or take any other corporate action which might deprive the holder of a Warrant of the opportunity of exercising his right of subscription pursuant thereto during the period of thirty (30) days after the giving of the notice set forth in Sections 4.3 and 4.5 hereof. 
+
+^^Protection of Warrant Agent  
+The Warrant Agent:  
+^^shall not at any time be under any duty or responsibility to any Warrantholder to determine whether any facts exist which may require any adjustment contemplated by Section 4.1 hereof, or with respect to the nature or extent of any such adjustment when made, or with respect to the method employed in making the same;
+
+^^shall not be accountable with respect to the validity or value (or the kind or amount) of any Common Share or of any other securities or property which may at any time be issued or delivered upon the exercise of the subscription rights attaching to any Warrant;
+
+^^shall not be responsible for any failure of the Company to make any cash payment or to issue, transfer or deliver Common Shares (or certificates representing same) upon the surrender or deemed surrender of any Warrants upon the exercise of the subscription rights attaching to any Warrants or to comply with any of the covenants contained in this Article 4; and
+
+^^^^^ 
+^^shall not incur any liability or responsibility whatever or be in any way responsible for the consequence of any breach on the part of the Company of any of the representations, warranties or covenants herein contained or of any acts of the agents or servants of the Company.
+
+^^Exercise of Warrants  
+^^Upon and subject to the provisions of this Article 5, any holder of a Warrant may exercise the right thereby conferred on him to subscribe for Common Shares by delivering or causing to be delivered to the Warrant Agent after the Issue Date and until the Expiry Time at its principal office in the City of Vancouver, or any other place designated by the Company with the approval of the Warrant Agent, during normal business hours on a Business Day,
+
+^^^the Warrant Certificate evidencing the Warrants, with the Exercise Form attached to the Warrant Certificate duly completed and executed by the holder or his executors or administrators or other legal representatives or his or their attorney duly appointed by an instrument in writing in form and manner satisfactory to the Warrant Agent; and
+^^^either:
+
+^a certified cheque, bank draft or money order in lawful money of Canada payable to or to the order of the Warrant Agent, in trust for the Company, at par in such city or other place, in an amount equal to the Exercise Consideration multiplied by the number of Warrants being exercised; or
+
+^a written notice by the Company that the Company has received payment in full of an amount equal to the Exercise Consideration multiplied by the number of Warrants being exercised.
+
+Delivery of (i) and (ii) above will be deemed to have been made only on personal delivery of (i) and (ii) above or, if sent by mail or other means of transmission, on actual receipt thereof by, the Warrant Agent at its office in the City of Vancouver. 
+
+^^Unless the Company has instructed the Warrant Agent in writing to waive any or all of the following requirements, the Warrants may not be exercised by or for the account or benefit of a U.S. Person or a person in the United States unless the holder certifies in writing to the Company and the Warrant Agent that the holder: (i) purchased the Special Warrants directly from the Company pursuant to a written subscription agreement for the purchase of Special Warrants, (ii) is exercising the Warrants solely for its own account and not on behalf of any other Person; and (iii) was an “Accredited Investor”, as that term is defined in Regulation D under the Securities Act, both on the date the Warrants were issued by the Company and on the date of exercise of the Warrants; or (iii) a registered transferee of such Warrants who has complied with Subsection 2.7(d) hereof, provided that the Company may, in its sole discretion, accept, in substitution of the foregoing, evidence satisfactory to the Company, acting reasonably, to the effect that the Common Shares have been registered under the U.S. Securities Act and applicable state securities laws or that the Common Shares may be issued upon exercise of the Warrants without registration under the U.S. Securities Act and any applicable state securities laws.
+
+^^^^^ 
+In determining whether any person is a U.S. Person under the terms of this Indenture, the Warrant Agent and the Company shall be entitled to act and rely upon the address of the Warrantholder recorded on the register. 
+
+^^The Exercise Form attached to the Warrant Certificate shall be signed as set out above and shall specify:
+
+^^^the number of Warrants which the Warrantholder wishes to exercise; and
+
+^^^the number of Common Shares owned or controlled (beneficially and legally) by the Warrantholder on the date of exercise; and
+
+^^^the person or persons in whose name or names the Common Shares issuable upon the exercise of such Warrants are to be registered, the address or addresses and the social insurance number or numbers of such person or persons and the number of Common Shares to be issued to each such person if more than one is so specified, provided that the Warrantholder shall only be entitled to direct his entitlement to the Common Shares in a manner permitted by applicable securities legislation, and provided further that no certificates for Common Shares shall be registered at or delivered to an address in the United States unless the person in whose name the certificates are to be registered has complied with the requirements of subsection 2.7(d) hereof.
+
+If any of the Common Shares issuable upon the exercise of Warrants are to be issued to a person or persons other than the Warrantholder in accordance with the provisions of Section 2.7 hereof, the signature set out in the Exercise Form shall be guaranteed by a Schedule 1 chartered bank or medallion guaranteed by a member of a recognized medallion guarantee program and the Warrantholder shall pay to the Warrant Agent all requisite stamp or security transfer taxes or other governmental charges exigible in connection with the issue of such Common Shares to such other person or persons or shall establish to the satisfaction of the Warrant Agent that such taxes and charges have been paid and the Company will not be required to issue or deliver any certificate evidencing any Common Shares issuable upon the exercise of Warrants unless or until such amount has been paid or the Warrantholder has established to the satisfaction of the Company that such taxes and charges have been paid or that no such taxes or charges are owing. 
+
+^^^^^ 
+^^If at the time of the exercise of the Warrants there remain trading restrictions on the Common Shares issuable upon such exercise pursuant to Applicable Securities Laws, the Company may, on the advice of counsel, endorse the certificates representing such Common Shares with legends accordingly until such time as the Company determines that such endorsement is no longer necessary to avoid a violation of such securities laws by the Company and so advises the Warrant Agent in writing or unless and until the holder of any such endorsed certificate, at the holder’s expense, provides the Company with evidence satisfactory in form and substance to the Company (which may include an opinion of counsel satisfactory to the Company) to the effect that such holder is entitled to sell or otherwise transfer such Common Shares in a transaction in which such endorsement is not required, whereupon such endorsed certificate may thereafter be surrendered to the Company in exchange for a certificate which does not bear such endorsement.
+
+^^In the event of non-receipt of any certificates representing Common Shares issuable upon an exercise of Warrants by the person to whom such certificates are so sent as aforesaid, or the loss or destruction thereof, the Company shall issue and the Warrant Agent shall countersign and deliver to such person a replacement certificate of like date and tenor in place of the one lost or destroyed upon being furnished with such evidence of ownership and non-receipt, loss or destruction and with such indemnity and surety bond or security as the Company may reasonably require. The Warrantholder shall bear the cost of the issue of such replacement certificates.
+
+^^Effect of Exercise of Warrants  
+Upon a valid exercise of Warrants as provided in Section 5.1 hereof, the Common Shares issuable upon the exercise of the Warrants shall be deemed to have been issued, and such person or persons as are specified pursuant to Section 5.1 hereof shall be deemed to have become the holder or holders of record of such Common Shares on the date of such valid exercise (herein called the “**Exercise Date**”) unless the stock transfer books of the Company shall be closed by law on the date of such valid exercise, in which case such securities shall be deemed to have been issued, such person or persons shall be deemed to have become the holder or holders of record of such Common Shares and the Exercise Date shall be deemed to be on the date on which such stock transfer books are next re-opened. 
+
+Upon a valid exercise of Warrants as aforesaid, the Warrant Agent shall forthwith give written notice thereof to the Company. 
+
+In the case of a Warrant which is exercised by a holder in accordance with the provisions of Section 5.1, within five (5) Business Days after the Exercise Date of such Warrant, the Company shall, in the case of Warrants issued pursuant to Warrant Certificates other than Global Warrant Certificate(s): 
+
+^^cause to be mailed to the person in whose name the Common Shares so subscribed for are to be issued, at the address specified in the Exercise Form attached to the Warrant Certificate representing the Warrant exercised;
+
+^^^^^ 
+^^if so specified therein, cause to be delivered to such person at the office of the Warrant Agent where such Warrant was surrendered; or
+
+^^if no specification as contemplated by (a) or (b) is provided, cause to be mailed to the person in whose name the Common Shares are to be issued at the address of such person last appearing on the register maintained by the Warrant Agent pursuant hereto or as such person may otherwise notify the Warrant Agent in writing on or prior to the Exercise Date,
+
+certificates representing the Common Shares to which the Warrantholder is entitled upon exercise of the Warrants so exercised, provided that no certificate shall be registered or mailed to an address in the United States unless the subscriber shall have satisfied the requirements of Section 5.1. 
+
+In the case of the exercise of Warrants issued pursuant to Global Warrant Certificate(s), the Company shall cause the Depository to enter and issue, as the case may be, to the person or persons in whose name or names such Common Shares have been issued, a Book-Entry Only System customer confirmation. 
+
+^^Postponement of Delivery of Certificates 
+
+The Company shall not be required to deliver certificates representing Common Shares during any period when the stock transfer books of the Company are closed by law and in the event of an exercise of a Warrant during such period, the delivery of certificates evidencing such Common Shares may be postponed for a period not exceeding five (5) Business Days after the date of the re-opening of the stock transfer books. 
+
+^^Warrants Void after Expiry Time  
+Upon the earlier of (i) the exercise of the Warrants and (ii) the Expiry Time, the Warrants shall be void and of no value or effect. 
+
+^^Fractions  
+To the extent that the holder of a Warrant is entitled to receive on the exercise thereof a fraction of a Common Share, such right may only be exercised in respect of such fraction which, in combination with another Warrant or other Warrants, in the aggregate, entitle the holder to receive a whole number of Common Shares. 
+
+If a holder is not able to, or elects not to, combine Warrants so as to be entitled to acquire a whole number of Common Shares, the Company shall make an appropriate cash adjustment to such holder in respect only of the entitlement to a fractional Common Share. In respect of any holder, the Company shall only be required to make such a cash adjustment once and for one (1) fractional Common Share and no more. The amount of the cash adjustment shall be equal to the fraction of a Common Share to which the holder would be entitled multiplied by the Current Market Price. The Company will not, under any circumstances, be obligated to issue a cheque to a Warrantholder of less than Cdn.$10.00. The price to be paid shall be provided by the Company in writing to the Warrant Agent on request. 
+
+^^^^^ 
+^^Partial Exercise of Warrants  
+The holder of any Warrants may acquire a number of Common Shares less than the number which the holder is entitled to acquire pursuant to the surrendered Warrant Certificate(s). In the event of any exercise of a number of Warrants less than the number which the holder is entitled to exercise, the holder of the Warrants upon such exercise shall be entitled to receive, without charge therefor, a new Warrant Certificate(s) in respect of the balance of the Warrants represented by the surrendered Warrant Certificate(s) which were not then exercised, and with respect to Global Warrant Certificate(s), the Depository shall make notations on the Global Warrant Certificate of the Warrants so exercised. 
+
+^^Accounting and Recording  
+The Warrant Agent shall:  
+^^promptly account to the Company with respect to Warrants exercised and forward to the Company or to an account or accounts of the Company at a bank or trust company designated by the Company for that purpose) all cash or instruments of payment received on the exercise of Warrants; and
+
+^^record the particulars of Warrants exercised, which particulars shall include the names and addresses of the persons who become holders of Common Shares on such exercise and the Exercise Date in respect thereof. The Warrant Agent shall provide such particulars in writing to the Company within five (5) Business Days of any request by the Company therefor.
+
+^^Warrant Exercise Proceeds  
+All cash, instruments of payment and any securities or other instruments, from time to time received by the Warrant Agent upon an exercise of Warrants shall be received in trust for, and shall be segregated and be kept apart by the Warrant Agent in trust for, the Company. 
+
+^^Convening of Meeting  
+^meeting of Warrantholders (which meeting will include the holders of Agent’s Option Warrants and for purposes of this Article 6, Warrantholders includes holders of Agent’s Option Warrants and Warrants includes Agent’s Option Warrants) may be convened at any time by the Warrant Agent or the Company or by the holders of Warrants pursuant to a Warrantholders’ Request, who shall serve the Warrant Agent with a requisition signed by such holders and the Warrant Agent, upon being funded and indemnified, shall then be bound to convene a meeting of Warrantholders. In the event that the Warrant Agent fails to convene the meeting after being duly required to do so, the holders of the then outstanding Warrants representing no less than ten percent ([[Percentage 1]]%) of the aggregate number of Warrants then outstanding may themselves convene a meeting, the notice of which shall be signed by any person as such Warrantholders may specify, provided that every such meeting shall be held at the City of Vancouver or such other place as the Warrant Agent may approve and the Warrant Agent and the Company shall receive notice of such meeting as provided in Section 6.2 hereof. 
+
+^^^^^ 
+^^Notice  
+At least twenty-one (21) days prior notice of a meeting of Warrantholders shall be given to all Warrantholders, the Warrant Agent and the Company in accordance with Article 9 hereof, and the notice shall state the time, the place, and in general terms, the nature of the business to be transacted but it shall not be necessary to specify the text of the resolutions to be considered. It shall not be necessary to specify the nature of business to be transacted at an adjourned meeting. 
+
+^^Chairman  
+The chairman of the meeting of Warrantholders shall be designated in writing by the Warrant Agent and need not be a Warrantholder. If no person is so designated or if the person so designated is not present within fifteen (15) minutes after the time fixed for the holding of a meeting, the Warrantholders and proxyholders for Warrantholders present at the meeting shall choose one of their members to be the chairman. 
+
+^^Quorum  
+^^Quorum: Subject to the provisions of Section 6.10 hereof, at any meeting of Warrantholders a quorum will consist of two or more Warrantholders, present in person or represented by proxy at the commencement of the meeting, who hold in the aggregate not less than [[Percentage 4: Number]]% of the total number of Warrants then outstanding.
+
+^^No Quorum: If a quorum of Warrantholders is not present within 30 minutes after the time appointed for holding a meeting, the meeting, if convened by Warrantholders or on a Warrantholders’ Request, will be dissolved, but, subject to Section 6.10 hereof, in any other case will stand adjourned to the same day in the next week (unless such day is not a Business Day, in which case it will be adjourned to the next following Business Day) at the same time and place and no notice of the adjournment need be given.
+
+^^Adjourned Meeting: At the adjourned meeting the Warrantholders present in person or by proxy will form a quorum and may transact any business for which the meeting was originally convened notwithstanding the number of Warrants that they hold.
+
+^^Show of Hands  
+Subject to Section 6.6 hereof, every question submitted to a meeting, except one requiring an Extraordinary Resolution, shall be decided in the first instance by a majority of hands on a show of hands, the outcome of which will be declared by the chairman. Each Warrantholder present, in person or by proxy, shall have one (1) vote. 
+
+^^^^^ 
+^^Poll  
+^poll shall be taken when requested by a Warrantholder acting in person or by proxy and, when demanded on the election of a chairman or on the question of adjournment, shall be taken forthwith. On an Extraordinary Resolution or if demanded on any other question, a poll shall be taken in such manner and either at once or after an adjournment as the chairman may direct. The result of a poll shall be the decision of the meeting at which the poll was demanded. On a poll vote, each Warrantholder acting in person or by proxy shall have one (1) vote for each Warrant which he holds or represents. Votes may be given in person or by proxy and the proxyholder need not be a Warrantholder. The chairman of any meeting shall be entitled to vote in respect of any Warrants and proxies held by him. 
+
+^^Regulations  
+The Warrant Agent, or the Company with the approval of the Warrant Agent and the Agent, may from time to time make and from time to time vary such regulations not contrary to the provisions of this Indenture as it shall think fit providing for and governing: 
+
+^^the setting of the record date for a meeting for the purpose of determining Warrantholders entitled to receive notice of and to vote at a meeting;
+
+^^voting by proxy, the form of instrument appointing proxyholders, the manner in which proxies are to be executed and the production of the authority of any persons signing on behalf of a Warrantholder;
+
+^^the lodging of and means of forwarding the instruments appointing proxyholders and the time before the holding of a meeting or adjourned meeting by which the instruments appointing proxyholders are to be deposited; and
+^^any other matter relating to the conduct of meetings of Warrantholders.
+
+Any regulations so made shall be binding and effective on the Warrantholders and votes given in accordance therewith shall be valid and counted. The Warrant Agent may permit Warrantholders to provide proof of ownership of the Warrants in such manner as the Warrant Agent may approve. Save as aforesaid, the only persons who shall be recognized at any meeting as Warrantholders or entitled to vote or, except as provided in Section 6.12 hereof, be present at the meeting in respect thereof shall be persons who are registered holders of Warrants or are duly appointed proxyholders for registered holders of Warrants. 
+
+^^Minutes  
+Minutes of all resolutions passed and proceedings taken at every meeting as aforesaid shall be made and duly entered in books to be from time to time provided for that purpose by the Warrant Agent at the expense of the Company and any such minutes as aforesaid, if signed by the chairman of the meeting at which such resolutions were passed or proceedings taken, or by the chairman of the next succeeding meeting of Warrantholders, shall be prima facie evidence of the matters therein stated and, until the contrary is proved, every such meeting in respect of the proceedings of which minutes shall have been made shall be deemed to have been duly held and convened and all resolutions passed thereat or proceedings taken thereat to have been duly passed and taken. 
+
+^^^^^ 
+^^Powers Exercisable by Extraordinary Resolution 
+
+Subject to the prior approval of the TSX, the Warrantholders shall have the power from time to time by Extraordinary Resolution: 
+
+^^to agree to or sanction any modification, abrogation, alteration or compromise of the rights of the Warrantholders or (subject to the prior consent of the Warrant Agent therefor) the Warrant Agent in its capacity as Warrant Agent hereunder or on behalf of Warrantholders against the Company which shall be agreed to by the Company whether such rights arise under this Indenture or under the Warrants or otherwise;
+
+^^to assent to any change in or omission from the provisions contained in the Warrants and this Indenture or any ancillary or supplemental instrument which may be agreed to by the Company, and to authorize the Warrant Agent to concur in and execute any ancillary or supplemental agreement embodying the change or omission;
+
+^^with the consent of the Company, not to be unreasonably withheld, to remove the Warrant Agent or its successor in office and to appoint a new Warrant Agent or Warrant Agents to take the place of the Warrant Agent so removed;
+
+^^to require, direct or authorize the Warrant Agent to enforce any of the covenants on the part of the Company contained in this Indenture or the Warrants or to enforce any of the rights of the Warrantholders in any manner specified in such Extraordinary Resolution or to refrain from enforcing any such covenant or right, in each case upon the Warrant Agent being furnished with an indemnity and such funding as the Warrant Agent may, in the reasonable exercise of its discretion determine it requires to so act;
+
+^^to restrain any Warrantholder from instituting or continuing any suit or proceedings against the Company for the enforcement of the covenants on the part of the Company contained in this Indenture or the Warrants or of any of the rights conferred upon the Warrantholders by the Warrants and this Indenture;
+
+^^to direct any Warrantholder who, as such, has brought any suit, action or proceeding to stay or discontinue or otherwise deal with the same upon payment of the costs, charges and expenses reasonably and properly incurred by such Warrantholder in connection therewith;
+
+^^to waive and direct the Warrant Agent to waive any default on the part of the Company in complying with any of the provisions of this Indenture or the Warrants either unconditionally or upon any conditions specified in such Extraordinary Resolution;
+
+^^^^^ 
+^^to assent to any compromise or arrangement with any creditor or creditors or any class or classes of creditors, whether secured or unsecured, and with holders of any shares or other securities of the Company; and
+
+^^to amend, alter or repeal any Extraordinary Resolution previously passed or sanctioned by the Warrantholders.
+
+An Extraordinary Resolution of the Warrantholders is binding upon all the Warrantholders whether or not present at the meeting at which the Extraordinary Resolution was passed or whether or not assented to in writing and each Warrantholder, the Warrant Agent and the Company shall be bound to give effect to the Extraordinary Resolution to the extent that the Extraordinary Resolution applies to such party. 
+
+^^Meaning of “Extraordinary Resolution” 
+
+The expression “Extraordinary Resolution” when used in this Indenture means, subject to Section 6.13, a resolution proposed to be passed as an extraordinary resolution at a meeting of Warrantholders duly convened for the purpose and held in accordance with the provisions of this Article 6 and passed by not less than sixty-six and two-thirds percent (662/[[Percentage 5: Number]]%) of the votes cast upon such resolution. 
+
+Subject to Section 6.13 hereof, votes on an Extraordinary Resolution shall always be given on a poll. 
+
+^^Powers Cumulative  
+It is hereby declared and agreed that any one or more of the powers or any combination of the powers in this Indenture stated to be exercisable by the Warrantholders by Extraordinary Resolution or otherwise may be exercised from time to time and the exercise of any one or more of such powers or any combination of powers from time to time shall not be deemed to exhaust the right of the Warrantholders to exercise the same or any other such power or powers or combination of powers then or thereafter from time to time. 
+
+^^Company, Warrantholders and Warrant Agent May be Represented 
+
+The Company and the Warrant Agent, by their respective employees, officers and directors, and the legal and financial advisors and the Company’s auditors and the Warrant Agent may attend any meeting of the Warrantholders, but they shall have no vote thereat. In addition, any Warrantholder is entitled to have his legal or financial advisers present at any such meeting, but such advisors shall have no vote thereat. 
+
+^^Instruments in Writing  
+All actions that may be taken and all powers that may be exercised by the Warrantholders at a meeting as hereinbefore in this Article provided may also be taken and exercised by holders of not less than sixty-six and two-thirds percent (662/[[Percentage 5]]%) of the aggregate number of Warrants then outstanding by an instrument in writing signed in one or more counterparts by such holders and the expression “Extraordinary Resolution” when used in this Indenture shall include an instrument so signed. 
+
+^^^^^ 
+^^Binding Effect of Resolutions  
+Every resolution and every Extraordinary Resolution passed in accordance with the provisions of this Article 6 at a meeting of Warrantholders shall be binding upon all the Warrantholders, whether present at or absent from such meeting and every instrument in writing signed by Warrantholders in accordance with Section 6.13 shall be binding upon all the Warrantholders, whether signatories thereto or not and each, and every Warrantholder and the Warrant Agent (subject to the provisions for indemnity herein contained) shall be bound to give effect accordingly to every such resolution and Extraordinary Resolution. In the case of an Extraordinary Resolution in writing, the Warrant Agent shall give notice in writing to all Warrantholders and the Company in the manner contemplated in Article 9 of the effect of the Extraordinary Resolution as soon as it is reasonably practicable. 
+
+^^Holdings by the Company or Subsidiaries of the Company Disregarded 
+
+In determining whether Warrantholders holding the required number of Warrants are present at a meeting of Warrantholders for the purpose of determining a quorum or have concurred to any consent, waiver, resolution, Extraordinary Resolution or other action under this Indenture, Warrants owned legally or beneficially by the Company or any subsidiary of the Company shall be disregarded. The Company shall provide to the Warrant Agent, upon written request, a Certificate of the Company stating the registration and denomination of any Warrants owned legally or beneficially by the Company or any subsidiary of the Company. 
+
+^^Provision for Supplemental Agreements for Certain Purposes 
+
+From time to time the Company (when authorized by a resolution of its directors), the Agent and the Warrant Agent may, subject to the prior approval of the TSX, if necessary, and the provisions of this Indenture, and they shall, when so required by any provision of this Indenture, execute and deliver by their proper officers, deeds, agreements or instruments supplemental hereto, which thereafter shall form part hereof, for any one or more of the following purposes: 
+
+^^adding to the provisions hereof such additional covenants and enforcement provisions as, in the opinion of counsel, are necessary or advisable in the premises, provided that the same are not, in the opinion of the Warrant Agent, relying on the advice of counsel, prejudicial to the interests of the Warrantholders;
+
+^^giving effect to any Extraordinary Resolution passed as provided in Article 6 hereof;
+
+^^making such provisions not inconsistent with this Indenture as may be necessary or desirable with respect to matters or questions arising hereunder or for the purpose of obtaining a listing or quotation of the Common Shares issuable upon the exercise of the Warrants on any stock exchange, or for the purpose of complying with applicable laws, provided that such provisions are not, in the opinion of the Warrant Agent, relying on the advice of counsel, prejudicial to the interests of the Warrantholders;
+
+^^^^^ 
+^^making any modification in the form of the Warrant Certificate which does not affect the substance of the Warrants;
+
+^^evidencing any succession, or successive successions, of other bodies corporate, or other persons to the Company and the assumption by any successor of the covenants of the Company contained herein and in the Warrant Certificates as provided hereafter in this Article 7; and
+
+^^for any other purpose not inconsistent with the terms of this Indenture, including the correction or rectification of any ambiguities, defective provisions, errors or omissions herein, provided that, in the opinion of the Warrant Agent, relying on the advice of counsel, the rights of the Warrant Agent and of the Warrantholders are in no way prejudiced thereby and provided that the Warrant Agent may in its uncontrolled discretion decline to enter into any such supplemental indenture which in its opinion may not afford adequate protection to the Warrant Agent when the same shall become operative.
+
+^^Company May Consolidate, etc. on Certain Terms 
+
+Subject to Subsection 4.1(d), nothing in this Indenture shall prevent any consolidation, reorganization, arrangement, amalgamation or merger of the Company with or into any other body corporate, or bodies corporate, or person, or a conveyance or transfer of all or substantially all the properties and assets of the Company as an entirety to any body corporate or person lawfully entitled to acquire and operate the same, provided, however, that the body corporate or person formed by such consolidation or amalgamation or arrangement or into which such merger shall have been made or the person which acquires by conveyance or transfer all or substantially all the properties and assets of the Company as an entirety shall execute and deliver to the Warrant Agent and the Agent prior to or contemporaneously with such consolidation, reorganization, amalgamation, arrangement, merger, conveyance or transfer, and as a condition precedent thereto an agreement supplemental hereto wherein the due and punctual performance and observance of all the covenants and conditions of this Indenture to be performed or observed by the Company shall be assumed by such body corporate or person on terms and conditions not adverse to the Warrantholders. The Warrant Agent shall be entitled to receive and shall be fully protected in relying upon an opinion of counsel and such other advisors as they deem necessary that any such consolidation, reorganization, amalgamation, arrangement, merger, conveyance or transfer and any supplemental agreement executed in connection therewith, complies with the provisions of this Section 7.2. 
+
+^^Successor Body Corporate Substituted 
+
+In case the Company, pursuant to Section 7.2 hereof, shall be consolidated, amalgamated, reorganized, arranged or merged with or into any other body corporate, bodies corporate or person or shall convey or transfer all or substantially all of the properties and assets of the Company as an entirety to another body corporate or person, the successor body corporate or person formed by such consolidation, reorganization, arrangement or amalgamation or into which the Company shall have been merged or which shall have received a conveyance or transfer as aforesaid shall succeed to and be substituted for the Company hereunder with the same effect as nearly as may be possible as if it had been named herein as a party in substitution for the Company. Such changes may be made in the Warrants as may be appropriate in view of such consolidation, reorganization, amalgamation, merger, conveyance or transfer and as may be necessary to ensure that the Warrantholders are not adversely affected by such consolidation, organization, amalgamation, merger, conveyance or transfer. 
+
+^^^^^ 
+^^No Conflict of Interest  
+The Warrant Agent represents to the Company that, to the best of its knowledge, at the date of the execution and delivery of this Indenture, there exists no material conflict of interest in the role of the Warrant Agent as a fiduciary hereunder and its role in any other capacity and agrees that in the event of a material conflict of interest arising hereafter it will, within ninety (90) days after ascertaining that it has such material conflict of interest, either eliminate the same or assign its trust hereunder to a successor warrant agent approved by the Company. Notwithstanding the foregoing provisions of this Section 8.1, if any such material conflict of interest exists hereunder or shall exist, the validity and enforceability of this Indenture and the Warrant Certificates shall not be affected in any manner whatsoever by reason thereof. 
+
+^^Replacement of Warrant Agent  
+The Warrant Agent may resign its duties and be discharged from all further duties and liabilities hereunder after giving sixty (60) days notice in writing to the Company and the Agent, provided that such shorter notice may be given as the Company shall accept as sufficient. In the event of the office of Warrant Agent becoming vacant by resignation or incapacity to act or otherwise, the Company shall appoint in writing a new Warrant Agent unless a new Warrant Agent has already been appointed by the Warrantholders pursuant to an Extraordinary Resolution. If the Company makes default for a period of ten (10) Business Days in making such appointment, then any Warrantholder or the retiring or former Warrant Agent (at the Company’s expense) may apply to a judge of the Supreme Court of the Province of British Columbia for the appointment of a new Warrant Agent after such notification to the holders of the then outstanding Warrants and the Company as such judge may order. Upon appointment, the successor Warrant Agent shall be vested with the same powers, rights, duties and responsibilities as if it had been originally named as Warrant Agent without any further assurance, conveyance, act or deed, but if for any reason it becomes necessary or expedient to execute any further deed or assurance the same shall be done at the expense of the Company and may and shall be legally and validly executed by the former Warrant Agent. Any company resulting from a merger, consolidation or amalgamation to which the Warrant Agent for the time being is a party shall be the successor Warrant Agent under this Indenture without any further act. Any new Warrant Agent appointed under this Section 8.2 shall be a corporation authorized to carry on the business of a trust company in the Qualifying Provinces. Upon the appointment of a new Warrant Agent, the Company or the Agent shall promptly notify the Warrantholders thereof in the manner provided in Section 9.2. 
+
+^^^^^ 
+^^Duty of Warrant Agent  
+In the exercise of its rights, duties and obligations prescribed or conferred by the terms of this Indenture, the Warrant Agent shall exercise that degree of care, diligence and skill that a reasonably prudent Warrant Agent would exercise in comparable circumstances. 
+
+^^Experts, Advisors and Agents  
+The Warrant Agent may:  
+^^in relation to this Indenture, rely and act on, and shall be protected in relying and acting in good faith, on the opinion or advice of or information obtained from any counsel, auditor, valuer, engineer, surveyor or other expert, whether obtained by the Warrant Agent, the Company, the Agent or otherwise; and/or
+
+^^employ or retain such agents and other assistants as it may reasonably require for the proper determination and discharge of its duties hereunder and may pay reasonable remuneration without taxation of costs of counsel for all services performed for it in the determination and discharge of the duties hereunder and shall receive reimbursement from the Company for all disbursements, costs and expenses reasonably made or incurred by it in the determination and discharge of its duties hereunder and in the management of the trusts hereof. Any counsel employed or consulted by the Warrant Agent may, but need not be, counsel for the Company or the Agent.
+
+^^Warrant Agent Not Required to Give Security 
+
+The Warrant Agent shall not be required to give security for its conduct or administration of the trusts hereof and shall not be responsible for the acts, omissions, defaults, errors or failures of any agents whom it may reasonably employ in the exercise of the powers conferred upon it hereby, nor for any loss occasioned by its own acts, omissions or defaults unless such acts, omissions or defaults constitute bad faith, wilful misconduct, wilful or negligent breach of trust or fraud. 
+
+^^Warrant Agent Not Ordinarily Bound  
+Subject to Sections 6.1 and 6.9 hereof, the Warrant Agent shall not be bound to do or to take any action for the enforcement of any of the obligations of the Company under this Indenture unless and until it is required to do so by an instrument in writing signed by the holders representing not less than ten percent ([[Percentage 1]]%) of the aggregate number of Warrants then outstanding. The Warrant Agent may, before taking the action, require the Warrantholders at whose instance the action is required to deposit with the Warrant Agent the Warrants held by them for which the Warrant Agent shall issue receipts. The obligation of the Warrant Agent to commence or continue any act, action or proceeding shall be conditional upon such Warrantholders furnishing, when required in writing so to do by the Warrant Agent, funds sufficient for commencing or continuing the act, action or proceeding and an indemnity reasonably satisfactory to the Warrant Agent to protect and hold harmless the Warrant Agent against any loss, damage or liability by reason thereof. None of the provisions contained in this Indenture shall require the Warrant Agent to risk or expend its own funds or otherwise incur financial liability in the performance of any of its duties or in the exercise of any of its rights or powers unless funded and indemnified as aforesaid. 
+
+^^^^^ 
+The Warrant Agent shall not be bound to give any notice or do or take any act, action or proceeding by virtue of the powers conferred on it hereby unless and until it shall have been required so to do under the terms hereof; nor shall the Warrant Agent be required to take notice of any default hereunder, unless and until notified in writing of such default, which notice shall distinctly specify the default desired to be brought to the attention of the Warrant Agent and in the absence of any such notice the Warrant Agent may for all purposes of this indenture conclusively assume that no default has been made in the observance or performance of any of the representations, warranties, covenants, agreements or conditions contained herein. Any such notice shall in no way limit any discretion herein given the Warrant Agent to determine whether or not the Warrant Agent shall take action with respect to any default. 
+
+^^Warrant Agent may Rely on Certificates 
+
+Whenever in the administration of the trusts of this Indenture, the Warrant Agent shall deem it necessary or desirable that any matter be proved or established by the Company prior to taking or suffering any action to be taken hereunder, such matter (unless other evidence in respect thereof be herein specifically prescribed) may be deemed to be conclusively proved and established by a certificate or instrument signed by any of the Chairman, President, Vice-President, Secretary or the Treasurer of the Company and delivered to the Warrant Agent, and such certificate or instrument shall be full authority to the Warrant Agent for any action taken or suffered by it under the provisions of this Indenture in reliance thereon, provided in its reasonable discretion the Warrant Agent may in lieu thereof accept other evidence of such fact or matter or may require such further or additional evidence as to it may seem reasonable. 
+
+In addition to the reports, certificates, opinions and other evidence required by this Indenture, the Company shall furnish to the Warrant Agent such additional evidence of compliance with any provision hereof, and in such form as may be prescribed by Applicable Legislation or as the Warrant Agent may reasonably require by written notice to the Company. 
+
+In the exercise of its rights and duties, the Warrant Agent may, if it is acting in good faith, act and rely as to the truth of the statements and the accuracy of the opinions expressed therein, upon statutory declarations, opinions, reports, certificates or other evidence furnished to the Warrant Agent pursuant to a request of the Warrant Agent, provided that such evidence complies with Applicable Legislation and that the Warrant Agent examines the same and determines that such evidence complies with the applicable requirements of this Indenture. 
+
+Whenever Applicable Legislation requires that evidence be in the form of a statutory declaration, the Warrant Agent may accept such statutory declaration in lieu of a certificate of the Company required by any provision hereof. Any such statutory declaration may be made by any one or more of the Chairman or Chief Financial Officer of the Company or by any other officer(s) or director(s) of the Company to whom such authority is delegated by the directors from time to time. 
+
+^^^^^ 
+The Warrant Agent may act and rely and shall be protected in acting and relying upon any resolution, certificate, statement, instrument, opinion, report, notice, request, consent, order, letter, telegram, cablegram or other paper document believed by it to be genuine and to have been signed, sent or presented by or on behalf of the proper party or parties. 
+
+Proof of execution of any document or instrument in writing by a holder may be made by the certificate of a notary public, or other officer with similar powers, that the person signing such instrument acknowledged to him the execution thereof, or by an affidavit of a witness to such execution, or in any other manner the Warrant Agent considers adequate. 
+
+^^Warrant Agent’s Liability  
+The Warrant Agent shall not be liable or accountable for any loss or damage whatsoever to any person caused by its performance or failure to perform its responsibilities under this Indenture save only to the extent that such loss or damage is attributable to the negligence, wilful misconduct or fraud of the Warrant Agent. The Warrant Agent shall not be responsible for any misconduct on the part of any counsel, banker, receiver, agent or other person appointed with due care by it hereunder, or be bound to supervise the proceedings of any such appointee. 
+
+^^Indemnification  
+Without limiting any protection or indemnity of the Warrant Agent, its directors, officers and employees under any other provision hereof, or otherwise at law, the Company hereby agrees to indemnify and hold harmless the Warrant Agent, its directors, officers and employees from and against any and all liabilities, losses, damages, penalties, claims, actions, suits, costs, expenses and disbursements, including legal or advisor fees and disbursements, of whatever kind and nature which may at any time be imposed on, incurred by or asserted against them in connection with the performance of their duties and obligations hereunder, other than such liabilities, losses, damages, penalties, claims, actions, suits, costs, expenses and disbursements arising by reason of the negligence, wilful misconduct, bad faith or fraud of the Warrant Agent, its directors, officers or employees. This provision shall survive the resignation or removal of the Warrant Agent, or the termination of this Indenture. 
+
+^^No Representation as to Validity  
+The Warrant Agent shall be under no responsibility in respect of the validity or the execution and delivery by the Company of this Indenture or in respect of the validity or the execution by the Company of any Warrant Certificate issued hereunder; nor shall it be responsible for any breach by the Company of any covenant or condition contained in this Indenture or in any Warrant Certificate; nor shall it by any act hereunder be deemed to make any representation or warranty as to the authorization or reservation of any Common Shares to be issued upon the exercise of Warrants provided for in this Indenture and/or in any Warrant Certificate or as to whether any Common Shares will, when issued, be duly authorized or be validly issued and fully paid and non-assessable, it being hereby agreed and declared that as to all the matters and things referred to in this Section 8.10, the duty and responsibility shall rest upon the Company and not upon the Warrant Agent and the failure of the Company to discharge any such duty and responsibility shall not in any way render the Warrant Agent liable or place upon it any duty or responsibility for breach of which it would be liable. 
+
+^^^^^ 
+^^Acceptance of Duties  
+The Warrant Agent hereby accepts the duties set out in this Indenture and agrees to perform the same upon the terms and conditions herein set forth or referred to unless and until discharged therefrom by resignation or in some other lawful manner. 
+
+^^Contracting with Company  
+The Warrant Agent may contract with the Company and buy, lend upon and deal in shares in the capital of the Company and in the Warrants constituted hereunder without being accountable for profits arising therefrom. 
+
+^^Warrant Agent’s Authority to Carry on Business 
+
+The Warrant Agent represents to the Company that as at the date hereof it is authorized to carry on the business of a trust company in the Qualifying Provinces. If, notwithstanding the provisions of this Section 8.13, it ceases to be authorized to carry on such business in such provinces, the validity and enforceability of this Indenture and the Warrants issued hereunder shall not be affected in any manner whatsoever by reason only of such event, provided that the Warrant Agent shall, within thirty (30) days after ceasing to be authorized to carry on such business in such provinces, either become so authorized or resign in the manner and with the effect specified in Section 8.2 hereof. 
+
+^^**Monetary Distributions**  
+The Warrant Agent will have no obligation to make any monetary distributions to the Warrantholders under this Indenture except to the extent that certified funds have been deposited with the Warrant Agent. 
+
+^^**Trust Indenture Legislation**  
+In this Section 8.15, the term “Applicable Legislation” means the provisions, if any, of any statute relating to trust indentures and the applicable rules and regulations thereunder or to the rights, duties and obligations of Warrant Agents and of corporations under trust indentures, to the extent that such provisions are at the time in force and applicable to this Indenture. If and to the extent that such provisions of this Indenture limits, qualifies or conflicts with a mandatory requirement of Applicable Legislation, such mandatory requirement shall prevail. The Company and the Warrant Agent agree that each will at all times in relation to this indenture and any action to be taken hereunder, observe and comply with and be entitled to the benefits of Applicable Legislation. 
+
+^^^^^ 
+^^**Limitations on Warrant Agent**  
+The parties agree that:  
+^^nothing in this Agreement will impose on the Warrant Agent any obligation to see to, or to require evidence of, the registration or filing (or renewal thereof) of this indenture or any instrument ancillary or supplemental hereto;
+
+^^the Warrant Agent shall not be bound to give notice to any person of the execution hereof;
+
+^^the Warrant Agent shall not incur any liability or responsibility whatever or be in any way responsible for the consequences of any breach by the Company of any obligation herein contained or of any act of any director, officer, employee or agent of the Company; and
+
+^^the Warrant Agent and any person related to the Warrant Agent will not be appointed a receiver or receiver and manager or liquidator of all or any part of the assets or undertaking of the Company.
+
+^^Notice to Company or Agent  
+Unless and until the Company or the Agent notifies the Warrant Agent of a change of address, any notice or communication required or permitted to be given to the Company or the Agent under the provisions of this Indenture shall be valid and effective if delivered (i) in respect of the Company, to the Company at Suite 654, [[Address 1: Address]] 3E1 Attention: Vice-President and Corporate Secretary, or sent by telecopier (and a copy by regular mail) or other means of prepaid transmitted or recorded communication to such address or, subject to the provisions of Section 9.4 hereof, if mailed by prepaid registered mail addressed to the Company at Suite 654, [[Address 1: Address]] 3E1 Attention: Vice-President and Corporate Secretary, telecopier number [[Phone 1]], and (ii) in respect of the Agent, to the Agent at Suite 2020, 335 8th Avenue S.W., [[Address 2: Address]], T2P 1C9 Attention: [[Person 1 First Name]] [[Person 1 Last Name]], telecopier number [[Phone 2]], or sent by telecopier (and a copy by regular mail) or other means of prepaid transmitted or recorded communication to such address or, subject to the provisions of Section 9.4 hereof, if mailed by prepaid registered mail addressed to the Agent at 2020, 335 8th Avenue S.W., [[Address 3: Address]] 1C9 Attention: [[Person 1 First Name]] [[Person 1 Last Name]], telecopier number [[Phone 2]]. Any notice to the Company or the Agent as aforesaid shall be deemed to have been effectively given on the earlier of: 
+
+^^the date of delivery, if delivered during normal business hours of the Company or the Agent, as applicable, (and, if not, on the next following Business Day);
+
+^^the Business Day immediately following the day of sending, if sent by telecopier (with receipt confirmed), or
+^^on the fifth (5th) Business Day after effectual posting in Canada.
+
+^^^^^ 
+^^Notice to Warrantholders  
+Unless and until a Warrantholder notifies the Company and the Agent of a change of address, any notice or communication required or permitted to be given to a Warrantholder under the provisions of this Indenture shall be valid and effective if delivered to such holders at their post office addresses appearing on the register to be kept by the Warrant Agent or sent by telecopier (and a copy by regular mail) or other means of prepaid transmitted or recorded communication to such address, or subject to the provisions of Section 9.4 hereof, if mailed by prepaid registered mail addressed to such holders at their post office addresses appearing on the register to be kept by the Warrant Agent. Accidental error or omission in giving notice or accidental failure to mail notice to any holder will not invalidate any action or proceeding founded thereon. All notice may be given to whichever one of the Warrantholders (if more than one) is named first in the appropriate register hereinbefore mentioned, and any notice so given shall be sufficient notice to all Warrantholders of and any other persons (if any) interested in such Warrants. Any notice to a Warrantholder as aforesaid shall be deemed to have been effectively given on the earlier of: 
+
+^^the date of delivery, if delivered during normal business hours (and, if not, on the next following Business Day);
+
+^^the Business Day immediately following the day of sending, if sent by telex, telegram, cable or telecopier (with receipt confirmed); or
+^^on the fifth (5th) Business Day after effectual posting in Canada.
+
+^^Notice to Warrant Agent  
+Unless and until the Warrant Agent is changed in accordance with the provisions of this Indenture or the Warrant Agent notifies the Company and the Agent of a change of address, any notice or communication required or permitted to be given to the Warrant Agent under the provisions of this Indenture shall be valid and effective if delivered to the Warrant Agent at [[Organization 2 Name]] (Attention: Manager, Corporate Trust Department) at [[Address 4: Address]], V6E 3X1 or sent by telecopier (and a copy by regular mail) or other means of prepaid transmitted or recorded communication to either of such addresses, or subject to the provisions of Section 9.4 hereof, if mailed by prepaid registered mail addressed to the Warrant Agent (Attention: Manager, Corporate Trust Department) in Vancouver at telecopier number: [[Phone 3]]. Any notice to the Warrant Agent as aforesaid shall be deemed to have been effectively given on the earlier of: 
+
+^^the date of delivery, if delivered during normal business hours of the Warrant Agent (and, if not, on the next following Business Day);
+
+^^the Business Day immediately following the day of sending, if sent by telex, telegram, cable or telecopier (with receipt confirmed); or
+
+^^on the fifth (5th) Business Day after effectual posting in Canada.
+
+^^^^^ 
+Surrender of a Warrant Certificate and evidence relating thereto pursuant to Section 2.4 hereof shall be valid and effective if delivered or mailed by prepaid registered mail to the Principal Office of the Warrant Agent, (Attention: Manager, Corporate Trust Department) at [[Address 4: Address]], V6E 3X1 and shall be deemed to have been effectively surrendered on the date of delivery, if delivered during normal business hours of the Warrant Agent (and, if not, on the next following Business Day) or, if mailed, on the fifth (5th) Business Day after effectual posting in Canada. 
+
+^^Mail Service Interruption  
+If by reason of strike, lockout or other work stoppage, actual or threatened, of postal employees, any notice to be given to the Warrant Agent, the Company or the Agent would be unreasonably delayed in reaching its destination, such notice shall be valid and effective only if delivered to an officer of the party to which it is addressed or if sent to such party, at the appropriate address in accordance with Sections 9.1 or 9.3 hereof, as the case may be, by telecopier or other means of prepaid transmitted or recorded communication, or, in the case of Warrantholders, if published once (i) in the national edition of [[Organization 5 Name]]; and (ii) in such other place or places and manner, if any, as the Warrant Agent may require. Any notice given to Warrantholders by publication shall be deemed to have been given on the last day on which publication shall have been effected in all of the cities in which publication is required. 
+
+^^General Provisions as to Certificates 
+
+Each Certificate of the Company and opinion of counsel (“**Document**”) required under or referred to in this Indenture or furnished in connection with any application, written order or written request made to the Warrant Agent or a Warrantholder pursuant to any provisions of this Indenture shall specify the section under which such Document, application, written order or written request is being made and shall include: 
+
+^^a statement that the person signing such Document has read and understands the conditions precedent with respect to compliance with which such evidence is being given;
+
+^^a description of the nature and scope of the examination or investigation upon which the Document is based; and
+
+^^a statement that the person providing the Document has made such examination or investigation as he believes is necessary to enable him to make the statements or give the opinions contained or expressed therein.
+
+Any application, written demand, statement, request, notice, designation, direction, nomination or other instrument to be made by the Company under any of the provisions of this Indenture shall, unless otherwise provided, be deemed sufficiently made and executed if executed by any one of the President, any Vice-President, the Secretary or the Chief Financial Officer of the Company and need not be under the corporate seal of the Company. The Warrant Agent shall accept a certificate signed by the Secretary of the Company as sufficient evidence of the passage of any resolution by the directors. 
+
+^^^^^ 
+Any Document may be based, insofar as it relates to factual matters, upon information with respect to the Company which is in the possession of the Company or upon the certificate or opinion of or representations by an officer or officers of the Company, unless such counsel knows that the certificate or opinion or representations with respect to the matters upon which the certificate or opinion may be based as aforesaid are erroneous or, in the exercise of reasonable care, should have known that the same were erroneous. 
+
+Counsel, in giving any opinion under this Indenture, may rely in whole or in part upon the opinion of other counsel, provided that counsel shall consider such other counsel as one upon whom he may properly rely. 
+
+Any certificate of any expert, insofar as it relates to matters outside of such expert’s competence or responsibility, may be based upon a certificate or opinion of or upon representations by counsel or some other qualified expert, unless such first-mentioned expert knows that the certificate or opinion or representations with respect to the matters upon which his certificate may be based as aforesaid are erroneous or, in the exercise of reasonable care, should have known that the same were erroneous. 
+
+^^Power of Board of Directors  
+In this Indenture, wherever the Company is required or empowered to exercise any acts, all such acts may be exercised by the directors of the Company or by those officers of the Company authorized to exercise such acts. 
+
+^^Formal Date and Execution Date  
+For the purpose of convenience this Indenture may be referred to as bearing as its formal date the date first above written in this Indenture, which shall be the date on which this Indenture shall become effective between the parties hereto, irrespective of the actual date of execution hereof. 
+
+^^Further Assurances  
+The parties hereto and each of them do hereby covenant and agree to do such things and execute such further documents, agreements and assurances as may be necessary or advisable from time to time in order to carry out the terms and conditions of this Indenture in accordance with their true intent. 
+
+^^Unenforceable Terms  
+If any term, covenant or condition of this Indenture, or the application thereof to any party or circumstance shall be invalid or unenforceable to any extent, the remainder of this Indenture or the application of such term, covenant or condition to a party or circumstance other than those to which it is held invalid or unenforceable shall not be affected thereby and each remaining term, covenant or condition of this Indenture shall be valid and shall be enforceable to the fullest extent permitted by law. 
+
+^^^^^ 
+^^Entire Agreement  
+This Indenture constitutes the entire agreement between the parties hereto relating to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written, of the parties and there are no general or specific warranties, representations or other agreements by or among the parties in connection with the entering into of this Indenture or the subject matter hereof except as specifically set forth herein. 
+
+^^Amendments  
+Subject to Section 7.1 and other applicable provisions, this Indenture may be altered or amended in any of its provisions when any such changes are reduced to writing and signed by the parties hereto but not otherwise. 
+
+^^Counterparts  
+This Indenture may be executed in one or more counterparts, each of which so executed shall be deemed to be an original and such counterparts together shall constitute one and the same instrument. 
+
+^^No Waiver  
+Subject to the express provisions hereof, no consent or waiver, express or implied, by either party to or of any breach or default by another party in the performance of such party’s obligations hereunder shall be deemed or construed to be a consent or waiver to or of any other breach or default in the performance of obligations hereunder by such party hereunder. Failure on the part of any party to complain of any act or failure to act of another party or to declare such other party in default, irrespective of how long such failure continues, shall not constitute a waiver by such party of its rights hereunder. 
+
+^^Enurement  
+This Indenture shall benefit and bind the parties to it and their respective successors and assigns. 
+
+^^Conflicts  
+In the event of any conflict or inconsistency through the provision of this Indenture and the Certificate, the provisions of this Indenture will govern. 
+
+^^Assignment  
+This Indenture may not be assigned by either party hereto without the consent in writing of the other party. 
+
+^^^^^ 
+\centered *[The remainder of this page has been intentionally left blank]* 
+
+^^^^^ 
+**IN WITNESS WHEREOF** the parties hereto have executed this Indenture as of the date first above written. 
+
+**[[ISSUER]]**
+Per:   *(signed) [[Person 2 First Name]] [[Person 2 Last Name]]*
+[[Person 2 First Name]] [[Person 2 Last Name]]
+Vice President & Corporate Secretary
+
+**[[Organization 1 Name]].**
+Per:   *(signed) [[Person 3 First Name]] [[Person 3 Last Name]]*
+
+Per:   *(signed) [[Person 4 First Name]] [[Person 4 Last Name]]*
+
+**[[Organization 2 Name]]**
+Per:   *(signed) [[Person 5 First Name]] [[Person 5 Last Name]]*
+[[Person 5 First Name]] [[Person 5 Last Name]]
+Manager, Client Relations
+
+Per:   *(signed) [[Person 6 First Name]] [[Person 6 Last Name]]*
+Associate Manager
+Corporate Trust
+
+^^^^^ 
+
+\centered **SCHEDULE “A”** 
+
+\centered **[[ISSUER]]** WARRANT CERTIFICATE** 
+
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF CDS CLEARING AND DEPOSITARY SERVICES INC. (“CDS”) TO **[[ISSUER]]** (THE “ISSUER”) OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IN RESPECT THEREOF IS REGISTERED IN THE NAME OF [[Organization 4 Name]], OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF CDS (AND ANY PAYMENT IS MADE TO [[Organization 4 Name]] OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF CDS), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL SINCE THE REGISTERED HOLDER HEREOF, [[Organization 4 Name]], HAS A PROPERTY INTEREST IN THE SECURITIES REPRESENTED BY THIS CERTIFICATE HEREIN AND IT IS A VIOLATION OF ITS RIGHTS FOR ANOTHER PERSON TO HOLD, TRANSFER OR DEAL WITH THIS CERTIFICATE. 
+
+EXERCISABLE ONLY BEFORE 5:00 P.M. (VANCOUVER TIME) ON OR BEFORE JANUARY 25, 2011 (THE “EXPIRY DATE”), AFTER WHICH TIME THIS WARRANT WILL BE NULL AND VOID. 
+
+**THE FOLLOWING LEGEND FOR U.S. PURCHASERS ONLY** 
+
+THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “U.S. SECURITIES ACT”) OR THE SECURITIES LAWS OF ANY STATE OF THE UNITED STATES. THE HOLDER HEREOF, BY PURCHASING SUCH SECURITIES, AGREES FOR THE BENEFIT OF THE COMPANY THAT SUCH SECURITIES MAY BE OFFERED, SOLD OR OTHERWISE TRANSFERRED ONLY (A) TO THE COMPANY, (B) OUTSIDE THE UNITED STATES IN ACCORDANCE WITH RULE 904 OF REGULATION S UNDER THE U.S. SECURITIES ACT AND IN COMPLIANCE WITH CANADIAN LAWS AND REGULATIONS, (C) INSIDE THE UNITED STATES, PURSUANT TO THE EXEMPTION FROM REGISTRATION UNDER THE U.S. SECURITIES ACT PROVIDED BY RULE 144 THEREUNDER, IF AVAILABLE, IN COMPLIANCE WITH ANY APPLICABLE STATE SECURITIES LAWS OF THE UNITED STATES, OR (D) INSIDE OR OUTSIDE THE UNITED STATES, PURSUANT TO ANOTHER EXEMPTION FROM REGISTRATION UNDER THE U.S. SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LEGISLATION AFTER PROVIDING A LEGAL OPINION SATISFACTORY TO THE COMPANY THAT SUCH TRANSFER IS EXEMPT FROM OR OTHERWISE NOT SUBJECT TO REGISTRATION UNDER THE U.S. SECURITIES ACT AND APPLICABLE SECURITIES LAWS. 
+
+**THE FOLLOWING LEGENDS ONLY IF THE SPECIAL WARRANTS WERE CONVERTED PRIOR TO RECEIPT OF FINAL RECEIPT** 
+
+“UNLESS PERMITTED UNDER SECURITIES LEGISLATION, THE HOLDER OF THIS SECURITY MUST NOT TRADE THE SECURITY BEFORE MAY 26, 2010.” 
+
+^^^^^ 
+**WARRANTS**  
+
+\centered **[[ISSUER]]**  (Incorporated under the laws of the Yukon Territory) 
+
+\centered 
+
+WARRANT CERTIFICATE NO.    Warrants  
+
+THIS IS TO CERTIFY that, for value received, _____, the registered holder hereof (the “holder”) is entitled, for every one (1) Warrant held, to purchase at any time before the Expiry Time, being 5:00 p.m. (Vancouver time) on the Expiry Date one (1) fully paid and non-assessable common share (“Common Share”) in the capital of **[[ISSUER]]** (the “Company”) as constituted on the date hereof, or such other securities as are stipulated by the provisions for adjustment contained in the Warrant Indenture hereinafter described, by delivery to [[Organization 2 Name]] (the “Warrant Agent”) at its principal office in the City of Vancouver or City of Toronto of this Warrant Certificate, with the Exercise Form attached hereto duly completed and executed, and a bank draft, certified cheque, money order or wire transfer in lawful money of Canada, payable to or to the order of the Warrant Agent, in trust for the Company, at par in the city where this Warrant Certificate is so delivered, in an amount equal to the product of the Exercise Consideration multiplied by the number of Common Shares being purchased upon exercise of the Warrants. 
+
+For the purposes of this Warrant Certificate, “Exercise Consideration” means, in respect of every one (1) Warrant exercised, the sum of Cdn.$[[USD Value 1]], subject to adjustment pursuant to Article 4 of the Warrant Indenture. 
+
+The Warrants represented by this certificate are issued under and pursuant to a Warrant Indenture (the “Indenture”) made as of [[Date 5]] among the Company, the Agent and the Warrant Agent (which expression shall include any successor warrant agent appointed under the Indenture), to which Indenture (and any amendments thereto and instruments supplemental thereto) reference is hereby made for a full description of the rights of the holders of the Warrants and the terms and conditions upon which such Warrants are or are to be, issued and held, all to the same effect as if the provisions of the Indenture and all amendments thereto and instruments supplemental thereto were herein set forth and to all of which provisions the holder of these Warrants by acceptance hereof assents. All capitalized terms not otherwise defined herein shall have the meanings ascribed thereto in the Indenture. 
+
+In the event of any conflict or inconsistency between the provisions of the Indenture (and any amendments thereto and instruments supplemental thereto) and the provisions of this Warrant Certificate, except those that are necessary by context, the provisions of the Indenture (and any amendments thereto and instruments supplemental thereto) shall prevail. The terms and provisions of the Indenture (and any amendments thereto and instruments supplemental thereto) are incorporated herein by reference. 
+
+This Warrant Certificate shall be validly surrendered only upon delivery thereof or by mailing the same, with payment as provided above, to the Warrant Agent at its principal office in the City of Vancouver (at the address hereinafter indicated). The Exercise Form attached hereto shall be deemed not to be duly completed if not fully completed in the manner indicated or if the name and mailing address of the holder do not appear legibly on such Exercise Form or such Exercise Form is not signed by the holder. 
+
+^^^^^ 
+Not later than the fifth (5th) Business Day after the surrender to the Warrant Agent of this Warrant Certificate for the purposes of exercising Warrants represented hereby with the attached Exercise Form duly completed and payment as provided above, (i) the Warrant Agent will cause to be mailed to the holder, or to such person as the holder may otherwise specify in the Exercise Form or by written notice given to the Warrant Agent prior to such mailing, at the address of the holder or, if so specified, of such person, or, if specified in the Exercise Form or by written notice given to the Warrant Agent prior to such mailing, cause to be delivered to such holder or person at the place where this Warrant Certificate was surrendered certificates representing the number of Common Shares issuable upon the exercise of such Warrants registered in the name of the holder or, if so specified, such person, or (ii) in the case of the exercise of Warrants issued pursuant to Global Warrant Certificate(s), the Company shall cause the Depository to enter and issue, as the case may be, to the person or persons in whose name or names such Common Shares have been issued, a Book-Entry Only System customer confirmation. In the event of non-receipt of any such certificate referred to in (i) above by the person to whom it is so sent as aforesaid, or the loss or destruction thereof, the Company shall issue and the Warrant Agent shall countersign and deliver to such person a replacement certificate of like date and tenor in place of the one lost or destroyed upon being furnished with such evidence of ownership and of such non-receipt, loss or destruction and with such indemnity and surety bond or security as the Warrant Agent may reasonably require. The holder shall bear the cost of the issue of such replacement certificate. If less than all the Warrants evidenced by this Warrant Certificate are exercised, the holder will be entitled to receive without charge a new Warrant Certificate representing the balance of such Warrants. 
+
+Upon a valid exercise of Warrants as provided herein, the person or persons in whose name or names the Common Shares are issuable, shall be deemed for all purposes (except as provided in the Indenture) to be the holder or holders of record of such Common Shares and the Company covenants that it will (subject to and in accordance with the provisions of the Indenture) cause certificates representing such Common Shares to be delivered or mailed to such person or persons at the address or addresses specified in such Exercise Form. 
+
+To the extent that the Warrants represented by this Warrant Certificate confer the right to subscribe for a fraction of a Common Share, such right may be exercised in respect of such fraction only in combination with an additional Warrant or Warrants which in the aggregate entitle the holder to acquire a whole number of Common Shares. No fractional Common Shares will be issued. If a holder is not able to, or elects not to, combine Warrants so as to be entitled to acquire a whole number of Common Shares, the Company shall make an appropriate cash adjustment. In respect of any holder, the Company shall only be required to make such a cash adjustment once and for one (1) fractional Common Share and no more. The amount of the cash adjustment shall be equal to the fraction of a Common Share to which the holder would be entitled multiplied by the Current Market Price. The Company will not, under any circumstances, be obligated to issue a cheque to a Warrantholder of less than Cdn.$10.00. 
+
+The Indenture provides for adjustments to the subscription rights attaching to the Warrants represented by this Warrant Certificate in certain events and also provides for the giving of notice by the Company prior to taking certain actions necessitating such adjustments. 
+
+The holding of the Warrants evidenced by this Warrant Certificate shall not constitute the holder hereof a shareholder of the Company or entitle such holder to any right or interest in respect thereof except as herein and in the Indenture expressly provided. 
+
+^^^^^ 
+The Warrants evidenced by this Warrant Certificate are transferable only in accordance with the terms and conditions set forth in Section 2.7 of the Indenture which makes reference to the fact that a person who furnishes evidence (unless the Company has instructed the Warrant Agent in writing to waive such requirement) to the reasonable satisfaction of the Warrant Agent that he is: 
+
+^^the executor, administrator, heir or legal representative of the heirs of the estate of a Warrantholder,
+
+^^a guardian, committee, trustee, curator or tutor representing a Warrantholder who is an infant, an incompetent person or a missing person,
+^^a liquidator of, or a trustee in bankruptcy for, a Warrantholder, or
+
+^^a transferee of a Warrantholder who provides the Warrant Agent with evidence satisfactory to the Warrant Agent and the Company, acting reasonably, including but not limited to a properly completed and executed declaration attached as Exhibit “A” to the transfer form attached to this Warrant Certificate, that such transferee is/was either: (i) not in the United States at the time the buy order for the Warrants was executed, not acquiring the Warrants for the account or benefit of a U.S. Person or a person in the United States and was not offered the Warrants in the United States, or (ii) a person that has purchased or acquired Warrants in a transaction that was exempt from registration under the U.S. Securities Act and has provided the Company with satisfactory evidence of the availability of such exemption (which shall include an opinion of counsel reasonably acceptable to the Company) and was exempt from registration under any applicable securities laws of any state of the United States and that the securities laws of any other applicable jurisdiction(s) have been complied with in relation to the transfer of the Warrants involved.
+
+Warrants may only be transferred on compliance with the conditions of the Indenture on the register to be kept by and at the principal office of the Warrant Agent in the City of Vancouver upon surrender of this Warrant Certificate to the Warrant Agent accompanied by a written instrument of transfer in form and execution satisfactory to the Warrant Agent or other registrar and upon compliance with such reasonable requirements relating to the payment of costs of the transfer by the holder as the Warrant Agent may prescribe and all applicable securities legislation and requirements of regulatory authorities. 
+
+If any of the Common Shares issuable upon the exercise of Warrants are to be issued to a person or persons other than the holder (as aforesaid), the holder shall pay to the Warrant Agent all requisite stamp transfer taxes or other governmental charges exigible in connection with the issue of such Common Shares to such other person or persons or shall establish to the satisfaction of the Warrant Agent that such taxes and charges have been paid. 
+
+On presentation at the principal office of the Warrant Agent in Vancouver, subject to the provisions of the Indenture and on compliance with the reasonable requirements of the Warrant Agent, one or more Warrant Certificates may be exchanged for one or more Warrant Certificates of different denomination evidencing in total the same number of Warrants as the certificate or certificates being exchanged. 
+
+^^^^^ 
+The Indenture contains provisions making resolutions passed at properly held meetings of Warrantholders and instruments in writing signed by Warrantholders holding a specified majority of the outstanding Warrants binding on all such holders. 
+
+This Warrant Certificate shall not be valid for any purpose whatever unless and until it has been countersigned by or on behalf of the Warrant Agent. 
+
+Time shall be of the essence hereof. The Warrants and the Indenture (and any amendments thereto and instruments supplemental thereto) shall be governed by, performed, construed and enforced in accordance with the laws of the Province of British Columbia and the laws of Canada applicable therein and shall be treated in all respects as British Columbia contracts. 
+
+Unless the Company has instructed the Warrant Agent in writing to waive any or all of the following requirements, the Warrants may not be exercised by or for the account or benefit of a U.S. Person or a person in the United States unless the holder certifies in writing to the Company and the Warrant Agent that the holder: (i) purchased the Special Warrants directly from the Company pursuant to a written subscription agreement for the purchase of Special Warrants; (ii) is exercising the Warrants solely for its own account and not on behalf of any other Person; and (iii) was an “Accredited Investor”, as that term is defined in Regulation D under the Securities Act, both on the date the Warrants were issued by the Company and on the date of exercise of the Warrants; or (iii) a registered transferee of such Warrants who has complied with Subsection 2.7(d) hereof, provided that the Company may, in its sole discretion, accept, in substitution of the foregoing, evidence satisfactory to the Company, acting reasonably, to the effect that the Common Shares have been registered under the U.S. Securities Act and applicable state securities laws or that the Common Shares may be issued upon exercise of the Warrants without registration under the U.S. Securities Act and any applicable state securities laws. 
+
+This Warrant may not be exercised in the United States or by or for the account or benefit of a U.S. Person or person in the United States other than by: (i) an original Warrantholder, or (ii) by a registered transferee of Warrants that acquired the Warrants in a transaction registered or exempt from registration under the U.S. Securities Act and applicable state securities laws and in compliance with the Indenture. 
+
+If, as and when deemed necessary by the Company pursuant to Applicable Securities Laws, the Company and the Warrant Agent may attach such legends to each certificate representing Common Shares issuable upon the exercise of Warrants as are required in order to comply with such securities laws. 
+
+After the exercise of any of the Warrants represented by this Warrant Certificate, the holder will no longer have any rights under either the Indenture or this Warrant Certificate with respect to such Warrants, other than the right to receive certificates representing the Common Shares issuable upon the exercise or deemed exercise of the Warrants represented by this Warrant Certificate, and such Warrants shall be void and of no further value or effect. 
+
+^^^^^ 
+IN WITNESS WHEREOF the Company has caused this Warrant Certificate to be signed by its duly authorized officer as of , 2010. 
+
+**[[ISSUER]]**
+Per:
+Authorized Signatory
+
+Countersigned by:  **[[Organization 2 Name]]**
+Per:
+Authorized Signatory
+
+^^^^^ 
+
+\centered **EXERCISE INSTRUCTIONS TO WARRANTHOLDER** 
+
+The Warrantholder may exercise his right to subscribe for Common Shares of **[[ISSUER]]** (the “Company”) by completing the Exercise Form and surrendering this Warrant Certificate and the duly completed Exercise Form, with payment of the applicable Exercise Consideration, to [[Organization 2 Name]] by delivering or mailing it to [[Organization 2 Name]] at its principal stock transfer office in the City of Vancouver at Suite 1600, The Oceanic Plaza, [[Address 5: Address]], V6E 3X1. 
+
+For your own protection, it is suggested that all documentation be forwarded to the Warrant Agent by registered mail. 
+
+^^^^^ 
+\centered **EXERCISE FORM** 
+
+To:      **[[ISSUER]]**
+
+c/o [[Organization 2 Name]]
+
+Suite 1600, The Oceanic Plaza
+
+[[Address 6: Address]]
+
+V6E 3X1 
+
+The undersigned holder of the within Warrant Certificate, pursuant to the Warrant Indenture mentioned therein hereby exercises _____ of the Warrants (the “Exercised Warrants”) evidenced thereby and hereby subscribes for a number of Common Shares of **[[ISSUER]]** equal to such number of Common Shares or number or amount of other securities or property, or combination thereof, to which such exercise entitles him under the provisions of the Warrant Indenture at an aggregate price equal to the product of the Exercise Consideration and the number of Exercised Warrants, and on the terms specified in such Warrant Certificate and the Warrant Indenture, and in payment therefor, delivers herewith a bank draft, certified cheque or money order payable to [[Organization 2 Name]], in trust for **[[ISSUER]]** 
+
+The undersigned hereby irrevocably directs that such Common Shares be issued and delivered as follows: 
+
+\centered 
+
+Number(s) or Amount(s) of Name(s) in Full    Address(es)    Common Shares 
+
+**No certificates will be registered or delivered to an address in the United States unless Box B below is checked.** 
+
+Aggregate Common Shares owned or controlled (beneficial and legal) on the date of exercise . 
+
+(Please print full name in which share certificates are to be issued. If any Common Shares are to be issued to a person or persons other than the Warrantholder, the Warrantholder must pay to the Warrant Agent all exigible transfer taxes or other government charges.) 
+
+^^^^^ 
+The undersigned certifies that each of the representations and warranties made by the undersigned to the Company in connection with the undersigned’s acquisition of the Exercised Warrants remains true and correct on the date hereof. 
+
+**The undersigned represents that it (A) has had access to such current public information concerning **[[ISSUER]]** as it considered necessary in connection with its investment decision and (B) understands that the securities issuable upon exercise hereof have not and will not be registered under the United States Securities Act of 1933, as amended (the “U.S. Securities Act”).** 
+
+The undersigned represents and warrants that it: **[check one only]** 
+
+^^A.      is not in the United States or a U.S. Person as defined in Rule 902 of Regulation S under the U.S. Securities Act and is not exercising the Exercised Warrants for the account or benefit of a U.S. Person or a person in the United States.
+
+^^B.      is a registered holder that acquired the Exercised Warrants in a transaction that was exempt from registration under the U.S. Securities Act and applicable state securities laws and in compliance with Subsections 2.7(d) of the Warrant Indenture.
+
+DATED at _____ this _____ day of _____, _____. 
+
+\centered 
+
+Signature Guaranty*    Signature of Subscriber** 
+
+Name of Subscriber 
+
+Address (include Postal Code) 
+
+SIN/TIN Number (if any)  
+
+*    If the Common Shares are to be issued to a person other than the registered holder, then the signature of the Subscriber must be guaranteed by a bank or medallion guaranteed by a member of a recognized medallion guarantee program.
+**    This signature must correspond exactly with the name appearing on the registration panel.
+
+^^Check box if the share certificates are to be delivered at the office where this Warrant is exercised, failing which they will be mailed.
+
+^^^^^ 
+\centered **TRANSFER OF WARRANTS** 
+
+FOR VALUE RECEIVED, the undersigned hereby sells, assigns and transfers to: 
+
+\centered 
+
+Name 
+
+Address 
+
+_____ Warrants of **[[ISSUER]]** registered in the name of the undersigned on the records of **[[ISSUER]]** maintained by [[Organization 2 Name]] represented by the Warrant Certificate attached and irrevocably appoints _____ the attorney of the undersigned to transfer the said securities on the books or register with full power of substitution. 
+
+DATED this _____ day of _____, _____  
+
+\centered 
+
+Signature Guaranteed    (Signature of Warrant Holder) 
+
+Print full Name 
+
+Print full address and SIN/TIN (if any) 
+
+Instructions  
+^If the Transfer Form is signed by a trustee, executor, administrator, curator, guardian, attorney, officer of a corporation or any person acting in a fiduciary or representative capacity, the certificate must be accompanied by evidence of authority to sign satisfactory to the Warrant Agent and the Company.
+
+^The signature on the Transfer Form must be guaranteed by an authorized officer of a Schedule 1 chartered bank or medallion guaranteed by a member of a recognized medallion guarantee program.
+
+^Warrants will only be transferable in accordance with applicable securities laws and stock exchange regulations. The transfer of Warrants to a transferee may, depending on the residency of such transferee, result in the securities obtained upon the exercise of the Warrants not being freely tradeable in the jurisdiction where the transferee is resident.
+
+^**Unless the Company has otherwise instructed the Warrant Agent in writing, no transfer of Warrants will be valid unless this Transfer Form is accompanied by: (a) a duly executed declaration by the transferee of Warrants in the form attached as Exhibit “A” to this Transfer Form; and (b) such other evidence as the Warrant Agent may reasonably require that the transfer of such Warrants is being made in accordance with all applicable securities legislation.**
+
+^^^^^ 
+\centered **EXHIBIT “A”** 
+
+\centered **DECLARATION OF TRANSFEREE OF WARRANTS OF **[[ISSUER]]** 
+
+\centered 
+
+TO:    [[Organization 2 Name]], Warrant Agent of the Warrants of **[[ISSUER]]** 
+
+AND TO:    **[[ISSUER]]** (the “Company”)  
+
+The undersigned transferee (“Transferee”) of common share purchase warrants of **[[ISSUER]]** (“Warrants”) whose name appears as such on the form of transfer of such Warrants that accompanies this declaration, hereby declares and certifies, for himself and on behalf of each beneficial transferee of all or any part of such Warrants, that he and they are aware that the Warrants and the common shares (“Common Shares”) of the Company underlying the Warrants (together the “Subject Securities”) have not been and will not be registered under the United States Securities Act of 1933, as amended (the “U.S. Securities Act”) or the securities laws of any states of the United States, and that the transfer contemplated hereby is being made in reliance on an exemption from such registration requirements. 
+
+The Transferee represents and warrants that: 
+
+[check one only]  
+^^A.      (i) no offers to sell the Subject Securities were made by any person to the Transferee or any beneficial transferee for whom he is acting while such persons were in the United States;
+
+^^^the Transferee and each beneficial transferee for whom he is acting were outside the United States at the time of execution and delivery of the instrument by which the Transferee and each beneficial transferee for whom he is acting agreed to acquire the Subject Securities; and
+
+^^^the Transferee and each beneficial transferee for whom he is acting, is not, and is not acquiring the Subject Securities for the account or benefit of, a U.S. Person as defined in Rule 904 of Regulation S under the U.S. Securities Act.
+
+^^B.      The Transferee has acquired the Warrants in a transaction exempt from registration under the U.S. Securities Act and applicable state securities laws and has provided herewith evidence (which the Transferee acknowledges must be satisfactory to the Company) of such exemption. The Transferee acknowledges that there is a Warrant Indenture which contains restrictions with respect to the exercise and transfer of Warrants.
+
+^^^^^ 
+DATED at _____ this _____ day of _____, _____. 
+
+\centered 
+
+Name of Transferee 
+
+[[Name of Transferee Signatory Email: Identity | Signature]]
+__________________________________________
+{{Name of Transferee Entity => By: [[Name of Transferee Signatory First Name]] [[Name of Transferee Signatory Last Name]]
+Title: [[Name of Transferee Signatory Title]]}}
+
+Signature of Authorized Representative 
+
+Name of Person Signing 
+
+Title

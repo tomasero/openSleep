@@ -1,0 +1,1439 @@
+^^CONFORMED COPY
+\centered Dated 23 [[Date 1: Date]]
+\centered **[[Organization 1 Name]] (SOUTH WEST) PLC**   \centered and   \centered **[[Organization 2 Name]] (UK) LIMITED**   \centered **TRUST DEED**   \centered constituting   
+
+\centered £200,000,000 5.75 per cent. Notes due 2040
+\centered **Linklaters**
+
+\centered Ref: JALB/JNL/MJT
+
+\centered [[Organization 3 Name]]
+
+\centered **TABLE OF CONTENTS**
+
+**Interpretation**  
+
+**Amount of the Notes and Covenant to Pay**  
+
+**Form of the Notes**  
+
+**Stamp Duties and Taxes**  
+
+**Application of Moneys Received by the Trustee**  
+
+**Covenants**  
+
+**Remuneration and Indemnification of the Trustee**  
+
+**Provisions Supplemental to the Trustee Act 1925 and the Trustee Act 2000**  
+
+**Trustee Liable for Negligence**  
+
+**Waiver and Proof of Default**  
+
+**Trustee not Precluded from Entering into Contracts**  
+
+**Modification and Substitution**  
+
+**Appointment, Retirement and Removal of the Trustee**  
+
+**Couponholders**  
+
+**Currency Indemnity**  
+
+**Communications**  
+
+**Further Issues**  
+
+**Governing Law and Submission to Jurisdiction**  
+
+**Counterparts**  
+
+**This Trust Deed** is made on 23 [[Date 1]] **between**:
+
+[[Organization 1 Name]] (SOUTH WEST) PLC** (“**WPD South West**” or the “**Issuer**”) a company [[Party 1]] in England and Wales whose registered office is at [[Organization 4 Name]], Feeder Road, [[Address 1: Address]]; and
+
+^**[[Organization 2 Name]] (UK) LIMITED** (the “**Trustee**”, which expression, where the context so admits, includes any other trustee for the time being of this Trust Deed) a company [[Party 1]] in England and Wales whose registered office is at [[Address 2: Address]].
+
+**Whereas:**  
+^The Issuer has authorised the issue of £200,000,000 5.75 per cent. Notes due 2040 to be constituted by this Trust Deed.
+
+^The Trustee has agreed to act as trustee of this Trust Deed on the following terms and conditions.
+
+**This Deed witnesses and it is declared** as follows:
+
+**Interpretation**
+
+^^**Definitions:** Capitalised terms used, but not defined, herein shall bear the same respective meanings given to such terms in the Conditions and, in addition, the following expressions have the following meanings:
+
+“**Auditors**” means the auditors for the time being of the Issuer or, if they are unable or unwilling to carry out any action requested of them under this Trust Deed, such other firm of accountants as may be nominated or approved in writing by the Trustee for the purpose
+
+“**Authorised Signatory**” means any director of the Issuer or any other person who is for the time being authorised by the relevant Issuer to sign documents for the purposes of these presents and who has been notified in writing to the Trustee as being so authorised
+
+“**Clearing System**” means Clearstream, Luxembourg or Euroclear or both of them as applicable
+
+“**Clearstream, Luxembourg**” means [[Organization 5 Name]], société anonyme
+
+“**Common Safekeeper**” means the common safekeeper for Euroclear and Clearstream, Luxembourg appointed in respect of the Notes
+
+“**Common Service Provider**” means the common service provider for Euroclear and Clearstream, Luxembourg appointed in respect of the Notes
+
+“**Conditions**” means the terms and conditions set out in Schedule 1 as from time to time modified in accordance with this Trust Deed and, with respect to any Notes represented by the Global Note, as modified by the provisions of the Global Note. Any reference to a particularly numbered Condition shall be construed accordingly
+
+“**Couponholder**” means the bearer of a Coupon
+
+“**Coupons**” means the bearer coupons relating to the Notes or, as the context may require, a specific number of them and includes any replacement Coupons issued pursuant to the Conditions and, where the context so permits, the Talons
+
+“**EEA Regulated Market**” means a market as defined by Article 4.1(14) of Directive 2004/39/EC of the European Parliament and of the Council on markets in financial instruments
+
+“**Euroclear**” means [[Organization 6 Name]] S.A./N.V.
+
+“**Event of Default**” means an event described in Condition 9 which, if so required by that Condition, has been certified by the Trustee to be, in its opinion, materially prejudicial to the interests of the Noteholders
+
+“**Excluded Subsidiary**” has the meaning set out in Condition 9.2
+
+“**Extraordinary Resolution**” has the meaning set out in Schedule 3
+
+“**FSMA**” means the Financial Services and Markets Act 2000
+
+“**Global Note**” means the permanent global note which will represent the Notes, or some of them, after exchange of the Temporary Global Note, or a portion of it, substantially in the form set out in Part 2 of Schedule 2
+
+“**Group**” has the meaning set out in Condition 3.3
+
+“**Issuer/ICSD Agreement**” means the agreement between the Issuer and each of Euroclear and Clearstream, Luxembourg dated 19 [[Date 1]]
+
+“**Market**” means the EEA Regulated Market of the [[Address 4: Address]]
+
+“**Material Adverse Effect**” means a material adverse effect that a removal, qualification or amendment as provided in Condition 6.4(d)(vi)(C) has on the financial condition of the Issuer or any Distribution Subsidiary, provided that the Trustee shall have no duty to enquire or satisfy itself as to the existence of a Material Adverse Effect and shall be entitled to rely conclusively upon the certificate of two directors of the Issuer regarding the same as provided in such Condition, and the Trustee shall bear no liability of any nature whatsoever to the Issuer, the Noteholders or any other person as a result thereof
+
+“**Notes**” means bearer notes substantially in the form set out in Schedule 1 comprising the £200,000,000 5.75 per cent. Notes due 2040 constituted by this Trust Deed and for the time being outstanding or, as the context may require, a specific number of them and includes any replacement Notes issued pursuant to the Conditions and (except for the purposes of Clause 3.1) the Temporary Global Note and the Global Note
+
+“**Noteholder**” means the bearer of a Note  
+“**outstanding**” means, in relation to the Notes, all the Notes issued except (a) those which have been redeemed in accordance with the Conditions, (b) those in respect of which the date for redemption has occurred and the redemption moneys (including all interest accrued on such Notes to the date for such redemption and any interest payable under the Conditions after such date) have been duly paid to the Trustee or to the Principal Paying Agent as provided in Clause 2 and remain available for payment against presentation and surrender of Notes and/or Coupons, as the case may be, (c) those which have become void, (d) those which have been purchased and cancelled as provided in the Conditions, (e) those mutilated or defaced Notes which have been surrendered in exchange fo r replacement Notes, (f) (for the purpose only of determining how many Notes are outstanding and without prejudice to their status for any other purpose) those Notes alleged to have been lost, stolen or destroyed and in respect of which replacement Notes have been issued, and (g) the Temporary Global Note to the extent that it shall have been exchanged for the Global Note pursuant to its provisions and the Global Note to the extent that it shall have been exchanged for definitive Notes pursuant to its provisions provided that for the purposes of (1) ascertaining the right to attend and vote at any meeting of the Noteholders, (2) the determination of how many Notes are outstanding for the purposes of Conditions 9, 10 and 14 and Schedule 3, (3) the exercise of any discretion, power or authority which the Trustee is required, expressly or impliedly, to exercise in or by reference to the interests of the Noteholders and (4) the certification (where relevant) by the Trustee as to whether a Potential Event of Defa ult is in its opinion materially prejudicial to the interests of the Noteholders, those Notes which are beneficially held by or on behalf of the Issuer or any of its affiliates and not cancelled shall (unless no longer so held) be deemed not to remain outstanding and, save for the purposes of this proviso, in the case of the Temporary Global Note and the Global Note, the Trustee shall rely on the records of Euroclear and Clearstream, Luxembourg in relation to any determination of the nominal amount outstanding of the Temporary Global Note and the Global Note
+
+“**Paying Agency Agreement**” means the agreement referred to as such in the Conditions, as altered from time to time, and includes any other agreement approved in writing by the Trustee appointing Successor Paying Agents or altering any such agreement
+
+“**Paying Agents**” means the banks (including the Principal Paying Agent) referred to as such in the Conditions or any Successor Paying Agents in each case at their respective specified offices
+
+“**Potential Event of Default**” means an event or circumstance which could with the giving of notice, lapse of time, issue of a certificate and/or fulfilment of any other requirement provided for in Condition 9 become an Event of Default
+
+“**Principal Paying Agent**” means the bank named as such in the Conditions or any Successor Principal Paying Agent
+
+“**Principal Subsidiary**” has the meaning set out in Condition 9.2
+
+“**specified office**” means, in relation to a Paying Agent, the office identified with its name at the end of the Conditions or any other office approved by the Trustee and notified to Noteholders pursuant to Clause 6.11
+
+“**Subsidiary**” has the meaning set out in Condition 3.3
+
+“**Successor**” means, in relation to the Paying Agents, such other or further person as may from time to time be appointed by the Issuer as a Paying Agent with the written approval of, and on terms approved in writing by, the Trustee and notice of whose appointment is given to Noteholders pursuant to Clause 6.11
+
+“**Talon**” means a talon for further Coupons
+
+“**Temporary Global Note**” means the temporary global note which will represent the Notes on issue substantially in the form set out in Part 1 of Schedule 2
+
+“**this Trust Deed**” means this Trust Deed (as from time to time altered in accordance with this Trust Deed) and any other document executed in accordance with this Trust Deed (as from time to time so altered) and expressed to be supplemental to this Trust Deed
+
+“**trust corporation**” means a trust corporation (as defined in the Law of Property Act 1925) or a corporation entitled to act as a trustee pursuant to applicable foreign legislation relating to trustees
+
+^^**Construction of Certain References:** References to:
+
+**1.2.1**   the records of Euroclear and Clearstream, Luxembourg shall be to the records that each of Euroclear and Clearstream, Luxembourg holds for its customers which reflect the amount of such customers’ interests in the Notes;
+
+**1.2.2**   costs, charges, remuneration or expenses include any value added, turnover or similar tax charged in respect thereof;
+
+**1.2.3**   “**pounds**” “**sterling**” or “**pounds sterling**” or the signs “” or “**GBP**” shall be construed as references to the lawful currency for the time being of the United Kingdom;
+
+**1.2.4**   any provision of any statute shall be deemed also to refer to any statutory modification or re-enactment thereof or any statutory instrument, order or regulation made thereunder or under such re-enactment;
+
+**1.2.5**   Schedules, Clauses and paragraphs shall be construed as references to, respectively, the Schedules to and the Clauses and paragraphs of this Trust Deed;
+
+**1.2.6**   any action, remedy or method of judicial proceedings for the enforcement of rights of creditors shall be deemed to include, in respect of any jurisdiction other than England, references to such action, remedy or method of judicial proceedings for the enforcement of rights of creditors available or appropriate in such jurisdiction as shall most nearly approximate thereto;
+
+**1.2.7**   principal and/or premium and/or interest in respect of the Notes or to any moneys payable by the Issuer under this Trust Deed shall be deemed to include, in the case of principal and/or premium, a reference to any specific redemption price (as specified in the Conditions) and, in any case, a reference to any additional amounts which may be payable under the Conditions; and
+
+**1.2.8**   references in this Trust Deed to “reasonable” or “reasonably” and similar expressions relating to the Trustee and any exercise of power, opinion, determination or other similar matter shall be construed as meaning reasonable or reasonably (as the case may be) having regard to, and taking into account the interests of, the Noteholders only.
+
+^^**Headings:** Headings shall be ignored in construing this Trust Deed.
+
+^^**Contracts:** References in this Trust Deed to any document are to such document as amended, supplemented or replaced from time to time and include any document that amends, supplements or replaces them.
+
+^^**Schedules:** The Schedules are part of this Trust Deed and have effect accordingly.
+
+^^**Alternative Clearing System:** References in this Trust Deed to Euroclear and/or Clearstream, Luxembourg shall, wherever the context so permits, be deemed to include reference to any additional or alternative clearing system approved by the Issuer, the Trustee and the Principal Paying Agent and permitted to hold the Temporary Global Note and Global Note. To the extent reasonably practicable, such alternative clearing system shall be authorised to hold the Temporary Global Note and Global Note as eligible collateral for Eurosystem monetary policy and intra-day credit operations.
+
+^^**Contracts (Rights of Third Parties) Act 1999:** A person who is not a party to this Trust Deed has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Trust Deed except and to the extent that Clause 7.4 expressly provides for such Act to apply.
+
+**Amount of the Notes and Covenant to Pay**
+
+^^**Amount of the Notes:** The aggregate nominal amount of the Notes is limited to £200,000,000.
+
+^^**Covenant to pay:** The Issuer will on any date when any Notes become due to be redeemed unconditionally pay to or to the order of the Trustee in pounds sterling in same day funds the amount specified in the Conditions as being payable in respect of the Notes becoming due for redemption on that date and will (subject to the Conditions) until such payment (both before and after judgment) unconditionally so pay to or to the order of the Trustee interest on the outstanding nominal amount of the Notes outstanding as set out in the Conditions provided that (1) subject to the provisions of Clause 2.4, payment of any sum due in respect of the Notes made to the Principal Paying Agent as provided in the Paying Agency Agreement shall, to that extent, satisfy such obligation except to the extent that there is failure in its subsequent payment to the relevant Noteholders or Couponholders under the Conditions and (2) a payment made after the due date or pursuant to Condition 9 will be deemed to have been made when the full amount due has been received by the Principal Paying Agent or the Trustee and notice to that effect has been given to the Noteholders (if required under Clause 6.9), except to the extent that there is failure in its subsequent payment to the relevant Noteholders or Couponholders under the Conditions. The Trustee will hold the benefit of this covenant on trust for the Noteholders and Couponholders.
+
+^^**Discharge:** Subject to Clause 2.4, any payment to be made in respect of the Notes or the Coupons by the Issuer or the Trustee may be made as provided in the Conditions and any payment so made will (subject to Clause 2.4) to that extent be a good discharge to the Issuer or the Trustee, as the case may be.
+
+^^**Payment after a Default:** At any time after an Event of Default or a Potential Event of Default has occurred the Trustee may:
+
+**2.4.1**   by notice in writing to the Issuer and the Paying Agents, require the Paying Agents, until notified by the Trustee to the contrary, so far as permitted by applicable law:
+
+^^^to act as Paying Agents of the Trustee under this Trust Deed and the Notes on the terms of the Paying Agency Agreement (with consequential amendments as necessary and except that the Trustee’s liability for the indemnification, remuneration and expenses of the Paying Agents will be limited to the amounts for the time being held by the Trustee in respect of the Notes on the terms of this Trust Deed) and thereafter to hold all Notes and Coupons and all moneys, documents and records held by them in respect of Notes and Coupons to the order of the Trustee or
+
+^^^to deliver all Notes and Coupons and all moneys, documents and records held by them in respect of the Notes and Coupons to the Trustee or as the Trustee directs in such notice and
+
+**2.4.2**   by notice in writing to the Issuer and until such notice is withdrawn require it to make all subsequent payments in respect of the Notes and Coupons to or to the order of the Trustee and not to the Principal Paying Agent with effect from the issue of any such notice to the Issuer; and from then until such notice is withdrawn, proviso (1) to Clause 2.2 above shall cease to have effect.
+
+**Form of the Notes**
+
+^^**The Global Notes:** The Notes will initially be represented by the Temporary Global Note in the nominal amount of £200,000,000. Interests in the Temporary Global Note will be exchangeable for the Global Note as set out in the Temporary Global Note. The Global Note will be exchangeable for definitive Notes as set out in the Global Note.
+
+^^**The Definitive Notes:** The definitive Notes, the Coupons and Talon will be security printed in accordance with applicable legal and stock exchange requirements substantially in the forms set out in Schedule 1. The Notes will be endorsed with the Conditions.
+
+^^**Signature:** The Notes and the Coupons will be signed manually or in facsimile by an Authorised Signatory of the Issuer and the Notes will be authenticated by or on behalf of the Principal Paying Agent. In the case of the Temporary Global Note and Global Note the Principal Paying Agent shall also instruct the Common Safekeeper to effectuate the same. The Issuer may use the facsimile signature of a person who at the date of this Trust Deed is such an Authorised Signatory even if at the time of issue of any Notes or Coupons he no longer holds that office. Notes and Coupons so executed and authenticated will be binding and valid obligations of the Issuer.
+
+**Stamp Duties and Taxes**
+
+^^**Stamp Duties:** The Issuer will pay any stamp, issue, documentary or other taxes and duties, including interest and penalties, payable in Belgium, Luxembourg and the United Kingdom in respect of the creation, issue and offering of the Notes and the Coupons and the execution or delivery of this Trust Deed. The Issuer will also indemnify the Trustee, the Noteholders and the Couponholders from and against all stamp, issue, documentary or other taxes paid by any of them in any jurisdiction in connection with any action taken by or on behalf of the Trustee or, as the case may be, (and where permitted under these presents so to do) the Noteholders or the Couponholders to enforce the Issuer’s obligations under this Trust Deed, the Notes or the Coupons.
+
+^^**Change of Taxing Jurisdiction:** If the Issuer becomes subject generally to the taxing jurisdiction of a territory or a taxing authority of or in that territory with power to tax other than or in addition to the United Kingdom or any such authority of or in such territory then the Issuer will (unless the Trustee otherwise agrees) give the Trustee an undertaking satisfactory to the Trustee in terms corresponding to the terms of Condition 7 with the substitution for, or (as the case may require) the addition to, the references in that Condition to the United Kingdom of references to that other or additional territory or authority to whose taxing jurisdiction the Issuer has become so subject. In such event this Trust Deed, the Notes and the Coupons will be read accordingly.
+
+**Application of Moneys Received by the Trustee**
+
+^^**Declaration of Trust:** All moneys received by the Trustee in respect of the Notes or amounts payable under this Trust Deed will, despite any appropriation of all or part of them by the Issuer, be held by the Trustee on trust to apply them (subject to Clause 5.2):
+
+**5.1.1**   first, in payment of all costs, fees, charges, expenses and liabilities properly incurred by the Trustee (including remuneration payable to it) in carrying out its functions under this Trust Deed;
+
+**5.1.2**   secondly, in payment of any amounts owing in respect of the Notes or Coupons pari passu and rateably; and
+
+**5.1.3**   thirdly, in payment of any balance to the Issuer for itself.
+
+If the Trustee holds any moneys in respect of Notes or Coupons which have become void, the Trustee will hold them on these trusts.
+
+^^**Accumulation:** If the amount of the moneys at any time available for payment in respect of the Notes under Clause 5.1 is less than 10 per cent. of the nominal amount of the Notes then outstanding, the Trustee may, at its discretion, invest such moneys. The Trustee may retain such investments and accumulate the resulting income until the investments and the accumulations, together with any other funds for the time being under its control and available for such payment, amount to at least 10 per cent. of the nominal amount of the Notes then outstanding and then such investments, accumulations and funds (after deduction of, or provision for, any applicable taxes) will be applied as specified in Clause 5.1.
+
+^^**Investment:** Moneys held by the Trustee may be invested in its name or under its control in any investments or other assets anywhere whether or not they produce income or deposited in its name or under its control at such bank or other financial institution in such currency as the Trustee may, in its absolute discretion, think fit. If that bank or institution is the Trustee or a subsidiary, holding or associated company of the Trustee, it need only account for an amount of interest equal to the standard amount of interest payable by it on such a deposit to an independent customer. The Trustee may at any time vary or transpose any such investments or assets or convert any moneys so deposited into any other currency, and will not be responsible for any resulting loss, whether by depreciation in value, change in exchange rates or otherwise.
+
+^^**Regulated Activities**: Notwithstanding anything in this Trust Deed to the contrary, the Trustee shall not do, or be authorised or required to do, anything which might constitute a regulated activity for the purpose of the FSMA, unless it is authorised under the FSMA to do so. The Trustee shall have the discretion at any time (i) to delegate any of the functions which fall to be performed by an authorised person under the FSMA to any agent or person which has the necessary authorisations and licences and (ii) to apply for authorisation under the FSMA and perform any or all such functions itself if, in its absolute discretion, it considers it necessary, desirable or appropriate to do so.
+
+^^**Powers of Trustee**: The powers conferred upon the Trustee by this Trust Deed shall be in addition to any powers which may from time to time be vested in the Trustee by the general law or as a holder of any of the Notes or Coupons.
+
+**Covenants**
+
+So long as any Note is outstanding, the Issuer will:
+
+^^**Books of Account:** keep, and procure that each of its Subsidiaries (if any) keeps, proper books of account and, at any time after an Event of Default or Potential Event of Default has occurred or if the Trustee reasonably believes that such an event has occurred, so far as permitted by applicable law, allow, and procure that each such Subsidiary will allow, the Trustee and anyone appointed by it to whom the Issuer and/or the relevant Subsidiary has no reasonable objection, access to its books of account at all reasonable times during normal business hours
+
+^^**Notice of Events of Default:** notify the Trustee in writing immediately on becoming aware of the occurrence of any Event of Default or Potential Event of Default
+
+^^**Information:** so far as permitted by applicable law, give the Trustee such information, opinions and certificates as it reasonably requires to perform its functions
+
+^^**Financial Statements etc.:** send to the Trustee at the time of their issue and in the case of annual financial statements in any event within 180 days of the end of each financial year (as at the date of this Trust Deed being 31 March) one copy in English of every balance sheet, profit and loss account, report or other notice, statement or circular issued, or which legally or contractually should be issued, to the members or creditors (or any class of them) of the Issuer or any holding company thereof generally in their capacity as such
+
+^^**Certificate of Authorised Signatories:** send to the Trustee, within 14 days of its annual audited financial statements being made available to its members, and also within 14 days of any request by the Trustee a certificate of the Issuer signed by any two of its Authorised Signatories that, having made all reasonable enquiries, to the best of the knowledge, information and belief of the Issuer as at a date (the “**Certification Date**”) not more than five days before the date of the certificate no Event of Default, Potential Event of Default, Restructuring Event or Potential Restructuring Event (as defined in Clause 6.16.1 below) or other breach of this Trust Deed had occurred since the Certification Date of the last such certificate or (if none) the date of this Trust Deed or, if such an event had occurred, giving details of it
+
+^^**Certificate of two directors of the Issuer:** send to the Trustee, within 28 days of a request by the Trustee, a certificate signed by two directors of the Issuer as to the amount of the Capital and Reserves (as defined in Condition 3.3) of the Issuer as at the date specified in such request
+
+^^**Notices to Noteholders:** send to the Trustee not less than seven days prior to being sent to the Noteholders the form of each notice to be given to Noteholders and, once given, two copies of each such notice, such notice to be in a form approved by the Trustee (such approval, unless so expressed, not to constitute approval for the purposes of Section 21 of the FSMA of any such notice which is a communication within the meaning of Section 21 of the FSMA)
+
+^^**Further Acts:** so far as permitted by applicable law, do such further things as may be necessary in the opinion of the Trustee to give effect to this Trust Deed
+
+^^**Notice of late payment:** forthwith upon request by the Trustee give notice to the Noteholders of any unconditional payment to the Principal Paying Agent or the Trustee of any sum due in respect of the Notes or the Coupons made after the due date for such payment
+
+^^**Listing and Trading:** use all reasonable endeavours to maintain the listing of the Notes on the official list of the Financial Services Authority in its capacity as competent authority under the FSMA and the trading of such Notes on the Market but, if it is unable to do so, having used such endeavours, or if the maintenance of such listing or trading is agreed by the Trustee to be unduly onerous and the Trustee is satisfied that the interests of the Noteholders would not be thereby materially prejudiced, instead use all reasonable endeavours to obtain and maintain a listing of the Notes on another stock exchange and the admission to trading of the Notes on another market, in each case approved in writing by the Trustee
+
+^^**Change in Agents:** give at least 14 days’ prior notice to the Noteholders of any future appointment, resignation or removal of a Paying Agent or of any change by a Paying Agent of its specified office and not make any such appointment or removal without the Trustee’s written approval
+
+^^**Notes held by Issuer etc.:** send to the Trustee as soon as practicable after being so requested by the Trustee a certificate of the Issuer signed by any two of its Authorised Signatories stating the number of Notes held at the date of such certificate by or on behalf of the Issuer or its affiliates
+
+^^**Record of Notes and Coupons:** The Issuer shall procure (a) that the Principal Paying Agent shall keep a full and complete record of all Notes and Coupons (other than serial numbers of Coupons) and of their redemption, cancellation, payment or exchange (as the case may be) and of all replacement notes or coupons or talons issued in substitution for lost, stolen, mutilated, defaced or destroyed Notes or Coupons and (b) that such records shall be made available to the Trustee at all reasonable times. Further, the Issuer shall deliver a certificate to the Trustee addressing the same matters as those set out in the certificate to be provided by the Principal Paying Agent pursuant to Clause 8.4 of the Paying Agency Agreement and the Trustee shall be entitled to accept and rely upon such certificate of the Issuer and the certificate of the Principal Paying Agent de livered pursuant to Clause 8.4 of the Paying Agency Agreement as conclusive evidence of the redemption, prepayment, cancellation or discharge pro tanto of the Notes, of payment of interest thereon or, as the case may be, of the issue of replacement Notes or Coupons
+
+^^**Subsidiaries:** give to the Trustee at the same time as sending the certificate referred to in Clause 6.5 or within 14 days of a request by the Trustee, a certificate signed by two directors of the Issuer listing those Subsidiaries of the Issuer which as at the last day of the last financial year of the Issuer or as at the date specified in such request were Relevant Subsidiaries, Principal Subsidiaries and Excluded Subsidiaries and confirming that there are no Subsidiaries of the type referred to in Clauses 6.15.1 or 6.15.2 and give the Trustee, as soon as reasonably practicable after the acquisition or disposal of any company which thereby becomes or ceases to be a Principal Subsidiary or Relevant Subsidiary or after any transfer is made to any Subsidiary of the Issuer which thereby becomes a Principal Subsidiary or Relevant Subsidiary and, in accordance wi th Condition 9.2, at any time that an Excluded Subsidiary ceases to be an Excluded Subsidiary, a certificate by two Authorised Signatories of the Issuer addressed to the Trustee (in a form satisfactory to the Trustee) to such effect
+
+^^**Restriction on Principal Subsidiaries:** not permit to exist and will not create any Subsidiary (not being an Excluded Subsidiary or any other Subsidiary whose only indebtedness for borrowed money is Non-recourse Indebtedness):
+
+**6.15.1**   whose (a) profits on ordinary activities before tax or (b) gross assets, in each case attributable to the Issuer, represent 20 per cent. or more of the consolidated profits on ordinary activities before tax of the Group or, as the case may be, consolidated gross assets of the Group, in each case as calculated by reference to the then latest audited financial statements of such Subsidiary (consolidated in the case of a company which itself has Subsidiaries) and the then latest audited consolidated financial statements of the Group provided that in the case of a Subsidiary acquired after the end of the financial period to which the then latest audited consolidated financial statements of the Group relate, the reference to the then latest audited consolidated financial statements of the Group for the purposes of the calculation above shall, until consolidated financial statements for the financial period in which t he acquisition is made have been prepared and audited as aforesaid, be deemed to be a reference to such first-mentioned financial statements as if such Subsidiary had been shown in such financial statements by reference to its then latest relevant audited financial statements, adjusted as deemed appropriate by the Auditors; or
+
+**6.15.2**   to which is transferred all or substantially all of the business, undertaking and assets of a Subsidiary of the Issuer which immediately prior to such transfer is a Subsidiary, with such profits and/or gross assets as are described in 6.15.1 above,
+
+unless such Subsidiary carries on a “distribution business” as defined in Condition 1 of the Standard Conditions of the Utilities Act 2000 Determination of Standard Licence Conditions for Electricity Distribution Licences (as amended from time to time)
+
+^^forthwith give notice in writing to the Trustee of:
+
+**6.16.1**   the occurrence of any Restructuring Event or of any event (a “**Potential Restructuring Event**”) which, depending on any certification as provided in the definition of “**Restructuring Event**”, may be a Restructuring Event;
+
+**6.16.2**   (if at the time any Restructuring Event occurs there are Rated Securities (as defined in Condition 6.4(d)(v)) the occurrence of any Rating Downgrade in respect of that Restructuring Event within the Restructuring Period; and
+
+**6.16.3**   (if at the time any Restructuring Event occurs there are no Rated Securities) the obtaining of a rating in accordance with the definition of “**Negative Rating Event**” or the occurrence of a Negative Rating Event; and
+
+**6.16.4**   the occurrence of any Put Event
+
+^^**Legal Opinions**: procure the delivery of legal opinions addressed to the Trustee dated the date of such delivery, in form and content acceptable to the Trustee from such legal advisers acceptable to the Trustee as to the laws of England on the date of any amendment to this Trust Deed or prior to any redemption proposed by the Issuer pursuant to Condition 6.3
+
+^^**Notice of Rating Downgrade or Withdrawal**: without prejudice to Clause 6.16 above, notify the Trustee promptly upon becoming aware that any rating assigned to the Notes have been, or will be, downgraded or withdrawn and
+
+^^**Covenant of Compliance:** comply with and perform and observe all the provisions of the Trust Deed and the Notes which are expressed to be binding on it and procure that each of the Agents will comply with and perform and observe all of the provisions of the Agency Agreement and the Conditions which are expressed to be binding on it and shall take such steps as are reasonable to enforce all its or the Agents’ rights under the Trust Deed, the Agency Agreement and the Notes, as the case may be. The Conditions shall be binding on the Issuer and the Noteholders. The Trustee shall be entitled to enforce the obligations of the Issuer under the Notes as if the same were set out and contained in this Trust Deed, which shall be read and construed as one document with the Notes. The Trustee shall hold the benefit of this covenant upon trust for itself and the Not eholders and Couponholders according to its and their respective interests.
+
+**Remuneration and Indemnification of the Trustee**
+
+^^**Normal Remuneration:** So long as any Note is outstanding the Issuer will pay the Trustee as remuneration for its services as Trustee such sum on such dates in each case as they may from time to time agree. Such remuneration will accrue from day to day from the date of this Trust Deed. However, if any payment to a Noteholder or Couponholder of moneys due in respect of any Note or Coupon is improperly withheld or refused, such remuneration will again accrue as from the date of such withholding or refusal until payment to such Noteholder or Couponholder is duly made.
+
+^^**Extra Remuneration:** If an Event of Default or Potential Event of Default or a Restructuring Event shall have occurred, the Issuer hereby agrees that the Trustee shall be entitled to be paid additional remuneration calculated at its normal hourly rates in force from time to time. In any other case, if the Trustee finds it expedient or necessary or is requested by the Issuer to undertake duties which they both agree to be of an exceptional nature or otherwise outside the scope of the Trustee’s normal duties under this Trust Deed, the Issuer will pay such additional remuneration as they may agree (and which may be calculated by reference to the Trustee’s normal hourly rates in force from time to time) or, failing agreement as to any of the matters in this sub-Clause (or as to such sums referred to in Clause 7.1), as determined by a financial instit ution or person (acting as an expert) selected by the Trustee and approved by the Issuer or, failing such approval, nominated by the President for the time being of The Law Society of England and Wales. The expenses involved in such nomination and such financial institution’s or person’s fee will be borne by the Issuer. The determination of such financial institution or person will be conclusive and binding on the Issuer, the Trustee, the Noteholders and the Couponholders save in the case of a manifest error.
+
+^^**Expenses:** The Issuer will also on demand by the Trustee pay or discharge all costs, charges, liabilities and expenses properly incurred by the Trustee in the preparation and execution of this Trust Deed and the performance of its functions under this Trust Deed including, but not limited to, legal and travelling expenses and any stamp, documentary or other taxes or duties paid by the Trustee in connection with any legal proceedings reasonably brought or contemplated by the Trustee against the Issuer to enforce any provision of this Trust Deed, the Notes or the Coupons. Such costs, charges, liabilities and expenses will:
+
+**7.3.1**   in the case of payments made by the Trustee before such demand carry interest from the date of the demand at the rate of 2 per cent. per annum over the base rate of [[Organization 7 Name]] on the date on which the Trustee made such payments and
+
+**7.3.2**   in other cases carry interest at such rate from 30 days after the date of the demand or (where the demand specifies that payment is to be made on an earlier date) from such earlier date.
+
+^^**Indemnity:** The Issuer will on demand by the Trustee indemnify it in respect of Amounts or Claims paid or incurred by it in acting as trustee under this Trust Deed (including (1) any Agent/Delegate Liabilities and (2) in respect of disputing or defending any Amounts or Claims made against the Trustee or any Agent/Delegate Liabilities). The Issuer will on demand by such agent or delegate indemnify it against such Agent/Delegate Liabilities. “**Amounts or Claims**” are losses, liabilities, costs, fees, claims, actions, demands or expenses (together in each case, with any applicable value added or other taxes in respect thereof) and “**Agent/Delegate Liabilities**” are Amounts or Claims which the Trustee is or would be obliged to pay or reimburse to any of its agents or delegates appointed pursuant to this Trust Deed. The Contracts (Rights of Third Parties) Act 1999 applies to this Clause 7.4.
+
+^^Notwithstanding any provision of this Trust Deed to the contrary, the Trustee shall not in any event be liable for special, indirect, punitive or consequential loss or damage of any kind whatsoever (including but not limited to lost profits, goodwill, reputation, business opportunity or anticipated saving), whether or not foreseeable, even if the Trustee has been advised of the likelihood of such loss or damage and regardless of whether the claim for loss or damage is made in negligence, for breach of contract, breach of trust or otherwise.
+
+^^**Continuing Effect:** Clauses 7.3, 7.4 and 7.5 will continue in full force and effect as regards the Trustee even if it no longer is Trustee.
+
+^^**No set-off etc**: The Issuer hereby further undertakes to the Trustee that all moneys payable by the Issuer to the Trustee shall be made without any set-off, counterclaim, deduction or withholding unless compelled by law in which event the Issuer will pay such additional amounts as will result in the receipt by the Trustee of the amounts which would otherwise have been payable by the Issuer to the Trustee in the absence of any such set off, counterclaim, deduction or withholding.
+
+**Provisions Supplemental to the Trustee Act 1925 and the Trustee Act 2000**
+
+^of the Trustee Act 2000 shall not apply to this Trust Deed. Where there are any inconsistencies between the Trustee Act 1925 and the Trustee Act 2000 and the provisions of this Trust Deed, the provisions of this Trust Deed shall, to the extent allowed by law, prevail and, in the case of any inconsistency with the Trustee Act 2000, the provisions of this Trust Deed shall constitute a restriction or exclusion for the purposes of that Act. By way of supplement to the Trustee Act 1925 and the Trustee Act 2000, it is expressly declared as follows:
+
+^^**Advice:** The Trustee may act on the opinion or advice of, or information obtained from, any expert and will not be responsible to anyone for any loss occasioned by so acting whether such advice is obtained or addressed to the Issuer, the Trustee or any other person. Any such opinion, advice or information may be sent or obtained by letter, by email, telex or fax and the Trustee will not be liable to anyone for acting in good faith on any opinion, advice or information purporting to be conveyed by such means even if it contains some error or is not authentic and notwithstanding any limitation on liability contained therein, monetary or otherwise.
+
+^^**Trustee to Assume Performance:** The Trustee need not notify anyone of the execution of this Trust Deed nor shall it be bound to take any steps to ascertain whether any Event of Default, Potential Event of Default, Restructuring Event, Potential Restructuring Event, Put Event, Rating Downgrade or Negative Rating Event has happened and, until it shall have actual knowledge or express notice to the contrary, the Trustee shall be entitled to assume (without liability to any person) that no Event of Default, Potential Event of Default, Restructuring Event, Potential Restructuring Event, Put Event, Rating Downgrade or Negative Rating Event has happened and may assume and need not monitor or verify that the Issuer is observing and performing all its obligations under this Trust Deed, the Notes and the Coupons.
+
+^^**Resolutions of Noteholders:** The Trustee will not be responsible for having acted in good faith on a resolution purporting to have been passed at a meeting of Noteholders in respect of which minutes have been made and signed or any written resolution even if it is later found that there was a defect in the constitution of the meeting or the passing of the resolution or in the case of a written resolution or direction or request, it was not signed by the requisite number of Noteholders or that for any reason that the resolution, direction or request was not valid or binding on the Noteholders or Couponholders.
+
+^^**Certificate signed by Authorised Signatories:** If the Trustee, in the exercise of its functions, requires to be satisfied or to have information as to any fact or the expediency of any act, it may call for and accept as sufficient evidence of that fact or the expediency of that act a certificate signed by any two Authorised Signatories of the Issuer as to that fact or to the effect that, in their opinion, that act is expedient and the Trustee need not call for further evidence and will not be responsible for any loss occasioned by acting on such a certificate. The Trustee shall be entitled to rely on any certificate of two Authorised Signatories of the Issuer where the Issuer procures the delivery of the same pursuant to its obligations to do so under the Conditions or this Trust Deed and such certificate shall be binding on the Issuer, the Trustee and the N oteholders.
+
+^^**Report of the Auditors:** The Trustee shall be entitled to rely on any certificate or report of the Auditors whether or not such report is addressed to the Trustee and notwithstanding that such report and/or any engagement letter or other document entered into by the Trustee contains a monetary or other limit on the liability of the Auditors. Such report shall, in the absence of manifest error, be conclusive and binding on all parties, and the Trustee shall not be responsible for any loss occasioned by acting on any such report.
+
+^^**Deposit of Documents:** The Trustee may appoint as custodian, on any terms, any bank or entity whose business includes the safe custody of documents or any lawyer or firm of lawyers believed by it to be of good repute and may deposit this Trust Deed and any other documents with such custodian and pay all sums due in respect thereof. The Trustee is not obliged to appoint a custodian of securities payable to bearer.
+
+^^**Discretion:** The Trustee will have absolute and uncontrolled discretion as to the exercise of its powers, trusts and discretions and will not be responsible for any loss, liability, cost, claim, action, demand, expense or inconvenience which may result from their exercise or non-exercise.
+
+^^**Agents:** Whenever it considers it expedient in the interests of the Noteholders, the Trustee may, in the conduct of its trust business, instead of acting personally, employ and pay an agent selected by it, whether or not a lawyer or other professional person, to transact or conduct, or concur in transacting or conducting, any business and to do or concur in doing all acts required to be done by the Trustee (including the receipt and payment of money).
+
+^^**Delegation:** Whenever it considers it expedient in the interests of the Noteholders, the Trustee may delegate to any person on any terms (including power to sub-delegate) all or any of its functions.
+
+^^**Nominees:** In relation to any asset held by it under this Trust Deed, the Trustee may appoint any person to act as its nominee on any terms.
+
+^^**Forged Notes:** The Trustee will not be liable to the Issuer or any Noteholder or Couponholder by reason of having accepted as valid or not having rejected any Note or Coupon purporting to be such and later found to be forged or not authentic.
+
+^^**Confidentiality:** Unless ordered to do so by a court of competent jurisdiction the Trustee shall not be required to disclose to any Noteholder or Couponholder any confidential financial or other information made available to the Trustee by the Issuer and no Noteholder or Couponholder shall be entitled to take any action to obtain such information from the Trustee.
+
+^^**Determinations Conclusive:** As between itself and the Noteholders and Couponholders the Trustee may in its absolute discretion determine all questions and doubts arising in relation to any of the provisions of this Trust Deed including (without limitation) determination of whether or not a default in performance by the Issuer of any obligation under the Notes or Trust Deed is materially prejudicial to the interests of Noteholders and Couponholders. Such determinations, whether made upon such a question actually raised or implied in the acts or proceedings of the Trustee, will be conclusive and shall bind the Trustee, the Noteholders and the Couponholders.
+
+^^**Currency Conversion:** Where it is necessary or desirable to convert any sum from one currency to another, it will (unless otherwise provided hereby or required by law) be converted at such rate or rates, in accordance with such method and as at such date as may reasonably be specified by the Trustee but having regard to current rates of exchange, if available. Any rate, method and date so specified will be binding on the Issuer, the Noteholders and the Couponholders.
+
+^^**Events of Default etc.:** The Trustee may determine whether or not an Event of Default or Potential Event of Default is in its opinion capable of remedy and/or materially prejudicial to the interests of the Noteholders. Any such determination will be conclusive and binding on the Issuer, the Noteholders and the Couponholders.
+
+^^**Payment for and Delivery of Notes:** The Trustee will not be responsible for the receipt or application by the Issuer of the proceeds of the issue of the Notes, any exchange of Notes or the delivery of Notes to the persons entitled to them.
+
+^^**Notes held by the Issuer etc.:** In the absence of knowledge or express notice to the contrary, the Trustee may assume without enquiry (other than requesting a certificate under Clause 6.12) that no Notes are for the time being held by or on behalf of the Issuer or its affiliates.
+
+^^**Responsibility for agents etc.:** If the Trustee exercises reasonable care in selecting any custodian, agent, delegate or nominee appointed under this clause (an “**Appointee**”), it will not have any obligation to supervise the Appointee or be responsible for any loss, liability, cost, claim, action, demand or expense incurred by reason of the Appointee’s misconduct or default or the misconduct or default of any substitute appointed by the Appointee.
+
+^^**Responsibility for Rating:** The Trustee shall (a) have no responsibility for the maintenance of any rating of the Notes by any Rating Agency and (b) shall not be liable to Noteholders if any exercise by it of its trusts, powers and discretions results in a change to the rating assigned by any Rating Agency to any class of Notes.
+
+^^**No Liability for error of judgement:** The Trustee shall not be liable for any error of judgement made in good faith by any officer and/or employee of the Trustee in the administration of its corporate matters.
+
+^^**Clearing Systems:** The Trustee may call for any certificate or other document to be issued by Euroclear, Clearstream, Luxembourg or any other clearing system through which the Notes are cleared as to the principal amount of Notes represented by a Global Note standing to the account of any person and may have regard to any information provided to it by Euroclear, Clearstream, Luxembourg or such other clearing system as to the identity (either individually or by category) of any of their accountholders with entitlements to such Global Note, and the Trustee may consider such interests as if such accountholders were the holders of any such Global Note. Any such certificate, document or information may be accepted and fully relied upon by the Trustee. The Trustee shall not be liable to any person by reason of having accepted as valid or accurate or not having rej ected any certificate, document or information to such effect purporting to be issued by Euroclear, Clearstream, Luxembourg or such other clearing system and subsequently found to be forged, not authentic or inaccurate.
+
+^^**Legal Opinions:** The Trustee shall not be responsible to any person for failing to request, require or receive any legal opinion relating to the Notes or for checking or commenting upon the content of any such legal opinion and shall not be responsible for any loss, damage, cost, charge, claim, demand, expense, judgment, action, proceeding or other liability whatsoever incurred thereby.
+
+^^**No Action:**
+
+**8.23.1**   The Trustee shall not be bound to take any action in connection with this Trust Deed or any obligations arising pursuant thereto, including, without prejudice to the generality of the foregoing, forming any opinion or employing any financial adviser, where it is not satisfied that the Issuer will be able to indemnify and/or secure and/or prefund it against all loss, damage, cost, charge, claim, demand, expense, judgment, action, proceeding or other liability whatsoever incurred thereby which may be incurred in connection with such action and may demand prior to taking any such action that there be paid to it in advance such sums as it reasonably considers (without prejudice to any further demand) shall be sufficient so to indemnify it and on such demand being made the Issuer shall be obliged to make payment of all such sums in full.
+
+**8.23.2**   No provision of this Trust Deed shall require the Trustee to do anything which may (i) be illegal or contrary to applicable law or regulation; or (ii) cause it to expend or risk its own funds or otherwise incur any loss, damage, cost, charge, claim, demand, expense, judgment, action, proceeding or other liability whatsoever incurred thereby in the performance of any of its duties or in the exercise of any of its rights, powers or discretions, if it shall have reasonable grounds for believing that repayment of such funds or adequate indemnity against such risk or loss, damage, cost, charge, claim, demand, expense, judgment, action, proceeding or other liability whatsoever is not assured to it.
+
+^^**Professional and other charges**: Any trustee of the trust presents being a lawyer, accountant, broker or other person engaged in any profession or business shall be entitled to charge and be paid all usual and proper professional and other charges for business transacted and acts done by him or his firm in connection with the trusts of this Trust Deed or the Paying Agency Agreement and also his properly incurred charges in addition to disbursements for all other work and business done and all time spent by him or his firm in connection with matters arising in connection with this Trust Deed including matters which might or should have been attended to in person by a trustee not being a banker, accountant or other professional person.
+
+^^**Holder Absolute Owner**: The Issuer, any Paying Agent and the Trustee may (to the fullest extent permitted by applicable laws) deem and treat the bearer of any Note or Coupon as the absolute owner for all purposes (whether or not the Note or Coupon shall be overdue and notwithstanding any notice of ownership or writing on the Note or Coupon or any notice of previous loss or theft of the Note or Coupon or of any trust or interest therein) and shall not be required to obtain any proof thereof or as to the identity of such bearer.
+
+^^**Enforcement**: The Trustee may at any time, at its discretion and without notice, take such proceedings against the Issuer as it may think fit to enforce the provisions of the Trust Deed, the Notes and the Coupons, but it shall not be bound to take any such proceedings or any other action in relation to the Trust Deed, the Notes or the Coupons unless it has been so directed by an Extraordinary Resolution of the Noteholders or so requested in writing by the holders of at least one-quarter in outstanding nominal amount of the Notes then outstanding. Nor shall the Trustee be bound to take or omit to take any step or action (including such proceedings) unless it has been indemnified and/or secured and/or prefunded to its satisfaction in respect of all costs, claims, expenses and liabilities to or for which it may, in its opinion, thereby become liable. No Notehol der or Couponholder shall be entitled to proceed directly against the Issuer unless the Trustee, having become bound so to proceed, fails so to do within a reasonable period and the failure shall be continuing.
+
+^^**Responsibility for loss**: The Trustee shall not be liable or responsible for any losses, damages, costs or fees, charges, claims, demands or expenses or inconvenience which may result from anything done or omitted to be done by it in accordance with the provisions this Trust Deed.
+
+^^**Not responsible for statements**: The Trustee shall not be responsible for, or for investigating any matter which is the subject of, any recital, statement, representation, warranty or covenant of any person contained in this Trust Deed, or any other agreement or document relating to the transactions contemplated in this Trust Deed or under such other agreement or document.
+
+^^**Consents and approvals by Trustee**: Any consent or approval given by the Trustee for the purposes of this Trust Deed may be given on such terms and subject to such conditions (if any) as the Trustee thinks fit and notwithstanding anything to the contrary in this Trust Deed may be given retrospectively. The Trustee may give any consent or approval, exercise any power, authority or discretion or take any similar action (whether or not such consent, approval, power, authority, discretion or action is specifically referred to in these presents) if it is satisfied that the interests of the Noteholders will not be materially prejudiced thereby. For the avoidance of doubt, the Trustee shall not have any duty to the Noteholders in relation to such matters other than that which is contained in the preceding sentence.
+
+^^**Exercise by Trustee of discretions etc.**: In connection with the exercise by it of any of its trusts, powers, authorities and discretions under these presents (including, without limitation, any modification, waiver, authorisation, determination or substitution), the Trustee shall have regard to the general interests of the Noteholders as a class and shall not have regard to any interests arising from circumstances particular to individual Noteholders or Couponholders (whatever their number) and, in particular but without limitation, shall not have regard to the consequences of any such exercise for individual Noteholders or Couponholders (whatever their number) resulting from their being for any purpose domiciled or resident in, or otherwise connected with, or subject to the jurisdiction of, any particular territory or any political sub division thereof and the Trustee shall not be entitled to require, nor shall any Noteholder or Couponholder be entitled to claim, from the Issuer, the Trustee or any other person any indemnification or payment in respect of any tax consequence of any such exercise upon individual Noteholders or Couponholders except to the extent already provided for in Condition 7 and/or any undertaking given in addition thereto or in substitution therefor under this Trust Deed.
+
+^^**Trustee not responsible for execution etc.**: The Trustee shall not be responsible for the execution, delivery, legality, effectiveness, adequacy, genuineness, validity, performance, enforceability or admissibility in evidence of this Trust Deed or any other document relating or expressed to be supplemental thereto and shall not be liable for any failure to obtain any licence, consent or other authority for the execution, delivery, legality, effectiveness, adequacy, genuineness, validity, performance, enforceability or admissibility in evidence of this Trust Deed or any other document relating or expressed to be supplemental thereto.
+
+^^**Reliance on Rating Agency Confirmation**: For the purposes of determining whether or not the exercise by the Trustee of any of its trusts, powers, authorities, duties and discretions under this Trust Deed (including, without limitation, any modification, waiver, authorisation, determination or substitution), is materially prejudicial to the interest of the Noteholders the Trustee shall be entitled to rely on (but is not bound by) written confirmation received from any Rating Agency received in respect thereof.
+
+**Trustee Liable for Negligence**
+
+^of the Trustee Act 2000 shall not apply to any function of the Trustee, provided that if the Trustee fails to show the degree of care and diligence required of it as trustee, nothing in this Trust Deed shall relieve or indemnify it from or against any liability which would otherwise attach to it in respect of any breach of trust of which it may be guilty.
+
+**Waiver and Proof of Default**
+
+^^**Waiver:** The Trustee may, without the consent of the Noteholders or Couponholders and without prejudice to its rights in respect of any subsequent breach, from time to time and at any time, if in its opinion the interests of the Noteholders will not be materially prejudiced thereby, waive or authorise, on such terms as seem expedient to it, any breach or proposed breach by the Issuer of this Trust Deed or the Conditions or determine that an Event of Default, Potential Event of Default, Restructuring Event or Potential Restructuring Event will not be treated as such provided that the Trustee will not do so in contravention of an express direction given by an Extraordinary Resolution or a request made pursuant to Condition 9. No such direction or request will affect a previous waiver, authorisation or determination. Any such waiver, authorisation or determinat ion will be binding on the Noteholders and the Couponholders and, if the Trustee so requires, will be notified to the Noteholders as soon as practicable.
+
+^^**Proof of Default:** Proof that the Issuer has failed to pay a sum due to the holder of any one Note or Coupon will (unless the contrary be proved) be sufficient evidence that it has made the same default as regards all other Notes or Coupons which are then payable.
+
+**Trustee not Precluded from Entering into Contracts**
+
+The Trustee and any other person, whether or not acting for itself, may acquire, hold or dispose of any Note, Coupon or other security (or any interest therein) of the Issuer, any of its Subsidiaries or any other person, may enter into or be interested in any contract or transaction with any such person and may act on, or as trustee, depositary or agent for, any committee or body of holders of any securities issued or guaranteed by or relating to any such person in each case with the same rights as it would have had if the Trustee were not acting as Trustee and need not account for any profit or for any amount or benefit received thereby or in connection therewith.
+
+**Modification and Substitution**
+
+^^**Modification:** The Trustee may agree without the consent of the Noteholders or Couponholders to any modification to this Trust Deed which is, in its opinion, of a formal, minor or technical nature or to correct a manifest error. The Trustee may also agree to any modification to this Trust Deed which is in its opinion not materially prejudicial to the interests of the Noteholders, but such power does not extend to any such modification as is mentioned in the proviso to paragraph 2 of Schedule 3.
+
+^^**Substitution:**
+
+**12.2.1**   The Trustee may, without the consent of the Noteholders or Couponholders, agree to the substitution of the Issuer’s successor in business or any Subsidiary of the Issuer (other than an Excluded Subsidiary) (the “**Substituted Obligor**”) in place of the Issuer (or of any previous substitute under this sub-Clause) as the principal debtor under this Trust Deed, the Notes and the Coupons provided that:
+
+^^^a deed is executed or undertaking given by the Substituted Obligor to the Trustee, in form and manner satisfactory to the Trustee, agreeing to be bound by this Trust Deed, the Notes and the Coupons (with consequential amendments as the Trustee may deem appropriate) as if the Substituted Obligor had been named in this Trust Deed, the Notes and the Coupons as the principal debtor in place of the Issuer
+
+^^^if the Substituted Obligor is subject generally to the taxing jurisdiction of a territory or any authority of or in that territory with power to tax (the “**Substituted Territory**”) other than the territory to the taxing jurisdiction of which (or to any such authority of or in which) the Issuer is subject generally (the “**Issuer’s Territory**”), the Substituted Obligor will (unless the Trustee otherwise agrees) give to the Trustee an undertaking satisfactory to the Trustee in terms corresponding to Condition 7 with the substitution for the references in that Condition to the Issuer’s Territory of references to the Substituted Territory whereupon the Trust Deed, the Notes and the Coupons will be read accordingly
+
+^^^if any two Authorised Signatories of the Substituted Obligor certify that it will be solvent immediately after such substitution, the Trustee need not have regard to the Substituted Obligor’s financial condition, profits or prospects or compare them with those of the Issuer
+
+^^^the Trustee is satisfied that the interests of the Noteholders will not be materially prejudiced by the substitution
+
+^^^the Issuer and the Substituted Obligor comply with such other requirements as the Trustee may direct in the interests of the Noteholders and
+
+^^^(unless the Issuer’s successor in business is the Substituted Obligor as the principal debtor under this Trust Deed, the Notes and the Coupons) the obligations of the Substituted Obligor as the principal debtor under this Trust Deed, the Notes and the Coupons are guaranteed by the Issuer (with consequential amendments as necessary) to the Trustee’s satisfaction.
+
+**12.2.2**   **Release of Substituted Issuer:** An agreement by the Trustee pursuant to this Clause 12.2 will, if so expressed, release the Issuer (or a previous substitute) from any or all of its obligations under this Trust Deed, the Notes and the Coupons. Notice of the substitution will be given to the Noteholders within 14 days of the execution of such documents and compliance with such requirements.
+
+**12.2.3**   **Completion of Substitution:** On completion of the formalities set out in this Clause 12.2, the Substituted Obligor will be deemed to be named in this Trust Deed, the Notes and the Coupons as the principal debtor in place of the Issuer (or of any previous substitute) and this Trust Deed, the Notes and the Coupons will be deemed to be amended as necessary to give effect to the substitution.
+
+**Appointment, Retirement and Removal of the Trustee**
+
+^^**Appointment:** Subject as provided in Clause 13.2 below, the Issuer has the power of appointing new trustees but no-one may be so appointed unless previously approved by an Extraordinary Resolution. A trust corporation will at all times be a Trustee and may be the sole Trustee. Any appointment of a new Trustee will be notified by the Issuer to the Noteholders as soon as practicable.
+
+^^**Retirement and Removal:** Any Trustee may retire at any time on giving at least three months’ written notice to the Issuer without giving any reason or being responsible for any costs occasioned by such retirement and the Noteholders may by Extraordinary Resolution remove any Trustee provided that the retirement or removal of a sole trust corporation will not be effective until a trust corporation is appointed as successor Trustee. If a sole trust corporation gives notice of retirement or an Extraordinary Resolution is passed for its removal, the Issuer will use all reasonable endeavours to procure that another trust corporation be appointed as Trustee and if it does not procure the appointment of a new trustee within 30 days of the expiry of the Trustee’s notice referred to in this Clause, the Trustee shall be entitled to procure forthwith a new trustee.
+
+^^**Co-Trustees:** The Trustee may, despite Clause 13.1, by written notice to the Issuer appoint anyone to act as an additional Trustee jointly with the Trustee:
+
+**13.3.1**   if the Trustee considers the appointment to be in the interests of the Noteholders and/or the Couponholders
+
+**13.3.2**   to conform with a legal requirement, restriction or condition in a jurisdiction in which a particular act is to be performed or
+
+**13.3.3**   to obtain a judgment or to enforce a judgment or any provision of this Trust Deed in any jurisdiction.
+
+Subject to the provisions of this Trust Deed the Trustee may confer on any person so appointed such functions as it thinks fit. The Trustee may by written notice to the Issuer and that person remove that person. At the Trustee’s request, the Issuer will forthwith do all things as may be required to perfect such appointment or removal and it irrevocably appoints the Trustee as its attorney in its name and on its behalf to do so.
+
+^^**Competence of a Majority of Trustees:** If there are more than two Trustees the majority of them will be competent to perform the Trustee’s functions provided the majority includes a trust corporation.
+
+^^**Merger:** Any corporation into which the Trustee may be merged or converted or with which it may be consolidated, or any corporation resulting from any merger, conversion or consolidation to which the Trustee shall be a party, or any corporation succeeding to all or substantially all the corporate trust business of the Trustee, shall be the successor of the Trustee hereunder, provided such corporation shall be otherwise qualified and eligible under this Clause, without the execution or filing of any paper or any further act on the part of the parties hereto.
+
+**Couponholders**
+
+No notices need be given to Couponholders. They will be deemed to have notice of the contents of any notice given to Noteholders. Even if it has express notice to the contrary, in exercising any of its functions by reference to the interests of the Noteholders, the Trustee will assume that the holder of each Note is the holder of all Coupons relating to it.
+
+**Currency Indemnity**
+
+^^**Currency of Account and Payment:** Pounds sterling (the “**Contractual Currency**”) is the sole currency of account and payment for all sums payable by the Issuer under or in connection with this Trust Deed, the Notes and the Coupons, including damages.
+
+^^**Extent of discharge:** An amount received or recovered in a currency other than the Contractual Currency (whether as a result of, or of the enforcement of, a judgment or order of a court of any jurisdiction, in the insolvency, winding-up or dissolution of the Issuer or otherwise), by the Trustee or any Noteholder or Couponholder in respect of any sum expressed to be due to it from the Issuer will only discharge the Issuer to the extent of the Contractual Currency amount which the recipient is able to purchase with the amount so received or recovered in that other currency on the date of that receipt or recovery (or, if it is not practicable to make that purchase on that date, on the first date on which it is practicable to do so).
+
+^^**Indemnity:** If that Contractual Currency amount is less than the Contractual Currency amount expressed to be due to the recipient under this Trust Deed, the Notes or the Coupons, the Issuer will indemnify it against any loss sustained by it as a result. In any event, the Issuer will indemnify the recipient against the cost of making any such purchase.
+
+^^**Indemnity separate:** The indemnities in this Clause 15 and in Clause 7.4 constitute separate and independent obligations from the other obligations in this Trust Deed, will give rise to a separate and independent cause of action, will apply irrespective of any indulgence granted by the Trustee and/or any Noteholder or Couponholder and will continue in full force and effect despite any judgment, order, claim or proof for a liquidated amount in respect of any sum due under this Trust Deed, the Notes and/or the Coupons or any other judgment or order.
+
+**Communications**
+
+Any communication shall be by letter or fax:
+
+in the case of the Issuer, to it at:  
+
+\centered [[Organization 4 Name]] Feeder Road [[Address 1: Address]] 
+Telephone no.: Fax no.: Attention:   +44(0) [[Phone 1]] +44(0) [[Phone 2]] Treasury Operations Manager 
+and in the case of the Trustee, to it at: 
+^Canada Square [[Address 3: Address]] 
+Fax no.: Attention:   +44 20 7991 4350 CTLA Trustee Services Administration  
+
+Communications will take effect, in the case of delivery, when delivered or, in the case of fax, when despatched. Communications not by letter shall be confirmed by letter but failure to send or receive that letter shall not invalidate the original communication.
+
+**Further Issues**
+
+[[Organization 8 Name]] Deed:** If the Issuer issues further securities as provided in the Conditions, the Issuer shall, before their issue, execute and deliver to the Trustee a deed supplemental to this Trust Deed containing such provisions (corresponding to any of the provisions of this Trust Deed) as the Trustee may require.
+
+^^**Meetings of Noteholders:** If the Trustee so directs, Schedule 3 shall apply equally to Noteholders and to holders of any securities issued pursuant to the Conditions as if references in it to “Notes” and “Noteholders” were also to such securities and their holders respectively.
+
+**Governing Law and Submission to Jurisdiction**
+
+^^**Governing Law**: This Trust Deed, and any non-contractual obligations arising out of or in connection with it, shall be governed by and construed in accordance with English law.
+
+^^**Jurisdiction**: The courts of England are to have jurisdiction to settle any disputes which may arise out of or in connection with this Agreement and accordingly any legal action or proceedings arising out of or in connection with this Agreement (“**Proceedings**”) may be brought in such courts.
+
+**Counterparts**
+
+This Trust Deed may be executed and delivered in any number of counterparts each of which will be deemed an original.
+
+\centered **Schedule 1**
+
+\centered **Form of Definitive Note**
+
+On the front:  
+Denomination   ISIN   Series   Certif. No.
+
+£50,000   XS0496975110
+
+\centered **[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+\centered **([[Party 1]] with limited liability in England and Wales)**
+
+\centered **£200,000,000**
+
+\centered 5.75 per cent. Notes due 2040
+
+This Note forms part of a series designated as specified in the title (the “**Notes**”) of [[Organization 1 Name]] (South West) plc (the “**Issuer**”) constituted by the Trust Deed referred to on the reverse hereof. The Notes are subject to, and have the benefit of, that Trust Deed and the terms and conditions (the “**Conditions**”) set out on the reverse hereof.
+
+This is to certify that the bearer of this Note is entitled on 23 [[Date 2: Date]], or on such earlier date as the Note may be redeemed or repaid to such sum as is determined in accordance with the Conditions to be payable on such redemption or repayment together with interest on the outstanding nominal amount of such Note from and including 23 [[Date 1]] at the rate of 5.75 per cent. per annum payable annually in arrear on 23 March in each year, subject to and in accordance with the Conditions.
+
+This Note shall not be valid or become obligatory for any purpose until authenticated by or on behalf of the Principal Paying Agent.
+
+In witness whereof the Issuer has caused this Note to be signed in facsimile on its behalf.
+
+Dated as of 23 [[Date 1]]  
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+[[[[Organization 1 Name]] PLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] PLC Entity => By: [[[[Organization 1 Name]] PLC Signatory First Name]] [[[[Organization 1 Name]] PLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] PLC Signatory Title]]}}
+
+[Director]   
+This Note is authenticated by or on behalf of the Principal Paying Agent.
+
+[[This Note is authenticated by or on behalf of the Principal Paying Agent. Signatory Email: Identity | Signature]]
+__________________________________________
+{{This Note is authenticated by or on behalf of the Principal Paying Agent. Entity => By: [[This Note is authenticated by or on behalf of the Principal Paying Agent. Signatory First Name]] [[This Note is authenticated by or on behalf of the Principal Paying Agent. Signatory Last Name]]
+Title: [[This Note is authenticated by or on behalf of the Principal Paying Agent. Signatory Title]]}}
+
+Authorised Signatory  
+ANY UNITED STATES PERSON WHO HOLDS THIS OBLIGATION WILL BE SUBJECT TO LIMITATIONS UNDER THE UNITED STATES INCOME TAX LAWS, INCLUDING THE LIMITATIONS PROVIDED IN SECTIONS 165(j) AND 1287(a) OF THE INTERNAL REVENUE CODE.
+
+On the back:  
+
+\centered **Terms and Conditions of the Notes**
+
+The £200,000,000 5.75 per cent. Notes due 2040 (the “Notes”, which expression shall in these Conditions, unless the context otherwise requires, include any further notes issued pursuant to Condition 16 and forming a single series with the Notes) of [[Organization 1 Name]] (South West) plc (the “Issuer”) are constituted by a Trust Deed (the “Trust Deed”) dated 23 [[Date 1]] (the “Issue Date”) made between the Issuer and [[Organization 2 Name]] (UK) Limited (the “Trustee”, which expression shall include it’s successor(s)) as trustee for the holders of the Notes (the “Noteholders”) and the holders of the interest coupons appertaining to the Notes (the “Couponholders” and the “Coupons” respectively, which expressi ons shall, unless the context otherwise requires, include the talons for further interest coupons (the “Talons”) and the holders of the Talons).
+
+The statements in these Conditions include summaries of, and are subject to, the detailed provisions of and definitions in the Trust Deed. Copies of the Trust Deed and the Agency Agreement dated 23 [[Date 1]] (the “Agency Agreement”) made between the Issue, the initial Paying Agents and the Trustee are available for inspection during normal business hours by the Noteholders and the Couponholders at the principal office for the time being of the Trustee, being at the date of issue of the Notes at 8 Canada Square, [[Address 3: Address]] and at the specified office of each of the Paying Agents. The Noteholders and the Couponholders are entitled to the benefit of, are bound by, and are deemed to have noticed of, all the provisions of the Trust Deed and the Agency Agreement applicable to them.
+
+^Form, Denomination and Title  
+^^**Form and Denomination**
+
+The Notes are in bearer form, serially numbered, in the denomination of £50,000 with Coupons and one Talon attached on issue.
+
+^^**Title**
+
+Title to the Notes and to the Coupons will pass by delivery.
+
+^^**Holder Absolute Owner**
+
+The Issuer, and Paying Agent and the Trustee may (to the fullest extent permitted by applicable laws) deem and treat the bearer of any Note or Coupon as the absolute owner for all purposes (whether or not the Note of Coupon shall be overdue and notwithstanding any notice of ownership or writing on the Note or Coupon or any notice of previous loss or theft to the Note or Coupon or of any trust or interest therein) and shall not be required to obtain any proof thereof or as to the identity of such bearer.
+
+^Status  
+The Notes and the Coupons are direct, unconditional, unsubordinated and (subject to the provisions of Condition 3) unsecured obligations of the Issuer and (subject as provided above) rand pari passu, among themselves and (save for certain obligations required to be preferred by law) equally with all other outstanding unsecured obligations (other than subordinated obligations, if any) or the Issuer from time to time outstanding.
+
+^Negative Pledge  
+So long as any Note remain outstanding (as defined in the Trust Deed) the Issuer will, and will procure that each of its Distribution Subsidiaries (as defined below) will, ensure that no Relevant Indebtedness (as defined below) of the Issuer or any Distribution Subsidiary or of any other person and no guarantee by the Issuer or any Distribution Subsidiary of any Relevant Indebtedness of any person will be secured by a mortgage, charge, lien, pledge or other security interest (each a “Security Interest”) upon, or with respect to, any of the present or future business, undertaking, assets or revenues (including any uncalled capital) or the Issuer of any Distribution Subsidiary unless the Issuer; before or at the same time as the creation of the Security Interest, take any and all action necessary to ensure that:
+
+^^all amounts payable by the Issuer under the Notes, the Coupons and the Trust Deed are secured equally and rateable with the Relevant Indebtedness or guarantee, as the case may be, by the same Security Interest, in each case to the satisfaction of the Trustee; or
+
+^^such other Security Interest of guarantee or other arrangement (whether or not including the giving of a Security Interest) is provided in respect of all amounts payable by the Issuer under the Notes, the Coupons and the Trust Deed either (i) as the Trustee shall in its absolute discretion deem not materially less beneficial to the interests of the Noteholders or (ii) as shall be approved by an Extraordinary Resolution (as defined in the Trust Deed) of the Noteholders,
+
+save that the above restriction shall not apply to any Security Interest (1) provided by or in respect of a company becoming a Distribution Subsidiary after the issue date of the Notes and where such Security Interest existed at the time that company becomes a Distribution Subsidiary (provided that such Security Interest was not created in contemplation of that company becoming a Distribution Subsidiary is not subsequently increased) of (2) created or outstanding in respect of any Non-recourse Indebtedness (as defined in Condition 9) or any leasing or hire purchase agreement of the Issuer or any Distribution Subsidiary provided that the aggregate outstanding principal amount secured by all such Security Interests created or outstanding under this exception (2) shall not at any time exceed the greater of £75,000,000 or 10 per cent of the Regulatory Asset Base (as defined below) at such time (or the equivalen t thereof in any other currency or currencies).
+
+^^**Restriction on distribution of dividends**
+
+So long as any Note or Coupon remains outstanding, the Issuer shall not at any time declare or make a distribution (as defined in Section 209 of the Income and Corporation Taxes Act 1988) or grant a loan or any other credit facility to any of its shareholders unless (1) immediately following the occurrence of any such event, the Net Debt (as defined below) at such time would not exceed 85 per cent of the Regulatory Asset Base relating to the year in which the relevant distribution or grant was first declared or made; and (2) written certification thereof, signed by two directors of the Issuer, has been provided to the Trustee without further enquiry or evidence and, if relied upon by the Trustee, shall, in the absence of manifest error, be conclusive and binding on all parties whether of not addressed to each such party.
+
+^^**Definitions**
+
+For the purposes of these Conditions:  
+**Capital and Reserves**   means the aggregate of:
+
+^^the amount paid up or credited as paid up on the share capital of the Issuer; and
+
+^^the total of the capital, revaluation and revenue reserves of the Group (as defined below), including any share premium account, capital redemption reserve and credit balance on the profit and loss account, but excluding sums set aside for taxation and amounts attributable to outside shareholders in Subsidiary Undertakings (as defined below) and deducting any debit balance on the profit and loss account,
+
+all as shown in the then latest audited consolidated balance sheet and profit and loss account of the Group prepared in accordance with the historical cost convention (as modified by the revaluation of certain fixed assets) for the purposes of the Companies Act 2006, but adjusted as may be necessary in respect of any variation in the paid up share capital or share premium account of the Issuer since the date of that balance sheet and further adjusted as may be necessary to reflect any change since the date of that balance sheet in the Subsidiary Undertakings comprising in Group and/or as the Auditors (as defined in the Trust Deed) may consider appropriate.
+
+^certificate of two directors of the Issuer as to the amount of the Capital and Reserves at any given time may be relied upon by the Trustee without further enquiry or evidence and, if relied upon by the Trustee, shall, in the absence of manifest error, be conclusive and binding on all parties whether or not addressed to each such party;
+
+**Consolidated**   means, in relation to the financial statements and accounts of the Issuer and/or the Group, those statements and accounts as consolidated under International Financial Reporting Standards, provided that if such consolidated accounts are not prepared, it shall mean the non-consolidated financial statements and accounts of the Issuer prepared in accordance with generally accepted accounting principles in the United Kingdom;
+
+**Distribution License**   means an electricity distribution license granted under section 6(1)(c) of the Electricity Act 1989, as amended from time to time;
+
+**Distribution Subsidiary**   means any Subsidiary of the Issuer which holds a Distribution Licence from time to time;
+
+**Group**   means the Issuer and, if and to the extent it has any, its Subsidiary Undertakings and “member of the Group” shall be construed accordingly;
+
+**Net Debt**   at any time, means the aggregate amount of all indebtedness for borrowed money (as defined in Condition 9) of the Issuer at such time less the aggregate of:
+
+^^amounts credited to current accounts or deposits and certificates of deposit (with a term not exceeding three months) at, or issued by, any bank, building society or other financial institution;
+
+^^cash in hand; and
+
+^^the lower of book and market value (calculated, where relevant, by reference to their bid price) of gilts issued by the United Kingdom Government,
+
+in each case beneficially owned by the Issuer and in each case so that no amount shall be included or excluded more than once;
+
+**Regulatory Asset Base**   in respect of any year, means the regulatory asset base of the Issuer most recently published in respect of such year by the Office of the Gas and Electricity Markets (“OFGEM”) or any successor of OFGEM;
+
+**Relevant Indebtedness**   means:
+
+^^any present or future indebtedness (whether being principal, premium, interest or other amounts) in the form of or represented by bonds, notes, debentures, debenture stock, loan stock or other securities, whether issued for cash or in whole or in part for a consideration other than cash, and which with the agreement of the person issuing the same, are or are capable of being quoted, listed or ordinarily dealt in on any stock exchange or recognised over-the-counter or other securities market; or
+
+^^monies borrowed or raised from, or any acceptance credit opened by, a bank, building society or other financial institution; or
+
+^^any leasing or hire purchase agreement which would be treated as a finance lease in the accounts of the relevant person;
+
+**Subsidiary**   means a subsidiary within the meaning of section 1159 of the Companies Act 2006;
+
+**Subsidiary Undertaking**   shall have the meaning given to it by section 1162 of the Companies Act 2006 (but, in relation to the Issuer, shall exclude any undertaking (as defined in section 1161 of the Companies Act 2006) whose accounts are not included in the then latest published audited consolidated accounts or the Issuer, or (in the case of an under taking which has first become a subsidiary undertaking or a member of the Group since the date as at which any such audited accounts were prepared) would not have been so included or consolidated if it had become so on or before that date); and
+
+Any reference to an obligation being “guaranteed” shall include a reference to an indemnity being given in respect of that obligation.
+
+^Interest  
+^^**Interest Rate and Interest Payment Dates**
+
+The Notes bear interest on their outstanding principal amount from and including 23 [[Date 1]] at the rate of 5.75 per cent per annum, payable annually in arrear on 23 March in each year (each an “Interest Payment Date”) until 23 [[Date 2]].
+
+^^**Interest Accrual**
+
+Each Note will cease to bear interest from and including its due date for redemption unless upon due presentation, payment of the principal in respect of the Note is improperly withheld or refused or unless default is otherwise made in respect of payment, in which event interest shall continue to accrue as provided in the Trust Deed.
+
+^^When interest is required to be calculated in respect of a period of less than a full year, it shall be calculated on the basis (a) the actual number of days in the period from and including the date from which interest begins to accrue (the “Accrual Date”) to but excluding the date on which it falls due divided by (b) the actual number of days from and including the Accrual Date to but excluding the next following Interest Payment Date.
+
+^Payments and Exchanges of Talons  
+^^**Payments in respect of Notes**
+
+Payments of principal and interest in respect of each Note will be made against presentation and surrender (or, in the case of part payment only, endorsement) of the Note, except that payments of interest due on an Interest Payment Date will be made against presentation and surrender (or, in case of part payment only, endorsement) of the relevant Coupon, in each case at the specified office outside the United States of any of the Paying Agents.
+
+^^**Method of Payment**
+
+Payments will be made by credit or transfer to a pounds sterling account maintained by the payee with or, at the option of the payee, by a pounds sterling cheque drawn on, a bank in [[Address 5: Address]]
+
+^^**Missing Unmatured Coupons**
+
+Each Note should be presented for payment together with all relative unmatured Coupons (which expression shall, for the avoidance of doubt, include Coupons falling to be issued on exchange of matured Talons). Upon the date on which any Note becomes due and repayable, all unmatured Coupons appertaining to the Note (whether or not attached) shall become void and no payment shall be made in respect of such Coupons.
+
+^^**Payments subject to Applicable Laws**
+
+Payments in respect of principal and interest on the Notes are subject in all cases to any fiscal or other laws and regulations applicable in the place of payment, but without prejudice to the provisions of Condition 7.
+
+^^**Payment only on a Presentation Date**
+
+^holder shall be entitled to present a Note or Coupon for payment only on a Presentation Date and shall not, except as provided in Condition 4, be entitled to any further interest or other payment if a Presentation Date is after the due date.
+
+“Presentation Date” means a day which (subject to Condition 8):
+
+^^is or falls after the relevant due date;
+
+^^is a Business Day in the place of a specified office of the Paying Agent at which the Note or Coupon is presented for payment; and
+
+^^in the case of payment by credit or transfer to a pounds sterling account in [[Address 6: Address]] to above), is a Business Day in [[Address 5: Address]]
+
+In this Condition, “Business Day” means, in relation to any place, a day on which commercial banks and foreign exchange markets settle payments and are open for general business (including dealing in foreign exchange and foreign currency deposits) in that place.
+
+^^**Exchange of Talons**
+
+On and after the Interest Payment Date on which the final Coupon comprised in any Coupon sheet matures, the Talon comprised in the Coupon sheet may be surrendered at the specified office of any Paying Agent in exchange for a further Coupon sheet (including any appropriate further Talon), subject to the provisions of Condition 8. Each Talon shall, for the purpose of these Conditions, be deemed to mature on the Interest Payment Date on which the final Coupon comprised in the relative Coupon sheet matures.
+
+^^**Initial Paying Agents**
+
+The names of the initial Paying Agents and their initial specified offices are set out at the end of these Conditions. The Issuer reserves the right, subject to the prior written approval of the Trustee, at any time to vary or terminate the appointment of any Paying Agent and to appoint additional or other Paying Agents provided that:
+
+^^there will at all times be a Principal Paying Agent; and
+
+^^there will at all times be at least one Paying Agent (which may be the Principal Paying Agent) having its specified office in a Member State of the European Union that is not obliged to withhold or deduct tax pursuant to European Council Directive 2003/48/EC or any law implementing or complying with, or introduced in order to conform to, such Directive.
+
+**Redemption and Purchase**
+
+^^**Redemption at Maturity**
+
+Unless previously redeemed or purchased and cancelled as provided below, the Issuer will redeem the Notes at their principal amount on 23 [[Date 2]].
+
+^^**Redemption at the option of the Issuer**
+
+The Issuer may at its option, having given not less than 30 nor more than 90 days notice to the Noteholders in accordance with Condition 12 (which shall be irrevocable), redeem all, but not some only, of the Notes at any time at the price which shall be the higher of the following:
+
+^^the principal amount thereof; and
+
+^^that price (the “Redemption Price”), expressed as a percentage rounded to three decimal places (0.0005 being rounded down), at which the Gross Redemption Yield (as defined below) on the Notes, if they were to be purchased at such price on the third dealing day prior to the publication of the notice of redemption, would be equal to the Gross Redemption Yield on such dealing day of the Reference Stock prevailing at or about 3:00 p.m. ([[Address 7: Address]]) on such dealing day, as determined by the Calculation Agent,
+
+together, in each case, with interest (if any) accrued to (but excluding) the date of redemption.
+
+Any reference in these Conditions to principal shall be deemed to include any sum payable as the Redemption Price save in respect of such references in Conditions 6.3 and 6.4.
+
+In this Condition:  
+“Calculation Agent” shall mean an independent financial institution of international repute, appointed by the Issue with the prior written approval of the Trustee in order to perform the function of calculating the Gross Redemption Yield and the other determinations and calculations in this Condition;
+
+“Reference Stock” mean 4.75 per cent Treasury Stock due [[Date 3: Date]] or such other United Kingdom Government Stock as the Calculation Agent, with the advice of three leading brokers obtained by the Issuer operating in the gilt edged market and/or gilt edged market makers, shall determine to be appropriate; and
+
+the “Gross Redemption Yield” on the Notes and the Reference Stock will be expressed as a percentage and will be calculated by the Calculation Agent on the basis set out by the United Kingdom Debt Management Office in the paper “Formulae for Calculating Gilt Prices from Yields” page 4, Section One: Price/Yield Formulae “Conventional Gilts”; “Double-dated and Undated Gilts with Assumed (or Actual) Redemption on a Quasi-Coupon Date” (published on 8 [[Date 4: Date]] and updated on 15 [[Date 5: Date]] and as further updated or amended from time to time) on a semi-annual compounding basis (converted on an annualised yield and rounded up (if necessary) to four decimal places).
+
+At any time when under these Conditions it is necessary to have, or the Calculation Agent or the Trustee requests, the advice of brokers and/or market makers operating in the gilt edged market, the Issuer shall select and appoint them with the prior written approval of the Trustee and at the expense of the Issuer.
+
+At any time when under these Conditions it is necessary to have a Calculation Agent to perform any functions under these Conditions, the Issuer will appoint such Calculations Agent at the Issuer’s expense on or before any such time.
+
+Notices of redemption will specify the date fixed for redemption and the applicable Redemption Price. Upon the expiry of any notice of redemption, the Issuer shall be bound to redeem the Notes at the applicable Redemption Price.
+
+^^**Redemption for Taxation Reasons**
+
+If the Issuer satisfies the Trustee immediately before the giving of the notice referred to below that:
+
+^^as a result of any change in, or amendment to, the laws or regulations of a Relevant Jurisdiction (as defined in Condition 7), or any change in the application or official interpretation of the laws or regulations of a Relevant Jurisdiction, which change or amendment becomes effective after 19 [[Date 1]], on the next Interest Payment Date the Issuer would be required to pay additional amounts as provided or referred to in Condition 7; and
+
+^^the requirement cannot be avoided by the Issuer taking reasonable measures available to it,
+
+the Issuer may at its option, having given not less than 30 nor more than 60 days’ notice to the Noteholders in accordance with Condition 12 (which notice shall be irrevocable), redeem all the Notes, but not some only, at any time at their principal amount together with interest (if any) accrued to (but excluding) the date of redemption, provided that no such notice of redemption shall be given earlier than 90 days prior to the earliest date on which the Issuer would be required to pay such additional amounts were a payment in respect of the Notes then due. Prior to the publication of any notice of redemption pursuant to this Condition 6.3, the Issuer shall deliver to the Trustee a certificate signed by two directors of the Issuer shall deliver to the Trustee a certificate signed by two directors of the Issuer stating that the requirement referred to in (a) above will apply on the next Interest Payment Date and cannot be avoided by the Issuer taking reasonable measures available to it, and the Trustee shall be entitled to accept such certificate as sufficient evidence of the satisfaction of the conditions precedent set out above, in which event it shall be conclusive and binding on the Noteholders and the Couponholders.
+
+^^**Redemption at the option of Noteholders on a Restructuring Event**
+
+^^(i)   If, at any time while any of the Notes remains outstanding, a Restructuring Event (as defined below) occurs and prior to the commencement of or during the Restructuring Period (as defined below):
+
+^an independent financial adviser (as described below) shall have certified in writing to the Trustee that such Restructuring Event will not be or is not, in its opinion, materially prejudicial to the interests of the Noteholders; or
+
+^if there are Rated Securities (as defined below), each Rating Agency (as defined below) that at such time has assigned a current rating to the Rated Securities confirms in writing to the Trustee that it will not be withdrawing or reducing the then current rating assigned to the Rate Securities by it from an investment grade rating (BBB-/Baa3, or t heir respective equivalents for the time being, or better) to a non-investment grade rating (BB+/Bal, or their respective equivalents for the time being, or worse) or, if the Rating Agency shall have already rated the Rated Securities below investment grade (as described above), the rating will not be lowered by one full rating category or more, in each case as a result, in whole or in part, of any event or circumstance comprised in or arising as a result of the applicable Restructuring Event,
+
+the following provisions of this Condition 6.4 shall cease to have any further effect in relation to such Restructuring Event.
+
+^^^If, at any time while any of the Notes remains outstanding, a Restructuring Event occurs and (subject to Condition 6.4(a)(i)):
+
+^within the Restructuring Period, either:
+
+^^if at the time such Restructuring Event occurs there are Rated Securities, a Rating Downgrade (as defined below) in respect of such Restructuring Event also occurs; or
+
+^^if at such time there are no Rated Securities, a Negative Rating Event (as defined below) in respect to such Restructuring Event also occurs; and
+
+^an independent financial adviser shall have certified in writing to the Trustee that such Restructuring Event is, in its opinion, materially prejudicial to the interests of the Noteholders (a “Negative Certification”),
+
+then, unless at any time the Issuer shall have given notice under Condition 6.2 or 6.3, the holder of each Note will, upon the giving by the Issuer (or, as the case may be, the Trustee) of a Put Event Notice (as defined below), have the option (the “Restructuring Put Option”) to require the Issuer to redeem or, at the option of the Issuer, purchase (or procure the purchase of) that Note on the Put Date (as defined below), at its principal amount together with (or, where purchase, together with an amount equal to) interest (if any) accrued to (but excluding) the Put Date.
+
+^Restructuring Event shall be deemed not to be materially prejudicial to the interests of the Noteholders if, notwithstanding the occurrence of a Rating Downgrade or a Negative Rating Event, the rating assigned to the Rated Securities by any Rating Agency is subsequently increased to, or as the case maybe, there is assigned to the Notes or other unsecured and unsubordinated debt of the Issuer (or of any Subsidiary of the Issuer and which is guaranteed on an unsecured and unsubordinated basis by the Issuer) having an initial maturity of five years or more by any Rating Agency, an investment grade rating (BBB-/Baa3) or their respective equivalents for the time being) or better prior to any Negative Certification being issued.
+
+Any certification by an independent financial adviser as aforesaid as to whether or not, in its opinion, any Restructuring Event is materially prejudicial to the interests of the Noteholders shall, in the absence of manifest error, be conclusive and binding on the Trustee, the Issuer and the Noteholders. The Issuer may, at any time, with the prior written approval of the Trustee appoint an independent financial adviser for the purposes of this Condition 6.4. If, within 14 [[Address 8: Address]] following the occurrence of a Restructuring Event, the Issuer shall not have appointed an independent financial adviser for the purposes of Condition 6.4(a)(ii)(B) and (if so required by the Trustee) the Trustee is indemnified and/or secured and/or prefunded to its satisfaction against the costs of such adviser, the Trustee may appoint an independent financial adviser for such purpose.
+
+^^Promptly upon the Issuer becoming aware of the occurrence of a Put Event (as defined below), and in any event not later than 14 days after the occurrence of a Put Event, the Issuer shall and if so requested by the holders of at least one-quarter in nominal amount of the Notes then outstanding and subject to it being indemnified and/or secured and/or prefunded to its satisfaction, the Trustee shall give notice (a “Put Event Notice”) to the Noteholders in accordance with Condition 12 specifying the nature of the Put Event and the procedure for exercising the Restructuring Put Option.
+
+^^To exercise the Restructure Put Option, the holder of a Note must deliver at the specified office of any Paying Agent on any Business Day (as defined in Condition 5.5) at the place of such specified office falling within the Put Period, a duly signed and completed notice of exercise in the form (for the time being current and which may, if this Note is held in a clearing system, be any form acceptable to the clearing system delivered in a manner acceptable to the clearing system) obtainable from any specified office of any Paying Agent (a “Put Notice”) and in which the holder must specify a bank account (or, if payment is to be made by cheque, an address) to which payment is to be made under this Condition 6.4(c) accompanied by such Notes or evidence satisfactory to the Paying Agent concerned that such Notes will, following the Put Notice, be held to its order under its control. A Put Notice given by a holder of any Note shall be irrevocable except where, prior to the Put Date (as defined below), an Event of Default has occurred and is continuing, in which event such holder, at its option, may elect by notice to the Issuer to withdraw the Put Notice. For the purposes of this Condition, the “Put Period” shall mean the period of 45 days after that on which a Put Event Notice is given. Subject to the relevant Noteholder having complied with this Condition, the Issuer shall redeem or, at the option of the Issuer, purchase (or procure the purchase of) the relevant Note on the fifteenth day after the date of expiry of the Put Period (the “Put Date”) unless previously redeemed or purchased.
+
+^^For the purposes of these Conditions:
+
+^^^A “Negative Rating Event” shall be deemed to have occurred if (A) the Issuer does not, either prior to or not later than 14 days after the date of a Negative Certification in respect of the relevant Restructuring Event, seek, and thereupon use all reasonable endeavours to obtain, a rating of the Notes or any other unsecured and unsubordinated debt of the Issuer (or of any Subsidiary of the Issuer and which is guaranteed on an unsecured and unsubordinated basis by the Issuer) having an initial maturity of five years or more from a Rating Agency or (B) if it does so seek and use such endeavours, it is unable, as a result of such Restructuring Event, to obtain such a rating of at least investment grade (BBB-/Baa3), or their respective equivalents for the time being).
+
+^^^A “Put Event” occurs on the date of the last to occur of (A) a Restructuring Event, (B) either a Rating Downgrade or, as the case may be, a Negative Rating Event and (C) the relevant Negative Certification.
+
+^^^“Rating Agency” means Standard & Poor’s Rating Services, a division of [[Organization 9 Name]] or any of its subsidiaries and their successors, Moody’s Investors Services Limited or any of its subsidiaries and their successors, Fitch Ratings Limited or any of its subsidiaries and their successors or any rating agency substituted for any of them (or any permitted substitute of them) by the Issuer from time to time with the prior written approval of the Trustee.
+
+^^^A “Rating Downgrade” shall be deemed to have occurred in respect of a Restructuring Event if the then current rating assigned to the Rated Securities by and Rating Agency (whether provided by a Rating Agency at the invitation of the Issuer of by is own volition) is withdrawn or reduced from an investment grade rating (BBB-/Baa3) or their respective equivalents for the time being, or better) to a non-investment grade rating (BB+/Bal) or their respective equivalents for the time being, or worse) or, if the Rating Agency shall then have already rated the Rated Securities below investment grade (as described above), the rating is lowered one full rating category.
+
+^^^“Restructuring Event” means the occurrence of any one or more of the following events:
+
+^(x) the Secretary of State for Trade and Industry (or any successor) giving any Distribution Subsidiary and/or the Issuer written notice of any revocation of its Distribution Licence or (y) any Distribution Subsidiary and/or the Issuer agreeing in writing with the Secretary of State for Trade and Industry (or any successor) to any revocation or surrender of its Distribution Licence or (z) any legislation (whether primary of subordinate) being enacted terminating or revoking the Distribution Licence of any Distribution Subsidiary and/or the Issuer, except in any such case in circumstances where a licence or licences on substantially no less favourable terms is or are granted to (1) the Issuer of a wholly-owned Subsidiary of the Issuer (the “Relevant Subsidiary”), and in the case of such Relevant Subsidiary at the time of such grant it either executes in favour of the Trustee an unconditional and irrev ocable guarantee in respect of the Notes in such a form as the Trustee may approve or becomes the primary obligor under the Notes in accordance with Condition 14; or
+
+^any modification (other than a modification which is of a formal, minor or technical nature) being made to the terms and conditions of any Distribution Subsidiary’s or the Issuer’s Distribution Licence unless two directors or the Distribution Subsidiary or, as the case may be, of the Issuer, have certified to the Trustee that the modified terms and conditions are not materially less favourable to the business of the Distribution Subsidiary or, as the case may be, of the Issuer; or
+
+^any legislation (whether primary or subordinate) is enacted which removes, qualifies or amends (other than an amendment which is of a formal, minor or technical nature) the functions and duties of the Secretary of State for Trade and Industry (or any successor) and/or the Gas and Electricity Markets Authority (or any successor) under section 3A of the Electricity Act 1989, as amended by the United Act 2000 (as this may be amended from time to time ), unless two directors of the Issuer have certified to the Trustee that such removal, qualification or amendment does not have a Material Adverse Effect (as defined in the Trust Deed) on the financial condition of the Issuer of any Distribution Subsidiary.
+
+^^^“Restructuring Period” means:
+
+^if at the time a Restructuring Event occurs there are Rated Securities, the period of 90 days starting from and including the day on which that Restructuring Event occurs; of
+
+^if at the time a Restructuring Event occurs there are no Rated Securities, the period starting from and including the day on which that Restructuring Event occurs and ending on the day 90 days following the later of (x) the date (if any ) on which the Issuer shall seek to obtain a rating as contemplated by the definition of Negative Rating Event; (y) the expiry of the 14 days referred to in the definition of Negative Rating Event; and (z) the date on which a Negative Certification shall have been given to the Issuer in respect of that Restructuring Event.
+
+^^^A Rating Downgrade or a Negative Rating Event or a non-investment grade rating for the purpose of Condition 6.4(a)(i)(B) shall be deemed not to have occurred as a result or in respect of a Restructuring Event if the Rating Agency making the relevant reduction in rating or, where applicable, declining to assign a rating of at least investment grade as provided in this Condition 6.4 does not announce or publicly confirm or inform the Trustee in writing at its request that the reduction or, where applicable, declining to assign a rating of a least investment grade was the result, in whole or in part, or any event or circumstances comprised in or arising as a result of the applicable Restructuring Event.
+
+The Trustee is under no obligation, responsibility or liability to ascertain whether a Restructuring Event, a Put Event, a Rating Downgrade or a Negative Rating Event or any event which could lead to the occurrence of or could constitute a Restructuring Event, a Put Event, a Rating Downgrade or a Negative Rating Event has occurred and, until it shall have express notice pursuant to the Trust Deed to the contrary, the Trustee may assume that no Restructuring Event, Negative Rating Event, Put Event or Rating Downgrade or other such event had occurred. In determining whether of not a Restructuring Event has occurred, the Trustee shall be entitled to rely solely and without liability on an opinion given in a certificate signed by two directors of the Issuer.
+
+^^**Purchases**
+
+The Issuer or any affiliate of the Issuer may at any time purchase Notes (provided that all unmatured Coupons appertaining to the Notes are purchased with the Notes) at any price in the open market or otherwise. Such Notes may be held, reissued, resold or, at the option of the Issuer, surrendered to any Paying Agent for cancellation.
+
+^^**Cancellations**
+
+All Notes which are redeemed will forthwith be cancelled (together with all unmatured Coupons attached thereto or surrendered therewith at the time of redemption). All Notes so cancelled and any Notes purchased and cancelled pursuant to Condition 6.5 above (together with all unmatured Coupons cancelled therewith) shall be forwarded to the Principal Paying Agent and cannot be reissued or resold.
+
+^^**Notice Final**
+
+Upon the expiry of any notice as is referred to in Condition 6.2, 6.3 or 6.4 above the Issuer shall be bound to redeem the Notes to which the notice refers in accordance with the terms of such Condition (in the case of Condition 6.4 above, save as otherwise provided therein).
+
+**Taxation**
+
+^^**Payment without Withholding**
+
+All payments in respect of the Notes by or on behalf of the Issuer shall be made without withholding or deduction for, or on account of, any present or future taxes, duties, assessments or governmental charges of whatever nature (“Taxes”) imposed or levied by or on behalf of any Relevant Jurisdiction, unless the withholding or deduction of the Taxes is required by law. In that event, the Issuer will pay such additional amounts as may be necessary in order that the net amounts received by the Noteholders and Couponholders after the withholding or deduction
+
+shall equal the respective amounts which would have been receivable in respect of the Notes
+
+or, as the case may be, Coupons in the absence of the withholding or deduction; except that no additional amounts shall be payable in relation to any payment in respect of any Note of
+
+Coupon:  
+^^presented for payment by or on behalf of, a holder who is liable to the Taxes in respect of the Note or Coupon by reason of his having some connection with a Relevant Jurisdiction other than the mere holding of the Note or Coupon; or
+
+^^presented for payment by or on behalf of a holder who could lawfully avoid (but has not so avoided) such deduction or withholding by complying or procuring that any third party complies with any statutory requirements or by making or procuring that any third party makes a declaration of non-residence or other similar claim for exemption to any tax authority in the place where the relevant Note or Coupon is presented; or
+
+^^where such withholding or deduction is imposed on a payment to an individual and is required to be made pursuant to European Council Directive 2003/48/EC or any law implementing or complying with, or introduced in order to confirm to, such Directive; or
+
+^^presented for payment by or on behalf of a holder who would have been able to avoid such withholding or deduction by presenting the relevant Note or Coupon to another Paying Agent in a Member State of the European Union; or
+
+^^presented for payment more than 30 days after the Relevant Date (as defined below) except to the extent that a holder would have been entitled to additional amounts on presenting the same for payment on the last day of the period of 30 days assuming, whether or not such is in fact the case, that day to have been a Presentation Date.
+
+^^**Interpretation**
+
+In these Conditions:  
+“Relevant Date” means the date on which the payment first becomes due but, if the full amount of the money payable has not been received by the Principal Paying Agent or the Trustee on or before the due date, it means the date on which, the full amount of the money having been so received, notice to that effect has been duly given to the Noteholders by the Issuer in accordance with Condition 12; and
+
+“Relevant Jurisdiction” means the United Kingdom or any political subdivision or any authority thereof or therein having power to tax.
+
+^^**Additional Amounts**
+
+Any reference in these Conditions to any amounts in respect of the Notes shall be deemed also to refer to any additional amounts which may be payable under this Condition or under any undertakings given in addition to, or in substitution for, this Condition pursuant to the Trust
+
+Deed.  
+
+**Prescription**
+
+Notes and Coupons (which for this purpose shall not include Talons) will become void unless presented for payment within periods of 10 years (in the case of principal) and five years (in the case of interest) from the Relevant Date in respect of the Notes or, as the case may be, the Coupons, subject to the provisions of Condition 5. There shall not be included in any Coupon sheet issued upon exchange of a Talon and Coupon which would be voiced upon issue under the Condition 8 or Condition 5.
+
+**Events of Default**
+
+^^**Event of Default**
+
+The Trustee at its discretion may, and if so requested in writing by the holders of at least one-quarter in nominal amount of the Notes then outstanding or if so directed by an Extraordinary Resolution shall (subject in each case to being indemnified and/or secured and/or prefunded to its satisfaction), (but in the case of the happening of any of the events described in Conditions 9.1(b), (c) and (e) to (g) inclusive below, only if the Trustee shall have certified in writing to the Issuer that such event is, in its opinion, materially prejudicial to the interests of the Noteholders), give notice in writing to the Issuer that each Note is, and each Note shall thereupon immediately become, due and repayable at its principal amount together with accrued i nterest (if any) as provided in the Trust Deed if any of the following events (each an “Event of Default) shall have occurred:
+
+^^Non-Payment
+
+if default is made in the payment of any principal or interest due in respect of the Notes or any of them and the default continues for a period of 14 days in the case of principal and 21 days in the case of interest or, where relevant, the Issuer, having become obliged to redeem, purchase or procure the purchase of (as the case may be) any Notes pursuant to Condition 6.4 fails to do so within a period of 14 days of having become so obliged; or
+
+^^Breach of Other Obligations
+
+if the Issuer fails to perform of observe any of its other obligations, covenants, conditions or provisions under the Notes or the Trust Deed and (except where the Trustee shall have certified to the Issuer in writing that it considers such failure to be incapable of remedy in which case no such notice or continuation as is hereinafter mentioned will be required) the failure continues for the period of 60 days (or such longer period as the Trustee may in its absolute discretion permit) next following the service by the Trustee on the Issuer of notice requiring the same to be remedied; or
+
+^^Cross-Default
+
+if (i) any other indebtedness for borrowed money of the Issuer of any Principal Subsidiary becomes due and repayable prior to its stated maturity by reason of an event of default or (ii) any such indebtedness for borrowed money is not paid when due or, as the case may be, within any applicable grace period (as originally provided) or (iii) the Issuer or any Principal Subsidiary fails to pay when due (or, as the case may be, within any originally applicable grace period) any amount payable by it under any present or future guarantee for, or indemnity in respect of, any indebtedness for borrowed money of any person of (iv) any security given by the Issuer or any Principal Subsidiary for any indebtedness for borrowed money of any person or any guarantee or indemnity of indebtedness for borrowed money of any person becomes enforceable by reason of default in relation thereto and steps are taken to enforce such security save in any such case where there is a bona fide dispute as to whether the relevant indebtedness for borrowed money or any such guarantee or indemnity as aforesaid shall be due and payable, provided that the aggregate amount of the relevant indebtedness for borrowed money in respect of which any one or more of the event mentioned above in this Condition 9.1(c) has or have occurred equals or exceeds whichever is the greater of £20,000,000 or its equivalent in other currencies (on the basis of the middle spot rate for the relevant currency against pounds sterling as quoted by any leading bank on the day on which this Condition 9.1(c) applies) and two per cent of the Capital and Reserves, and for the purposes of this Condition 9.1(c), “indebtedness for borrowed money” shall exclude Non-recourse Indebtedness; or
+
+^^Winding-up
+
+if any order is made by any competent court or resolution passed for the winding up or dissolution of the Issuer, save for the purpose of and followed by amalgamation, merger, consolidation, reorganisation, reconstruction or other similar arrangement on terms previously approved in writing by the Trustee or by an Extraordinary Resolution of the Noteholders; or
+
+^^Winding-up of Principal Subsidiary
+
+if any order is made by any competent court or any resolution is passed for the winding
+
+up or dissolution of the Principal Subsidiary, save for the purposes of and followed by amalgamation, merger, consolidation, reorganisation, reconstruction or other similar arrangement (i) not involving or arising out of the insolvency of such Principal Subsidiary and under which all the surplus assets of such Principal Subsidiary are transferred to the Issuer or any of its Subsidiaries (other than an Excluded Subsidiary) or (ii) the terms of which have previously been approved in writing byte Trustee or by an Extraordinary Resolution of the Noteholders; or
+
+^^Ceasing to Carry on the Business
+
+if the Issuer or any Principal Subsidiary shall cease to carry on the whole or, in the opinion of the Trustee, substantially the whole of its business, save for the purposes of amalgamation, merger, consolidation, reorganisation, reconstruction or other similar arrangement (A) (x) not involving or arising out of the insolvency of the Issuer or such Principal Subsidiary and (y) under which all or, in the opinion of the Trustee, substantially all of its assets are transferred to another member of the Group (other than an Excluded Subsidiary) or to a transferee which is, or immediately upon such transfer becomes, a Principal Subsidiary or (B) under which all or, in the opinion of the Trustee substantially all of its assets are transferred to a third party or parties (whether associates or not) for full consideration by the Issuer or a Pr incipal Subsidiary on an arm’s length basis or (c) the terms of which have previously been approved in writing by the Trustee or by an Extraordinary Resolution of the Noteholders, provided that (in the case of (A) or (B) above) if the Issuer transfers its Distribution Licence, the transferee has, at or around the time of transfer, either executed in favour of the Trustee an unconditional and irrevocable guarantee in respect to the Notes in such form as the Trustee may require or become primary obligor under the Notes in accordance with Condition 13; or
+
+^^Insolvency
+
+if the Issuer or any Principal Subsidiary shall suspend or shall threaten to suspend payment of its debts generally or shall be declared or adjudicated by a competent court to be unable, or shall admit in writing its inability, to pay its debts (within the meaning of section 123(1) or (2) of the Insolvency Act 1986) as they fall due, or shall be adjudicated or found insolvent by a competent court or shall enter into any composition or other similar arrangement with its creditors under section 1 of the Insolvency Act 198, as amended; or
+
+^^Administration and Enforcement Proceedings
+
+if a receiver, administrative receiver, administrator or other similar official shall be appointed in relation to the Issuer or any Principal Subsidiary or in relation to the whole or, in the opinion of the Trustee, a substantial part of the undertaking or assets of any of them or a distress, execution or other process shall be levied or enforced upon or sued out against, or an encumbrancer shall take possession of, the whole or, in the opinion of the Trustee, a substantial part of the assets of any of them and in of the foregoing cases it or he shall not be paid out or discharged within 90 days (or such longer period as the Trustee may in its absolute discretion permit).
+
+For the purposes of Condition 9.1(g) above, section 123(1)(a) of the Insolvency Act 1986 shall have effect as if for “£750” there was substituted “£250,000” or such higher figure as OFGEM (or any successor) may from time to time determine by notice in writing to the Secretary of State for Trade and Industry and the Issuer.
+
+Neither the Issuer nor any Principal Subsidiary shall be deemed to be unable to pay its debts for the purpose of Condition 9.1(g) above if any such demand as is mentioned in section 123(1)(a) of the Insolvency Act 1986 is being contested in good faith by the Issuer or the relevant Principal Subsidiary with recourse to all appropriate measures and procedures of if any such demand is satisfied before the expiration of such period (if any) as may be stated in any notice given by the Trustee under this Condition 9.
+
+^^**Definitions**
+
+For the purpose of these Conditions:  
+“Excluded Subsidiary” means any Subsidiary of the Issuer (other than a Relevant Subsidiary):
+
+^^^which is a single purpose company whose principal assets and business are constituted by the ownership, acquisition, development and/or operation of an asset;
+
+^^^none of whose indebtedness for borrowed money in respect of the financing of such ownership, acquisition, development and/or operation of an asset is subject to any recourse whatsoever to any member of the Group (other than another Excluded Subsidiary) in respect of the repayment thereof, except as expressly referred to in sub-paragraph (ii)(C) of the definition of Non-recourse Indebtedness below; and
+
+^^^which has been designated as such by the Issuer by written notice to the Trustee, provided that the Issuer may give written notice to the Trustee at any time that any Excluded Subsidiary is no longer an Excluded Subsidiary, whereupon it shall cease to be an Excluded Subsidiary;
+
+“indebtedness for borrowed money” means any present or future indebtedness (whether being principal, premium, interest or other amounts) for or in respect of (i) money borrowed, (ii) liabilities under or in respect of any acceptance or acceptance credit or (iii) any notes, bonds, debentures, debenture stock, loan stock or other securities offered, issued or distributed whether by way of public offer, private placing, acquisition consideration or otherwise and whether issued for cash or in whole or in part for a consideration other than cash;
+
+“Non-recourse Indebtedness” means any indebtedness for borrowed money:
+
+^^^which is incurred by an Excluded Subsidiary; or
+
+^^^in respect of which the person or persons to whom any such indebtedness for borrowed money is or may be owed by the relevant borrower (whether or not a member of the Group) has or have no recourse whatsoever to any member of the Group (other than an Excluded Subsidiary) for the repayment thereof other than:
+
+^recourse to such borrower for amounts limited to the cash flow or net cash flow (other than historic cash flow or historic net cash flow) from any specific asset or assets over or in respect of which security has been granted in respect of such indebtedness for borrowed money; and/or
+
+^recourse to such borrower for the purpose only of enabling amounts to be claimed in respect of such indebtedness for borrowed money in an enforcement of any encumbrance given by such borrow over any such asset or assets or the income, cash flow or other proceeds deriving therfrom (or given by any shareholder or the like in the borrower over its shares or the like in the capital of the borrower) to secure such indebtedness for borrowed money, provided that (aa) the extent of such recourse to such borrower is limited solely to the amount of any recoveries made on any such enforcement, and (bb) such person or persons is/are not entitled, by virtue or any right or claim arising out of or in connection with such indebtedness for borrowed money, to commence proceedings for the winding up or dissolution of the borrower or to appoint or procure the appointment of any receiver, trustee or similar person or officer i n respect of the borrower or any of its assets (save for the assets the subject of such encumbrance); and/or
+
+^recourse to such borrower generally, or directly or indirectly to a member of the Group, under any form of assurance, undertaking or support, which recourse is limited to a claim for damages (other than liquidated damages and damages required to be calculated in a specified way) for breach of an obligation (not being a payment obligation or an obligation to procure payment by another or an indemnity in respect thereof or any obligation to comply or to procure compliance by another with any financial ratios or other tests of financial condition) by the person against whom such recourse is available.
+
+“Principal Subsidiary” at any time shall mean each Subsidiary of the Issuer (in each case not being an Excluded Subsidiary or any other Subsidiary of the Issuer, as the case may be, whose only indebtedness for borrowed money is Non-recourse Indebtedness):
+
+^^^whose (a) profits on ordinary activates before tax or (b) gross assets, in each case attributable to the Issuer represent 20 per cent of more of the consolidated profits on ordinary activities before tax or the Group or, as the case may be, consolidated gross assets of the Group, in each case as calculated by reference to the then latest audited financial statements of such Subsidiary (consolidated in the case of a company which itself has Subsidiaries) and the then latest audited consolidated financial statements of the Group provided that in the case of a Subsidiary acquired after the end of the financial period to which the then latest audited consolidated financial statements of the Group relate, the reference to the then latest audited consolidated financial statements of the Group for the purpose of the calculation above shall, until consolidated financial statements for the financial period in which the a cquisition is made have been prepared and audited as aforesaid, be deemed to be a reference to such first-mentioned financial statements as if such Subsidiary has been shown in such financial statements by reference to its then latest relevant audited financial statements, adjusted as deemed appropriate by the Auditors; or
+
+^^^to which is transferred all or substantially all of the business, undertaking and assets of a Subsidiary of the Issuer which immediately prior to such transfer is a Principal Subsidiary, whereupon the transferor Subsidiary shall cease to be a Principal Subsidiary and the transferee Subsidiary shall cease to be a Principal Subsidiary under the provisions of this sub-paragraph (ii), upon publication of its next audited financial statements (but without prejudice to the provisions of sub-paragraph (i) above but so that such transferor Subsidiary or such transferee Subsidiary may be a Principal Subsidiary of the Issuer on or at any time after the date on which such audited financial statements have been published by virtue of the provisions of sub-paragraph (i) above or before, on or at any time after such date by virtue of the provisions of this sub-paragraph (ii).
+
+^certificate by two directors or the Issuer that, in their opinion, a Subsidiary of the Issuer is or is not or was or was not at any particular time of throughout any specified period a Principal Subsidiary may be relied upon by the Trustee without further enquiry or evidence and the Trustee will not be responsible or liable for any loss occasioned by acting on such a certificate and, if relied upon by the Trustee, shall, in the absence of manifest error, be conclusive and binding on all parties, whether or not addressed to each such party.
+
+**Enforcement**
+
+^^**Enforcement by the Trustee**
+
+The Trustee may at any time, at its discretion and without notice, take such proceedings against the Issuer as it may think fit to enforce the provisions of the Trust Deed, the Notes and the Coupons, but it shall not be bound to take any such proceedings or any other action in relation to the Trust Deed, the Notes or the Coupons unless it has been so directed by an Extraordinary Resolution of the Noteholders of so requested in writing by the holders of at least one-quarter in nominal amount of the Notes than outstanding. Nor shall the Trustee be bound to take or omit to take any step or action (including such proceedings) unless it has been indemnified and/or secured and/or prefunded in each case to its satisfaction in respect of all costs, claims, expenses and liabilities to or for which it may, in its opinion, thereby bec ome liable.
+
+^^**Enforcement by the Noteholders**
+
+No Noteholder of Couponholder shall be entitled to proceed directly against the Issuer unless the Trustee, having become bound so to proceed, fails so to do within a reasonable period and the failure shall be continuing.
+
+**Replacement of Notes and Coupons**
+
+Should any Note or Coupon be lost, stolen, mutilated, defaced or destroyed it may be replaced at the specified office of the Principal Paying Agent upon payment by the claimant of the expenses incurred in connection with the replacement and on such terms as to evidence and indemnity as the Issuer may reasonably require. Mutilated or defaced Notes or Coupons must be surrendered before replacements will be issued.
+
+**Notices**
+
+^^**Notices to the Noteholders**
+
+All notices to the Noteholders will be valid if published in a leading English language daily newspaper published in [[Address 9: Address]] other English language daily newspaper with general circulation in Europe as the Trustee may approve. It is expected that publication will normally be made in the Financial Times. The Issuer shall also ensure that notices are duly published in a manner which complies with the rules and regulations of any stock exchange or other relevant authority on which the Notes are for the time being listed or traded. Any such notice will be deemed to have been given on the date of the first publication or, where required to be published in more than one newspaper, on the date of the first publication in all required newspapers.& #160; If publication as provided above is not practicable, notice will be given in such other manner, and shall be deemed to have been given on such date, as the Trustee may approve. Couponholders will be deemed for all purposes to have notice of the contents of any notice given to the Noteholders in accordance with this Condition 12.1.
+
+^^**Notices from the Noteholders**
+
+Notices to be given by any Noteholder shall be in writing and given by lodging the same, together with the relative Note or Notes, with the Principal Paying Agent or, if the Notes are held in a clearing system, may be given through the clearing system in accordance with its standard rules and procedures.
+
+**Substitution**
+
+The Trustee may, without the consent of the Noteholders or Couponholders, agree with the Issuer to the substitution of certain other entities (other than an Excluded Subsidiary) in place of the Issuer (or of any previous substitute under this Condition) as the principal debtor under the Notes, the Coupons and the Trust Deed, subject to:
+
+^^the Notes being unconditionally and irrevocably guaranteed by the Issuer (unless the Issuer’s successor in business is the substituted entity);
+
+^^the Trustee being satisfied that the interests of the Noteholders will not be materially prejudiced by the substitution; and
+
+^^certain other conditions set out in the Trust Deed being complied with.
+
+**Meetings of Noteholders, Modification, Waiver, Authorisation and Determination**
+
+^^**Meetings of Noteholders**
+
+The Trust Deed contains provisions for convening meetings of the Noteholders to consider any matter affecting their interests, including the modification or abrogation by Extraordinary Resolution of any of these Conditions or any of the provisions of the Trust Deed. The quorum at any meeting for passing an Extraordinary Resolution will be one or more persons present holding or representing more than 50 per cent in principal amount of the Notes for the time being outstanding, or at any adjourned such meeting one or more persons present whatever the principal amount of the Notes held or represented by him or them, except that, at any meeting the business of which includes the modification or abrogation of certain of the provisions of these Conditions and certain of the provisions of the Trust Deed as more particularly describ ed in the Trust Deed, the necessary quorum for passing an Extraordinary Resolution will be one or more persons present holding or representing not less than three-quarters, or at any adjourned such meeting not less than one-quarter, of the principal amount of the Notes for the time being outstanding. An Extraordinary Resolution passed at any meeting of the Noteholders will be binding on all Noteholders, whether or not they are present at the meeting, and on all Couponholders.
+
+The Trust Deed provides that a resolution in writing signed by or on behalf of the holder of not les than 90 per cent in principal amount of the Notes outstanding shall for all purposes be as valid and effective as an Extraordinary Resolution passed at a meeting of Noteholders duly convened and held. Such a resolution in writing may be contained in one document or several documents in the same form, each signed by or on behalf of one or more Noteholders.
+
+^^**Modification, Waiver, Authorisation and Determination**
+
+The Trustee may agree, without the consent of the Noteholders or Couponholders, to any modification of, or to the waiver or authorisation of any breach or proposed breach of, any of these Conditions or any of the provisions of the Trust Deed, or determine, without any such consent as aforesaid, that any Event of Default, Potential Event of Default (as defined in the Trust Deed), Restructuring Event or Potential Restructuring Event (as defined in the Trust Deed) shall not be treated as such (provided that, in any such case, it is not, in the opinion of the Trustee, materially prejudicial to the interests of the Noteholders and in the case of any modification, except as mentioned in the Trust Deed) or may agree, without any such consent as aforesaid, to any modification which, in its opinion, is of a formal, minor or technical nature or to correct a manifest error.
+
+^^**Trustee to have Regard to Interests of Noteholders as a Class**
+
+In connection with the exercise by it of any of its trusts, powers, authorities and discretions (including, without limitation, any modification, waiver, authorisation, determination or substitution), the Trustee shall have regard to the general interests of the Noteholders as a class but shall not have regard to any interests arising from circumstances particular to individual Noteholders or Couponholders (whatever their number) and, in particular but without limitation, shall not have regard to the consequences of any such exercise for individual Noteholders or Couponholders (whatever their number) resulting from their being for any purpose domiciled or resident in, or otherwise connected with, or subject to the jurisdiction of, any particular territory or any political sub-division thereof and the Trustee shall not be entitled to r equire, nor shall any Noteholder or Couponholder be entitled to claim, from the Issuer, the Trustee or any other person any indemnification or payment in respect of any tax consequences of any such exercise upon individual Noteholders or Couponholders except to the extent already provided for in Condition 7 pursuant to the Trust Deed.
+
+^^**Notification to the Noteholders**
+
+Any modification, abrogation, waiver, authorisation, determination or substitution shall be binding on the Noteholders and the Couponholders and, unless the Trustee agrees otherwise, any modification of substitution shall be notified by the Issuer to the Noteholders as soon as practicable thereafter in accordance with Condition 12.
+
+**Indemnification of the Trustee and its Contracting with the Issuer**
+
+^^**Indemnification of the Trustee**
+
+The Trust Deed contains provisions for the indemnification of the Trustee and for its relief from responsibility, including provision relieving it from taking action unless indemnified and/or secured and/or prefunded to its satisfaction.
+
+^^**Trustee Contracting with the Issuer**
+
+The Trust Deed also contains provision pursuant to which the Trustee is entitled, inter alia, (a) to enter into business transactions with the Issuer and/or any of its Subsidiaries and to act as trustee for the holders of any other securities issued or guaranteed by, or relating to, the Issuer and/or any of its Subsidiaries, (b) to exercise and enforce its rights, comply with its obligations and perform its duties under or in relation to any such transactions or, as the case may be, any such trusteeship without regard to the interests of, or consequences for, the Noteholders or Couponholders, and (c) to retain and not be liable to account for any profit made or any other amount of benefit received thereby or in connection therewith.
+
+**Further Issues**
+
+The Issuer is at liberty from time to time without the consent of the Noteholders or Couponholders to create and issue further notes or bonds (whether in bearer or registration form) either (a) ranking pari passu in all respect (or in all respects save for the first time payment of interest thereon) and so that the same shall be consolidated and form a single series with the outstanding notes or bonds of any series (including the Notes) constituted by the Trust Deed or any supplemental deed of (b) upon such terms as to ranking, interest, conversion, redemption and otherwise as the Issuer may determine at the time of the issue. Any further notes or bonds which are to form a single series with the outstanding notes or bonds of any series (including Notes) constitute by the Trust Deed or any supplemental deed shall, and any other further notes or bonds may (with the consent of the Trustee), be constituted by a deed supplemental to the Trust Deed. The Trust Deed contains provisions for convening a single meeting of the Noteholders and the holders of notes or bonds of other series in certain circumstances where the Trustee so decides.
+
+**Governing Law**
+
+The Trust Deed, the Notes and the Coupons, and any non-contractual obligations arising out of or in connection with them, are governed by, and will be construed in accordance with, English law.
+
+**Rights of Third Parties**
+
+No rights are conferred on any person under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Note, but this does not affect any right or remedy of any person which exists or is available apart from that Act.
+
+\centered **Form of Coupon**
+
+On the front:  
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+£200,000,000 5.75 per cent. Notes due 2040
+
+Coupon for £2,875 due on 23 [[Date 6: Date]][11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/ 30/31/32/33/34/35/26/37/38/39/40].
+
+This Coupon is payable to bearer (subject to the Conditions endorsed on the Note to which this Coupon relates, which shall be binding upon the holder of this Coupon whether or not it is for the time being attached to such Note) at the specified offices of the Paying Agents set out on the reverse hereof (or any further or other Paying Agents or specified offices duly appointed or nominated and notified to the Noteholders).
+
+If the Note to which this Coupon relates shall have become due and payable before the maturity date of this Coupon, this Coupon shall become void and no payment shall be made in respect of it.
+
+ANY UNITED STATES PERSON WHO HOLDS THIS OBLIGATION WILL BE SUBJECT TO LIMITATIONS UNDER THE UNITED STATES INCOME TAX LAWS, INCLUDING THE LIMITATIONS PROVIDED IN SECTIONS 165(j) AND 1287(a) OF THE INTERNAL REVENUE CODE.
+
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+[[[[Organization 1 Name]] PLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] PLC Entity => By: [[[[Organization 1 Name]] PLC Signatory First Name]] [[[[Organization 1 Name]] PLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] PLC Signatory Title]]}}
+ 
+[Director]  
+Cp No.   Denomination   ISIN   Series   Certif. No.
+
+£50,000   XS0496975110
+
+On the back:  
+PRINCIPAL PAYING AGENT 
+[[Organization 7 Name]] 
+Level 24 
+^Canada Square 
+[[Address 3: Address]]     
+
+\centered **Form of Talon**
+
+On the front:  
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+£200,000,000 5.75 per cent. Notes due 2040
+
+Note in the principal amount of £50,000  
+Talon for further Coupons.  
+After all the Coupons relating to the Note to which this Talon relates have matured, further Coupons (including if appropriate a Talon for further Coupons) shall be issued at the specified offices of the Paying Agents set out on the reverse hereof (or any further or other Paying Agents or specified offices duly appointed or nominated and notified to the Noteholders).
+
+ANY UNITED STATES PERSON WHO HOLDS THIS OBLIGATION WILL BE SUBJECT TO LIMITATIONS UNDER THE UNITED STATES INCOME TAX LAWS, INCLUDING THE LIMITATIONS PROVIDED IN SECTIONS 165(j) AND 1287(a) OF THE INTERNAL REVENUE CODE.
+
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+[[[[Organization 1 Name]] PLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] PLC Entity => By: [[[[Organization 1 Name]] PLC Signatory First Name]] [[[[Organization 1 Name]] PLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] PLC Signatory Title]]}}
+ 
+[Director]  
+Cp No.   Denomination   ISIN   Series   Certif. No.
+
+£50,000   XS0496975110
+
+On the back:  
+PRINCIPAL PAYING AGENT 
+[[Organization 7 Name]] 
+Level 24 
+[[Address 10: Address]]  
+
+\centered **Schedule 2**
+
+\centered **Part 1**
+
+\centered **Form of Temporary Global Note**
+
+ISIN: XS0496975110  
+
+\centered **[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+\centered **([[Party 1]] with limited liability in England and Wales)**
+
+\centered **£200,000,000**
+
+\centered 5.75 per cent. Notes due 2040
+
+\centered **Temporary Global Note**
+
+This is to certify that the bearer is entitled on 23 [[Date 2]], or on such earlier date as the Notes designated above (the “**Notes**”) may be redeemed or repaid to such sum as is determined to be payable on such redemption or repayment in accordance with the terms and conditions (the “**Conditions**”) of the Notes set out in Schedule 1 to the trust deed dated 23 [[Date 1]] (the “**Trust Deed**”) between [[Organization 1 Name]] (South West) plc (the “**Issuer**”) and [[Organization 2 Name]] (UK) Limited as trustee (the “**Trustee**”)) upon presentation and surrender of this Temporary Global Note and to interest at the rate of 5.75 per cent. per annum on the outstanding nominal amount of the Notes in arrear on 23 March in each year, subject to and in accordance with the Conditions.
+
+The nominal amount of Notes represented by this Temporary Global Note shall be the aggregate amount from time to time entered in the records of both [[Organization 6 Name]] S.A./N.V. (“**Euroclear**”) and [[Organization 5 Name]], société anonyme (“**Clearstream, Luxembourg**”) (together the “**relevant Clearing Systems**”). The records of the relevant Clearing Systems (which expression in this Temporary Global Note means the records that each relevant Clearing System holds for its accountholders which reflect the amount of such accountholders’ interest in the Notes) shall be conclusive ev idence of the nominal amount of Notes represented by this Temporary Global Note and, for these purposes, a statement issued by a relevant Clearing System stating the nominal amount of Notes represented by this Temporary Global Note at any time shall be conclusive evidence of the records of the relevant Clearing System at that time.
+
+On or after 4 [[Date 7: Date]] (the “**Exchange Date**”) this Temporary Global Note may be exchanged in whole or part (free of charge to the holder) by its presentation and, on exchange in full, surrender to or to the order of the Principal Paying Agent for interests recorded in the records of the relevant Clearing System in a Global Note (the “**Global Note**”) in bearer form in an aggregate nominal amount equal to the nominal amount of this Temporary Global Note submitted for exchange with respect to which there shall be presented to the Principal Paying Agent a certificate dated no earlier than the Exchange Date from the relevant Clearing System substantially to the following effect:
+
+\centered **“CERTIFICATE**
+
+\centered **[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+\centered **£200,000,000**
+
+\centered 5.75 per cent. Notes due 2040
+
+\centered **Common Code 049697511 ISIN XS0496975110 (the “Notes”)**
+
+This is to certify that, based solely on certificates we have received in writing, by tested telex or by electronic transmission from member organisations appearing in our records as persons being entitled to a portion of the nominal amount set out below (our **“Member Organisations**”) substantially to the effect set out in the temporary global Note in respect of the Notes, as of the date hereof, £[●] nominal amount of the Notes (1) is owned by persons that are not citizens or residents of the United States, domestic partnerships, domestic corporations or any estate or trust the income of which is subject to United States federal income taxation regardless of its source (“**United States persons**” ), (2) is owned by United States persons that (a) are foreign branches of United States financial institutions (as defined in U.S. Treasury Regulations Section 1.165-12(c)(1)(iv) (“**financial institutions**”)) purchasing for their own account or for resale, or (b) acquired the Notes through foreign branches of United States financial institutions and who hold the Notes through such United States financial institutions on the date hereof (and in either case (a) or (b), each such United States financial institution has agreed, on its own behalf or through its agent, that we may advise the Issuer or the Issuer’s agent that it will comply with the requirements of Section 165(j)(3)(A), (B) or (C) of the Internal Revenue Code of 1986, as amended, and the regulations thereunder), or (3) is owned by United States or foreign financial institutions for purposes of resale during the restricted period (as defined in U.S. Treasury Regulations Section 1.163-5(c)(2)(i)(D)(7), and to the further effect that United States or foreign financial institutions described in clause (3) above (whether or not also described in clause (1) or (2)) have certified that they have not acquired the Notes for purposes of resale directly or indirectly to a United States person or to a person within the United States or its possessions.
+
+We further certify (1) that we are not making available herewith for exchange (or, if relevant, exercise of any rights or collection of any interest) any portion of such temporary global Note excepted in such certificates and (2) that as of the date hereof we have not received any notification from any of our Member Organisations to the effect that the statements made by such Member Organisation with respect to any portion of the part submitted herewith for exchange (or, if relevant, exercise of any rights or collection of any interest) are no longer true and cannot be relied upon as of the date hereof.
+
+We understand that this certificate is required in connection with certain tax laws of the United States. In connection therewith, if administrative or legal proceedings are commenced or threatened in connection with which this certificate is or would be relevant, we irrevocably authorise you to produce this certificate to any interested party in such proceedings.
+
+Yours faithfully  
+**[[[Organization 6 Name]] S.A./N.V.] or [[[Organization 5 Name]], SOCIÉTÉ ANONYME]**
+
+[[[[Organization 6 Name]] S.A./N.V. or [[Organization 5 Name]] SOCIÉTÉ ANONYME Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] S.A./N.V. or [[Organization 5 Name]] SOCIÉTÉ ANONYME Entity => By: [[[[Organization 6 Name]] S.A./N.V. or [[Organization 5 Name]] SOCIÉTÉ ANONYME Signatory First Name]] [[[[Organization 6 Name]] S.A./N.V. or [[Organization 5 Name]] SOCIÉTÉ ANONYME Signatory Last Name]]
+Title: [[[[Organization 6 Name]] S.A./N.V. or [[Organization 5 Name]] SOCIÉTÉ ANONYME Signatory Title]]}}
+
+Any person appearing in the records of Euroclear or Clearstream, Luxembourg as entitled to an interest in this Temporary Global Note may require the exchange of an appropriate part of this Temporary Global Note for an equivalent interest in the Global Note by delivering or causing to be delivered to Euroclear or Clearstream, Luxembourg a certificate dated not more than 15 days before the Exchange Date in substantially the following form (copies of which will be available at the office of Euroclear in Brussels and Clearstream, Luxembourg in Luxembourg):
+
+\centered **“CERTIFICATE**
+
+\centered **[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+\centered **£200,000,000**
+
+\centered 5.75 per cent. Notes due 2040
+
+\centered **Common Code 049697511 ISIN XS0496975110 (the “Notes”)**
+
+To:   [[Organization 6 Name]] S.A./N.V. or [[Organization 5 Name]], société anonyme
+
+This is to certify that as of the date hereof, and except as set out below, the Notes held by you for our account (1) are owned by person(s) that are not citizens or residents of the United States, domestic partnerships, domestic corporations or any estate or trust the income of which is subject to United States federal income taxation regardless of its source (“**United States person(s)**”), (2) are owned by United States person(s) that (a) are foreign branches of United States financial institutions (as defined in U.S. Treasury Regulations Section 1.165-12(c)(1)(iv) (“**financial institutions**”)) purchasing for their own account or for resale, or (b) acquired the Notes through foreign branches of United Sta tes financial institutions and who hold the Notes through such United States financial institutions on the date hereof (and in either case (a) or (b), each such United States financial institution hereby agrees, on its own behalf or through its agent, that you may advise the Issuer or the Issuer’s agent that it will comply with the requirements of Section 165(j)(3)(A), (B) or (C) of the Internal Revenue Code of 1986, as amended, and the regulations thereunder), or (3) are owned by United States or foreign financial institution(s) for purposes of resale during the restricted period (as defined in U.S. Treasury Regulations Section 1.163-5(c)(2)(i)(D)(7)), and in addition if the owner of the Notes is a United States or foreign financial institution described in clause (3) above (whether or not also described in clause (1) or (2)) this is to further certify that such financial institution has not acquired the Notes for purposes of resale directly or indirectly to a United States person or to a person withi n the United States or its possessions.
+
+As used herein, “**United States**” means the United States of America (including the States and the District of Columbia) and its “**possessions**” include Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, Wake Island and the Northern Mariana Islands.
+
+We undertake to advise you promptly by tested telex on or prior to that date on which you intend to submit your certificate relating to the Notes held by you for our account in accordance with your documented procedures if any applicable statement herein is not correct on such date, and in the absence of any such notification it may be assumed that this certificate applies as of such date.
+
+This certificate excepts and does not relate to £[•] nominal amount of such interest in the Notes in respect of which we are not able to certify and as to which we understand exchange for an equivalent interest in the Global Note (or, if relevant, exercise of any rights or collection of any interest) cannot be made until we do so certify.
+
+We understand that this certificate is required in connection with certain tax laws of the United States. In connection therewith, if administrative or legal proceedings are commenced or threatened in connection with which this certificate is or would be relevant, we irrevocably authorise you to produce this certificate to any interested party in such proceeding.
+
+Dated:  
+By:    
+[Name of person giving certificate] 
+As, or as agent for the beneficial owner(s) of the above Notes to which this certificate relates.”
+
+Upon any exchange of a part of this Temporary Global Note for an equivalent interest recorded in the records of the relevant Clearing Systems in the Global Note, the Issuer shall procure that details of the portion of the nominal amount hereof so exchanged shall be entered pro rata in the records of the relevant Clearing Systems and interests represented by this Temporary Global Note shall be reduced by an amount equal to such portion so exchanged.
+
+The Global Note will be exchangeable in accordance with its terms for definitive Notes (the “**Definitive Notes**”) in bearer form with Coupons attached.
+
+This Temporary Global Note is subject to the Conditions and the Trust Deed and until the whole of this Temporary Global Note shall have been exchanged for equivalent interests in the Global Note its holder shall be entitled to the same benefits as if he were the holder of the Global Note for interests in which it may be exchanged (or the relevant part of it as the case may be) except that (unless exchange of this Temporary Global Note for the relevant interest in the Global Note shall be improperly withheld or refused by or on behalf of the Issuer) no person shall be entitled to receive any payment on this Temporary Global Note.
+
+This Temporary Global Note shall not be valid or become obligatory for any purpose until authenticated by or on behalf of the Principal Paying Agent and effectuated by the entity appointed as Common Safekeeper by the relevant Clearing Systems.
+
+This Temporary Global Note, and any non-contractual obligations arising out of or in connection with it, shall be governed by and construed in accordance with English law.
+
+In witness whereof the Issuer has caused this Temporary Global Note to be signed on its behalf.
+
+Dated 23 [[Date 1]]  
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+[[[[Organization 1 Name]] PLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] PLC Entity => By: [[[[Organization 1 Name]] PLC Signatory First Name]] [[[[Organization 1 Name]] PLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] PLC Signatory Title]]}}
+
+**Certificate of Authentication**  
+This Temporary Global Note is authenticated by or on behalf of the Principal Paying Agent.
+
+**[[Organization 7 Name]]**  
+as Principal Paying Agent  
+[[As Principal Paying Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Principal Paying Agent Entity => By: [[As Principal Paying Agent Signatory First Name]] [[As Principal Paying Agent Signatory Last Name]]
+Title: [[As Principal Paying Agent Signatory Title]]}}
+
+Authorised Signatory  
+For the purposes of authentication only.
+
+**Effectuation**  
+This Temporary Global Note is effectuated by or on behalf of the Common Safekeeper.
+
+**[[Organization 6 Name]] S.A./N.V.**  
+as Common Safekeeper  
+[[As Common Safekeeper Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Common Safekeeper Entity => By: [[As Common Safekeeper Signatory First Name]] [[As Common Safekeeper Signatory Last Name]]
+Title: [[As Common Safekeeper Signatory Title]]}}
+
+Authorised Signatory  
+For the purposes of effectuation only.   
+ANY UNITED STATES PERSON WHO HOLDS THIS OBLIGATION WILL BE SUBJECT TO LIMITATIONS UNDER THE UNITED STATES INCOME TAX LAWS, INCLUDING THE LIMITATIONS PROVIDED IN SECTIONS 165(j) AND 1287(a) OF THE INTERNAL REVENUE CODE.
+
+\centered **Schedule 2**
+
+\centered **Part 2**
+
+\centered **Form of Global Note**
+
+ISIN: XS0496975110  
+
+\centered **[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+\centered **([[Party 1]] with limited liability in England and Wales)**
+
+\centered **£200,000,000**
+
+\centered 5.75 per cent. Notes due 2040
+
+\centered **Global Note**
+
+This is to certify that the bearer is entitled on 23 [[Date 2]] , or on such earlier date as the Notes designated above (the “**Notes**”) may be redeemed or repaid to such sum as is determined to be payable on such redemption or repayment in accordance with the terms and conditions (the “**Conditions**”) of the Notes set out in Schedule 1 to the trust deed dated 23 [[Date 1]] (the “**Trust Deed**”) between [[Organization 1 Name]] (South West) plc (the “**Issuer**”) and [[Organization 2 Name]] (UK) Limited as trustee (the “**Trustee**”)) upon presentation and surrender of this Global Note and to interest at the rate of 5.75 per cent. per annum on the outstanding nominal amount of the Notes in arrear on 23 March in each year, subject to and in accordance with the Conditions.
+
+The aggregate nominal amount from time to time of this Global Note shall be that amount not exceeding £200,000,000 equal to the aggregate nominal amount of the Notes from time to time entered in the records of both Euroclear S.A./N.V. (“**Euroclear**”) and/or [[Organization 5 Name]], société anonyme (“**Clearstream, Luxembourg**”) and/or any Alternative Clearing System (together, the “**relevant Clearing Systems**”), which shall be completed and or amended, as the case may be, by or on behalf of the Principal Paying Agent upon exchange of the whole or a part of the Temporary Globa l Note initially representing the Notes for a corresponding interest herein or upon the redemption or purchase and cancellation of Notes represented hereby or exchanged for Definitive Notes as described below.
+
+The records of the relevant Clearing Systems (which expression in this Global Note means the records that each relevant Clearing System holds for its accountholders which reflect the amount of such accountholders’ interests in the Notes) shall be conclusive evidence of the nominal amount of the Notes represented by this Global Note and, for these purposes, a statement issued by a relevant Clearing System stating the nominal amount of Notes represented by this Global Note at any time shall be conclusive evidence of the records of that relevant Clearing System at that time.
+
+This Global Note is exchangeable in whole but not in part (free of charge to the holder) for the Definitive Notes described below (1) upon the happening of an Event of Default (as defined in Condition 9) by such holder giving notice to the Trustee or the Principal Paying Agent, or (2) if this Global Note is held on behalf of Euroclear and/or Clearstream, Luxembourg and both Euroclear and Clearstream, Luxembourg are closed for business for a continuous period of 14 days (other than by reason of holidays, statutory or otherwise) or announce an intention permanently to cease business or does in fact do so and no Alternative Clearing System is available by such holder giving notice to the Trustee or the Principal Paying Agent or (3) if the Issuer would suffer a disadvantage in respect of the Notes as a result of a change in the laws or reg ulations (taxation or otherwise) or as a result of a change in the practice of any relevant Clearing System which would not be suffered were the Notes in definitive form and a certificate to such effect signed by two directors of the Issuer is delivered to the Trustee, by the Issuer giving notice to the Trustee, Principal Paying Agent and the Noteholders, of its intention to exchange this Global Note for Definitive Notes on or after the Exchange Date specified in the notice.
+
+On or after the Exchange Date the holder of this Global Note may, or in the case of (3) above, shall surrender this Global Note to or to the order of the Principal Paying Agent. In exchange for this Global Note, the Issuer shall deliver, or procure the delivery of, an equal aggregate nominal amount of duly executed and authenticated Definitive Notes having attached to them all Coupons in respect of interest which has not already been paid on this Global Note.
+
+“**Exchange Date**” means a day falling not less than 60 days after that on which the notice requiring exchange is given and on which banks are open for general business in the city in which the specified office of the Principal Paying Agent is located and except in the case of exchange pursuant to (2) above in the cities in which Euroclear and Clearstream, Luxembourg or, if relevant, the Alternative Clearing System are located.
+
+Except as otherwise described herein, this Global Note is subject to the Conditions and the Trust Deed and, until it is exchanged for Definitive Notes, its holder shall be entitled to the same benefits as if it were the holder of the Definitive Notes for which it may be exchanged and as if such Definitive Notes had been issued on the date of this Global Note.
+
+The Conditions shall be modified with respect to Notes represented by this Global Note by the following provisions:
+
+**Payments**  
+Principal, any premium and interest in respect of this Global Note shall be paid to its holder against presentation and (if no further payment falls to be made on it) surrender of it to or to the order of the Principal Paying Agent in respect of the Notes (or to or to the order of such other Paying Agent as shall have been notified to the Noteholders for this purpose) and each payment so made will discharge the Issuer’s obligations in respect thereof. The Issuer shall procure that details of each such payment shall be entered pro rata in the records of the relevant Clearing Systems, but any failure to make the entries in the records of the relevant Clearing Systems shall not affect the discharge referred to above. References in the Conditions to Coupons and Couponholders sh all be construed accordingly. No person shall however be entitled to receive any payment on this Global Note falling due after the Exchange Date, unless exchange of this Global Note for Definitive Notes is improperly withheld or refused by or on behalf of the Issuer. Condition 5.7(b) and Condition 7.1(d) will apply to the Definitive Notes only.
+
+**Notices**  
+So long as this Global Note is held on behalf of Euroclear and/or Clearstream Luxembourg and/or the Alternative Clearing System, notices required to be given to Noteholders may be given by their being delivered to Euroclear and/or Clearstream, Luxembourg and/or, as the case may be, the Alternative Clearing System, rather than by publication as required by the Conditions and any such notice shall be deemed to have been given to the Noteholders on the second day after the day on which such notice is delivered to Euroclear and Clearstream, Luxembourg, or, as the case may be, the Alternative Clearing System.
+
+**Accountholders**  
+For so long as all of the Notes are represented by this Global Note and this Global Note is held on behalf of a relevant Clearing System, each person (other than a relevant Clearing System) who is for the time being shown in the records of the relevant Clearing System as the holder of a particular principal amount of such Notes (each an “**Accountholder**”) (in which regard any certificate or other document issued by a relevant Clearing System as to the principal amount of such Notes standing to the account of any person shall, in the absence of manifest error, be conclusive and binding for all purposes) shall be treated as the holder of such principal amount of such Notes for all purposes (including but not limited to, for the purposes of any quorum requirements of, or th e right to demand a poll at, meetings of the Noteholders and giving notice to the Issuer pursuant to Condition 9) other than with respect to the payment of principal and interest on such principal amount of such Notes, the right to which shall be vested, as against the Issuer and the Trustee, solely in the bearer of this Global Note in accordance with and subject to its terms and the terms of the Trust Deed. Each Accountholder must look solely to the relevant Clearing System for its share of each payment made to the bearer of this Global Note.
+
+**Prescription**  
+Claims in respect of principal, any premium and interest in respect of this Global Note will become void unless it is presented for payment within a period of 10 years (in the case of principal and premium) and five years (in the case of interest) from the appropriate Relevant Date (as defined in Condition 7).
+
+**Meetings**  
+For the purposes of any meeting of Noteholders, the holder hereof shall (unless this Global Note represents only one Note) be treated as two persons for the purposes of any quorum requirements of a meeting of Noteholders and, at any such meeting, as having one vote in respect of each £50,000 nominal amount of Notes for which this Global Note may be exchanged.
+
+**Purchase and Cancellation**  
+On cancellation of any Note represented by this Global Note which is required by the Conditions to be cancelled, the Issuer shall procure that details of such cancellation shall be entered pro rata in the records of the relevant Clearing Systems and, upon any such entry being made, the nominal amount of the Notes recorded in the records of the relevant Clearing Systems and represented by this Global Note shall be reduced by the aggregate nominal amount of the Notes so cancelled. Notes may only be purchased by the Issuer or any of its affiliates if (where they should be cancelled in accordance with the Conditions) they are purchased together with the right to receive interest thereon.
+
+**Trustee’s Powers**  
+In considering the interests of Noteholders in circumstances where this Global Note is held on behalf of any one or more of the relevant Clearing Systems, the Trustee may, to the extent it considers it appropriate to do so in the circumstances, (a) have regard to such information as may have been made available to it by or on behalf of each relevant Clearing System or its operator as to the identity of its accountholders (either individually or by way of category) with entitlements in respect of this Global Note and (b) consider such interests on the basis that such accountholders were the holder of this Global Note.
+
+**Redemption at the option of Noteholders on a Restructuring Event**
+
+For so long as this Global Note is held on behalf of any relevant Clearing System, the option of the Noteholders provided for in Condition 6.4 may be exercised by an Accountholder giving notice to the Principal Paying Agent in accordance with the standard procedures of the relevant Clearing System (which may include notice being given on his instructions by any relevant Clearing System or any common depositary for them to the Principal Paying Agent by electronic means) of the principal amount of the Notes in respect of which such option is exercised within the time limits relating to the deposit of Notes with a Paying Agent set out in that Condition. Following the exercise of any such option, the Issuer shall procure that the nominal amount of the Notes recorded in the records of the relevant Clearing Systems and represented by this Gl obal Note shall be reduced by the aggregate nominal amount stated in the relevant exercise notice.
+
+This Global Note shall not be valid or become obligatory for any purpose until authenticated by or on behalf of the Principal Paying Agent and effectuated by the entity appointed as Common Safekeeper by the relevant Clearing Systems.
+
+This Global Note, and any non-contractual obligations arising out of or in connection with it, is governed by and shall be construed in accordance with English law.
+
+In witness whereof the Issuer has caused this Global Note to be signed on its behalf.
+
+Dated 23 [[Date 1]]  
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+[[[[Organization 1 Name]] PLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] PLC Entity => By: [[[[Organization 1 Name]] PLC Signatory First Name]] [[[[Organization 1 Name]] PLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] PLC Signatory Title]]}}
+
+**Certificate of Authentication**  
+This Global Note is authenticated by or on behalf of the Principal Paying Agent.
+
+**[[Organization 7 Name]]**  
+as Principal Paying Agent  
+[[As Principal Paying Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Principal Paying Agent Entity => By: [[As Principal Paying Agent Signatory First Name]] [[As Principal Paying Agent Signatory Last Name]]
+Title: [[As Principal Paying Agent Signatory Title]]}}
+
+Authorised Signatory  
+For the purposes of authentication only.
+
+**Effectuation**  
+This Global Note is effectuated by or on behalf of the Common Safekeeper.
+
+**[[Organization 6 Name]] S.A./N.V.**  
+as Common Safekeeper  
+[[As Common Safekeeper Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Common Safekeeper Entity => By: [[As Common Safekeeper Signatory First Name]] [[As Common Safekeeper Signatory Last Name]]
+Title: [[As Common Safekeeper Signatory Title]]}}
+
+Authorised Signatory  
+For the purposes of effectuation only.   
+ANY UNITED STATES PERSON WHO HOLDS THIS OBLIGATION WILL BE SUBJECT TO LIMITATIONS UNDER THE UNITED STATES INCOME TAX LAWS, INCLUDING THE LIMITATIONS PROVIDED IN SECTIONS 165(j) AND 1287(a) OF THE INTERNAL REVENUE CODE.
+
+\centered **Schedule 3**
+
+\centered **Provisions for Meetings of Noteholders**
+
+**Interpretation**  
+
+In this Schedule:
+
+^^references to a meeting are to a meeting of Noteholders and include, unless the context otherwise requires, any adjournment
+
+^^“**agent**” means a holder of a voting certificate or a proxy for a Noteholder
+
+^^“**block voting instruction**” means an instruction issued in accordance with paragraphs 8 to 14
+
+^^“**Extraordinary Resolution**” means a resolution passed at a meeting duly convened and held in accordance with this Trust Deed by a majority of at least 75 per cent. of the votes cast
+
+^^“**voting certificate**” means a certificate issued in accordance with paragraphs 5, 6, 7 and 14 and
+
+^^references to persons representing a proportion of the Notes are to Noteholders or agents holding or representing in the aggregate at least that proportion in nominal amount of the Notes for the time being outstanding.
+
+**Powers of meetings**  
+
+^meeting shall, subject to the Conditions and without prejudice to any powers conferred on other persons by this Trust Deed, have power by Extraordinary Resolution:
+
+^^to sanction any proposal by the Issuer or the Trustee for any modification, abrogation, variation or compromise of, or arrangement in respect of, the rights of the Noteholders and/or the Couponholders against the Issuer, whether or not those rights arise under this Trust Deed
+
+^^to sanction the exchange or substitution for the Notes of, or the conversion of the Notes into, shares, notes or other obligations or securities of the Issuer or any other entity
+
+^^to assent to any modification of this Trust Deed, the Notes or the Coupons proposed by the Issuer or the Trustee
+
+^^to authorise anyone to concur in and do anything necessary to carry out and give effect to an Extraordinary Resolution
+
+^^to give any authority, direction or sanction required to be given by Extraordinary Resolution
+
+^^to appoint any persons (whether Noteholders or not) as a committee or committees to represent the Noteholders’ interests and to confer on them any powers or discretions which the Noteholders could themselves exercise by Extraordinary Resolution
+
+^^to approve a proposed new Trustee and to remove a Trustee
+
+^^to approve the substitution of any entity for the Issuer (or any previous substitute) as principal debtor under this Trust Deed and
+
+^^to discharge or exonerate the Trustee from any liability in respect of any act or omission for which it may become responsible under this Trust Deed, the Notes or the Coupons
+
+provided that the special quorum provisions in paragraph 19 shall apply to any Extraordinary Resolution (a “**special quorum resolution**”) for the purpose of sub-paragraph 2.2 or 2.8 or for the purpose of making a modification to this Trust Deed, the Notes or the Coupons which would have the effect of:
+
+^^^modifying the maturity of the Notes or the dates on which interest is payable on them or
+
+^^^modifying the outstanding nominal amount of, or interest on, or other amounts in respect of or reducing or altering the method of calculating the rate of interest on, or any redemption amount of, the Notes or
+
+^^^changing the currency of payment of the Notes or the Coupons or
+
+^^^modifying the provisions in this Schedule concerning the quorum required at a meeting or the majority required to pass an Extraordinary Resolution or
+
+^^^amending this proviso.
+
+**Convening a meeting**  
+
+The Issuer or the Trustee may at any time convene a meeting. If it receives a written request by Noteholders holding at least 10 per cent. in nominal amount of the Notes for the time being outstanding and is indemnified and/or secured and/or prefunded to its satisfaction against all costs and expenses, the Trustee shall convene a meeting. Every meeting shall be held at a time and place approved by the Trustee.
+
+At least 21 days’ notice (exclusive of the day on which the notice is given and of the day of the meeting) shall be given to the Noteholders. A copy of the notice shall be given by the party convening the meeting to the other parties. The notice shall specify the day, time and place of meeting and, unless the Trustee otherwise agrees, the nature of the resolutions to be proposed and shall explain how Noteholders may appoint proxies or representatives, obtain voting certificates and use block voting instructions and the details of the time limits applicable.
+
+**Arrangements for voting**  
+
+If a holder of a Note wishes to obtain a voting certificate in respect of it for a meeting, he must deposit it for that purpose at least 48 hours before the time fixed for the meeting with a Paying Agent or to the order of a Paying Agent with a bank or other depositary nominated by the Paying Agent for the purpose. The Paying Agent shall then issue a voting certificate in respect of it.
+
+^voting certificate shall:
+
+^^be a document in the English language
+
+^^be dated
+
+^^specify the meeting concerned and the serial numbers of the Notes deposited and
+
+^^entitle, and state that it entitles, its bearer to attend and vote at that meeting in respect of those Notes.
+
+Once a Paying Agent has issued a voting certificate for a meeting in respect of a Note, it shall not release the Note until either:
+
+^^the meeting has been concluded or
+
+^^the voting certificate has been surrendered to the Paying Agent.
+
+If a holder of a Note wishes the votes attributable to it to be included in a block voting instruction for a meeting, then, at least 48 hours before the time fixed for the meeting, (i) he must deposit the Note for that purpose with a Paying Agent or to the order of a Paying Agent with a bank or other depositary nominated by the Paying Agent for the purpose and (ii) he or a duly authorised person on his behalf must direct the Paying Agent how those votes are to be cast. The Paying Agent shall issue a block voting instruction in respect of the votes attributable to all Notes so deposited.
+
+^block voting instruction shall:
+
+^^be a document in the English language
+
+^^be dated
+
+^^specify the meeting concerned
+
+^^list the total number and serial numbers of the Notes deposited, distinguishing with regard to each resolution between those voting for and those voting against it
+
+^^certify that such list is in accordance with Notes deposited and directions received as provided in paragraphs 8, 11 and 14 and
+
+^^appoint a named person (a “**proxy**”) to vote at that meeting in respect of those Notes and in accordance with that list.
+
+^proxy need not be a Noteholder.  
+
+Once a Paying Agent has issued a block voting instruction for a meeting in respect of the votes attributable to any Notes:
+
+^^it shall not release the Notes, except as provided in paragraph 11, until the meeting has been concluded and
+
+^^the directions to which it gives effect may not be revoked or altered during the 48 hours before the time fixed for the meeting.
+
+If the receipt for a Note deposited with a Paying Agent in accordance with paragraph 8 is surrendered to the Paying Agent at least 48 hours before the time fixed for the meeting, the Paying Agent shall release the Note and exclude the votes attributable to it from the block voting instruction.
+
+Each block voting instruction shall be deposited at least 24 hours before the time fixed for the meeting at such place as the Trustee shall designate or approve, and in default it shall not be valid unless the chairman of the meeting decides otherwise before the meeting proceeds to business. If the Trustee requires, a notarially certified copy of each block voting instruction shall be produced by the proxy at the meeting but the Trustee need not investigate or be concerned with the validity of the proxy’s appointment.
+
+^vote cast in accordance with a block voting instruction shall be valid even if it or any of the Noteholders’ instructions pursuant to which it was executed has previously been revoked or amended, unless written intimation of such revocation or amendment is received from the relevant Paying Agent by the Issuer or the Trustee at its registered office or by the chairman of the meeting in each case at least 24 hours before the time fixed for the meeting.
+
+No Note may be deposited with or to the order of a Paying Agent at the same time for the purposes of both paragraph 5 and paragraph 8 for the same meeting.
+
+**Chairman**  
+
+The chairman of a meeting shall be such person as the Trustee may nominate in writing, but if no such nomination is made or if the person nominated is not present within 15 minutes after the time fixed for the meeting the Noteholders or agents present shall choose one of their number to be chairman, failing which the Issuer may appoint a chairman.
+
+The chairman may, but need not, be a Noteholder or agent. The chairman of an adjourned meeting need not be the same person as the chairman of the original meeting.
+
+**Attendance**  
+
+The following may attend and speak at a meeting:
+
+^^Noteholders and agents
+
+^^the chairman
+
+^^the Issuer and the Trustee (through their respective representatives) and their respective financial and legal advisers.
+
+No-one else may attend or speak.  
+**Quorum and Adjournment**  
+
+No business (except choosing a chairman) shall be transacted at a meeting unless a quorum is present at the commencement of business. If a quorum is not present within 15 minutes from the time initially fixed for the meeting, it shall, if convened on the requisition of Noteholders or if the Issuer and the Trustee agree, be dissolved. In any other case it shall be adjourned until such date, not less than 14 nor more than 42 days later, and time and place as the chairman may decide. If a quorum is not present within 15 minutes from the time fixed for a meeting so adjourned, the meeting shall be dissolved.
+
+Two or more Noteholders or agents present in person shall be a quorum:
+
+^^in the cases marked “**No minimum proportion**” in the table below, whatever the proportion of the Notes which they represent
+
+^^in any other case, only if they represent the proportion of the Notes shown by the table below.
+
+**Column 1**   **Column 2**   **Column 3**
+Purpose of meeting   Any meeting except one referred to in column 3   Meeting previously adjourned through want of a quorum
+Required proportion   Required proportion
+To pass a special quorum resolution   75 per cent.   25 per cent.
+To pass any other Extraordinary Resolution   A clear majority   No minimum proportion
+Any other purpose   10 per cent.   No minimum proportion
+
+The chairman may with the consent of (and shall if directed by) a meeting adjourn the meeting from time to time and from place to place. Only business which could have been transacted at the original meeting may be transacted at a meeting adjourned in accordance with this paragraph or paragraph 18.
+
+At least 10 days’ notice of a meeting adjourned through want of a quorum shall be given in the same manner as for an original meeting and that notice shall state the quorum required at the adjourned meeting. No notice need, however, otherwise be given of an adjourned meeting.
+
+**Voting**  
+
+Each question submitted to a meeting shall be decided by a show of hands unless a poll is (before, or on the declaration of the result of, the show of hands) demanded by the chairman, the Issuer, the Trustee or one or more persons representing 2 per cent. of the Notes.
+
+Unless a poll is demanded a declaration by the chairman that a resolution has or has not been passed shall be conclusive evidence of the fact without proof of the number or proportion of the votes cast in favour of or against it.
+
+If a poll is demanded, it shall be taken in such manner and (subject as provided below) either at once or after such adjournment as the chairman directs. The result of the poll shall be deemed to be the resolution of the meeting at which it was demanded as at the date it was taken. A demand for a poll shall not prevent the meeting continuing for the transaction of business other than the question on which it has been demanded.
+
+^poll demanded on the election of a chairman or on a question of adjournment shall be taken at once.
+
+On a show of hands every person who is present in person and who produces a Note or a voting certificate or is a proxy has one vote. On a poll every such person has one vote for each £50,000 nominal amount of Notes so produced or represented by the voting certificate so produced or for which he is a proxy or representative. Without prejudice to the obligations of proxies, a person entitled to more than one vote need not use them all or cast them all in the same way.
+
+In case of equality of votes the chairman shall both on a show of hands and on a poll have a casting vote in addition to any other votes which he may have.
+
+**Effect and Publication of an Extraordinary Resolution**
+
+An Extraordinary Resolution shall be binding on all the Noteholders, whether or not present at the meeting, and on all the Couponholders and each of them shall be bound to give effect to it accordingly. The passing of such a resolution shall be conclusive evidence that the circumstances justify its being passed. The Issuer shall give notice of the passing of an Extraordinary Resolution to Noteholders within 14 days but failure to do so shall not invalidate the resolution.
+
+**Minutes**  
+
+Minutes shall be made of all resolutions and proceedings at every meeting and, if purporting to be signed by the chairman of that meeting or of the next succeeding meeting, shall be conclusive evidence of the matters in them. Until the contrary is proved every meeting for which minutes have been so made and signed shall be deemed to have been duly convened and held and all resolutions passed or proceedings transacted at it to have been duly passed and transacted.
+
+**Written Resolutions**  
+
+^written resolution signed by the holders of 90 per cent. in principal amount of the Notes outstanding shall take effect as if it were an Extraordinary Resolution. Such a resolution in writing may be contained in one document or several documents in the same form, each signed by or on behalf of one or more Noteholders.
+
+**Trustee’s Power to Prescribe Regulations**
+
+Subject to all other provisions in this Trust Deed the Trustee may without the consent of the Noteholders prescribe such further regulations regarding the holding of meetings and attendance and voting at them as it in its sole discretion determines including (without limitation) such requirements as the Trustee shall prescribe to satisfy itself that the persons who purport to make any requisition in accordance with this Trust Deed are entitled to do so and as to the form of voting certificates or block voting instructions so as to satisfy itself that persons who purport to attend or vote at a meeting are entitled to do so.
+
+This Trust Deed is delivered on the date stated at the beginning.
+
+**[[Organization 1 Name]] (SOUTH WEST) PLC**
+
+[[[[Organization 1 Name]] PLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] PLC Entity => By: [[[[Organization 1 Name]] PLC Signatory First Name]] [[[[Organization 1 Name]] PLC Signatory Last Name]]
+Title: [[[[Organization 1 Name]] PLC Signatory Title]]}}
+
+
+**Executed as a deed by**  
+**[[Organization 2 Name]] (UK) LIMITED**
+
+**acting by its attorney** LETICIA ACEVEDO  
+**in the presence of** [[Person 1 First Name]] [[Person 1 Last Name]]
+
+**Address:** 8 CANADA SQUARE, LEVEL 24, [[Address 3: Address]]
+
+**Occupation:** [[Organization 10 Name]] AGENCY

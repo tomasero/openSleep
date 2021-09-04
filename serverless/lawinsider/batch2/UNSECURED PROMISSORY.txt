@@ -1,0 +1,55 @@
+\centered 
+
+\centered **UNSECURED PROMISSORY NOTE**
+
+**PRINCIPAL AMOUNT:**    $[[USD Value 1: Number]]
+
+**LOAN DATE**:    APRIL 23, 2010
+
+**INTEREST RATE:**    [[Percentage 1: Number]]% SIMPLE INTEREST
+
+**BORROWER:**    [[Organization 1 Name]]
+
+**LENDERS:**    [[Person 1 First Name]] [[Person 1 Last Name]]
+
+**PAYMENT**:    ON OR BEFORE APRIL 23, 2011
+
+^Principal Repayment. For value received, [[Organization 1 Name]], a Nevada corporation (the “Borrower”) hereby unconditionally promises to pay to the order of [[Person 1 First Name]] [[Person 1 Last Name]] (the “Lender”), the principal amount of eight thousand sixty three dollars ($[[USD Value 1]]), with simple interest accruing at a annual rate of [[Percentage 1]]% thereon. The principal amount is due and payable on or before the twelve month anniversary hereof (the “Due Date”).
+
+^Payment Terms. Borrower shall pay the principal and any accrued interest in full on or before Due Date.
+
+^Default. Borrower will be in default if any of the following occur: 
+
+^^Borrower fails to make the Principal Repayment when due; 
+
+^^Borrower breaks any promise Borrower has made to Lender in this Note or Borrower fails to perform promptly at the time and strictly in the manner provided in this Note; 
+
+^^Any representation or statement made or furnished to Lender by Borrower or on Borrower's behalf in connection with this Note is false or misleading in any material respect; or, 
+
+^^^receiver is appointed for any part of Borrower's property, Borrower makes an assignment for the benefit of creditors, or any proceeding is commenced either by Borrower or against Borrower under any Bankruptcy or insolvency laws seeking the liquidation or reorganization of Borrower and such proceeding is not dismissed within 60 days after such filing.
+
+^Borrower’s Right to Prepay. Borrower may pay without penalty, all or a portion of the amount owed earlier that it is due. Any prepayment shall be first applied against any accrued and unpaid interest and then to reduce the amount of principal due under this Note.
+
+^Waiver of Demand, Presentment, etc. The Borrower hereby expressly waives demand and presentment for payment, notice of nonpayment, protest, notice of protest, notice of dishonor, notice of acceleration or intent to accelerate, bringing of suit and diligence in taking any action to collect amounts called for hereunder and shall be directly and primarily liable for the payment of all sums owing and to be owing hereunder, regardless of and without any notice, diligence, act or omission as or with respect to the collection of any amount called for hereunder.
+
+^Payment. Except as otherwise provided for herein, all payments with respect to this Note shall be made in lawful currency of the United States of America by check or wire transfer of immediately available funds, at the option of the Lender, at the principal office of the Lender or such other place or places or designated accounts as may be reasonably specified by the Lender of this Note in a written notice to the Borrower at least one (1) business day prior to payment. 
+
+^Assignment. The rights and obligations of the Borrower and the Lender of this Note shall be binding upon, and inure to the benefit of, the permitted successors, assigns, heirs, administrators and transferees of the parties hereto.
+
+^Waiver and Amendment. Any provision of this Note, including, without limitation, the due date hereof, and the observance of any term hereof, may be amended, waived or modified (either generally or in a particular instance and either retroactively or prospectively) only with the written consent of the Borrower and the Lender
+
+^Notices. Any notice, request or other communication required or permitted hereunder shall be in writing and shall be deemed to have been duly given if personally delivered or mailed by registered or certified mail, postage prepaid, or delivered by facsimile transmission, to the Borrower at the address or facsimile number set forth herein or to the Lender at its address or facsimile number set forth in the records of the Borrower. Any party hereto may by notice so given change its address for future notice hereunder. Notice shall conclusively be deemed to have been given when personally delivered or when deposited in the mail in the manner set forth above and shall be deemed to have been received when delivered or, if notice is given by facsimile transmission, when delivered with confirmation of receipt.
+
+^Severability. If one or more provisions of this Note are held to be unenforceable under applicable law, such provisions shall be excluded from this Note, and the balance of this Note shall be interpreted as if such provisions were so excluded and shall be enforceable in accordance with its terms.
+
+^Headings. Section headings in this Note are for convenience only, and shall not be used in the construction of this Note.
+
+**IN WITNESS WHEREOF**, the Borrower has caused this Note to be issued as of the date first above written.
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+

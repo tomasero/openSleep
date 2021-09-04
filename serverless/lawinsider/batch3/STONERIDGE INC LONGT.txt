@@ -1,0 +1,143 @@
+\centered **[[Organization 1 Name]]**
+
+\centered **LONG-TERM CASH INCENTIVE PLAN**
+
+\centered **2010 PHANTOM SHARE GRANT AGREEMENT**
+
+[[Organization 1 Name]], an Ohio corporation (the “Company”), pursuant to the terms and conditions hereof, hereby grants to ______________(“Grantee”) the right to receive an amount of cash equal to the value of XXXX Common Shares, without par value, of the Company (the “Phantom Shares”). The grant of Phantom Shares (the “Award”), as embodied by this Agreement (the “Agreement”), is described below.
+
+^The Phantom Shares are in all respects subject to the terms, conditions and provisions of this Agreement and the Company’s Long-Term Cash Incentive Plan (the “Plan”).
+
+^The Phantom Shares shall be phantom (notional) Common Shares of the Company. Subject to the satisfaction of the applicable performance criteria, a Phantom Share shall entitle Grantee to the right to an amount of cash equal to (i) the Fair Market Value of a Common Share as of the Vesting Date (as set forth in Section 3 below), plus (ii) any Dividend Equivalent Rights (“DERs”) relating to the Phantom Shares. Such amount in satisfaction of the vested Phantom Shares and related DERs shall be paid to Grantee in cash, less withholding obligations, as promptly as practical on or after [[Date 1: Date]], but no in event later than [[Date 2: Date]].
+
+For purposes of this Agreement, DERs shall mean a contingent right, automatically granted in tandem with a Phantom Share, to the right to an amount in cash equal to the cash distributions made by the Company with respect to Common Shares during the period from [[Date 3: Date]], through [[Date 1]], and subject to the same vesting conditions as the related Phantom Shares. The Company shall track DERs by providing to Grantee a credit under a bookkeeping account (without interest) equal to cash distributions made by the Company with respect to Common Shares at the respective time(s) such distributions are made to holders of Common Shares.
+
+For purpose of this Agreement, “Fair Market Value” of a Common Share shall mean as of a given date (in order of applicability): (i) the closing price of a Common Share on the principal exchange on which the Common Shares are then trading, if any, on the day immediately prior to such date, or if Common Shares were not traded on the day previous to such date, then on the next preceding trading day during which a sale occurred; or (ii) if Common Shares are not traded on an exchange but are quoted on NASDAQ or a successor quotation system, (A) the last sale price (if Common Shares are then listed as a National Market Issue under the NASD National Market System) or (B) if Common Shares are not then so listed, the mean between the closing representative bid and asked prices for Common Shares on the day previous to such date as reported by NASDAQ or such successor quotation system; or (iii) if Common Shares are not publicly traded on an exchange and not quoted on NASDAQ or a successor quotation system, the mean between the closing bid and asked prices for Common Shares, on the day previous to such date, as determined in good faith by the Compensation Committee of the Board of Directors (the “Committee”); or (iv) if Common Shares are not publicly traded, the fair market value established by the Committee acting in good faith.
+
+^The Phantom Shares may not be sold, transferred, pledged, assigned or otherwise encumbered, whether voluntarily, involuntarily or by operation of law, and, except in the case of (i) retirement, (ii) death, (iii) Permanent Disability (as defined in the Plan), (iv) Change in Control (as defined in the Plan) or (v) termination without cause, each as provided below, will be forfeited to the Company on [[Date 1]] if (a) the Grantee is not employed with the Company on the Vesting Date (defined below), or (ii) the applicable performance criteria has not been satisfied. 
+
+**Special Provisions Applicable to Retirement**.
+
+Subject to the conditions in the next paragraph, in the case of retirement, the Phantom Shares shall not be forfeited as a result of the retirement but shall be vested upon satisfaction of the performance criteria applicable to the Award, and shall be settled in cash as promptly as practical after [[Date 1]], but in no event later than [[Date 2]].
+
+Only a Grantee who (i) is 63 or older at the time of retirement, (ii) has provided written notice to the Committee of the intent to retire at least one year prior to the retirement date, and (iii) has executed prior to retirement a customary one year non-competition agreement, shall be permitted to vest Phantom Shares upon retirement.
+
+If the Grantee is employed by the Company on the Vesting Date the Phantom Shares shall vest and will no longer be subject to a substantial risk of forfeiture in the amounts set forth below:
+
+**Award**   **EPS Performance and Time-Based Vesting**
+
+Vesting Date      Maximum Number of Phantom Shares that May Vest
+
+[[Date 1]]      XXXX (1/3 for each of 2010, 2011 and 2012)
+
+**Maximum Number of 2010 Phantom Shares that May Vest**:
+
+If Earnings Per Share (“EPS”) for the 2010 calendar year equals or exceeds $(0.125) (the “2010 Maximum Threshold”), then [[Organization 2 Name]] Shares shall vest conditionally, contingent upon Grantee’s continued employment with the Company through the Vesting Date.
+
+If EPS for the 2010 calendar year exceeds $(0.25) (the “2010 Target Threshold”) but is less than $(0.125), then the number of Phantom Shares that shall vest shall be ZZZ Phantom Shares plus the result of the following calculation: AAA times (the Company’s aggregate EPS for 2010 less $(0.25)) divided by .125. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2010 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2010 calendar year equals the 2010 Target Threshold, then the number of Phantom Shares that shall vest shall be ZZZ Phantom Shares. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2010 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2010 calendar year exceeds $(0.375) (the “2010 Minimum Threshold”) but is less than $(0.25), then the number of Phantom Shares that shall vest shall be AAA Phantom Shares plus the result of the following calculation: AAA times (the Company’s aggregate EPS for 2010 less $(0.375)) divided by .125. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2010 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2010 calendar year equals the 2010 Minimum Threshold, then the number of Phantom Shares that shall vest shall be AAA Phantom Shares. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2010 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2010 calendar year is less than the 2010 Minimum Threshold, then [[Organization 2 Name]] Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+**NOTE:**   The following sections applicable to 2011 and 2012 performancevesting are subject to the 2011 and 2012 Addenda to thisAgreement.
+
+**Maximum Number of 2011 Phantom Shares that May Vest**:
+
+If EPS for the 2011 calendar year equals or exceeds the 2011 Maximum Threshold (as set forth in the 2011 Addendum to this Agreement), then all [[Organization 2 Name]] Shares shall vest conditionally, contingent upon Grantee’s continued employment with the Company through the Vesting Date.
+
+If EPS for the 2011 calendar year exceeds the 2011 Target Threshold (as set forth in the 2011 Addendum to this Agreement), but is less than the 2011 Maximum Threshold, then the number of Phantom Shares that shall vest shall be ZZZ Phantom Shares plus the result of the following calculation: AAA times (the difference between the Company’s aggregate EPS for 2011 and the 2011 Target Threshold) divided by (the difference between the 2011 Maximum Threshold and the 2011 Target Threshold). Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2011 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2011 calendar year equals the 2011 Target Threshold (as set forth in the 2011 Addendum to this Agreement), then the number of Phantom Shares that shall vest shall be ZZZ Phantom Shares. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2011 Phantom Shares that shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2011 calendar year exceeds the 2011 Minimum Threshold (as set forth in the 2011 Addendum to this Agreement), but is less than the 2011 Target Threshold, then the number of Phantom Shares that shall vest shall be AAA Phantom Shares plus the result of the following calculation: AAA times (the difference between the Company’s aggregate EPS for 2011 and the 2011 Minimum Threshold) divided by (the difference between the 2011 Target Threshold and the 2011 Minimum Threshold). Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2011 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2011 calendar year equals the 2011 Minimum Threshold, then the number of Phantom Shares that shall vest shall be AAA Phantom Shares. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2011 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2011 calendar year is less than the 2011 Minimum Threshold, then [[Organization 2 Name]] Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+**Maximum Number of 2012 Phantom Shares that May Vest**:
+
+If EPS for the 2012 calendar year equals or exceeds the 2012 Maximum Threshold (as set forth in the 2012 Addendum to this Agreement), then all [[Organization 2 Name]] Shares shall vest.
+
+If EPS for the 2012 calendar year exceeds the 2012 Target Threshold (as set forth in the 2012 Addendum to this Agreement), but is less than the 2012 Maximum Threshold, then the number of Phantom Shares that shall vest shall be ZZZ Phantom Shares plus the result of the following calculation: AAA times (the difference between the Company’s aggregate EPS for 2012 and the 2012 Target Threshold) divided by (the difference between the 2012 Maximum Threshold and the 2012 Target Threshold). Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2012 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2012 calendar year equals the 2012 Target Threshold, then the number of Phantom Shares that shall vest shall be ZZZ Phantom Shares. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2012 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2012 calendar year exceeds the 2012 Minimum Threshold (as set forth in the 2012 Addendum to this Agreement), but is less than the 2012 Target Threshold, then the number of Phantom Shares that shall vest shall be AAA Phantom Shares plus the result of the following calculation: AAA times (the difference between the Company’s aggregate EPS for 2012 and the 2012 Minimum Threshold) divided by (the difference between the 2012 Target Threshold and the 2012 Minimum Threshold). Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2012 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2012 calendar year equals the 2012 Minimum Threshold, then the number of Phantom Shares that shall vest shall be AAA Phantom Shares. Such vesting shall be conditional, contingent upon Grantee’s continued employment with the Company through the Vesting Date. The remaining 2012 Phantom Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+If EPS for the 2012 calendar year is less than the 2012 Minimum Threshold, then [[Organization 2 Name]] Shares shall be forfeited on [[Date 1]], unless otherwise vested under Section 5.
+
+Earnings Per Share (“EPS”) under this Agreement shall be the aggregate fully diluted earnings per Common Share of the Company calculated in accordance with generally accepted accounting principals, excluding any adjustments for goodwill impairments and the tax effect thereof.
+
+The 2011 and 2012 Addenda to this Agreement shall be appended to this Agreement and incorporated herein by reference, effective upon their respective adoption by the Committee.
+
+^Notwithstanding the foregoing, in addition to the vesting of the Phantom Shares set forth above, the Phantom Shares shall no longer be subject to a substantial risk of forfeiture and shall vest upon the occurrence of an event described below.
+
+^^The Phantom Shares shall vest and not be forfeited in the event of:
+
+^^the Grantee’s death or Permanent Disability in proportion to the number of months, including any partial month, elapsed in the vesting period divided by 36;
+
+^^a Change in Control of the Company; or
+
+^^the termination “without cause” of the Grantee’s employment by the Company; provided, however only in proportion to the number of months, including any partial month, elapsed in the vesting period divided by 36.
+
+Subject to the pro rata provisions for death, Permanent Disability and termination without cause set forth above, in the event of the Grantee’s death, Permanent Disability or termination without cause the Phantom Shares granted under the Award shall vest in amounts in accordance with the Company’s actual EPS for each of 2010, 2011, and 2012 as determined under the EPS performance conditions of Section 3. Cash payment in satisfaction of the vested Phantom Shares shall be paid to the Grantee or the Grantee’s estate on [[Date 1]] or as promptly as practical thereafter, but no in event later than [[Date 2]]. In the event of a Change in Control of the Company, the Phantom Shares shall vest in amounts which assume the Company’s EPS satisfied the respective 2010, 2011 and 2012 Target Thresholds. Cash payment in satisfaction of the vested Phantom Shares shall be delivered to the Grantee as promptly as practical after the Change in Control but in no event later than 30 days following the Change in Control; provided, however, if the Grantee is eligible to retire from the Company and not forfeit his or her Phantom Shares under Section 3 under the heading “Special Provisions Applicable to Retirement,” then the cash payment in the event of a Change in Control will be made on [[Date 1]], or as promptly as practical thereafter but in no event later than [[Date 2]].
+
+^^^Termination shall be deemed to be “without cause” unless the Board of Directors of the Company, or its designee, in good faith determines that termination is because of any one or more of the following, in which case such termination shall be deemed to be for “cause”:
+
+The Grantee’s:  
+^^fraud;
+
+^^misappropriation of funds from the Company;
+
+^^commission of a felony or of an act or series of acts which result in material injury to the business reputation of the Company;
+
+^^commission of a crime or act or series of acts involving moral turpitude;
+
+^^commission of an act or series of repeated acts of dishonesty that are materially inimical to the best interests of the Company;
+
+^^willful and repeated failure to perform his duties, which failure has not been cured within fifteen (15) days after the Company gives notice thereof to the Grantee;
+
+^^material breach of any material provision of an employment agreement, if any, which breach has not been cured in all substantial respects within ten (10) days after the Company gives notice thereof to the Grantee; or
+
+^^failure to carry out the reasonable directions or instructions of the Grantee’s superiors, provided the directions or instructions are consistent with the duties of the Grantee’s office, which failure has not been cured in all substantial respects within ten (10) days after the Company gives notice thereof to the Grantee.
+
+Provided, however, the Company’s obligation to provide notice and an opportunity to cure, pursuant to subsections 5(ii)(f)-(h) above, shall only apply to the Grantee’s first breach, first failure to perform or first failure to follow directions, as the case may be, of the nature giving rise to the right of the Company to provide notice thereof.
+
+^^^In addition, the Grantee may terminate his employment with the Company, and such termination shall be deemed a termination by the Company “without cause” if:
+
+^^the Company reduces the Grantee’s title, responsibilities, power or authority in comparison with his title, responsibilities, power or authority on the date hereof;
+
+^^the Company assigns the Grantee duties which are inconsistent with the duties assigned to the Grantee on the date hereof and which duties the Company persists in assigning to the Grantee despite the prior written objection of the Grantee; or
+
+^^the Company reduces the Grantee’s annual base compensation (unless such decrease is proportionate with a decrease in the base compensation of the officers of the Company as a group), or materially reduces his group health, life, disability or other insurance programs, his pension, retirement or profit-sharing benefits or any benefits provided by the Company, or excludes him from any plan, program or arrangement, including but not limited to bonus or incentive plans.
+
+^Upon any change in the number or kind of outstanding Common Shares of the Company by reason of a recapitalization, merger, consolidation, reorganization, separation, liquidation, share split, share dividend, combination of shares or any other change in the corporate structure or Common Shares of the Company, the Company, by action of the Committee, is empowered to make such adjustment, if any, in the number and kind of Phantom Shares subject to this Agreement as it considers appropriate for the protection of the Company and of the Grantee.
+
+^No later than the date as of which an amount first becomes includable in the gross income of the Grantee for federal income tax purposes with respect to the Phantom Shares granted hereunder, the Grantee shall pay to the Company, or make arrangements satisfactory to the Committee regarding the payment of, any federal, state or local taxes of any kind required by law to be withheld with respect to that amount. The making of that payment or those arrangements is a condition to the obligations of the Company under the Plan, and the Company and its subsidiaries and affiliates may, to the extent permitted by law, deduct any taxes from any payment of any kind otherwise payable to the Grantee.
+
+^Nothing in this Agreement shall affect in any manner any conflicting or other provision of any other agreement between the Grantee and the Company. Nothing contained in this Agreement shall limit whatever right the Company might otherwise have to terminate the employment of the Grantee.
+
+^The laws of the State of Ohio govern this Agreement, the Plan and the Phantom Shares granted hereby.
+
+^This Agreement shall be binding upon Grantee, Grantee’s legal representatives, heirs, delegates and distributes, and upon the Company, its successors and assigns.
+
+^Nothing in this Agreement shall affect the right of the Company (or any subsidiary thereof) to terminate the employment of the Grantee at any time for any, or no, reason, or confer upon Grantee the right to continued employment with the Company (or any subsidiary thereof).
+
+IN WITNESS WHEREOF, the Company has caused its corporate name to be subscribed by its duly authorized officer as of the [[Date 4: Date]].
+
+**[[Organization 1 Name]]**
+
+By
+[[Person 1 First Name]] [[Person 1 Last Name]]
+
+The foregoing is hereby accepted.  
+
+(Signature)

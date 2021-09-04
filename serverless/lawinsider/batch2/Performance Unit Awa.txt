@@ -1,0 +1,118 @@
+\centered **Performance Unit Award Agreement Pursuant to the [[Organization 1 Name]] Equity Plan 2010-2012 Grant** 
+
+THIS AGREEMENT (this “Agreement” ) is made, effective as of the [[Date 1: Date]] (the “Grant Date”) , between [[Organization 1 Name]] (the “Company” ) and [NAME] (the “Participant” ). 
+
+WHEREAS, pursuant to the [[Organization 1 Name]] Equity Plan (the “Plan”), the Participant has been granted an award of [] Performance Units (as defined in the Plan) on the date hereof on the terms and subject to the conditions set forth in this Agreement; 
+
+WHEREAS, in consideration for this award of Performance Units, the Participant agrees to accept the restrictions set forth herein; 
+
+NOW THEREFORE, in consideration of mutual covenants the parties hereto agree as follows: 
+
+^Definitions: Capitalized terms used but not defined in this Agreement have the meanings given to such terms in the Plan. As used in this Agreement, the following terms shall have the meanings set forth below: 
+
+“Annualized Return on Equity” means the Company’s average annual return on equity over the Award Period (as defined below). 
+
+“Earned Value” means the product of (a) the Value of the Performance Units (as determined pursuant to Section 3 below) and (b) the Performance Percentage (as determined pursuant to Section 5 below). 
+
+“Minimum Threshold” means the average daily yield on the 10 Year Treasury Note (as reported in the Bloomberg GT10 index) over the Award Period. 
+
+“Modified Operating Income” means the total of (a) net income minus (b) realized gains/(losses) minus (c) hedge fund investment income plus (d) 30 Year ‘A’ Bond investment income (as reported in the Bloomberg C00730 index) substituted for equities/hedge fund performance (valued quarterly), each as calculated on an after-tax basis. 
+
+“Modified Operating Return on Equity” means (a) Modified Operating Income divided by (b) the Company’s GAAP Book Value as of the first business day of the applicable calendar year. 
+
+^^^^^ 
+^Award Period: The Award Period shall be [[Date 2: Date]] through [[Date 3: Date]]. 
+
+^Value of Performance Units: On the Grant Date, each Performance Unit shall have a Value of $100.00. Thereafter, except as provided in Section 8(b) below, each Performance Unit shall have a Value equal to result of the following equation: $100.00 x (1.00 + annualized Modified Return on Equity)^3. 
+
+^Performance Objective: The Performance Objective shall be annualized Modified Operating Return on Equity over the Award Period. 
+
+^Performance Percentage: The Performance Percentage shall be dependent on the extent to which the Performance Objective is attained, and shall be determined as follows: 
+
+\centered 
+
+Performance Objective    Performance Percentage [[Percentage 1: Number]]% or lower    [[Percentage 2: Number]]% [[Percentage 3: Number]]%    [[Percentage 4: Number]]% [[Percentage 5: Number]]% or higher    [[Percentage 6: Number]]%  
+
+For annualized percentage growth between [[Percentage 1]]% and [[Percentage 5]]%, the Performance Percentage will be determined on the basis of straight line interpolation. 
+
+^Award Payment: Subject to Section 9(g) of the Plan and Sections 7 and 8 of this Agreement, as soon as practicable following the end of the Award Period (but in no event later than [[Date 4: Date]] of the year following the last day of the Award Period), the Committee shall cause an amount equal to the Earned Value of the Performance Units earned by the Participant to be paid to such Participant or his or her beneficiary; provided, however, that the Participant shall not be entitled to any payment with respect to the Performance Units unless the Company’s Annualized Return on Equity exceeds the Minimum Threshold. 
+
+^Termination of Employment: (a) Except as provided in Sections 7(b) and 8 of this Agreement, the Performance Units shall be canceled, and no payment shall be payable hereunder, if the Participant’s continuous employment with the Company or any of its subsidiaries shall terminate for any reason prior to the end of the Award Period. 
+
+^^If the Participant shall die, become Disabled, be granted a leave of absence or retire, or if the Participant’s continuous employment with the Company or any of its subsidiaries is otherwise terminated in a manner no seriously detrimental to the Company, in each case as determined by the Committee, the Performance Units shall be immediately canceled; provided that, the Committee, in its sole discretion, may determine to make a payment to the Participant in respect of some or all of such canceled Performance Units. 
+
+^^^^^ 
+^Change in Control: (a) If, within 24 months after a Change in Control, the Participant experiences a Termination Without Cause or a Constructive Termination, then with respect to Performance Units that were outstanding on the date of the Termination Without Cause or the Constructive Termination, each such Performance Unit shall be immediately canceled and, in respect thereof, the Participant shall be entitled to receive a payment equal to the product of (i) the number of Performance Units, multiplied by (ii) the Value of a Performance Unit on the date the Termination Without Cause or the Constructive Termination occurs (calculated pursuant to Section 8(b) below)), multiplied by (iii) a Performance Percentage determined based on the extent to which the Performance Objective has been achieved as of the last day of the calendar quarter ending prior to the date the Termination Without Cause or the Constructive Termination occurs. 
+
+^^For purposes of clause (ii) of Section 8(a) above, the Value of a Performance Unit shall be calculated pursuant to the second sentence of Section 3 above, except that the Value shall be annualized through the last day of the calendar quarter ending prior to the date of the Termination Without Cause or the Constructive Termination. 
+
+^^If, following a Change in Control, the Participant’s employment remains continuous through the end of an Award Period, then the Participant shall be paid with respect to such Performance Units for which he or she would have been paid had there not been a Change in Control and the Earned Value shall be determined in accordance with Section 6 above. 
+
+^Successor Requirement: This Agreement shall inure to the benefit of and be binding upon the Company and its successors and assigns. The Company shall request any purchaser of a business unit in which the Participant is employed (a “ Purchaser” ), to fully assume the obligations of the Company under this Agreement. If a Purchaser declines to assume such obligations, the Company shall remain obligated under the terms of this Agreement and the Committee, in its sole discretion, may elect to cancel the Agreement and to make a payment based on the applicable measures at the time of purchase. 
+
+^Withholding: The Company shall be entitled to require, as a condition to any payment with respect to the Performance Units, that the Participant remit an amount in cash sufficient to satisfy all applicable withholding taxes relating thereto as determined by the Company; provided that, the Company may elect to allow the Participant to satisfy the obligation to pay any such withholding tax, in whole or in part, by having the Company retain cash upon the payment of the Participant’s Earned Value to cover the amount of such withholding tax. Notwithstanding the foregoing, the Company and each of its affiliates shall have the right and are hereby authorized to withhold the amount (in cash or, in the discretion of the Committee, Shares, other securities, other awards or other property) of any applicable withholding taxes as determined by the Company in respect of the Performance Units and to take such other action as may be necessary in the discretion of the Committee to satisfy all obligations for the payment of such taxes. 
+
+^^^^^ 
+^Non-Transferability of Performance Units: Unless otherwise provided by the Committee in its discretion, the Performance Units may not be sold, assigned, alienated, transferred, pledged, attached or otherwise encumbered, except as provided in Section 20(b) of the Plan. Any purported sale, assignment, alienation, transfer, pledge, attachment or other encumbrance of a Performance Unit in violation of the provisions of this Section 11 and Section 20(b) of the Plan. 
+
+^Rights of the Participant: None of the Performance Units, the execution of this Agreement and the delivery of any payment with respect to the Performance Units shall confer upon the Participant any right to, or guarantee of, continued employment by the Company or any of its affiliates, or in any way limit the right of the Company or any of its affiliates to terminate the employment of the Participant at any time, subject to the terms of any written employment or similar agreement between the Company or any of its affiliates and the Participant. The Performance Units shall not be treated as compensation for purposes of calculating the Participant’s rights under any employee benefit plan, except to the extent expressly provided in any such plan. 
+
+^Relation to Plan: The Performance Units hereby granted are subject to, and the Company and the Participant agree to be bound by, all of the terms and conditions of the Plan, as the same may be amended from time to time in accordance with the terms thereof, but no such amendment shall be effective as to the Performance Units without the Participant’s consent insofar as it may materially and adversely affect the Participant’s rights under this Agreement. Except as otherwise provided herein, the Committee shall have sole discretion to determine whether the events or conditions described in this Agreement have been satisfied and to make all other interpretations, constructions and determinations required under this Agreement and all such determinations by the Committee shall be final, binding and conclusive. In the event of any conflict between any term or provision contained in this Agreement and a term or provision of the Plan, the applicable terms and provisions of the Plan shall govern and prevail, and the Agreement shall be deemed to be modified accordingly. 
+
+^Designation of Beneficiary by Participant: A Participant may name a beneficiary to receive any payment to which he/she may be entitled in respect of this Agreement in the event of his/her death, by notifying the Company. A Participant may change his/her beneficiary from time to time in the same manner. If the Participant has not designated a beneficiary or if no designated beneficiary is living on the date on which any amount becomes payable to a Participant’s beneficiary, that amount shall be paid to the Participant’s estate. 
+
+^Notices: All notices and other communications hereunder shall be in writing and shall be deemed given when delivered personally or when telecopied (with confirmation of transmission received by the sender), three business days after being sent by certified mail, postage prepaid, return receipt requested or one business day after being delivered to a nationally recognized overnight courier with next day delivery specified to the parties at the following addresses (or at such other address for a party as shall be specified by like notice): 
+
+^^^^^ 
+If to the Company, to:  
+Vice President, Human Resources
+
+
+
+777 108th Ave NE Suite 1200
+
+[[Address 1: Address]]
+
+with a copy to:  
+General Counsel
+
+
+
+777 108th Ave NE Suite 1200
+
+[[Address 2: Address]]
+
+If to the Participant, to the address on file with the Company or any of its affiliates.
+
+Notices sent by email or other electronic means not specifically authorized by this Agreement shall not be effective for any purpose of this Agreement. 
+
+^Waiver of Breach: The waiver by either party of a breach of any provision of this Agreement must be in writing and shall not operate or be construed as a waiver of any other or subsequent breach. 
+
+^Participant’s Undertaking : The Participant hereby agrees to take whatever additional actions and execute whatever additional documents the Company may in its reasonable judgment deem necessary or advisable in order to carry out or effect one or more of the obligations or restrictions imposed on the Participant pursuant to the provisions of this Agreement. 
+
+^Amendment: This Agreement may not be amended, terminated, suspended or otherwise modified except in a written instrument, duly executed by both parties. 
+
+^Professional Advice: The acceptance and delivery of Performance Units under this Agreement may have consequences under Federal and state tax and securities laws that may vary depending upon the individual circumstances of the Participant. Accordingly, the Participant acknowledges that the Participant has been advised to consult his personal legal and tax advisor in connection with this Agreement and the Performance Units. 
+
+^Governing Law: This Agreement shall be governed by, and construed in accordance with, the laws of New York without regard to its conflict of laws principles, and shall bind and inure to the benefit of the heirs, executors, personal representatives, successors and assigns of the parties hereto. 
+
+^^^^^ 
+^Counterparts: This Agreement may be executed in one or more counterparts, and each such counterpart shall be deemed to be an original, but all such counterparts together shall constitute but one agreement. 
+
+^Entire Agreement: This Agreement and the other writings incorporated by reference herein constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all prior written or oral negotiations, commitments, representations and agreements with respect thereto. 
+
+^Severability: The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provisions of this Agreement, which shall remain in full force and effect to the fullest extent permitted by law. The Participant agrees that in the event that any court of competent jurisdiction shall finally hold that any provision of this Agreement (whether in whole or in part) is void or constitutes an unreasonable restriction against the Participant, such provision shall not be rendered void but shall be deemed to be modified to the minimum extent necessary to make such provision enforceable for the longest duration and the greatest scope as such court may determine constitutes a reasonable restriction under the circumstances. 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have executed this Grant as of the date(s) listed below. 
+
+Participant  
+
+\centered 
+
+[[Organization 1 Name]] 
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}

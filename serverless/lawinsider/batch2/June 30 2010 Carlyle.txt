@@ -1,0 +1,60 @@
+[[Date 1: Date]] 
+[[Organization 1 Name]] 
+[[Address 1: Address]].C. 20004-2505    
+Ladies and Gentlemen:   
+Reference is made to the Amended and Restated Investment Agreement, dated as of [[Date 1]] (as amended, supplemented or otherwise modified from time to time, the “Investment Agreement”), by and among [[Organization 2 Name]], L.P., ACMO-HR, L.L.C. and Hampton Roads Bankshares, Inc. (the “Company”). Capitalized terms used herein and not otherwise defined shall have the meanings given to them in the Investment Agreement. The Company and [[Organization 1 Name]] (“Carlyle”) hereby agree as follows:
+
+On the First Closing Date, the Company will (i) pay the amount of $[[USD Value 1: Number]] (the “Cash Payment”) to Carlyle by wire transfer in immediately available funds and (ii) issue to Carlyle a warrant (the “Carlyle Warrant”) to purchase a number of shares of Common Stock equal to [[Percentage 1: Number]]% of the sum of (A) the outstanding Common Stock of the Company as of the First Closing Date immediately after giving effect to the Closing, (B) the number of shares of Common Stock to be issued by the Company pursuant to the Rights Offering and pursuant to any sale to the CapGen Investor of any unsubscribed shares in the Rights Offering, and (C) the number of shares of Common Stock to be issued at or simultaneously with the Second Closing pursuant to the Transaction Documents, which number of shares shall be subject to adjus tment as set forth in the Carlyle Warrant. The Carlyle Warrant shall be in the form set forth as Exhibit A hereto. The Cash Payment and the Carlyle Warrant will be paid and issued as consideration for Carlyle’s assistance in connection with the structuring of the transactions contemplated by the Transaction Documents.
+
+For the avoidance of doubt, (i) the consideration payable to Carlyle in clauses (i) and (ii) referenced above shall not have any effect on the amount of the expenses of the Carlyle Anchor Investor and its Affiliates to be payable by the Company pursuant to the Investment Agreement (which amount shall be payable in full pursuant to the Investment Agreement) and (ii) the parties hereto agree that the letter dated as of [[Date 2: Date]] between the Company and Carlyle shall be superseded by this letter agreement and shall have no further effect after this letter agreement has been executed and delivered by the parties hereto.
+
+The Company hereby agrees and acknowledges that the registration rights set forth in the Investment Agreement are applicable to the Carlyle Warrant and the Common Shares issuable upon exercise of the Carlyle Warrant, each of which shall be deemed to be “Registrable
+
+Securities” thereunder, and Carlyle shall be deemed to be a “Holder” for purposes of such registration rights.
+
+The Company and Carlyle hereby agree to make, no later than the Effectiveness Deadline, any revisions to the Carlyle Warrant acceptable to Carlyle and necessary in order to permit a public distribution thereof, including entering into a customary warrant agreement, appointing a warrant agent and taking such other steps as will be needed to facilitate such a public distribution.
+
+For the convenience of the parties hereto, this letter agreement may be executed in any number of separate counterparts, each such counterpart being deemed to be an original instrument, and all such counterparts will together constitute the same agreement. Executed signature pages to this letter agreement may be delivered by facsimile and such facsimiles will be deemed as sufficient as if actual signature pages had been delivered.
+
+This letter agreement will be governed by and construed in accordance with the Laws of the State of New York applicable to contracts made and to be performed entirely within such State.
+
+\centered [Signature page follows]
+
+If you agree with the foregoing, please sign and return a copy of this letter, which will constitute our agreement with respect to the subject matter of this letter.
+
+Very truly yours,
+
+**[[Organization 3 Name]], INC.**
+
+[[[[Organization 3 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]. Entity => By: [[[[Organization 3 Name]]. Signatory First Name]] [[[[Organization 3 Name]]. Signatory Last Name]]
+Title: [[[[Organization 3 Name]]. Signatory Title]]}}
+
+
+CONFIRMED AND AGREED
+as of the date first above written:
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 1 Name]]: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Name]] [[[[Organization 1 Name]] Last Name]]
+Title: [[[[Organization 1 Name]] Title]]}}
+
+
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
+
+
+**EXHIBIT A**   
+
+\centered [FORM OF CARLYLE WARRANT]

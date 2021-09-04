@@ -1,0 +1,1284 @@
+\centered Dated as of [[Date 1: Date]] 
+
+\centered [[Organization 1 Name]] 
+
+\centered (AS “SELLER”) 
+
+\centered [[Organization 2 Name]] 
+
+\centered (AS “GUARANTOR”) 
+
+\centered AND 
+
+\centered [[Organization 3 Name]] (USA), INC. 
+
+\centered (AS “BUYER”) 
+
+\centered MASTER REPURCHASE AGREEMENT 
+
+\centered [[Date 2: Date]] VERSION 
+
+^^^^^ 
+^**Applicability**
+
+From time to time the parties hereto may enter into transactions in which one party (“**Seller**”) agrees to transfer to the other (“**Buyer**”) securities or other assets (“**Securities**”) against the transfer of funds by Buyer, with a simultaneous agreement by Buyer to transfer to Seller such Securities at a date certain or on demand, against the transfer of funds by Seller. Each such transaction shall be referred to herein as a “**Transaction**” and, unless otherwise agreed in writing, shall be governed by this Agreement, including any supplemental terms or conditions contained in Annex I hereto and in any other annexes identified herein or therein as applicable hereunder.
+
+^**Definitions**
+
+^^“**Act of Insolvency**”, with respect to any party, (i) the commencement by such party as debtor of any case or proceeding under any bankruptcy, insolvency, reorganization, liquidation, moratorium, dissolution, delinquency or similar law, or such party seeking the appointment or election of a receiver, conservator, trustee, custodian or similar official for such party or any substantial part of its property, or the convening of any meeting of creditors for purposes of commencing any such case or proceeding or seeking such an appointment or election, (ii) the commencement of any such case or proceeding against such party, or another seeking such an appointment or election, or the filing against a party of an application for a protective decree under the provisions of the Securities Investor Protection Act of 1970, which (A) is consented to or not timely contested by such party, (B) results in the entry of an order for relief, such an appointment or election, the issuance of such a protective decree or the entry of an order having a similar effect, or (C) is not dismissed within 15 days, (iii) the making by such party of a general assignment for the benefit of creditors, or (iv) the admission in writing by such party of such party’s inability to pay such party’s debts as they become due;
+
+^^“**Additional Purchased Securities**”, Securities provided by Seller to Buyer pursuant to Paragraph 4(a) hereof;
+
+^^“**Buyer’s Margin Amount**”, with respect to any Transaction as of any date, the amount obtained by application of the Buyer’s Margin Percentage to the Repurchase Price for such Transaction as of such date;
+
+^^“**Buyer’s Margin Percentage**”, with respect to any Transaction as of any date, a percentage (which may be equal to the Seller’s Margin Percentage) agreed to by Buyer and Seller or, in the absence of any such agreement, the percentage obtained by dividing the Market Value of the Purchased Securities on the Purchase Date by the Purchase Price on the Purchase Date for such Transaction;
+
+^^“**Confirmation**”, the meaning specified in Paragraph 3(b) hereof;
+
+^^“**Income**”, with respect to any Security at any time, any principal thereof and all interest, dividends or other distributions thereon;
+
+^^^^^ 
+^^“**Margin Deficit**”, the meaning specified in Paragraph 4(a) hereof;
+
+^^“**Margin Excess**”, the meaning specified in Paragraph 4(b) hereof;
+
+^^“**Margin Notice Deadline**”, the time agreed to by the parties in the relevant Confirmation, Annex I hereto or otherwise as the deadline for giving notice requiring same-day satisfaction of margin maintenance obligations as provided in Paragraph 4 hereof (or, in the absence of any such agreement, the deadline for such purposes established in accordance with market practice);
+
+^^“**Market Value**”, with respect to any Securities as of any date, the price for such Securities on such date obtained from a generally recognized source agreed to by the parties or the most recent closing bid quotation from such a source, plus accrued Income to the extent not included therein (other than any Income credited or transferred to, or applied to the obligations of, Seller pursuant to Paragraph 5 hereof) as of such date (unless contrary to market practice for such Securities);
+
+^^“**Price Differential**”, with respect to any Transaction as of any date, the aggregate amount obtained by daily application of the Pricing Rate for such Transaction to the Purchase Price for such Transaction on a 360 day per year basis for the actual number of days during the period commencing on (and including) the Purchase Date for such Transaction and ending on (but excluding) the date of determination (reduced by any amount of such Price Differential previously paid by Seller to Buyer with respect to such Transaction);
+
+^^“**Pricing Rate**”, the per annum percentage rate for determination of the Price Differential;
+
+^^“**Prime Rate**”, the prime rate of U.S. commercial banks as published in The Wall Street Journal (or, if more than one such rate is published, the average of such rates);
+
+^^“**Purchase Date**”, the date on which Purchased Securities are to be transferred by Seller to Buyer;
+
+^^“**Purchase Price**”, (i) on the Purchase Date, the price at which Purchased Securities are transferred by Seller to Buyer, and (ii) thereafter, except where Buyer and Seller agree otherwise, such price increased by the amount of any cash transferred by Buyer to Seller pursuant to Paragraph 4(b) hereof and decreased by the amount of any cash transferred by Seller to Buyer pursuant to Paragraph 4(a) hereof or applied to reduce Seller’s obligations under clause (ii) of Paragraph 5 hereof;
+
+^^“**Purchased Securities**”, the Securities transferred by Seller to Buyer in a Transaction hereunder, and any Securities substituted therefor in accordance with Paragraph 9 hereof. The term “Purchased Securities” with respect to any Transaction at any time also shall include Additional Purchased Securities
+
+^^^^^ 
+delivered pursuant to Paragraph 4(a) hereof and shall exclude Securities returned pursuant to Paragraph 4(b) hereof;
+
+^^“**Repurchase Date**”, the date on which Seller is to repurchase the Purchased Securities from Buyer, including any date determined by application of the provisions of Paragraph 3(c) or 11 hereof;
+
+^^“**Repurchase Price**”, the price at which Purchased Securities are to be transferred from Buyer to Seller upon termination of a Transaction, which will be determined in each case (including Transactions terminable upon demand) as the sum of the Purchase Price and the Price Differential as of the date of such determination;
+
+^^“**Seller’s Margin Amount**”, with respect to any Transaction as of any date, the amount obtained by application of the Seller’s Margin Percentage to the Repurchase Price for such Transaction as of such date;
+
+^^“**Seller’s Margin Percentage**”, with respect to any Transaction as of any date, a percentage (which may be equal to the Buyer’s Margin Percentage) agreed to by Buyer and Seller or, in the absence of any such agreement, the percentage obtained by dividing the Market Value of the Purchased Securities on the Purchase Date by the Purchase Price on the Purchase Date for such Transaction.
+
+^**Initiation; Confirmation; Termination**
+
+^^An agreement to enter into a Transaction may be made orally or in writing at the initiation of either Buyer or Seller. On the Purchase Date for the Transaction, the Purchased Securities shall be transferred to Buyer or its agent against the transfer of the Purchase Price to an account of Seller.
+
+^^Upon agreeing to enter into a Transaction hereunder, Buyer or Seller (or both), as shall be agreed, shall promptly deliver to the other party a written confirmation of each Transaction (a “**Confirmation**”). The Confirmation shall describe the Purchased Securities (including CUSIP number, if any), identify Buyer and Seller and set forth (i) the Purchase Date, (ii) the Purchase Price, (iii) the Repurchase Date, unless the Transaction is to be terminable on demand, (iv) the Pricing Rate or Repurchase Price applicable to the Transaction, and (v) any additional terms or conditions of the Transaction not inconsistent with this Agreement. The Confirmation, together with this Agreement, shall constitute conclusive evidence of the terms agreed between Buyer and Seller with respect to the Transaction to which the Confirmation relates, unless with respect to the Confirmation specific objection is made promptly after receipt thereof. In the event of any conflict between the terms of such Confirmation and this Agreement, this Agreement shall prevail.
+
+^^In the case of Transactions terminable upon demand, such demand shall be made by Buyer or Seller, no later than such time as is customary in accordance with market practice, by telephone or otherwise on or prior to the business day on which such termination will be effective. On the date specified in such demand,
+
+^^^^^ 
+or on the date fixed for termination in the case of Transactions having a fixed term, termination of the Transaction will be effected by transfer to Seller or its agent of the Purchased Securities and any Income in respect thereof received by Buyer (and not previously credited or transferred to, or applied to the obligations of, Seller pursuant to Paragraph 5 hereof) against the transfer of the Repurchase Price to an account of Buyer.
+
+^**Margin Maintenance**
+
+^^If at any time the aggregate Market Value of all Purchased Securities subject to all Transactions in which a particular party hereto is acting as Buyer is less than the aggregate Buyer’s Margin Amount for all such Transactions (a “**Margin Deficit**”), then Buyer may by notice to Seller require Seller in such Transactions, at Seller’s option, to transfer to Buyer cash or additional Securities reasonably acceptable to Buyer (“**Additional Purchased Securities**”), so that the cash and aggregate Market Value of the Purchased Securities, including any such Additional Purchased Securities, will thereupon equal or exceed such aggregate Buyer’s Margin Amount (decreased by the amount of any Margin Deficit as of such date arising from any Transactions in which such Buyer is acting as Seller).
+
+^^If at any time the aggregate Market Value of all Purchased Securities subject to all Transactions in which a particular party hereto is acting as Seller exceeds the aggregate Seller’s Margin Amount for all such Transactions at such time (a “**Margin Excess**”), then Seller may by notice to Buyer require Buyer in such Transactions, at Buyer’s option, to transfer cash or Purchased Securities to Seller, so that the aggregate Market Value of the Purchased Securities, after deduction of any such cash or any Purchased Securities so transferred, will thereupon not exceed such aggregate Seller’s Margin Amount (increased by the amount of any Margin Excess as of such date arising from any Transactions in which such Seller is acting as Buyer).
+
+^^If any notice is given by Buyer or Seller under subparagraph (a) or (b) of this Paragraph at or before the Margin Notice Deadline on any business day, the party receiving such notice shall transfer cash or Additional Purchased Securities as provided in such subparagraph no later than the close of business in the relevant market on such day. If any such notice is given after the Margin Notice Deadline, the party receiving such notice shall transfer such cash or Securities no later than the close of business in the relevant market on the next business day following such notice.
+
+^^Any cash transferred pursuant to this Paragraph shall be attributed to such Transactions as shall be agreed upon by Buyer and Seller.
+
+^^Seller and Buyer may agree, with respect to any or all Transactions hereunder, that the respective rights of Buyer or Seller (or both) under subparagraphs (a) and (b) of this Paragraph may be exercised only where a Margin Deficit or Margin Excess, as the case may be, exceeds a specified dollar amount or a specified
+
+^^^^^ 
+percentage of the Repurchase Prices for such Transactions (which amount or percentage shall be agreed to by Buyer and Seller prior to entering into any such Transactions).
+
+^^Seller and Buyer may agree, with respect to any or all Transactions hereunder, that the respective rights of Buyer and Seller under subparagraphs (a) and (b) of this Paragraph to require the elimination of a Margin Deficit or a Margin Excess, as the case may be, may be exercised whenever such a Margin Deficit or Margin Excess exists with respect to any single Transaction hereunder (calculated without regard to any other Transaction outstanding under this Agreement).
+
+^**Income Payments**
+
+Seller shall be entitled to receive an amount equal to all Income paid or distributed on or in respect of the Securities that is not otherwise received by Seller, to the full extent it would be so entitled if the Securities had not been sold to Buyer. Buyer shall, as the parties may agree with respect to any Transaction (or, in the absence of any such agreement, as Buyer shall reasonably determine in its discretion), on the date such Income is paid or distributed either (i) transfer to or credit to the account of Seller such Income with respect to any Purchased Securities subject to such Transaction or (ii) with respect to Income paid in cash, apply the Income payment or payments to reduce the amount, if any, to be transferred to Buyer by Seller upon termination of such Transaction. Buyer shall not be obligated to take any action pursuant to the preceding sentence (A) to the extent that such action would result in the creation of a Margin Deficit, unless prior thereto or simultaneously therewith Seller transfers to Buyer cash or Additional Purchased Securities sufficient to eliminate such Margin Deficit, or (B) if an Event of Default with respect to Seller has occurred and is then continuing at the time such Income is paid or distributed.
+
+^**Security Interest**
+
+Although the parties intend that all Transactions hereunder be sales and purchases and not loans, in the event any such Transactions are deemed to be loans, Seller shall be deemed to have pledged to Buyer as security for the performance by Seller of its obligations under each such Transaction, and shall be deemed to have granted to Buyer a security interest in, all of the Purchased Securities with respect to all Transactions hereunder and all Income thereon and other proceeds thereof.
+
+^**Payment and Transfer**
+
+Unless otherwise mutually agreed, all transfers of funds hereunder shall be in immediately available funds. All Securities transferred by one party hereto to the other party (i) shall be in suitable form for transfer or shall be accompanied by duly executed instruments of transfer or assignment in blank and such other documentation as the party receiving possession may reasonably request, (ii) shall be transferred on the book-entry system of a Federal Reserve Bank, or (iii) shall be transferred by any other method mutually acceptable to Seller and Buyer.
+
+^^^^^ 
+^**Segregation of Purchased Securities**
+
+To the extent required by applicable law, all Purchased Securities in the possession of Seller shall be segregated from other securities in its possession and shall be identified as subject to this Agreement. Segregation may be accomplished by appropriate identification on the books and records of the holder, including a financial or securities intermediary or a clearing corporation. All of Seller’s interest in the Purchased Securities shall pass to Buyer on the Purchase Date and, unless otherwise agreed by Buyer and Seller, nothing in this Agreement shall preclude Buyer from engaging in repurchase transactions with the Purchased Securities or otherwise selling, transferring, pledging or hypothecating the Purchased Securities, but no such transaction shall relieve Buyer of its obligations to transfer Purchased Securities to Seller pursuant to Paragraph 3, 4 or 11 hereof, or of Buyer’s obligation to credit or pay Income to, or apply Income to the obligations of, Seller pursuant to Paragraph 5 hereof.
+
+**Required Disclosure for Transactions in Which the Seller Retains Custody of the Purchased Securities**
+
+Seller is not permitted to substitute other securities for those subject to this Agreement and therefore must keep Buyer’s securities segregated at all times, unless in this Agreement Buyer grants Seller the right to substitute other securities. If Buyer grants the right to substitute, this means that Buyer’s securities will likely be commingled with Seller’s own securities during the trading day. Buyer is advised that, during any trading day that Buyer’s securities are commingled with Seller’s securities, they [will]* [may]** be subject to liens granted by Seller to [its clearing bank]* [third parties]** and may be used by Seller for deliveries on other securities transactions. Whenever the securities are commingled, Seller’s ability to resegregate substitute securities for Buyer will be subject to Seller’s ability to satisfy [the clearing]* [any]** lien or to obtain substitute securities.
+
+*      Language to be used under 17 C.F.R. β403.4(e) if Seller is a government securities broker or dealer other than a financial institution.
+
+**      Language to be used under 17 C.F.R. β403.5(d) if Seller is a financial institution.
+
+^**Substitution**
+
+^^Seller may, subject to agreement with and acceptance by Buyer, substitute other Securities for any Purchased Securities. Such substitution shall be made by transfer to Buyer of such other Securities and transfer to Seller of such Purchased Securities. After substitution, the substituted Securities shall be deemed to be Purchased Securities.
+
+^^In Transactions in which Seller retains custody of Purchased Securities, the parties expressly agree that Buyer shall be deemed, for purposes of subparagraph (a) of this Paragraph, to have agreed to and accepted in this Agreement substitution by Seller of other Securities for Purchased Securities; provided, however, that such other Securities shall have a Market Value at least
+
+^^^^^ 
+equal to the Market Value of the Purchased Securities for which they are substituted.
+
+^**Representations**
+
+Each of Buyer and Seller represents and warrants to the other that (i) it is duly authorized to execute and deliver this Agreement, to enter into Transactions contemplated hereunder and to perform its obligations hereunder and has taken all necessary action to authorize such execution, delivery and performance, (ii) it will engage in such Transactions as principal (or, if agreed in writing, in the form of an annex hereto or otherwise, in advance of any Transaction by the other party hereto, as agent for a disclosed principal), (iii) the person signing this Agreement on its behalf is duly authorized to do so on its behalf (or on behalf of any such disclosed principal), (iv) it has obtained all authorizations of any governmental body required in connection with this Agreement and the Transactions hereunder and such authorizations are in full force and effect and (v) the execution, delivery and performance of this Agreement and the Transactions hereunder will not violate any law, ordinance, charter, bylaw or rule applicable to it or any agreement by which it is bound or by which any of its assets are affected. On the Purchase Date for any Transaction Buyer and Seller shall each be deemed to repeat all the foregoing representations made by it.
+
+^**Events of Default**
+
+In the event that (i) Seller fails to transfer or Buyer fails to purchase Purchased Securities upon the applicable Purchase Date, (ii) Seller fails to repurchase or Buyer fails to transfer Purchased Securities upon the applicable Repurchase Date, (iii) Seller or Buyer fails to comply with Paragraph 4 hereof, (iv) Buyer fails, after one business day’s notice, to comply with Paragraph 5 hereof, (v) an Act of Insolvency occurs with respect to Seller or Buyer, (vi) any representation made by Seller or Buyer shall have been incorrect or untrue in any material respect when made or repeated or deemed to have been made or repeated, or (vii) Seller or Buyer shall admit to the other its inability to, or its intention not to, perform any of its obligations hereunder (each an “**Event of Default**”):
+
+^^The nondefaulting party may, at its option (which option shall be deemed to have been exercised immediately upon the occurrence of an Act of Insolvency), declare an Event of Default to have occurred hereunder and, upon the exercise or deemed exercise of such option, the Repurchase Date for each Transaction hereunder shall, if it has not already occurred, be deemed immediately to occur (except that, in the event that the Purchase Date for any Transaction has not yet occurred as of the date of such exercise or deemed exercise, such Transaction shall be deemed immediately canceled). The nondefaulting party shall (except upon the occurrence of an Act of Insolvency) give notice to the defaulting party of the exercise of such option as promptly as practicable.
+
+^^In all Transactions in which the defaulting party is acting as Seller, if the nondefaulting party exercises or is deemed to have exercised the option referred to in subparagraph (a) of this Paragraph, (i) the defaulting party’s obligations in
+
+^^^^^ 
+such Transactions to repurchase all Purchased Securities, at the Repurchase Price therefor on the Repurchase Date determined in accordance with subparagraph (a) of this Paragraph, shall thereupon become immediately due and payable, (ii) all Income paid after such exercise or deemed exercise shall be retained by the nondefaulting party and applied to the aggregate unpaid Repurchase Prices and any other amounts owing by the defaulting party hereunder, and (iii) the defaulting party shall immediately deliver to the nondefaulting party any Purchased Securities subject to such Transactions then in the defaulting party’s possession or control.
+
+^^In all Transactions in which the defaulting party is acting as Buyer, upon tender by the nondefaulting party of payment of the aggregate Repurchase Prices for all such Transactions, all right, title and interest in and entitlement to all Purchased Securities subject to such Transactions shall be deemed transferred to the nondefaulting party, and the defaulting party shall deliver all such Purchased Securities to the nondefaulting party.
+
+^^If the nondefaulting party exercises or is deemed to have exercised the option referred to in subparagraph (a) of this Paragraph, the nondefaulting party, without prior notice to the defaulting party, may:
+
+^^^as to Transactions in which the defaulting party is acting as Seller, (A) immediately sell, in a recognized market (or otherwise in a commercially reasonable manner) at such price or prices as the nondefaulting party may reasonably deem satisfactory, any or all Purchased Securities subject to such Transactions and apply the proceeds thereof to the aggregate unpaid Repurchase Prices and any other amounts owing by the defaulting party hereunder or (B) in its sole discretion elect, in lieu of selling all or a portion of such Purchased Securities, to give the defaulting party credit for such Purchased Securities in an amount equal to the price therefor on such date, obtained from a generally recognized source or the most recent closing bid quotation from such a source, against the aggregate unpaid Repurchase Prices and any other amounts owing by the defaulting party hereunder; and
+
+^^^as to Transactions in which the defaulting party is acting as Buyer, (A) immediately purchase, in a recognized market (or otherwise in a commercially reasonable manner) at such price or prices as the nondefaulting party may reasonably deem satisfactory, securities (“**Replacement Securities**”) of the same class and amount as any Purchased Securities that are not delivered by the defaulting party to the nondefaulting party as required hereunder or (B) in its sole discretion elect, in lieu of purchasing Replacement Securities, to be deemed to have purchased Replacement Securities at the price therefor on such date, obtained from a generally recognized source or the most recent closing offer quotation from such a source.
+
+^^^^^ 
+Unless otherwise provided in Annex I, the parties acknowledge and agree that (1) the Securities subject to any Transaction hereunder are instruments traded in a recognized market, (2) in the absence of a generally recognized source for prices or bid or offer quotations for any Security, the nondefaulting party may establish the source therefor in its sole discretion and (3) all prices, bids and offers shall be determined together with accrued Income (except to the extent contrary to market practice with respect to the relevant Securities). 
+
+^^As to Transactions in which the defaulting party is acting as Buyer, the defaulting party shall be liable to the nondefaulting party for any excess of the price paid (or deemed paid) by the nondefaulting party for Replacement Securities over the Repurchase Price for the Purchased Securities replaced thereby and for any amounts payable by the defaulting party under Paragraph 5 hereof or otherwise hereunder.
+
+^^For purposes of this Paragraph 11, the Repurchase Price for each Transaction hereunder in respect of which the defaulting party is acting as Buyer shall not increase above the amount of such Repurchase Price for such Transaction determined as of the date of the exercise or deemed exercise by the nondefaulting party of the option referred to in subparagraph (a) of this Paragraph.
+
+^^The defaulting party shall be liable to the nondefaulting party for (i) the amount of all reasonable legal or other expenses incurred by the nondefaulting party in connection with or as a result of an Event of Default, (ii) damages in an amount equal to the cost (including all fees, expenses and commissions) of entering into replacement transactions and entering into or terminating hedge transactions in connection with or as a result of an Event of Default, and (iii) any other loss, damage, cost or expense directly arising or resulting from the occurrence of an Event of Default in respect of a Transaction.
+
+^^To the extent permitted by applicable law, the defaulting party shall be liable to the non-defaulting party for interest on any amounts owing by the defaulting party hereunder, from the date the defaulting party becomes liable for such amounts hereunder until such amounts are (i) paid in full by the defaulting party or (ii) satisfied in full by the exercise of the nondefaulting party’s rights hereunder. Interest on any sum payable by the defaulting party to the nondefaulting party under this Paragraph 11(h) shall be at a rate equal to the greater of the Pricing Rate for the relevant Transaction or the Prime Rate.
+
+^^^The nondefaulting party shall have, in addition to its rights hereunder, any rights otherwise available to it under any other agreement or applicable law.
+
+^**Single Agreement**
+
+Buyer and Seller acknowledge that, and have entered hereinto and will enter into each Transaction hereunder in consideration of and in reliance upon the fact that, all Transactions hereunder constitute a single business and contractual relationship and have
+
+^^^^^ 
+been made in consideration of each other. Accordingly, each of Buyer and Seller agrees (i) to perform all of its obligations in respect of each Transaction hereunder, and that a default in the performance of any such obligations shall constitute a default by it in respect of all Transactions hereunder, (ii) that each of them shall be entitled to set off claims and apply property held by them in respect of any Transaction against obligations owing to them in respect of any other Transactions hereunder and (iii) that payments, deliveries and other transfers made by either of them in respect of any Transaction shall be deemed to have been made in consideration of payments, deliveries and other transfers in respect of any other Transactions hereunder, and the obligations to make any such payments, deliveries and other transfers may be applied against each other and netted.
+
+^**Notices and Other Communications**
+
+Any and all notices, statements, demands or other communications hereunder may be given by a party to the other by mail, facsimile, telegraph, messenger or otherwise to the address specified in Annex II hereto, or so sent to such party at any other place specified in a notice of change of address hereafter received by the other. All notices, demands and requests hereunder may be made orally, to be confirmed promptly in writing, or by other communication as specified in the preceding sentence.
+
+^**Entire Agreement; Severability**
+
+This Agreement shall supersede any existing agreements between the parties containing general terms and conditions for repurchase transactions. Each provision and agreement herein shall be treated as separate and independent from any other provision or agreement herein and shall be enforceable notwithstanding the unenforceability of any such other provision or agreement.
+
+^**Non-assignability; Termination**
+
+^^The rights and obligations of the parties under this Agreement and under any Transaction shall not be assigned by either party without the prior written consent of the other party, and any such assignment without the prior written consent of the other party shall be null and void. Subject to the foregoing, this Agreement and any Transactions shall be binding upon and shall inure to the benefit of the parties and their respective successors and assigns. This Agreement may be terminated by either party upon giving written notice to the other, except that this Agreement shall, notwithstanding such notice, remain applicable to any Transactions then outstanding.
+
+^^Subparagraph (a) of this Paragraph 15 shall not preclude a party from assigning, charging or otherwise dealing with all or any part of its interest in any sum payable to it under Paragraph 11 hereof.
+
+^**Governing Law**
+
+This Agreement shall be governed by the laws of the State of New York without giving effect to the conflict of law principles thereof.
+
+^^^^^ 
+^**No Waivers, Etc.**
+
+No express or implied waiver of any Event of Default by either party shall constitute a waiver of any other Event of Default and no exercise of any remedy hereunder by any party shall constitute a waiver of its right to exercise any other remedy hereunder. No modification or waiver of any provision of this Agreement and no consent by any party to a departure here-from shall be effective unless and until such shall be in writing and duly executed by both of the parties hereto. Without limitation on any of the foregoing, the failure to give a notice pursuant to Paragraph 4(a) or 4(b) hereof will not constitute a waiver of any right to do so at a later date.
+
+^**Use of Employee Plan Assets**
+
+^^If assets of an employee benefit plan subject to any provision of the Employee Retirement Income Security Act of 1974 (“**ERISA**”) are intended to be used by either party hereto (the “**Plan Party**”) in a Transaction, the Plan Party shall so notify the other party prior to the Transaction. The Plan Party shall represent in writing to the other party that the Transaction does not constitute a prohibited transaction under ERISA or is otherwise exempt therefrom, and the other party may proceed in reliance thereon but shall not be required so to proceed.
+
+^^Subject to the last sentence of subparagraph (a) of this Paragraph, any such Transaction shall proceed only if Seller furnishes or has furnished to Buyer its most recent available audited statement of its financial condition and its most recent subsequent unaudited statement of its financial condition.
+
+^^By entering into a Transaction pursuant to this Paragraph, Seller shall be deemed (i) to represent to Buyer that since the date of Seller’s latest such financial statements, there has been no material adverse change in Seller’s financial condition which Seller has not disclosed to Buyer, and (ii) to agree to provide Buyer with future audited and unaudited statements of its financial condition as they are issued, so long as it is a Seller in any outstanding Transaction involving a Plan Party.
+
+^**Intent**
+
+^^The parties recognize that each Transaction is a “repurchase agreement” as that term is defined in Section 101 of Title 11 of the United States Code, as amended (except insofar as the type of Securities subject to such Transaction or the term of such Transaction would render such definition inapplicable), and a “securities contract” as that term is defined in Section 741 of Title 11 of the United States Code, as amended (except insofar as the type of assets subject to such Transaction would render such definition inapplicable).
+
+^^It is understood that either party’s right to liquidate Securities delivered to it in connection with Transactions hereunder or to exercise any other remedies pursuant to Paragraph 11 hereof is a contractual right to liquidate such
+
+^^^^^ 
+Transaction as described in Sections 555 and 559 of Title 11 of the United States Code, as amended.
+
+^^The parties agree and acknowledge that if a party hereto is an “insured depository institution,” as such term is defined in the Federal Deposit Insurance Act, as amended (“**FDIA**”), then each Transaction hereunder is a “qualified financial contract,” as that term is defined in FDIA and any rules, orders or policy statements thereunder (except insofar as the type of assets subject to such Transaction would render such definition inapplicable).
+
+^^It is understood that this Agreement constitutes a “netting contract” as defined in and subject to Title IV of the Federal Deposit Insurance Corporation Improvement Act of 1991 (“**FDICIA**”) and each payment entitlement and payment obligation under any Transaction hereunder shall constitute a “covered contractual payment entitlement” or “covered contractual payment obligation”, respectively, as defined in and subject to FDICIA (except insofar as one or both of the parties is not a “financial institution” as that term is defined in FDICIA).
+
+^**Disclosure Relating to Certain Federal Protections**
+
+The parties acknowledge that they have been advised that:
+
+^^in the case of Transactions in which one of the parties is a broker or dealer registered with the Securities and Exchange Commission (“**SEC**”) under Section 15 of the Securities Exchange Act of 1934 (“**1934 Act**”), the Securities Investor Protection Corporation has taken the position that the provisions of the Securities Investor Protection Act of 1970 (“**SIPA**”) do not protect the other party with respect to any Transaction hereunder;
+
+^^in the case of Transactions in which one of the parties is a government securities broker or a government securities dealer registered with the SEC under Section 15C of the 1934 Act, SIPA will not provide protection to the other party with respect to any Transaction hereunder; and
+
+^^in the case of Transactions in which one of the parties is a financial institution, funds held by the financial institution pursuant to a Transaction hereunder are not a deposit and therefore are not insured by the Federal Deposit Insurance Corporation or the National Credit Union Share Insurance Fund, as applicable.
+
+^^^^^ 
+\centered 
+
+**[[Organization 1 Name]]**    **[[Organization 3 Name]] (USA), INC.** 
+
+[[[[Organization 1 Name]]    [[Organization 3 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]    [[Organization 3 Name]]. Entity => By: [[[[Organization 1 Name]]    [[Organization 3 Name]]. Signatory First Name]] [[[[Organization 1 Name]]    [[Organization 3 Name]]. Signatory Last Name]]
+Title: [[[[Organization 1 Name]]    [[Organization 3 Name]]. Signatory Title]]}}
+
+
+Date:        Date: 
+
+**[[Organization 2 Name]]** 
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+Date: 
+
+^^^^^ 
+\centered **ANNEX 1 SUPPLEMENTAL TERMS AND CONDITIONS** 
+
+^OTHER APPLICABLE ANNEXES       2. DEFINITIONS       3. AVAILABILITY       4. PROCEDURES       5. CONDITIONS       6. REPRESENTATIONS AND WARRANTIES       7. MARGIN       8. MARKET VALUE       9. EVENTS OF DEFAULT       10. SUBSTITUTION       11. INCREASED COST EVENT AND TERMINATION EVENT       12. CLOSE OUT       13. ROLL-OVER TRANSACTIONS       14. INCEPTION FAILURE       15. AFFIRMATIVE COVENANTS       16. NEGATIVE COVENANTS       17. FORCE MAJEURE       18. FEE       19. TAXES       20. DESIGNATED OFFICES       21. SUBMISSION TO JURISDICTION AND WAIVER OF IMMUNITY       22. EXPENSES; INDEMNITY; DAMAGE WAIVER       23. WAIVER OF JURY TRIAL       24. USA PATRIOT ACT NOTICE       25. ASSIGNMENT       26. GUARANTEE        
+
+This Annex I forms a part of the Master Repurchase Agreement (September 1996 Version) dated as of [[Date 1]] (the “**Agreement**”) among [[Organization 1 Name]] (the “**Seller**”), [[Organization 2 Name]] (the “**Guarantor**”) and [[Organization 3 Name]] (USA), Inc. (the “**Buyer**”). Capitalized terms used but not defined in this Annex I shall have the meanings ascribed to them in the Agreement. Buyer and Seller hereby agree to enter into Transactions governed by the Agreement, as expressly modified and supplemented hereby. 
+
+^^^^^ 
+If there is any inconsistency between this Annex I and the Agreement, this Annex I shall control. References herein to “Paragraphs” shall be to paragraphs of the Agreement, as amended, if applicable, by this Annex I, unless the context indicates otherwise. References to “Sections” shall be to sections of this Annex I. 
+
+^**OTHER APPLICABLE ANNEXES**
+
+In addition to this Annex I and the Schedules attached hereto, the following Annexes and any Schedules thereto shall form a part of the Agreement and shall be applicable thereunder:
+
+Annex II (Names and Addresses for Communications Between Parties)  Not Applicable.
+
+Annex III (International Transactions)  Not Applicable.
+
+Annex IV (Party Acting as Agent)  Not Applicable.
+
+Annex V (Margin for Forward Transactions)  Not Applicable.
+
+Annex VI (Buy/Sell Back Transactions)  Not Applicable.
+
+Annex VII (Transactions Involving Registered Investment Companies)  Not Applicable.
+
+^**DEFINITIONS**
+
+“**Alternative Clearing Corporation**” means an institution, reasonably acceptable to Buyer, that provides substantially similar clearing and settlement services as the FICC to market participants who regularly engage in securities repurchase transactions.
+
+“**Applicable Laws**” means statutes and rules and regulations thereunder and interpretations thereof by any Governmental Authority charged with the administration or the interpretation thereof, and orders, requests, directives, judgments, determinations, decrees, instructions and notices of any Governmental Authority.
+
+“**Applicable Spread**” has the meaning set out the following table:
+
+\centered 
+
+**Applicable Spread** **(interest spread over LIBOR)** **U.S. Agency** **Status of Guarantor**    **U.S. Treasuries**    **Securities**    **U.S. Agency MBS** Level I Status       0.10   %       0.15   %       0.20   % Level II Status       0.12   %       0.18   %       0.23   % Level III Status       0.17   %       0.23   %       0.28   %  
+
+“**Available Commitment**” means, at any time, (i) the Commitment Amount less (ii) the Drawn Amount.
+
+^^^^^ 
+“**Business Day**” means, whenever used in the Agreement, a day on which banks are open for business in New York except that, in relation to any notice or other communication under the Agreement, it shall mean any day other than a Saturday or a Sunday on which banks are open for business in the place specified in the address for notices and communications most recently provided by the recipient.
+
+“**Buyer’s Margin Percentage**” means, with respect to each Transaction, the percentage specified in the following table for the relevant Security Type:
+
+**Security Type**    **Margin Percentage** U.S. Treasuries        % U.S. Agency Securities        % U.S. Agency MBS        %  
+
+“**Clearing Account**” means the clearing account held by [[Organization 4 Name]] at [[Organization 5 Name]], a New York banking organization and any permitted successor thereto.
+
+“**Clearing Firm**” means [[Organization 5 Name]], a New York banking organization and any permitted successor thereto.
+
+“**Commitment Amount**” means, at any time, unless reduced, suspended or terminated pursuant to any applicable provision of the Agreement, USD250,000,000.
+
+“**Consolidated Tangible Net Worth**” shall have the meaning set forth in the Revolver and shall be calculated in accordance with the terms set forth in the Revolver.
+
+“**Contingent Obligation**” means, in relation to any Person, any direct or indirect liability, contingent or otherwise, of that Person with respect to any Indebtedness for Borrowed Money of another Person if the primary purpose or intent thereof by the Person incurring the Contingent Obligation is to provide assurance to the obligee of such obligation that such Indebtedness for Borrowed Money will be paid or discharged, or that any agreements relating thereto will be complied with, or that the holders of such Indebtedness for Borrowed Money will be protected (in whole or in part) against loss in respect thereof. Contingent Obligations shall include any direct or indirect guaranty, endorsement (otherwise than for collection or deposit in the ordinary course of business), co-making, discounting with recourse or sale with recourse by such Person of the Indebtedness for Borrowed Money of another Person.
+
+“**Contractual Obligations**” means, as to any Person, any provision of any security issued by such Person or of any Instrument or other undertaking to which such Person is a party or by which it or any of its Property is bound.
+
+“**Cost of Funds**” means, in respect of a Transaction, the rate of interest, expressed as an annual percentage, quoted by Buyer, in its sole discretion, to Seller as Buyer’s cost in making available an amount of USD equal to the Purchase Price for such Transaction for a term equal to the Term of such Transaction.
+
+^^^^^ 
+“**Debtor Relief Laws**” means the Bankruptcy Code of the United States, and all other liquidation, conservatorship, bankruptcy, assignment for the benefit of creditors, moratorium, rearrangement, receivership, insolvency, reorganization, or similar debtor relief laws of the United States or other applicable jurisdictions from time to time in effect and affecting the rights of creditors generally.
+
+“**Default**” means any event which, with the giving of notice or lapse of time, or both, would become an Event of Default.
+
+“**Drawn Amount**” means, at any time, the aggregate Purchase Price of all Transactions in respect of which the Repurchase Price has not been received by Buyer at such time.
+
+“**Early Termination**” has the meaning given to it in Section 4.5 of this Annex I.
+
+“**Effective Date**” means [[Date 1]].
+
+“**Event of Default**” has the meaning set forth in Paragraph 11 of the Agreement, as modified by Section 9.1 of this Annex I.
+
+“**Expiration Date**” means the date falling three calendar years after the Effective Date, subject to early termination pursuant to any applicable provision of the Agreement.
+
+“**FICC**” means the Fixed Income Clearing Corporation (or any successor thereto).
+
+“**Financial Officer**” means, with respect to any Person, the chief financial officer, the principal accounting officer, a financial vice president, the treasurer or an assistant treasurer of such Person.
+
+“**Governmental Authority**” means any nation or government, any state or other political subdivision thereof, any entity exercising executive, legislative, judicial, regulatory or administrative functions of government, including any Insurance Regulatory Authority, and any court or arbitrator.
+
+“**Guarantee**” means the Guarantee between Buyer and Guarantor, as set forth in Section 26 of this Annex I.
+
+“**Increased Costs Event**” has the meaning given in Section 11.1 of this Annex I.
+
+“**Indebtedness for Borrowed Money**” means, as to any Person, all indebtedness, obligations and liabilities of such Person, whether direct or indirect, joint or several, matured or unmatured, liquidated or unliquidated, secured or unsecured, (a) in respect of any money borrowed by such Person, or (b) created or evidenced by any loan or credit agreement, promissory note, debenture, bond or other similar written obligation to pay money.
+
+“**Instrument**” means any contract, agreement, indenture, mortgage or other document or writing (whether a formal agreement, letter or otherwise) under which any indebtedness,
+
+^^^^^ 
+obligation or liability is evidenced, assumed or undertaken, or any right to any Lien is granted or perfected.
+
+“**Insurance Regulatory Authority**” means, in relation to any particular jurisdiction, any insurance regulatory authority, commission, agency, board or other authority of or in that jurisdiction, including, without limitation, the National Association of Insurance Commissioners.
+
+“**Level**” means the ratings corresponding to Level I Status, Level II Status or Level III Status, as appropriate.
+
+“**Level I Status**” means the Status that exists at any date if, at such date, Guarantor has (a) a long-term credit rating better than or equal to “A” by S&P, and also (b) a long-term credit rating better than or equal to “A2” by Moody’s. For split ratings, see definition of “Status” in this Annex I.
+
+“**Level II Status**” means the Status that exists at any date if, at such date, Guarantor has (a) a long-term credit rating equal to “A-” by S&P, and also (b) a long-term credit rating equal to “A3” by Moody’s. For split ratings, see definition of “Status” in this Annex I.
+
+“**Level III Status**” means the Status that exists at any date if, at such date, Guarantor has (a) a long-term credit rating equal to “BBB+” by S&P, and also (b) a long-term credit rating equal to “Baa1” by Moody’s. For split ratings, see definition of “Status” in this Annex I.
+
+“**London Banking Day**” means any day on which commercial banks in London are open for general business (including dealings in foreign exchange and foreign currency deposits).
+
+“**LIBOR**” means, with respect to a Transaction, the rate which appears on the Reuters Screen LIBOR01 Page as of 11:00 a.m., London time, on the Purchase Date for such Transaction, for deposits in USD with a term equivalent to the term of such Transaction. If such rate is not available at such time for any reason, then “LIBOR” means, with respect to a Transaction, the rate per annum determined by Buyer to be the rate at which deposits in USD for such Transaction in same day funds in the approximate amount of the Purchase Price for such Transaction and with a term equivalent to the term of such Transaction would be offered by [[Organization 6 Name]]’s London Branch to major banks in the London eurodollar interbank market at their request at approximately 11:00 a.m. (London time).
+
+“**Lien**” means any mortgage, pledge, lien, security interest, conditional sale or other title retention agreement or other similar encumbrance.
+
+“**LMIC Repo Agreement**” means the Master Repurchase Agreement (including Annex I thereto) between Guarantor (in its capacity as Seller thereunder) and Buyer, dated as of [[Date 1]].
+
+“**LMGI**” means [[Organization 7 Name]], a Massachusetts corporation.
+
+^^^^^ 
+“**LMHCI**” means [[Organization 8 Name]], a Massachusetts corporation.
+
+“**Margin Notice Deadline**” means 10:00 a.m., on any given day.
+
+“**Materially Adverse Effect**” means, in relation to any event, occurrence or development of whatever nature (including, without limitation, any change in law or adverse determination in any litigation, arbitration or governmental investigation or proceeding),
+
+^^a materially adverse effect on the business, Property, operations or condition, financial or otherwise, of (i) Seller (ii) LMGI, (iii) Seller and its Significant Subsidiaries, taken as a whole, (iv) LMGI and its Significant Subsidiaries, taken as a whole; (v) Guarantor, or (vi) Guarantor and its Significant Subsidiaries, taken as a whole;
+
+^^a materially adverse effect on the ability of Seller or Guarantor to perform any of its payment or other material obligations under the Agreement or, with respect to Guarantor, the Guarantee; or
+
+^^a material impairment of the validity or enforceability of the Agreement or the Guarantee or any material impairment of any of the material rights, remedies or benefits available to Buyer under the Agreement or the Guarantee.
+
+“**Obligations**” means all debts, liabilities, obligations, covenants and duties of Seller arising under the Agreement and each Transaction, whether direct or indirect (including those acquired by assumption), absolute or contingent, due or to become due, now existing or hereafter arising and including interest and fees that accrue after the commencement by or against Seller of any proceeding under any Debtor Relief Laws naming Seller as the debtor in such proceeding, regardless of whether such interest and fees are allowed claims in such proceeding.
+
+“**Person**” means an individual, partnership, corporation, business trust, joint stock company, trust, unincorporated association, joint venture, Governmental Authority or other entity of whatever nature.
+
+“**Pricing Rate**” means, with respect to a Transaction, LIBOR *plus* the Applicable Spread; provided, however, if for any reason LIBOR is not available, then “Pricing Rate” shall mean, with respect to a Transaction, Cost of Funds *plus* the Applicable Spread.
+
+“**Property**” means any interest in any kind of property or asset, whether real, personal or mixed, and whether tangible or intangible.
+
+“**Ratings Event**” means the occurrence on any date of any of the following: (i) Guarantor’s long term credit rating by S&P is lower than BBB+ **and** Guarantor’s long term credit rating by Moody’s is lower than Baa1, or (ii) Guarantor’s long term credit rating by S&P is lower than BBB, or (iii) Guarantor’s long term credit rating by Moody’s is lower than Baa2, or (iv) Guarantor ceases to have a credit rating by S&P or a credit rating by Moody’s.
+
+^^^^^ 
+“**Regulatory Change**” means any change, through legislative or administrative action or otherwise, in Applicable Laws, or in the rules or regulations of any self-regulatory agency, which, in Buyer’s reasonable judgment, is reasonably expected to materially and adversely impact (i) Buyer’s secured position with respect to any Transaction or any other rights or remedies of Buyer, including, without limitation, (a) a material limitation of Buyer’s ability to exercise its rights under the Agreement (including this Annex I) (following an Event of Default or otherwise), or (b) Buyer being treated as an unsecured (or partially secured) creditor with respect to all or part of a Transaction, or (ii) the broader functioning of the securities repurchase market.
+
+“**Repo Request**” means a written request in the form of Schedule 2 hereto with all of the relevant information (including the proposed Purchase Price; the Market Value (determined as at the close of business on the Business Day immediately preceding the Request Date) of the proposed Purchased Securities on which the proposed Purchase Price is based; the Security Type of the proposed Purchased Securities and the related Buyer’s Margin Percentage(s); the Repurchase Date; and the CUSIP and/or ISIN codes (when applicable) and other data relating to the related Purchased Securities’ Security Types) duly completed.
+
+“**Request Date**” has the meaning specified in Section 3 of this Annex I.
+
+“**Requirement of Law**” means, as to any Person, any Applicable Law binding upon such Person or any of its Property or to which such Person or any of its Property is subject.
+
+“**Revolver**” means the Three-Year Revolving Credit Agreement, dated as of [[Date 3: Date]] by and among LMGI, as Borrower, the Lenders referred to therein, and [[Organization 9 Name]], N.A., as administrative agent for the Lenders and as the Fronting L/C Issuer and the Several L/C Agent; provided that, for the purposes of the Agreement and without prejudice to the rights of the parties to the Revolver to amend, waive or otherwise modify any and all terms and conditions of the Revolver, any provisions or terms in the Agreement that reference the Revolver shall reference the Revolver as of [[Date 3]] and shall not include any amendment, waiver or modification to the Revolver unless such amendment, waiver or modification has been approved for the purposes of the Agreement, in writing, by each party hereto.
+
+“**Securities**” means, notwithstanding Paragraph 1, the following types of securities only: (i) U.S. Treasuries, (ii) [[Organization 10 Name]], and (iii) U.S. Agency MBS.
+
+“**Security Type**” means a type of Security as characterized by (i) issuer or guarantor, as the case may be, (ii) issue, and (iii) nominal value and description, with the same CUSIP or ISIN number.
+
+“**Seller’s Margin Percentage**” means a percentage equal to the respective Buyer’s Margin Percentage.
+
+“**Significant Subsidiary**” means, at any time, any Subsidiary of any Person the assets of which as at such time exceed fifteen percent ([[Percentage 1: Number]]%) of the assets of such Person as reflected on the most recent financial statements of such Person.
+
+^^^^^ 
+“**Status**” means, as to Guarantor, the existence of Level I Status, Level II Status, or Level III Status, as the case may be. If Guarantor’s long-term credit rating by S&P and long-term credit rating by Moody’s are “split” such that no Status actually exists, (a) the Status that corresponds to the higher rating shall be deemed to exist if such ratings are split by one Level and (b) the Status that is one Level above (Level I being the highest Level and Level III being the lowest Level) the Status that corresponds to the lower rating shall be deemed to exist if such ratings are split by more than one Level. For example, (i) if Guarantor’s long-term credit rating is “A” by S&P and Guarantor’s long-term issuer rating is “A3” by Moody’s, Level I Status shall be deemed to exist, and (ii) if Guarantor’s long-term credit rating is “A” by S&P and Guarantor’s long-term credit rating is “Baa1” by Moody’s, Level II Status shall be deemed to exist.
+
+“**Subsidiary**” means, as to any Person, (i) any corporation of which at least a majority of the outstanding stock having by the terms thereof ordinary voting power to elect a majority of the board of directors of such corporation (irrespective of whether or not at the time stock of any other class or classes of such corporation shall have or might have voting power by reason of the happening of any contingency), (ii) any partnership of which at least a majority of the voting partnership interests, and (iii) any other entity, the majority of the voting interests of which are at the time owned by such Person, or by one or more Subsidiaries of such Person, or by such Person and one or more of its Subsidiaries.
+
+“**Termination Event**” has the meaning given in Section 11.3 of this Annex I.
+
+“**Total Debt to Total Capitalization Ratio**” shall have the meaning set forth in the Revolver and shall be calculated in accordance with the terms set forth in the Revolver.
+
+“**U.S. Treasuries**” means debt obligations (other than index-linked obligations) issued by the United States Treasury Department which mature within 11 years after the Purchase Date with respect to such debt obligations.
+
+“**[[Organization 10 Name]]**” means any debt obligations (other than U.S. Agency MBS) which (A) mature within 11 years after the Purchase Date with respect to such obligations and (B) are issued or guaranteed by the [[Organization 11 Name]], the [[Organization 12 Name]] or the [[Organization 13 Name]].
+
+“**U.S. Agency MBS**” means pass-through mortgage-backed securities which (A) mature within 30 years after the Purchase Date with respect to such securities and (B) are issued or guaranteed by the [[Organization 11 Name]], the [[Organization 12 Name]] or the [[Organization 13 Name]].
+
+“**USD**” means the lawful currency of the United States of America.
+
+^**AVAILABILITY**
+
+Subject to the terms and conditions set forth in the Agreement (including this Annex I), Buyer hereby agrees that, if so requested by Seller in a Repo Request (in the form
+
+^^^^^ 
+attached hereto as Schedule 2) on a Business Day (each such day, a “**Request Date**”), it shall enter into a Transaction with a specified Purchase Date, Buyer’s Margin Percentage, Purchase Price, Repurchase Date and Pricing Rate (each as determined in accordance with this Annex I), which terms shall be set forth in a Confirmation (in the form of Schedule 1 to this Annex I) pursuant to this Agreement.
+
+^**PROCEDURES**
+
+^^If Seller delivers a Repo Request to Buyer (with a copy to the Clearing Firm) on or prior to 10:00 a.m. on the Request Date, the Purchase Date in respect of the Transaction will be one Business Day after the Request Date. If Seller delivers a Repo Request to Buyer (with a copy to the Clearing Firm) after 10:00 a.m. on the Request Date, the Purchase Date in respect of the Transaction will be two Business Days after the Request Date. If requested by Seller, Buyer may, in its sole and absolute discretion, designate the Request Date with respect to a proposed Transaction as the Purchase Date, so long as, for the avoidance of doubt, all other terms and conditions in the Agreement are complied with in respect of such proposed Transaction
+
+^^Prior to 3:00 p.m. on the Business Day immediately prior to the Purchase Date (or on the Purchase Date if, in respect of such Transaction, the Request Date is the Purchase Date), Buyer shall (a) confirm to Seller that the portfolio of Securities specified in the Repo Request meets the requirements set out herein and (b) notify Seller of the minimum Market Value (based on the Purchase Price and the applicable Buyer’s Margin Percentage) of the Securities to be delivered by Seller on the Purchase Date.
+
+^^Prior to 10:00 a.m. on the Purchase Date, Seller shall notify Buyer that there are sufficient Securities in its account held with the Clearing Firm and which are to be delivered by it in relation to the proposed Transaction.
+
+^^Paragraph 3(a) is amended by deleting the words “orally or” and “either Buyer or”.
+
+^^Paragraph 3(c) of the Agreement shall be deleted and replaced with the following: “Notwithstanding anything contained in the Agreement, no Transaction shall be a Transaction terminable “on demand”, and the Agreement and Annex I shall be construed accordingly; provided that, subject to Paragraph 11(g) (as amended pursuant to Section 12.3 of Annex I), Seller shall have the right to terminate any Transaction on demand with five Business Days’ prior notice to Buyer (any such termination, an “**Early Termination**”). On the termination date specified in such demand, termination of the Transaction will be effected by transfer to Seller or its agent of the Purchased Securities and any Income in respect thereof received by Buyer (and not previously credited or transferred to, or applied to the obligations of, Seller pursuant to Paragraph 5 of the Agreement) against the payment by Seller of the Repurchase Price to an account of Buyer.”
+
+^^In relation to Paragraph 3(b), Buyer shall deliver each Confirmation in the form of Schedule 1 to this Annex I.
+
+^^^^^ 
+^^All transfers of funds required pursuant to the terms of the Agreement shall be made to the account specified by the recipient of the funds.
+
+^**CONDITIONS**
+
+^^Buyer will not be obliged to enter into any Transaction if
+
+5.1.1      as of the Purchase Date in respect of such Transaction, were such Transaction entered into, the aggregate Purchase Price of all outstanding Transactions would exceed the Commitment Amount at such Purchase Date (and, in the event that Seller delivers a Repo Request which would result in the Commitment Amount being exceeded, the Purchase Price specified therein shall be deemed to be such lesser amount as would result in the aggregate Purchase Price of all outstanding Transactions equaling the Commitment Amount);
+
+5.1.2      Seller has not, at or before 10:00 a.m. on the Purchase Date and in accordance with the Agreement, delivered to the Clearing Firm on behalf of Buyer sufficient Securities (including the Purchased Securities) to cover any Margin Deficit of Buyer for which a notice has been given under Paragraph 4 of the Agreement as of the close of business in New York on the Business Day prior to the Purchase Date (provided that, where the Request Date and the Purchase Date are the same, the Margin Deficit is for these purposes to be calculated without regard to the Transaction contemplated by the Repo Request);
+
+5.1.3      a Regulatory Change has occurred, other than any Regulatory Change that Buyer determines, in its reasonable discretion, is adequately remedied by the Increased Costs Event provisions of Section 11 of this Annex I;
+
+5.1.4      the proposed Transaction would, if entered into, result in a Termination Event 5.1.5 the Consolidated Tangible Net Worth of LMGI is less than $[[USD Value 1: Number]]; or
+
+5.1.6      the Total Debt to Total Capitalization Ratio of LMGI is greater than .35 to 1.00.
+
+^^Buyer will not be obliged to enter into any Transaction unless,
+
+5.2.1      Seller has first transferred to Buyer’s Clearing Account Securities with a Market Value equal to the product of (a) the Purchase Price with respect to the Transaction and (b) the applicable Buyer’s Margin Percentage with respect to such Securities;
+
+5.2.2      the portfolio of proposed Purchased Securities listed in the Repo Request provided by Seller in respect of such Transaction meets the requirements set out herein;
+
+5.2.3      the Purchase Date in respect of such Transaction falls within the period commencing on and including the Effective Date and ending on, but excluding, the Expiration Date;
+
+^^^^^ 
+5.2.4      the Repurchase Date in respect of such Transaction is 2 weeks, 1 month, 2 months or 3 months (as selected by Seller) after the Purchase Date and does not fall on a day that is after the Expiration Date;
+
+5.2.5      Buyer has access to the services and facilities of the FICC or an Alternative Clearing Corporation to settle and clear Transactions; and
+
+5.2.6      Guarantor’s Status is equal to or better than Level III Status.
+
+^^Buyer’s obligation to pay the Purchase Price in respect of any Transaction is subject to the satisfaction of each of the following conditions:
+
+5.3.1      each of the representations and warranties made by Seller and Guarantor in or pursuant to the Agreement (including, without limitation, pursuant to Paragraph 10 of the Agreement and Section 6 of this Annex I) are true and correct in all material respects on and as of the Purchase Date in respect of such Transaction;
+
+5.3.2      no events or circumstances have arisen that would cause the conditions in Section 4.02 of the Revolver not to be met on the Purchase Date (as if such Transaction was a Loan (as such term is defined in the Revolver) under the Revolver), before or after giving effect to such Transaction (excluding any failure by LMGI to provide timely notice of borrowing pursuant to Section 4.02(a) of the Revolver);
+
+5.3.3      no events or developments have occurred since the Effective Date which, individually or in the aggregate, have had or are reasonably likely to have a Materially Adverse Effect on Seller or Guarantor;
+
+5.3.4      no Default or Event of Default has occurred and is continuing or would result from such Transaction;
+
+5.3.5      none of the following has occurred and is continuing:
+
+^^an Act of Insolvency with respect to Seller or Guarantor;
+
+^^Seller is unable to make the statement required by Paragraph 5 of the form of Repo Request attached hereto as Schedule 2 in relation to such Transaction;
+
+^^any event which generally affects market participants who regularly participate in Securities sale and repurchase transactions which, in Buyer’s reasonable judgment, materially disturbs or inhibits the functioning of the securities repurchase market;
+
+^^Seller has failed to comply with Paragraph 4 within the applicable grace period (if any); or
+
+^^^^^ 
+^^Seller has failed to pay any Repurchase Price due and payable (other than on a Repurchase Date to which Section 13 of this Annex I applies) by it to Buyer whether on an accelerated Repurchase Date or otherwise and Guarantor has also failed to pay such due and payable Repurchase Price;
+
+5.3.6      Seller and Guarantor have delivered to Buyer all such documents as Buyer may reasonably request; and
+
+5.3.7      none of the proposed Purchased Securities have a maturity date that is earlier than the proposed Repurchase Date in respect of such Transaction.
+
+^^Buyer will not be required to enter into any Transaction unless it has received on the Effective Date:
+
+5.4.1      from Seller, a certificate of the Assistant Secretary of Seller, substantially in the form set forth in Schedule 3 to this Annex I or in a form otherwise acceptable to Buyer;
+
+5.4.2      from Guarantor, an opinion of counsel (which may be from Guarantor’s internal counsel) substantially in the form set forth in Schedule 4 to this Annex I or in a form otherwise acceptable to Buyer;
+
+5.4.3      from Guarantor, a certificate of the Assistant Secretary of Guarantor, substantially in the form set forth in Schedule 5 to this Annex I or in a form otherwise acceptable to Buyer; and
+
+5.4.4      an opinion of [[Organization 14 Name]] substantially in the form set forth in Schedule 6 to this Annex I or in a form otherwise acceptable to Buyer.
+
+^**REPRESENTATIONS AND WARRANTIES.**
+
+^^In addition to the representations contained in Paragraph 10 of the Agreement, Seller represents and warrants to Buyer as follows on the Effective Date and on each Purchase Date and on any date on which Purchased Securities or Additional Purchased Securities are to be transferred under any Transaction, Seller shall be deemed to repeat the following representations and warranties:
+
+6.1.1      Neither it nor LMGI is in contravention of (i) the Revolver (including, without limitation, Sections 6.04 and 6.05 of the Revolver), or (ii) to the extent any such contravention could reasonably be expected to have a Material Adverse Effect, any other Contractual Obligation binding on it, any of its Significant Subsidiaries, LMGI or any of LMGI’s Significant Subsidiaries;
+
+6.1.2      None of the Purchased Securities are subject to any Lien;
+
+6.1.3      Buyer is not acting as its fiduciary or advisor;
+
+^^^^^ 
+6.1.4      Financial Condition:
+
+^^The annual statement of Seller as of [[Date 4: Date]] as filed with the Insurance Regulatory Authorities of The State of New Hampshire, together with the related exhibits, schedules and explanations therein contained or thereto annexed, copies of which have been delivered to Buyer, are a full and true statement of all assets and liabilities and of the condition and affairs of Seller as of such date and of its income and deductions therefrom for the year then ended (within the meaning of applicable regulations and practices of the Insurance Regulatory Authorities of The State of New Hampshire), and such annual statement is accompanied by an opinion of the Corporate Actuary of Seller to the effect that the amounts carried in the balance sheet of Seller contained therein of certain actuarial items (i) meet the requirements of the insurance Applicable Laws of The State of New Hampshire, (ii) are computed in accordance with accepted loss reserving standards and principles, and (iii) make a reasonable provision for all unpaid loss and loss expense obligations of Seller under the terms of its policies and agreements;
+
+^^The audited balance sheet of LMHCI as of [[Date 4]] and the related statements of income and retained earnings and cash flows for the fiscal year then ended, reported on by [[Organization 15 Name]] LLP, a copy of which has been, in each case, delivered to Buyer, fairly present, in conformity with GAAP, the financial position of LMHCI as of such date and its results of operations and cash flows for such fiscal year; and
+
+^^Since [[Date 4]], there has been no event, occurrence or development which has had or could reasonably be expected to have a Materially Adverse Effect;
+
+6.1.5      Except as otherwise disclosed in the annual statement of Seller as of [[Date 4]], no litigation, investigation or proceeding of or before any Governmental Authority is pending or, to the knowledge of Seller, threatened by or against Seller or against any of its Properties or revenues (a) with respect to the Agreement, any related documents or any of the arrangements or Transactions contemplated hereby or thereby, or (b) which involves a probable risk of an adverse determination which could reasonably be expected to have a Materially Adverse Effect.
+
+6.1.6      No part of the Purchase Price in respect of a Transaction will be used by Seller for “buying,” “purchasing” or “carrying” any “margin stock” within the respective meanings of each of such quoted terms under Regulation U of the Board of Governors of the Federal Reserve System as now or from time to time in effect or for any purpose which violates the provisions of any of the Regulations of such Board of Governors.
+
+^^^^^ 
+6.1.7      Seller is not an “investment company”, or a company “controlled” by an “investment company”, within the meaning of the Investment Company Act of 1940, as amended.
+
+6.1.8      Seller is in compliance in all material respects with all material provisions of ERISA, except to the extent that any failures so to be in compliance could not reasonably be expected to have a Materially Adverse Effect.
+
+6.1.9      Seller is in all material respects in compliance with all Applicable Laws and requirements of Governmental Authorities, except to the extent that any failures so to be in compliance could not reasonably be expected to have a Materially Adverse Effect.
+
+6.1.10      No report, financial statement or other written information furnished by or on behalf of Seller to Buyer pursuant to Section 6.1.4 or Section 15 of this Annex I contains or will contain any material misstatement of fact or omits or will omit to state any material fact necessary to make the statements therein, in light of the circumstances under which they were, are or will be made, not materially misleading.
+
+6.1.11      On the Effective Date, LMHCI indirectly owns and controls, both legally and beneficially, with full power to vote, one hundred percent ([[Percentage 2: Number]]%) of the outstanding shares of capital stock of LMGI. After the Effective Date, LMHCI indirectly owns and controls, both legally and beneficially, with full power to vote, not less than fifty-one percent ([[Percentage 3: Number]]%) of the outstanding shares of capital stock of LMGI. On the Effective Date, LMGI owns and controls, both legally and beneficially, with full power to vote, one hundred percent ([[Percentage 2]]%) of the outstanding shares of the capital stock of Guarantor. After the Effective Date, LMGI owns and controls, both legally and beneficially, with full power to vote, not less than fifty-one percent ([[Percentage 3]]%) of the outstanding shares of the capital stock of Guarantor. On the Effective Date, LMHCI indirectly owns and controls, both legally and beneficially, with full power to vote, one hundred percent ([[Percentage 2]]%) of the outstanding shares of the capital stock of Seller. After the Effective Date, Guarantor indirectly owns and controls, both legally and beneficially, with full power to vote, not less than fifty-one percent ([[Percentage 3]]%) of the outstanding shares of the capital stock of Seller.
+
+^^Guarantor represents and warrants to Buyer as follows on the Effective Date and on each Purchase Date and on any date on which Purchased Securities or Additional Purchased Securities are to be transferred under any Transaction, Guarantor shall be deemed to repeat the following representations and warranties:
+
+6.2.1      Neither it nor LMGI is in contravention of (i) the Revolver (including, without limitation, Sections 6.04 and 6.05 of the Revolver), or (ii) to the extent any such contravention could reasonably be expected to have a Material Adverse Effect, any other Contractual Obligation binding on it, any of its Significant Subsidiaries, LMGI or any of LMGI’s Significant Subsidiaries;
+
+^^^^^ 
+6.2.2      Buyer is not acting as its fiduciary or advisor;
+
+6.2.3      Financial Condition:
+
+^^The annual statement of Guarantor as of [[Date 4]] as filed with the Insurance Regulatory Authorities of The Commonwealth of Massachusetts, together with the related exhibits, schedules and explanations therein contained or thereto annexed, copies of which have been delivered to Buyer, are a full and true statement of all assets and liabilities and of the condition and affairs of Guarantor as of such date and of its income and deductions therefrom for the year then ended (within the meaning of applicable regulations and practices of the Insurance Regulatory Authorities of The Commonwealth of Massachusetts), and such annual statement is accompanied by an opinion of the Corporate Actuary of Guarantor to the effect that the amounts carried in the balance sheet of Guarantor contained therein of certain actuarial items (i) meet the requirements of the insurance Applicable Laws of The Commonwealth of Massachusetts, (ii) are computed in accordance with accepted loss reserving standards and principles, and (iii) make a reasonable provision for all unpaid loss and loss expense obligations of Guarantor under the terms of its policies and agreements; and
+
+^^Since [[Date 4]], there has been no event, occurrence or development which has had or could reasonably be expected to have a Materially Adverse Effect;
+
+6.2.4      It has the corporate power and authority, and the legal right, to make, deliver and perform the Guarantee as contemplated hereby. Guarantor has taken all necessary corporate action to authorize the execution, delivery and performance of the Guarantee and any related documents to which it is or is to become a party. Except as has already been obtained, filed, given or performed, no consent or authorization of any Governmental Authority (including any Insurance Regulatory Authority) or any other Person is required in connection with the execution, delivery, performance or enforceability of the Guarantee. The Guarantee has been duly executed and delivered by and on behalf of Guarantor. The Guarantee constitutes a legal, valid and binding obligation of Guarantor enforceable against it in accordance with its terms. The enforceability of the Guarantee and any related document to which Guarantor is or is to become a party or by which Guarantor is or is to become bound shall be subject to applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and to general equitable principles (whether enforcement is sought by proceedings in equity or at law).
+
+6.2.5      The execution, delivery and performance of the Guarantee and any related documents will not violate any Requirement of Law or any Contractual Obligation of Guarantor and will not result in, or require, the creation or
+
+^^^^^ 
+imposition of any Lien on any of the Properties or revenues of Guarantor pursuant to any such Requirement of Law or Contractual Obligation.
+
+6.2.6      Except as otherwise disclosed in the annual statement of Guarantor as of [[Date 4]], no litigation, investigation or proceeding of or before any Governmental Authority is pending or, to the knowledge of Guarantor, threatened by or against Guarantor or against any of its Properties or revenues (a) with respect to the Agreement, the Guarantee, any related documents or any of the arrangements or Transactions contemplated hereby or thereby, or (b) which involves a probable risk of an adverse determination which could reasonably be expected to have a Materially Adverse Effect.
+
+6.2.7      Guarantor is not an “investment company”, or a company “controlled” by an “investment company”, within the meaning of the Investment Company Act of 1940, as amended.
+
+6.2.8      Guarantor is in compliance in all material respects with all material provisions of ERISA, except to the extent that any failures so to be in compliance could not reasonably be expected to have a Materially Adverse Effect.
+
+6.2.9      Guarantor is in all material respects in compliance with all Applicable Laws and requirements of Governmental Authorities, except to the extent that any failures so to be in compliance could not reasonably be expected to have a Materially Adverse Effect.
+
+6.2.10      No report, financial statement or other written information furnished by or on behalf of Guarantor to Buyer pursuant to Section 6.2.3 or Section 15 of this Annex I contains or will contain any material misstatement of fact or omits or will omit to state any material fact necessary to make the statements therein, in light of the circumstances under which they were, are or will be made, not materially misleading.
+
+6.2.11      On the Effective Date, LMHCI indirectly owns and controls, both legally and beneficially, with full power to vote, one hundred percent ([[Percentage 2]]%) of the outstanding shares of capital stock of LMGI. After the Effective Date, LMHCI indirectly owns and controls, both legally and beneficially, with full power to vote, not less than fifty-one percent ([[Percentage 3]]%) of the outstanding shares of capital stock of LMGI. On the Effective Date, LMGI owns and controls, both legally and beneficially, with full power to vote, one hundred percent ([[Percentage 2]]%) of the outstanding shares of the capital stock of Guarantor. After the Effective Date, LMGI owns and controls, both legally and beneficially, with full power to vote, not less than fifty-one percent ([[Percentage 3]]%) of the outstanding shares of the capital stock of Guarantor. On the Effective Date, LMHCI indirectly owns and controls, both legally and beneficially, with full power to vote, one hundred percent ([[Percentage 2]]%) of the outstanding shares of the capital stock of Seller. After the Effective Date, Guarantor indirectly owns and controls, both legally and beneficially, with full
+
+^^^^^ 
+power to vote, not less than fifty-one percent ([[Percentage 3]]%) of the outstanding shares of the capital stock of Seller.
+
+^^Guarantor shall
+
+6.3.1      make to Buyer all the representations and warranties set out in Paragraph 10 (other than representation and warranty (ii) of Paragraph 10) on the Effective Date; and
+
+6.3.2      be deemed to repeat to Buyer all the representations and warranties set out in Paragraph 10 (other than representation and warranty (ii) of Paragraph 10) on any date on which Purchased Securities or Additional Purchase Securities are to be transferred under any Transaction.
+
+^^In addition to the representations contained in Paragraph 10 of the Agreement, each party (including Guarantor) hereto represents and warrants to the other party as follows, and on each Payment Date and on any date on which Purchased Securities or Additional Purchased Securities are to be transferred under any Transaction, each party hereto shall be deemed to repeat the following:
+
+6.4.1      No Termination Event has occurred or would occur by reason of its entering into or performing its obligations under the Agreement or any Transaction;
+
+6.4.2      Notwithstanding any arrangements which it may have with any third party, it will be liable as a principal for its obligations under the Agreement and each Transaction;
+
+6.4.3      It has not relied on any representations of the other party to the Agreement, other than those representations expressly set forth in the Agreement;
+
+6.4.4      It has not received any assurances from the other party in respect of the Agreement or any Transaction other than as set forth in the Agreement;
+
+6.4.5      In connection with its entry into the Agreement and each Transaction it has consulted, to the extent it considers necessary, its own advisors (including, without limitation, any legal advisors and any accountants and auditors);
+
+6.4.6      It is a sophisticated institution that has a full understanding of all of the terms, conditions and risks of the Agreement and each Transaction;
+
+6.4.7      It (i) is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization, (ii) has the corporate power and authority, and the legal right, to own its Property and to conduct the business in which it is currently engaged, and (iii) is duly qualified to do business and in good standing under the laws of each jurisdiction where its ownership, lease or operation of its Property or the conduct of its business requires such qualification, except to the extent that any failures to be so qualified or in good standing could not have a Materially Adverse Effect;
+
+^^^^^ 
+6.4.8      It has the corporate power and authority, and the legal right, to make, deliver and perform the Agreement as contemplated hereby, and to enter into Transactions. It has taken all necessary corporate action to authorize the Transactions on the terms and conditions of the Agreement, and has taken all necessary corporate action to authorize the execution, delivery and performance of the Agreement and any related documents to which it is or is to become a party. Except as has already been obtained, filed, given or performed, no consent or authorization of any Governmental Authority (including any Insurance Regulatory Authority) or any other Person is required in connection with the Transactions hereunder or in connection with the execution, delivery, performance or enforceability of the Agreement. The Agreement has been duly executed and delivered by and on its behalf. The Agreement constitutes a legal, valid and binding obligation of it enforceable against it in accordance with the Agreement’s terms. The enforceability of the Agreement and any related document to which it is or is to become a party or by which it is or is to become bound shall be subject to applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting the enforcement of creditors’ rights generally and to general equitable principles (whether enforcement is sought by proceedings in equity or at law); and
+
+6.4.9      The execution, delivery and performance of the Agreement and any related documents, the Transactions and the use of the proceeds thereof will not violate any Requirement of Law or any Contractual Obligation of it and will not result in, or require, the creation or imposition of any Lien on any of the Properties or revenues of it pursuant to any such Requirement of Law or Contractual Obligation.
+
+^**MARGIN**
+
+On any day on which Buyer or Seller delivers, or is required to deliver, Purchased Securities or Additional Purchased Securities, each of Buyer and Seller will determine the aggregate amount or value of such delivery or transfer of such securities and the amount or value of each Security Type delivered or to be delivered, and will notify the other party of its determinations.
+
+^**MARKET VALUE**
+
+For the purpose of Paragraph 2(j), the generally recognized source for the determination of Market Value shall be the price determined by the Clearing Firm and approved by Buyer in its reasonable discretion; provided that, if the Clearing Firm does not determine the price, the generally recognized source for the determination of Market Value shall be the price determined by Buyer in good faith.
+
+^**EVENTS OF DEFAULT**
+
+^^The introductory paragraph of Paragraph 11 is deleted in its entirety and replaced with the following:
+
+“In the event that
+
+^^^^^ 
+^^^Seller fails to repurchase (and Guarantor has not made such repurchase on behalf of Seller) or Buyer fails to transfer Purchased Securities upon the applicable Repurchase Date,
+
+^^^Seller or Buyer fails to comply with Paragraph 4 hereof for a period of one Business Day,
+
+^^^Buyer fails, after one Business Day’s notice, to comply with Paragraph 5 hereof,
+
+^^^Seller or Buyer fails to pay when due any sum under the Agreement (except in the case of a Failed Inception Transaction) (and, in the case of Seller’s failure to pay, Guarantor has not made such payment on behalf of Seller),
+
+^^^an Act of Insolvency occurs with respect to Seller, Guarantor or Buyer,
+
+^^^a Default or an Event of Default (each as defined in the Revolver) occurs under the Revolver (in which case Seller shall be the defaulting party),
+
+^^^a Ratings Event occurs (in which case Seller shall be the defaulting party),
+
+^^^any representation or warranty made or deemed to be made by Seller or Guarantor under the Agreement or in any certificate, report or notice furnished pursuant to the Agreement shall prove to have been materially untrue or incorrect on or as of the date made or deemed to be made,
+
+^^^the Consolidated Tangible Net Worth of LMGI is, at any time, less than $[[USD Value 1]] and such condition is not remedied within 30 days,
+
+^^^the Total Debt to Total Capitalization Ratio of LMGI is, at any time, greater than .35 to 1.00 and such condition is not remedied within 30 days,
+
+^^^Seller or Guarantor defaults in the observance of any covenant in Section 16.1 of this Annex I,
+
+^^^Seller or Guarantor defaults in the observance of any other covenant in the Agreement (excluding any breach in (i) through (xi) of this paragraph) and such breach is not remedied within 30 days,
+
+^^^Guarantor defaults in the observance of any covenant or provision of the Guarantee,
+
+^^^an Event of Default (as such term is defined in the LMIC Repo Agreement) occurs under the LMIC Repo Agreement and Guarantor (in its capacity as Seller under the LMIC Repo Agreement) is the defaulting party,
+
+^^^Seller or Guarantor shall (a) default in the payment when due (whether at stated maturity, by acceleration or otherwise) of $[[USD Value 2: Number]] or more of any Indebtedness for Borrowed Money or Contingent Obligations, and such default
+
+^^^^^ 
+shall continue beyond the grace period, if any, provided in the Instrument under which such Indebtedness for Borrowed Money or Contingent Obligations were created or are evidenced or secured, or (b) fail to observe or perform any term, covenant, condition or agreement contained in any Instrument evidencing or governing such Indebtedness for Borrowed Money or Contingent Obligations if the effect of any failure referred to in this clause (b) is to cause such Indebtedness for Borrowed Money or Contingent Obligations to become due prior to its stated maturity, or
+
+^^^one or more judgments or decrees (a) have been entered against Seller or Guarantor, (b) have not been vacated, discharged, satisfied, stayed or bonded pending appeal within 60 days from the entry thereof, and (c) involve a liability (not paid or fully covered by insurance) of either (I) $[[USD Value 3: Number]] or more, in the case of any single judgment or decree, or (II) $[[USD Value 4: Number]] or more in the aggregate, in the case of all such judgments and decrees
+
+(each of (i) through (xvi) above, an “**Event of Default**”) (and, for the avoidance of doubt, if Guarantor is the defaulting party with respect to an Event of Default, Seller shall also be the defaulting party):”
+
+^^If an Event of Default with respect to Seller or Guarantor has occurred and is continuing, Buyer may, by written notice to Seller and Guarantor, declare the Available Commitment to be reduced to zero for such time as Buyer may specify. This Section 9.2 shall not preclude Buyer from exercising any other remedy available to it, including, without limitation, any remedy available to it under the Agreement.
+
+^^If, at any time, an Event of Default has occurred and is continuing, the non-defaulting party shall have the right to terminate the Agreement.
+
+^^Notwithstanding Paragraph 11(h), interest on any amount payable by Seller or Guarantor pursuant to Paragraph 11(h) or this Annex I shall be at a rate equal to the greater of (i) the Pricing Rate for the relevant Transaction *plus* [[Percentage 4: Number]]% or (ii) the Prime Rate (as defined in Paragraph 2 of the Agreement).
+
+^**SUBSTITUTION**
+
+The following sentence shall be inserted at the end of Paragraph 9(a): “Notwithstanding the foregoing, Buyer shall not be obliged to transfer Purchased Securities until it has determined (at its sole discretion) that sufficient replacement Securities have been provided by Seller to the Clearing Account. Furthermore, Buyer shall not issue any instructions to the Clearing Firm to transfer Purchased Securities from the Clearing Account until the replacement Securities have been transferred to the Clearing Account whereupon such instruction shall be promptly given and the Purchased Securities shall be transferred.”
+
+^^^^^ 
+^**INCREASED COST EVENT AND TERMINATION EVENT**
+
+^^If there shall be (i) any increase in the cost to Buyer of agreeing to enter into, or entering into, funding or maintaining any Transaction, or (ii) any reduction in any amount or a decrease in the return receivable by Buyer in respect of any Transaction, in each case other than with respect to Taxes, which shall be governed solely by Section 19, and such increased cost, decreased return or reduced amount receivable is due to either:
+
+^^the introduction of or any change in or in the interpretation of any Applicable Law after the Effective Date hereof;
+
+^^compliance with any guideline or request made after the Effective Date from any central bank or other Governmental Authority (whether or not having the force of law); or
+
+^^a Regulatory Change (any such increased cost, reduced amount and decreased return a “**Increased Costs Event**”),
+
+then Seller shall from time to time, upon demand by Buyer, pay to Buyer additional amounts sufficient to compensate Buyer for such increased cost, reduced amount receivable or decreased return.
+
+^^If Buyer shall have reasonably determined that (i) the applicability of any Applicable Law or guideline adopted prior to or after the Effective Date, or (ii) the adoption after the Effective Date of any Applicable Law or guideline regarding capital adequacy affecting Buyer, or (iii) any change arising after the Effective Date in the foregoing or in the interpretation or administration of any of the foregoing by any Governmental Authority, central bank or other comparable agency charged with the interpretation or administration thereof, or (iv) compliance by Buyer, or any holding company for Buyer which is subject to any of the capital requirements described above, with any request or directive of general application issued after the date hereof regarding capital adequacy (whether or not having the force of law) of any such Governmental Authority, central bank or comparable agency, or (v) any Regulatory Change, has or would have the effect of reducing the rate of return on Buyer’s capital or on the capital of any such holding company as a consequence of Buyer’s obligations hereunder to a level below that which Buyer or any such holding company could have achieved but for such adoption, change or compliance (taking into consideration Buyer’s policies and the policies of such holding company with respect to capital adequacy) by an amount deemed by Buyer to be material, then from time to time Buyer may request Seller to pay to Buyer, and Seller shall pay to Buyer, such additional amounts as will compensate Buyer or any such holding company for any such reduction suffered.
+
+^^A “**Termination Event**” will occur if it becomes unlawful in any applicable jurisdiction for a party to perform any absolute or contingent obligation to make a payment or delivery of securities in respect of a Transaction;
+
+^^If a Termination Event occurs with respect to all Transactions, and is continuing, Buyer may, by written notice to Seller, reduce the Available Commitment to such amount
+
+^^^^^ 
+(including zero) as is specified in such notice, for such period (including permanently) as is specified in such notice.
+
+^^Seller may, at any time, upon thirty (30) days written notice to Buyer, terminate the Agreement; provided that, if Seller terminates the Agreement pursuant to this Section 11.5, any outstanding Transactions shall be required to be terminated pursuant to all applicable terms of the Agreement.
+
+^**CLOSE OUT**
+
+^^In the event of the occurrence of an Event of Default, the Repurchase Date in respect of each Transaction shall be deemed to immediately occur and all amounts due on the Repurchase Date in respect of each Transaction shall then be immediately due and payable, and all Purchased Securities deliverable on the Repurchase Dates in respect of all of the Transactions shall then be immediately deliverable.
+
+^^In the event of the occurrence of a Termination Event, the provisions of Paragraph 11 shall apply as if such Termination Event were an Event of Default and the defaulting party were the party in relation to which such Termination Event occurred.
+
+^^Paragraph 11(g) is hereby deleted in its entirety and replaced with the following: “If a Transaction is terminated before its agreed Repurchase Date and either (i) such termination is an Early Termination caused by Seller or Guarantor or (ii) Seller or Guarantor is (x) the defaulting party or (y) the party in respect of which the unlawfulness occurred (in the case of a Termination Event), Seller shall indemnify Buyer and hold Buyer harmless from any loss or reasonable expense which Buyer may sustain or incur as a result of such termination. Such indemnification shall include, without limitation, (i) any and all losses incurred in obtaining, liquidating or employing deposits from third parties, and (ii) an amount equal to the excess, if any, of (x) the amount of interest (in the form of the Price Differential) Buyer would have received on an amount equal to the Purchase Price had such termination not occurred, for the period from and including the Termination Date to but excluding the Repurchase Date relating to such Transaction over (y) the amount of interest which would have accrued to Buyer on such amount by placing such amount on deposit for a comparable period with leading banks in the interbank eurodollar market. This covenant shall survive the termination of the Agreement and the payment of all other amounts payable hereunder.”
+
+^**ROLL-OVER TRANSACTIONS**
+
+Provided that no Default or Event of Default has occurred and is continuing, on the Repurchase Date of a Transaction or a replacement Transaction entered into under this provision (a “**Roll-Over Transaction**”), Buyer, if so requested by Seller prior to 10:00 a.m. at least one (1) Business Day prior to such Repurchase Date (the date of the request, the “**Roll-Over Request Date**”), will enter into a Roll-Over Transaction in respect of the Purchased Securities under each such Transaction (subject to satisfaction of the conditions set forth in Section 4 and Section 5 of this Annex I). The Purchase Date of each Roll-Over Transaction shall be the Repurchase Date of the immediately preceding
+
+^^^^^ 
+Transaction and the Purchase Price and Buyer’s Margin Percentages shall be the same as those of the immediately preceding Transaction, unless otherwise agreed between the parties. Buyer will notify Seller of the Market Value (based on the Purchase Price and the applicable Buyer’s Margin Percentages and determined from the applicable pricing source on the Roll-Over Request Date) and the Pricing Rate that shall apply to each Roll-Over Transaction on each respective Repurchase Date. Neither party shall be under any obligation to enter into any Transaction, whether a Roll-Over Transaction or otherwise, in respect of which the Repurchase Date would fall after the Expiration Date.
+
+^**INCEPTION FAILURE**
+
+Subject to the terms of the Agreement, if Seller delivers a Repo Request and subsequently fails to deliver Purchased Securities on the Purchase Date specified in such Repo Request, Seller shall indemnify and hold Buyer harmless from any loss or reasonable expense which Buyer may sustain or incur as a result of such failure. Such indemnification shall include, without limitation, (i) any and all losses incurred in obtaining, liquidating or employing deposits from third parties, and (ii) an amount equal to the excess, if any, of (x) the amount of interest (in the form of the Price Differential) Buyer would have received on an amount equal to the Purchase Price had such failure not occurred, for the period from and including the Purchase Date specified in the Repo Request to but excluding the Repurchase Date specified in the Repo Request over (y) the amount of interest which would have accrued to Buyer on such amount by placing such amount on deposit for a comparable period with leading banks in the interbank eurodollar market. This covenant shall survive the termination of the Agreement and the payment of all other amounts payable hereunder.
+
+^**AFFIRMATIVE COVENANTS**
+
+^^Seller hereby agrees with Buyer that, from and after the Effective Date and until the later of (i) the Expiration Date or (ii) the date on which the Repurchase Price in respect of each Transaction has been paid in full, Seller shall furnish to Buyer copies of the following financial statements, reports and other information:
+
+15.1.1      as soon as available and in any event within 90 days after the end of each fiscal year of Seller, the annual statement of Seller as of the end of such fiscal year, as filed with (and in the form required under Applicable Laws and regulations of) the Insurance Regulatory Authorities of The State of New Hampshire (x) accompanied by an opinion of the Corporate Actuary of Seller covering amounts carried on the balance sheet of certain actuarial items of Seller in the form required under Applicable Laws and regulations of the Insurance Regulatory Authorities of The State of New Hampshire, and (y) certified by a Financial Officer of Seller on behalf of Seller as to consistency with respect to accounting and actuarial policies and that such annual statement is a full and true statement of all the assets and liabilities and of the condition and affairs of Seller as of the end of such fiscal year and of its income and deductions therefrom for such fiscal year (within the meaning of applicable regulations and practices of the Insurance Regulatory Authorities of The State of New Hampshire);
+
+^^^^^ 
+15.1.2      as soon as available and in any event within 90 days after the end of each fiscal year of LMGI, the audited balance sheet of LMGI as of the end of such fiscal year and the related audited statements of income and retained earnings and cash flows for such fiscal year, setting forth in each case in comparative form the figures for the previous fiscal year, all reported on by [[Organization 15 Name]] LLP or other independent public accountants of nationally recognized standing without qualification as to the scope of the audit performed or any material weakness noted in LMGI’s system of internal controls and all certified as to fairness of presentation, GAAP and consistency, in each case by a Financial Officer of LMGI;
+
+15.1.3      as soon as available and in any event within 45 days after the end of each of the first three quarters of each fiscal year of Seller, the quarterly statement of Seller as of the end of such quarter, as filed with the Insurance Regulatory Authorities of The State of New Hampshire, certified (subject to year-end accounting and actuarial adjustments) on behalf of Seller by a Financial Officer of Seller as to consistency with respect to accounting and actuarial policies and that such quarterly statement is a full and true statement of all of the assets and liabilities and of the condition and affairs of Seller as of the end of such quarter and of its income and deductions therefrom for such quarter and for the portion of Seller’s fiscal year ended at the end of such quarter (within the meaning of applicable regulations and practices of the Insurance Regulatory Authorities of The State of New Hampshire);
+
+15.1.4      as soon as available and in any event within 45 days after the end of each of the first three quarters of each fiscal year of LMGI, the unaudited balance sheet of LMGI as of the end of such quarter and the related unaudited statements of income for the portion of LMGI ‘s fiscal year ended at the end of such quarter, all certified (subject to the absence of footnotes and normal year-end adjustments) as to fairness of presentation, GAAP and consistency, in each case by a Financial Officer of LMGI;
+
+15.1.5      simultaneously with the delivery of: (i) each set of financial statements of LMGI referred to in Section 15.1.2 and 15.1.4 a certificate of a Financial Officer of LMGI (A) stating whether or not (x) the Consolidated Tangible Net Worth of LMGI is at least $[[USD Value 5: Number]] and (y) the Total Debt to Capitalization Ratio of LMGI is greater than .35 to 1.00, as at the last day of the fiscal period covered by such financial statements, and (B) stating the Consolidated Tangible Net Worth of LMGI and the Total Debt to Total Capitalization Ratio of LMGI as at the last day of such period, and (ii) each set of financial statements referred to in Subsections 15.1.1, 15.1.2, 15.1.3 and 15.1.4, a certificate of a Financial Officer of Seller stating whether, to the knowledge of such Financial Officer, any Default or Event of Default (each as defined in the Revolver) exists under the Revolver or if any Default or Event of Default exists under the Agreement on the date of such certificate and, if any Default or Event of Default (each as defined in the Revolver) then exists under the Revolver or if any Default or Event of Default then exists under the Agreement, setting forth the details thereof and the action which Seller
+
+^^^^^ 
+or, in the case of the Revolver, LMGI, is taking or proposes to take with respect thereto;
+
+15.1.6      within fifteen (15) days after any Financial Officer of Seller obtains knowledge of any Default or Event of Default that exists under the Agreement, if such Default or Event of Default is then continuing, a certificate of a Financial Officer of Seller setting forth the details thereof and the action which Seller is taking or proposes to take with respect thereto;
+
+15.1.7      within fifteen (15) days after any Financial Officer of Seller or LMGI, as the case may be, obtains knowledge of any Default or Event of Default (each as defined in the Revolver) that exists under the Revolver, if such Default or Event of Default (each as defined in the Revolver) under the Revolver is then continuing, a certificate of a Financial Officer of Seller setting forth the details thereof and the action which LMGI is taking or proposes to take with respect thereto; provided that, Seller shall use reasonable efforts to provide any notice of a Default or Event of Default (each as defined in the Revolver) under the Revolver to Buyer at the same time or as promptly as practicable after LMGI notifies the lenders under the Revolver of such Default or Event of Default;
+
+15.1.8      promptly upon the mailing thereof to the policyholders of Seller generally, copies of all financial statements, reports and proxy statements so mailed; and
+
+15.1.9      promptly upon the filing thereof, (i) in addition to the annual statements and quarterly statements referred to in 15.1.1 and 15.1.3 above, copies of all other financial statements of Seller filed with the Insurance Regulatory Authorities of The State of New Hampshire, and (ii) copies of all registration statements (other than the exhibits thereto and any registration statements on Form S-8 or its equivalent) and reports on Forms 10-K, 10-Q and 8-K (or their equivalents), if any, which Seller, LMGI or LMHCI shall have filed with the Securities and Exchange Commission with respect to debt securities or preferred or common stock issued by Seller, LMGI or LMHCI, as the case may be.
+
+^^Guarantor hereby agrees with Buyer that, from and after the Effective Date and until the later of (i) the Expiration Date or (ii) the date on which the Repurchase Price in respect of each Transaction has been paid in full, Guarantor shall furnish to Buyer copies of the following financial statements, reports and other information:
+
+15.2.1      as soon as available and in any event within 90 days after the end of each fiscal year of Guarantor, the annual statement of Guarantor as of the end of such fiscal year, as filed with (and in the form required under Applicable Laws and regulations of) the Insurance Regulatory Authorities of The Commonwealth of Massachusetts (x) accompanied by an opinion of the Corporate Actuary of Guarantor covering amounts carried on the balance sheet of certain actuarial items of Guarantor in the form required under Applicable Laws and regulations of the Insurance Regulatory Authorities of The Commonwealth of Massachusetts, and (y) certified by a Financial Officer of Guarantor on behalf of Guarantor as to
+
+^^^^^ 
+consistency with respect to accounting and actuarial policies and that such annual statement is a full and true statement of all the assets and liabilities and of the condition and affairs of Guarantor as of the end of such fiscal year and of its income and deductions therefrom for such fiscal year (within the meaning of applicable regulations and practices of the Insurance Regulatory Authorities of The Commonwealth of Massachusetts);
+
+15.2.2      as soon as available and in any event within 45 days after the end of each of the first three quarters of each fiscal year of Guarantor, the quarterly statement of Guarantor as of the end of such quarter, as filed with the Insurance Regulatory Authorities of The Commonwealth of Massachusetts, certified (subject to year-end accounting and actuarial adjustments) on behalf of Guarantor by a Financial Officer of Guarantor as to consistency with respect to accounting and actuarial policies and that such quarterly statement is a full and true statement of all of the assets and liabilities and of the condition and affairs of Guarantor as of the end of such quarter and of its income and deductions therefrom for such quarter and for the portion of Guarantor’s fiscal year ended at the end of such quarter (within the meaning of applicable regulations and practices of the Insurance Regulatory Authorities of The Commonwealth of Massachusetts);
+
+15.2.3      simultaneously with the delivery of: each set of financial statements referred to in Subsections 15.2.1 and 15.2.2, a certificate of a Financial Officer of Guarantor stating whether, to the knowledge of such Financial Officer, any Default or Event of Default (each as defined in the Revolver) exists under the Revolver or if any Default or Event of Default exists under the Agreement on the date of such certificate and, if any Default or Event of Default (each as defined in the Revolver) then exists under the Revolver or if any Default or Event of Default then exists under the Agreement, setting forth the details thereof and the action which Seller or, in the case of the Revolver, LMGI, is taking or proposed to take with respect thereto;
+
+15.2.4      simultaneously with the delivery of: each set of financial statements referred to in Subsections 15.2.1 and 15.2.2, a certificate of a Financial Officer of Guarantor stating whether, to the knowledge of such Financial Officer, Guarantor is in default of any of its obligations under the Guarantee and, it is in default of any of its obligations under the Guarantee, setting forth the details thereof and the action which Guarantor is taking or proposes to take with respect thereto;
+
+15.2.5      within fifteen (15) days after any Financial Officer of Guarantor obtains knowledge of any Default or Event of Default that exists under the Agreement, if such Default or Event of Default is then continuing, a certificate of a Financial Officer of Guarantor setting forth the details thereof and the action which Seller is taking or proposes to take with respect thereto;
+
+15.2.6      promptly upon the mailing thereof to the policyholders of Guarantor generally, copies of all financial statements, reports and proxy statements so mailed; and
+
+^^^^^ 
+15.2.7      promptly upon the filing thereof, (i) in addition to the annual statements and quarterly statements referred to in 15.2.1 and 15.2.2 above, copies of all other financial statements of Guarantor filed with the Insurance Regulatory Authorities of The Commonwealth of Massachusetts, and (ii) copies of all registration statements (other than the exhibits thereto and any registration statements on Form S-8 or its equivalent) and reports on Forms 10-K, 10-Q and 8-K (or their equivalents), if any, which Guarantor, LMGI or LMHCI shall have filed with the Securities and Exchange Commission with respect to debt securities or preferred or common stock issued by Guarantor, LMGI or LMHCI, as the case may be.
+
+^^Each of Seller and Guarantor hereby agrees with Buyer that, from and after the Effective Date and until the later of (i) the Expiration Date or (ii) the date on which the Repurchase Price in respect of each Transaction has been paid in full, it shall furnish to Buyer copies of the following notices and other information:
+
+15.3.1      upon obtaining knowledge thereof, written notice (accompanied by a reasonably detailed explanation with respect thereto) of:
+
+^^any litigation, arbitration or governmental investigation or proceeding not previously disclosed by Seller to it which has been instituted or, to its best knowledge (after due inquiry), is threatened against it or its Significant Subsidiaries or to which any of their respective Property is subject which
+
+^^^involves a probable risk of an adverse determination which could reasonably be expected to have a Materially Adverse Effect, or
+
+^^^relates to the Agreement or the Guarantee; and
+
+^^any event or development which, in its reasonable judgment, could have a Materially Adverse Effect.
+
+15.3.2      within ten (10) Business Days after the occurrence thereof, written notice of any change in Guarantor’s Status; provided that the failure to provide such notice shall not delay or otherwise affect any change in the Applicable Spread or any other amount payable hereunder which is to occur upon a change in Guarantor’s Status pursuant to the terms of the Agreement.
+
+^^Each of Seller and Guarantor hereby agrees with Buyer that, from and after the Effective Date and until the later of (i) the Expiration Date or (ii) the date on which the Repurchase Price in respect of each Transaction has been paid in full, it shall comply, and cause each Significant Subsidiary to comply, in all material respects with all Applicable Laws and all requirements of Governmental Authorities (including, without limitation, all applicable Insurance Regulatory Authorities), except where a failure to comply therewith could not reasonably be expected to have a Materially Adverse Effect.
+
+^^Each of Seller and Guarantor hereby agrees with Buyer that, from and after the Effective Date and until the later of (i) the Expiration Date or (ii) the date on which the Repurchase Price in respect of each Transaction has been paid in full, it shall preserve, renew and
+
+^^^^^ 
+keep in full force and effect its corporate existence and take all reasonable action to maintain all rights, privileges and franchises necessary or desirable in the normal conduct of its principal lines of business, except to the extent that any failure to do so could not reasonably be expected to have a Materially Adverse Effect.
+
+^^Buyer agrees with Seller that if, on any Purchase Date,
+
+15.6.1      Buyer does not have access to the services and facilities of the FICC to settle and clear Transactions, Buyer shall use reasonable efforts to obtain access to an Alternative Clearing Corporation to settle and clear Transactions; and
+
+15.6.2      the conditions set out in Section 5.1.3 or 5.3.6(c) of this Annex are not met on any Request Date, Buyer will use reasonable efforts, in cooperation with Seller, to obtain relief from any Regulatory Change or market disruption, as the case may be, so that Buyer may effect a particular proposed Transaction on a basis reasonably comparable, from a legal, regulatory, risk and commercial perspective, to the basis on which such proposed Transaction would have been effected had such conditions been met.
+
+^**NEGATIVE COVENANTS**
+
+^^Each of Seller and Guarantor hereby agrees with Buyer that, from and after the Effective Date and until the later of (i) the Expiration Date or (ii) the date on which the Repurchase Price in respect of each Transaction has been paid in full, it shall not,
+
+16.1.1      directly or indirectly merge or consolidate with any other Person unless (a) it shall be the surviving corporation, and (b) immediately before and immediately after giving effect to any such transaction, no Default or Event of Default shall be continuing;
+
+16.1.2      engage in any sale, transfer or other disposition of all or substantially all of its Property (either in a single transaction or a series of related transactions); or
+
+16.1.3      make any offer or commitment to effect or complete any transactions prohibited by this Section 16.1 or enter into any agreement to do so.
+
+^**FORCE MAJEURE**
+
+Buyer shall not be obliged to pay any sums hereunder or to transfer to Seller Purchased Securities or Additional Purchased Securities, and Seller shall not be obliged to transfer Purchased Securities or Additional Purchased Securities, if and whenever such payment or transfer is not reasonably practicable due to the occurrence of a natural or man-made disaster, armed conflict, act of terrorism, riot, labor disruption, lockout, failure of electricity supply, failure of telecommunications services, failure of a relevant banking or payment intermediary or securities clearance or settlement system or impossibility in effectively instructing the same, or any other circumstance beyond Buyer’s or Seller’s (as the case may be) control (such as (amongst other events), suspension of trading in the Additional Purchased Securities or Purchased Securities, as applicable) after the date on
+
+^^^^^ 
+which a Transaction is entered into (the date on which any such transfer or payment first becomes impracticable due to the occurrence of such circumstances, a “**Force Majeure Date**”). Should a Force Majeure Date occur on or immediately prior to the Purchase Date of a Transaction, Buyer and Seller shall each use all commercially reasonable endeavors to effect such transfer and payment as soon as possible after the proposed Purchase Date (and the date on which such transfer and payment are effected shall be the Purchase Date of such Transaction). Should a Force Majeure Date occur on any day when a transfer of Additional Purchased Securities is due or on the Repurchase Date, Buyer and Seller shall each use all commercially reasonable endeavors to effect such transfer and payment as soon as possible after such Force Majeure Date; provided that, if at least 10 Business Days have elapsed since such Force Majeure Date and Buyer and Seller have not effected such transfer and payment, the obligations of Buyer or Seller (as the case may be) shall be fully discharged if Buyer or Seller (as the case may be) transfers to Seller or Buyer (as the case may be) an amount of money based on the last available price of those securities plus, in the case of Buyer, the aggregate amount of Income which, as of such date, has accrued but not yet been paid in respect of the Additional Purchased Securities or Purchased Securities (as applicable) to the extent not included in such price as of such date. Such event will not constitute an Event of Default with respect to Buyer or Seller, as applicable, for the purposes of Paragraph 11 provided that Buyer or Seller, as applicable, complies with its obligations under this Section.
+
+^**FEE**
+
+^^**Facility Fee**. Seller shall pay to Buyer facility fees (the “**Facility Fees**”) at the rate per annum equal to (a) for each day that Guarantor has Level I Status, .[[Percentage 5: Number]]% of the Commitment, (b) for each day that Guarantor has Level II Status, .[[Percentage 6: Number]]% of the Commitment, (c) for each day that Guarantor has Level III Status, .[[Percentage 7: Number]]% of the Commitment. Each change in the rate per annum at which the Facility Fees shall be calculated as a result of a change in Guarantor’s Status shall become effective on the date upon which such change in Status occurs; provided, however, that no reduction in such rate per annum shall be effective so long as any Event of Default shall be continuing. On the first Business Day following the last day of each calendar quarter and on the Expiration Date, Seller shall pay to Buyer all of the Facility Fees which accrued during and through the end of the calendar quarter most recently ended (or, in the case of payment due on the Expiration Date, the portion of the calendar quarter ending on such date). The Facility Fees shall be based upon the Commitment in effect from time to time, regardless of the utilization from time to time thereunder. If for any reason any Transactions remain outstanding after the Commitment has been terminated in full, the Facility Fees shall be payable on the aggregate Purchase Price in respect of outstanding Transactions rather than on the Commitment. For the avoidance of doubt, no Facility Fee is payable for the period occurring after a Termination Event.
+
+^^**Origination Fee**. Seller will pay Buyer fifteen (15) basis points of the Commitment Amount within three (3) Business Days of the Effective Date.
+
+^^^^^ 
+^**TAXES**
+
+^^All payments made by Seller and Guarantor under the Agreement shall be made free and clear of, and without any deduction or withholding for or on account of, any present or future income, stamp or other taxes, levies, imposts, duties, charges, fees, deductions or withholdings, now or hereafter imposed, levied, collected, withheld or assessed by any Governmental Authority, excluding net income taxes and franchise taxes or any other tax based upon net income imposed on Buyer as a result of a present or former connection between Buyer and the jurisdiction of the Governmental Authority imposing such tax or any political subdivision or taxing authority thereof or therein (other than any such connection arising solely from Buyer having executed, delivered or performed its obligations or received a payment under, or enforced, the Agreement). If any such non-excluded taxes, levies, imposts, duties, charges, fees, deductions or withholdings (“**Non-Excluded Taxes**”) are required to be withheld from any amounts payable under the Agreement to Buyer, the amounts so payable to Buyer shall be increased to the extent necessary to yield to Buyer (after payment of all Non-Excluded Taxes) interest or any such other amounts payable under the Agreement at the rates or in the amounts specified in or pursuant to the Agreement. Whenever any Non-Excluded Taxes are payable by Seller or Guarantor, as promptly as possible thereafter Seller or Guarantor shall send to Buyer a certified copy of an original official receipt received by Seller or Guarantor showing payment thereof. If Seller or Guarantor fails to pay any Non-Excluded Taxes payable by it when due to the appropriate taxing authority or fails to remit to Buyer the required receipts or other required documentary evidence, Seller and Guarantor shall indemnify Buyer for any incremental taxes, interest or penalties that may become payable by Buyer as a result of any such failure. The agreements of Seller and Guarantor in this Section 19 shall survive the termination of the Agreement and the payment of all other obligations payable hereunder.
+
+^^Buyer represents that the payments made to it pursuant to the Agreement are effectively connected with the conduct of a trade or business within the United States by Buyer and Buyer shall, upon the execution of the Agreement or promptly thereafter, provide Seller with two accurate and complete original signed copies of Internal Revenue Service Form W-8ECI (or any successor form) with respect to Buyer, certifying thereto. Buyer shall provide two further copies of such Form (or such successor form) on or before the date that such Form (or such successor form) expires or becomes obsolete and after the occurrence of any event requiring a change in the most recent form previously provided to Seller. Buyer shall provide Seller upon Seller’s reasonable request with such other forms or statements certifying Buyer’s entitlement to any available exemption from any withholding Tax with respect to payments made to Buyer under the Agreement. Notwithstanding Section 19.1 or any other provision of the Agreement, no additional amount or other increased payment shall be payable by Seller to Buyer to the extent it is payable as a result of Buyer’s failure to comply with this Section 19.2.
+
+^^Each of Guarantor and Seller represents that it is a United States person as defined in section 7701(a)(30) of the U.S. Internal Revenue Code of 1986, as amended. Each of Guarantor and Seller shall, upon the execution of the Agreement or promptly thereafter, provide Buyer with two accurate and complete original signed copies of Internal Revenue
+
+^^^^^ 
+Service Form W-9 (or any successor form) with respect to Seller and Guarantor as applicable. Each of Guarantor and Seller shall provide two further copies of such Form (or such successor form) on or before the date that such Form (or such successor form) expires or becomes obsolete and after the occurrence of any event requiring a change in the most recent form previously provided to Buyer. Each of Guarantor and Seller shall provide Buyer upon Buyer’s reasonable request with such other forms or statements certifying Seller’s entitlement or Guarantor’s entitlement, as applicable to any available exemption from any withholding Tax with respect to payments made to Seller or Guarantor, as applicable under the Agreement.
+
+^^Transfer Taxes, stamp Taxes and all similar costs with respect to the transfer of Securities (“**Transfer Costs**”) shall be paid by Seller and Guarantor; provided that, unless an Event of Default with respect to Seller or Guarantor has occurred and is continuing under the Agreement, all Transfer Costs with respect to the transfer of Securities by Buyer to a party other than Seller or Seller’s agent shall be paid by Buyer.
+
+^^For the avoidance of doubt, no amount which Seller is entitled to receive pursuant to Paragraph 5 shall be reduced by deductions or withholdings imposed by any Governmental Authority on Income paid or distributed to a holder of Purchased Securities, other than Buyer.
+
+^**DESIGNATED OFFICES**
+
+^^Paragraph 13 is amended by (1) inserting “, e mail” after the word “messenger”, (2) replacing “in Annex II hereto” by “below.”, and (3) deleting the word “facsimile”.
+
+^^Address for notices and other communication of an operational nature for Buyer:
+
+Mitsubishi Securities (UFJ), Inc. [[Address 1: Address]] Attention: [[Person 1 First Name]] [[Person 1 Last Name]] Email: [[Email 1]]
+
+^^Address for notices and other communication for Seller:
+
+[[Organization 1 Name]] 175 Berkeley Street [[Address 2: Address]] Attention: [[Person 2 First Name]] [[Person 2 Last Name]] Telephone: [[Phone 1]] Email: [[Email 2]]
+
+and
+
+Attention: [[Person 3 First Name]] [[Person 3 Last Name]] Telephone: [[Phone 2]] Email: [[Email 3]]
+
+^^^^^ 
+^^Address for notices and other communication for Guarantor:
+
+[[Organization 2 Name]] 175 Berkeley Street [[Address 2: Address]] Attention: [[Person 2 First Name]] [[Person 2 Last Name]] Telephone: [[Phone 1]] Email: [[Email 2]]
+
+^^For the purposes of the Agreement, no process agents are appointed.
+
+^**SUBMISSION TO JURISDICTION AND WAIVER OF IMMUNITY**
+
+^^Each party irrevocably and unconditionally (i) submits to the non-exclusive jurisdiction of any United States Federal or New York State court sitting in the Borough of Manhattan in the City of New York, and any appellate court from any such court, solely for the purpose of any suit, action or proceeding brought to enforce its obligations under the Agreement or relating in any way to the Agreement or any Transaction under the Agreement and (ii) waives, to the fullest extent it may effectively do so, any defense of an inconvenient forum to the maintenance of such action or proceeding in any such court and any right of jurisdiction on account of its place of residence or domicile.
+
+^^To the extent that any party hereto has or hereafter may acquire any immunity (sovereign or otherwise) from any legal action, suit or proceeding, from jurisdiction of any court or from set off or any legal process (whether service or notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment or otherwise) with respect to itself or any of its property, such party hereby irrevocably waives and agrees not to plead or claim such immunity in respect of any action brought to enforce its obligations under the Agreement or relating in any way to the Agreement or any Transaction under the Agreement.
+
+^**EXPENSES; INDEMNITY; DAMAGE WAIVER.**
+
+^^**Costs and Expenses**. Other than with respect to Taxes, which shall be governed solely by Section 19, Seller shall pay all reasonable out-of-pocket expenses incurred by Buyer (including the reasonable fees, charges and disbursements of any counsel for Buyer), in connection with the enforcement or protection of its rights (A) in connection with the Agreement and any other related documents, including its rights under this Section 22, or (B) in connection with any Transaction entered into hereunder, including all such reasonable out-of-pocket expenses incurred during any workout, restructuring or negotiations in respect of any Transaction.
+
+^^**Indemnification by Seller**. Other than with respect to Taxes, which shall be governed solely by Section 19, without duplication of the obligations of Seller under Section 11, Seller shall indemnify Buyer against, and hold Buyer harmless from, any and all losses, claims, damages, liabilities and related reasonable expenses (including the reasonable fees, charges and disbursements of any counsel for Buyer) incurred by Buyer or asserted
+
+^^^^^ 
+against Buyer arising out of, in connection with, or as a result of (i) the execution or delivery of the Agreement, any other related document or any agreement or instrument contemplated hereby or thereby, the performance by the parties hereto of their respective obligations hereunder or thereunder or the consummation of the transactions contemplated hereby or thereby, and (ii) any actual or prospective claim, litigation, investigation or proceeding relating to any of the foregoing, whether based on contract, tort or any other theory, whether or not Buyer is a party thereto and whether or not caused by or arising, in part, out of the comparative or contributory negligence of Buyer; provided that such indemnity shall not, as to Buyer, be available to the extent that such losses, claims, damages, liabilities or related expenses (x) are determined by a court of competent jurisdiction by final and nonappealable judgment to have resulted from the gross negligence or willful misconduct of Buyer or (y) result from a claim brought by Seller or Guarantor against Buyer, unless such claim is determined adversely to Seller or Guarantor by a final and nonappealable judgment of a court of competent jurisdiction.
+
+^**WAIVER OF JURY TRIAL**
+EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THE AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THE AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+^**USA PATRIOT ACT NOTICE.**
+
+Buyer hereby notifies Seller and Guarantor that pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law [[Date 5: Date]])) (the “**Act**”), it is required to obtain, verify and record information that identifies Seller, which information includes the name and address of Seller and other information that will allow Buyer to identify Seller in accordance with the Act.
+
+^**ASSIGNMENT**
+Paragraph 15(a) is hereby deleted in its entirety and replaced by the following: “Having first obtained the prior consent of Seller (which consent shall not be unreasonably withheld by Seller), Buyer may assign all or a portion of its rights and obligations under the Agreement. Notwithstanding the foregoing, if an Event of Default with respect to Seller has occurred and is continuing, Buyer may assign all or a portion of its rights and obligations under the Agreement without consent of Seller. Neither Guarantor nor Seller
+
+^^^^^ 
+shall be entitled to assign any of it rights or obligations under the Agreement without prior written consent of Buyer.”
+
+^**GUARANTEE**
+
+^^**Guarantee**. Guarantor unconditionally guarantees to the Buyer, as a primary obligor and not merely as a surety, the due and punctual payment and performance of the Obligations. Guarantor further agrees that the Obligations may be extended or renewed, in whole or in part, without notice to or further assent from it, and that it will remain bound upon its guarantee notwithstanding any extension or renewal of any Obligation.
+
+^^**Guaranteed Obligations Not Waived**. Guarantor waives presentment to, demand of payment from and protest to Buyer and Seller of any of the Obligations and also waives notice of acceptance of its guarantee and notice of protest for nonpayment.
+
+^^**Guarantee of Payment**. Guarantor further agrees that its guarantee hereunder constitutes a guarantee of payment when due (whether at the stated maturity, by acceleration or otherwise) and not of collection, and waives any right (i) to require the sale of Purchased Securities or giving the Seller credit for such Purchased Securities in lieu of a sale, (ii) to require that any resort be had to any collateral security held for the payment of the Obligations, or (iii) to any balance of any deposit account or credit on the books of Buyer in favor of Guarantor, Seller.
+
+^^**No Discharge or Diminishment of Guarantee**.
+
+26.4.1      The obligations of Guarantor hereunder shall not be subject to any reduction, limitation, impairment or termination for any reason, including any claim of waiver, release, surrender, alteration or compromise, and shall not be subject to any defense or setoff, counterclaim, recoupment or termination whatsoever by reason of the invalidity, illegality or unenforceability of the Obligations or otherwise (other than defense of payment or performance). Without limiting the generality of the foregoing, the obligations of Guarantor hereunder, to the fullest extent permitted by Applicable Laws, shall not be discharged or impaired or otherwise affected by, and Guarantor hereby waives any defense to the enforcement hereof by reason of:
+
+^^the failure of the Buyer to assert any claim or demand or to exercise or enforce any right or remedy under the Agreement or any related agreement;
+
+^^any rescission, waiver, amendment or modification of, or any release from any of the terms or provisions of, the Agreement;
+
+^^the failure by Seller to deliver any Purchased Securities;
+
+^^any default, failure or delay, willful or otherwise, in the performance of the Obligations;
+
+^^^^^ 
+^^any other act or omission that may or might in any manner or to any extent vary the risk of Guarantor or otherwise operate as a discharge of Guarantor as a matter of law or equity (other than the payment in full in cash or immediately available funds of all the Obligations);
+
+^^any illegality, lack of validity or enforceability of any Obligation;
+
+^^any change in the corporate existence, structure or ownership of Buyer or Seller, or any insolvency, bankruptcy, reorganization or other similar proceeding affecting Buyer or Seller or any assets of Buyer or Seller or any resulting release or discharge of any Obligation;
+
+^^the existence of any claim, set-off or other rights that Guarantor may have at any time against Buyer or any other person, whether in connection herewith or any unrelated transactions, provided that nothing herein will prevent the assertion of any such claim by separate suit or compulsory counterclaim;
+
+^^any action permitted or authorized hereunder; or
+
+^^any other circumstance (including any statute of limitations) or any existence of or reliance on any representation by Buyer that might otherwise constitute a defense to, or a legal or equitable discharge of, Seller, Guarantor, or any other guarantor or surety.
+
+26.4.2      Guarantor expressly authorizes Buyer to release or substitute any one or more other guarantors upon or in respect of the Obligations, all without affecting the obligations of Guarantor hereunder.
+
+^^**Defenses Waived**. To the fullest extent permitted by Applicable Laws, Guarantor waives any defense based on or arising out of any defense of Seller or the unenforceability of the Obligations or any part thereof from any cause, or the cessation from any cause of the liability of Seller, other than the payment in full in cash or immediately available funds of all the Obligations (other than contingent indemnity or expense reimbursement obligations as to which no claim has been made). Buyer may, at its election, compromise or adjust any part of the Obligations, make any other accommodation with Seller or exercise any other right or remedy available to it against Seller, without affecting or impairing in any way the liability of Guarantor hereunder except to the extent the Obligations (other than contingent indemnity or expense reimbursement obligations as to which no claim has been made) have been paid in full in cash or immediately available funds. To the fullest extent permitted by Applicable Laws, Guarantor waives any defense arising out of any such election even though such election operates, pursuant to Applicable Laws, to impair or to extinguish any right of reimbursement or subrogation or other right or remedy of Guarantor against any other party hereto.
+
+^^^^^ 
+^^**Agreement To Pay; Contribution; Subrogation**.
+
+26.6.1      In furtherance of the foregoing provisions of this Section 26 and not in limitation of any other right that Buyer has at law or in equity against Guarantor by virtue hereof, upon the failure of Seller to pay or perform any Obligation when and as the same shall become due, whether at maturity, by acceleration, after notice of prepayment or otherwise, Guarantor hereby promises to and will forthwith pay in cash or perform, or cause to be paid in cash or performed, such unpaid or unperformed Obligations upon demand. Guarantor hereby agrees to make any such payment of unpaid Obligations in USD.
+
+26.6.2      Upon payment by Guarantor of any sums to Buyer, all rights of such Guarantor against Seller arising as a result thereof by way of right of subrogation, contribution, reimbursement, indemnity or otherwise shall in all respects be subordinate and junior in right of payment to the prior indefeasible payment in full in cash of all the Obligations. In addition, any indebtedness of Seller now or hereafter held by Guarantor is hereby subordinated in right of payment to the prior payment in full of the Obligations during the existence of a Default or an Event of Default. If any amount shall erroneously be paid to Guarantor on account of (i) such subrogation, contribution, reimbursement, indemnity or similar right or (ii) any such indebtedness of Seller, such amount shall be held in trust for the benefit of Buyer and shall forthwith be paid to Buyer to be credited against the payment of the Obligations, whether matured or unmatured, in accordance with the terms of the Agreement.
+
+^^**Information**. Guarantor assumes all responsibility for being and keeping itself informed of the financial condition and assets of Seller, and of all other circumstances bearing upon the risk of nonpayment of the Obligations and the nature, scope and extent of the risks that Guarantor assumes and incurs hereunder, and agrees that Buyer will not have any duty to advise Guarantor of information known to it or any of them regarding such circumstances or risks.
+
+^^**Reinstatement**. Guarantor agrees that its guarantee hereunder shall continue to be effective or be reinstated, as the case may be, if at any time payment, or any part thereof, of any Obligation is rescinded or must otherwise be restored by Buyer upon the bankruptcy or reorganization of any party hereto.
+
+\centered [Remainder of page intentionally left blank] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have caused this Annex I to be duly executed as of the date first above written. 
+
+**[[Organization 1 Name]]**, as Seller
+[[[[Organization 1 Name]] as Seller Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] as Seller Entity => By: [[[[Organization 1 Name]] as Seller Signatory First Name]] [[[[Organization 1 Name]] as Seller Signatory Last Name]]
+Title: [[[[Organization 1 Name]] as Seller Signatory Title]]}}
+
+
+**[[Organization 2 Name]]**, as Guarantor
+[[[[Organization 2 Name]] as Guarantor Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] as Guarantor Entity => By: [[[[Organization 2 Name]] as Guarantor Signatory First Name]] [[[[Organization 2 Name]] as Guarantor Signatory Last Name]]
+Title: [[[[Organization 2 Name]] as Guarantor Signatory Title]]}}
+
+
+**[[Organization 3 Name]] (USA), INC.**, as Buyer
+[[[[Organization 3 Name]]. as Buyer Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]. as Buyer Entity => By: [[[[Organization 3 Name]]. as Buyer Signatory First Name]] [[[[Organization 3 Name]]. as Buyer Signatory Last Name]]
+Title: [[[[Organization 3 Name]]. as Buyer Signatory Title]]}}
+
+
+^^^^^ 
+\centered **Schedule 1** 
+
+\centered Form of Confirmation [To be delivered by Buyer] 
+
+\centered 
+
+To:    [[Organization 1 Name]] Fax No:    [] Attention:    [] Email:    [] [*Must use scanned document bearing signature*]  
+
+\centered 
+
+From:    [[Organization 3 Name]] (USA), Inc. Date: Subject:    Repurchase Transaction (Reference Number:)  
+
+Dear Sirs,  
+The purpose of this [letter]/[facsimile] (a “**Confirmation**” for the purposes of the Master Repurchase Agreement entered into between us as of [[Date 1]] (as the same may be amended from time to time) (the “**Agreement**”)), is to set forth the terms and conditions of the above repurchase transaction entered into between us with respect to the Purchase Date referred to below. 
+
+This Confirmation supplements and forms part of and is subject to the Agreement. All provisions contained in the Agreement govern this Confirmation except as expressly modified below. Words and phrases defined in the Agreement and used in this Confirmation shall have the same meaning herein as in the Agreement. 
+
+Purchase Date: [___] [must fall between the Effective Date and before the Expiration Date] 
+
+Purchased Securities:  
+CUSIP, ISIN or other identifying number(s): 
+
+Original face amount:  
+Current factor (if applicable):  
+Market Price:  
+Buyer Margin Percentage:  
+
+^^^^^ 
+Purchase Price: USD [ ]  
+Buyer: [[Organization 3 Name]] (USA), Inc. 
+
+Seller: [[Organization 1 Name]]  
+Repurchase Date: []  
+Pricing Rate: []  
+Buyer’s Bank Account[s] Details: []  
+Seller’s Bank Account[s] Details: []  
+Yours faithfully,  
+[[Organization 3 Name]] (USA), INC.  
+as Buyer  
+
+[[As Buyer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Buyer Entity => By: [[As Buyer Signatory First Name]] [[As Buyer Signatory Last Name]]
+Title: [[As Buyer Signatory Title]]}}
+
+Date:
+
+Agreed and accepted by [[Organization 1 Name]], 
+
+as Seller  
+
+[[As Seller Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Seller Entity => By: [[As Seller Signatory First Name]] [[As Seller Signatory Last Name]]
+Title: [[As Seller Signatory Title]]}}
+
+Date:
+
+^^^^^ 
+
+\centered **Schedule 2** 
+
+\centered Form of Repo Request 
+
+\centered 
+
+To:    [[Organization 3 Name]] (USA), Inc. 
+
+Fax No:    [] 
+
+Attention:    [] 
+
+Email:    [] [Must use scanned document bearing signature] 
+
+Copy:    [[Organization 5 Name]] 
+
+Fax No:    [] 
+
+Attention:    [] 
+
+Email:    [] [Must use scanned document bearing signature]  
+
+Master Repurchase Agreement dated [[Date 1]] (the “**Agreement**”) 
+
+^We refer to the Agreement. This is a Repo Request. Terms defined in the Agreement have the same meaning in this Repo Request unless given a different meaning in this Repo Request.
+
+^We wish to enter into a Transaction on the following terms:
+
+Purchase Date: [ ] (or, if that is not a Business Day, the next Business Day)
+
+Purchased Securities:
+
+CUSIP, ISIN or other identifying number(s):
+
+Original face amount:
+
+Current factor (if applicable):
+
+Market price:
+
+Buyer’s Margin Percentage:
+
+^^^^^ 
+Purchase Price:
+
+Repurchase Date: [ ]
+
+^The Purchase Price in respect of this Transaction should be credited to [account].
+
+^We confirm that Seller’s and Guarantor’s assets exceed its liabilities (after taking into account its contingent liabilities which are probable to occur and can be reasonably estimated as determined in accordance with US GAAP (reasonably applied) and our subordinated liabilities) and will continue to do so notwithstanding the entry into by it of this Transaction.
+
+^We confirm that all of the conditions set forth in Sections 5.1, 5.2 and 5.3 of Annex I to the Agreement will be satisfied by Seller and Guarantor (as applicable) on the Purchase Date.
+
+^This Repo Request is irrevocable.
+
+Yours faithfully  
+
+authorized signatory for [[Organization 1 Name]]
+
+^^^^^ 
+
+\centered **Schedule 3** 
+
+\centered Form of Assistant Secretary’s Certificate of [[Organization 1 Name]] 
+
+\centered [[Organization 1 Name]] 
+
+\centered *Assistant Secretary’s Certificate* 
+
+^, [[Person 4 First Name]] [[Person 4 Last Name]], Assistant Secretary of [[Organization 1 Name]] (the “Company”), a stock insurance company organized under the laws of the State of New Hampshire, do hereby certify as follows that: 
+
+^Attached hereto as Exhibit A is a true and complete copy of the Articles of Organization of the Company as of this date.
+
+^Attached hereto as Exhibit B is a true and complete copy of the Restated By-Laws of the Company as of this date.
+
+^Attached hereto as Exhibit C is a true and complete copy of the Certificate of Designation of the Vice President and Chief Financial Officer.
+
+^That the following is a true, correct and complete copy of a resolution duly adopted by the Board of Directors of the Company as of [[Date 6: Date]], and this resolution is in full force and effect as of the date hereof and has not been modified or rescinded.
+
+VOTED      That the Chief Financial Officer, the Chief Investment Officer and the designees of either of them, either jointly or severally, are authorized on behalf of the Company to enter into a master repurchase agreement with a commitment amount of up to $[[USD Value 7: Number]] million and to sell and repurchase securities pursuant to that agreement. They are authorized to do all things necessary or desirable and to execute any and all documents necessary or desirable to effectuate this transaction. The financial terms and conditions of the transaction shall be satisfactory to the Chief Financial Officer or his designees. Any documents shall be in a form satisfactory to the General Counselor his designees.
+
+^, further certify that the individuals listed below have been duly elected and duly qualified as an officer of the Company holding the office set forth opposite his name below, and the signatures set forth opposite their names below are their genuine signatures. 
+
+\centered 
+
+NAME    POSITION    SIGNATURE [[Person 5 First Name]] [[Person 5 Last Name]]    Vice President and Chief Financial Officer 
+
+[[Person 6 First Name]] [[Person 6 Last Name]]    Assistant Treasurer 
+
+^^^^^ 
+IN WITNESS WHEREOF, the undersigned has executed this Certificate on behalf of the Company. 
+
+[[Person 4 First Name]] [[Person 4 Last Name]]
+Assistant Secretary Dated: March ___, 2010
+
+^^^^^ 
+
+\centered **Schedule 4** 
+
+\centered Form of Opinion of [[Organization 2 Name]] 
+
+[[Date 1]]  
+[[Organization 3 Name]] (USA), Inc.  
+[[Address 3: Address]]  
+Re: $[[USD Value 6: Number]] Securities Repurchase Facility 
+
+^am a Vice President and Senior Corporate Counsel on the legal staff of [[Organization 2 Name]] and have acted as counsel to [[Organization 2 Name]] in connection with the Master Repurchase Agreement dated as of March [], 2010 including Annex I thereto and the Guarantee contained therein (the “**Agreement**”) between [[Organization 1 Name]], [[Organization 3 Name]] (USA), and [[Organization 2 Name]] as guarantor (the “**Guarantor**”). Capitalized terms used but not defined in this opinion shall have the meanings ascribed to them in the Agreement. 
+
+In connection with the legal opinions hereinafter expressed, I have examined and relied on originals or copies, certified or otherwise identified to my satisfaction, of executed copies of the Agreement. In addition, I have examined and relied on originals or copies, certified or otherwise identified to my satisfaction, of such instruments and certificates of public officials, officers and representatives of the Guarantor and such other persons, and such corporate records of the Guarantor, and I have made such investigations of law, as I have deemed appropriate as a basis for the legal opinions expressed below. As to various questions of fact material to this legal opinion, I have relied with your permission and without independent verification upon the representations made in the Agreement and upon certificates of and discussions with officers and other representatives of the Guarantor. In rendering the legal opinions hereinafter set forth, I have assumed with your permission and without independent verification (i) the authenticity of all documents and instruments submitted to me as copies, (ii) the genuineness of all signatures (other than those of persons signing on behalf of the Guarantor), (iii) the power and authority of the parties to the Agreement (other than the Guarantor) to execute, deliver and perform the Agreement, (iv) that the Agreement has been duly authorized, executed and delivered by each party thereto (other than the Guarantor) and is the legal, valid and binding obligation of each party thereto (other than the Guarantor), enforceable against each such other party in accordance with its terms, (v) that each such other party is in compliance with all applicable state and federal laws regulating lenders or the conduct of their business, and (vi) that all parties to the transactions contemplated by the Agreement have acted and will continue to act in good faith. 
+
+As used in this opinion letter, the expressions “to my knowledge,” “to the best of my knowledge” or “of which I have knowledge,” means as to matters of fact that, based on actual knowledge, and after an examination of documents referred herein and after inquiries of certain officers of 
+
+^^^^^ 
+the Guarantor, no facts have been disclosed to me that have caused me to conclude that the opinions expressed are factually incorrect; but beyond that I have made no factual investigation for the purposes of rendering this opinion letter. Specifically, but without limitation, (i) I have conducted no independent investigation of the matters set forth in connection therewith (including, without limitation, no search of dockets, records or other matters) and (ii) I have not conducted a litigation search or other search or investigation with respect to any pending items of litigation or orders or decrees. 
+
+This opinion letter is limited to the laws of the Commonwealth of Massachusetts. I invite your attention to the fact that the Agreement is governed by the laws of the State of New York. I have made no investigation of New York law nor consulted with counsel admitted to practice law in the State of New York. I have not examined the question of what law would govern the interpretation or enforcement of the Agreement, and my opinion with regard to the validity, binding nature and enforceability of the Agreement is based upon the assumption that the internal laws of the Commonwealth of Massachusetts would govern the provisions thereof. 
+
+Based upon my examination of and reliance upon the foregoing and subject to the limitations, exceptions, qualifications and assumptions set forth below and except as set forth in the Agreement, I am of the opinion that as of the date hereof: 
+
+^The Guarantor (a) is validly existing and in good standing under the laws of the jurisdiction of its organization, (b) has the corporate power and authority, and the legal right, to own its property and to conduct the business in which it is currently engaged, and (c) is duly qualified to do business and is in good standing under the laws of each jurisdiction where its ownership, lease or operation of property or the conduct of its business requires such qualification, except to the extent that any failures so to be duly qualified or in good standing could not have a Materially Adverse Effect. 
+
+^The Guarantor has the corporate power and authority and the legal right to make, deliver and perform the Agreement; the Guarantor has taken all necessary corporate action to authorize the Transactions on the terms and conditions of the Agreement; and the Guarantor has taken all necessary corporate action to authorize the execution, delivery and performance of the Agreement. Except as has been given or made, no consent or authorization of, filing with, notice to or other act by or in respect of, any Governmental Authority or, to the best of my knowledge, any other person, is required in connection with the Transactions or with the execution and delivery of the Agreement, or the performance, validity or enforceability of the Agreement. The Agreement has been duly executed and delivered on behalf of the Guarantor. The Agreement constitutes legal, valid and binding obligations of the Guarantor in the case of the Agreement, enforceable against the Guarantor in accordance with the respective terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally and by general equitable principles (whether enforcement is sought by proceedings in equity or at law). 
+
+^The execution and delivery of the Agreement, the performance of the Agreement, the Transactions thereunder, and the use of proceeds thereof, all as contemplated in the Agreement, will not violate, to the best of my knowledge, any contractual obligation of the Guarantor or any Applicable Laws, or result in or require the creation or imposition of any lien on any of the 
+
+^^^^^ 
+properties or revenues of the Guarantor pursuant to any contractual obligation of Guarantor, except to the extent that any such violation of any contractual obligation or any Applicable Laws or creation or imposition of liens could not reasonably be expected to have a Materially Adverse Effect. 
+
+^Other than our disclosure in the Guarantor’s financials, there is no litigation, investigation or proceeding of or before any court or other Governmental Authority pending or, to my knowledge threatened by or against the Guarantor or any of its subsidiaries or against any of its respective properties or revenues (a) with respect to the Agreement, or any of the transactions contemplated thereby, or (b) which involves a probable risk of an adverse determination which could reasonably be expected to have a Materially Adverse Effect. 
+
+^The Guarantor is not an “investment company”, or a company “controlled” by an “investment company”, within the meaning of the Investment Company Act of 1940, as amended. 
+
+My opinions expressed above are specifically subject to the following limitations, exceptions, qualifications and assumptions: 
+
+^The legality, validity, binding nature and enforceability of the Guarantor’s obligations under the Agreement may be subject to or limited by (1) bankruptcy, insolvency, reorganization, arrangement, moratorium, fraudulent transfer and other similar laws affecting the rights of creditors generally; (2) general principles of equity (whether relief is sought in a proceeding at law or in equity), including without limitation, concepts of materiality, reasonableness, good faith and fair dealing, and the discretion of any court of competent jurisdiction in awarding specific performance or injunctive relief and other equitable remedies; and (3) the effect of court decisions and statutes which indicate that provisions of the Agreement which permit you to take action or make determinations may be subject to a requirement that such action be taken or such determination be made on a reasonable basis in good faith or that it be shown that such action is reasonably necessary for your protection. 
+
+^I express no opinion as to the enforceability under certain circumstances of any provisions indemnifying a party against, or requiring contributions toward, that party’s liability for its own wrongful or negligent acts, or where indemnification or contribution is contrary to public policy or prohibited by law. 
+
+^I express no opinion as to the enforceability under certain circumstances of any provisions prohibiting waivers of any terms of the Agreement other than in writing, or prohibiting oral modifications thereof or modification by course of dealing. In addition, my opinion is subject to the effect of judicial decisions which may permit the introduction of extrinsic evidence to interpret the terms of written contracts. 
+
+^I express no opinion as the effect of any law, federal law or equitable principle which provides that a court may refuse to enforce, or may limit the application of, a contract or any clause thereof which the court finds to have been unconscionable at the time it was made or contrary to public policy. 
+
+^^^^^ 
+^I express no opinion, and none should be inferred, as to (i) your compliance with any federal or state law relating to your legal or regulatory status or the nature of your business, (ii) foreign, federal or state income tax, franchise or other laws, rules or regulations relating to taxation, (iii) compliance with any federal or state securities laws or regulations, (iv) the accuracy of any matter of fact or law set forth in the Agreement, except to the extent that any such matter is also set forth as part of my opinions above, or (v) any documents (including exhibits to the Agreement) or the effect thereof other than the Agreement. 
+
+^The enforceability of the first sentence of Paragraph 15 of the Agreement, which restricts assignment of the Agreement, is subject to Sections 9-405 and 9-407 of the Massachusetts Uniform Commercial Code. 
+
+^I express no opinion as to:  
+
+^The enforceability under certain circumstances of provisions expressly or by implication waiving broadly or vaguely stated rights, unknown future rights, or defenses to obligations or rights granted by law, when such waivers are against public policy or prohibited by law; 
+
+^The enforceability under certain circumstances of provisions to the effect that rights or remedies may not be exercised without notice, that failure to exercise or delay in exercising rights or remedies will not operate as a waiver of any such right or remedy, that rights or remedies are not exclusive, that every right or remedy is cumulative and may be exercised in addition to or with any other right or remedy, or that election of a particular remedy or remedies does not preclude recourse to one or more remedies; and 
+
+^Any provision of the Agreement that purports to exclude conflict of law principles. 
+
+^Whether the Transactions would be viewed as purchases and sales and not loans as contemplated under Paragraph 6 of the Agreement. 
+
+^The provisions of Paragraph 14 of the Agreement on severability or separability. 
+
+^Paragraph 17 of the Agreement insofar as that provision provides that the terms of the Agreement may not be waived or modified except in writing, which may be limited under certain circumstances. 
+
+^The determinations set out in Paragraph 19 of the Agreement. 
+
+^My opinions set forth in paragraph 1 with respect to valid existence are based (i) on a certificate of legal existence, dated March [25], 2010 of the Secretary of The Commonwealth of Massachusetts and a certificate of compliance, dated March [25], 2010 from the Division of Insurance of The Commonwealth of Massachusetts. 
+
+^My opinions set forth in paragraph 2 with respect to the corporate power and authority of the Guarantor to conduct, execute and deliver the Agreement and consummate the 
+
+^^^^^ 
+transactions contemplated thereby are based on my review of the laws of The Commonwealth of Massachusetts, as well as the Restated Articles of Organization, the Amended and Restated Bylaws, and the resolution of the Board of Directors, as certified as of the date hereof, by an Assistant Secretary of the Guarantor. 
+
+My opinions expressed herein are subject to the qualification that I express no opinion as to any obligation of the Guarantor under the Agreement to the extent that such obligation might be deemed to be inconsistent with public policy. 
+
+This opinion is being rendered to you as of the date set forth above. My opinions are limited to the specific issues addressed herein and are limited to documents, laws and facts existing on the date hereof. I assume no obligation to advise you of facts, circumstances, events or developments which hereafter may be brought to my attention and which may alter, affect or modify the opinions expressed herein. 
+
+My opinions herein have been furnished at your request and are solely for your benefit in connection with the transactions contemplated by the Agreement and may not be otherwise distributed or relied upon by any other person or entity or quoted or reproduced, in whole or in part, in any other document or filed with any Governmental Authority without my prior written consent. 
+
+Very truly yours,  
+[[Person 7 First Name]] [[Person 7 Last Name]]  
+
+^^^^^ 
+\centered **Schedule 5** 
+
+\centered Form of Assistant Secretary’s Certificate of [[Organization 2 Name]] 
+
+\centered [[Organization 2 Name]] 
+
+\centered *Assistant Secretary’s Certificate* 
+
+^, [[Person 4 First Name]] [[Person 4 Last Name]], Assistant Secretary of [[Organization 2 Name]] (the “Company”), a stock insurance company organized under the laws of the Commonwealth of Massachusetts, do hereby certify as follows that: 
+
+^Attached hereto as Exhibit A is a true and complete copy of the Restated Articles of Organization of the Company as of this date.
+
+^Attached hereto as Exhibit B is a true and complete copy of the Amended and Restated By-Laws of the Company as of this date.
+
+^Attached hereto as Exhibit C is a true and complete copy of the Certificate of Designation of the Senior Vice President and Chief Financial Officer.
+
+^That the following is a true, correct and complete copy of a resolution duly adopted by the Board of Directors of the Company as of [[Date 7: Date]], and this resolution is in full force and effect as of the date hereof and has not been modified or rescinded.
+
+VOTED      that the Chief Financial Officer and his designees, either jointly or severally, are authorized on behalf of the Company to enter into a guarantee of the obligations of [[Organization 1 Name]] under its master repurchase agreement with a commitment amount of up to $[[USD Value 7]] million. This guarantee is convenient to the conduct, promotion and attainment of the Company’s business. The persons authorized above are authorized to do all things necessary or desirable and to execute any and all documents necessary or desirable to effectuate this transaction. The financial terms and conditions of the transaction shall be satisfactory to the Chief Financial Officer or his designees. Any documents shall be in a form satisfactory to the General Counsel or his designees.
+
+^, further certify that the individuals listed below have been duly elected and duly qualified as an officer of the Company holding the office set forth opposite his name below, and the signatures set forth opposite their names below are their genuine signatures. 
+
+\centered 
+
+NAME    POSITION    SIGNATURE [[Person 8 First Name]] [[Person 8 Last Name]]    Senior Vice President and Chief Financial Officer 
+
+[[Person 6 First Name]] [[Person 6 Last Name]]    Assistant Treasurer 
+
+^^^^^ 
+IN WITNESS WHEREOF, the undersigned has executed this Certificate on behalf of the Company. 
+
+[[Person 4 First Name]] [[Person 4 Last Name]]
+Assistant Secretary Dated: March ___, 2010
+
+^^^^^ 
+
+\centered **Schedule 6** 
+
+\centered Form of Opinion of [[Organization 14 Name]] 
+
+[[Date 1]]  
+To:      [[Organization 3 Name]] (USA), Inc. [[Address 4: Address]]
+
+**Master Repurchase Agreement**  
+Dear Sirs:  
+We have acted as special counsel to [[Organization 3 Name]] (USA), Inc. (“**[[Organization 16 Name]])**”) in connection with the Master Repurchase Agreement (the “**Agreement”**) including Annex I thereto among [[Organization 16 Name]]), [[Organization 1 Name]] (“**[[Organization 1 Name]]**”) and [[Organization 2 Name]] (the “**LMIC**”), dated as of [[Date 1]], and certain related matters under the laws of the State of New York (“**New York law”**). Unless otherwise defined herein, terms defined in the Agreement are used herein as defined therein. 
+
+In connection with our opinion set forth herein, we have, with your consent, assumed that: 
+
+^^^[[Organization 1 Name]] and LMIC have all requisite capacity and corporate authority to execute, deliver and perform their obligations under the Agreement and have taken all necessary steps to execute, deliver and perform the Agreement and all Transactions carried out under the Agreement;
+
+^^^the Agreement has been duly authorized, executed and delivered by [[Organization 1 Name]] and LMIC in accordance with applicable laws;
+
+^^^the execution, delivery and performance of the Agreement by [[Organization 1 Name]] by LMIC does not violate, or require any consent not obtained under, any applicable law or regulation of any jurisdiction or any order, writ, injunction or decree of any court or other governmental authority binding upon such party;
+
+^^^other than by the annexes listed above or as stated in this opinion, none of the terms of the Agreement have been varied, waived, or discharged in any material respect and Transactions have been entered into as specified in the Agreement; and
+
+^^^the requirements of the law governing the transfers of Securities and cash are complied with.
+
+^^^^^ 
+Based upon the foregoing and subject to the comments and qualifications set forth below, we are of the opinion that: 
+
+^The Agreement will constitute a legal, valid and binding obligation of [[Organization 1 Name]] enforceable against [[Organization 1 Name]] in accordance with its terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, reorganization, receivership, conservatorship, moratorium or other similar laws of general applicability affecting the enforcement of creditors’ rights and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+
+^The Agreement will constitute a legal, valid and binding obligation of LMIC enforceable against LMIC in accordance with its terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, reorganization, receivership, conservatorship, moratorium or other similar laws of general applicability affecting the enforcement of creditors’ rights and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+
+Our opinions set forth above are subject to the following qualifications and limitations: 
+
+^^^We express no opinion as to Paragraph 17 of the Agreement insofar as that provision provides that the terms of the Agreement may not be waived or modified except in writing, which may be limited under certain circumstances.
+
+^^^We wish to point out that the provisions of the Agreement which permit a party to take action or make determinations may be subject to a requirement that such action be taken or such determinations be made on a reasonable basis and in good faith.
+
+^^^We express no opinion as to the provisions of Paragraph 14 of the Agreement on severability or separability.
+
+^^^The enforceability of the first sentence of Paragraph 15 of the Agreement, which restricts assignment of the Agreement, is subject to Sections 9-406 and 9-408 of the New York Uniform Commercial Code.
+
+^^^In this opinion, we do not address the determinations set out in Paragraph 19 of the Agreement.
+
+^^^Paragraph 6 of the Agreement states that the parties intend that the Transactions be sales and purchases. We believe that Transactions would be viewed as purchases and sales and not loans. However, there is a risk that a court may characterize the Transactions as
+
+^^^^^ 
+secured loans. In *[[Organization 17 Name]] v. [[Organization 18 Name]]*, the Bankruptcy Court of the Southern District of New York held that repurchase agreements are a type of secured loan. It is this decision that is most often cited as creating a risk of recharacterization. However, more recent court decisions generally have found, in the context of commercial law and federal securities law, repurchase agreements to be purchases and sales. This is particularly the case where the agreement clearly sets forth the intent of the parties to treat the transactions as purchases and sales, as in the Agreement.
+
+We are members of the bar of New York and we express no opinion herein as to any matters governed by any laws other than New York law. This opinion is rendered solely to you for your sole benefit. This opinion may not be relied upon for any other purpose, or quoted or relied upon by any other person, firm or corporation for any purpose, without our prior written consent. 
+
+Very truly yours,   
+
+No. 82-B-11556 (Bankr. S.D.N.Y. 1982)
+
+See *In re [[Organization 19 Name]]*, 67 B.R. 557 (D.N.J. 1986); *SEC v. [[Organization 20 Name]]*, 785 F. 2d 38 (2d Cir. 1986); *[[Organization 21 Name]], L.P. v. [[Organization 22 Name]],* 17 F. Supp. 2d 275 (S.D.N.Y. 1998); *In re [[Organization 23 Name]]*, 98 B.R. 2 (Bankr. D. Ariz. 1989). We note, however, that a decision by the Federal bankruptcy court for the district of Maryland, found a repurchase agreement “on its face reasonably susceptible to more than one interpretation” and thus could not conclude as a matter of law that the agreement did not constitute a secured lending. The court accordingly concluded that the issue of proper characterization of the contract must be resolved upon a full evidentiary hearing. *In re: [[Organization 24 Name]], Inc.,* 251 B.R. 796 (Bankr. D. Md. 2000).

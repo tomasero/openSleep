@@ -1,0 +1,169 @@
+\centered **STOCK APPRECIATION RIGHTS AGREEMENT** 
+
+This **STOCK APPRECIATION RIGHTS AGREEMENT** (this “SAR Agreement”), dated as of [[Date 1: Date]] (the “Grant Date”), is between **[[Company]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and <<Insert SAR Recipient’s Name>> (the “Participant”), relating to a stock appreciation right granted under the 2006 **[[Company]]** Incentive Compensation Plan (the “Plan”). Capitalized terms used in this SAR Agreement without definitions shall have the meanings ascribed to such terms in the Plan. 
+
+^**Grant of Stock Appreciation Right.**
+
+^^**Grant.** Subject to the provisions of this SAR Agreement and pursuant to the provisions of the Plan, the Company hereby grants to the Participant as of the Grant Date a stock appreciation right (the “SAR”) covering <<Insert Number of Shares>> shares (the “SAR Shares”) of the Company’s Class A Common Stock, $[[USD Value 1: Number]] par value per share (the “Stock”), at a price of $21.83 per share (the “SAR Price”). The SAR is not issued in tandem with an Option.
+
+^^**Term of the SAR.** Unless the SAR terminates earlier pursuant to other provisions of the SAR Agreement, the SAR shall expire on the tenth (10th) anniversary of the Grant Date (the “Expiration Date”).
+
+^^**Nontransferability.** The SAR shall be nontransferable, except by will or the laws of descent and distribution, or as otherwise permitted under the Plan.
+
+^**Vesting of the SAR.**
+
+^^**General Vesting Rule.** Prior to the Expiration Date, the SAR shall become and be exercisable as follows:
+
+**Grant Date Anniversary**      \centered **Percentage of SAR that Becomes Exercisable**
+Prior to the first anniversary of the Grant Date      [[Percentage 1: Number]]%
+On or after the first anniversary of the Grant Date      [[Percentage 2: Number]]%
+
+provided, however, except as otherwise provided for under this SAR Agreement, the Participant must remain a member of the Board of Directors of the Company (the “Board”) continuously through the applicable vesting date. 
+
+^^**Death or Disability.** Notwithstanding the provisions of Section 2(a) hereof, in the event the Participant’s service on the Board is terminated due to the Participant’s death or Disability, any unvested portion of the SAR as of the date of such Participant’s termination of service shall immediately become fully vested and exercisable and, along with any unexercised vested portion of the SAR, shall remain exercisable until the earlier of:
+
+^^^the Expiration Date; or
+
+^^^one (1) year after the date of the Participant’s termination of service on the Board due to the Participant’s death or Disability.
+
+In the event of the Participant’s death, the Participant’s beneficiary or estate may exercise the vested SAR. 
+
+^^**Retirement.** In the event the Participant’s service on the Board is terminated due to Retirement, any unexercised vested portion of the SAR as of the date of the Participant’s termination of service on the Board shall remain exercisable until the earlier of:
+
+^^^the Expiration Date; or
+
+^^^one (1) year after the date of the Participant’s termination of service on the Board due to Retirement.
+
+For purposes of this SAR Agreement, “Retirement” means the Participant’s voluntary termination of service on the Board after attaining either: 
+
+      age fifty-five (55) with ten (10) or more complete years of service on the Board; or
+
+      age sixty-five (65).
+
+^^**Other Termination of Service on the Board.** In the event the Participant’s service on the Board is terminated for any reason other than as provided in Section 2(b) or (c) hereof, the unexercised vested portion of the SAR as of the date of such Participant’s termination shall remain exercisable until the earlier of:
+
+^^^the Expiration Date; or
+
+^^^ninety (90) days after the date of the Participant’s termination of service on the Board.
+
+^^**Change in Control Vesting.** Subject to the provisions of Section 15 of the Plan, if a Change in Control occurs, [[Percentage 2]]% of the remaining unvested portion of the SAR shall be immediately vested and exercisable upon such Change in Control and, along with the unexercised vested portion of the SAR, shall remain exercisable through the Expiration Date.
+
+^**Exercise of SAR.**
+
+^^**Notice of Exercise.** Prior to the Expiration Date, the vested portion of the SAR may be exercised, in whole or in part, by delivering written notice to the Company in accordance with Section 7(k) hereof and in such form as the Committee may require from time to time. Such notice of exercise shall specify the number of SAR Shares to be exercised.
+
+^^**Payment.** As of the date of exercise of the SAR, the Company shall settle the exercised portion of the SAR as provided in Section 7.5 of the Plan. The amount of the payment for each SAR Share exercised shall equal (i) the Fair Market Value of a share of Stock on the date of exercise, less (ii) the SAR Price for each such exercised SAR Share. The exercised SAR shall be settled in whole shares of Stock, and cash for the value of a fractional share of Stock.
+
+^^**Payment of Taxes.** If the Company is obligated to withhold an amount on account of any tax imposed as a result of the exercise of the SAR, the Participant shall be required to remit such amount to the Company, as provided in Section 17.1 of the Plan.
+
+Alternatively, subject to Committee approval, the Participant may elect to withhold a portion of the SAR exercise payment equal to the minimum statutory tax that would be imposed on the exercise, as provided under Section 17.2 of the Plan. The Participant acknowledges and agrees that the Participant is responsible for the tax consequences associated with the grant of the SAR and its exercise. 
+
+^^**Death Prior to Exercise.** In the event of the Participant’s death prior to the exercise of any vested portion of the SAR, the Participant’s beneficiary or estate may exercise the vested SAR.
+
+^**Compliance with Federal and State Law.** The Company reserves the right to delay the Participant’s exercise of any portion of the SAR if (a) the Company’s issuance of Stock upon such exercise would violate any applicable federal or state securities laws or any other applicable laws or regulations, or (b) the Company reasonably determines that payment of such SAR portion would not be deductible under Code Section 162(m). The Participant may not sell or otherwise dispose of any portion of the SAR in violation of any applicable law. The Company may postpone issuing and delivering any Stock in payment for the exercise of such portion of the SAR for so long as the Company reasonably determines to be necessary to satisfy the following:
+
+^^^its completing or amending any securities registration or qualification of the Stock or it or the Participant satisfying any exemption from registration under any federal or state law, rule, or regulation;
+
+^^^its receiving proof it considers satisfactory that a person seeking to exercise the SAR after the Participant’s death is entitled to do so;
+
+^^^Participant complying with any requests for representations under the Plan; and
+
+^^^Participant complying with any federal, state, or local tax withholding obligations.
+
+^**Changes in Company’s Capital Structure.** As may be determined to be appropriate and equitable by the Committee, in its complete and sole discretion, to prevent dilution or enlargement of rights, the Committee shall make or authorize to be made an adjustment in the number and class of SAR Shares and/or the SAR Price to prevent dilution or enlargement of rights, as a result of the following:
+
+^^^any adjustment, recapitalization, reorganization or other changes in the Company’s capital structure or its business; or
+
+^^^any merger or consolidation of the Company; or
+
+^^^any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the Company’s Stock or the rights thereof; or
+
+^^^the dissolution or liquidation of the Company; or
+
+^^^any sale or transfer of all or any part of the Company’s assets or business; or
+
+^^^any other corporate act or proceeding, whether of a similar character or otherwise.
+
+^**Confidentiality, Non-Solicitation and Non-Compete.** The Participant agrees to, understands and acknowledges the following:
+
+^^**Confidential Information.** The Participant will be furnished, use or otherwise have access to certain Confidential Information of the Company and/or a Subsidiary. For purposes of this SAR Agreement, “Confidential Information” means any and all financial, technical, commercial or other information concerning the business and affairs of the Company and/or a Subsidiary that is confidential and proprietary to the Company and/or a Subsidiary, including without limitation:
+
+^^^information relating to the Company’s or Subsidiary’s past and existing customers and vendors and development of prospective customers and vendors, including specific customer product requirements, pricing arrangements, payment terms, customer lists and other similar information;
+
+^^^inventions, designs, methods, discoveries, works of authorship, creations, improvements or ideas developed or otherwise produced, acquired or used by the Company and/or a Subsidiary;
+
+^^^the Company’s or Subsidiary’s proprietary programs, processes or software, consisting of, but not limited to, computer programs in source or object code and all related documentation and training materials, including all upgrades, updates, improvements, derivatives and modifications thereof and including programs and documentation in incomplete stages of design or research and development;
+
+^^^the subject matter of the Company’s or Subsidiary’s patents, design patents, copyrights, trade secrets, trademarks, service marks, trade names, trade dress, manuals, operating instructions, training materials, and other industrial property, including such information in incomplete stages of design or research and development; and
+
+^^other confidential and proprietary information or documents relating to the Company’s or Subsidiary’s products, business and marketing plans and techniques, sales and distribution networks and any other information or documents that the Company and/or a Subsidiary reasonably regards as being confidential.
+
+The Company and its Subsidiaries devote significant financial, human and other resources to the development of their products, customer base and the general goodwill associated with their business, and the Company and its Subsidiaries diligently maintain the secrecy and confidentiality of their Confidential Information. Each and every component of the Confidential Information is sufficiently secret to derive economic value from its not being generally known to other persons. While serving on the Board and thereafter, the Participant will hold in the strictest confidence and not use in any manner which is detrimental to the Company or its Subsidiaries or disclose to any individual or entity any Confidential Information, except as may be required by the Company or its Subsidiaries in connection with the Participant’s service on the Board. 
+
+All Company Materials are and will be the sole property of the Company and/or Subsidiary. The Participant agrees that during and after his or her service on the Board, the Participant will not remove any Company Materials from the business premises of the Company or a Subsidiary or deliver any Company Materials to any person or entity outside the Company or a Subsidiary, except as the Participant is required to do so in connection with performing the duties as a member of the Board. The Participant further agrees that, immediately upon the termination of his or her service on the Board for any reason, or during the Participant’s tenure as a member of the Board if so requested by the Company, the Participant will return all Company Materials and other physical property, and any reproduction thereof, excepting only the Participant’s copy of this Agreement. For purposes of this SAR Agreement, “Company Materials” means documents or other media or tangible items that contain or embody Confidential Information or any other information concerning the business, operations or future/strategic plans of the Company and/or any Subsidiary, whether such documents have been prepared by the Participant or by others. 
+
+^^**Non-Solicitation and Non-Compete.** For the period beginning on the date hereof and ending twelve (12) months following the Participant’s termination of service on the Board, the Participant will not directly or indirectly:
+
+^^^employ, recruit or solicit for employment any person who is (or was within the six (6) months prior to the date the Participant’s service on the Board terminated) an employee of the Company and/or any Subsidiary;
+
+^^^accept employment, serve on the board of directors of, or engage in a competing business that may require contact, solicitation, interference or diverting of any of the Company’s or any Subsidiary’s customers, or that may result in the disclosure, divulging, or other use of Confidential Information or Company Materials acquired during the Participant’s service on the Board; or
+
+^^^solicit or encourage any customer, vendor or potential customer or vendor of the Company or any Subsidiary with whom the Participant had contact while serving on the Board to terminate or otherwise alter his, her or its relationship with the Company. The Participant understands that any person or entity with whom the Participant contacted during the twelve (12) months prior to the date of the Participant’s termination of service on the Board for the purpose of soliciting sales from such person or entity shall be regarded as a “potential customer” of the Company to whom the Company or a Subsidiary has a protectable proprietary interest.
+
+^^**Remedies for Violation.**
+
+^^^**Injunctive Action.** The Participant acknowledges that if he or she violates the terms of this Section 6, the injury that would be suffered by the Company and/or a Subsidiary as a result of a breach of the provisions of this SAR Agreement (including any provision of Section 6(a) or (b) hereof) would be irreparable and that an award of monetary damages to the Company and/or a Subsidiary for such a breach would be an inadequate remedy. Consequently, the Company and/or its Subsidiary will have the right, in addition to any other rights it may have, to obtain injunctive relief to restrain any breach or threatened breach or otherwise to specifically enforce any provision of this SAR Agreement, and the Company and/or a Subsidiary will not be obligated to post bond or other security in seeking such relief. Without limiting the Company’s or Subsidiary’s rights under this Section 6(c) (or Sections 6(a) or (b) hereof) or any other remedies of the Company or a Subsidiary, if the Participant breaches any of the provisions of Section 6(a) or (b) hereof, the Company will have the right to cease making any payments otherwise due to the Participant under this SAR Agreement.
+
+^^^**Forfeiture of the SAR and Repayment.** In addition to the rights available to the Company and its Subsidiaries under Section 6(c)(i) hereof, if the Participant violates the terms of this Section 6 at any time, the Participant, without any further action by the Company or the Participant, shall forfeit, as of the first day of any such violation, all right, title and interest to this SAR, any Stock or cash received from the exercise of the SAR, and any net proceeds received by the Participant pursuant to any sales of any such Stock prior to, on or after such date, and the Company shall have the right to issue a stop transfer order and other appropriate instructions to its transfer agent with respect to this SAR, and the Company further shall be entitled to reimbursement from the Participant of any fees and expenses (including attorneys’ fees) incurred by or on behalf of the Company or any Subsidiary in enforcing the Company’s or a Subsidiary’s rights under this Section 6. By accepting this SAR grant, the Participant hereby consents to a deduction from any amounts the Company or any Subsidiary owes to the Participant from time to time (including amounts owed to the Participant as wages or other compensation, fringe benefits, or vacation pay, as well as any other amounts owed to the Participant by the Company or any Subsidiary), unless such amount is subject to Section 409A of the Code, to the extent of any amounts that the Participant owes the Company under this Section 6. In addition to any injunctive relief sought under Section 6(c)(i) hereof and whether or not the Company or any Subsidiary elects to make any set-off in whole or in part, if the Company or any Subsidiary does not recover by means of set-off the full amount the Participant owes to the Company or any Subsidiary, calculated as set forth in this Section 6(c)(ii), the Participant agrees to immediately pay the unpaid balance to the Company or any Subsidiary.
+
+^^**Enforceability of Restrictive Covenants.** The scope and duration of the restrictive covenants contained in this SAR Agreement are reasonable and necessary to protect a legitimate, protectable interest of the Company and its Subsidiaries. However, if one or more provisions of this SAR Agreement are held to be unenforceable under applicable law to any extent, such provision(s) shall, to that extent, be excluded from this SAR Agreement and the balance of the SAR Agreement shall be interpreted as if such provision(s) were so excluded to that extent and shall be enforceable in accordance with its terms.
+
+^^**Written Acknowledgement by the Participant.** The Committee, in its sole discretion, may require the Participant, as a condition to the exercise of this SAR, to acknowledge in writing that he or she has not engaged, and is not in the process of engaging, in any of the activities described in this Section 6.
+
+^**Miscellaneous Provisions.**
+
+^^**No Service or Employment Rights.** No provision of this SAR Agreement or of the SAR granted hereunder shall give the Participant any right to continue to serve on the Board or in the service or employ of the Company or any Subsidiary, create any inference as to the length of employment or service of the Participant, affect the right of the Company or any Subsidiary to terminate the employment or service of the Participant, with or without Cause, or give the Participant any right to participate in any employee welfare or benefit plan or other program (other than the Plan) of the Company or any Subsidiary.
+
+^^**Stockholder Rights.** Until the SAR shall have been duly exercised into Stock and such Stock has been officially recorded as issued on the Company’s official stockholder records, no person or entity shall be entitled to vote, receive dividends or be deemed for any purpose the holder of such Stock, and adjustments for dividends or otherwise shall be made only if the record date thereof is subsequent to the date such shares are recorded and after the date of exercise and without duplication of any adjustment.
+
+^^**Plan Document Governs.** The SAR is granted pursuant to the Plan, and the SAR and this SAR Agreement are in all respects governed by the Plan and subject to all of the terms and provisions thereof, whether such terms and provisions are incorporated in this SAR Agreement by reference or are expressly cited. Any inconsistency between the SAR Agreement and the Plan shall be resolved in favor of the Plan. The Participant hereby acknowledges receipt of a copy of the Plan.
+
+^^**Investment Representation and Agreement.** The Committee may require the Participant to furnish to the Company, prior to the issuance of any Stock upon the exercise of all or any part of this SAR, an agreement (in such form as the Committee may specify) in which the Participant represents that the Stock acquired by him or her upon exercise are being acquired for investment and not with a view to the sale or distribution thereof.
+
+^^**Beneficiary Designation.** The Participant may, from time to time, in accordance with procedures set forth by the Committee, name any beneficiary or beneficiaries (who may be named contingently or successively) to whom any benefit under this SAR Agreement is to be paid in case of his or her death before he or she receives any or all of such benefit. Each such designation shall revoke all prior designations by the Participant, shall be in a form prescribed by the Company, and will be effective only when filed by the Participant in writing with the Committee during the Participant’s lifetime. In the absence of any such designation, benefits remaining unpaid at the Participant’s death shall be paid to the Participant’s estate or exercised by the Participant’s estate.
+
+^^**Administration.** This SAR Agreement and the rights of the Participant hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or appropriate to the administration of the Plan and this SAR Agreement, all of which shall be binding upon the Participant.
+
+^^**No Vested Right In Future Awards.** the Participant acknowledges and agrees (by executing this SAR Agreement) that the granting of the SAR under this SAR Agreement is made on a fully discretionary basis by the Company and that this SAR Agreement does not lead to a vested right to further SAR awards in the future.
+
+^^**Use of Personal Data.** By executing this SAR Agreement, the Participant acknowledges and agrees to the collection, use, processing and transfer of certain personal data, including his or her name, compensation, nationality, job title, position, and details of all past Awards and current Awards outstanding under the Plan (“Data”), for the purpose of managing and administering the Plan. The Participant is not obliged to consent to such collection, use, processing and transfer of personal data, but a refusal to provide such consent may affect his or her ability to participate in the Plan. The Company, or its
+
+Subsidiaries, may transfer Data among themselves or to third parties as necessary for the purpose of implementation, administration and management of the Plan. These various recipients of Data may be located elsewhere throughout the world. The Participant authorizes these various recipients of Data to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Plan. The Participant may, at any time, review Data with respect to the Participant and require any necessary amendments to such Data. The Participant may withdraw his or her consent to use Data herein by notifying the Company in writing; however, the Participant understands that by withdrawing his or her consent to use Data, the Participant may affect his or her ability to participate in the Plan.
+
+^^**Severability**. In the event that any provision of this SAR Agreement shall be held illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining parts of this SAR Agreement, and this SAR Agreement shall be construed and enforced as if the illegal or invalid provision had not been included.
+
+^^**Waiver; Cumulative Rights.** The failure or delay of either party to require performance by the other party of any provision hereof shall not affect its right to require performance of such provision unless and until such performance has been waived in writing. Each and every right hereunder is cumulative and may be exercised in part or in whole from time to time.
+
+^^**Notices.** Any notice which either party hereto may be required or permitted to give the other shall be in writing and may be delivered personally or by mail, postage prepaid, addressed to the Secretary of the Company, at its then corporate headquarters, and the Participant at the Participant’s address (including any electronic mail address) as shown on the Company’s records, or to such other address as the Participant, by notice to the Company, may designate in writing from time to time. The Participant hereby consents to electronic delivery of any notices that may be made hereunder.
+
+^^**Counterparts.** This SAR Agreement may be signed in two counterparts, each of which shall be an original, but both of which shall constitute but one and the same instrument.
+
+^^**Successors and Assigns.** This SAR Agreement shall inure to the benefit of and be binding upon each successor and assign of the Company. All obligations imposed upon the Participant, and all rights granted to the Company hereunder, shall be binding upon the Participant’s heirs, legal representatives and successors.
+
+^^**Governing Law.** This SAR Agreement and the SAR granted hereunder shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without giving effect to provisions thereof regarding conflict of laws.
+
+^^**Entire Agreement.** This SAR Agreement, together with the Plan, constitutes the entire obligation of the parties hereto with respect to the subject matter hereof and shall supersede any prior expressions of intent or understanding with respect to this transaction.
+
+^^**Amendment.** Any amendment to this SAR Agreement shall be in writing and signed by the Company.
+
+^^**Headings.** The headings contained in this SAR Agreement are for reference purposes only and shall not affect the meaning or interpretation of this SAR Agreement.
+
+**IN WITNESS WHEREOF**, the Company has caused this SAR Agreement to be duly executed by an officer thereunto duly authorized, and the Participant has hereunto set his or her hand, all as of the day and year first above written. 
+
+**[[Company]]**            **PARTICIPANT**
+
+[[Company            PARTICIPANT Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company            PARTICIPANT Entity => By: [[Company            PARTICIPANT Signatory First Name]] [[Company            PARTICIPANT Signatory Last Name]]
+Title: [[Company            PARTICIPANT Signatory Title]]}}
+

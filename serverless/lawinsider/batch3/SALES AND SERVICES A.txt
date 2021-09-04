@@ -1,0 +1,842 @@
+**Portions of this exhibit were omitted and filed separately with the Secretary of the Securities and Exchange Commission (the “Commission”) pursuant to an application for confidential treatment filed with the Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934. Such portions are marked by a series of asterisks.** 
+
+\centered **SALES AND SERVICES AGREEMENT** 
+
+This Sales and Services Agreement (the “Agreement”) dated as of [[Date 1: Date]] is by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (together with its successors, “MedQuist” or the “Company”), and [[CBay]], a [[State of Formation: State]] [[Organization: EntityType]] (“CBay”). 
+
+\centered **RECITALS** 
+
+WHEREAS, CBay, the Company and their Affiliates have entered into several intercompany agreements relating to sales and operational support, including (i) the Transcription Services Agreement, dated as of [[Date 2: Date]], by and between the Company and CBay, pursuant to which the Company outsources certain medical transcription services to CBay (such agreement, as amended from time to time prior to the date hereof, the “TSA”), (ii) the Subcontracting Agreement, dated as of [[Date 3: Date]], by and between MedQuist and CBay, pursuant to which CBay subcontracts certain medical transcription, editing and related services to MedQuist (as such agreement may be amended from time to time, the “Subcontracting Agreement”), and (iii) the CBayScribe Marketing Agreement, dated as of [[Date 4: Date]], by and between MedQuist and CBay, pursuant to which the Company markets CBay’s CBayScribe products and services (as such agreement may be amended from time to time, the “CBayScribe Marketing Agreement”); 
+
+WHEREAS, CBay and the Company recognize that the success of their relationship will depend upon the mutual commitment and cooperation of both parties; and 
+
+WHEREAS, CBay and the Company desire to terminate the TSA and enter into a more comprehensive intercompany agreement whereby (i) CBay would discontinue its New Customer marketing efforts for Transcription Services to Hospitals in North America and (ii) CBay would become the exclusive supplier to the Company of Indian or Asian based transcription production services (either directly or through a network of third party suppliers (“ILPs”)). 
+
+NOW, THEREFORE, in consideration of the mutual promises hereinafter set forth and for other good and valuable consideration, and upon the terms and conditions contained herein, the parties agree as follows: 
+
+\centered **DEFINITIONS** 
+
+^^Definitions. In this Agreement, and in the Schedules attached to this Agreement, the following terms, whether used in the singular or plural, shall have the respective meanings set forth below: 
+
+^^“Administrative Safeguards” shall mean administrative actions, policies and procedures to manage the selection, development, implementation and maintenance 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ of security measures to protect EPHI and to manage the conduct of CBay’s workforce in relation to the production of that information as defined in 45 CFR §164.304. 
+
+^^“Affiliate” shall mean any individual or entity directly or indirectly controlling, controlled by or under common control with, a party to this Agreement. For purposes of this Agreement, (i) the direct or indirect ownership of over fifty percent ([[Percentage 1: Number]]%) of the outstanding voting securities of an entity, or the right to receive over fifty percent ([[Percentage 1]]%) of the profits or earnings of an entity, or (ii) the power to direct or cause the direction of the management or policies of a Person, whether through the ownership of voting securities, by contract or otherwise, shall be deemed to constitute control. For purposes of this definition, [[Organization 1 Name]] shall not be deemed to be an Affiliate of CBay or the Company. 
+
+^^“Client Ready Services” shall mean Transcription Services for which the Threshold QA Volume shall be [[Percentage 2: Number]]%. 
+
+^^“Confidential Information” shall mean all non-public information of a confidential or proprietary nature (whether or not specifically labeled or identified as “confidential”), in any form or medium, that relates to the business, products, financial condition, services or research or development of either of the parties under this Agreement and each of its Affiliates, suppliers, distributors, customers, independent contractors or other business relations, including all trade secrets, know-how, compilations of data and analyses, techniques, systems, formulae, recipes, research, records, reports, manuals, documentation, models, data and data bases relating thereto; inventions, innovations, improvements, developments, methods, designs, analyses, drawings, reports and all similar or related information. 
+
+^^“Contribution Margin” shall mean Revenues less the sum of Direct Production Costs and Indirect Production Costs. 
+
+^^“Contribution Ratio” shall mean [[Percentage 3: Number]]% of Revenues. 
+
+^^“Dictation” shall mean the audio dictated by a physician and recorded on digital media as a computer digital audio file for conversion from voice into text or data. 
+
+^^“Direct Production Costs” shall mean the sum of (i) direct personnel costs (*i.e.*, wages, bonuses, fringe benefits and other employee related costs) for employees directly involved in the provision of Transcription Services to MedQuist pursuant to this Agreement (*i.e.*, transcriptionists and first level quality assurance personnel), (ii) production related telecommunication costs and other direct production expenses (*i.e.*, third party production fees, royalty or license fees and other expenses incurred directly as a result of Transcription Services related production activities on behalf of MedQuist pursuant to this Agreement), and (iii) any costs incurred by CBay under Section 3.4(e). For purposes hereof, Direct Production Costs shall mean solely those costs included in the general ledger accounts listed on Schedule H hereto. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^“Effective Date” shall mean the date this Agreement is executed by the parties below following approval by the respective boards of directors (or any committee of the board charged with such approval) of the parties. 
+
+^^“EPHI” shall mean Electronic Protected Health Information as that term is defined by 45 CFR §164.513. 
+
+^^“HIPAA” shall mean the Health Insurance Portability and Accountability Act of 1996. 
+
+^^“Hospital” shall mean a hospital, clinic or other institution that provides inpatient or outpatient medical, surgical, or psychiatric care and treatment for the sick or the injured which either (i) has inpatient beds or (ii) is directly related to or connected to a hospital, clinic or other institution that has inpatient beds. 
+
+^^“Implementation Period” shall mean the 60 day period beginning the first day that CBay transcribes or edits a live dictated report of a new client or new client work type. 
+
+^^“Indirect Production Costs” shall mean the total of all allocations of Indirect Production Costs for each production facility and support function involved in the provision of Transcription Services to MedQuist. The allocation of said costs shall be determined for each facility in India at which transcription services are performed by CBay for MedQuist by multiplying (i) the sum of (x) indirect personnel costs (*i.e.*, wages, bonuses, fringe benefits and other employee related costs) for employees indirectly involved in the provision of Transcription Services to MedQuist pursuant to this Agreement (*i.e.*, second level quality assurance, supervisory, management and other production related personnel) at such facility, and (y) other indirect production expenses (*i.e.*, rental expenses, utility expenses, customer penalties and other expenses incurred indirectly as a result of and related to the provision of Transcription Services to MedQuist pursuant to this Agreement) at such facility by (ii) a ratio, the numerator of which is the Volume of Transcription Services performed for MedQuist hereunder at such facility and the denominator of which is CBay’s total volume of Transcription Services performed at such facility. The allocation of Indirect Production Costs other than those at the production facility shall be based upon a ratio of the Volume of Transcription Services performed for MedQuist hereunder to the total volume of all Transcription Services (or such other volume as may be appropriate for that specific support function). For purposes hereof, Indirect Production Costs shall mean solely those costs expended in India and included in the general ledger accounts listed on Schedule H hereto. 
+
+^^“Laws” shall mean all applicable federal, municipal, state, local or foreign statutes or laws, and shall be deemed also to refer to all rules and regulations promulgated thereunder, by any applicable regulatory authority or otherwise, unless context requires otherwise. Any reference to a particular law or regulation will be interpreted to include any revision of or successor to such statute, law, rule or regulation regardless of how it is numbered or classified. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^“Line” shall mean *******  
+
+^^“MedQuist Audit Committee” shall mean the Audit Committee of the Board of Directors of [[Organization 2 Name]] 
+
+^^“New Customer” shall mean a customer or prospective customer that is not a Current Customer. 
+
+^^“Non-Client Ready Services” shall mean Transcription Services for which the Threshold QA Volume is *******. 
+
+^^“PHI” shall mean Protected Health Information as defined in 45 CFR §164.501. 
+
+^^“Physician Practice” shall mean a medical practice comprised of one or more physicians organized to provide patient care services, but which practice is not part of a Hospital. 
+
+^^“Profit Sharing Amount” shall mean the excess of the Contribution Margin over the Contribution Ratio. 
+
+^^“Revenue Cycle Management” shall mean the activities of [[Organization 3 Name]], AMS Plus, and other operations responsible for billing, coding, or collections. 
+
+^^“Revenues” shall mean the gross revenues received by CBay from MedQuist for the provision of Transcription Services hereunder. 
+
+^^“Rupee Exchange Rate” shall mean the number of Indian Rupees that can be purchased for one U.S. Dollar, as reported by The Wall Street Journal on the date in question. 
+
+^^“Technical Safeguards” shall mean the technology and the policy and procedures for its use that protect EPHI and control access to it as defined in 45 CFR §164.304. 
+
+(aa) “Term” shall mean the period of time commencing on the Effective Date and ending on the Expiration Date. 
+
+(bb) “Transcript” shall mean the document or computer file resulting from the conversion of Dictation into text or data. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+(cc) “Transcription Services” shall mean the transcription and/or editing services that result in the conversion of physician Dictation into Transcript. 
+
+(dd) “Volume” shall mean the volume of Transcription Services provided to MedQuist hereunder. 
+
+\centered **COORDINATED SALES AND MARKETING EFFORTS** 
+
+^^CBay Discontinues Certain Marketing Efforts. From and after the Effective Date until the Expiration Date, except as otherwise agreed upon in writing by MedQuist (following approval by the MedQuist Audit Committee) and CBay on a case-by-case basis, CBay will cease any New Customer sales efforts for Transcription Services to Hospitals in North America. For the avoidance of doubt, the limitation in the previous sentence will not restrict CBay from the following activities: 
+
+^^Current Customer Relationships with Hospitals. Maintaining, developing and growing its relationships with current Hospital customers set forth on Schedule A (the “Current Customers Schedule”), including their Affiliates and existing, new, or subsequently acquired facilities of such persons (collectively, “Current Customers”) and servicing and providing additional work types/services for such Current Customers, including the Company’s products and services set forth on Schedule B (the “Current Products and Services Schedule”). 
+
+^^Other Market Segments. Prospecting for New Customers in any other market segment, including, but not limited to, the Physician Practice market segment. 
+
+^^Other Product/Service Categories. Selling any product/service, other than Transcription Services, to any Hospital, including but not limited to, Revenue Cycle Management products/services. 
+
+^^Current Pipeline. Servicing and continuing its sales efforts to the Hospitals actively being pursued as of the date of this Agreement (“Current Pipeline Customers”), set forth on Schedule C (the “Current Pipeline Customers Schedule”), for twelve (12) months after the Effective Date. Unless the parties mutually agree to extend this twelve (12) month period (which agreement in the case of MedQuist will require the approval of the MedQuist Audit Committee), CBay will discontinue its sales efforts to any Hospitals that have not become customers as of twelve (12) months after the Effective Date. 
+
+^^Marketing of Transcription Services. During the Term of this Agreement, the Company will use its commercially reasonable efforts to sell and market Transcription Services to Hospitals in North America other than Current Customers and Current Pipeline Customers. With CBay’s express written consent, the Company may sell and market Transcription Services to any Current Customer, Current Pipeline Customer or facilities acquired by either Current 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+Customers or Current Pipeline Customers. CBay will provide the Company with such marketing assistance, technical information and other cooperation as is reasonably requested by the Company in connection with its marketing efforts. 
+
+^^General Exceptions. Notwithstanding anything contained in this Agreement, neither CBay nor MedQuist or their Affiliates shall be prohibited or restricted from acquiring, holding or investing in, directly or indirectly through any of its Affiliates, securities of an entity engaged in any business after the Effective Date, including the medical transcription business, the Hospital sector, and/or the Physician Practice market. The provisions of this Agreement will apply to any entity acquired after the Effective Date of this Agreement, unless the parties mutually agree otherwise (which agreement in the case of MedQuist will require the approval of the MedQuist Audit Committee). 
+
+^^Group Purchasing Order Contracts. During the Term of this Agreement, CBay will cooperate with the Company to transfer, to the fullest extent permissible, the rights and benefits under CBay’s Group Purchasing Order (“GPO”) contracts set forth on Schedule D (the “GPO Contracts Schedule”) to the Company in order to allow MedQuist to market its products and services solely to New Customers that are Hospitals covered by such GPO contracts. If any such GPO contract cannot be transferred, CBay shall provide or cause to be provided all commercially reasonable assistance to the Company (not including the payment of any consideration) reasonably requested by the Company to secure any lawful and commercially reasonable arrangement reasonably proposed by the Company under which the Company shall obtain (without infringing upon the legal rights of any third party) the economic claims, rights and benefits under such GPO contract and shall assume any related economic burden with respect to such GPO contract. If any such GPO contract cannot be transferred, and CBay cannot facilitate MedQuist’s beneficial use of any such GPO contract pursuant to the previous sentence, then CBay shall contract for sales under such GPO contract and engage the Company to provide Transcription Services thereunder pursuant to the Subcontracting Agreement. 
+
+\centered **[[Organization 4 Name]]** 
+
+^^Termination of the TSA. The TSA is hereby terminated and superseded in its entirety by this Agreement, other than with respect to the payment of any fees or penalties for services provided under the TSA through the date of termination and Section 5.5 and Article VIII thereof, which provisions shall survive such termination and not be superseded solely with respect to services provided under the TSA through the date of termination. 
+
+^^Exclusive Vendor Relationship. As of the Effective Date, until the Agreement is terminated or this provision ceases to be applicable in accordance with Sections 5.5 or 7.5 hereof, CBay shall be the Company’s exclusive provider of Indian or [[Organization 5 Name]], except as otherwise agreed upon in writing by MedQuist and CBay on a case-by-case basis, MedQuist will cease to directly or indirectly (except through CBay) purchase Indian or [[Organization 5 Name]] from any person or entity other than CBay or perform Indian or [[Organization 5 Name]] itself except pursuant to the Company’s International Labor Partner (“MQ ILP”) Vendor Contracts for Indian or [[Organization 5 Name]] set forth on Schedule E 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+(“ILP Contracts”) prior to their assignment to CBay pursuant to Section 3.3. CBay shall provide the Indian or [[Organization 5 Name]] at substantially the same level of quality as CBay provides similar services to its other clients, but in no event less than the standards customary in the industry. 
+
+^^MedQuist’s Current International Labor Partner Vendor Contracts. As of the Effective Date the Company will take commercially reasonable measures to obtain consent, if required, for the assignment of the ILP Contracts from each MQ ILP. The Company will assign to CBay, and CBay will assume, each of the Company’s ILP Contracts in order to allow CBay to perform initially the necessary Indian or [[Organization 5 Name]] for the Company promptly following its receipt of the consent of the MQ ILP party to such ILP Contract of such assignment. For purposes of clarity, following such assignment, CBay shall be solely responsible to MedQuist for the performance of all Indian and [[Organization 5 Name]] and all other obligations under such ILP Contract and such services shall be deemed to be performed by or on behalf of CBay. Following the assignment of an ILP Contract, CBay shall have the right to amend, modify, terminate and replace ILP Contracts and vendors in its discretion, and MedQuist will not be entitled to any discounts, rebates, reductions in price or penalties under the ILP Contracts (except to the extent set forth in Section 3.4(h)). If any ILP does not consent to the assignment of its ILP Contract, the Company shall provide or cause to be provided all commercially reasonable assistance to CBay (not including the payment of any consideration) reasonably requested by CBay to secure such consent or cooperate with CBay (at CBay’s expense for any out-of pocket expenses) in any lawful and commercially reasonable arrangement reasonably proposed by CBay under which CBay shall obtain (without infringing upon the legal rights of any third party) the economic claims, rights and benefits under such ILP contract and shall assume any related economic burden with respect to such ILP contract. 
+
+^^Pricing; Profit Sharing.  
+
+^^ILP Contracts. With respect to any ILP Contract that is assigned to CBay, following such assignment, for Non-Client Ready Services performed under such ILP Contracts, CBay will bill the Company, and the Company agrees to pay CBay, the amount required to be paid for services under the ILP Contract at the rates in effect as of the Effective Date as set forth in Schedule E, regardless of the date of actual transfer of the ILP Contract or the date CBay begins or ceases to provide services under such contract (the “ILP Contract Rate”). For Client Ready Services performed under such ILP Contracts, CBay will bill the Company, and the Company agrees to pay CBay, the ILP Contract Rate plus *******. Upon termination of an ILP Contract in accordance with its terms, CBay will be paid the Services Fee under clause (b). 
+
+^^Services Fee. For Indian or [[Organization 5 Name]] provided by CBay other than through the ILP Contracts assigned to CBay, CBay will be paid at the rates set forth in Schedule F (the “Services Fee Schedule”) (subject to changes for currency fluctuation as described below) (the “Services Fee”). Notwithstanding anything herein to the contrary, in no event shall the Services Fee net of impact of amounts received by the Company pursuant to the Profit Sharing pursuant to Section 3.4(i) be greater than the fee charged by CBay to any other customer to whom it is providing substantially similar Transcription Services. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^^Invoicing. An invoice for Service Fees will be generated by CBay twice each month and payment is due within thirty (30) calendar days after the Company’s receipt of the invoice and any other contractual reporting obligations of CBay due during the applicable billing period. 
+
+^^Currency Fluctuation. If the average Rupee Exchange Rate during any three month period following the Effective Date (such rate, the “Adjusted Rupee Exchange Rate”) is [[Percentage 4: Number]]% higher or lower than the average Rupee Exchange Rate during the twelve (12) month period immediately preceding the Effective Date (such rate, the “Baseline Rupee Exchange Rate”), the prices charged by CBay for its Indian or [[Organization 5 Name]] under this Agreement shall be adjusted upwards or downwards, as the case may be, by a factor equivalent to the ratio of the Baseline Rupee Exchange Rate to the Adjusted Rupee Exchange Rate. The most recent date on which such a modification occurs shall be deemed the “Exchange Rate Price Modification Date.” Once the prices have been modified pursuant to this paragraph, the first sentence of this paragraph shall be applied by replacing the words “Effective Date” with the words “Exchange Rate Price Modification Date” and adjustments may be made thereafter as set forth above. 
+
+^^Additional Costs. If the Company requests a material change in the scope of the Transcription Services provided by CBay (including without limitation accelerated TAT times (2 hours instead of 12 hours) or significantly more nighttime work), and CBay informs the Company that such changes would increase CBay’s production costs over the costs that would be incurred if there were no material change in the scope of Transcription Services provided by CBay, then, in any such case, the expected additional costs, as specified in a new increased cost per line rate, shall have to be identified and agreed to by the Company before CBay begins performance of the Transcription Services incorporating the requested changes. If the Company agrees to the additional production costs resulting from the changes requested by the Company, as specified in a new increased cost per line rate, the Company shall thereafter pay CBay the increased per line rate. If the Company does not agree to the additional production costs resulting from the changes requested by the Company, as reflected in a specified increased cost per line rate, CBay will not perform the requested changes and the per line rate will remain constant. The parties shall work in good faith to minimize the amount of any cost increases resulting from material changes in the scope of the Transcription Services requested by the Company. 
+
+^^CBay assumes all Taxes, Duties, Delivery and Installation Fees. CBay assumes responsibility for all excise, sales, use and similar taxes, export or import duties and shipment, and delivery or installation fees. 
+
+^^Uncollected Services Fee. To the extent the Company cannot pay, or cause to be paid, the Services Fee for any reason, including by reason of any prohibition on such payment pursuant to any applicable law or the terms of any debt financing of the Company or its subsidiaries, the payment by the Company or any of its subsidiaries to CBay of the Services Fee will be payable immediately on the earlier of (i) the first date on which the payment of such deferred Services Fee is no longer prohibited by law or 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ under any contract applicable to the Company and the Company is otherwise able to make such payment or cause such payment to be made, and (ii) total or partial liquidation, dissolution or winding up of the Company. Notwithstanding anything to the contrary herein, under any applicable law or under any contract applicable to the Company or its subsidiaries, any forbearance of collection of the Services Fee by CBay shall not be deemed to be a subordination of such payments to any other person, entity or creditor of the Company or its subsidiaries. Any installment of the Services Fee not paid on the scheduled due date will bear interest at an annual rate of six percent ([[Percentage 5: Number]]%), compounded quarterly, from the date due until paid. 
+
+^^Disputed Services Fee. In the event that any invoiced amount is disputed by the Company, the Company shall deliver written notice of such disputed amount to CBay within thirty (30) calendar days after the date the invoice is due. Upon receipt of written notice of a billing dispute, CBay and Company shall promptly exchange any backup or other information reasonably necessary to support the correctness of any disputed amount. The parties shall thereafter have thirty (30) calendar days (“Invoice Review Period”) in which to examine such information, and to the extent such information substantiates payment, reductions or credits in the applicable invoice, such will be applied promptly. Thereafter, if CBay and the Company are unable to reach an agreement as to any remaining disputed amount, CBay and the Company shall immediately enter into good faith negotiations to resolve any remaining dispute, provided that in the case of MedQuist any resolution shall require the approval of the MedQuist Audit Committee. In the event the parties are unable to resolve such dispute within fifteen (15) calendar days after the end of the Invoice Review Period, the dispute shall be settled pursuant to the provisions of Section 11.12 of this Agreement. 
+
+^^Penalties. The Company shall receive from CBay reimbursement for any actual penalties paid (whether in cash or by credit against future services) by the Company to its customers for Transcription Services performed either directly or indirectly (through an ILP Contract) by CBay which due to CBay’s action or inaction fail to meet the Quality Assurance or Turnaround Time performance requirements (as those terms are defined in the underlying contracts with the Company’s customers) under the contracts with such customers. 
+
+^^^On a monthly basis, the Company shall submit to CBay any and all invoices, if any, for penalties paid by the Company to a customer due to CBay’s action or inaction as explained above. 
+
+^^^CBay shall have 20 days to object to the Company’s conclusion that CBay’s action or inaction caused the Company to incur a penalty to its customer. If CBay objects, the parties will discuss the objection and try to resolve any disagreement in good faith (provided that in the case of MedQuist any resolution shall require the approval of the MedQuist Audit Committee), failing which the matter shall be submitted to binding arbitration in accordance with Section 11.12. If CBay does not object or the objection is resolved, then within 10 days thereafter CBay shall pay to the Company an amount in cash equal to the sum of the penalties paid by the Customer and submitted as invoices to CBay 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ under paragraph (i) above; provided that if CBay does not object to the full amount of the penalty, then CBay shall within 10 days of receipt of the invoice pay to the Company an amount in cash equal to the portion of the penalties as to which CBay is not objecting. Any penalties not paid on the due date set forth in this paragraph (ii) will bear interest at an annual rate of six percent ([[Percentage 5]]%), compounded quarterly, from the date due until paid. 
+
+^^Profit Sharing. The Company shall be entitled to [[Percentage 1]]% of CBay’s Profit Sharing Amount (the “Company’s Share”) in each Fiscal Year of CBay. Within 60 days after the close of each Fiscal Year of CBay, the calculation of the Company’s Share will be reviewed as part of the annual audit and CBay shall prepare and submit to the Company a certificate, signed by CBay’s chief financial officer, specifying in reasonable detail the relevant calculation of the Revenues, Direct Production Costs, Indirect Production Costs and Profit Sharing Amount related to CBay’s Indian or [[Organization 5 Name]] performed for the Company; and the results of its operations and cash flow for the relevant transactions, together with payment of the Company’s Share as set forth in the certificate. The Company shall have 21 days to object to the calculation set forth in the certificate. If the Company objects, the parties will discuss the objection and try to resolve any disagreement in good faith (which resolution in the case of MedQuist will require the approval of the MedQuist Audit Committee), failing which the matter shall be submitted to binding arbitration in accordance with Section 11.12. If the Company has objected to the calculation, then within 10 days following resolution of the objection, CBay shall pay to the Company (or the Company shall pay to CBay, as the case may be) an amount in cash equal to the difference, if any, between the Company’s Share as finally resolved and the Company’s Share as set forth in the certificate and previously paid. 
+
+^^^Example. By way of example only, if CBay earns $[[USD Value 5: Number]] million in Revenue from Transcription Services sold to the Company, and $[[USD Value 6: Number]] million in Contribution Margin on such services, the Company would be entitled to a payment of $[[USD Value 1: Number]] according to the following calculations. Contribution Margin in excess of the Contribution Ratio would equal $[[USD Value 6]] million less $[[USD Value 7: Number]] million ([[Percentage 3]]% Contribution Ratio on $[[USD Value 5]] million in Transcription Services Revenues), or $[[USD Value 8: Number]] million of which [[Percentage 1]]%, or $[[USD Value 2: Number]] would be paid to the Company. 
+
+^^Excess Quality Assurance Expense. The Company shall have the right to charge, and CBay shall pay, an amount equal to the Excess Quality Assurance Expense as explained in Schedule F. 
+
+^^Books of Account. Appropriate records and books of account of CBay’s transactions with, and the provision of services to, the Company under this Agreement shall be maintained by CBay in accordance with GAAP consistently applied. Such records and books of account shall at all times be maintained at such place of business of CBay as shall have been notified to the Company. The books of account and the records of CBay shall be audited as of the end of each Fiscal Year by its independent auditors. All such records shall be maintained during the Term of this Agreement, or such longer period as may be required by relevant Law. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^Inspection Rights of the Company. The Company, and any accountants, attorneys, financial advisers and other representatives of the Company, may, from time to time at the Company’s sole expense, visit and inspect the properties of CBay, examine (and make copies and extracts of) CBay’s books, records and documents solely for purposes of confirming the calculation of Revenues, Direct Production Costs, Indirect Production Costs, Contribution Margin, the Profit Sharing Amount and the Company’s Share related to the Indian or [[Organization 5 Name]] provided by CBay to the Company under this Agreement, and may discuss those transactions with its officers, employees and independent accountants, all at such reasonable times as the Company may request on reasonable notice. 
+
+^^Other Information. Upon the reasonable request of the Company, CBay shall, to the extent reasonably practicable without interfering unduly with the ongoing operation and management of CBay’s business and without imposing any significant expense or cost on CBay, prepare and furnish, or cause to be prepared and furnished, to the Company, as soon as practicable following such request, any additional financial or operating information or reports as are so reasonably requested by the Company, related to determining Revenues, Direct Production Costs, Indirect Production Costs, Contribution Margin, the Profit Sharing Amount and the Company’s Share. 
+
+\centered **REPRESENTATIONS, WARRANTIES AND COVENANTS** 
+
+^^CBay represents and warrants that it is fully authorized to enter into this Agreement and that its entry into this Agreement does not violate any contractual obligation it owes to a third party. 
+
+^^CBay shall provide any operational, technical, production and quality assurance support to reasonably meet the sales and operations requirements of the Company. However, should any such request on the part of the Company require travel by individuals or entities who assist CBay in fulfilling its obligations under this Agreement from their home station, the Company shall be responsible for all such travel, lodging and related expenses of these individuals or entities to the extent such expenses are submitted and approved by the Company prior to the expense being incurred by CBay. 
+
+^^The Company and CBay agree that they shall designate operational, sales, and administrative personnel as points of contact, and each party shall maintain appropriate levels of communication as required to fulfill their obligations under this Agreement. 
+
+^^CBay represents and warrants that no individuals or entities shall assist CBay in fulfilling CBay’s obligations and duties under this Agreement unless those individuals or entities: (a) are employees of CBay, its Affiliates and other entities (“Covered Entities”) set forth in Schedule G attached hereto, as modified pursuant to the mutual written consent of MedQuist and CBay (the “Covered Entities Schedule”), or employees of Covered Entities; (b) if located outside of the United States, perform all services in connection with this Agreement in a secure site and shall not at any time perform Transcription Services remotely or outside of CBay’s premises or the Covered Entities’ premises designated for performance of Transcription 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+Services; (c) will in all cases have executed and as such present to the Company upon the Company’s reasonable request such business agreements, HIPAA confidentiality agreements, employee verifications and other similar documentation as may be required by the Company; and (d) perform all services pursuant to this Agreement in full compliance with the terms of the Company’s “International Labor Vendor Standards and Safeguards for HIPAA Compliance” (as more fully defined and expressly limited in Section 5.5 herein) and any written modifications of such presented to CBay during the Term of this Agreement. CBay further represents and warrants that it shall not subcontract or assign any Transcription Services, duties or obligations under this Agreement in the absence of the prior written authorization from the Company. 
+
+\centered **HIPAA COMPLIANCE** 
+
+^^CBay, for itself and on behalf of the Covered Entities, will: 
+
+^^Not use or further disclose any PHI other than as permitted or required by this Agreement or as required by law; 
+
+^^Report to the Company’s Corporate Director of Information Privacy and Security any use or disclosure of the PHI not provided for by this Agreement within forty-eight (48) hours of becoming aware of the unauthorized use or disclosure; 
+
+^^Have procedures in place for mitigating, to the maximum extent practicable, any deleterious effects from the use or disclosure of PHI in a manner contrary to this Agreement; 
+
+^^Ensure that any individuals or entities who assist CBay in fulfilling its obligations under this Agreement agree, in writing, to substantially the same restrictions and conditions that apply to CBay with respect to such PHI. CBay shall obtain reasonable assurances from any such individuals or entities that: (i) the information being disclosed will be held confidentially and used or further disclosed only as required by law, (ii) the individuals or entities will use the appropriate Administrative and Technical Safeguards to prevent the unauthorized use or disclosure of the PHI and EPHI; and (iii) the individuals or entities will immediately notify CBay of any instance of a breach of any of the PHI terms set forth herein; 
+
+^^Ensure that all individuals and entities who assist CBay in fulfilling its obligations under the Agreement are or shall be appropriately informed of the terms of this Agreement and are under a legal obligation, by contract or otherwise, sufficient to enable each individual and entity to fully comply with all provisions of this Agreement. CBay will ensure that all individuals and entities who assist CBay in fulfilling its obligations under this Agreement are educated on the Company’s privacy and security policies (as further defined in Section 5.5 herein) and that sanctions are imposed for non-compliance with those policies and procedures. CBay will also ensure that all individuals and entities who assist CBay in fulfilling its obligations under the Agreement have signed Protected Health Information Confidentiality Agreements; 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^Make available to the Company such information as the Company may require to fulfill the Company’s obligations to provide access to, provide a copy of, and account for disclosures with respect to PHI pursuant to HIPAA and the HIPAA Regulations, including, but not limited to, 45 CFR §164.524 and §164.528; 
+
+^^Make the Company’s PHI available as the Company may require to fulfill the Company’s obligations to amend PHI pursuant to HIPAA and the HIPAA Regulations, including but not limited to 45 CFR §164.526. CBay shall, as directed by the Company, incorporate any amendments to the Company’s PHI into copies of such PHI maintained by CBay; 
+
+^^Make available the information required to provide an accounting of disclosures in accordance with 45 CFR §164.528; 
+
+^^Make its internal practices, books, and records relating to the use and disclosure of PHI received from, or created or received by CBay on behalf of, the Company available to the Secretary of the U.S. Department of Health and Human Services for purposes of determining the Company’s or a Company customer’s compliance with HIPAA; 
+
+^^Upon termination or expiration of the Agreement, or any time during the Term of this Agreement, with respect to PHI that CBay maintains in any form, recorded on any medium or stored in any storage system, including PHI retained or stored by individuals and entities who assist CBay in fulfilling its obligations under the Agreement, at the Company’s direction and if feasible, return to the Company or destroy all such PHI. A senior officer of CBay shall certify in writing to the Company, within thirty (30) days after termination or other expiration of the Agreement, that all PHI has been returned or disposed of as provided above and that CBay no longer retains any such Protected Health Information in any form; 
+
+^^If return or destruction of PHI is infeasible, notify the Company in writing within thirty (30) days after termination or other expiration of the Agreement. Such notification shall include: (i) a statement that CBay has determined that it is infeasible to return or destroy the PHI in its possession; and (ii) the specific reasons for such determination. In addition to providing such notification, CBay shall certify within such thirty (30) day period that it will, and will require individuals and entities who assist CBay in fulfilling its obligations under the Agreement to, extend any and all protections, limitations and restrictions contained in this Agreement to any PHI retained after termination of the Agreement and to limit any further uses and/or disclosures to those purposes that make the return or destruction of the PHI infeasible; 
+
+^^Implement Administrative and Technical Safeguards that reasonably and appropriately protect the confidentiality, integrity and availability of EPHI that CBay creates, receives, maintains or transmits on behalf of the Company; 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^Report to the Company’s Director of Information Privacy and Security within forty eight (48) hours any “security incident” of which it becomes aware, as such term is defined in the HIPAA Security Rule; 
+
+^^Ensure that any individuals and entities who assist CBay in fulfilling its obligations under the Agreement to whom CBay provides EPHI agree in writing, to implement reasonable and appropriate safeguards to protect EPHI as required herein; and 
+
+^^Upon request, provide to the Company a list of names of any individuals or entities used to outsource the Company’s transcription and evidence of written assurances from those individuals or entities (as required in 5.1 (d)) that they will agree to substantially the same restrictions and conditions that apply to CBay with respect to such PHI. 
+
+^^CBay, in its capacity as Business Associate (as that term is defined in the HIPAA Regulations) to the Company, shall be permitted to use and disclose PHI in a manner that would not violate the requirements of the HIPAA Regulations as follows: (a) for the proper management and administration of CBay; (b) to carry out the legal responsibilities of CBay and to fulfill CBay’s duties and responsibilities under this Agreement including in part disclosure to individuals and entities who assist CBay in fulfilling its obligations under the Agreement; and (c) to provide data aggregation services relating to the health care operations of the Company. 
+
+^^CBay acknowledges that the Company is not conveying any right or title in the PHI to CBay. 
+
+^^Notwithstanding anything to the contrary set forth herein, CBay shall indemnify, defend and hold harmless the Company and any of the Company’s directors, officers, employees and agents from and against any claim, liability, or expense (including reasonable attorneys’ fees), arising out of or relating to any non-permitted use or disclosure of PHI or EPHI or other breach of this Article V by CBay or any individuals and entities who assist CBay in fulfilling CBay’s obligations under the Agreement. 
+
+^^Following the execution of this Agreement, CBay shall at all times comply in all material respects with the terms of the Company’s International Labor Vendor Standard and Safeguards for HIPAA Compliance and any written modifications of such presented to CBay during the Term of this Agreement (the “Company HIPAA Compliance Standards”). The Company shall give CBay five (5) business days to consider and accept any modifications to the Company HIPAA Compliance Standards, and if CBay does not object to such modifications within the aforementioned time period, then such modifications shall be considered accepted by CBay and incorporated by reference. To the extent that CBay objects to any modification of the Company HIPAA Compliance Standards, the parties will discuss in good faith the negotiation of mutually acceptable terms. However, should the parties not be able to reach agreement of the modifications within ten (10) days, the Company shall have the right to, at its option, (i) submit such disagreement to binding arbitration in accordance with Section 11.12, or (ii) terminate this Agreement. Subject to the provisions of Section 7.6, such termination shall be effective immediately or at such other date as specified in the notice of termination. The Company HIPAA Compliance Standards shall be hereby incorporated by reference into this Agreement 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ and the most current version has been supplied by the Company along with the fully executed Agreement. The Company shall be permitted at any time, at the Company’s sole cost and expense, reasonable access to and the ability to examine all information, in any form, which is necessary or appropriate (as determined by the Company in its sole discretion) to review CBay’s compliance with the Company HIPAA Compliance Standards (an “HIPAA Audit”). In the event that the Company in its sole discretion determines as a result of an HIPAA Audit that CBay is not in material compliance with the Company HIPAA Compliance Standards (a “Negative Finding”), and notwithstanding anything herein to the contrary, (a) CBay shall promptly pay to the Company, as liquidated damages and not as a penalty, (i) all costs and expenses associated with the HIPAA Audit, and (ii) all costs and expenses incurred by the Company in connection with any liability, loss, damage (including, without limitation, special, exemplary, punitive, consequential or incidental damages), penalty, claim or cause of action relating directly or indirectly to the Negative Finding including, without limitation, reasonable attorney’s fees; and (b) subject to the provisions of Section 7.6, the Agreement shall be terminated effective immediately upon written notice from the Company to CBay and, upon such termination, CBay shall immediately return to the Company all Confidential Information (including, without limitation, all PHI) in its possession or in the possession of any individuals and entities who assist CBay in fulfilling its obligations under the Agreement. 
+
+\centered **INTELLECTUAL PROPERTY MATTERS** 
+
+^^Any and all designs, artwork, logos, graphics, video, text, data code and other proprietary or confidential materials supplied by the Company to CBay in connection with this Agreement (the “Company Content”) shall remain the sole and exclusive property of the Company. No copyrights, patents, trademarks or other Intellectual Property rights shall be transferred from the Company to CBay with respect to any of the Company Content. However, the Company hereby grants to CBay a worldwide, non-exclusive, unlimited fully paid-up license to use, copy, modify, enhance, create derivative works of and otherwise use the Company Content in any manner reasonably necessary in connection with the performance of the Transcription Services hereunder (the “Company Content License”). 
+
+^^Nothing in this Agreement shall be construed to grant to CBay any right to or interest in any trademark, trade name, trade dress, service mark, copyright, patent, trade secret or know-how (“Intellectual Property”) owned or asserted to be owned by the Company. CBay’s use of the Intellectual Property shall be limited to the performance of the Transcription Services as contemplated hereby. Any other use of the Intellectual Property shall constitute an infringement thereof and/or a violation of the Company’s rights resulting in irreparable injury to the Company and entitling the Company to immediate injunctive relief and to any other remedies at law or equity. 
+
+^^Any and all designs, artwork, logos, graphics, video, text, data code and other proprietary or confidential materials supplied by CBay to the Company in connection with this Agreement (the “CBay Content”) shall remain the sole and exclusive property of CBay. No copyrights, patents, trademarks or other Intellectual Property rights shall be transferred from CBay to the Company with respect to any of the CBay Content. However, CBay hereby grants to 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ the Company a worldwide, non-exclusive, unlimited fully paid-up license to use, copy, modify, enhance, create derivative works of and otherwise use the CBay Content in any manner reasonably necessary in connection with the performance of the Transcription Services hereunder (the “CBay Content License”). 
+
+^^Nothing in this Agreement shall be construed to grant to the Company any right to or interest in any Intellectual Property owned or asserted to be owned by CBay. Any use of such Intellectual Property shall constitute an infringement thereof and/or a violation of CBay’s rights resulting in irreparable injury to CBay and entitling CBay to immediate injunctive relief and to any other remedies at law or equity. 
+
+^^Application Service Provider License. 
+
+^^Through the use of software applications (the “Applications”) hosted on the DEP and made available by means of the Internet, CBay shall have the ability to access the DEP for the purpose of providing the Transcription Services described herein. Subject to the terms and conditions set forth herein, the Company hereby grants to CBay for the Term of this Agreement a non-transferable, non-exclusive limited right of access to, and use of, the Applications solely for the purposes of performing the Transcription Services hereunder. From time to time, the Company may require the agreement to and acknowledgement of an end-user license, terms and conditions and/or other agreements prior to CBay accessing the Applications. 
+
+^^With respect to its use of the Applications, CBay, at its own cost and expense, shall: (i) not permit any individual or entity, other than authorized individuals and entities under this Agreement, to use or gain access to the Applications; (ii) provide reasonable security devices to protect against unauthorized usage; (iii) not adapt the Applications in any way or use it to create a derivative work (other than reports that are transcribed or edited using the Applications); and (iv) not remove, obscure, hinder or alter the Company’s (or any other third party’s) proprietary notices, trademarks, or other proprietary rights notices affixed to or contained in the Applications. 
+
+^^The Applications are the exclusive property of the Company and/or the Company’s licensors, which shall retain all right, title and interest in and to the Applications, including, without limitation, the Intellectual Property rights and any other rights under United States and international copyright, patent, trademark, trade secret or other law. CBay may not use the Applications for the benefit of any third parties or allow access to the Applications by any third party, except as otherwise explicitly authorized hereunder. 
+
+^^CBay has developed and may continue to develop proprietary software tools (the “Tools”) to enhance the productivity of its workforce, and/or better meet HIPAA compliance requirements. CBay may at its sole discretion share these Tools with the Company. Should the Company use these Tools, either with or without compensation to CBay, the Company warrants it will not share these Tools with any third party without the specific written permission of CBay. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **TERM** 
+
+^^Term. This Agreement shall be effective on the Effective Date and continue until the fifth anniversary of the Effective Date (the “Expiration Date”), unless sooner terminated by the parties in accordance with Section 5.5 or this Article VII. 
+
+^^Termination for Material Breach. Either party may terminate this Agreement or the provision of any Service if the other party materially breaches any term of this Agreement immediately after providing written notice of termination to the other party and, in the event of termination due to a material breach that is curable, after providing not less than 20 days to cure such breach as specified in such notice. 
+
+^^Termination Upon Change of Control. In the event CBay and its Affiliates (other than the Company and its subsidiaries) cease to control, directly or indirectly, the power to vote at least thirty percent ([[Percentage 6: Number]]%) of the issued and outstanding common equity of the Company, the Company or CBay may elect to terminate this Agreement. 
+
+^^Renewal. After the initial Term of this Agreement, the Term of this Agreement shall automatically renew for two additional five year terms, unless, not earlier than 12 months nor less than six months prior thereto, either party provides the other with written notice of its election to terminate this Agreement on the next Expiration Date. 
+
+^^Selective Termination by Either Party. Notwithstanding the foregoing, (i) CBay may, in its sole discretion, terminate Section 3.2 of this Agreement and allow the Company to contract with CBay on a non-exclusive basis, and seek new providers of Indian or [[Organization 5 Name]], and (ii) the Company may, in its sole discretion (following approval by the MedQuist Audit Committee), terminate Section 2.1 of this Agreement and allow CBay to market to New Customer Hospitals. 
+
+^^Post-Termination Transcription Services. In the event either CBay or the Company elects to terminate this Agreement pursuant to Sections 5.5, 7.2 or 7.3 as the case may be, or in the event either the Company or CBay elects not to renew this Agreement pursuant to Section 7.4 hereof, then CBay shall continue to perform Transcription Services hereunder for a period of up to one year to allow the Company to transition the Transcription Services being provided hereunder to other providers, and the Company shall use commercially reasonable efforts to transition such services as promptly as reasonably practicable. 
+
+\centered **INDEMNIFICATION AND INSURANCE** 
+
+^^Indemnification Obligations.  
+
+^^CBay hereby indemnifies and holds the Company harmless from and against any and all liability, loss, damage, claim or cause of action, and expenses connected therewith, including, without limitation, reasonable attorney’s fees and 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ expenses, to the extent such damage (i) is caused directly or indirectly by CBay, its employees or agents in the performance of CBay’s obligations hereunder and (ii) results in costs incurred or liability by the Company to any of its customers. 
+
+^^The Company hereby indemnifies and holds CBay harmless from and against any and all liability, loss, damage, claim or cause of action, and expenses connected therewith, including, without limitation, reasonable attorney’s fees and expenses, to the extent such damage (i) is caused directly or indirectly by the Company, its employees or agents in the performance of the Company’s obligations hereunder and (ii) results in costs incurred or liability by CBay to any of its customers (other than the Company). 
+
+^^Insurance. CBay represents and warrants that during the Term of this Agreement, it shall maintain the types and amounts of insurance set forth below: 
+
+^^General liability insurance, including contractual liability coverage of all of CBay’s obligations under this Agreement and products liability/completed operations coverage in such amounts and covering such risks and liabilities as are in accordance with normal industry practice. 
+
+^^Such insurance shall be evidenced by a certificate of insurance which shall provide that the Company shall receive thirty (30) days’ prior written notice of cancellation or material change of such policy. 
+
+\centered **CONFIDENTIALITY** 
+
+^^Confidentiality. CBay and the Company acknowledge that Confidential Information is to be considered highly confidential. Each party shall use Confidential Information disclosed to it by or on behalf of the other party only for the purposes contemplated by this Agreement and shall not disclose such Confidential Information to any third party without the prior written consent of the disclosing party. The foregoing obligations shall survive the expiration or termination of this Agreement for a period of five (5) years. These obligations shall not apply to Confidential Information that: 
+
+^^Is known by the receiving party in connection with providing services under this Agreement at the time of its receipt, and not through a prior disclosure by the disclosing party, as documented by business records; 
+
+^^Is published at the time of disclosure, or thereafter becomes published or otherwise part of the public domain without breach of this Agreement by the receiving party; 
+
+^^Is subsequently disclosed to the receiving party by a third party who has the right to make such disclosure; 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^Is developed by the receiving party independently of Confidential Information or other information received from the disclosing party and such independent development is properly documented by the receiving party; or 
+
+^^Is required to be disclosed by law or court order, provided that notice is promptly delivered to the other party in order to provide an opportunity to seek a protective order or other similar order with respect to such Confidential Information and thereafter discloses only the minimum information required to be disclosed in order to comply with the request, whether or not a protective order or other similar order is obtained by the other party. 
+
+Nothing herein shall be interpreted to prohibit the Company from publishing the results of its studies in accordance with industry practices. 
+
+\centered **MUTUAL COMMITMENTS** 
+
+^^Executive Committee Formation. Both parties commit to the formation of an Executive Committee that is responsible for the effective coordination of the coordinated sales and marketing efforts, [[Organization 4 Name]] activities and for the making of any decisions under or related to this Agreement. The Executive Committee shall consist of equal numbers of members appointed by CBay and by MedQuist, provided that the persons appointed by MedQuist shall have no position with CBay or any of its Affiliates (other than the Company). The Executive Committee shall meet at least once a month by telephone or in person. CBay and the Company shall deliver to the Executive Committee such financial and other information regarding the delivery of Transcription Services hereunder as the Executive Committee or any of its members may request. 
+
+^^CBay’s Reduction of Costs. CBay commits to use its best efforts to reduce its Direct Production Costs and Indirect Production Costs through improved productivity, better use of technology, and other methods as it, in it sole discretion but in consultation with the Executive Committee, deems appropriate so as to strive to optimize its Contribution Margin and as such to maximize the profit sharing payments to MedQuist under Section 3.4(i). 
+
+^^CBay’s Reporting of Financial and Operational Data. CBay commits to use its best efforts to provide complete financial and operational data about the Transcription Services provided to the Company, including but not limited to, monthly financial statements showing Revenues, Direct Production Costs, Indirect Production Costs, Contribution Margin, other expenses and productivity. CBay shall use reasonable efforts to inform the Executive Committee prior to switching any MedQuist customer from an ILP currently performing Transcription Services for such customer, it being acknowledged and agreed that any such determination shall be made by CBay in its sole discretion. 
+
+^^MedQuist’s Maintenance and Enhancement of Systems. MedQuist commits to use its best efforts to maintain and enhance its system platforms and technology (including but not 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ limited to DEP) to support continuing improvement in operational performance and reduction in Direct Production Costs and Indirect Production Costs of CBay. 
+
+^^MedQuist’s Option to Determine Volume. MedQuist shall have the sole right to determine the volume of Transcription Services performed in India and Asia (subject to the limitations of this Agreement) and to withdraw Indian and [[Organization 5 Name]] volume as it determines in its sole discretion necessary to address quality or performance issues. 
+
+\centered **GENERAL PROVISIONS** 
+
+^^Notices. Wherever provision is made in this Agreement for the giving of any notice, such notice shall be in writing and shall be deemed to have been duly given if mailed by first class United States mail, postage prepaid, addressed to the party entitled to receive the same or delivered personally to such party at the address specified below, or if delivered personally, sent by facsimile transmission or sent by overnight courier. All notices shall be given, 
+
+if to CBay, to:  
+2661 Riva Rd Building 800
+
+[[Address 1: Address]]
+
+Attention: President
+
+Facsimile: [[Phone 1]] 
+
+with a copy (which shall not constitute notice) to: 
+
+[[Organization 6 Name]]
+
+[[Address 2: Address]]
+
+Attention: Daniel Clivner
+
+Facsimile: [[Phone 2]] 
+
+if to the Company, to:  
+1000 Bishops Gate Boulevard, Suite 300
+
+Mt. Laurel, NJ 08054
+
+Attention: Chief Executive Officer
+
+Facsimile: [[Phone 3]] 
+
+with copies which shall not constitute notice to: 
+
+General Counsel
+
+[[Organization 2 Name]]
+
+1000 Bishops Gate Boulevard, Suite 300
+
+Mt. Laurel, NJ 08054 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+Facsimile: [[Phone 3]]  
+Chairman of the Audit Committee
+
+[[Organization 2 Name]]
+
+1000 Bishops Gate Boulevard, Suite 300
+
+Mt. Laurel, NJ 08054
+
+Facsimile: [[Phone 3]] 
+
+and  
+Fulbright & Jaworski L.L.P.
+
+[[Address 3: Address]]
+
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]]
+
+Facsimile: [[Phone 4]] 
+
+or to such other address, in any such case, as any party hereto shall have last designated by notice to the other parties. Notice shall be deemed to have been given on the day that it is so delivered personally or sent by facsimile transmission and the appropriate confirmation received or, if sent by overnight courier, shall be deemed to have been given one day after delivery to the courier company, or if mailed, three days following the date on which such notice was so mailed. 
+
+^^Assignment. This Agreement and the rights and duties hereunder shall be binding upon and inure to the benefit of the successors and assigns of each of the parties hereto, but shall not be assignable or delegable by any party without the prior written consent of the other party. 
+
+^^Waivers. Any waiver by CBay or the Company of any breach of or failure to comply with any provision of this Agreement by the other party shall be in writing and shall not be construed as, or constitute, a continuing waiver of such provision, or a waiver of any other breach of, or failure to comply with, any other provision of this Agreement. 
+
+^^Compliance with Laws. The parties agree to comply with all Laws applicable to the performance of their obligations hereunder. 
+
+^^Governing Law. This Agreement shall be governed by, and construed and interpreted in accordance with, the laws of the State of New Jersey without giving effect to any conflicts of law principles. 
+
+^^Third Parties. Nothing herein is intended or shall be construed to confer upon or give to any person other than the parties hereto, any rights or remedies under or by reason of this Agreement. 
+
+^^Entire Agreement; Amendment. This Agreement sets forth the entire agreement of the parties with respect to the subject matter hereof and supersedes any prior oral agreement with respect thereto. This Agreement may not be amended orally but only by an instrument in writing duly executed by the parties. Nothing in this Agreement is intended to amend or modify 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ the Subcontracting Agreement or the CBayScribe Marketing Agreement, each of which shall remain in effect in accordance with its respective terms. 
+
+^^Headings. The headings of the Articles and Sections of this Agreement are inserted for convenience of reference only and shall not be deemed to constitute a part hereof. 
+
+^^Counterparts. This Agreement may be executed in any number of counterparts, all of which taken together constitute one and the same instrument, and any of the parties hereto may execute this Agreement by signing any such counterpart. 
+
+^^Force Majeure. Neither party shall be liable for any failure of, or delay in the performance of, its obligations hereunder for the period that such failure or delay is due to earthquake, flood, fire or similar acts of God, terrorism, public enemy, civil unrest, riots, strikes or general labor disputes, or any other cause beyond such party’s reasonable control. 
+
+^^Severability. If any provision of this Agreement is declared invalid or unenforceable by a court of competent jurisdiction, the validity or enforceability of any other provision of this Agreement shall not be affected. 
+
+^^Injunctive Relief and Resolution of Disputes. 
+
+^^Injunctive Relief. The parties to this Agreement acknowledge and agree that remedies at law are inadequate in the event of any breach or threatened breach by any party of its agreements and obligations as set forth in this Agreement. Notwithstanding Sections 11.12(b)  (d), in addition to any other remedy which may be available, the non-breaching party shall be entitled to petition for injunctive and/or other equitable relief restraining the breach or threatened breach of the provisions and/or obligations in this Agreement. 
+
+^^If any dispute or controversy shall arise between the parties as to any matter arising out of or in connection with this Agreement or the transactions contemplated hereby, the parties shall attempt in good faith to resolve such dispute or controversy by mutual agreement. If such dispute or controversy cannot be so resolved, it shall be resolved solely by binding arbitration in accordance with the provisions of Section 11.12(c). 
+
+^^In the event that any such dispute or controversy cannot be resolved in accordance with the provisions of the first sentence of Section 11.12(b), such dispute or controversy shall be finally settled by binding arbitration in New Jersey under the Commercial Rules of the American Arbitration Association then in effect by one or more arbitrators appointed in accordance with such rules. The decision of such arbitrator(s) shall be final and binding, and shall not be subject to appeal. Each party shall bear its own fees and expenses incurred in connection with the arbitration, and shall share equally the costs of the arbitrator(s), provided that the arbitrator may in its discretion require that the non-prevailing party pay all or a portion of the fees and expenses of the prevailing party. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+^^Each of the parties hereto hereby irrevocably and unconditionally: (i) submits for itself and its property in any legal action or proceeding seeking injunctive relief, enforcing the arbitration provision set forth in Section 11.12(c), or for recognition and enforcement of any judgment in respect thereof or any arbitral award rendered with respect hereto in accordance with Section 11.12(c), to the non-exclusive general jurisdiction of the courts of the State of New Jersey and of the United States of America sitting in the District of the State of New Jersey; (ii) consents that any such action or proceeding may be brought in such courts and waives any objection that it may now or hereafter have to the venue of any such action or proceeding in any such court or that such action or proceeding was brought in an inconvenient court and agrees not to plead or claim the same; (iii) agrees that service of process in any such action or proceeding may be effected by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail), postage prepaid, to its address set forth in Section 11.1 hereof; and (iv) agrees that nothing herein shall affect the right to effect service of process in any other manner permitted by law. 
+
+\centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized officers as of the day and year first above written. 
+
+\centered 
+
+[[Company]]        [[CBay]] 
+
+[[Company        CBay Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company        CBay Entity => By: [[Company        CBay Signatory First Name]] [[Company        CBay Signatory Last Name]]
+Title: [[Company        CBay Signatory Title]]}}
+
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE A** 
+
+\centered **CBay Current Customers Schedule** 
+
+*******   
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+*******   
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE B** 
+
+\centered **Current MedQuist Products and Services** 
+
+**DocQment Enterprise Platform (“DEP”)**: MedQuist’s web based dictation and transcription management system. Within DEP are the following applications:
+
+^^DocQmanage: Included application which enables customer to manage authorized users, set-up business processes and report on Client data derived as a result of using the DEP.
+
+^^DocQscribe: Included application that provides an Internet-based, password-controlled typing and editing user interface which will allow authorized users to listen to Voice Files through streaming audio delivered to their desktops, transcribe or edit reports from Voice Files, and return completed reports to Vendor for post-transcription processing through DocQmanage and onward distribution to customer.
+
+^^File Storage: Included application that allows for the accessing of reports via DocQmanage for up to three hundred sixty-five (365) days following completed transcription. Voice Files can be accessed via DocQmanage for up to thirty (30) days following dictation. Admission, Discharge and Transfer (“ADT”) can be accessed via DocQscribe for up to ninety (90) days following the date the ADT message was received into the DocQmanage database.
+
+^^DocQspeech: **Optional application** pursuant to which MedQuist can provide Automated Speech Recognition to customer. DocQspeech is a speech recognition process based on the integration of the SpeechMagicTM engine with the DEP and provides speech recognized reports and associated Voice Files to a medical editor for correction.
+
+^^DocQsign: **Optional application** pursuant to which MedQuist can provide electronic signature services to the customer. DocQsignTM is the physician approval and signature application within the DEP.
+
+^^VoiceQ: **Optional application** pursuant to which MedQuist can provide a recording system for use over telephone lines. MedQuist will publish domestic, toll-free U.S. telephone numbers assigned to customer. MedQuist and Customer will agree on greetings and voice server configurations to be used by authorized Customer dictators
+
+**DocQvoice** **-** captures voice through a variety of devices: toll-free 800 number for call-in dictation, handhelds and premise-based dictation systems,
+
+**DocQroute****:** distribution engine that facilitates complex printing rules, faxing and uploading to HIS systems,
+
+**CodeRunner w/ CAC:** packages a third-party computer-assisted coding program (CAC) with our CodeRunner coding workflow software to deliver a Web-based product to manage the coding enterprise
+
+**Coding Services**
+
+**MedQuist Performance Monitor (MPM):** Reporting tool that provides detailed reports and business analytics, reports, graphs, to monitor and optimize the clinical documentation process.
+
+**DEP on an Application Services basis**
+
+**SpeechQ** **for Radiology**
+
+**SpeechQ** **for General Medicine**
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE C** 
+
+\centered **Current Pipeline Customers Schedule** 
+
+*******   
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+**Note: To the extent that (i) a CBay Pipeline Customer listed above is, as of the Effective Date,** **currently serviced by MedQuist or in the MedQuist sales pipeline, (ii) a portion of any of a CBay Pipeline Customer listed above is not serviced by CBay as of the Effective Date, or (iii) a CBay Pipeline Customer listed above has sent out, or sends out, an RFP (Request for Proposal), MedQuist, without the prior written consent of CBay, may pursue a sales opportunity or retention efforts for any such CBay Pipeline Customer currently serviced by MedQuist or in MedQuist’s pipeline, portions of such CBay Pipeline Customer not serviced by CBay or CBay Pipeline Customer that has sent out or sends out an RFP** 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+**SCHEDULE D**  
+
+\centered **GPO Contracts Schedule** 
+
+*******  
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE E** 
+
+\centered **ILP Contracts Schedule** 
+
+[[Organization 7 Name]] Agreement by and between [[Company]] and [[Organization 7 Name]] effective [[Date 5: Date]], as amended by Amendment No.1 effective [[Date 6: Date]].
+
+^Decipher Intime Transcriptions Private Limited. Agreement by and between [[Company]] and Decipher Intime Transcriptions Private Limited effective [[Date 7: Date]].
+
+[[Organization 8 Name]] Agreement by and between [[Company]] and [[Organization 8 Name]] effective [[Date 7]]
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE F** 
+
+\centered **Services Fee Schedule** 
+
+\centered 
+
+**Price** **Type of**      **Non-Client**    **Price** **Service**    **Service Descriptions**    **Ready**    **Client Ready** A    Transcription performed by CBay’s transcriptionists for Company Customers located in the United States of America    *****    ******* B    Transcription performed using the Company’s Automated Speech Recognition application (with editing performed by CBay) for Company Customers located in the United States of America    *******    *****  
+
+CBay shall identify to the Company, the specific Company customers for whom CBay is able to supply Client Ready Transcription Services. The Company shall designate to CBay in writing which of the Company customers identified by CBay that the Company wishes CBay to provide Client Ready Transcription Services. CBay shall be paid at the rates set forth above for Client and Non-Client Ready Services. 
+
+The Threshold QA Volume for Client Ready Services shall be *****. The Threshold QA Volume for Non-Client Ready Services shall be *****. 
+
+During the Implementation Period, CBay shall have the right to route up to ******* of the Transcribed lines to the Company’s quality assurance without incurring a charge back for quality assurance services; provided, however, that there shall be no Implementation Period with respect to any MedQuist customer that CBay elects to switch from an ILP currently performing Transcription Services for such customer to CBay. 
+
+After the Implementation Period, in the event that CBay routes transcription volume during any billing period in excess of the applicable QA Threshold, the Company shall apply a charge back at the actual domestic quality assurance cost per line for all lines in every report routed to Company quality assurance resources above the QA Threshold (the “QA Credit”). This domestic quality assurance cost per line will initially be set at ******* and shall be adjusted annually to reflect the Company’s average domestic quality assurance cost per line during the prior calendar year. 
+
+The Company shall invoice CBay monthly for the applicable QA Credit, and shall have the right to offset the amount of a QA Credit, if any, against invoices due by MedQuist to CBay under this Agreement. 
+
+If MedQuist, in its reasonable judgment, determines in accordance with existing custom and practice and after notification to the Executive Committee, that the performance by CBay of Transcription Services for a MedQuist customer is not meeting the quality standards necessary for the customer’s satisfaction or specified in MedQuist’s contract with such customer, MedQuist 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ shall have the right, at its sole option, to elect to perform some or all of the quality assurance work for such customer while MedQuist and the Executive Committee work to address and remedy the performance issues. If MedQuist elects to perform any portion of such quality assurance work, (A) MedQuist shall notify CBay and shall be entitled to the QA Credit for such work as set forth on this Schedule F and (B) an issues resolution committee reporting to the Executive Committee with representatives from MedQuist and CBay will be immediately convened, with an objective of resolving the quality assurance performance issues as soon as possible. The issues resolution committee shall report to the Executive Committee in no less than 30 day intervals following MedQuist’s election to perform such quality assurance work. 
+
+The parties hereto shall negotiate in good faith a resolution to any issues that may arise in the future under the Internal Revenue Code and applicable state tax laws in respect of this Agreement. 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE G The Covered Entities Schedule** 
+
+[[Organization 9 Name]],S-3,
+
+[[Organization 10 Name]],
+
+Balanagar, Hyderabad  500 037 
+
+DHS
+
+102, Jivan Silkmill Compound,
+
+Opp Sakinaka Telephone Exchange ,
+
+Sakinaka, Mumbai 400072 
+
+Saral
+
+^New York Tower A,
+
+Sarkhej-Gandhinagar Highway,
+
+Thaltej, Ahmedabad, PIN code number 380054 
+
+Insignia
+
+^, Sir Theagaraya Road,
+
+T.Nagar, Chennai, India.600 017 
+
+Rtec
+
+A-53, T.T.C. Industrial Area,
+
+M.I.D.C. Near. Nelco Bus Stand,
+
+Mahape, Navi Mumbai India  400705 
+
+Gokul
+
+2nd Floor, Panchvati Plaza,
+
+Deshmukh Road,
+
+Tilakwadi, Belgaum-590006 
+
+Lake
+
+159 Sarjapura Road,
+
+1st Block
+
+Koramangala, Bangalore, Karnataka  560034 
+
+Sharp Info Solutions Pvt. Ltd.
+
+SF. No. 3300/2(B)2
+
+Sitra Road, Sharp Nager
+
+Kalappatti, Coimbatore  641 035 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **SCHEDULE H** 
+
+\centered **General Ledger Accounts** 
+
+**Direct Costs**    **G/L Accounts**    **Allocation to MQ** Direct Personnel Costs including Transcription Labor and 1st Level QA Labor (wages, bonuses, incentives, fringe benefits etc)    4310001 to 4340001,4110001& 4110002    Direct or allocated based upon production volume Direct Cost of Non-Captive production (P Center Cost)    Telecommunication costs    4510001 to 4510004 Royalty License, Taxes and Other Fees    4660001 to 4660002,4632001 to 4632002 **Indirect Costs**    **G/L Accounts**    **Allocation to MQ** Indirect Personnel Costs for Indirect Labor within the Production Facilities as well as Corporate QA and Audit Labor, Production Management, Production Supervision, and Scheduling and Purchasing Labor (wages, bonuses, incentives, fringe benefits etc)    4310001 to 4340001 Rental and Utility expenses within Production Facilities    4631001,4631002,4520001 to 4520008,4631003 Travel, Transportation, Entertainment and Meal Expenses    4710001 to 4730003    Allocated based on production volume except for costs where a different allocation method is more appropriate  for example some allocations are based on MQ seats to total seats at production centers. Customer Penalties (as incurred and charged by MQ)    Professional and Other Fees of Production Facilities    4610001 to 4610003 ,4640001 to 4640004 Maintenance and Repairs    4650001 to 4650003 Other Indirect costs    4100001 to 4100004,4510001 to 4510004,4530001 to 4530005 and 4620001 to 4620003  
+
+**Notes**
+^^MQ production is currently carried out at all captive production facilities. Of these CTU4,CTU5,CTU7,CKAR-DSK and CTS are fully dedicated to MQ production.
+^^MQ work is carried out in a secured, enclosed environment with access controls and restrictions. G&A costs are therefore allocated on seat basis
+^^The current account codes, groups etc could change in the event of software upgradation, integration, account code streamlining etc. These are ongoing activities.
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+**Example of Direct Labor Cost Allocation:** 
+
+**The transcriptionist labor costs (wages, bonuses, fringe benefits, and incentives) for individuals or facilities that are identifiable and dedicated to production work for MedQuist would be charged to MedQuist production volumes. However, such costs for individuals or facilities that are performing transcription for both MedQuist and other customers, will be allocated between MedQuist and the other customers based upon the most direct method possible or based upon a ratio of MedQuist volume to total production volume. An example follows:** 
+
+**If labor costs at the CTU4 facility was $[[USD Value 1]] and all production volume from CTU4 is for MQ, the labor cost pool charged to MQ would be $[[USD Value 1]]**
+
+**If labor costs at Ckar was $[[USD Value 3: Number]] and it could not be allocated more directly (either by individual or work group) and MQ accounted for [[Percentage 7: Number]]% of the total production at Ckar, then [[Percentage 7]]% of the cost or $[[USD Value 4: Number]] would be allocated to MQ.**
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+\centered **EXHIBIT 1** 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+**EXHIBIT 1**
+
+DecHexCharDecHexCharDecHexCharDecHexChar    
+
+^00 Null 32 20 Space 64 40 @ 96 60 -
+
+^01 Start of heading 33 21 65 41 A 97 61 a
+
+^02 Start of text 34 22 “ 66 42 B 98 62 ta
+
+^03 End of text 35 23 # 67 43 C 99 63 c
+
+^04 End of transmit 36 24 S 68 44 D 100 64 d
+
+^05 Enquiry 37 [[Percentage 8: Number]]% 69 45 E 101 65 e
+
+^06 Acknowledge 38 26 £ 70 46 F 102 66 f
+
+^07 Audible bell 39 27 ‘ 71 47 G 103 67 g
+
+^08 Backspace 40 28 (72 48 H 104 68 h
+
+^09 Horizontal tab 41 29) 73 49 I 105 69 i
+
+^OALinefeed 42 2A * 74 4AJ 106 6Aj
+
+^OBVertical tab 43 2B + 75 4EK 107 6Bk
+
+^OCFormfeed 44 2C, 76 4CL 108 6C 1
+
+^ODCarriage return 45 2D - 77 4DH 109 6Dm
+
+^OEShift out 46 2E . 78 4EN 110 6En
+
+^OFShift in 47 2F / 79 4F 0 111 6Fo
+
+^10 Data link escape 48 30 0 80 50 P 112 70 p
+
+^11 Device contrail 49 31 1 81 51 Q 113 71 q
+
+^12 Device control 2 50 32 2 82 52 R 114 72 r
+
+^13 Device control 3 51 33 3 83 53 S 115 73 s
+
+^14 Device control 4 52 34 4 84 54 T 116 74 t
+
+^15 Neg. acknowledge 53 35 5 85 55 U 117 75 u
+
+^16 Synchronous idle 54 36 6 86 56 V 118 76 v
+
+^17 End trans, block 55 37 7 87 57 W 119 77 w
+
+^18 Cancel 56 38 8 88 58 X 120 78 x
+
+^19 End of medium 57 39 9 89 59 Y 121 79 y
+
+^1ASubstitution 58 3A : 90 5AZ 122 7Az
+
+^IBEscape 59 3B ; 91 SB [ 123 7B {
+
+^1CFile separator 60 3C < 92 5C \ 124 7C |
+
+^IDGroup separator 61 3D = 93 5D ] 125 7D }
+
+^IERecord separator 62 3E > 94 5E A 126 7E ~
+
+^IFUnit separator 63 3F 7 95 5F 127 7F
+
+*******  Material has been omitted and filed separately with the Commission.
+
+^^^^^ 
+
+*******    - Material has been omitted and filed separately with the Commission.
+
+DecHexCharDecHexCharDecHexCharDecHexChar    
+
+128 80 C, 160 AOa 192 CO L 224 EOa
+
+129 81 u 161 Ali 193 Cl -1- 225 ElB
+
+130 82 e 162 A2 6 194 C2 T 226 E2 T
+
+131 83 a 163 A3 u 195 C3 |- 227 E3 n
+
+132 84 a 164 A4 n 196 C4  228 E4 Z
+
+133 85 a 165 ASN 197 C5 -f 229 E5 a
+
+134 86 a 166 A6 a 198 C6 |= 230 E6 y.
+
+135 87 c 167 A7 ° 199 C7 |f- 231 E7 T
+
+136 88 e 168 A8 c 200 C8 It 232 E8 *
+
+137 89 e 169 A9 r- 201 C9 |j= 233 E9 (»>
+
+138 8Ae 170 AA -, 202 CA =t 234 EA Q
+
+139 SBl 171 AEH 203 CB =n= 235 EB 5
+
+140 8Cl 172 ACli 204 CC ||= 236 EC «
+
+141 8Di 173 ADi 205 CD = 237 ED 0
+
+142 8EA 174 AE « 206 CE | 238 EE n
+
+143 8FA 175 AF » 207 CF === 239 EFn
+
+144 90 E 176 bo ; 208 DO - 240 FO =
+
+145 91 £ 177 Bl 209 Dl =p 241 Fl ±
+
+146 92 8. 178 B2 B 210 D2 T 242 F2 2
+
+147 93 6 179 B3 | 211 D3 IL 243 F3 ^
+
+148 94 o 180 B4 -| 212 D4 1= 244 F4 [
+
+149 95 6 181 B5 =| 213 D5 p 245 F5 J
+
+150 96 u 182 B6 | 214 D6 ,,- 246 F6 t
+
+151 97 u 183 B7 -n 215 D7 f 247 F7 *
+
+152 98 y 184 B8 =] 216 D8 =)= 248 F8
+
+153 99 6 185 B9 =|| 217 D9 J 249 F9
+
+154 9AU 186 BA || 218 DA r 250 FA
+
+155 9B * 187 BB =n 219 DB | 251 FBV
+
+156 9C 188 BC =J 220 DC H 252 FC *
+
+157 9D ¥ 189 BD ” 221 DD | 253 FD *
+
+158 9E £ 190 BEJ 222 DE | 254 FE
+
+159 9F f 191 BF -, 223 DF  255 FF
+
+*******  Material has been omitted and filed separately with the Commission.

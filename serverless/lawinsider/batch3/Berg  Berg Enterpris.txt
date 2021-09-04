@@ -1,0 +1,21 @@
+Mr. [[Person 1 First Name]] [[Person 1 Last Name]] [[Date 1: Date]] 
+[[Organization 1 Name]] 
+10050 Bandley Drive 
+[[Address 1: Address]]  
+Re: Share Purchase  
+Dear Mr. Berg:  
+This letter agreement will confirm the sale, effective as of the date set forth above, by [[Organization 2 Name]] (the “Company”) to [[Organization 1 Name]] (“[[Organization 1 Name]]”) of one million nine hundred twenty three thousand and seventy seven (1,923,077) shares (the Shares) of the Company’s common stock at a per share price of $[[USD Value 2: Number]] which represents the closing bid price of the Company’s common stock on the NASDAQ Capital Market on [[Date 1]], for aggregate consideration of $[[USD Value 1: Number]].
+
+These Shares were offered and sold in a transaction exempt from the registration requirements of the Securities Act of 1933, as amended (the “Securities Act”). [[Organization 1 Name]] understands that the Shares are “restricted securities” and have not been registered under the Securities Act or any applicable state securities law. [[Organization 1 Name]] is acquiring the Shares as principal for its own account and not with a view to or for distributing or reselling such Shares or any part thereof in violation of the Securities Act or any applicable state securities law; has no present intention of distributing any of such Shares in violation of the Securities Act or any applicable state securities law; and has no direct or indirect arrangement or understandings with any other persons to di stribute or regarding the distribution of such Shares in violation of the Securities Act or any applicable state securities law. [[Organization 1 Name]] is an “accredited investor” as defined under Regulation D promulgated under the Securities Act.
+
+Sincerely,   **ACCEPTED AND AGREED:**
+
+[[Organization 2 Name]]   [[Organization 1 Name]].
+
+[[[[Organization 2 Name]].   [[Organization 1 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]].   [[Organization 1 Name]]. Entity => By: [[[[Organization 2 Name]].   [[Organization 1 Name]]. Signatory First Name]] [[[[Organization 2 Name]].   [[Organization 1 Name]]. Signatory Last Name]]
+Title: [[[[Organization 2 Name]].   [[Organization 1 Name]]. Signatory Title]]}}
+
+[[Person 2 First Name]] [[Person 2 Last Name]]   [[Person 1 First Name]] [[Person 1 Last Name]]
+Chief Financial Officer   Managing Member

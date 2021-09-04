@@ -1,0 +1,93 @@
+\centered $[[USD Value 1: Number]]   **SECOND AMENDED AND RESTATED**  \centered **UNSECURED REVOLVING**   
+
+\centered **DEMAND PROMISSORY NOTE**   [[Date 1: Date]]  
+
+**Section** 1.***Promise to Pay*****.** For and in consideration of value received, the undersigned, [[Organization 1 Name]], a corporation duly organized under the laws of the state of Delaware (“Borrower”), promises to pay to the order of [[Organization 2 Name]], a corporation duly organized under the laws of the state of Delaware (“TFMC”), or the holder hereof (as applicable, TFMC or such holder shall be referred to as the “Noteholder”), the principal sum of NINETY MILLION and NO/100ths United States Dollars ($[[USD Value 1]]) or such lesser amount as shall equal the unpaid principal amount of the loan made by the Noteholder to Borrower together with interest on the unpaid principal balance from time to time pursuant to the terms of this Second Amended and Restated Unsecured Revolving Demand Promissory Note, as it may be amended from time to time (this “Note”). This Note shall be unsecured and will bear interest on the terms set forth in Section 7 below. Capitalized terms not otherwise defined shall have the meanings given to such terms in Section 18 of this Note.
+
+**Section** 2.***Amendment and Restatement*** This Note renews and replaces, amends and restates in its entirety the First Amended and Restated Unsecured Revolving Demand Promissory Note dated [[Date 2: Date]] in the original principal amount of $[[USD Value 2: Number]] payable to the order of the Noteholder and executed by the Borrower (the “First Amended Note”). The First Amended Note replaced, amended and restated in its entirety the Unsecured Revolving Demand Promissory Note dated [[Date 3: Date]] in the original principal amount of $[[USD Value 3: Number]] payable to the order of the Noteholder and executed by the Borrower (the “Original Note”). This Note amends and restates in its entirety the First Amended Note and the Original Note (collectively, the “Prior Notes”); provided that (a) such amendment and restatement shall operate to renew, amend and modify the rights and obligations of the parties under each Prior Note, as provided herein, but shall not extinguish the obligations under each Prior Note, nor effect a novation thereof,. As of the close of business on [[Date 4: Date]], the unpaid principal balance of the First Amended Note was $[[USD Value 4: Number]] and the accrued and unpaid interest thereon was $[[USD Value 5: Number]], which principal and accrued and unpaid interest is the principal and accrued and unpaid interest owed, respectively, under this Note as of the beginning of business on the date of this Note.
+
+3.***Place of Payment***. All payments will be made at Noteholder’s address at Nemours Building, Suite 1410, [[Address 1: Address]], Attention: President, or such other place as the Noteholder may from time to time appoint in writing.
+
+4.***Payments***. The unpaid principal balance of this Note and any unpaid and accrued interest thereon shall be due and payable on the Final Payment Date. Prior to the Final Payment Date, any unpaid and accrued interest on an unpaid principal balance shall be paid in arrears quarterly on the last day of each March, June, September and December, commencing [[Date 5: Date]]. All payments on this Note shall be applied first to accrued and unpaid interest, next to accrued interest not yet payable and then to principal. If any payment of principal or interest on this Note shall become due on a day that is not a Business Day, such payment shall be made on the next succeeding Business Day and the payment shall be the amount owed on the original payment date.
+
+5.***Prepayments***. This Note may be prepaid in part or in full at any time without penalty.
+
+6.***Borrowings***. Prior to the Final Payment Date, Noteholder expressly authorizes Borrower to borrow, repay and re-borrow principal under this Note in increments of $[[USD Value 6: Number]] on a daily basis so long as:
+
+·   the aggregate outstanding principal balance does not exceed $[[USD Value 1]];
+
+·   no written demand for payment has been made by the Noteholder; and
+
+·   no Event of Default has occurred and is continuing.
+
+7.***Interest***. The unpaid principal balance of this Note up to and including $[[USD Value 7: Number]] shall bear interest at the rate per annum of the Prime Rate less one and one half percent ([[Percentage 1: Number]]%). The unpaid principal balance of this Note in excess of $[[USD Value 7]] shall bear interest at the rate per annum of the Prime Rate. In the event that principal or interest is not paid within five Business Days after such payment was due or declared due, all past due principal under this Note will bear interest at the rate per annum of the Prime Rate plus four percent ([[Percentage 2: Number]]%). Accrued interest on the unpaid principal of this Note shall be computed on the basis of a 365- or 366-day year for actual days (including the first, but excluding the last day) elapsed, but in no event shall such computation result in an amount of accrued interest that would exceed accrued interest on the unpaid principal balance during the same period at the Maximum Rate. Notwithstanding anything to the contrary, this Note is expressly limited so that in no contingency or event whatsoever shall the amount paid or agreed to be paid to the Noteholder exceed the Maximum Rate. If, from any circumstances whatsoever, the Noteholder shall ever receive as interest an amount that would exceed the Maximum Rate, such amount that would be excessive interest shall be applied to the reduction of the unpaid principal balance and not to the payment of interest, and if the principal amount of this Note is paid in full, any remaining excess shall be paid to Borrower, and in such event, the Noteholder shall not be subject to any penalties provided by any laws for contracting for, charging, taking, reserving or receiving interest in excess of the highest lawful rate permissible under applicable law. All sums paid or agreed to be paid to Noteholder for the use, forbearance or detention of the indebtedness of the Borrower to Noteholder shall, to the extent permitted by applicable law, be amortized, prorated, allocated and spread throughout the full term of such indebtedness until payment in full of the principal (including the period of any renewal or extension thereof) so that the interest on account of such indebtedness shall not exceed the Maximum Rate. If at any time the Contract Rate is limited to the Maximum Rate, any subsequent reductions in the Contract Rate shall not reduce the rate of interest on this Note below the Maximum Rate until the total amount of interest accrued equals the amount of interest that would have accrued if the Contract Rate had at all times been in effect. In the event that, upon demand or acceleration of this Note or at final payment of this Note, the total amount of interest paid or accrued on this Note is less than the amount of interest that would have accrued if the Contract Rate had at all times been in effect with respect thereto, then at such time, to the extent permitted by law, in addition to the principal and any other amounts Borrower owes to the Noteholder, the Borrower shall pay to the Noteholder an amount equal to the difference between: (i) the lesser of the amount of interest that would have accrued if the Contract Rate had at all times been in effect or the amount of interest that would have accrued if the Maximum Rate had at all times been in effect; and (ii) the amount of interest actually paid on this Note.
+
+8.***Remedy***. Upon the occurrence and during the continuation of an Event of Default, the Noteholder shall have all of the rights and remedies provided in the applicable Uniform Commercial Code, this Note or any other agreement among Borrower and in favor of the Noteholder, as well as those rights and remedies provided by any other applicable law, rule or regulation. In conjunction with and in addition to the foregoing rights and remedies of the Noteholder, the Noteholder may declare all indebtedness due under this Note, although otherwise unmatured, to be due and payable immediately without notice or demand whatsoever. All rights and remedies of the Noteholder are cumulative and may be exercised singly or concurrently. The failure to exercise any right or remedy will not be a waiver of such right or remedy.
+
+9.***Right of Offset***. The Noteholder shall have the right of offset against amounts that may be due by the Noteholder now or in the future to Borrower against amounts due under this Note.
+
+10.***Record of Outstanding Indebtedness***. The date and amount of each repayment of principal outstanding under this Note or interest thereon shall be recorded by Noteholder in its records. The principal balance outstanding and all accrued or accruing interest owed under this Note as recorded by Noteholder in its records shall be the best evidence of the principal balance outstanding and all accrued or accruing interest owed under this Note; provided that the failure of Noteholder to so record or any error in so recording or computing any such amount owed shall not limit or otherwise affect the obligations of the Borrower under this Note to repay the principal balance outstanding and all accrued or accruing interest.
+
+11.***Waiver***. Borrower and each surety, endorser, guarantor, and other party now or subsequently liable for payment of this Note, severally waive demand, presentment for payment, notice of nonpayment, notice of dishonor, protest, notice of protest, notice of the intention to accelerate, notice of acceleration, diligence in collecting or bringing suit against any party liable on this Note, and further agree to any and all extensions, renewals, modifications, partial payments, substitutions of evidence of indebtedness, and the taking or release of any collateral with or without notice before or after demand by the Noteholder for payment under this Note.
+
+12.***Costs and Attorneys’ Fees***. In the event the Noteholder incurs costs in collecting on this Note, this Note is placed in the hands of any attorney for collection, suit is filed on this Note or if proceedings are had in bankruptcy, receivership, reorganization, or other legal or judicial proceedings for the collection of this Note, Borrower and any guarantor jointly and severally agree to pay on demand to the Noteholder all expenses and costs of collection, including, but not limited to, reasonable attorneys’ fees incurred in connection with any such collection, suit, or proceeding, in addition to the principal and interest then due.
+
+13.***Time of Essence***. Time is of the essence with respect to all of Borrower’s obligations and agreements under this Note.
+
+14.***Jurisdiction and Venue***. THIS NOTE SHALL BE GOVERNED BY THE LAWS OF THE STATE OF DELAWARE, AND BORROWER CONSENTS TO JURISDICTION IN THE COURTS LOCATED IN THE STATE OF DELAWARE.
+
+15.***Notice***. Any notice or demand required by this Note shall be deemed to have been given and received on the earlier of (i) when the notice or demand is actually received by the recipient or (ii) 72 hours after the notice is deposited in the United States mail, certified or registered, with postage prepaid, and addressed to the recipient. The address for giving notice or demand under this Note (i) to the Noteholder shall be the place of payment specified in Section 3 or such other place as the Noteholder may specify in writing to the Borrower and (ii) to Borrower shall be the address below the Borrower’s signature or such other place as the Borrower may specify in writing to the Noteholder.
+
+**Section** 16.***Successors and Assigns***. All of the covenants, obligations, promises and agreements contained in this Note made by Borrower shall be binding upon its successors and permitted assigns, as applicable. Notwithstanding the foregoing, Borrower shall not assign this Note or its performance under this Note without the prior written consent of the Noteholder.
+
+**Section** 17.***Periodic Reporting***. Borrower agrees to provide to the Noteholder the following:
+
+^^within sixty (60) days after the end of each of Borrower’s first three fiscal quarters each year, the consolidated balance sheets of Borrower and its consolidated subsidiaries as of the end of such quarter, and the related consolidated statements of income and cash flows for the year-to-date interim period then ended, prepared in accordance with accounting principles generally accepted in the United States of America; and
+
+^^within one hundred twenty (120) days following the end of each fiscal year of Borrower, a copy of the annual audit report for such year for Borrower and its consolidated subsidiaries, including therein consolidated balance sheets of Borrower and its consolidated subsidiaries as of the end of such fiscal year and the related consolidated statements of income and cash flows for the year then ended, accompanied by a report and opinion of [[Organization 3 Name]], or another independent certified public accountant of recognized standing acceptable to the Noteholder in its reasonable discretion, which report and opinion shall be prepared in accordance with accounting principles generally accepted in the United States of America and shall not be subject to any “going concern” or like qualification or exception, or any exception or qualification as to scope of audit.
+
+**Section** 18.***Definitions.*** For purposes of this Note, the following terms shall have the following meanings:
+
+^^“***Business Day***” shall mean any day banks are open in the state of Delaware.
+
+^^“***Contract Rate***” means the amount of any interest (including fees, charges or expenses or any other amounts that, under applicable law, are deemed interest) contracted for, charged or received by or for the account of Noteholder.
+
+^^“***Final*** ***Payment Date***” shall mean the earlier of:
+
+·   written demand by the Noteholder for payment of all or part of the principal and interest accrued and unpaid thereon;
+
+·   [[Date 6: Date]]; or
+
+·   acceleration as provided herein.
+
+^^“***Event of Default***” wherever used herein, means any one of the following events:
+
+^^^the Borrower fails to pay any amount due on this Note and/or any fees or sums due under or in connection with this Note after any such payment otherwise becomes due and payable and three Business Days after demand for such payment;
+
+^^^the Borrower otherwise fails to perform or observe any other provision contained in this Note and such breach or failure to perform shall continue for a period of thirty days after notice thereof shall have been given to the Borrower by the Noteholder;
+
+^^^a case shall be commenced against Borrower, or Borrower shall file a petition commencing a case, under any provision of the Federal Bankruptcy Code of 1978, as amended, or shall seek relief under any provision of any other bankruptcy, reorganization, arrangement, insolvency, readjustment of debt, dissolution or liquidation law of any jurisdiction, whether now or hereafter in effect, or shall consent to the filing of any petition against it under such law, or Borrower shall make an assignment for the benefit of its creditors, or shall admit in writing its inability to pay its debts generally as they become due, or shall consent to the appointment of a receiver, trustee or liquidator of Borrower or all or any part of its property; or
+
+^^^an event occurs that, with notice or lapse of time, or both, would become any of the foregoing Events of Default.
+
+^^“***Maximum Rate***” shall mean the highest lawful rate permissible under applicable law for the use, forbearance or detention of money.
+
+^^“***Prime Rate***” shall mean the fluctuating interest rate per annum in effect from time to time equal to the base rate on corporate loans as reported as the Prime Rate in the Money Rates column of The Wall Street Journal or other reliable source.
+
+**BORROWER**:
+
+**[[Organization 1 Name]]**
+
+\centered By:   /s/ [[Person 1 First Name]] [[Person 1 Last Name]]  
+
+[[Person 2 First Name]] [[Person 2 Last Name]], Vice President and 
+Treasurer  
+Address:  
+[[Address 2: Address]]-2697   
+As of the date hereof, [[Organization 2 Name]], as the Noteholder, hereby agrees that this Note renews and replaces, amends and restates in its entirety the First Amended Note and the Original Note (but shall not extinguish the obligations under each Prior Note, nor effect a novation thereof) and that the unpaid principal and accrued interest on the First Amended Note as of the close of business on [[Date 4]] is the principal and accrued interest owed under this Note as of the beginning of business on the date of this Note.
+
+**[[Organization 2 Name]]**
+
+\centered By:   /s/ [[Person 3 First Name]] [[Person 3 Last Name]]  
+
+[[Person 3 First Name]] [[Person 3 Last Name]], President

@@ -1,0 +1,64 @@
+\centered **[[Organization 1 Name]]**
+
+\centered **CONSULTING AGREEMENT**
+
+THIS CONSULTING AGREEMENT (the “Agreement”) is entered into as of [[Date 1: Date]] (the "Effective Date"), by and between [[Company]], (the “Company”) and [[Organization 2 Name]] (the “Consultant”).
+
+In consideration of the mutual covenants and agreements set forth herein, the parties agree as follows:
+
+^**Engagement**. The Company hereby retains Consultant to provide the services described in Attachment A hereto. Consultant shall devote reasonable time and his reasonable best efforts, skill and attention to the performance of such consulting services.
+
+^**Term of Engagement**. This Agreement shall commence as of the Effective Date and, unless terminated as set forth in Section 10, continue through the second anniversary of the Effective Date; provided, however, that on each anniversary of the Effective Date the term of the Agreement shall automatically be extended for an additional one-year period (restoring the initial two-year term), unless either party notifies the other party in writing at least 30 days prior to such anniversary. The term of this Agreement as in effect from time to time shall be referred to as the "Term."
+
+^**Compensation**. During the Term of this Agreement, as compensation for all services rendered by the Consultant, the Company shall pay to Consultant a consulting fee equal to $[[USD Value 1: Number]] U.S. Dollars per month.
+
+^**Travel**. The Consultant may be called upon to travel at the request of the Company provided a reasonable period of notice shall have been given. The Consultant shall be entitled to reimbursement for all reasonable travel expenses incurred in the performance of this Agreement and preapproved by the Company’s Chief Executive Officer. Reasonable proven expenses (travel, accommodation, meals, major phone charges, etc) shall be charged at cost with no mark up. Receipts are to be provided for all charges.
+
+^**Independent Contractor**. Consultant shall render all services hereunder as an independent contractor.
+
+^**Taxes**. Consultant shall be responsible for payment of all taxes arising out of Consultant's activities in accordance with this Agreement.
+
+^**Confidential Information**. Consultant acknowledges that he will occupy a position of trust and confidence and will have access to and learn substantial information about the Company and its affiliates and their operations that is confidential or not generally known in the industry including, without limitation, information that relates to purchasing, sales, customers, marketing, and the financial positions and financing arrangements of the Company and its affiliates. Consultant agrees that all such information is proprietary or confidential, or constitutes trade secrets and is the sole property of the Company and/or its affiliates, as the case may be. Consultant will keep confidential, and will not reproduce, copy or disclose to any other person or firm, any such information or any documents or information relating to the Company’s or its affiliates’ methods, processes, customers, accounts, analyses, systems, 
+
+charts, programs, procedures, correspondence or records, or any other documents used or owned by the Company or any of its affiliates, nor will Consultant advise, discuss with or in any way assist any other person, firm or entity in obtaining or learning about any of the items described in this Section 7. Accordingly, Consultant agrees that during the Term and at all times thereafter he will not disclose, or permit or encourage anyone else to disclose, any such information, nor will he utilize any such information, either alone or with others, outside the scope of his duties and responsibilities with the Company and its affiliates.
+
+^**Non-Competition**. During the Term of this Agreement and for twelve (12) months thereafter, Consultant will devote such business time, attention and energies reasonably necessary to the diligent and faithful performance of the services to Company, and will not engage in any way whatsoever, directly or indirectly, in any business that is a direct competitor with Company's mining business, nor solicit customers, suppliers or employees of Company on behalf of, or in any other manner work for or assist any business with is a direct competitor with Company's mining business. In addition, during the Term, Consultant will undertake no planning for or organization of any business activity competitive with the work performed as Consultant, and Consultant will not combine or conspire with any other person for the purpose of organizing any such competitive business activity.
+
+^**Return of the Company Documents**. Upon termination of the Term, Consultant shall return immediately to the Company all records and documents of or pertaining to the Company or its affiliates and shall not make or retain any copy or extract of any such record or document, or any other property of the Company or its affiliates.
+
+^**Termination**. Either party may terminate this Agreement upon thirty days written notice to the other. Except as otherwise provided herein, in the event of termination, Consultant shall be entitled to compensation until the expiration of the stated notice period. Notwithstanding the foregoing, in the event of a violation by Consultant of any term or condition, express or implied, of this Agreement or of any federal or state law or regulation pertaining to or arising from Consultant's performance of services under this Agreement, the Company may, in its discretion, terminate this Agreement immediately, without notice and in such event, Consultant shall only be entitled to compensation up to the time of such violation.
+
+^**Entire Agreement and Amendment**. This Agreement embodies the entire agreement and understanding of the parties hereto in respect of the subject matter of this Agreement, and supersedes and replaces all prior agreements, understandings and commitments with respect to such subject matter. This Agreement may be amended only by a written document signed by both parties to this Agreement.
+
+^**Governing Law**. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware.
+
+^**Counterparts**. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF the parties have executed this Agreement to be effective as of the Effective Date.
+
+**[[Organization 1 Name]]**   
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+[[Person 1 First Name]] [[Person 1 Last Name]]  
+**CONSULTANT:**    
+[[CONSULTANT Signatory Email: Identity | Signature]]
+__________________________________________
+{{CONSULTANT Entity => By: [[CONSULTANT Signatory First Name]] [[CONSULTANT Signatory Last Name]]
+Title: [[CONSULTANT Signatory Title]]}}
+
+[[Person 2 First Name]] [[Person 2 Last Name]]  
+
+\centered **ATTACHMENT A**
+
+\centered **DESCRIPTION OF SERVICES**
+
+§   Assistance to CEO of strategic planning.
+
+§   Assistance to CEO in financial planning.
+
+§   Assistance to CEO in fundraising.
+
+§   Assistance to CEO as intermediary for special tasks.

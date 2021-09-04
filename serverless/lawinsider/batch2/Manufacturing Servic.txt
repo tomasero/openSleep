@@ -1,0 +1,1343 @@
+CERTAIN MATERIAL (INDICATED BY AN ASTERISK) HAS BEEN OMITTED FROM THIS DOCUMENT PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT. THE OMITTED MATERIAL HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION 
+
+\centered **Manufacturing Services Agreement** 
+
+\centered **[[Date 1: Date]]** 
+
+\centered **Table of Contents** 
+
+**INTERPRETATION**     
+
+^^**DEFINITIONS.**     
+^^**CURRENCY.**     
+^^**SECTIONS AND HEADINGS.**     
+^^**SINGULAR TERMS.**     
+^^**SCHEDULES.**     
+
+**[[Organization 1 Name]]’S MANUFACTURING SERVICES**     
+
+^^**MANUFACTURING SERVICES.**     
+^^**ACTIVE MATERIAL YIELD.**     
+
+**CLIENT’S OBLIGATIONS**     
+
+^^**PAYMENT.**     
+^^**ACTIVE MATERIALS.**     
+
+**CONVERSION FEES AND COMPONENT COSTS**     
+
+^^**FIRST YEAR PRICING.**     
+^^**PRICE ADJUSTMENTS  SUBSEQUENT YEARS’ PRICING.**     
+^^**PRICE ADJUSTMENTS  CURRENT YEAR PRICING.**     
+^^**ADJUSTMENTS DUE TO TECHNICAL CHANGES.**     
+^^**BOOKS AND RECORDS.**     
+^^**AUDIT.**     
+
+**ORDERS, SHIPMENT, INVOICING, PAYMENT**     
+
+^^**ORDERS AND FORECASTS.**     
+^^**ON TIME DELIVERY.**     
+^^**RELIANCE BY [[Organization 1 Name]].**     
+^^**MINIMUM ORDERS.**     
+^^**SHIPMENTS.**     
+^^**INVOICES AND PAYMENT.**     
+
+**PRODUCT CLAIMS AND RECALLS**     
+
+^^**PRODUCT CLAIMS.**     
+^^**PRODUCT RECALLS AND RETURNS.**     
+^^**[[Organization 1 Name]]’S RESPONSIBILITY FOR DEFECTIVE AND RECALLED PRODUCTS.**     
+
+\centered - i - 
+
+^^**DISPOSITION OF DEFECTIVE OR RECALLED PRODUCTS.**     
+^^**HEALTHCARE PROVIDER OR PATIENT QUESTIONS AND COMPLAINTS; ADVERSE EVENT REPORTING**     
+^^**SOLE REMEDY.**     
+
+**CO-OPERATION**     
+
+^^**QUARTERLY REVIEW.**     
+^^**GOVERNMENTAL AGENCIES.**     
+^^**RECORDS AND ACCOUNTING BY [[Organization 1 Name]].**     
+^^**ACCESS.**     
+^^**REGULATORY INSPECTIONS.**     
+^^**REPORTS.**     
+^^**FDA FILINGS.**     
+
+**TERM AND TERMINATION**     
+
+^^**INITIAL TERM.**     
+^^**CLIENT TERMINATION.**     
+^^**TERMINATION FOR CAUSE.**     
+^^**PRODUCT DISCONTINUATION.**     
+^^**OBLIGATIONS ON TERMINATION.**     
+
+**REPRESENTATIONS, WARRANTIES AND COVENANTS**     
+
+^^**AUTHORITY.**     
+^^**CLIENT WARRANTIES.**     
+^^**[[Organization 1 Name]] WARRANTIES.**     
+^^**DEBARRED PERSONS.**     
+^^**PERMITS.**     
+^^**NO WARRANTY.**     
+^^**CONFIDENTIAL TREATMENT.**     
+
+**REMEDIES AND INDEMNITIES**     
+
+^^**CONSEQUENTIAL DAMAGES.**     
+^^**LIMITATION OF LIABILITY.**     
+^^**[[Organization 1 Name]].**     
+^^**CLIENT.**     
+^^**INDEMNIFICATION PROCEDURE**     
+^^**REASONABLE ALLOCATION OF RISK.**     
+
+\centered - ii - 
+
+**CONFIDENTIALITY**     
+
+^^**CONFIDENTIALITY.**     
+
+**DISPUTE RESOLUTION**     
+
+^^**COMMERCIAL DISPUTES.**     
+^^**TECHNICAL DISPUTE RESOLUTION.**     
+
+**MISCELLANEOUS**     
+
+^^**INVENTIONS.**     
+^^**INTELLECTUAL PROPERTY.**     
+^^**INSURANCE.**     
+^^**INDEPENDENT CONTRACTORS.**     
+^^**NO WAIVER.**     
+^^**ASSIGNMENT.**     
+^^**FORCE MAJEURE.**     
+^^**ADDITIONAL PRODUCT.**     
+^^**NOTICES.**     
+^^**SEVERABILITY.**     
+^^**ENTIRE AGREEMENT.**     
+^^**OTHER TERMS.**     
+^^**NO THIRD PARTY BENEFIT OR RIGHT.**     
+^^**EXECUTION IN COUNTERPARTS.**     
+^^**USE OF CLIENT NAME.**     
+^^**GOVERNING LAW.**     
+
+\centered - iii - 
+
+\centered **MANUFACTURING SERVICES AGREEMENT** 
+
+**THIS MANUFACTURING SERVICES AGREEMENT** (this “**Agreement**”) is made as of [[Date 1]] (the “**Effective Date**”) 
+
+^E T W E E N: 
+
+**[[Organization 1 Name]]**., 
+
+^^corporation existing under the laws of the State of Delaware 
+
+-and- 
+
+**[[Organization 1 Name]],** 
+
+^^corporation existing under the laws of Canada 
+
+(collectively, “**[[Organization 1 Name]]**”), 
+
+- and - 
+
+**[[Organization 2 Name]]**, 
+
+^^corporation existing under the laws of the State of Delaware 
+
+(“**Client**”). 
+
+THIS AGREEMENT WITNESSES THAT in consideration of the rights conferred and the obligations assumed herein, and for other good and valuable consideration (the receipt and sufficiency of which are acknowledged by each party), and intending to be legally bound the parties agree as follows: 
+
+\centered **INTERPRETATION** 
+
+^^**Definitions.**
+
+The following terms will, unless the context otherwise requires, have the respective meanings set out below and grammatical variations of these terms will have corresponding meanings: 
+
+“**Act**” means the Federal Food, Drug, and Cosmetic Act, together with any regulation promulgated thereunder, including without limitation cGMPs, in each case as amended from time to time; 
+
+“**Active Materials**”, “**Active Pharmaceutical Ingredients**” or “**API**” means the materials listed on Schedule D; 
+
+“**Active Materials Credit Value**” means the then current fully burdened cost (per kilogram) to Client of replacing the Active Materials as supported by reasonable documentation at the time of replacement; 
+
+“**Actual Annual Yield**” or “**AAY**” will have the meaning ascribed thereto in Section 2.2.1(a); 
+
+“**Adverse Experience**” will mean any side effect, injury, toxicity, sensitivity reaction, unexpected incidence, untoward medical occurrence or other adverse event or experience associated with the use of the Products, including, but not limited to, a “serious adverse event” within the meaning of 21 C.F.R. § 314.80(a), as amended from time to time; 
+
+“**Affiliate**” means: 
+
+^^a business entity which owns, directly or indirectly, a controlling interest in a party to this Agreement, by stock ownership or otherwise; or
+
+^^a business entity which is controlled by a party to this Agreement, either directly or indirectly, by stock ownership or otherwise; or
+
+^^a business entity, the controlling interest of which is directly or indirectly common to the majority ownership of a party to this Agreement;
+
+For this definition, “control” means the ownership of shares carrying at least a majority of the votes for the election of the directors of a corporation, or the power to direct or cause the direction of the management and policies of such corporation or other business entity whether by ownership of voting securities, by contract or otherwise, or such other relationship as, in fact, constitutes control. 
+
+“**Agreement**” will have the meaning ascribed thereto in the preamble; 
+
+“**Annual Report**” means the annual report to the FDA prepared by Client regarding the Product as described in Title 21 of the United States Code of Federal Regulations, Section 314.81(b)(2); 
+
+“**Annual Product Review Report**” means the annual product review report prepared by [[Organization 1 Name]] as described in Title 21 of the United States Code of Federal Regulations, Section 211.180(e); 
+
+“**Annual Volume**” means the volume tiers of Product to be manufactured in any Year of this Agreement as set forth in Schedule B; 
+
+“**Applicable Laws**” means all Laws to the extent applicable to the subject matter of, or the performance by the parties of their respective obligations under, this Agreement, including, but not limited to, (i) for [[Organization 1 Name]], the Act and any other Laws of all jurisdictions where the Products are manufactured; and (ii) for Client and the Products, the Laws of all jurisdictions where the Products are distributed, and marketed as these are agreed and understood by the parties in this Agreement; 
+
+“**Authority**” means any governmental or regulatory authority, department, body or agency or any court, tribunal, bureau, commission or other similar body, whether federal, state, provincial, county or municipal, including, but not limited to, the FDA; 
+
+“**Bill Back Items**” means the expenses for all third party supplier fees for the purchase of columns, standards, tooling, PAPR or PPE suits (where applicable), RFID tags and supporting equipment, and other items which are required solely for the performance of the Manufacturing Services for Client and which are not able to be used by [[Organization 1 Name]] in the performance of manufacturing services for any third parties, in each case necessary for [[Organization 1 Name]] to perform the Manufacturing Services, and which are not included as Components; 
+
+“**Bulk Tablet(s)**” means the product listed on Schedule A; 
+
+“**Business Day**” means a day other than a Saturday, Sunday or a day that is a statutory holiday in the State of Ohio, the State of California or the Province of Ontario, Canada, as applicable; 
+
+“**Casualty Loss**” will have the meaning ascribed thereto in Section 2.2.4; 
+
+“**cGMPs**” means current good manufacturing practices as described in Parts 210 and 211 of Title 21 of the United States’ Code of Federal Regulations together with the latest FDA guidance documents pertaining to manufacturing and quality control practice, all as updated, amended and revised from time to time including, but not limited to, the FDA’s guidance for Industry, Manufacturing, Processing or Holding Active Pharmaceutical Ingredients; . 
+
+“**Client**” will have the meaning ascribed thereto in the preamble; 
+
+“**Client Property**” will have the meaning ascribed thereto in Section 8.5(f); 
+
+“**Client Intellectual Property**” means Intellectual Property generated or derived by Client before entering into this Agreement, or by [[Organization 1 Name]] while performing any Manufacturing Services or otherwise generated or derived by [[Organization 1 Name]] in its business which Intellectual Property is specific to the development, manufacture, use, and/or sale of Client’s Product or Active Materials that are the subject of the Manufacturing Services (including, but not limited to, any new use, new formulation or any change in the method of producing, testing or storing any Product), including but not limited to (i) any regulatory filings, formulations, chemical compositions, or Specifications relating to the Products, and (ii) any and all Confidential Information of Client, including any chemical structures, composition of matter rights, process technology and other Inventions owned or controlled by Client; 
+
+“**Client Termination**” will have the meaning ascribed thereto in Section 8.2(a); 
+
+“**Client Termination Payment**” will have the meaning ascribed thereto in Section 8.2(b); 
+
+“**CMC**” will have the meaning ascribed thereto in Section 7.8(c); 
+
+“**Commencement Date**” means the date on which any Regulatory Authority first approves Client’s Product for commercial manufacture. 
+
+“**Components**” means, collectively, all packaging components, raw materials, and ingredients (including labels, product inserts and other labelling for the Products), required to manufacture the Products in accordance with the Specifications, other than the Active Materials; 
+
+“**Confidentiality Agreement**” means that certain Mutual Confidential Disclosure Agreement between [[Organization 1 Name]] and Client dated [[Date 2: Date]]; 
+
+“**Confidential Information**” will have the meaning ascribed thereto in the Confidentiality Agreement; 
+
+“**Defective Product Credit Amount**” will have the meaning ascribed thereto in Section 6.3(a); 
+
+“**Deficiencies**” will have the meaning ascribed thereto in Section 7.8(d); 
+
+“**Deficiency Notice**” has the meaning ascribed thereto in Section 6.1(a); 
+
+“**Exclusivity Obligation**” has the meaning ascribed thereto in Section 2.1.1; 
+
+“**FDA**” means the United States Food and Drug Administration, and any successor thereto; 
+
+“**Firm Orders**” has the meaning ascribed thereto in Section 5.1(b); 
+
+“**Force Majeure Event**” will have the meaning ascribed thereto in Section 13.7; 
+
+“**Indemnitee**” will have the meaning ascribed thereto in Section 10.5; 
+
+“**Indemnitor**” will have the meaning ascribed thereto in Section 10.5; 
+
+“**Initial Manufacturing Period**” will have the meaning ascribed thereto in section 5.2(a); 
+
+“**Initial Term**” will have the meaning ascribed thereto in Section 8.1; 
+
+“**Intellectual Property**” includes, without limitation, rights in patents, patent applications, formulae, trade-marks, trade-mark applications, trade-names, Inventions, copyrights, industrial designs, trade secrets, and know how; 
+
+“**Invention**” means information about or relating to any innovation, improvement, development, discovery, computer program, device, trade secret, method, know-how, process, technique or the like, whether or not written or otherwise fixed in any form or medium, regardless of the media on which it is contained and whether or not patentable or copyrightable; 
+
+“**Inventory**” means all inventories of Components and work-in-process produced or held by [[Organization 1 Name]] for the manufacture of the Products but, for greater certainty, does not include the Active Materials or Bill Back Items; 
+
+“**Late Delivery**” will have the meaning ascribed thereto in Section 5.2; 
+
+“**Laws**” means all laws, statutes, ordinances, regulations, rules, by-laws, judgments, decrees or orders of any Authority, including, but not limited to, the Act and cGMPs; 
+
+“**Manufacturing Services**” means the manufacturing, quality control, quality assurance, stability testing, packaging, and related services, set forth in this Agreement, required to manufacture Product or Products from Active Materials and Components; 
+
+“**Manufacturing Site**” means the applicable facility where the Manufacturing Services are performed that is owned and operated by [[Organization 1 Name]] that is located at either [[Address 1: Address]]-1625, or 111 Consumers Drive, [[Address 2: Address]] 5Z5 Canada;, 
+
+“**Materials**” means all Components, Bill Back Items, and other materials used to manufacture the Product other than Active Materials; 
+
+“**Maximum Credit Value**” means the maximum value of Active Materials that may be credited by [[Organization 1 Name]] under this Agreement, as set forth on Schedule C; 
+
+“**Notice Effective Date**” will have the meaning ascribed thereto in Section 8.2(a); 
+
+“**[[Organization 1 Name]]**” will have the meaning ascribed thereto in the preamble; 
+
+“**[[Organization 1 Name]] Competitor**” means a corporation which: (i) is in the business of manufacturing pharmaceutical products for third parties; and (ii) does not directly or indirectly own or market pharmaceutical products in its own name; 
+
+“**[[Organization 1 Name]] Intellectual Property**” means Intellectual Property generated or derived by [[Organization 1 Name]] before performing any Manufacturing Services, Intellectual Property developed by [[Organization 1 Name]] while performing the Manufacturing Services, or otherwise generated or derived by [[Organization 1 Name]] in its business which Intellectual Property is not specific to, or dependent upon, Client’s Active Material or Product including, without limitation, Inventions and Intellectual Property which may generally apply to manufacturing processes or the formulation or development of drug products, drug product dosage forms or drug delivery systems unrelated to the specific requirements of the Product(s); 
+
+“**Price**” means the price measured in US Dollars to be charged by [[Organization 1 Name]] for performing the Manufacturing Services, and includes the cost of Components, certain cost items as set forth in Schedule B; 
+
+“**Product(s)**” means the product(s) listed on Schedule A; 
+
+“**Product Claims**” will have the meaning ascribed thereto in Section 10.2; 
+
+“**Quality Agreement**” means the separate and binding agreement between the parties setting out the quality assurance standards for the Manufacturing Services to be performed by [[Organization 1 Name]] for Client for this Agreement; 
+
+“**Recall**” will have the meaning ascribed thereto in Section 6.2(a); 
+
+“**Recalled Product Credit Amount**” will have the meaning ascribed thereto in Section 6.3(b); 
+
+“**Regulatory Authority**” means the FDA and any other foreign regulatory agencies competent to grant marketing approvals for pharmaceutical products including the Products in the Territory; 
+
+“**RFID**” means Radio Frequency Identification Devices which (at present or in the future) may be affixed to Products or Materials to assist in inventory control, tracking, and identification; 
+
+“**Shelf Life**” means the minimum length of time, as set forth in the applicable Specifications, that a Product remains stable without degrading to unacceptable levels (as such unacceptable levels are set forth in the applicable Specifications 
+
+“**Shortfall**” will have the meaning ascribed thereto in Section 2.2.2; 
+
+“**Specifications**” means the file, for each Product, which is given by Client to [[Organization 1 Name]] in accordance with the procedures listed in Schedule A and which contains documents relating to each Product, including, without limitation: 
+
+^^specifications for Active Materials and Components;
+
+^^manufacturing specifications, directions, and processes;
+
+^^storage requirements;
+
+^^all environmental, health and safety information for each the Product including material safety data sheets; and
+
+^^the finished Product specifications, packaging specifications and shipping requirements for each Product, including, but not limited to, any requirements set forth in the applicable regulatory filings made with the FDA or other Authority and provided by Client to [[Organization 1 Name]];
+
+all as updated, amended and revised from time to time by Client in accordance with the terms of this Agreement; 
+
+**“Successive Term(s)”** will have the meaning ascribed thereto in Section 8.1; 
+
+“**Tablet Product(s)**” means the Bulk Tablets and Bottled and Labelled Tablets listed on Schedule A; 
+
+“**Target Yield**” will have the meaning ascribed thereto in Section 2.2.1(c); 
+
+“**Target Yield Determination Batches**” will have the meaning ascribed thereto in Section 2.2.1(c); 
+
+“**Technical Dispute**” will have the meaning ascribed thereto in Section 12.2; 
+
+“**Termination Notice**” will have the meaning ascribed thereto in Section 8.2(a); 
+
+“**Territory**” means (i) the United States and its commonwealths, territories and possessions, and (ii) any additional country(ies) and/or commonwealths, territories and possessions which Client may later designate in its sole discretion in an addendum to this Agreement; provided that Client will bear all incremental costs, including, but not limited to labeling costs, associated with the manufacture of any Products for such additional country(ies) and/or commonwealths, territories and possessions in amounts to be agreed by the parties; 
+
+“**Third Party Rights**” means the Intellectual Property of any third party; and 
+
+“**Year**” means in the first year of this Agreement the period from the Commencement Date up to and including [[Date 3: Date]] of the same calendar year, and thereafter will mean a calendar year. 
+
+^^**Currency.**
+
+Unless otherwise indicated, all monetary amounts are expressed in this Agreement in the lawful currency of the United States of America. 
+
+^^**Sections and Headings.**
+
+The division of this Agreement into Articles, Sections, Subsections, and Schedules and the insertion of headings are for convenience of reference only and will not affect the interpretation of this Agreement. Unless otherwise indicated, any reference in this Agreement to a Section or Schedule refers to the specified Section or Schedule to this Agreement. In this Agreement, the terms “**this Agreement**”, “**hereof**”, “**herein**”, “**hereunder**” and similar expressions refer to this Agreement and not to any particular part, Section or Schedule of this Agreement. 
+
+^^**Singular Terms.**
+
+Except as otherwise expressly stated or unless the context otherwise requires, all references to the singular will include the plural and vice versa. 
+
+^^**Schedules.**
+
+The following Schedules are attached to, incorporated in, and form part of this Agreement: 
+
+Schedule A      -      Product List and Specifications
+Schedule B      -      Product Pricing
+Schedule C      -      Active Materials, and Active Materials Credit Value
+Schedule D      -      Technical Dispute Resolution
+Schedule E      -      Capital Requirements
+Schedule F      -      Monthly Active Materials Inventory Report
+Schedule G      -      Report of Annual Active Materials Inventory Reconciliation and Calculation of Actual Annual Yield
+Schedule H      -      (Reserved)
+
+\centered **[[Organization 1 Name]]’S MANUFACTURING SERVICES** 
+
+^^**Manufacturing Services.**
+
+2.1.1 **Appointment**. Subject to the terms of this Agreement, Client hereby appoints [[Organization 1 Name]] to perform the Manufacturing Services for the **“Territory”** and to supply **“Product”** to Client for its commercial purposes, and [[Organization 1 Name]] hereby agrees to perform the Manufacturing Services and supply the Product to Client for its commercial purposes in accordance with the Specifications, cGMPs and all Applicable Laws for the Product Pricing set forth in Schedule B. Except as otherwise set forth in this Section 2.1, Client will have the right to purchase Product from [[Organization 1 Name]] during the Term by placing Firm Orders for its Product requirements in accordance with Section 5.1. Notwithstanding the foregoing, during the Initial Term, Client agrees to purchase from [[Organization 1 Name]] [* * *] of its Tablet Product requirements for [***] its [* * *] and [* * *] Products as identified in Schedule A (the “**Exclusivity Obligation**”). [[Organization 1 Name]] will be obligated to manufacture and supply all such Product ordered pursuant to Section 5. But the Exclusivity Obligation will cease to be binding on Client and will be permanently converted into a non-exclusive right to purchase Tablet Product from [[Organization 1 Name]] for the remaining portion of the Initial Term (i) in the event of a material breach by [[Organization 1 Name]] of any of the terms of this Agreement, which breach is not cured within the period set forth in Section 8.2(a), or (ii) under the circumstances set forth in Section 2.2.6. Client will be entitled to take such steps as are necessary to qualify one or more alternative Product manufacturers at any time during the term of this Agreement. [[Organization 1 Name]] agrees to cooperate with Client and provide all assistance, at Client’s expense, as may reasonably be requested by Client to qualify an alternate manufacturer. [[Organization 1 Name]] will not have to give an alternative manufacturer access to the Manufacturing Site. 
+
+[[Organization 1 Name]] may change the Manufacturing Site for the Products only with the prior written consent of Client, this consent not to be unreasonably withheld. The timing and responsibility for costs relating to any change in the Manufacturing Site will be agreed to in writing by the parties. If Manufacturing Services have not started within [* * *] of the date of execution of this Agreement, [[Organization 1 Name]] may amend the fees set out in Schedules B. 
+
+2.1.2 **Performance of Manufacturing Services**. In performing the Manufacturing Services, [[Organization 1 Name]] and Client agree that: 
+
+^^Conversion of Active Materials and Components. [[Organization 1 Name]] will convert Active Materials and Components into Products. 
+
+^^Quality Control and Quality Assurance. [[Organization 1 Name]] will perform the quality control and quality assurance testing specified in the Quality Agreement. Batch review and release to Client will be the responsibility of [[Organization 1 Name]]’s quality assurance group. [[Organization 1 Name]] will perform its batch review and release responsibilities in accordance with [[Organization 1 Name]]’s standard operating procedures. Each time [[Organization 1 Name]] ships Products to Client, it will give Client a certificate of analysis and certificate of compliance, which will specify the date of manufacture and confirm that all Products in the applicable batch conform to the Specifications, Applicable Laws and cGMPs. Client will have sole responsibility for the release of Products to the market. The form and style of batch documents, including, but not limited to, batch production records, lot packaging records, equipment set up control, operating parameters, data printouts, and laboratory notebooks are the exclusive property of [[Organization 1 Name]]. Specific Product related information contained in those batch documents is Client property. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^Components. [[Organization 1 Name]] will purchase and test all Components (with the exception of those that are supplied by Client) at [[Organization 1 Name]]’s expense and as required by the Specifications. 
+
+^^Packaging. [[Organization 1 Name]] will package Client’s specified Product as set out in the Specifications at [[Organization 1 Name]]’s sole cost and expense. Client will be responsible for the cost of artwork development. [[Organization 1 Name]] will determine and imprint the batch numbers and expiration dates for each Product shipped. The batch numbers and expiration dates will be affixed on the Products and on the shipping carton of each Product as outlined in the Specifications and as required by cGMPs. Client may, in its sole discretion, make changes to labels, product inserts, and other packaging for the Products. Those changes will be submitted by Client to all applicable Authorities and other third parties responsible for the approval of the Products. Client will be responsible for the cost of labelling obsolescence when changes occur, as contemplated in Section 4.4. [[Organization 1 Name]]’s name will not appear on the label or anywhere else on the Products unless: (i) required by any Laws; or (ii) [[Organization 1 Name]] and the Client consent in writing to the use of [[Organization 1 Name]]’s name. 
+
+^^Active Materials and Client Supplied Components Importing. At least [***] before the scheduled production date, Client will deliver the Active Materials to the Manufacturing Site DDP (Incoterms 2000) sufficient for [[Organization 1 Name]] to manufacture the desired quantities of Product on the requested delivery date. If the Active Materials are not received [* * *] before the scheduled production date, [[Organization 1 Name]] may delay the shipment until a later date as agreed to by both parties. All shipments of Active Material will be accompanied by certificate(s) of analysis from the Active Material manufacturer and the Client, confirming the identity and purity of the Active Materials and its compliance with the Active Material specifications. 
+
+^^Bill Back Items. Bill Back Items will be charged to Client at [[Organization 1 Name]]’s cost. [[Organization 1 Name]] will use commercially reasonable efforts to obtain the best available pricing for all Bill Back Items, and will provide Client with an estimate for the actual costs of Bill Back. 
+
+^^Validation Activities. At the Client’s request, [[Organization 1 Name]] will (i) assist in the development and approval of the validation protocols for analytical methods and manufacturing procedures (including packaging procedures) for the Products, and (ii) validate all applicable processes, methods, equipment, utilities, facilities and computers used in the manufacture, packaging, storage, testing and release of Products in conformance with all Applicable Laws, including, but not limited to, cGMPs. Upon request, [[Organization 1 Name]] will provide to Client a copy of the results of Product specific validation when such results are available. 
+
+^^Product Rejection for Finished Product Specification Failure. If [[Organization 1 Name]] manufactures Product in accordance with the mutually approved process specifications and a batch or portion of batch of Product does not meet a finished product specification, Client will reimburse [[Organization 1 Name]] for its documented, direct out-of-pocket costs for Components consumed in such batch, but Client shall not be responsible for any related labor expended with respect to such batch, or any overhead costs associated with such batch. 
+
+^^Storage. Until finished Products have been issued a Certificate of Analysis and Compliance or unless otherwise directly requested by Client, [[Organization 1 Name]] shall store all such Products in preparation for shipment to Client’s destination of choice identifiably distinct from any other raw material and finished or filled product stocks and shall comply with all storage requirements set forth in the Specifications and all Applicable Laws, including, but not limited to, cGMPs. [[Organization 1 Name]] shall assume responsibility for any loss or damage to such finished Product while stored by [[Organization 1 Name]]. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^Capital Requirements. The parties’ expectations concerning capital expenditures that may be required to support the Manufacturing Services are set forth in Schedule E. 
+
+^^**Active Material Yield.**
+
+2.2.1 **Reporting**. [[Organization 1 Name]] will give Client a monthly inventory report (within [***] following the last day of the applicable month) of the Active Materials held by [[Organization 1 Name]] using the Monthly Active Materials Inventory Report form set out in Schedule F, which will contain the following information for the month: 
+
+^^Quantity Received: The total quantity of Active Materials that complies with the Specifications and is received at the Manufacturing Site during the applicable period. 
+
+^^Quantity Dispensed: The total quantity of Active Materials dispensed at the Manufacturing Site during the applicable period. The Quantity Dispensed is calculated by adding the Quantity Received to the inventory of Active Materials that complies with the Specifications held at the beginning of the applicable period, less the inventory of Active Materials that complies with the Specifications held at the end of the period. The Quantity Dispensed will only include Active Materials received and dispensed in commercial manufacturing of Products and, for certainty, will not include any (i) Active Materials that must be retained by [[Organization 1 Name]] as samples, (ii) Active Materials contained in Product that must be retained as samples, (iii) Active Materials used in testing (if applicable), and (iv) Active Materials received or dispensed in technical transfer activities or development activities during the applicable period, including without limitation, any regulatory, stability, validation or test batches manufactured during the applicable period. 
+
+^^Quantity Converted: The total amount of Active Materials contained in the Products manufactured with the Quantity Dispensed (including any additional Products produced in accordance with Section 6.1 or 6.2), delivered by [[Organization 1 Name]], and not rejected, recalled or returned in accordance with Section 6.1 or 6.2 because of [[Organization 1 Name]]’s failure to perform the Manufacturing Services in accordance with Specifications, cGMPs, and Applicable Laws. 
+
+[[Organization 1 Name]] will allow Client to perform a physical inventory of Active Materials and Products held by [[Organization 1 Name]] on an [* * *] basis during the [* * *] of each calendar year. 
+
+[* * *] after the end of each Year, [[Organization 1 Name]] will prepare an annual reconciliation of Active Materials on the reconciliation report form set forth in Schedule I including the calculation of the “**Actual Annual Yield**” or “**AAY**” for the Product at the Manufacturing Site during the Year. [* * *] and is calculated as follows: 
+
+[* * *] 
+
+After [[Organization 1 Name]] has produced a minimum of [* * *] successful commercial production batches of Product and has produced commercial production batches for at least [* * *] at the Manufacturing Site (collectively, the “**Target Yield Determination Batches**”), the parties will mutually agree on the target yield for each batch in tablets for the Product at the Manufacturing Site (each, a “**Target Yield**”). 
+
+2.2.2 **Shortfall Calculation**. [[Organization 1 Name]] will use [* * *] to maintain AAY levels for each Product above the applicable Target Yield. If the Actual Annual Yield falls more than [* * *]% percent for [* * *] than [* * *] batches, [* * *]% for [* * *] to [* * *] batches, or [* * *]% for [* * *] than [* * *] batches below the respective Target Yield in a Year, then the shortfall for the Year (the “**Shortfall**”) will be calculated as follows: 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[***] 
+
+2.2.3 **Credit for Shortfall**. If there is a Shortfall for a Product in a Year, then [[Organization 1 Name]] will credit Client’s account for the amount of the Shortfall not later than [* * *] after the end of the Year. Each credit under this Section 2.2(c) will be summarized on the reconciliation report form set forth in Schedule I and will be made in accordance with Section 5.5. Upon expiration or termination of this Agreement, any remaining credit owing under this Section 2.2 will be paid to Client. The Annual Shortfall, if any, will be disclosed by [[Organization 1 Name]] on the reconciliation report form. 
+
+2.2.4 **Casualty Losses**. [[Organization 1 Name]] shall notify Client in writing in the event that an amount of greater than or equal to [* * *] of naltrexone HCL and/or greater than or equal to [* * *] of bupropion is damaged, lost or otherwise rendered unusable at any one time as soon as practicable following such incident. In addition, and notwithstanding any provision in this Section 2.2 to the contrary, [[Organization 1 Name]] shall reimburse Client for any Active Materials at the Active Materials Credit Value that is lost outside the normal course of manufacturing Product by fire, flood, storms or other natural disaster involving [[Organization 1 Name]]’s Manufacturing Site (a “**Casualty Loss**”) within [* * *] of [[Organization 1 Name]]’s settlement of the Casualty Loss with its insurance carriers. [[Organization 1 Name]]’s liability for a Casualty Loss will not exceed $[* * *]. For purposes of calculating the AAY above, all Active Materials reimbursed to Client as a Casualty Loss shall be removed from the Quantity Received and Quantity Dispensed totals. 
+
+2.2.5 **Maximum Credit**. Excluding liability for Casualty Losses, [[Organization 1 Name]]’s liability for Active Materials calculated in accordance with this Section 2.2 for any Product [* * *] will not [* * *], [* * *], the [* * *] set forth in Schedule C. 
+
+2.2.6 **No Material Breach**. It will not be a material breach of this Agreement by [[Organization 1 Name]] under Section 8.2(a) if the Actual Annual Yield is less than the Target Yield (the “**Shortfall**”). But Client may be released from the Exclusivity Obligation set forth in Section 2.1.1 if the Actual Annual Yield falls more than [* * *]% below the Target Yield in any Year. 
+
+\centered **CLIENT’S OBLIGATIONS** 
+
+^^**Payment.**
+
+Upon receipt of a properly rendered invoice in accordance with Section 5.5, Client will pay [[Organization 1 Name]] for performing the Manufacturing Services according to the Prices specified in Schedules B and C. Subject to Section 2.1.2(g), Client will also reimburse [[Organization 1 Name]] for any Bill Back Items. 
+
+^^**Active Materials.**
+
+Client will at its sole cost and expense (except as otherwise provided in this Agreement), deliver the Active Materials to [[Organization 1 Name]] (in accordance with Section 2.1(f)) sufficient for [[Organization 1 Name]] to manufacture the desired quantities of Product on the requested delivery date. The Active Materials will be held by [[Organization 1 Name]] on behalf of Client as set forth in this Agreement. Title to the Active Materials will at all times remain the property of Client. Any Active Materials received by [[Organization 1 Name]] will only be used by [[Organization 1 Name]] to perform the Manufacturing Services. Client’s failure to supply [[Organization 1 Name]] with Active Materials in accordance with the timeframes set forth in Section 2.1(f) will not be deemed a breach of this Agreement. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **CONVERSION FEES AND COMPONENT COSTS** 
+
+^^**First Year Pricing.**
+
+The tiered Price for the Products for the first Year is listed in Schedule B and is subject to the adjustments set forth in Sections 4.2 and 4.3. Schedule B sets forth a list of cost items that are included in the Price for Products; all cost items that are not included in this list are excluded from the Price and are subject to additional fees to be paid by the Client, subject to Client’s written approval prior to such additional fees being incurred. 
+
+^^**Price Adjustments  Subsequent Years’ Pricing.**
+
+After the [***] of the Agreement, [[Organization 1 Name]] may adjust the Price effective [[Date 4: Date]] of each Year as follows: 
+
+^^Manufacturing Costs. [[Organization 1 Name]] may adjust the Price for [* * *], based upon the [* * *], unless the parties otherwise agree in writing. On or about [* * *] of each Year, [[Organization 1 Name]] will give Client a statement setting forth the calculation for the [* * *] adjustment to be applied in calculating the Price for the next Year. 
+
+^^Component Costs. If [[Organization 1 Name]]urs an increase in Component costs during the Year, it may increase the Price for the next Year to pass through the additional Component costs; provided, however, that in the event any proposed increase in the cost of a Component exceeds [* * *]% of the cost for that Component upon which the most recent fee quote was based, [[Organization 1 Name]] will use [* * *] to locate an equivalent alternative lower cost supplier for the applicable Component. If [[Organization 1 Name]]urs a decrease in Component costs during the Year, it will decrease the Price for the next Year to pass through the additional Component cost savings. On or about [* * *] of each Year, [[Organization 1 Name]] will give Client information about the increase or decrease in Component costs which will be applied to the calculation of the Price for the next Year to reasonably demonstrate that, in the case of any increases, the Price increase is justified. But [[Organization 1 Name]] will not be required to give information to Client that is subject to obligations of confidentiality between [[Organization 1 Name]] and its suppliers. 
+
+^^Pricing Basis. Client acknowledges that the Price in any Year is quoted based upon the Manufacturing, Packaging and Testing Assumptions for the price tiers specified in Schedule B. The Price is subject to change if [* * *]. For greater certainty, [* * *]. But [[Organization 1 Name]] will not be required to give information to Client that is subject to obligations of confidentiality between [[Organization 1 Name]] and its suppliers. 
+
+^^Cost Improvement Program. [[Organization 1 Name]] and Client agree to work together to develop cost reduction initiatives as part of an overall cost improvement program, provided such program does not involve additional capital or extraordinary costs unless otherwise agreed to by parties in writing. All net cost savings (net of implementation costs) realized from the cost improvement program will be shared equally among the parties, unless otherwise agreed to by the parties in writing. A “cost reduction initiative” for the purpose of this Agreement will be an initiative that reduces the internal or out-of-pocket costs incurred by a party in connection with the performance of its obligations under this Agreement. It is further agreed by the parties that on-going method improvements developed or adopted by either Client or [[Organization 1 Name]] independently of the other party(ies), will not be a cost reduction initiative under this section, and there will be no obligation on such party to share the net cost savings realized from such improvement with the other party(ies) to this Agreement. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+For all Price adjustments under this Section 4.2, [[Organization 1 Name]] will deliver to Client on or about [***] of each Year a revised Schedule B to be effective for the next Year. 
+
+^^**Price Adjustments  Current Year Pricing.**
+
+During any Year of this Agreement, the Prices set out in Schedule B will be adjusted as follows: 
+
+Extraordinary Increases in Component Costs. If, at any time, market conditions result in [[Organization 1 Name]]’s cost of Components being materially greater than normal forecasted increases, then [[Organization 1 Name]] will be entitled to an adjustment to the Price for any affected Product to compensate it for the increased Component costs. Changes materially greater than normal forecasted increases will have occurred if: (i) the cost of a Component increases by [* * *]% of the cost for that Component upon which the most recent fee quote was based; or (ii) the aggregate cost for all Components required to manufacture a Product increases by [* * *]% of the total Component costs for the Product upon which the most recent fee quote was based. If Component costs have been previously adjusted to reflect an increase in the cost of one or more Components, the adjustments set out in (i) and (ii) above will operate based on the last cost adjustment for the Components. 
+
+For a Price adjustment under this Section 4.3, [[Organization 1 Name]] will deliver to Client a revised Schedule B and budgetary pricing information, adjusted Component costs or other documents reasonably sufficient to demonstrate that a Price adjustment is justified. [[Organization 1 Name]] will have no obligation to deliver any supporting documents that are subject to obligations of confidentiality between [[Organization 1 Name]] and its suppliers. The revised Price will be effective for any Product delivered on or after the [* * *] following Client’s receipt of the revised Schedule B. 
+
+^^**Adjustments Due to Technical Changes.**
+
+Amendments to the Specifications or the Quality Agreement requested by Client will only be implemented following a technical and cost review by [[Organization 1 Name]] and are subject to Client and [[Organization 1 Name]] reaching agreement on Price changes required because of the amendment. Amendments to the Specifications, the Quality Agreement, or the Manufacturing Site requested by [[Organization 1 Name]] will only be implemented following [* * *]. If Client [* * *]. In addition, [* * *]. [[Organization 1 Name]] will use [* * *] to cancel any open purchase orders for Components no longer required under any revised Specifications that were placed by [[Organization 1 Name]] with suppliers in order to fill Firm Orders or under Section 5.2, and if the orders may not be cancelled without penalty, will be assigned to and satisfied by Client. 
+
+^^**Books and Records.**
+
+[[Organization 1 Name]] will maintain complete and accurate books, records and accounts in connection with its manufacture and supply of Products to permit verification of payments made and obligations owed hereunder. [[Organization 1 Name]] will retain such books, records and account for a period of not less than [* * *] after the calendar year in which they are prepared, or for such longer period as may be required by Applicable Law. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Audit.**
+
+Client will have the right to have an independent third party accounting firm access the books and records of [[Organization 1 Name]] [* * *]. Such audit will be conducted upon at least [* * *] advanced written notice to [[Organization 1 Name]] on a date reasonably acceptable to both parties and will be attended by a representative of [[Organization 1 Name]]. Such audit will be conducted during [[Organization 1 Name]]’s normal business hours, and will not be more frequent than [* * *] (unless a material inaccuracy was found in a prior audit). The auditor will be required to sign a confidentiality agreement for the benefit of, and in a form reasonably acceptable to, [[Organization 1 Name]]. Any undisputed amounts that are determined to be due and owing by one party to the other party following such audit will be paid within [* * *] thereafter. Client will bear the cost of such audit unless such audit discloses an undisputed overpayment by Client arising out of the amounts incorrectly invoiced by [[Organization 1 Name]] during the audited period of more than [* * *]% of the amount due, in which event, [[Organization 1 Name]] will be liable for the cost of the audit and will reimburse Client for any overcharged amounts. 
+
+\centered **ORDERS, SHIPMENT, INVOICING, PAYMENT** 
+
+^^**Orders and Forecasts.**
+
+^^Rolling 12 Month Forecast. [* * *] following the Effective Date, Client will give [[Organization 1 Name]] a non-binding 12 month forecast of the volume of Product that Client expects to order for commercial purposes in the first 12 months of commercial manufacture of the Product. This forecast will then be updated by Client on or before the [* * *] thereafter on a rolling forward basis. Client will update the forecast forthwith if it determines that the volumes estimated in the most recent forecast have changed by more than [* * *]%. The most recent 12**-**month forecast will prevail over all previous forecasts. 
+
+^^Firm Orders. On a rolling basis during the term of this Agreement, [* * *] months prior to the due date for the product on the Firm Order, the Client will issue a firm written order in the form of a purchase order or otherwise (“**Firm Order**”) to purchase and, when accepted by [[Organization 1 Name]], for [[Organization 1 Name]] to manufacture and deliver the agreed quantity of the Products on a date specified in the Firm Order. Firm Orders submitted to [[Organization 1 Name]] will specify Client’s Manufacturing Services purchase order number, quantities by Product type, monthly delivery schedule, and any other elements necessary to ensure the timely manufacture and shipment of the Products. The quantities of Products ordered in those written orders will be firm and binding on Client. Firm Orders submitted by Client pursuant to this Section 5.1(b) must be accepted by [[Organization 1 Name]] via a written order acknowledgement within six Business days of receipt of said Firm Order, and will be automatically firm and binding on [[Organization 1 Name]] up to quantities not more than [* * *]% of the amount for the delivery period specified in the Firm Order. Firm Orders not rejected by [[Organization 1 Name]] within [* * *] Business Days of receipt by [[Organization 1 Name]] will be deemed to have been accepted by [[Organization 1 Name]]. 
+
+^^Three Year Forecast. On or before the [***] day of [* * *] of each Year Client will provide [[Organization 1 Name]] with a written non-binding three-year forecast, broken down by quarters for the second and third years of the forecast, of the volume of each Product Client then anticipates will be required to be manufactured and delivered to Client during the three-year period. Except as provided in Section 5.1(b) and (c), such three-year forecast shall be non-binding and used by [[Organization 1 Name]] for planning purposes only. Subsequently, on or before the [* * *] day of [* * *] of each Year [[Organization 1 Name]] will provide Client with a [* * *] year capacity forecast by plant and quantity for the Products entitled within this Agreement for collective review by [[Organization 1 Name]] and Client. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Delays**. During any period during this Agreement in which [[Organization 1 Name]], for any reason, fails to deliver the requisite quantities of Products included within any Firm Order (including but not limited to any Tablet Products which are subject to the Exclusivity Obligation), within [* * *] after the scheduled date of delivery, or if [[Organization 1 Name]] otherwise anticipates or notifies Client that it will be unable to make delivery of all or a portion of the ordered Products within [* * *] after the scheduled date of delivery, thus known as a “**Late Delivery**”, then Client may cancel the late shipment of Products from [[Organization 1 Name]] if manufacture of the Products has not started and purchase the Products ordered under the Firm Order from an alternative third party supplier. The quantity of Products purchased from the substitute supplier due to [[Organization 1 Name]]’s failure to supply shall be treated as if it were purchased from [[Organization 1 Name]] for purposes of determining the Annual Volume for subsequent purchases of Products. If [[Organization 1 Name]] is able to demonstrate to Client’s reasonably satisfaction that it has regained its ability to resume supplying hereunder, Client’s right to purchase Tablet Products from the substitute supplier shall terminate immediately upon the delivery by [[Organization 1 Name]] to Client of written notice thereof except in respect of orders already placed or obligated to be placed by Client from the substitute supplier. 
+
+^^[[Organization 1 Name]] and the Client understand that there may be uncertainties and necessary adjustments in production schedules during the [* * *], known as the **“Initial Manufacturing Period**”. The parties agree that they will work together closely to expedite deliveries and manage the scheduling of the initial Product launch. 
+
+^^If, after the Initial Manufacturing Period, there is a Late Delivery, Client will receive a credit from [[Organization 1 Name]] for the Late Delivery that will be applied against the purchase price under the next Firm Order. The credit will be [* * *]% of the Price of the quantities of Product not delivered by [[Organization 1 Name]] under the Firm Order on the Delivery Date (i.e., [* * *]). 
+
+^^A Late Delivery will not be a material breach of this Agreement by [[Organization 1 Name]] for the purposes of Section 8.2. 
+
+^^A Late Delivery will not include any delay in shipment of Product caused by events outside of [[Organization 1 Name]]’s reasonable control, such as a Force Majeure Event, a delay in delivery of API or Materials, a delay in Product release approval from Client or receipt of non-conforming API supplied by Client. 
+
+^^**Reliance by [[Organization 1 Name]].**
+
+^^Client understands and acknowledges that [[Organization 1 Name]] will rely on the most recent rolling forecast and on Firm Orders in ordering the Components required to meet the Firm Orders. In addition, Client understands that to ensure an orderly supply of the Components, [[Organization 1 Name]] may want to purchase the Components in sufficient volumes to meet the production requirements for Products during part or all of the forecasted periods referred to in Section 5.1(a) or to meet the production requirements of any longer period agreed to by [[Organization 1 Name]] and Client. Accordingly, Client authorizes [[Organization 1 Name]] to purchase Components to satisfy the Manufacturing Services requirements for Products for the first [***] contemplated in the most recent forecast given by Client under Section 5.1(a). [[Organization 1 Name]] may make other purchases of Components to meet Manufacturing Services requirements for longer periods if agreed to in writing by the parties. The Client will give [[Organization 1 Name]] written authorization to order Components for any launch quantities of Product requested by Client which will be considered a Firm Order when accepted by [[Organization 1 Name]]. If Components ordered by [[Organization 1 Name]] under Firm Orders or this Section 5.3 are not included in finished Products manufactured for Client within [* * *] after the forecasted month for which the purchases have been made (or for a longer period as the parties may agree) or if the Components have expired during the period, then Client will pay to [[Organization 1 Name]] its documented, direct out-of-pocket costs therefore (including all costs incurred by [[Organization 1 Name]] for the purchase and handling of the Components, such handling costs not to exceed [* * *]%); provided, however, that (i) the Client will have the option but not the obligation to take title to and possession of all or any portion of such Components by written notice to [[Organization 1 Name]], in which case [[Organization 1 Name]] will cooperate with the Client in the surrender, delivery and transfer of such Components as promptly as is commercially reasonable, with any shipping and related expenses to be borne by the Client, or (ii) if these Components are used in Products subsequently manufactured for Client or in third party products manufactured by [[Organization 1 Name]], Client will receive credit for any costs of those Components previously paid to [[Organization 1 Name]] by Client and/or such third parties. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^If Client fails to take possession or arrange for the destruction of Components within [* * *] of purchase or, in the case of finished Product, within [* * *] of manufacture, upon written notice to Client by [[Organization 1 Name]] of such impending charges, Client will pay [[Organization 1 Name]] $[* * *] per pallet, per [* * *] thereafter for storing the Components or finished Product. Storage fees for Components or Product which contain controlled substances or require refrigeration will be charged at $[* * *] per pallet per [* * *]. Storage fees are subject to a [* * *] pallet minimum charge per [* * *]. [[Organization 1 Name]] may ship finished Product held by it longer than [* * *] months to the Client at [* * *] on [* * *] days written notice to the Client. 
+
+^^**Minimum Orders.**
+
+Client may only order Manufacturing Services for batches of Products in multiples of the validated batch size set out in Schedule B. 
+
+^^**Shipments.**
+
+Shipments of Products will be made EXW (INCOTERMS 2000) [[Organization 1 Name]]’s shipping point unless otherwise mutually agreed. Risk of loss or of damage to Products will remain with [[Organization 1 Name]] until [[Organization 1 Name]] loads the Products onto the carrier’s vehicle for shipment at the shipping point at which time risk of loss or damage will transfer to Client. [[Organization 1 Name]] will, in accordance with Client’s instructions and as agent for Client, (i) arrange for shipping, including preparing and executing a packing list, so that the Product will be delivered to the delivery address on the delivery date set forth in the applicable Firm Order, with such shipping to be paid by Client and (ii) at Client’s risk and expense, obtain any export license or other official authorization necessary to export the Products. Client will arrange for insurance and will select the freight carrier used by [[Organization 1 Name]] to ship Products and may monitor [[Organization 1 Name]]’s shipping and freight practices as they pertain to this Agreement. Products will be packed and transported in accordance with the Specifications. 
+
+^^**Invoices and Payment.**
+
+Invoices will be sent by email to the email address given by Client to [[Organization 1 Name]] in writing from time to time. Invoices will be sent when the Product is manufactured and released by [[Organization 1 Name]] to the Client. [[Organization 1 Name]] will also submit to Client, with each shipment of Products, a duplicate copy of the invoice covering the shipment. [[Organization 1 Name]] will also give Client an invoice covering any Inventory, Bill Back Items or Components which are to be purchased by Client under Section 5.2 of this Agreement. Each invoice will, to the extent applicable, identify Client’s Manufacturing Services purchase order number, Product numbers, names and quantities, unit price, freight charges, and the total amount to be paid by Client. Client will pay all undisputed invoices within [***] days of the date of confirmed facsimile or email transmission of the invoice. In the event that Client disputes any amounts under any invoice, such dispute will be resolved in accordance with Section 6.1 (with respect to non-conformance of Products) or otherwise under Article 12. Pending resolution of such dispute, Client will be obligated to pay any amounts under such invoice that are not in dispute. Upon resolution of any such dispute in favor of [[Organization 1 Name]], the Client will pay all remaining amounts owing under such invoice within the later of (i) [* * *] Business days after such resolution or (ii) [* * *] days after the date of confirmed facsimile or email transmission of the invoice. The Late Delivery credits set forth in Section 5.2 are only available to Client if all outstanding undisputed invoices have been paid in full or are within 45 days outstanding from the invoice date when the Late Delivery arose. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **PRODUCT CLAIMS AND RECALLS** 
+
+^^**Product Claims.**
+
+^^Product Claims. Client has the right to reject and return, at [[Organization 1 Name]]’s expense, any portion of any shipment of Products that deviates from the Specifications, cGMPs, or Applicable Laws without invalidating any remainder of the shipment. Client or its designated agent will visually inspect the Products manufactured by [[Organization 1 Name]] upon receipt thereof and will give [[Organization 1 Name]] written notice (a “**Deficiency Notice**”) of all claims for Products that deviate from the Specifications, cGMPs, or Applicable Laws within [* * *] days after Client’s receipt thereof. Should Client fail to give [[Organization 1 Name]] the Deficiency Notice within the applicable [* * *] day period, then the delivery will be deemed to have been accepted by Client on the [* * *] day after delivery or discovery, as applicable. Except as set out in Section 6.3, [[Organization 1 Name]] will have no liability for any deviations for which it has not received notice within the applicable [* * *] day period. 
+
+^^Determination of Deficiency. Upon receipt of a Deficiency Notice, [[Organization 1 Name]] will have [* * *] days to advise Client by notice in writing that it disagrees with the contents of the Deficiency Notice. If Client and [[Organization 1 Name]] fail to agree within [* * *] days after [[Organization 1 Name]]’s notice to Client as to whether any Products identified in the Deficiency Notice deviate from the Specifications, cGMPs, or Applicable Laws, then the parties will mutually select an independent laboratory within [* * *] days of the parties’ failure to agree, which independent laboratory will evaluate if the Products deviate from the Specifications, cGMPs, or Applicable Laws. The parties will cause the independent laboratory to conduct its evaluation as promptly as reasonably practicable. This evaluation will be binding on the parties. If the evaluation certifies that any Products deviate from the Specifications, cGMPs, or Applicable Laws, Client may reject and return those Products in the manner contemplated in this Section 6.1 and [[Organization 1 Name]] will be responsible for the cost of the evaluation. If the evaluation does not so certify for any of the Products, then Client will be deemed to have accepted delivery of such Products which are deemed to be conforming on the date the evaluation is delivered by the independent laboratory to the parties and Client will be responsible for the cost of the evaluation and the return. With respect to any Products which [[Organization 1 Name]] agrees are deficient in accordance with the Deficiency Notice, or which are otherwise found to be deficient by the independent laboratory, Client will be entitled to the remedies set forth in Section 6.3(a). 
+
+^^Latent Defects. For any Product defect that is not reasonably susceptible to discovery by visual inspection upon receipt of the Product, Client may give [[Organization 1 Name]] a Deficiency Notice within [***] days after [* * *] but not after [* * *]. 
+
+^^Shortages. Claims for shortages in the amount of Products shipped by [[Organization 1 Name]] will be dealt with by reasonable agreement of the parties. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Product Recalls and Returns.**
+
+^^Records and Notice. [[Organization 1 Name]] and Client will each maintain records necessary to permit a Recall of any Products delivered to Client or customers of Client. Each party will promptly notify the other by telephone (to be confirmed in writing) of any information which might affect the marketability, safety or effectiveness of the Products or which might result in the Recall or seizure of the Products. Upon receiving this notice or upon this discovery, each party will stop making any further shipments of any Products in its possession or control until a decision has been made whether a Recall or some other corrective action is necessary. The decision to initiate a Recall or to take some other corrective action, if any, will be made and implemented by Client. “**Recall**” will mean any action (i) by Client to recover title to or possession of quantities of the Products sold or shipped to third parties (including, without limitation, the voluntary withdrawal of Products from the market); or (ii) by any regulatory authorities to detain or destroy any of the Products. Recall will also include any action by either Party to refrain from selling or shipping quantities of the Products to third parties which would have been subject to a Recall if sold or shipped. 
+
+^^Recalls. If (i) any Authority issues a directive, order or, following the issuance of a safety warning or alert about a Product, a written request that any Product be Recalled, (ii) a court of competent jurisdiction orders a Recall, or (iii) Client determines that any Product should be Recalled or that a “Dear Doctor” letter is required relating the restrictions on the use of any Product, [[Organization 1 Name]] will co-operate as reasonably required by Client, having regard to all Applicable Laws. 
+
+^^Product Returns. Client will have the responsibility for handling customer returns of the Products. [[Organization 1 Name]] will give Client any assistance that Client may reasonably require to handle the returns. 
+
+^^**[[Organization 1 Name]]’s Responsibility for Defective and Recalled Products.**
+
+^^Defective Product. If Client rejects Products under Section 6.1 and the deviation is determined to have arisen from [[Organization 1 Name]]’s failure to provide the Manufacturing Services in accordance with the Specifications, cGMPs, and/or Applicable Laws, or which is otherwise found to be deficient by an independent laboratory in accordance with Section 6.1, [[Organization 1 Name]] will credit Client’s account for [[Organization 1 Name]]’s invoice price for the defective Products (the “**Defective Product Credit Amount**”). If Client previously paid for the defective Products, [[Organization 1 Name]] will promptly, at Client’s election, either: (i) refund the Defective Product Credit Amount; or (ii) offset the Defective Product Credit Amount against other amounts due to [[Organization 1 Name]] hereunder. [[Organization 1 Name]]’s responsibility for any loss of Active Materials in Defective Product will be captured and calculated in the Active Materials Yield under Section 2.2. 
+
+^^Recalled Product. If a Recall or return results from, or arises out of, a failure by [[Organization 1 Name]] to perform the Manufacturing Services in accordance with the Specifications, cGMPs, and Applicable Laws, [[Organization 1 Name]] will be responsible for the documented out-of-pocket expenses of the Recall or return and will promptly, at Client’s election, either: (i) refund the invoice price for such Recalled or returned Products (the “**Recalled Product Credit Amount**”); (ii) offset such Recalled Product Credit Amount against other amounts due to [[Organization 1 Name]] hereunder; or (iii) use its [***] efforts to replace such Recalled or returned Products with conforming Products within [* * *] days’ of the Client’s election under this Section 6.3(b) without the Client being liable for payment therefore, contingent upon the receipt from Client of all Active Materials required for the manufacture of the replacement Products. In all other circumstances, Recalls, returns, or other corrective actions will be made at Client’s direction, cost and expense. [[Organization 1 Name]]’s responsibility for any loss of Active Materials in Recalled Product will be captured and calculated in the Active Materials Yield under Section 2.2. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^Except as set forth in Sections 6.3(a) and (b) above, and for breaches of its representations and warranties set forth in Section 9.3 below, [[Organization 1 Name]] will not be liable to Client nor have any responsibility to Client for any deficiencies in, or other liabilities associated with, any Product manufactured by it, (collectively, “**Product Claims**”). For greater certainty, [[Organization 1 Name]] will have no obligation for any Product Claims to the extent the Product Claim (i) is caused by deficiencies in the Specifications, the safety, efficacy, or marketability of the Products or any distribution thereof, (ii) results from a defect in a Component that is not reasonably discoverable by [[Organization 1 Name]] using the test methods set forth in the Specifications, (iii) results from a defect in the Active Materials or Components supplied by Client that is not reasonably discoverable by [[Organization 1 Name]] using the test methods set forth in the Specifications, (iv) is caused by actions of third parties occurring after the Product is shipped by [[Organization 1 Name]] under Section 5.4, (v) is due to packaging design or labelling defects or omissions for which [[Organization 1 Name]] has no responsibility, (vi) is due to any unascertainable reason despite [[Organization 1 Name]] having performed the Manufacturing Services in accordance with the Specifications, cGMP’s, and Applicable Laws, or (vii) is due to any other breach by Client of its obligations under this Agreement. 
+
+^^**Disposition of Defective or Recalled Products****.**
+
+Client will not dispose of any damaged, defective, returned, or Recalled Products for which it intends to assert a claim against [[Organization 1 Name]] without [[Organization 1 Name]]’s prior written authorization to do so, such authorization not to be unreasonably withheld or delayed. Alternatively, [[Organization 1 Name]] may instruct Client to return the Products to [[Organization 1 Name]]. [[Organization 1 Name]] will bear the cost of shipping, storage and disposition for any damaged, defective, returned or Recalled Products for which it bears responsibility under Section 6.3, and will promptly reimburse Client for any such costs which may be incurred directly by Client. In all other circumstances, Client will bear the cost of disposition, including all applicable fees for Manufacturing Services, for any damaged, defective, returned, or Recalled Products. Notwithstanding the foregoing, the Client will have the right at all times to retain a reasonable sample of such Products for its own archival purposes. 
+
+^^**Healthcare Provider or Patient Questions and Complaints; Adverse Event Reporting**
+
+^^Client will have the sole responsibility for responding to questions and complaints from its customers. Questions or complaints received by [[Organization 1 Name]] from Client’s customers, healthcare providers or patients will be promptly (but in any event within [* * *] Business Days) referred to Client. [[Organization 1 Name]] will co-operate as reasonably required to allow Client to determine the cause of and resolve any questions and complaints. This assistance will include follow-up investigations, including testing. In addition, [[Organization 1 Name]] will give Client all mutually agreed upon information that will enable Client to respond properly to questions or complaints about the Products as set forth in the Quality Agreement. 
+
+^^[[Organization 1 Name]] will notify Client promptly and in any event not later than [***] after it becomes aware of any Adverse Experience associated with the use of the Products, whether or not determined to be attributable to the Products, and whether or not deemed to be serious or non-serious. Such information will be sent to the Client as set forth in the Quality Agreement. 
+
+^^If it is determined that the cause of the complaint or Adverse Experience resulted from a failure by [[Organization 1 Name]] to perform the Manufacturing Services in accordance with the Specifications, cGMPs, and Applicable Laws, [[Organization 1 Name]] will bear all costs incurred under this Section 6.5. In all other circumstances, such costs will be borne by Client. 
+
+^^**Sole Remedy.**
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Except for the indemnity set forth in Section 10.3 and subject to the limitations set forth in Sections 10.1 and 10.2, the remedies described in this Article 6 will be Client’s sole remedy for any failure by [[Organization 1 Name]] to provide the Manufacturing Services in accordance with the Specifications, cGMPs, and Applicable Laws. 
+
+\centered **CO-OPERATION** 
+
+^^**Quarterly Review.**
+
+Each party will forthwith upon execution of this Agreement appoint one of its employees to be a relationship manager responsible for liaison between the parties. The relationship managers will meet not less than quarterly to review the current status of the business relationship and manage any issues that have arisen. 
+
+^^**Governmental Agencies.**
+
+Subject to Section 7.8, each party may communicate with any governmental agency, including but not limited to governmental agencies responsible for granting regulatory approval for the Products, regarding the Products if, in the opinion of that party’s counsel, the communication is necessary to comply with the terms of this Agreement or the requirements of any law, governmental order or regulation. Unless, in the reasonable opinion of its counsel, there is a legal prohibition against doing so, a party will permit the other party to accompany and take part in any communications with the agency, and to receive copies of all communications from the agency. 
+
+^^**Records and Accounting by [[Organization 1 Name]].**
+
+[[Organization 1 Name]] will keep records of the manufacture, testing, and shipping of the Products, and retain samples of the Products, Active Materials and Components as are necessary to comply with all Applicable Laws, including any manufacturing regulatory requirements applicable to [[Organization 1 Name]], the Manufacturing Site, the Products, the Active Materials and/or the Components, as well as to assist with resolving Product complaints and other similar investigations. Copies of the records and samples will be retained for a period of [***] following the date of Product expiry, or longer if required by law, at which time Client will be contacted concerning the delivery and destruction of the documents and/or samples of Products; provided that [[Organization 1 Name]] has first given Client [* * *] days notice of its intention to do so and the Client has not, in turn, instructed [[Organization 1 Name]] to ship such records or samples to Client at Client’s expense. Client is responsible for retaining samples of the Products necessary to comply with the legal/regulatory requirements applicable to Client. 
+
+^^**Access.**
+
+[[Organization 1 Name]] will give Client reasonable access at mutually agreeable times to the areas of the Manufacturing Site or any other facilities in which the Products are manufactured, stored, handled, or shipped to permit Client to verify that the Manufacturing Services are being performed in accordance with the Specifications, cGMPs, and Applicable Laws. But, with the exception of “for-cause” audits, Client will be limited each Year to [* * *] cGMP-type audit, lasting no more than [* * *] days, and involving no more than [* * *] auditors. Client may request additional cGMP-type audits, additional audit days, or the participation of additional auditors subject to payment to [[Organization 1 Name]] of a fee of $[* * *] for each additional audit day and $[* * *] per audit day for each additional auditor. The right of access set forth in this Section 7.5 will not include a right to access or inspect [[Organization 1 Name]]’s financial records. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Regulatory Inspections.**
+
+[[Organization 1 Name]] will make its internal practices, books and records relating to the manufacture of the Products available and allow access to all facilities used for manufacturing the Products to any Authority having jurisdiction over the manufacture of the Products for the purposes of determining [[Organization 1 Name]]’s compliance with Applicable Laws, including, but not limited to, cGMPs. [[Organization 1 Name]] will notify Client by telephone and e-mail within [* * *] of any proposed or announced inspections, and as soon as possible (but in any case within [* * *]) after any unannounced inspection, by any Authority relating to the Products. [[Organization 1 Name]] will provide the Client with a reasonable description in writing of each such inspection promptly (but in no event later than [* * *] calendar days) thereafter, and with copies of any Authority-issued inspection observation reports (including, without limitation, Form 483s and equivalent forms from other regulatory bodies) and Authority correspondence, purged only of confidential information that is unrelated to the Products. [[Organization 1 Name]] will also notify Client of receipt of any other form 483’s or warning letters or any other significant regulatory action which [[Organization 1 Name]]’s quality assurance group determines could impact the regulatory status of the Products. [[Organization 1 Name]] and Client will cooperate in resolving any concerns with any Authority, and the Client may review [[Organization 1 Name]]’s responses to any such reports and communications, and [[Organization 1 Name]] will in its reasonable discretion incorporate into such responses any comments received from the Client. [[Organization 1 Name]] will also inform the Client of any action taken by any Authority against [[Organization 1 Name]] or any of its officers or employees which may be reasonably expected to adversely affect the Products or [[Organization 1 Name]]’s ability to supply the Products hereunder within [* * *] Business Days after the action is taken. 
+
+^^**Reports.**
+
+[[Organization 1 Name]] will supply on an annual basis all Product data in its control, including release test results, complaint test results, and all investigations (in manufacturing, testing, and storage), that Client reasonably requires in order to complete any filing under any applicable regulatory regime, including any Annual Report that Client is required to file with the FDA. At the Client’s request, [[Organization 1 Name]] will provide a copy of the Annual Product Review Report to the Client at no additional cost. Any additional report requested by Client beyond the scope of cGMPs and customary FDA requirements will be subject to an additional fee to be agreed upon between [[Organization 1 Name]] and the Client. 
+
+^^**FDA Filings.**
+
+^^Regulatory Authority. Client will have the sole responsibility for filing all documents with all Regulatory Authorities and taking any other actions that may be required for the receipt and/or maintenance of Regulatory Authority approval for the commercial manufacture of the Products, other than with respect to any Manufacturing Site licenses and/or registrations required to be obtained and maintained by [[Organization 1 Name]]. [[Organization 1 Name]] will assist Client, to the extent consistent with [[Organization 1 Name]]’s obligations under this Agreement, to obtain Regulatory Authority approval for the commercial manufacture of all Products as quickly as reasonably possible. 
+
+^^Verification of Data. At least [***] days prior to filing any documents with any Regulatory Authority that incorporate data generated by [[Organization 1 Name]], Client will give [[Organization 1 Name]] a copy of the documents incorporating this data to give [[Organization 1 Name]] the opportunity to verify the accuracy and regulatory validity of those documents as they relate to [[Organization 1 Name]] generated data. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^Verification of CMC. At least [* * *] days prior to filing with any Regulatory Authority any documentation which is or is equivalent to the FDA’s Chemistry and Manufacturing Controls (“**CMC**”) related to any Marketing Authorization, such as a New Drug Application or Abbreviated New Drug Application, Client will give [[Organization 1 Name]] a copy of the CMC documentation as well as all supporting documents which have been relied upon to prepare the CMC documentation. This disclosure will permit [[Organization 1 Name]] to verify that the CMC documentation accurately describes the work that [[Organization 1 Name]] has performed and the manufacturing processes that [[Organization 1 Name]] will perform under this Agreement. Client will give [[Organization 1 Name]] copies of all FDA filings at the time of submission which contain CMC information regarding the Product. Notwithstanding the foregoing, Client may omit from the materials provided to [[Organization 1 Name]] any CMC documentation and supporting documents which have been previously provided to [[Organization 1 Name]] by Client and which have not been modified or edited by Client. 
+
+^^Deficiencies. If, in [[Organization 1 Name]]’s sole discretion, acting reasonably, [[Organization 1 Name]] determines that any of the information given by Client under subsections (b) and (c) above is inaccurate or deficient in any manner whatsoever (the “**Deficiencies**”), [[Organization 1 Name]] will notify Client in writing of the Deficiencies. The parties will meet to discuss any such Deficiencies and will work together to resolve such Deficiencies before any pre-approval inspection, provided that to the extent of any disagreement concerning the form or content any information or submissions covered by subsections (b) and (c) above, Client will have the final decision-making authority. 
+
+^^Client Responsibility. For clarity, the parties agree that in reviewing the documents referred to in subsections (b) and (c) above, [[Organization 1 Name]]’s role will be limited to verifying the accuracy of the description of the work undertaken or to be undertaken by [[Organization 1 Name]]. Subject to the foregoing, [[Organization 1 Name]] will not assume any responsibility for the accuracy of any application by Client for receipt of an approval by a Regulatory Authority. The Client is solely responsibility for the preparation and filing of the application for approval by the Regulatory Authorities and any relevant costs will be borne by the Client, except as otherwise provided in this Section 7.8. 
+
+^^Inspection by Regulatory Authorities. If Client does not give [[Organization 1 Name]] the documents requested under subsection (b) above within the time specified and if [[Organization 1 Name]] reasonably believes that [[Organization 1 Name]]’s standing with a Regulatory Authority may be jeopardized, [[Organization 1 Name]] may, in its sole discretion, delay or postpone any inspection by the Regulatory Authority until [[Organization 1 Name]] has reviewed the requested documents and is satisfied with their contents. 
+
+\centered **TERM AND TERMINATION** 
+
+^^**Initial Term.**
+
+This Agreement will become effective as of the Effective Date and will continue until [[Date 3]] of the Year that is five full Years after the Commencement Date of each Product (the “**Initial Term**”), unless terminated earlier by one of the parties in accordance herewith. This Agreement will automatically continue after the Initial Term for each Product for successive terms of two years (each, a “**Successive Term**”). [[Organization 1 Name]] may terminate this Agreement for any reason or no reason at any time during the Initial Term or any Successive Term with at least [***] prior written notice to Client. 
+
+^^**Client Termination**
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^Client may terminate this Agreement, for any reason or no reason, at any time during the Initial Term or any Successive Term with at least [* * *] prior written notice (a “**Termination Notice**”) to [[Organization 1 Name]] (a “**Client Termination**”). 
+
+^^Except for a termination under Sections 8.3 (a), (b) or (c), if there is a Client Termination for the [* * *] Product prior to the expiration of the Initial Term, Client shall pay to [[Organization 1 Name]] (i) $[* * *] if the date of the Termination Notice (the “**Notice Effective Date**”) occurs [* * *], (ii) $[* * *] if the Notice Effective Date occurs [* * *] or (iii) $[* * *] if the Notice Effective Date occurs [* * *] (the “**Client Termination Payment**”). Except for a termination under Sections 8.3 (a), (b) or (c), if there is a Client Termination for the [* * *] Product prior to the expiration of the [* * *], the Client Termination Payment shall be (i) $[* * *] if the Notice Effective Date occurs [* * *], (ii) $[* * *] if the Notice Effective Date occurs [* * *], or (iii) $[* * *] if the Notice Effective Date occurs [* * *]. For the avoidance of doubt, Client Terminations of the [* * *] and [* * *] Products as set forth above are separate and independent and will result in Client Termination Payments for each Product. The Client Termination Payment shall be due to [[Organization 1 Name]] no later than [* * *] business days following the effective date of the Client Termination. For the avoidance of doubt, no Client Termination Payment shall result from a Client Termination that is effective on or after the expiration of the Initial Term or from a Client Termination made under Sections 8.3 (a), (b) or (c). 
+
+^^**Termination for Cause.**
+
+^^Either party at its sole option may terminate this Agreement upon written notice (the “**Termination Notice**”) where the other party has failed to remedy a material breach of any of its representations, warranties, or other obligations under this Agreement within [* * *] days following receipt of a written notice of the breach that reasonably identifies the breach and expressly states that it is a notice under this Section 8.3(a) (a “**Breach Notice**”). The aggrieved party’s right to terminate this Agreement under this Section 8.3(a) may only be exercised for a period of [* * *] days following the Termination Notice (where the breach has not been remedied) and if the termination right is not exercised during this period then the aggrieved party will be deemed to have waived the breach of the representation, warranty, or obligation described in the Breach Notice. 
+
+^^Either party at its sole option may immediately terminate this Agreement upon written notice, but without prior advance notice, to the other party if: (i) the other party is declared insolvent or bankrupt by a court of competent jurisdiction; (ii) a voluntary petition of bankruptcy is filed in any court of competent jurisdiction by the other party; or (iii) this Agreement is assigned by the other party for the benefit of creditors. 
+
+^^Client may terminate this Agreement as to any Product upon [***] days’ prior written notice if any Authority takes any action, or raises any objection, that prevents Client from importing, exporting, purchasing, or selling the Product. But if this occurs, Client will still fulfill all of its obligations under Section 8.5 below. 
+
+^^[[Organization 1 Name]] may terminate this Agreement upon [* * *] months’ prior written notice if Client assigns under Section 13.6 any of its rights under this Agreement to an assignee that, in the opinion of [[Organization 1 Name]] acting reasonably, is: (i) not a credit worthy substitute for Client; or (ii) a [[Organization 1 Name]] Competitor. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Product Discontinuation.**
+
+Client will give at least [* * *] months’ advance notice if it intends to no longer order Manufacturing Services for a Product due to this Product’s discontinuance in the market. 
+
+^^**Obligations on Termination.**
+
+If this Agreement is completed, expires, or is terminated in whole or in part for any reason, then: 
+
+^^[[Organization 1 Name]] will cease the manufacture of Products and will terminate any unfilled orders with third parties that [[Organization 1 Name]] may have previously submitted with respect to Components, to the extent such orders may be terminated or revoked; 
+
+^^Client will (i) take delivery of and pay for any undelivered Products, at the Price in effect at the time the order for such Products was placed, and (ii) take delivery of any unused Active Materials. [[Organization 1 Name]] will cooperate with Client in the surrender, delivery and transfer of these items as promptly as is commercially reasonable, with any shipping and related expenses to be borne by Client; 
+
+^^Client will purchase, at [[Organization 1 Name]]’s out-of-pocket costs (including all such costs incurred by [[Organization 1 Name]] for the purchase and handling of the Inventory), the Inventory applicable to the Products which was purchased, produced or maintained by [[Organization 1 Name]] in contemplation of filling Firm Orders or in accordance with Section 5.2 prior to notice of termination being given; 
+
+^^Client will satisfy the purchase price payable under [[Organization 1 Name]]’s non-cancellable orders with suppliers of Components, if the orders were made by [[Organization 1 Name]] prior to notice of termination being given and in reliance on Firm Orders or in accordance with Section 5.2; 
+
+^^Client will purchase from [[Organization 1 Name]] any existing work-in-process held by [[Organization 1 Name]], at a price to be mutually agreed in good faith. But if Client terminates this Agreement under Section 8.3(a), Client, at its option, may purchase from [[Organization 1 Name]] any existing work-in-progress held by [[Organization 1 Name]], at a price to be mutually agreed in good faith. 
+
+^^Client will make [***] efforts, at its own expense, to remove from [[Organization 1 Name]] site(s), within [* * *] Business Days, all of Client’s Components, Inventory and Materials (whether current or obsolete), supplies, undelivered Product, chattels, capital equipment or other moveable property owned by Client, related to the Agreement and located at a [[Organization 1 Name]] site or that is otherwise under [[Organization 1 Name]]’s care and control **(“Client Property”**). If Client fails to remove the Client Property within [* * *] Business Days following the completion, termination, or expiration of the Agreement Client will pay [[Organization 1 Name]] $[* * *] per pallet, per [* * *], [* * *] [* * *] minimum ($[* * *] per pallet, per [* * *], [* * *] minimum, for any of the Client Property that contains controlled substances or requires refrigeration) thereafter for storing the Client Property and will assume any third party storage charges invoiced to [[Organization 1 Name]] regarding the Client Property. [[Organization 1 Name]] will invoice Client for the storage charges as set forth in Section 5.6 of this Agreement; and 
+
+^^upon the request of Client, and at Client’s expense, [[Organization 1 Name]] will provide such assistance as is reasonably necessary to assist Client in transferring the manufacture of the Product to another facility; provided, however, that Client acknowledges that no competitor of [[Organization 1 Name]] will be permitted access to the Manufacturing Site; and 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Any termination or expiration of this Agreement will not affect any outstanding obligations or payments due hereunder prior to the termination or expiration, nor will it prejudice any other remedies that the parties may have under this Agreement. For greater certainty, termination of this Agreement for any reason will not affect the obligations and responsibilities of the parties under Articles 10 and 11 and Sections 5.4, 5.5, 8.4, 13.1, 13.2, 13.3, and 13.15, all of which survive any termination. 
+
+\centered **REPRESENTATIONS, WARRANTIES AND COVENANTS** 
+
+^^**Authority.**
+
+Each party covenants, represents, and warrants that: 
+
+^^it has the full right and authority to enter into this Agreement, and that it is not aware of any impediment that would inhibit its ability to perform its obligations hereunder; 
+
+^^this Agreement has been duly executed and delivered by, and is a legal and valid obligation binding upon such party, subject to the effects of bankruptcy, insolvency, or other laws of general application affecting the enforcement of creditor rights and judicial principles affecting the availability of specific performance and general principles of equity, whether enforceability is considered a proceeding at law or equity; and 
+
+^^the entry into, the execution and delivery of, and the carrying out and other performance of its obligations under this Agreement by such party (i) does not conflict with, or contravene or constitute any default under, any agreement, instrument or understanding, oral or written, to which it is a party, including, but not limited to, its certificate of incorporation or by-laws, and (ii) does not violate Applicable Laws or any judgment, injunction, order or decree of any Authority having jurisdiction over it. 
+
+^^**Client Warranties.**
+
+Client covenants, represents, and warrants that: 
+
+^^Non-Infringement.
+
+^^^the Specifications for each of the Products are its or its Affiliate’s property and that Client may lawfully disclose the Specifications to [[Organization 1 Name]];
+
+^^^any Client Intellectual Property used by [[Organization 1 Name]] in performing the Manufacturing Services according to the Specifications is (A) owned or controlled by Client or its Affiliates, (B) may be lawfully used as directed by Client, and (C) to its knowledge does not infringe and will not infringe any Third Party Rights;
+
+^^^to the knowledge of Client, the performance of the Manufacturing Services by [[Organization 1 Name]] for any Product under this Agreement or the use or other disposition of any Product by [[Organization 1 Name]] as may be required to perform its obligations under this Agreement does not and will not infringe any Third Party Rights;
+
+^^^to the knowledge of Client, there are no actions or other legal proceedings, concerning the infringement of Third Party Rights related to any of the Specifications, or any of the Active Materials and the Components, or the sale, use, or other disposition of any Product made in accordance with the Specifications;
+
+^^Quality and Compliance.
+
+^^^the Specifications for all Products conform to all applicable cGMPs and Applicable Laws;
+
+^^^the Products, if labelled and manufactured in accordance with the Specifications and in compliance with applicable cGMPs and Applicable Laws (i) may be lawfully sold and distributed in every jurisdiction in which Client markets the Products, (ii) will be fit for the purpose intended, and (iii) will be safe for human consumption; and
+
+^^^on the date of shipment to [[Organization 1 Name]], the API will conform to the Specifications for the API that Client has given to [[Organization 1 Name]] and that the API will be adequately contained, packaged, and labelled and will conform to the affirmations of fact on the container.
+
+^^**[[Organization 1 Name]] Warranties.**
+
+[[Organization 1 Name]] covenants, represents, and warrants that: 
+
+^^it will perform the Manufacturing Services in accordance with the Specifications, cGMPs, and Applicable Laws; 
+
+^^any [[Organization 1 Name]] Intellectual Property used by [[Organization 1 Name]] to perform the Manufacturing Services (i) is [[Organization 1 Name]]’s or its Affiliate’s unencumbered property, (ii) may be lawfully used by [[Organization 1 Name]], and (iii) to its knowledge, does not infringe and will not infringe any Third Party Rights; 
+
+^^it has and will maintain throughout the term of this Agreement, the expertise, with respect to personnel and equipment, to fulfill the obligations established hereunder, and has obtained all requisite material licenses, authorizations and approvals required by all Authorities to manufacture the Products; 
+
+^^the Manufacturing Site, all other facilities, all equipment and all personnel to be employed by [[Organization 1 Name]] in rendering the Manufacturing Services are currently, and will be at the time each batch of Products is produced, qualified in accordance with all Applicable Laws, including, but not limited to, cGMPs; 
+
+^^there are no pending or uncorrected citations or adverse conditions noted in any inspection of the Manufacturing Site or any other facilities to be employed by [[Organization 1 Name]] in rendering the Manufacturing Services which would cause the Products to be misbranded or adulterated within the meaning of the Act, including, but not limited to, all cGMPs; 
+
+^^to the knowledge of [[Organization 1 Name]], the Manufacturing Services and the contributions of [[Organization 1 Name]] to the manufacture of the finished Product in accordance with this Agreement do not and will not infringe any Third Party Rights, except to the extent caused or contributed to by any breach of Client’s warranties under Section 9.2(a); 
+
+^^to the knowledge of [[Organization 1 Name]], there are no pending or threatened claims against [[Organization 1 Name]] asserting that any of the activities of [[Organization 1 Name]] relating to the manufacture, import, use, or sale of pharmaceutical products, or the conduct of the activities contemplated herein by Client, infringe, misappropriate, or violate any Third Party Rights; 
+
+^^all employees, consultants, subcontractors and agents performing services for [[Organization 1 Name]] hereunder have assigned, or will assign, in writing to [[Organization 1 Name]] all of their right, title and interest in, to and under any and all Inventions directly relating to the Product; 
+
+^^all Product manufactured and supplied to the Client under this Agreement will not be adulterated or misbranded within the meaning of the Act or other Applicable Laws as of the time that the finished Product is transferred to the carrier at [[Organization 1 Name]]’s shipping point; and 
+
+^^all Product manufactured and supplied to the Client under this Agreement will have the minimum Shelf Life specified for such Product in the Specifications and, in any event, will be shipped to the Client promptly (and in any event not more than three months) after the date of its manufacture. 
+
+^^**Debarred Persons.**
+
+[[Organization 1 Name]] covenants that it will not in the performance of its obligations under this Agreement use the services of any person debarred or suspended under 21 U.S.C. §335(a) or (b). [[Organization 1 Name]] represents that it does not currently have, and covenants that it will not hire, as an officer or an employee any person who has been convicted of a felony under the laws of the United States for conduct relating to the regulation of any drug product under the Act. 
+
+^^**Permits.**
+
+Client will be solely responsible for obtaining or maintaining, on a timely basis, any permits or other regulatory approvals for the Products or the Specifications, including, without limitation, all marketing and post-marketing approvals. 
+
+[[Organization 1 Name]] will maintain at all relevant times all governmental permits, licenses, approval, and authorities required to enable it to lawfully and properly perform the Manufacturing Services at the Manufacturing Site. 
+
+^^**No Warranty.**
+
+**EXCEPT AS SET FORTH IN THIS SECTION 9, NEITHER PARTY MAKES ANY WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, BY FACT OR LAW, OTHER THAN THOSE EXPRESSLY SET FORTH IN THIS AGREEMENT. [[Organization 1 Name]] MAKES NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR WARRANTY OF MERCHANTABILITY FOR THE PRODUCTS.** 
+
+^^**Confidential Treatment.**
+
+Client covenants that it will use commercially reasonable efforts to obtain confidential treatment of certain mutually agreed upon terms of this Agreement pursuant to Rule 24b-2 promulgated by the Securities and Exchange Commission (the “SEC”) under the Securities Exchange Act of 1934, as amended. Client will give [[Organization 1 Name]] a reasonable opportunity to review and comment upon the requested confidential treatment of this Agreement prior to filing with the SEC. 
+
+\centered **REMEDIES AND INDEMNITIES** 
+
+^^**Consequential Damages.**
+
+Under no circumstances whatsoever will either party be liable to the other in contract, tort, negligence, breach of statutory duty, or otherwise for (i) any (direct or indirect) loss of profits, of production, of anticipated savings, of business, or goodwill or (ii) for any other liability, damage, costs, or expense of any kind incurred by the other party of an indirect or consequential nature, regardless of any notice of the possibility of these damages. 
+
+^^**Limitation of Liability.**
+
+^^Active Materials. Except as expressly set forth in Section 2.2 and Article 6, under no circumstances will [[Organization 1 Name]] be responsible for any loss or damage to the Active Materials. [[Organization 1 Name]]’s maximum responsibility for loss or damage to the Active Materials will not exceed [***] set forth in Schedule D. 
+
+^^Maximum Annual Liability. Except for any liability arising under Section 2.2.4 for a Casualty Loss or under Section 10.3, [[Organization 1 Name]]’s maximum liability to Client under this Agreement [* * *], for any reason whatsoever, including, without limitation, any liability arising under Article 6 hereof or resulting from any and all breaches of its representations, warranties, or any other obligations under this Agreement will not exceed [* * *] the [* * *] of (i) $[* * *] USD or (ii) [* * *]% of [[Organization 1 Name]]’s revenues received pursuant to this Agreement, up to a maximum amount of $[* * *] USD in the aggregate*.* 
+
+^^**[[Organization 1 Name]].**
+
+[[Organization 1 Name]] agrees to defend, indemnify, and hold Client, its officers, employees, and agents harmless against any and all losses, damages, costs, claims, demands, judgments and liability to, from and/or in favour of third parties (other than Affiliates) resulting from, or relating to (i) a failure by [[Organization 1 Name]] to perform the Manufacturing Services in accordance with the Specifications, cGMPs, or Applicable Laws, or (ii) any other breach of this Agreement by [[Organization 1 Name]], including, without limitation, any representation, warranty or covenant contained herein, except to the extent that the losses, damages, costs, claims, demands, judgments, and liability are due to the negligence or wrongful act(s) of Client, its officers, employees, agents, or Affiliates. 
+
+^^**Client.**
+
+Client agrees to defend, indemnify, and hold [[Organization 1 Name]], its officers, employees, and agents harmless against any and all losses, damages, costs, claims, demands, judgments and liability to, from and in favour of third parties (other than Affiliates) resulting from, or relating to (i) any claim of infringement or alleged infringement of any Third Party Rights in the Products, or any portion thereof, or (ii) any claim of personal injury or property damage to the extent that the injury or damage is the result of a breach of this Agreement by Client, including, without limitation, any representation, warranty or covenant contained herein, except to the extent that the losses, damages, costs, claims, demands, judgments, and liability are due to the negligence or wrongful act(s) of [[Organization 1 Name]], its officers, employees, or agents. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Indemnification Procedure**
+
+If a claim occurs for which a party has an indemnification obligation under Section 10.3 or 10.4, the indemnified party (the “**Indemnitee**”) will: (a) promptly notify the indemnifying party (the “**Indemnitor**”) in writing of the claim; (b) use [***] efforts to mitigate the effects of the claim; (c) reasonably cooperate with the Indemnitor in the defense of the claim; and (d) permit the Indemnitor to control the defense and settlement of the claim, with counsel reasonably satisfactory to the Indemnitee, all at the Indemnitor’s cost and expense. If the Indemnitor assumes the defense of the claim, the Indemnitee may participate in such defense with the Indemnitee’s own counsel who will be retained, at the Indemnitee’s sole cost and expense; provided, however, that neither the Indemnitor nor the Indemnitee will consent to the entry of any judgment or enter into any settlement with respect to the claim without the prior written consent of the other party, which consent will not be unreasonably withheld or delayed. If the Indemnitee withholds consent in respect of a judgment or settlement involving only the payment of money by the Indemnitor and which would not involve any stipulation or admission of liability or result in the Indemnitee becoming subject to injunctive relief or other relief, the Indemnitor will have the right, upon written notice to the Indemnitee within [* * *] days after receipt of the Indemnitee’s written denial of consent, to pay to the Indemnitee, or to a trust for its or the applicable third party’s benefit, such amount established by such judgment or settlement in addition to all interest, costs or other charges relating thereto, together with all attorneys’ fees and expenses incurred to such date for which the Indemnitor is obligated under this Agreement, if any, at which time the Indemnitor’s rights and obligations with respect to such claim will cease. The Indemnitor will not be liable for any settlement or other disposition of a claim by the Indemnitee which is reached without the written consent of the Indemnitor. 
+
+^^**Reasonable Allocation of Risk.**
+
+This Agreement (including, without limitation, this Article 10) is reasonable and creates a reasonable allocation of risk for the relative profits the parties each expect to derive from the Products. [[Organization 1 Name]] assumes only a limited degree of risk arising from the manufacture, distribution, and use of the Products because Client has developed and holds the marketing approval for the Products, Client requires [[Organization 1 Name]] to manufacture and label the Products strictly in accordance with the Specifications, cGMPs and Applicable Law, and Client, not [[Organization 1 Name]], is best positioned to inform and advise potential users about the circumstances and manner of use of the Products. 
+
+\centered **CONFIDENTIALITY** 
+
+^^**Confidentiality.**
+
+The Confidentiality Agreement will apply to all Confidential Information disclosed by the parties under this Agreement. If the Confidentiality Agreement expires or is terminated prior to the expiration or termination of this Agreement, the terms of the Confidentiality Agreement will continue to govern the parties’ obligations of confidentiality for any Confidential Information disclosed by the parties hereunder, for the term of this Agreement and seven years thereafter, as though the Confidentiality Agreement remained in full force and effect. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **DISPUTE RESOLUTION** 
+
+^^**Commercial Disputes.**
+
+If any dispute arises out of this Agreement (other than a dispute under Section 6.1(b) or a Technical Dispute, as defined herein), the parties will first try to resolve it amicably. In that regard, any party may send a notice of dispute to the other, and each party will appoint, within [***] Business Days from receipt of the notice of dispute, a single representative having full power and authority to solve the dispute. The representatives will meet as necessary in order to resolve the dispute. If the representatives fail to resolve the matter within [* * *] from their appointment, or if a party fails to appoint a representative within the [* * *] Business Day period set forth above, the dispute will immediately be referred to the Chief Operating Officer, or in the absence of such officer, the Chief Executive Officer (or another officer as he/she may designate) of each party who will meet and discuss as necessary to try to resolve the dispute amicably. Should the parties fail to reach a resolution under this Section 12.1, the dispute will be referred to a court of competent jurisdiction in accordance with Section 13.15. 
+
+^^**Technical Dispute Resolution.**
+
+If a dispute arises (other than disputes under Sections 6.1(b) or 12.1) between the parties that is exclusively related to technical aspects of the manufacturing, packaging, labelling, quality control testing, handling, storage, or other activities under this Agreement (a “**Technical Dispute**”), the parties will make all reasonable efforts to resolve the dispute by amicable negotiations. In that regard, senior representatives of each party will, as soon as practicable and in any event no later than [* * *] Business Days after a written request from either party to the other, meet in good faith to resolve any Technical Dispute. If, despite this meeting, the parties are unable to resolve a Technical Dispute within a reasonable time, and in any event within [* * *] Business Days of the written request, the Technical Dispute will, at the request of either party, be referred for determination to an expert in accordance with Schedule D. If the parties cannot agree that a dispute is a Technical Dispute, Section 12.1 will prevail. For greater certainty, the parties agree that the release of the Products for sale or distribution under the applicable marketing approval for the Products will not by itself indicate compliance by [[Organization 1 Name]] with its obligations for the Manufacturing Services and further that nothing in this Agreement (including Schedule D) will remove or limit the authority of the relevant qualified person (as specified by the Quality Agreement) to determine whether the Products are to be released for sale or distribution. 
+
+\centered **MISCELLANEOUS** 
+
+^^**Inventions.**
+
+^^For the term of this Agreement, Client hereby grants to [[Organization 1 Name]] a non-exclusive, paid-up, royalty-free, non-transferable and non-sub licensable license of Client’s Intellectual Property which [[Organization 1 Name]] must use in order to perform the Manufacturing Services. 
+
+^^All Inventions and Intellectual Property generated or derived by [[Organization 1 Name]] while performing the Manufacturing Services, to the extent it is specific to the development, manufacture, use, and sale of Client’s Product or Active Materials that are the subject of the Manufacturing Services (including, but not limited to, any new use, new formulation or any change in the method of producing, testing or storing any Product), will be the exclusive property of Client. [[Organization 1 Name]] will execute such instruments as will be required to evidence or effectuate the Client’s ownership of any such Inventions or other Intellectual Property, and will cooperate upon reasonable request in the prosecution of patents and other Intellectual Property rights related thereto. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^All [[Organization 1 Name]] Intellectual Property will be the exclusive property of [[Organization 1 Name]]. [[Organization 1 Name]] hereby grants to Client a worldwide perpetual, irrevocable, non-exclusive, paid-up, royalty-free, transferable and sub licensable license to use the [[Organization 1 Name]] Intellectual Property used by [[Organization 1 Name]] to perform the Manufacturing Services to enable Client to manufacture and have manufactured the Product(s) and to use, import, export, offer to sell, and sell the same, with full right to sublicense to any third party in connection with the manufacture, sale or distribution of the Product. 
+
+^^Each party will be solely responsible for the costs of filing, prosecution, and maintenance of patents and patent applications on its own Inventions. 
+
+^^Either party will give the other party written notice, as promptly as practicable, of all Inventions which can reasonably be deemed to constitute improvements or other modifications of the Products or processes or technology owned or otherwise controlled by the party. 
+
+^^**Intellectual Property.**
+
+Subject to Section 13.1, all Client Intellectual Property will be owned by Client and all [[Organization 1 Name]] Intellectual Property will be owned by [[Organization 1 Name]]. Neither party has, nor will it acquire, any interest in any of the other party’s Intellectual Property unless otherwise expressly agreed to in writing. Neither party will use any Intellectual Property of the other party, except as specifically authorized by the other party or as required for the performance of its obligations under this Agreement. Each party hereby acknowledges that it does not have, and will not acquire any interest in any of the other party’s trademarks or trade names unless otherwise expressly agreed. Each party agrees not to use any trademarks or trade names of the other party, except as specifically authorized by the other party in writing both as to the names or marks which may be used and as to the manner and prominence of use. All goodwill in any trademarks will inure to the benefit of the trademark owner. Client, in its sole discretion, will determine the trademarks and trade names owned or licensed by Client to be used in connection with the Products, including without limitation, the trademarks and trade names which will appear on the labels, packaging, and any promotional or other materials related to the Products. [[Organization 1 Name]] will use those trademarks and trade names notified by Client to [[Organization 1 Name]] for use in the labelling and packaging of the Products, and [[Organization 1 Name]] will use only such notified trademarks and trade names for such purpose. Upon expiration or termination of this Agreement, [[Organization 1 Name]] will immediately cease using all of Client’s trademarks and trade names. 
+
+^^**Insurance.**
+
+Each party will maintain commercial general liability insurance, including contractual liability insurance covering the obligations of that party under this Agreement through the term of this Agreement and for a period of three years thereafter. This insurance will have policy limits of not less than (i) $[***] for each occurrence for personal injury or property damage liability; and (ii) $[* * *] in the aggregate per annum for product and completed operations liability. If requested each party will give the other a certificate of insurance evidencing the above and showing the name of the issuing company, the policy number, the effective date, the expiration date, and the limits of liability. The insurance certificate will further provide for a minimum of [* * *] days’ written notice to the insured of a cancellation of the insurance. If a party is unable to maintain the insurance policies required under this Agreement through no fault of its own, then the party will forthwith notify the other party in writing and the parties will in good faith negotiate appropriate amendments to the insurance provision of this Agreement in order to provide adequate assurances. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Independent Contractors.**
+
+The parties are independent contractors and this Agreement will not be construed to create between [[Organization 1 Name]] and Client any other relationship such as, by way of example only, that of employer-employee, principal agent, joint-venturer, co-partners, or any similar relationship, the existence of which is expressly denied by the parties. 
+
+^^**No Waiver.**
+
+Either party’s failure to require the other party to comply with any provision of this Agreement will not be deemed a waiver of the provision or any other provision of this Agreement, with the exception of Sections 6.1 and 8.3. No waiver will be effective unless made in writing and signed by the waiving party. 
+
+^^**Assignment.**
+
+^^[[Organization 1 Name]] may not assign this Agreement or any of its rights or obligations hereunder without the written consent of Client, this consent not to be unreasonably withheld. But [[Organization 1 Name]] may arrange for subcontractors to perform specific testing services arising under this Agreement without the consent of Client; provided, however, that [[Organization 1 Name]] will provide advance notice of the name and function of any such subcontractor and will ensure such subcontractor’s adherence to the terms of this Agreement, including, but not limited to, the obligations of confidentiality set forth in Article 11. 
+
+^^Subject to Section 8.3(d), Client may assign this Agreement or any of its rights or obligations hereunder without approval from [[Organization 1 Name]]. But Client will give [[Organization 1 Name]] prior written notice of any assignment (where and to the extent possible), any assignee will covenant in writing with [[Organization 1 Name]] to be bound by the terms of this Agreement, and Client will remain liable hereunder. Any partial assignment will be subject to [[Organization 1 Name]]’s cost review of the assigned Products and [[Organization 1 Name]] may terminate this Agreement or any assigned part thereof, on [***] months’ prior written notice to Client and the assignee if good faith discussions do not lead to agreement on amended Manufacturing Service fees within a reasonable time. 
+
+^^Despite the foregoing provisions of this Section 13.6, (i) either party may assign this Agreement without the other party’s consent to any of its Affiliates or to a successor to or purchaser of all or substantially all of it business, (ii) Client may assign this Agreement without [[Organization 1 Name]]’s consent to a successor to or purchaser of all or substantially all of it assets or business to which this Agreement relates, but in each case (i) and (ii), the assignee must execute an agreement with the non-assigning party whereby it agrees to be bound hereunder. 
+
+^^**Force Majeure.**
+
+Neither party will be liable for the failure to perform its obligations under this Agreement if the failure is caused by an event beyond that party’s reasonable control and not reasonably preventable by such party, including, but not limited to, strikes or other labor disturbances, lockouts, riots, quarantines, communicable disease outbreaks, wars, acts of terrorism, fires, floods, storms, interruption of or delay in transportation, defective equipment, lack of or inability to obtain fuel, power or components, or compliance with any order or regulation of any government entity acting within colour of right (a “**Force Majeure Event**”). A party claiming a right to excused performance under this Section 13.7 will immediately notify the other party in writing of the extent of its inability to perform, which notice will specify the event that prevents the performance. Notwithstanding the foregoing, such party will be excused by reason of the Force Majeure Event only so long as it is exercising commercially reasonable efforts to overcome such event. Neither party will be entitled to rely on a Force Majeure Event to relieve it from an obligation to pay money (including any interest for delayed payment) which would otherwise be due and payable under this Agreement. Notwithstanding the foregoing, if a Force Majeure Event prevents a party’s performance under this Agreement for an aggregate of [***] days, the other party may terminate this Agreement upon written notice to the non-performing party. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^**Additional Product.**
+
+Additional products may be added to this Agreement and the additional products will be governed by the general conditions hereof with any special terms (including, without limitation, price) governed by executed amendments to Schedules A, B, and C as applicable. 
+
+^^**Notices.**
+
+Any notice, approval, instruction or other written communication required or permitted hereunder will be sufficient if made or given to the other party by personal delivery, by telecopy, facsimile communication, or confirmed receipt email or by sending the same by first class mail, postage prepaid to the respective addresses, telecopy or facsimile numbers or electronic mail addresses set forth below: 
+
+If to Client: 
+
+[[Organization 2 Name]] 
+
+[[Address 3: Address]] 
+
+Attention: Senior Vice President of Technical Operations 
+
+Telephone Number: [[Phone 1]] 
+
+Facsimile Number: [[Phone 2]] 
+
+Email address: [[Email 1]] 
+
+With a copy to: 
+
+[[Organization 2 Name]] 
+
+[[Address 3: Address]] 
+
+Attention: General Counsel 
+
+Telephone Number: [[Phone 1]] 
+
+Facsimile Number: [[Phone 2]] 
+
+Email address: [[Email 2]] 
+
+With an additional copy to (which will not by itself constitute notice): 
+
+[[Organization 3 Name]] LLP 
+
+12636 High Bluff Drive, Suite 400 
+
+[[Address 4: Address]] 
+
+Attention: [[Person 1 First Name]] [[Person 1 Last Name]], Esq. 
+
+Telephone Number: [[Phone 3]] 
+
+Facsimile Number: [[Phone 4]] 
+
+Email address: [[Email 3]] 
+
+If to [[Organization 1 Name]]: 
+
+[[Organization 1 Name]] 
+
+[[Address 5: Address]]-1625 
+
+Attention: Director of Legal Services 
+
+Telecopier No.: [[Phone 5]] 
+
+Email address: [[Email 4]] 
+
+With a copy to: 
+
+[[Organization 1 Name]] 
+
+4721 Emperor Boulevard 
+
+Research Triangle Park, 
+
+NC 27703 
+
+Attention: General Counsel 
+
+Telecopier No.: [[Phone 6]] 
+
+Email address: [[Email 5]] 
+
+or to any other addresses, telecopy or facsimile numbers or electronic mail addresses given to the other party in accordance with the terms of this Section 13.9. Notices or written communications made or given by personal delivery, telecopy, facsimile, or electronic mail will be deemed to have been sufficiently made or given when sent (receipt acknowledged), or if mailed, five days after being deposited in the United States, Canada, or European Union mail, postage prepaid or upon receipt, whichever is sooner. 
+
+^^**Severability.**
+
+If any provision of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal, or unenforceable in any respect, that determination will not impair or affect the validity, legality, or enforceability of the remaining provisions hereof, because each provision is separate, severable, and distinct. 
+
+^^**Entire Agreement.**
+
+This Agreement, together with the Quality Agreement and the Confidentiality Agreement, constitutes the full, complete, final and integrated agreement between the parties relating to the subject matter hereof and supersedes all previous written or oral negotiations, commitments, agreements, transactions, or understandings concerning the subject matter hereof. Any modification, amendment, or supplement to this Agreement must be in writing and signed by authorized representatives of both parties. In case of conflict, the prevailing order of documents will be this Agreement, the Quality Agreement, and the Confidentiality Agreement. 
+
+^^**Other Terms.**
+
+No terms, provisions or conditions of any purchase order or other business form or written authorization used by Client or [[Organization 1 Name]] will have any effect on the rights, duties, or obligations of the parties under or otherwise modify this Agreement, regardless of any failure of Client or [[Organization 1 Name]] to object to the terms, provisions, or conditions unless the document specifically refers to this Agreement and is signed by both parties. 
+
+^^**No Third Party Benefit or Right.**
+
+For greater certainty, nothing in this Agreement will confer or be construed as conferring on any third party any benefit or the right to enforce any express or implied term of this Agreement. 
+
+^^**Execution in Counterparts.**
+
+This Agreement may be executed in two or more counterparts, by original or facsimile signature, each of which will be deemed an original, but all of which together will constitute one and the same instrument. 
+
+^^**Use of Client Name.**
+
+[[Organization 1 Name]] will not make any use of Client’s name, trademarks or logo or any variations thereof, alone or with any other word or words, without the prior written consent of Client, which consent will not be unreasonably withheld. Despite this, Client agrees that [[Organization 1 Name]] may include Client’s name and logo in customer lists or related marketing and promotional material for the purpose of identifying users of [[Organization 1 Name]]’s Manufacturing Services.
+
+^^**Governing Law.**
+
+This Agreement will be construed and enforced in accordance with the laws of the State of New York, excluding its conflicts of law provisions, and the laws of the United States of America applicable therein and subject to the exclusive jurisdiction of the courts thereof. The UN Convention on Contracts for the International Sale of Goods will not apply to this Agreement. 
+
+\centered [Signature Page Follows] 
+
+IN WITNESS WHEREOF, the duly authorized representatives of the parties have executed this Agreement as of the date first written above. 
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+**[[Organization 2 Name]]**
+
+[[[[Organization 4 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]]. Entity => By: [[[[Organization 4 Name]]. Signatory First Name]] [[[[Organization 4 Name]]. Signatory Last Name]]
+Title: [[[[Organization 4 Name]]. Signatory Title]]}}
+
+
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
+
+
+\centered **SCHEDULE A** 
+
+\centered **PRODUCT LIST AND SPECIFICATIONS** 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[* * *] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[* * *] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **SCHEDULE B** 
+
+\centered **Product Pricing** 
+
+[***] 
+
+**[* * *]**      \centered **[* * *]**      \centered **[* * *]**
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+
+[* * *] 
+
+**[* * *]**      \centered **[* * *]**      \centered **[* * *]**
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+
+[* * *] 
+
+[* * *] 
+
+**[* * *]**      \centered **[* * *]**      \centered **[* * *]**
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+\centered **[* * *]**
+[* * *]  [* * *]  [* * *]  [* * *]  [* * *]  [* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+**[* * *]** 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **SCHEDULE C** 
+
+\centered **ACTIVE MATERIALS** 
+
+\centered **[***]**
+[* * *]
+[* * *]
+
+\centered [* * *] 
+
+[* * *] 
+
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]
+
+\centered [* * *] 
+
+[* * *] 
+
+[* * *]      [* * *]
+[* * *]      [* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **SCHEDULE D** 
+
+\centered **TECHNICAL DISPUTE RESOLUTION** 
+
+Technical Disputes which cannot be resolved by negotiation as provided in Section 12.2 will be resolved in the following manner: 
+
+^**Appointment of Expert**. Within [***] Business Days after a party requests under Section 12.2 that an expert be appointed to resolve a Technical Dispute, the parties will jointly appoint a mutually acceptable expert with experience and expertise in the subject matter of the dispute. If the parties are unable to so agree within the [* * *] Business Day period, or in the event of disclosure of a conflict by an expert under Paragraph 2 hereof which results in the parties not confirming the appointment of the expert, then an expert (willing to act in that capacity hereunder) will be appointed by an experienced arbitrator on the roster of the American Arbitration Association. 
+
+^**Conflicts of Interest**. Any person appointed as an expert will be entitled to act and continue to act as an expert even if at the time of his appointment or at any time before he gives his determination, he has or may have some interest or duty which conflicts or may conflict with his appointment if before accepting the appointment (or as soon as practicable after he becomes aware of the conflict or potential conflict) he fully discloses the interest or duty and the parties will, after the disclosure, have confirmed his appointment. 
+
+^**Procedure**. Where an expert is appointed: 
+
+^^Timing. The expert will be so appointed on condition that (i) he promptly fixes a reasonable time and place for receiving representations, submissions or information from the parties and that he issues the authorizations to the parties and any relevant third party for the proper conduct of his determination and any hearing and (ii) he renders his decision (with full reasons) within [* * *] Business Days (or another other date as the parties and the expert may agree) after receipt of all information requested by him under Paragraph 4(b) hereof.
+
+^^Disclosure of Evidence. The parties undertake one to the other to give to any expert all the evidence and information within their respective possession or control as the expert may reasonably consider necessary for determining the matter before him which they will disclose promptly and in any event within [* * *] Business Days of a written request from the relevant expert to do so.
+
+^^Advisors. Each party may appoint any counsel, consultants and advisors as it feels appropriate to assist the expert in his determination and so as to present their respective cases so that at all times the parties will co-operate and seek to narrow and limit the issues to be determined.
+
+^^Appointment of New Expert. If within the time specified in Paragraph 4(a) above the expert will not have rendered a decision in accordance with his appointment, a new expert may (at the request of either party) be appointed and the appointment of the existing expert will thereupon cease for the purposes of determining the matter at issue between the parties save this if the existing expert renders his decision with full reasons prior to the appointment of the new expert, then this decision will have effect and the proposed appointment of the new expert will be withdrawn.
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+^^Final and Binding. The determination of the expert will, except for fraud or manifest error, be final and binding upon the parties.
+
+^^Costs. Each party will bear its own costs for any matter referred to an expert hereunder and, in the absence of express provision in the Agreement to the contrary, the costs and expenses of the expert will be borne by the losing party.
+
+For greater certainty, the release of the Products for sale or distribution under the applicable marketing approval for the Products will not by itself indicate compliance by [[Organization 1 Name]] with its obligations for the Manufacturing Services and further that nothing in this Agreement (including this Schedule D) will remove or limit the authority of the relevant qualified person (as specified by the Quality Agreement) to determine whether the Products are to be released for sale or distribution. 
+
+\centered **SCHEDULE E** 
+
+\centered **Capital Requirements** 
+
+[ * **] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[* * *] 
+
+**[* * *]**      \centered **[* * *]**      \centered **[* * *]**      \centered **[* * *]**
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[***] 
+
+**[* * *]**      \centered **[* * *]**      \centered **[* * *]**      \centered **[* * *]**
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]      [* * *]
+[* * *]      [* * *]      [* * *]      [* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **SCHEDULE F** 
+
+\centered **MONTHLY ACTIVE MATERIALS INVENTORY REPORT** 
+
+TO:   [[Organization 2 Name]]
+
+FROM:   [[Organization 1 Name]] /[[Organization 1 Name]]
+
+RE:   Active Materials monthly inventory report under Section 2.2.1 of the Manufacturing Services Agreement dated [[Date 1]] (the “Agreement”)
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+Capitalized terms used in this report have the meanings given to the terms in the Agreement. 
+
+[[Organization 1 Name]] /[[Organization 1 Name]] DATE: 
+
+Per: 
+
+Name: 
+
+Title: 
+
+[* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **SCHEDULE G** 
+
+\centered **REPORT OF ANNUAL ACTIVE MATERIALS INVENTORY RECONCILIATION AND CALCULATION** 
+
+\centered **OF ACTUAL ANNUAL YIELD** 
+
+TO:   [[Organization 2 Name]]
+
+FROM:   [[Organization 1 Name]] /[[Organization 1 Name]]
+
+RE:   Active Materials annual inventory reconciliation report and calculation of Actual Annual Yield under Section 2.2.1 of the Manufacturing Services Agreement dated [[Date 1]] (the “Agreement”)
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *] 
+
+[* * *]
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+[* * *] . 
+
+Capitalized terms used in this report have the meanings given to the terms in the Agreement. 
+
+DATE: 
+
+[[Organization 1 Name]] /[[Organization 1 Name]] 
+
+Per: 
+
+Name: 
+
+Title: 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+\centered **SCHEDULE H (Reserved)**

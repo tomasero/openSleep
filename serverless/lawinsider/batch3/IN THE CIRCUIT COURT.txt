@@ -1,0 +1,58 @@
+()
+
+Telephone:   ()
+Facsimile:   ()
+
+Attorney for [[Organization 1 Name]]
+
+\centered **IN THE CIRCUIT COURT OF COOK COUNTY, ILLINOIS**
+
+\centered **FIRST MUNICIPAL DISTRICT**
+
+\centered **COUNTY DEPARTMENT – LAW DIVISION**
+
+[[Organization 1 Name]], an Illinois limited liability company, Plaintiff, vs. [[Organization 2 Name]], a Nevada corporation, Defendant.      ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )      **JUDGMENT BY CONFESSION** Case No. Judge
+
+Pursuant to 735 ILCS 5/2-1301(c) and the affidavit of counsel for [[Organization 1 Name]], an Illinois limited liability company, its successors or assigns (“[[Organization 1 Name]]”), the Court hereby enters judgment against [[Organization 2 Name]], a Nevada corporation (“Defendant”), as follows:
+
+^Defendant failed to comply with the terms of that certain Convertible Secured 
+
+Promissory Note dated [[Date 1: Date]], made by Defendant in favor of [[Organization 1 Name]] and executed in Cook County, Illinois, attached hereto as **Exhibit A** (the “Note”), in that Defendant failed to make a required payment or payments thereunder.
+
+^By virtue of Defendant’s default and violation of the Note, judgment in favor of [[Organization 1 Name]] is hereby entered against Defendant in the amount of $[[USD Value 1: Number]], plus costs and accrued and unpaid interest, **less any payments previously made by Defendant**, which net amount is $________________ (the “Judgment Amount”).
+
+^Interest shall accrue on the Judgment Amount at the rate of eighteen percent ([[Percentage 1: Number]]%) per annum until all amounts due under the terms of this Judgment by Confession are paid to [[Organization 1 Name]].
+
+^It is agreed that this Judgment by Confession shall not be filed or recorded by [[Organization 1 Name]] unless and until Defendant fails to pay amounts due, when due, under the Note.
+
+DATED this ____day of ___________, 20___.
+
+[[DATED this day of  20. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DATED this day of  20. Entity => By: [[DATED this day of  20. Signatory First Name]] [[DATED this day of  20. Signatory Last Name]]
+Title: [[DATED this day of  20. Signatory Title]]}}
+
+First Municipal District Court Judge
+
+\centered CONSENT TO ENTRY OF JUDGMENT BY CONFESSION
+
+COUNTY   )
+) ss.
+STATE OF   )
+
+Defendant, [[Organization 2 Name]], a Nevada corporation (“Defendant”), hereby knowingly and voluntarily waives service of process and consents to the entry of this Judgment by Confession at the request of counsel for [[Organization 1 Name]], an Illinois limited liability company, its successors or assigns (“[[Organization 1 Name]]”), if an Event of Default or a Liquidity Default (as those terms are defined in that certain Convertible Secured Promissory Note made by Defendant in favor of [[Organization 1 Name]] and dated of even date herewith (the “Note”)) occurs. The Judgment Amount (as defined in the Judgment by Confession) shall be all unpaid amounts accrued and owing under the Note at the time the Judgment by Confession is filed. [[Organization 1 Name]] agrees it will not file the Judgment by Confession unless and until an Event of Default or a Liquidity Default has occurred; **provided, however**, that upon an Event of Default or a Liquidity Event, [[Organization 1 Name]] shall be entitled to immediately file such Judgment by Confession in ex parte fashion. Counsel to [[Organization 1 Name]] shall provide the Court with an affidavit stating that Defendant has failed to abide by and satisfy the terms of the Note and stating the Judgment Amount.
+
+[[Organization 2 Name]]   
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+
+Subscribed and sworn to before me by on this day of [[Date 2: Date]].
+
+Notary Public
+
+\centered **EXHIBIT A**
+
+\centered **CONVERTIBLE SECURED PROMISSORY NOTE**

@@ -1,0 +1,229 @@
+^^^\centered **TENTH AMENDMENT TO CREDIT AGREEMENT**
+
+This TENTH AMENDMENT TO CREDIT AGREEMENT (the “Tenth Amendment”) dated [[Date 1: Date]], is by and among [[LEAF Financial]], a [[State of Formation: State]] [[Organization: EntityType]] (“LEAF Financial”), and [[Organization 1 Name]], [[Borrowers]], a [[State of Formation: State]] [[Organization: EntityType]] (“[[Organization 1 Name]]” and together with LEAF Financial, each individually a “Borrower” and individually and collectively, jointly and [[Party 3]], the “Borrowers”), the various financial institutions and other Persons parties hereto (the “Lenders”), and [[Organization 2 Name]], NATIONAL ASSOCIATION, a national banking association, as successor by merger to [[Organization 3 Name]], as administrative agent and collateral agent for the Lenders (in such capacity, the “Agent”).
+
+\centered **BACKGROUND**
+
+^Pursuant to that certain Credit Agreement dated [[Date 2: Date]], by and among the Borrowers, the Lenders, and the Agent, as amended by a First Amendment dated [[Date 3: Date]], a Second Amendment dated [[Date 4: Date]], a Third Amendment dated [[Date 5: Date]], a Fourth Amendment dated [[Date 6: Date]], a Fifth Amendment dated [[Date 7: Date]], a Sixth Amendment dated [[Date 8: Date]], a Seventh Amendment dated [[Date 9: Date]], an Eighth Amendment dated [[Date 10: Date]] and a Ninth Amendment dated [[Date 11: Date]] (as the same may be modified and amended from time to time, [[Borrowers]]luding by this Tenth Amendment, the “Credit Agreement”), the Lenders agreed, inter alia, to extend to the Borrowers a revolving credit facility in the current maximum aggregate pr[[Borrowers]]ipal amount of $[[USD Value 1: Number]]
+
+^The Borrowers have requested an amendment to the Credit Agreement, to which the Lenders are willing to agree, on the terms and subject to the conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the foregoing premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+^**Definitions**.  
+
+^^**General Rule**. Except as expressly set forth herein, all capitalized terms used and not defined herein shall have the respective meanings ascribed thereto in the Credit Agreement.
+
+^^**Additional Definition**. The following additional definition shall be added to Article 1 of the Credit Agreement to read in its entirety as follows:
+
+“**LAMI**” means [[Organization 4 Name]], a Delaware limited liability company, together with its successors and permitted assigns.
+
+“**Non-Equipment Receivables Contract**” means a Contract which evidence receivable financings secured by non-equipment collateral such as real estate.
+
+“**Tenth Amendment**” means the Tenth Amendment to this Agreement dated [[Date 1]].
+
+^^**Amended Definitions**. The following definitions in Article 1 of the Credit Agreement are hereby amended and restated to read in their entirety as follows:
+
+“**Borrowing Base**” means at any time the lesser of (a) eighty-seven and one half of one percent ([[Percentage 1: Number]]%) of the then Aggregate Net Present Value, and (b) one hundred percent ([[Percentage 2: Number]]%) of the Aggregate Original Net Equipment Cost; provided that, in performing such calculation, the Aggregate Net Present Value and Aggregate Original Net Equipment Cost shall be reduced by such amount as may be necessary in order that: (i) no more than an amount equal to five percent ([[Percentage 3: Number]]%) of the Aggregate Commitment is attributable to any single Lessee; (ii) no more than an amount equal to ten percent ([[Percentage 4: Number]]%) of the Aggregate Commitment is attributable to progress payments; (iii) none of either such amount is attributable to any Contract or Equipment the value of which has been used in six months or more of previous calculations of the Borrowing Base, except with respect to any Contract (and any related Equipment) with a payment period of not greater than 12 months from the date of the first scheduled payment thereunder, as to which, no more than an amount equal to twenty percent ([[Percentage 5: Number]]%) of the Aggregate Commitment is attributable to such Contracts (and any related Equipment); (iv) no more than an amount equal to five percent ([[Percentage 3]]%) of the Aggregate Commitment is attributable to Contracts whereby the related lessee is an Affiliate of any Borrower; and (v) no more than the following amounts are attributable to Non-Equipment Receivables Contracts: (A) $[[USD Value 2: Number]] on any date prior to [[Date 12: Date]]; (B) $[[USD Value 3: Number]] on any date on or after [[Date 12]] and prior to [[Date 13: Date]], or (C) $[[USD Value 8: Number]] on any date on or after [[Date 13]].
+
+“**Contract**” means (i) a lease, loan or contract for use, hire or purchase of equipment, (ii) a practice acquisition loan, (iii) an ultimate net loss loan, (iv) other commercial contracts such as service and maintenance agreements, or (v) a Non-Equipment Receivables Contract, together with any assignments thereof and any delivery and acceptance certificate therefor, any guaranties and amendments, addendums and other modifications thereto.
+
+“**Eligible Contract**” means a Contract owned by a Borrower that, as of any date of determination, complies with the covenants set forth in this Agreement and each of the following requirements:
+
+^^Such Contract originated in the ordinary course of a Borrower’s business and is not a Defaulted Contract;
+
+^^Such Contract is a legal, valid and binding full recourse payment obligation of the related Lessee enforceable in accordance with its terms (except as may be limited by applicable insolvency, bankruptcy, moratorium,
+
+reorganization, or other similar laws affecting enforceability of creditors’ rights generally and the availability of equitable remedies) and is in full force and effect, is not subject to any defense, counterclaim or right of setoff, and has not been satisfied, subordinated or rescinded;
+
+^^The initial stated term of such Contract is not greater than 63 months;
+
+^^With the exception of any Contracts with a Governmental Authority required by law to have provisions to the contrary, the Lessee’s obligations under such Contract are “hell or high water” obligations that are, among other characteristics, non-cancelable, unconditional and not subject to any right of set-off, rescission, counterclaim, offset, reduction or recoupment except that, upon making of a Casualty Payment under such Contract, the obligation of the related Lessee to make Lease Payments thereunder may be reduced accordingly;
+
+^^Such Contract contains provisions requiring the Lessee to pay all sales, use, excise, rental, property or similar taxes imposed on or with respect to any related Equipment and to assume all risk of loss, damage, or destruction of such Equipment, and such Contract requires the Lessee to maintain any related Equipment in good and workable order and to obtain and maintain liability insurance, physical damage insurance and liability insurance on such Equipment subject thereto and to name the lessor ([[Borrowers]]luding any private label lessor) or lender under the Contract as a loss payee and an additional insured with respect thereto;
+
+^^The pledge by a Borrower to the Agent of a security interest in such Contract and the related Equipment will not violate the terms or provisions of such Contract or any other agreement to which any Borrower is a party or by which it is bound;
+
+^^Such Contract has not been rewritten or amended, other than in accordance with the written policies and procedures of Borrowers and consistent with their past practice, such that the amount of any Contract Payment owing pursuant to the terms of such Contract has been decreased, or any other obligations of the Lessee under such Contract have been diminished, due to any payment default or delinquency or the related Lessee’s financial inability to make such payments;
+
+^^The related Lessee is not subject to any action in bankruptcy, receivership, reorganization, insolvency or other material adverse change in its condition (s[[Borrowers]]e entering into the Contract);
+
+^^All payments owing under such Contract are required to be made in Dollars;
+
+^^Such Contract provides for the acceleration of all Lease Payments thereunder upon default by the Lessee;
+
+^^Such Contract requires that, if an Event of Loss occurs, the related Lessee must take one of the following actions: (i) either (A) restore or repair the affected Equipment to good repair, condition and working order or (B) replace the Equipment with like equipment of the same or later model in good repair, condition and working order, and, in either case, continue to make Contract Payments on its regularly scheduled basis despite the occurrence of such Event of Loss; or (ii) make a lump sum payment in an amount that is not less than the then Net Present Value;
+
+^^Such Contract and the Equipment subject to such Contract are not subject to any Liens other than Permitted Liens;
+
+^^The Agent has a first priority perfected security interest in such Contract (subject only to Permitted Liens), and a complete Contract File for such Contract is maintained either (i) with a custodian who holds such Contract Files for the benefit of the Agent, or (ii) in the chief executive office of the Borrowers (or such other location as is owned or, to the extent subject to a satisfactory landlord waiver in favor of the Agent, leased by a Borrower), in a secure and fireproof filing cabinet clearly identifying the contents thereof as Collateral hereunder, pledged to the Agent.
+
+^^The Agent (directly or through a Borrower) has a first priority perfected security interest in any Equipment subject to a finance lease (to the extent such Equipment has, in the aggregate, an Original Net Equipment Cost of $[[USD Value 4: Number]] or more);
+
+^^The Lessee and each item of Equipment subject to such Contract are domiciled or located within the United States and Puerto Rico, as applicable; and
+
+^^Such Contract is eligible for financing under a CP Facility;
+
+provided that, compliance with paragraph (m) above is hereby waived for the first three (3) Business Days following acquisition of such Contract pursuant to a Financed Acquisition.
+
+“**Guaranty**” means the Guaranty and Suretyship Agreement executed and delivered by LAMI pursuant to the Tenth Amendment, as amended, supplemented, amended and restated or otherwise modified from time to time.
+
+“**Termination Date**” means the earliest of (a) [[Date 14: Date]], and (b) the date on which the Commitments are terminated in full or permanently reduced to zero pursuant to the terms of this Agreement.
+
+^**Amendment to Section 2.2 of the Credit Agreement**. Paragraph (b) of Section 2.2 of the Credit Agreement is hereby amended and restated in its entirety, to read as follows:
+
+^^**Mandatory Reductions**. To the extent not previously reduced pursuant to paragraph (a) above, to or below the following amount, the Aggregate Commitment shall be automatically and permanently reduced to (i) $[[USD Value 5: Number]] on [[Date 12]], and (ii) $[[USD Value 6: Number]] on [[Date 13]].
+
+^**Amendment to Section 9.3 of the Credit Agreement**. Section 9.3 of the Credit Agreement is hereby amended and restated in its entirety, to read as follows:
+
+^**Minimum Adjusted Tangible Net Worth**. The Borrowers will not permit Adjusted Tangible Net Worth as of the last day of any Rolling Period to be less than $[[USD Value 7: Number]] plus [[Percentage 6: Number]]% of the aggregate amount of Net [[Borrowers]]ome (without reduction for any loss in any Fiscal Quarter) for each Fiscal Quarter ending after [[Date 10]].
+
+^**Amendment to Section 10.15 of the Credit Agreement**. Section 10.15 of the Credit Agreement is hereby amended and restated in its entirety, to read as follows:
+
+^**Subordinated Debt**. The Borrowers will not, and will not permit any of their consolidated Subsidiaries to (a) prepay, redeem, repurchase or otherwise acquire for value any Subordinated Debt, or (b) make any pr[[Borrowers]]ipal, interest or other payments on any Subordinated Debt, whether or not, in any case, permitted (either expressly or by implication) by a Subordination Agreement.
+
+^**Representations and Warranties**. Each Borrower hereby represents and warrants to the Agent and each Lender that, as to such Borrower:
+
+^^**Representations**. each of the representations and warranties of such Borrower contained in the Credit Agreement and/or the other Credit Documents are true, accurate and correct in all material respects on and as of the date hereof as if made on and as of the date hereof, except to the extent such representation or warranty was made as of a specific date;
+
+^^**Power and Authority**. (i) such Borrower has the power and authority under the laws of its jurisdiction of organization and under its organizational documents to enter into and perform this Tenth Amendment and any other documents which the Lenders require such Borrower to deliver hereunder (this Tenth Amendment and any such additional documents delivered in connection with the Tenth Amendment are herein referred to as the “**Amendment Documents**”); and (ii) all actions, corporate or otherwise, necessary or appropriate for the due execution and full performance by the Borrower of this Tenth Amendment have been adopted and taken and, upon their execution, the Credit Agreement, as amended by this Tenth Amendment will constitute the valid and binding obligations of the Borrower enforceable in accordance with their respective terms (except as may be limited by applicable insolvency, bankruptcy, moratorium, reorganization, or other similar laws affecting enforceability of creditors’ rights generally and the availability of equitable remedies);
+
+^^**No Violations of Law or Agreements**. the making and performance of this Tenth Amendment will not violate any provisions of any law or regulation, federal, state, local, or foreign, or the organizational documents of such Borrower, or result in any breach or violation of, or constitute a default or require the obtaining of any consent under, any agreement or instrument by which such Borrower or its property may be bound;
+
+^^**No Default**. no Default or Event of Default has occurred and is continuing; and
+
+^^**No Material Adverse Effect**. no Material Adverse Effect has occurred s[[Borrowers]]e [[Date 15: Date]].
+
+^**Conditions to Effectiveness of Amendment**. This Tenth Amendment shall be effective upon the Agent’s receipt of the following, each in form and substance reasonably satisfactory to the Lenders:
+
+^^**Tenth Amendment**. this Tenth Amendment, duly executed by the Borrowers and the Lenders;
+
+^^**Guaranty and Security Agreement**. A Guaranty and Suretyship Agreement and a Security Agreement, each duly executed by [[Organization 4 Name]], a Delaware limited liability company (“LAMI”), together with a Secretary’s Certificate for LAMI and a good standing certificate with respect thereto;
+
+^^**Consent and Waivers**. copies of any consents or waivers necessary in order for the Borrowers to comply with or perform any of its covenants, agreements or obligations contained in any agreement, which are required as a result of the Borrowers’ execution of this Tenth Amendment, if any;
+
+^^**Extension Fees**. each Lender shall have been paid an extension fee by the Borrowers equal to thirty-three basis points ([[Percentage 7: Number]]%) of such Lender’s Revolving Loan Commitment as of the date of this Tenth Amendment;
+
+^^**Costs and Expenses**. all reasonable costs and expenses of the Agent in connection with the preparation and review of this Tenth Amendment, [[Borrowers]]luding, but not limited to, the reasonable fees, expenses and disbursements of counsel to the Agent; and
+
+^^**Other Documents and Actions**. such additional agreements, instruments, documents, writings and actions as the Lenders may reasonably request.
+
+^**No Waiver; Ratification**. The execution, delivery and performance of this Tenth Amendment shall not operate as a waiver of any right, power or remedy of the Agent or the Lenders under the Credit Agreement or any Credit Document, or constitute a waiver of any
+
+provision thereof. Except as expressly modified hereby, all terms, conditions and provisions of the Credit Agreement and the other Credit Documents shall remain in full force and effect and are hereby ratified and confirmed by any Borrower. Nothing contained herein constitutes an agreement or obligation by the Agent or any Lender to grant any further amendments to any of the Credit Documents.
+
+^**Acknowledgments**. To induce the Lenders to enter into this Tenth Amendment, each Borrower acknowledges, agrees, warrants, and represents that:
+
+^^**Acknowledgment of Obligations; Collateral; Waiver of Claims**. (i) the Credit Documents are valid and enforceable against, and all of the terms and conditions of the Credit Documents are binding on, the Borrowers; (ii) the liens and security interests granted to the Agent by the Borrowers pursuant to the Credit Documents are valid, legal and binding, properly recorded or filed and first priority perfected liens and security interests; and (iii) the Borrowers hereby waive any and all defenses, set-offs and counterclaims which they, whether jointly or [[Party 3]], may have or claim to have against the Agent or any Lender as of the date hereof; and
+
+^^**No Waiver of Existing Defaults**. no Default or Event of Default exists immediately before or immediately after giving effect to this Tenth Amendment. Nothing in this Tenth Amendment nor any communication between the Agent, any Lender, any Borrower or any of their respective officers, agents, employees or representatives shall be deemed to constitute a waiver of (i) any Default or Event of Default arising as a result of the foregoing representation proving to be false or [[Borrowers]]orrect in any material respect; or (ii) any rights or remedies which the Agent or any Lender has against any Borrower under the Credit Agreement or any other Credit Document and/or applicable law, with respect to any such Default or Event of Default arising as a result of the foregoing representation proving to be false or [[Borrowers]]orrect in any material respect.
+
+^**Binding Effect**. This Tenth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+^**Governing Law**. This Tenth Amendment and all rights and obligations of the parties hereunder shall be governed by and be construed and enforced in accordance with the laws of the internal laws of the Commonwealth of Pennsylvania.
+
+^**Headings**. The headings of the sections of this Tenth Amendment are inserted for convenience only and shall not be deemed to constitute a part of this Tenth Amendment.
+
+^**Counterparts**. This Tenth Amendment may be executed in any number of counterparts with the same affect as if all of the signatures on such counterparts appeared on one document and each counterpart shall be deemed an original.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Tenth Amendment to Credit Agreement to be executed under seal by their duly authorized officers, all as of the day and year first written above.
+
+[[LEAF Financial]]   
+
+[[LEAF Financial Signatory Email: Identity | Signature]]
+__________________________________________
+{{LEAF Financial Entity => By: [[LEAF Financial Signatory First Name]] [[LEAF Financial Signatory Last Name]]
+Title: [[LEAF Financial Signatory Title]]}}
+
+
+[[Organization 1 Name]], [[Borrowers]]   
+
+[[[[Organization 1 Name]] Borrowers Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Borrowers Entity => By: [[[[Organization 1 Name]] Borrowers Signatory First Name]] [[[[Organization 1 Name]] Borrowers Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Borrowers Signatory Title]]}}
+   
+Borrowers Signature Page 
+Tenth Amendment to Credit Agreement  
+
+[[Organization 2 Name]], NATIONAL ASSOCIATION, as successor by merger to [[Organization 3 Name]],
+
+as Agent, Swingline Lender and as a Lender
+
+[[As Agent Swingline Lender and as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Agent Swingline Lender and as a Lender Entity => By: [[As Agent Swingline Lender and as a Lender Signatory First Name]] [[As Agent Swingline Lender and as a Lender Signatory Last Name]]
+Title: [[As Agent Swingline Lender and as a Lender Signatory Title]]}}
+ 
+Agent Signature Page 
+Tenth Amendment to Credit Agreement 
+
+[[Organization 5 Name]], NEW YORK BRANCH   
+
+[[[[Organization 5 Name]] NEW YORK BRANCH Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] NEW YORK BRANCH Entity => By: [[[[Organization 5 Name]] NEW YORK BRANCH Signatory First Name]] [[[[Organization 5 Name]] NEW YORK BRANCH Signatory Last Name]]
+Title: [[[[Organization 5 Name]] NEW YORK BRANCH Signatory Title]]}}
+ 
+
+By: ________________________________ 
+
+Name: 
+
+Title:  
+Lender Signature Page 
+Tenth Amendment to Credit Agreement 
+
+SOVEREIGN BANK   
+
+[[SOVEREIGN BANK Signatory Email: Identity | Signature]]
+__________________________________________
+{{SOVEREIGN BANK Entity => By: [[SOVEREIGN BANK Signatory First Name]] [[SOVEREIGN BANK Signatory Last Name]]
+Title: [[SOVEREIGN BANK Signatory Title]]}}
+ 
+Lender Signature Page 
+Tenth Amendment to Credit Agreement 
+
+[[Organization 6 Name]], N.A.   
+
+By: ________________________________ 
+
+Name: 
+
+Title:  
+Lender Signature Page 
+Tenth Amendment to Credit Agreement 
+
+[[Organization 7 Name]]   
+
+By: ________________________________ 
+
+Name: 
+
+Title:  
+Lender Signature Page 
+Tenth Amendment to Credit Agreement 
+
+[[Organization 8 Name]], NATIONAL ASSOCIATION   
+
+[[[[Organization 8 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] Entity => By: [[[[Organization 8 Name]] Signatory First Name]] [[[[Organization 8 Name]] Signatory Last Name]]
+Title: [[[[Organization 8 Name]] Signatory Title]]}}
+
+Lender Signature Page 
+Tenth Amendment to Credit Agreement 
+
+\centered **Parent Consent and Reaffirmation**
+
+Each of the undersigned (the “Parents”) hereby consents to and joins in the terms of the foregoing Tenth Amendment to Credit Agreement (the “Tenth Amendment”) and ratifies, affirms, reaffirms and confirms all provisions of the Intercompany Subordination Agreement, dated [[Date 2]] (as amended and reaffirmed from time to time, collectively, the “Subordination Agreement”), for the benefit of the Agent and the Lenders, [[Borrowers]]luding, but not limited to, the jury trial waivers contained therein. Each Parent hereby certifies that: (i) the Subordination Agreement subordinates all Indebtedness of the Borrowers to the Agent (the “Parent Debt”) and the Lenders under the Credit Agreement (as amended through the date hereof); (ii) there exists no defenses, offsets or counterclaims to such Parent’s obligations under the Subordination Agreement as of the date hereof; and (iii) no defaults exist under the Subordination Agreement as of the date hereof. Further, each Parent acknowledges and agrees specifically to Section 4 of the Tenth Amendment, amending and restated Section 10.15 of the Credit Agreement so as to restrict any payment on the Parent Debt, notwithstanding any allowance for such payment that might be set forth in the Subordination Agreement, and will not cause any Borrower to make, or accept from any Borrower, any payment with respect to the Parent Debt. Capitalized terms not otherwise defined above shall have the meaning given to such terms in the Tenth Amendment.
+
+[[Organization 9 Name]], [[Borrowers]] [[Borrowers Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrowers Entity => By: [[Borrowers Signatory First Name]] [[Borrowers Signatory Last Name]]
+Title: [[Borrowers Signatory Title]]}}
+
+
+Dated: [[Date 1]]   
+Tenth Amendment to Credit Agreement 
+Parent Consent

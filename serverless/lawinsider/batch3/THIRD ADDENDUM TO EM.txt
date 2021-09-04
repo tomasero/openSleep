@@ -1,0 +1,47 @@
+Third Addendum to Employment Agreement dated as of [[Date 1: Date]] by and between [[Organization 1 Name]] Acquisitions and [[Executive]]
+
+\centered THIRD ADDENDUM TO EMPLOYMENT AGREEMENT
+
+This Third Addendum to Employment Agreement (“Third Addendum”) is made and entered into as of this [[Date 2: Date]], by and between [[Organization 1 Name]] Acquisitions, a Nevada limited liability company (the “Company”) and [[Executive]] (“Executive”).
+
+\centered RECITALS
+
+WHEREAS, the Company and Executive entered into an Employment Agreement dated as of [[Date 3: Date]], as amended by Letter Agreement dated as of [[Date 4: Date]], as further amended by Addendum to Employment Agreement, dated as of [[Date 5: Date]], as further amended by Second Addendum to Employment Agreement, dated as of [[Date 6: Date]] (collectively, the “Agreement”), which sets forth the specific terms of employment and compensation of Executive;
+
+WHEREAS, the parties desire to amend the Term of the Agreement and to otherwise modify certain terms of the Agreement.
+
+NOW THEREFORE, in consideration of the mutual promises, covenants and agreements contained herein, the receipt and sufficiency of which is hereby acknowledged, the parties hereby agree as follows:
+
+^Paragraph 2 of the Agreement shall be replaced in its entirety with the following new Paragraph 2:
+
+“2. Term. Executive’s employment under the terms and conditions of this Agreement shall commence on [[Date 7: Date]] (the “Commencement Date”) and shall expire on [[Date 8: Date]] (the "Term"), subject to earlier termination pursuant to Section 6 herein. Upon the expiration of the Term, this Agreement shall automatically renew for additional one (1) year terms (each a “Renewal Term”) subject to the same terms and conditions of this Agreement, unless the Company shall have provided to Executive or the Executive shall have provided to the Company at least ninety (90) days' written notice of non-renewal, in which event this Agreement shall expire at the end of the Term or Renewal Te rm, as applicable. The Term and all Renewal Terms shall be referred to as the "Term" of this Agreement. Notwithstanding anything to the contrary herein, in the event of any termination of this Agreement, Executive shall nevertheless continue to be bound, to the extent applicable, by the terms and conditions set forth in Paragraphs 7 and 8.”
+
+^Paragraphs 3(a) and (b) of the Agreement shall be replaced in their entirety with the following new Paragraphs 3(a) and (b):
+
+“3(a) Base Salary.  In consideration of Executive’s full and faithful satisfaction of Executive’s duties under this Agreement, the Company agrees to pay to Executive a per annum base salary of Three Hundred Forty-Four Thousand, Three Hundred Ninety-Three Dollars ($[[USD Value 1: Number]]) (“Base Salary”), payable in such installments as the Company pays its similarly placed employees, subject to usual and customary deductions for withholding taxes and similar charges, and customary employee contributions to health, welfare and retirement programs in which Executive is enrolled. During the Term, the Base Salary shall be reviewed on an annual basis in accordance with Executive’s annual performance evaluation and increased at the Company’s sole discretion.
+
+^^Bonus Compensation. Executive shall receive a one-time signing bonus in the gross amount of Seventeen Thousand Dollars ($[[USD Value 2: Number]]), payable as follows: (i) Ten Thousand Dollars ($[[USD Value 3: Number]]) due upon the execution of this Third Addendum and (ii) Seven Thousand Dollars   ($[[USD Value 4: Number]]) due on or before [[Date 9: Date]]. The aforementioned signing bonus payments shall be subject to usual and customary deductions for withholding taxes and similar charges. In addition to the aforementioned signing bonus, Executive shall be eligible for an annual bonus applicable to Executive's position. The decision to award a bonus and the amount thereof is in the sole discretion of the Company. Annual bonus payments hereunder shall be paid by the Company on the date such bonuses are paid to similarly situated executives of the Company, and shall be subject to usual and customary deductions for withholding taxes and similar charges.”
+
+^Other than the amendment to the Agreement as provided herein, all other terms and conditions of the Agreement shall remain in full force and effect. In the event any terms of the Agreement are inconsistent or contrary to this Third Addendum, the terms of this Third Addendum shall control. All capitalized terms used herein shall have the same meaning as set forth in the Agreement.
+
+**[[Organization 1 Name]] ACQUISITIONS**
+
+[[[[Organization 1 Name]] ACQUISITIONS Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] ACQUISITIONS Entity => By: [[[[Organization 1 Name]] ACQUISITIONS Signatory First Name]] [[[[Organization 1 Name]] ACQUISITIONS Signatory Last Name]]
+Title: [[[[Organization 1 Name]] ACQUISITIONS Signatory Title]]}}
+
+\centered /s/ [[Person 1 First Name]] [[Person 1 Last Name]]
+
+[[Person 1 First Name]] [[Person 1 Last Name]], CEO and General Manager
+
+**EXECUTIVE**
+
+[[EXECUTIVE Signatory Email: Identity | Signature]]
+__________________________________________
+{{EXECUTIVE Entity => By: [[EXECUTIVE Signatory First Name]] [[EXECUTIVE Signatory Last Name]]
+Title: [[EXECUTIVE Signatory Title]]}}
+
+\centered /s/ [[Executive]]
+
+[[Executive]]

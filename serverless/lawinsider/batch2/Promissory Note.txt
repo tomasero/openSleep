@@ -1,0 +1,51 @@
+\centered **Promissory Note**
+
+**$[[USD Value 1: Number]]**   **[[Date 1: Date]]**
+
+FOR VALUE RECEIVED, the undersigned promise to pay to the order of [[Person 1 First Name]] [[Person 1 Last Name]] (hereinafter, together with any holder hereof, referred to as "Holder"), at the office of Holder at [REDACTED] or at such other place as the Holder may from time to time designate in writing, the principal sum of **THREE HUNDRED THOUSAND AND NO/100 ($[[USD Value 1]]),** or so much thereof as may be outstanding from time to time, together with interest thereon, on so much thereof as is from time to time outstanding and unpaid, at various rates of interest as hereinafter set forth, in lawful money of the United States of America, which shall at the time of payment be legal tender in payment of all debts and dues, public and private, such principal and interest to be paid as hereinafter provided, to-wit:
+
+As the following terms are used in this Note, the following definitions shall apply:
+
+“**Business Day**” shall mean any day other than a Saturday, Sunday or other day on which Lender is closed.
+
+“**Interest Rate**” from the date of funding until the Maturity Date shall mean a rate per annum equal to [[Percentage 1: Number]]%. In no event shall the Interest Rate, as adjusted, exceed the maximum rate of interest allowed by applicable law.
+
+“**Maturity Date**” [[Date 2: Date]] unless accelerated due to an uncured default. The Maturity Date may be extended for a period of six (6) months provided the undersigned is not in default by payment of a $[[USD Value 2: Number]] on or before the original Maturity Date.
+
+Fifty Thousand Dollars ($[[USD Value 3: Number]]) of the loan shall be funded on or before [[Date 3: Date]] for working capital or general corporate purposes. The balance of the loan may be drawn down only in connection with a bona fide acquisition made by the undersigned at arms-length terms and not to complete a refinance or to provide working capital. The undersigned shall give Holder 5 business days notice to fund a closing of an acquisition.
+
+Interest shall accrue on the principal amount outstanding hereunder at the per annum rate which is the Interest Rate, as may be in effect from time-to-time. Such interest shall be calculated on the basis of the number of days elapsed over a 360-day year through the date immediately proceeding the payment date.
+
+Interest payments shall be payable quarterly, beginning the first (1st) day of [[Date 4: Date]], and continuing on the first day of each successive month with a final payment of all remaining principal, accrued interest and such other fees and charges as may be duly owed to Holder on the Maturity Dateunless extended or sooner due and owing upon acceleration of this Note following the occurrence of an Event of Default as that term is defined herein. Time is of the essence in making payments under this Promissory Note.
+
+Undersigned shall pay to the Holder a late charge of Five percent ([[Percentage 2: Number]]%) of any payment not received by the Holder within five (5) days after the payment is due.
+
+If from any circumstances whatsoever, fulfillment of any provision of this Promissory Note or of any other instrument evidencing or securing the indebtedness evidenced hereby, at the time performance of such provision shall be due, shall involve transcending the limit of validity presently prescribed by any applicable usury statute or any other applicable law, with regard to the obligations of like character and amount, then, **ipso** **facto**, the obligations to be fulfilled shall be reduced to their limit of such validity, so that in no event shall any exaction be possible under this Note or under any other instrument evidencing or securing the indebtedness evidenc ed hereby, that is in excess of the current limit of such validity, but such obligation shall be fulfilled to the limit of such validity.
+
+It is hereby expressly agreed that should any default be made in the payment of principal, interest or late charges as stipulated above, or should any default be made in the performance of any of the covenants or conditions contained in the Promissory Note, then, and in any such event, the principal indebtedness evidenced hereby, and any other sums advanced hereunder, together with all unpaid interest accrued thereon, shall, at the option of Holder and without notice to undersigned, except as otherwise hereinafter provided, at once become due and payable and may be collected forthwith, regardless of the stipulated date of maturity. Interest shall accrue on the outstanding principal balance of this Note from the Maturity Date or any default hereunder and for so long as such default continues, regardless of whether or not there has been an acceleration of the indebtedness evidenced hereby as set forth herein, at the rate eq ual to eighteen percent ([[Percentage 3: Number]]%) per annum. All such Interest shall be paid at the time of and as a condition precedent to the curing of any such default should Holder, at its sole option, allow such default to be cured. In the event this Note, or any part thereof, is collected by or through an attorney-at-law, undersigned agrees to pay all costs of collection including, but not limited to, reasonable attorneys fees actually incurred by Holder.
+
+Notwithstanding the foregoing or anything else herein, should the undersigned be in default of any covenant, agreement, or condition contained herein, Holder shall give the undersigned written notice of such default and the undersigned shall be given five (5) calendar days thereafter in which to cure same as to payments of principal and/or interest required hereunder, and thirty (30) days in which to cure any other event of default, and at the end of such cure period, if no cure has been effected, all indebtedness owed hereunder, including the whole principal balance, together with all accrued but unpaid interest thereon, at the option of Holder, shall become due and payable without further notice. Failure to accelerate the outstanding balance to immediate maturity on any one occasion shall not constitute a waiver of the right to exercise the same at any other time as to any subsequent event of default.
+
+Presentation for payment, demand, protest and notice of demand, protest and non-payment and all other notices are hereby waived by undersigned, except as otherwise herein provided. No failure to accelerate the debt evidenced hereby by reason of default hereunder, acceptance of a past due installment, or indulgences granted from time to time shall be construed (i) as a novation of this Note or as a reinstatement of the indebtedness evidenced hereby or as a waiver of such right of acceleration or of the right of Holder thereafter to insist upon strict compliance with the terms of this Note, or (ii) to prevent the exercise of such right of acceleration or any other right granted hereunder or by the laws of the State of Virginia; and undersigned hereby expressly waives the benefit of any statute or rule of law or equity now provided, or which may hereafter be provided, which would produce a result contrary to or in conflict with the foregoing. No extension of the time for the payment of this Note or any installment due hereunder, made by agreement with any person now or hereafter liable for the payment of this Note shall operate to release, discharge, modify, change or affect the original liability of undersigned under this Note, either in whole or in part unless Holder agrees otherwise in writing. This Note may not be changed orally, but only by an agreement in writing signed by the party against whom enforcement of any waiver, change, modification or discharge is sought.
+
+Undersigned hereby waives and renounces for itself, its heirs, successors and assigns, all rights to the benefits of any statute of limitations and any moratorium, reinstatement, marshaling, forbearance, valuation, stay, extension, redemption, appraisement, and exemption now provided, or which may hereafter be provided by the Constitution and laws of the United States of America and of any state thereof, both as to itself and in and to all of its property, real and personal, against the enforcement and collection of the obligation evidenced by this Note.
+
+This Note is intended as a contract under and shall be construed and enforceable in accordance with the laws of the State of Virginia.
+
+Undersigned reserves the right and privilege of prepaying all, or any part, of the indebtedness represented by this Note, prior to maturity, without penalty or additional charge of any kind or nature.
+
+Any notice required or permitted to be given by the undersigned or Holder under this Note shall be given in writing at the address listed below. Either the undersigned or Holder, or both, may change its addresses for notice purposes by notice to the other party.
+
+As used herein, the terms “undersigned” and “Holder” shall be deemed to include their respective heirs, successors, legal representatives and assigns, whether by voluntary action of the parties or by operation of law. In the event that more than one person, firm, or entity is the undersigned hereunder, then all references to undersigned shall be deemed to refer equally to each of said persons, firms, or entities, all of whom shall be joint and severally liable for all of the obligations of undersigned hereunder.
+
+**IN WITNESS WHEREOF**, undersigned have caused this Promissory Note to be executed on the date first above written.
+
+**MedCAREERS GROUP, INC.**
+
+[[[[Organization 1 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]]. Entity => By: [[[[Organization 1 Name]]. Signatory First Name]] [[[[Organization 1 Name]]. Signatory Last Name]]
+Title: [[[[Organization 1 Name]]. Signatory Title]]}}
+
+
+Address for Notice and Service of Process: MedCAREERS GROUP, INC. Five Concourse Parkway Suite 2925 [[Address 1: Address]] Attn: [[Party 1]]

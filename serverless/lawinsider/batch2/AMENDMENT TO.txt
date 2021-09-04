@@ -1,0 +1,53 @@
+^^***
+
+\centered **AMENDMENT TO**
+
+\centered **EMPLOYMENT AGREEMENT**
+
+This amendment (the “Amendment”) effective as of [[Date 1: Date]] amends that certain Employment Agreement (as Amended and Restated [[Date 2: Date]]) between [[Organization 1 Name]] (the “Corporation”) and [[Executive]] (“Finkelstein” or “Executive”) (the “Agreement”).
+
+^The Agreement is hereby amended by deleting paragraph 4(f) thereof and replacing it with the following new paragraph 4(f):
+
+^^Retirement Benefit/Survivor Benefits. The Corporation shall pay to the Executive, if living, or to each of his Designated Beneficiary and his former spouse Barbara (referred to herein as the Executive’s “Former Spouse”), in the event of his death, the following sums upon the terms and conditions and for the periods hereinafter set forth:
+
+^^^Retirement Payments to the Executive. Upon the Executive’s termination of employment with the Corporation, the Corporation shall pay to the Executive a lump sum cash payment of an amount (sometimes referred to as his “Retirement Benefit”) equal to the present value of a hypothetical annuity payable to the Executive for life starting on the first day of the month following his termination of employment with the Corporation, with monthly payments equal to his Adjusted Monthly Benefit. For the purpose of determining this present value, the following assumptions shall apply:
+
+^Interest: Payments shall be discounted to present value at a rate of interest equal to the yield to maturity, of 30-year U.S. Treasury Notes as of the Executive’s termination of employment.
+
+^Mortality: It shall be assumed that payments will be made for the joint life and last survivor expectancy of the Executive and his Former Spouse, or the life expectancy of the Executive if the Former Spouse is not then living, as determined at the start of payments under Table II (Joint Life and Last Survivor Expectancy), or Table I (Single Life Expectancy), as applicable, found the IRS Publication 590.
+
+^Cost of Living Adjustment: It shall be assumed that the Consumer Price Index increases by four percent ([[Percentage 1: Number]]%) per year to derive the Adjusted Monthly Benefit.
+
+^^^Survivor Benefits. If the Executive dies while employed with the Corporation (or after his termination of employment with the Corporation but prior to payment under (i) above), the Corporation shall make the following payments:
+
+^to Executive’s Designated Beneficiary, a lump sum cash payment equal to one half of the Retirement Benefit to which the Executive would have been entitled were he living, to be paid to the Designated Beneficiary within thirty days after the Executive’s death (referred to herein as the “Beneficiary Survivor Benefit”); and
+
+^to Executive’s Former Spouse, one half of the Adjusted Monthly Benefit to which the Executive would have been entitled were he living and were he to receive his Retirement Benefit in the form of an annuity for his life, such payments to commence within thirty (30) days after the Executive’s 
+
+death and to continue monthly for the remainder of her life (referred to herein as the “Former Spouse Survivor Benefit”, and, with the Beneficiary Survivor Benefit, collectively as the “Survivor Benefits”).
+
+^^^Termination for Cause. If the Executive’s employment with the Corporation is terminated at any time for Cause (as defined in Section 8), the Corporation shall have no obligation to make any payments to him or his Former Spouseunder this Section 4(f) and all such future payments shall be forfeited.
+
+^The Agreement is hereby amended by deleting paragraphs 7(a)(ii), 7(b)(ii) and 7(c)(ii) and replacing each of them with the following new paragraph:
+
+^^^Accrued Obligations. In addition, the Executive shall also be entitled to the following: (1) a payment equal to the Highest Annual Bonus, pro rata based on the portion of the year ended on the date of the termination; (2) unpaid deferred compensation under the [[Organization 1 Name]] Executive Retirement Savings Plan (as restated or amended, and including any successor thereto), together with all earnings thereon (it being understood that this is separate from, and in addition to each of the Retirement Benefit and the Survivor Benefits set forth in Section 4(f) hereof); and (3) accrued vacation pay.
+
+^The Agreement is hereby amended by replacing the definition of “Designated Beneficiary” in paragraph 8 thereof as follows:
+
+“Designated Beneficiary” shall mean, as of the time of Executive’s death, Executive’s surviving spouse, or such other person or persons as the Executive shall have designated in writing and has or have been accepted in writing by the Corporation, or, in the absence of either, the Executive’s estate.
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Amendment this [[Date 3: Date]].
+
+
+
+[[IN WITNESS WHEREOF the parties hereto have duly executed this Amendment this Date 3 Date. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the parties hereto have duly executed this Amendment this Date 3 Date. Entity => By: [[IN WITNESS WHEREOF the parties hereto have duly executed this Amendment this Date 3 Date. Signatory First Name]] [[IN WITNESS WHEREOF the parties hereto have duly executed this Amendment this Date 3 Date. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the parties hereto have duly executed this Amendment this Date 3 Date. Signatory Title]]}}
+
+
+[[Title Executive Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Executive Signatory Title}} Entity => By: [[Title Executive Signatory Title}} Signatory First Name]] [[Title Executive Signatory Title}} Signatory Last Name]]
+Title: [[Title Executive Signatory Title}} Signatory Title]]}}
+

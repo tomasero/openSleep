@@ -1,0 +1,109 @@
+\centered **CERTAIN INFORMATION (INDICATED BY “[***]”) IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.**
+
+\centered **Settlement Agreement and Amendment to Development And Supply Agreement**
+
+This Settlement Parchment and Amendment to the Development and Supply Agreement (“Amendment”) is made this [[Date 1: Date]] (“Amendment Effective Date”) between [[Diablo]], a Canadian corporation having a principal place of business at 290 St. Joseph, Suite 200, Gatineau, Quebec J8Y 3Y3 (“Diablo”) and [[[[Organization 1 Name]]]], a [[State of Formation: State]] [[Organization: EntityType]] having a principal place of business at 51 Discovery, [[Address 1: Address]] (“[[Organization 1 Name]]”).
+
+\centered R E C I T A L S
+
+Whereas, [[Organization 1 Name]] entered into a Development and Supply Agreement with Diablo to have certain products designed and manufactured by Diablo on [[Date 2: Date]] (“Agreement”); and
+
+Whereas, in the course of performing this Agreement, the parties have had disputes regarding the obligations and performance under this Agreement, including the breaches thereof;
+
+WHEREAS, the parties have agreed to compromise, settle and resolve all past disputes, liabilities and obligations between them concerning or regarding the alleged breaches of the Agreement;
+
+WHEREAS, the parties agree that the settlement and amendments embodied in this Agreement are made in good faith and shall not constitute an admission of liability or other admission against interest by any party hereto.
+
+Now, therefore, in consideration of the promises and the mutual agreements hereinafter set forth, and intending to be legally bound, the parties hereto agree as follows:
+
+\centered A G R E E M E N T S
+
+^Purchase and Payment Obligations. Within five (5) business days of the Amendment Effective Date, [[Organization 1 Name]] shall:
+
+^^**[***]**
+
+^^**[***]**
+
+^^Provide to Diablo a delivery schedule for all devices between now and [[Date 3: Date]];
+
+^^Agree to provide Diablo a budget of $**[***]** US dollars for each [[Organization 1 Name]] Chipset qualification in each [[Organization 1 Name]] density configuration added to the plan of record. Diablo shall use these funds solely to 1) purchase DIMMs from [[Organization 1 Name]] and 2) to purchase [[Organization 1 Name]] customer target systems for in-system validation of the [[Organization 1 Name]] Chipset.
+
+^^Agree to jointly initiate a cost benefit analysis for development of a **[***]**. Should this analysis conclude a development is necessary, [[Organization 1 Name]] shall initiate said development.
+
+^^Receive from Diablo the items requested below or a plan including a schedule to address the items requested below
+
+**[***]**
+
+^Release and Covenant Not to Sue.
+
+^^^Diablo hereby fully releases and forever discharges [[Organization 1 Name]], and its respective past, present and future officers, directors, representatives, employees, agents, principals, shareholders, attorneys, assigns, predecessors, successors, affiliates, and subsidiaries, from any and all claims, causes of action, debts, liabilities, rights to damages, collection, reimbursement, costs, expenses, attorneys’ fees, and rights to injunctive relief, known or unknown, relating to any alleged breach of this Agreement, by such party prior to the Amendment Effective Date, including but not limited to any allegation by Diablo that [[Organization 1 Name]] made improper use of any Diablo Confidential Information or any other technology encompassed within Diablo’s Intellectual Property Rights.
+
+^^^Diablo further covenants and agrees that it will not assert any claim or take any action against [[Organization 1 Name]] or any customer or business partner of [[Organization 1 Name]], or claim that [[Organization 1 Name]] is not entitled to ship products using chips procured from other suppliers, now or in the future, based on [[Organization 1 Name]]’s marketing or sale of products that utilize chips procured from companies other than Diablo, only with respect to the followings claims: 1) any claim that [[Organization 1 Name]] or any customer or business partner of [[Organization 1 Name]] is using any Confidential Information of Diablo, provided that [[Organization 1 Name]] and [[Organization 1 Name]]’s customers and business partners undertake reasonable precautions to maintain the confidentiality of Diablo’s Confidential Information; 2) any claim for patent infringement based on an invention arising as a consequence of work performed under this Agreement; or 3) that [[Organization 1 Name]] or its customers or business partners are otherwise using technology developed by Diablo as a consequence of worked performed under this Agreement. Diablo hereby expressly waives and releases any rights it may have at law or in equity to take any legal action or other action as described in this paragraph against [[Organization 1 Name]], its customers or its business partners. The term “business partner” as used in this paragraph refers to third parties working with [[Organization 1 Name]] in connection with [[Organization 1 Name]]s, and such third parties are only entitled to the protections of this paragraph to the extent of their work with [[Organization 1 Name]].
+
+^^^Diablo acknowledges that there is a risk that subsequent to the execution of this Amendment, it may discover, incur or suffer facts and/or claims which were unknown or unanticipated at the time this Amendment is executed. Diablo acknowledges and agrees that by reason of the releases and covenants contained herein, it is assuming the risk of such unknown facts and/or claims and agrees that this Amendment applies thereto. In connection therewith, Diablo expressly waives the benefits of Section 1542 of the California Civil Code, which section provides as follows, and any laws of similar affect applicable in any jurisdiction:
+
+“A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.”
+
+^^^Release and Covenant Not to Sue by [[Organization 1 Name]]
+
+[[Organization 1 Name]] hereby fully releases, forever discharges and covenants not to sue Diablo and its respective past, present and future officers, directors, representatives, employees, agents, principals, shareholders, attorneys, assigns, predecessors, successors, affiliates, and subsidiaries, from any and all claims, causes of action, debts, liabilities, rights to damages, collection, reimbursement, costs, expenses, attorneys’ fees, and rights to injunctive relief, known or unknown, relating to any alleged breach of this Agreement by such party prior to the Amendment Effective Date.
+
+^^^The foregoing Releases and Covenants Not to Sue are not intended to and do not alter or affect the obligations of either [[Organization 1 Name]] or Diablo with respect to the Agreement or this Amendment, including but not limited to Diablo’s obligations to provide an escrow deposit or to indemnify [[Organization 1 Name]] pursuant to the terms of the Agreement.
+
+\centered A M E N D M E N T S
+
+^Market Share Commitment. The following Section 3(e) is hereby amended in its entirety to read as follows:
+
+“3(e) Market Share Commitment. [[Organization 1 Name]] shall allocate to Diablo the following percentages of [[Organization 1 Name]] Market Share for the [[Organization 1 Name]] Chipsets unless [[Organization 1 Name]] using [[Organization 1 Name]] Chipsets supplied by Diablo do not successfully complete required third party qualification. [[Organization 1 Name]] shall not bias third party qualifications against [[Organization 1 Name]] using Diablo supplied [[Organization 1 Name]] Chipsets.
+
+“[[Organization 1 Name]] Market Share”: shall mean the number of [[Organization 1 Name]] Chipsets shipped, invoiced or sold, as part of a qualified memory module using Diablo supplied [[Organization 1 Name]] Chipsets or separately as individual components, by [[Organization 1 Name]] to any third party.
+
+The Market Share Commitment shall not be capped at the minimum percentages indicated below. [[Organization 1 Name]] shall cooperate and disclose the status of and any feedback (whether positive or negative) to Diablo in connection with [[Organization 1 Name]]s’s qualification with any customers of the [[Organization 1 Name]] Chipset.
+
+[[Organization 1 Name]] agrees not to renegotiate the purchase price of the Products to achieve or maintain this percentage:
+
+^^^st 6 Months of [[Organization 1 Name]]ion: **[***]**; Between 6th and 18th months of [[Organization 1 Name]]ion: **[***]**; After 18 month of [[Organization 1 Name]]ion: **[***]**.
+
+^^^In addition, all quantities of [[Organization 1 Name]] Chipsets set forth in any Purchase Order issued by [[Organization 1 Name]] to Diablo and confirmed by Diablo in accordance with this Agreement, but which Diablo is completely unable to fulfill, shall be deemed to have been allocated to Diablo.
+
+^^^Audit. [[Organization 1 Name]] will maintain complete and accurate records for not less than three (3) years after this Agreement expires or is terminated. Diablo may audit [[Organization 1 Name]]’s records in accordance with this Section, twice per year, at its expense; provided that a nationally recognized accounting firm retained by Diablo (“Auditor”) will pursuant to a confidentiality agreement have access to such records solely for the purposes of confirming that [[Organization 1 Name]] has fulfilled its obligations under Section (i) above.
+
+^^^If qualification requirements change in the 12 months following signing this Amendment, [[Organization 1 Name]] will give Diablo notice as soon as possible to allow Diablo to propose a remedy. During this period, if the product does not meet the customer requirements, [[Organization 1 Name]] shall make commercially reasonable efforts to maintain Diablo’s market share by increasing shipments to other customers.
+
+^^Guaranteed Minimum Allocation
+
+Notwithstanding section 3(e), [[Organization 1 Name]] shall allocate to Diablo a minimum of **[***]**% of the [[Organization 1 Name]] total annual consumption of **[***]** provided however such allocation shall be limited to a maximum of [[Percentage 1: Number]]% of the [[Organization 1 Name]] Market Share.
+
+^Production Incentive.
+
+**[***]**
+
+^Term. Section 11(a) is hereby amended in its entirety to read as follows:
+
+“(a) **Term**. This Agreement shall become effective on the Effective Date of this Agreement and shall continue for a period of three (3) years (“Initial Term”). This Agreement shall be extended automatically at the end of the initial term or subsequent terms for an additional one (1) year term, unless terminated in accordance with this Agreement or unless either party notifies the other party in writing of its intent not to renew at least ninety (90) days prior to the expiration of the Initial Term or subsequent term.”
+
+^Section II (e) shall be amended to include:
+
+The obligations of Diablo under Section 2 of this Amendment will survive, in accordance with the terms hereof, the term and termination of this Agreement, and will remain in full force and effect regardless of the cause of any termination and be binding on any successors or assigns.
+
+\centered G E N E R A L
+
+^Except as set forth herein, all terms and conditions of the Agreement shall remain in full force and effect. Unless otherwise defined in this Amendment, capitalized terms used in this Amendment shall have the same meaning as set forth in the Agreement. This Amendment, together with the Agreement, constitute the entire agreement of the parties with respect to the subject matter hereof, and supersedes any other agreements, promises, representations or discussions, written or oral, concerning such subject matter.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment effective as of the Amendment Effective Date.
+
+[[[[Organization 1 Name]]]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Diablo]]
+
+[[Diablo Signatory Email: Identity | Signature]]
+__________________________________________
+{{Diablo Entity => By: [[Diablo Signatory First Name]] [[Diablo Signatory Last Name]]
+Title: [[Diablo Signatory Title]]}}
+

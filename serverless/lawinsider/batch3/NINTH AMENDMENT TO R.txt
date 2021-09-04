@@ -1,0 +1,144 @@
+\centered NINTH AMENDMENT TO REIMBURSEMENT AGREEMENT
+
+THIS NINTH AMENDMENT TO REIMBURSEMENT AGREEMENT, dated as of [[Date 1: Date]] (this “**Amendment**”), to the Existing Reimbursement Agreement (as defined below) is made by [[Organization 1 Name]], a Delaware limited liability company (the “**Account Party**”), and certain of the Lenders (such capitalized term and other capitalized terms used in this preamble and the recitals below to have the meanings set forth in, or are defined by reference in, below).
+
+\centered W I T N E S S E T H:
+
+WHEREAS, the Account Party, the Lenders and [[Organization 2 Name]], as the Issuer and as Administrative Agent, are all parties to the Reimbursement Agreement, dated as of [[Date 2: Date]] (as amended or otherwise modified prior to the date hereof, the “**Existing Reimbursement Agreement**”, and as amended by this Amendment and as the same may be further amended, supplemented, amended and restated or otherwise modified from time to time, the “**Reimbursement Agreement**”); and
+
+WHEREAS, the Account Party has requested that the Lenders amend certain provisions of the Existing Reimbursement Agreement and the Lenders are willing to modify the Existing Reimbursement Agreement on the terms and subject to the conditions hereinafter set forth;
+
+NOW, THEREFORE, the parties hereto hereby covenant and agree as follows:
+
+^\centered DEFINITIONS
+
+^**Certain Definitions**. The following terms when used in this Amendment shall have the following meanings (such meanings to be equally applicable to the singular and plural forms thereof):
+
+“**Account Party**” is defined in the **preamble**.
+
+“**Amendment**” is defined in the **preamble**.  
+“**Existing Reimbursement Agreement**” is defined in the **first recital**.
+
+“**Reimbursement Agreement**” is defined in the **first recital**.
+
+^**Other Definitions**. Terms for which meanings are provided in the Existing Reimbursement Agreement are, unless otherwise defined herein or the context otherwise requires, used in this Amendment with such meanings.
+
+^\centered AMENDMENTS TO THE EXISTING REIMBURSEMENT AGREEMENT  
+
+Effective as of the date hereof, but subject to the occurrence of the satisfaction of the conditions in , the provisions of the Existing Reimbursement Agreement referred to below are hereby amended in accordance with this .
+
+^**Amendment to Section 1.1**. Section 1.1 of the Existing Reimbursement Agreement is hereby amended by
+
+^^inserting the following definitions in the appropriate alphabetical order:
+
+“**Applicable Commitment Fee Margin**” from time to time, the following percentages per annum, based upon the Debt Rating as set forth below:
+
+\centered **Pricing Level**   \centered **Debt Rating**      
+
+\centered **Applicable Commitment Fee Margin**
+
+\centered ≥ A- from S&P/ A3 from Moody’s      \centered [[Percentage 1: Number]]%
+
+\centered BBB+ from S&P/ Baa1 from Moody’s      \centered [[Percentage 2: Number]]%
+
+\centered BBB from S&P/ Baa2 from Moody’s      \centered [[Percentage 3: Number]]%
+
+\centered BBB- from S&P/Baa3 from Moody’s      \centered [[Percentage 4: Number]]%
+
+\centered <BBB- from S&P/ Baa3 from Moody’s      \centered [[Percentage 5: Number]]%
+
+“**Applicable Letter of Credit Margin**” from time to time, the following percentages per annum, based upon the Debt Rating as set forth below:
+
+\centered **Pricing Level**   \centered **Debt Rating**      
+
+\centered **Applicable Letter of Credit Margin**
+
+\centered ≥ A- from S&P/ A3 from Moody’s      \centered [[Percentage 6: Number]]%
+
+\centered BBB+ from S&P/ Baa1 from Moody’s      \centered [[Percentage 7: Number]]%
+
+\centered BBB from S&P/ Baa2 from Moody’s      \centered [[Percentage 8: Number]]%
+
+\centered BBB- from S&P/Baa3 from Moody’s      \centered [[Percentage 9: Number]]%
+
+\centered <BBB- from S&P/ Baa3 from Moody’s      \centered [[Percentage 10: Number]]%
+
+“**Applicable Margin**” from time to time, the following percentages per annum, based upon the Debt Rating as set forth below:
+
+\centered **Pricing Level**   \centered **Debt Rating**      
+
+\centered **Applicable Margin**
+
+\centered ≥ A- from S&P/ A3 from Moody’s      \centered [[Percentage 4]]%
+
+\centered BBB+ from S&P/ Baa1 from Moody’s      \centered [[Percentage 11: Number]]%
+
+\centered BBB from S&P/ Baa2 from Moody’s      \centered [[Percentage 5]]%
+
+\centered BBB- from S&P/Baa3 from Moody’s      \centered [[Percentage 6]]%
+
+\centered <BBB- from S&P/ Baa3 from Moody’s      \centered [[Percentage 12: Number]]%
+
+“**Debt Rating**” means as of any date of determination, the rating asdetermined by either S&P or Moody’s (collectively, the “**Debt Ratings**”) of the Account Party’s non-credit-enhanced, senior unsecured long-term debt; **provided** that (a) if the respective Debt Ratings issued by the foregoing rating agencies differ by one level, then the Pricing Level for the lower of such Debt Ratings shall apply (with the Debt Rating for Pricing Level 1 being the highest and the Debt Rating for Pricing Level 5 being the lowest); (b) if there is a split in Debt Ratings of more than one level, then the Pricing Level that is one level higher than the Pricing Level of the lower Debt Rating shall apply; (c) if the Account Party has only one Debt Rating, the Pricing Level of such Debt Rating shall apply; and (d) if the Borrower does not have any Debt Rating, Pricing Level 5 shall apply. Each change in the Applicable Margin, Applicable Letter of Credit Margin or Applicable Credit Fee Margin resulting from a publicly announced change in the Debt Rating shall be effective, in the case of an upgrade, during the period commencing on the date of delivery by the Account Party to the Administrative Agent of notice thereof, such notice to be given promptly following such announcement by Moody’s or S&P of any change or possible change in a Debt Rating, and ending on the date immediately preceding the effective date of the next such change and, in the case of a downgrade, during the period commencing on the date of the public announcement thereof and ending on the date immediately preceding the effective date of the next such change.
+
+“**Ninth Amendment**” means the Ninth Amendment to Reimbursement Agreement, dated as of [[Date 1]], among the Account Party and the Lenders party thereto.
+
+^^amending and restating the definition of “Stated Maturity Date” in its entirety as follows:
+
+“**Stated Maturity Date**” means [[Date 3: Date]].
+
+^**Amendment to Section 3.1**. Section 3.1 of the Existing Reimbursement Agreement is hereby amended by amending and restating it in its entirety as follows:
+
+“SECTION 3.1. **Post-Maturity Rates**. After the date any Reimbursement Obligation is due and payable (whether upon acceleration or otherwise), or after any other monetary Obligation of the Account Party shall have become due and payable, the Account Party shall pay on demand, but only to the extent permitted by law, interest (after as well as before judgment) on such amounts at a rate per annum equal to the Base Rate **plus** the Applicable Margin per annum.”
+
+^**Amendment to Section 3.2.1**. Section 3.2.1 of the Existing Reimbursement Agreement is hereby amended by amending and restating it in its entirety as follows:
+
+“SECTION 3.2.1. **Commitment Fee**. The Account Party agrees to pay to the Administrative Agent for the account of each Lender (based on its LC Percentage), for the period (including any portion thereof when any of the Letter of Credit Commitment is suspended by reason of the Account Party’s inability to satisfy any condition of ) commencing on the Effective Date and continuing through the Commitment Termination Date, a commitment fee equal to the Applicable Commitment Fee Margin per annum, multiplied by the sum of the average daily unused portion of the Letter of Credit Commitment Amount (net of Letter of Credit Outstandings). All commit ment fees payable pursuant to this Section shall be payable by the Account Party in arrears on each Quarterly Payment Date, commencing with the first Quarterly Payment Date following the Effective Date, and on the Commitment Termination Date.”
+
+^**Amendment to Section 3.2.2**. Section 3.2.2 of the Existing Reimbursement Agreement is hereby amended by amending and restating it in its entirety as follows:
+
+“SECTION 3.2.2 **Letter of Credit Fee**. The Account Party agrees to pay to the Administrative Agent, for the account of each Lender (based on its LC Percentage), a Letter of Credit fee equal to the Applicable Letter of Credit Margin per annum, multiplied by the Stated Amount of each such Letter of Credit, such fees being payable quarterly in arrears on each Quarterly Payment Date following the date of issuance of each Letter of Credit and on the Commitment Termination Date. The Account Party also agrees to pay to the Issuer an issuance fee of $[[USD Value 1: Number]] for each Letter of Credit issued such fee being paid on the date of such issuance.”
+
+^\centered CONDITIONS TO EFFECTIVENESS
+
+This Amendment and the amendments contained herein shall become effective as of the date hereof when each of the conditions set forth in this shall have been fulfilled to the satisfaction of the Administrative Agent.
+
+^**Counterparts**. The Administrative Agent shall have received counterparts hereof executed on behalf of the Account Party and the each of the Lenders.
+
+^**Costs and Expenses, etc**. The Administrative Agent shall have received for the account of each Lender, all fees, costs and expenses due and payable pursuant to Section 10.3 of the Reimbursement Agreement, if then invoiced.
+
+^**Upfront Fee**. The Administrative Agent shall have received for its own account an upfront fee from the Account Party as agreed to in the Fee Letter, dated as of the date hereof by and among the Administrative Agent and the Account Party.
+
+^**Resolutions, etc.** The Administrative Agent shall have received from the Account Party (i) a copy of a good standing certificate, dated a date reasonably close to the date hereof and (ii) a certificate, dated as of the date hereof, duly executed and delivered by any vice president, the controller, the treasurer, the assistant treasurer, secretary or assistant secretary of the Account Party as to
+
+^^resolutions of the Account Party’s Board of Managers then in full force and effect authorizing the execution, delivery and performance of this Amendment and the transactions contemplated hereby;
+
+^^the incumbency and signatures of those of its officers authorized to act with respect to this Amendment; and
+
+^^the full force and validity of each Organic Document of the Account Party and copies thereof;
+
+upon which certificates the Administrative Agent and all Lenders may conclusively rely until it shall have received a further certificate of any such officer of the Account Party canceling or amending such prior certificate.
+
+^**Opinion of Counsel**. The Administrative Agent shall have received an opinion, dated the date hereof and addressed to the Administrative Agent and all Lenders, from counsel to the Account Party, in form and substance satisfactory to the Administrative Agent.
+
+^**Satisfactory Legal Form**. The Administrative Agent and its counsel shall have received all information, and such counterpart originals or such certified or other copies of such materials, as the Administrative Agent or its counsel may reasonably request, and all legal matters incident to the effectiveness of this Amendment shall be satisfactory to the Administrative Agent and its counsel. All documents executed or submitted pursuant hereto or in connection herewith shall be reasonably satisfactory in form and substance to the Administrative Agent and its counsel.
+
+^\centered MISCELLANEOUS
+
+^**Cross-References**. References in this Amendment to any Article or Section are, unless otherwise specified, to such Article or Section of this Amendment.
+
+^**Loan Document Pursuant to Existing Reimbursement Agreement**. This Amendment is a Loan Document executed pursuant to the Existing Reimbursement Agreement and shall (unless otherwise expressly indicated therein) be construed, administered and applied in accordance with all of the terms and provisions of the Existing Reimbursement Agreement, as amended hereby, including Article X thereof.
+
+^**Successors and Assigns**. This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+^**Counterparts**. This Amendment may be executed by the parties hereto in several counterparts, each of which when executed and delivered shall be an original and all of which shall constitute together but one and the same agreement. Delivery of an executed counterpart of a signature page to this Amendment by facsimile shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+^**Governing Law**. THIS AMENDMENT WILL BE DEEMED TO BE A CONTRACT MADE UNDER AND GOVERNED BY THE INTERNAL LAWS OF THE STATE OF NEW YORK (INCLUDING FOR SUCH PURPOSE SECTIONS 5-1401 AND 5-1402 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK).
+
+^**Full Force and Effect; Limited Amendment**. Except as expressly amended hereby, all of the representations, warranties, terms, covenants, conditions and other provisions of the Existing Reimbursement Agreement and the Loan Documents shall remain unchanged and shall continue to be, and shall remain, in full force and effect in accordance with their respective terms. The amendments set forth herein shall be limited precisely as provided for herein to the provisions expressly amended herein and shall not be deemed to be an amendment to, waiver of, consent to or modification of any other term or provision of the Existi ng Reimbursement Agreement or any other Loan Document or of any transaction or further or future action on the part of any Obligor which would require the consent of the Lenders under the Existing Reimbursement Agreement or any of the Loan Documents.
+
+^**Representations and Warranties**. In order to induce the Lenders to execute and deliver this Amendment, the Account Party hereby represents and warrants to the Lenders, on the date this Amendment becomes effective pursuant to , that both before and after giving effect to this Amendment, all statements set forth in clauses (a) and (b) of Section 5.2.1 of the Reimbursement Agreement are true and correct as of such date, except to the extent that any such statement expressly relates to an earlier date (in which case such statement was true and correct on and as of such earlier date).
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Amendment as of the date first above written.
+
+[[Organization 1 Name]] By:__________________________ Title: [[Organization 2 Name]] By:__________________________ Title:

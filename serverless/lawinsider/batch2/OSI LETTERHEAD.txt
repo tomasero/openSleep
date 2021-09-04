@@ -1,0 +1,39 @@
+\centered [OSI LETTERHEAD]
+
+[[Date 1: Date]].  
+Dr. [[Person 1 First Name]] [[Person 1 Last Name]] 
+Sr. Director, Clinical Development  
+Dear Angela,  
+^want to thank you for sharing your thoughts and observations with me in our recent conversations. I appreciate both your input and your candor and, as I hope I have successfully communicated to you, I am convinced that you have the potential to enjoy a long and successful career in a leadership role here at OSI. In accord with our discussion this past Saturday – and contingent upon you committing to join us at our new campus in Ardsley – I am delighted to offer you the following:
+
+·   A promotion to Vice-President of Clinical Research – Oncology, initially reporting to Dr. [[Person 2 First Name]] [[Person 2 Last Name]], Interim Head of Oncology Development. The position will be at Grade 10 and carries an annual bonus target of [[Percentage 1: Number]]% base salary;
+
+·   Your annual salary will be increased to $[[USD Value 1: Number]] less taxes. This comprises the [[Percentage 2: Number]]% commitment increase noted in the letter you received in July and an additional promotional increase;
+
+·   Membership of the OSI Executive Management Committee;
+
+·   A commitment bonus equal to 6 months salary and a relocation package as previously communicated to you in the July letter; and,
+
+·   You will receive a lump sum equal to $[[USD Value 2: Number]] less taxes to assist you with your relocation expenses. This amount may be requested after you commit to join OSI at the new Ardsley campus by submitting a letter in writing to Human Resources requesting payment. If you voluntarily resign from the Company within 2 years from the time you receive your payment you will be required to re-pay [[Percentage 3: Number]]% of the amount that was given to you.
+
+These changes to your salary, title, grade and EMC membership will be effective immediately upon your acceptance of the offer and its contingent commitment to the Ardsley relocation. Also, and as we discussed, should you choose to commit in a timely fashion, I will be happy to invite you to join us at the annual EMC strategy retreat scheduled for [[Date 2: Date]]-4th in Oxford, UK. This will be a terrific opportunity for you to come up to speed as our newest EMC member.
+
+Angela, I'd be honored to have you choose to continue your career with us in Ardsley and I am convinced that you will have a lot to offer as we embark upon the next exciting chapter in the company's journey. Should you be willing to do so please let me know as soon as possible and
+
+acknowledge your acceptance of the offer described herein by signing below and returning to [[Person 3 First Name]] [[Person 3 Last Name]].
+
+Sincerely,  
+[[Sincerely Signatory Email: Identity | Signature]]
+__________________________________________
+{{Sincerely Entity => By: [[Sincerely Signatory First Name]] [[Sincerely Signatory Last Name]]
+Title: [[Sincerely Signatory Title]]}}
+
+[[Person 4 First Name]] [[Person 4 Last Name]], 
+Chief Executive Officer  
+Acknowledgement:  
+[[Acknowledgement Signatory Email: Identity | Signature]]
+__________________________________________
+{{Acknowledgement Entity => By: [[Acknowledgement Signatory First Name]] [[Acknowledgement Signatory Last Name]]
+Title: [[Acknowledgement Signatory Title]]}}
+
+Dr. [[Person 1 First Name]] [[Person 1 Last Name]]
