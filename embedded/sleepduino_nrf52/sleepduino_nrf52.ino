@@ -16,7 +16,7 @@ int led = 12 ;
 void setup() {
     pinMode(led,OUTPUT);
     Serial.begin(115200);
-    Serial.println("sleepDuino v1.1");
+    Serial.println("sleepDuino v3.1");
     Serial.println("---------------------------\n");
     blinkLED(5);
     bleSetup();
