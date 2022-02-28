@@ -20,6 +20,8 @@ void setup() {
     Serial.println("---------------------------\n");
     blinkLED(5);
     bleSetup();
+    Serial.println("BLE Initialized\n");
+    Serial.println("---------------------------\n");
 }
 
 void loop()
