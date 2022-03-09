@@ -944,7 +944,7 @@ function endSession() {
   //hide buttons
    $("#calibrate").hide();
    $("#stop_session").hide();
-   $("#start_session").hide();
+   $("#start_session").show();
 
   recording = false;
 
