@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="description" content="dormio">
   <meta name="author" content="Christina Chen">
-  
+
   <link rel="apple-touch-icon" sizes="180x180" href="/dormio/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/dormio/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/dormiofavicon-16x16.png">
@@ -20,7 +20,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" type="text/css" href="css/style_wearable.css">
-  
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
   <script src="js/multithread.js"></script>
@@ -35,7 +35,7 @@
 
 <body>
 	<div id = "container">
-    
+
     	<div id = "header">
       		<a href = "index.html"><img src="img/icon.png" id="icon"></a>
       		<div id = "links">
@@ -47,12 +47,12 @@
     	<div id = "main">
 
 			  <div id="userform" class="overlay">
-  					
+
   				<div class="overlay-content">
 
   					<h1 style = "text-align: center; font-size: 60px">d o r m i o</h1>
   					<h3 style = "text-align: center; font-size: 18px;">to begin, fill out the following information to customize your timer-based dream incubation session.</h3>
-      
+
 			    	<!-- name -->
 			    	<div id="user-name" class="user-elem">
         				<label>what is your name?</label>
@@ -68,7 +68,7 @@
                 </span>
         				<input type="text" name="dream_subject" id="dream-subject">
       				</div>
-      				
+
               <!-- big recording box-->
       				<div class = "recording-container user-elem">
 
@@ -103,7 +103,7 @@
         					<div class = "recording-content" id = "record-wakeup">
           						<img src="img/microphone.svg" id="mic">
             					<div class = "record-buttons">
-          							 <input type="submit" name="record_wakeup_message" class = "big-button" id="record-wakeup-message" value="record"> 
+          							 <input type="submit" name="record_wakeup_message" class = "big-button" id="record-wakeup-message" value="record">
 							           <div class = "small-record-buttons">
           							    <input type="submit" name="listen_wakeup_message" class = "small-button small-left-button" id="listen-wakeup-message" value="listen">
           								  <input type="submit" name="clear_wakeup_message" class = "small-button small-right-button" id="clear-wakeup-message" value="clear">
@@ -115,7 +115,7 @@
       				</div> <!-- close recording container -->
 
       				<div id = "dropdowns">
-      			
+
       					<div id = "user-loops" class = "user-elem">
               		<label for="loops">you want to catch </label>
               		<input id = "loops" list="loops-list" name="loops">
@@ -145,7 +145,7 @@
               		<label> minutes.</label>
               		<span class="tooltip">
                  			<img src = "img/tooltip.svg">
-                  		<span class="tooltiptext">this is the amount of time that you'll stay in a state of light sleep (hypnagogia) before the dormio system prompts you again to remind you what to dream about.</span> 
+                  		<span class="tooltiptext">this is the amount of time that you'll stay in a state of light sleep (hypnagogia) before the dormio system prompts you again to remind you what to dream about.</span>
                   </span>
             		</div> <!-- close hypna-latency-->
 
@@ -216,7 +216,7 @@
                   	 <span class="tooltiptext">this is how long dormio will record your dream report for.</span>
                  	</span>
             		</div> <!-- close recording time -->
-            		
+
                 </div>  <!-- close dropdowns -->
 
             		<div id = "start-button-container" class =  "user-elem">
@@ -239,12 +239,12 @@
           <img id="hr-img" src="img/hr.svg">
           <div id="bpm" class="channel-value">0</div>
       </div>
-    
+
       <div id="channel-flex" class="channel">
           <img src="img/flex.svg" id="flex-img">
           <div id="flex" class="channel-value">0</div>
       </div>
-    
+
       <div id="channel-eda" class="channel">
           <img src="img/eda.svg" id="eda-img">
           <div id="eda" class="channel-value">0</div>
@@ -281,12 +281,13 @@
             <button id = "play-wakeup"><img src = "img/wakeup_button.svg"></button>
           </div>
           <button id="connect">Connect</button>
+          <button id="start_session">Start Session</button>
           <button id="stop_session" style="background:rgba(255, 0, 0, .4);">Stop Session</button>
           <button id="calibrate">Calibrating...</button>
         </div> <!-- close buttons right -->
 
-      </div> <!-- close right -->  
-      </div> <!-- close other -->	
+      </div> <!-- close right -->
+      </div> <!-- close other -->
 	</div> <!-- end main -->
 </div><!-- end big container -->
 

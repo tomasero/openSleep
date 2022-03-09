@@ -55,8 +55,8 @@ function onReadBatteryLevelButtonClick() {
   .then(_ => {
     log('Reading Dormio Data...');
     //open form after 3 seconds to continue process if connect is successful
-        setTimeout(function()
-        {openForm()},10000);
+        // setTimeout(function()
+        // {openForm()},10000);
     return dataCharacteristic.readValue();
   })
   .catch(error => {
@@ -418,6 +418,10 @@ $(function(){
 //        when start biosignal button is pressed, do this
 //===============================================================
 
+$("#start_session").click(function() {
+  openForm();
+});
+
   $("#start_button").click(function(){
 
     // Validations
@@ -504,6 +508,7 @@ $(function(){
 
     fileReadOutput += "Session Start: " + nowTime + "\n---------------------------------------------------\n";
 
+    $("#start_session").hide();
     $("#calibrate").show();
       startCalibrating();
     $("#stop_session").show();
@@ -939,6 +944,7 @@ function endSession() {
   //hide buttons
    $("#calibrate").hide();
    $("#stop_session").hide();
+   $("#start_session").hide();
 
   recording = false;
 
