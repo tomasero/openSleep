@@ -4,6 +4,7 @@ The development of the hardware and software for this system started and most of
 
 ![Dormio](/images/dormio.jpg)
 
+The following is deprecated. We are about to release a new tutorial. Thanks for your patience!
 
 ## Hardware
 
