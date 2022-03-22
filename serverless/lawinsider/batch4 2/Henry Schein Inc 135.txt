@@ -1,0 +1,47 @@
+\centered [[Organization 1 Name]]  135 Duryea Road  [[Address 1: Address]] 
+
+[[Date 1: Date]]  
+[[Organization 2 Name]], Inc.
+
+[[Address 2: Address]] 
+
+\centered 
+
+Attention:    [[Person 1 First Name]] [[Person 1 Last Name]] Chief Executive Officer  
+
+Dear Mr. Mulder,  
+This letter agreement shall serve to amend that certain License and Distribution Agreement by and between [[Organization 1 Name]] (“HSI”) and [[Organization 2 Name]], Inc. (“Biolase”), dated as of [[Date 2: Date]], as amended (the “Agreement”). Capitalized terms used herein but not defined herein have the meanings set forth in the Agreement. 
+
+^In full satisfaction of any purchase or related obligations in the Agreement, including the letter agreement dated [[Date 3: Date]] (the “Letter Agreement”), HSI shall make advance payments of $[[USD Value 1: Number]] million in respect of Biolase products by transfer of immediately available cash funds, as follows: **. Payments **** shall be made ****. HSI may issue purchase orders for Biolase products or services **** in respect of such advance payments, and notwithstanding the expiry of the term of the Agreement, Biolase will provide HSI with **** consistent with the spirit of the Agreement. For the avoidance of doubt, HSI may sell and distribute at any time any Biolase inventory purchased prior to or after the date hereof. To facilitate Biolase’s planning, HSI will provide, within ten (10) days of the date hereof, a **** of its ****; provided however, the absence of such estimate, or estimates that reflect purchase levels that are less than the **** shall not under any circumstances relieve obligation of HSI to make the advance payments **, and in the ****.
+
+^To secure the $[[USD Value 1]] million advance payment, Biolase will agree to enter into a security agreement to be provided by HSI following the execution of this letter agreement containing terms and conditions consistent with those of the security agreement entered into in connection with the Letter Agreement (except as modified by this paragraph), and will consent to the filing of the related UCC or UCCs to effect a security interest for the benefit of HSI in Biolase’s inventory; provided that HSI shall agree to release such security upon receipt of the products deliverable in respect of such $[[USD Value 1]] million payment.
+
+^Upon written notice from HSI to Biolase, ** will be upgraded by Biolase, by HSI’s pre-payment to Biolase of **, in the event Biolase introduces **** for products of the type HSI maintains in inventory or purchases pursuant to this Letter Agreement.
+
+****    Certain confidential information contained in this document, marked with four asterisks, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.
+
+^^^^^ 
+**EXECUTION COPY**  
+^Pricing solely in respect of HSI’s purchases hereunder (totaling $[[USD Value 1]] million in purchases) will be at ****, and ****.
+
+This letter agreement amends certain terms and conditions of the Agreement. All other terms and conditions of the Agreement that are not modified by this letter agreement are hereby ratified and confirmed in all respects, and shall remain in full force and effect. Should there be any conflict between the terms and conditions contained in this letter agreement and the Agreement, the terms and conditions of this letter agreement shall govern and control. 
+
+This letter agreement shall be governed by, and construed and enforced in accordance with the laws of the State of California, without regard to conflict of laws principles. 
+
+Please acknowledge your agreement to the foregoing terms and conditions by executing this letter agreement. 
+
+Very truly yours,  [[Organization 1 Name]]
+[[Very truly yours  [[Organization 3 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{Very truly yours  [[Organization 3 Name]] Entity => By: [[Very truly yours  [[Organization 3 Name]] Signatory First Name]] [[Very truly yours  [[Organization 3 Name]] Signatory Last Name]]
+Title: [[Very truly yours  [[Organization 3 Name]] Signatory Title]]}}
+
+
+ACCEPTED AND AGREED:  [[Organization 2 Name]], INC.
+[[ACCEPTED AND AGREED  [[Organization 2 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ACCEPTED AND AGREED  [[Organization 2 Name]]. Entity => By: [[ACCEPTED AND AGREED  [[Organization 2 Name]]. Signatory First Name]] [[ACCEPTED AND AGREED  [[Organization 2 Name]]. Signatory Last Name]]
+Title: [[ACCEPTED AND AGREED  [[Organization 2 Name]]. Signatory Title]]}}
+
+
+****    Certain confidential information contained in this document, marked with four asterisks, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.

@@ -1,0 +1,58 @@
+
+
+\centered RESTRICTED STOCK UNIT AGREEMENT
+
+\centered (Performance Based)
+
+THIS RESTRICTED STOCK UNIT AGREEMENT dated as of _______, 2010 (the "Grant Date"), is between ___________________ (the "Grantee") and RC2 CORPORATION, a [[State of Formation: State]] [[Organization: EntityType]] (the "Company").
+
+\centered RECITALS
+
+^The Company's Board of Directors has adopted an amendment (the "Amendment") to the RC2 Corporation 2005 Stock Incentive Plan (the "Plan") and has approved the submission to the stockholders of the Company at the 2010 annual meeting of stockholders (the "Annual Meeting") of a proposal (the "Stock Plan Proposal") to approve and adopt the Amendment. If the Stock Plan Proposal is approved at the Annual Meeting, the Amendment will become effective as of the date of the Annual Meeting. Capitalized terms used herein but not defined shall have the meanings given such terms in the Plan or Schedule 1 hereto, as applicable.
+
+^The Plan is administered by the Compensation Committee of the Board (the "Committee").
+
+^Contingent upon the approval of the Stock Plan Proposal at the Annual Meeting, the Committee has designated the Grantee as the recipient of an Award of Restricted Stock Units under the Plan, and the Grantee and the Company desire to enter into this Agreement setting forth the terms and conditions of such Award of Restricted Stock Units.
+
+\centered AGREEMENTS
+
+The Grantee and the Company agree as follows:
+
+^**Grant of Restricted Stock Units**. The Company hereby grants to the Grantee _______ Restricted Stock Units (the "Target Grant") in accordance with this Agreement and the Plan. This grant of the Restricted Stock Units shall be contingent upon the approval of the Stock Plan Proposal by the requisite vote of the Company's stockholders at the Annual Meeting. In the event that the Stock Plan Proposal is not approved by the requisite vote of the Company's stockholders at the Annual Meeting, the grant of the Restricted Stock Units will automatically be rescinded and this Agreement will automatically be terminated and of no further force or effect.
+
+^**Award Payment**. The actual number of Restricted Stock Units that the Grantee earns during the Performance Period will be determined pursuant to Schedule 1 attached hereto. Unless deferred in accordance with Section 6, the Company will issue to the Grantee, as soon as administratively practicable after the Certification Date and in any event on or prior to [[Date 1: Date]], one share of Stock for each Restricted Stock Unit earned by the Grantee pursuant to Schedule 1.
+
+^**Termination of Employment**.  
+^^Except as otherwise provided in Section 3(b) below, the Grantee must be an employee of the Company or one of its Subsidiaries continuously from the Grant Date until the last day of the Performance Period in order for the Grantee to receive any shares of Stock with respect to Restricted Stock Units the Grantee may earn pursuant to Schedule 1.
+
+^^If the Grantee's employment is terminated by the Company without Cause, by the Grantee for Good Reason or due to death or Disability prior to the last day of the Performance Period, then the Grantee (or his or her designated beneficiary or estate in the case of death) will be entitled to receive a pro-rated number of shares of Stock with respect to any Restricted Stock Units the Grantee may earn pursuant to Schedule 1 (pro-rated based on the number of days during the Performance Period that the Grantee remained continuously employed by the Company or one of its Subsidiaries). The Grantee (or his or her designated beneficiary or estate in the case of death) will only be entitled to receive such shares of Stock following the Certification Date to the extent earned during the full Performance Peri od pursuant to Schedule 1.
+
+^^For purposes of this Section 3, Cause, Good Reason and Disability shall have the respective definitions set forth in the Grantee's written employment agreement with the Company or one of its Subsidiaries.
+
+^**Change in Capital Structure**. The number of shares of Stock covered by the Target Grant will be adjusted in the event of a stock dividend or split, recapitalization, recalssification or other similar corporate change as determined by the Committee in accordance with the Plan.
+
+^**Change of Control**. Notwithstanding anything in this Agreement, Schedule 1 or the Plan to the contrary, upon the occurrence of a Change of Control [[Percentage 1: Number]]% of the Target Grant shall immediately be deemed to have been earned.
+
+^**Deferral**. At any time prior to the date that is six months before the end of the Performance Period, the Grantee may submit to the Secretary of the Company an irrevocable election in the form of Schedule 2 to this Agreement to defer receipt of all or any portion of the shares of Stock otherwise issuable to the Grantee with respect to Restricted Stock Units that the Grantee may earn in accordance with Schedule 1. The Grantee may only make such a deferral election once and any such deferral election may not be modified or amended by the Grantee or the Company once it has been made.
+
+^**Addresses**. All notices or statements required to be given to either party hereto shall be in writing and shall be personally delivered or sent, in the case of the Company, to its principal business office and, in the case of Grantee, to Grantee's address as is shown on the records of the Company or to such address as Grantee designates in writing. Notice of any change of address shall be sent to the other party by registered or certified mail. It shall be conclusively presumed that any notice or statement properly addressed and mailed bearing the required postage stamps has been delivered to the party to which it is addressed.
+
+^**Service Provider Relationship**. Nothing in this Agreement or in the Plan shall limit the right of the Company or any parent or subsidiary of the Company to terminate Grantee's employment or other form of service relationship or otherwise impose any obligation to employ and/or retain Grantee as a service provider.
+
+^**Taxes**. The Company may require payment or reimbursement of or may withhold any tax it believes is required as a result of the grant or earning of any of the Restricted Stock Units or any payments of shares of Stock in connection with the Restricted Stock Units, and the Company may defer making delivery of any shares of Stock in respect of the Restricted Stock Units until arrangements satisfactory to the Company have been made with regard to any such payment, reimbursement or withholding obligation.
+
+^**Dividends and Voting Rights**. The Grantee will not be entitled to receive any dividends for his or her Restricted Stock Units and shall not be entitled to voting rights with respect to such Restricted Stock Units. Such dividend and voting rights will only apply once shares of Stock have actually been issued to the Grantee following the Certification Date (or, if applicable, following any later date to which receipt of any shares of Stock have been deferred pursuant to Section 6).
+
+^**Nontransferability of Restricted Stock Units**. The Restricted Stock Units shall not be transferable other than by will or the laws of descent or distribution.
+
+^**Governing Law**. This Agreement shall be construed, administered and governed in all respects under and by the laws of the State of Delaware.
+
+^**Provisions Consistent with Plan**. This Agreement is intended to be construed to be consistent with, and is subject to, all applicable provisions of the Plan, which is incorporated herein by reference. In the event of a conflict between the provisions of this Agreement and the Plan, the provisions of the Plan shall prevail.
+
+GRANTEE:  
+____________________________________   
+RC2 CORPORATION  
+[[RC2 CORPORATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{RC2 CORPORATION Entity => By: [[RC2 CORPORATION Signatory First Name]] [[RC2 CORPORATION Signatory Last Name]]
+Title: [[RC2 CORPORATION Signatory Title]]}}

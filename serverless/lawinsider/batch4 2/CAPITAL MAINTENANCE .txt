@@ -1,0 +1,157 @@
+**CONFIDENTIAL** 
+
+\centered **[[Organization 1 Name]] AGREEMENT** 
+
+This [[Organization 1 Name]] AGREEMENT (this “**Capital Agreement**”) dated as of [[Date 1: Date]] (the “**Effective Date**”) is made by and between [[Obligor]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Obligor**”), and [[Prime Re]], INC., a special purpose financial captive insurance company domiciled in the State of Vermont (“**Prime Re**”). 
+
+WHEREAS, Prime Re is an indirect wholly owned subsidiary of the Obligor; 
+
+WHEREAS, Prime Re will enter into a reinsurance agreement with [[Organization 2 Name]], a stock life insurance company domiciled in the State of Massachusetts (the “**Ceding Company**”) pursuant to which Prime Re will reinsure [[Percentage 1: Number]]% of certain liabilities arising under certain term life insurance policies issued by the Ceding Company (the “[[Percentage 1]]% Coinsurance Agreement”); 
+
+WHEREAS, Prime Re will enter into a reinsurance agreement with [[Organization 2 Name]], a stock life insurance company domiciled in the State of Massachusetts (the “**Ceding Company**”), pursuant to which Prime Re will reinsure [[Percentage 2: Number]]% of certain liabilities arising under certain term life insurance policies issued by the Ceding Company (the “[[Percentage 2]]% Coinsurance Agreement” and, collectively with the [[Percentage 1]]% Coinsurance Agreement, the “**Reinsurance Agreements**”); and 
+
+WHEREAS, the Obligor has determined that its corporate interests will be furthered by its entering into this Capital Agreement to support Prime Re’s obligations under the Reinsurance Agreements. 
+
+NOW, THEREFORE, in consideration of the mutual and several promises and undertakings herein contained, and for good and valuable consideration, the receipt and adequacy of which are herby acknowledged, the Obligor and Prime Re (individually, a “**Party**” and collectively, the “**Parties**”) hereby agree as follows. 
+
+^Definitions. The following terms, when used in this Capital Agreement, shall have the meanings set forth in this Section 1. 
+
+^^“**Annual Statement**” means the annual statement that complies with Title 8 Vermont Statutes Annotated, Chapter 101, subchapter 3561 and is required to be filed by Prime Re in accordance with its Plan of Operation. 
+
+^^“**Assets**” means the types of assets meeting the investment guidelines set forth in Prime Re’s Investment Management Agreement. 
+
+^^“**Capital Agreement**” shall have the meaning set forth in the Preamble. 
+
+^^“**Capital Threshold**” means (i) in the case of each of the first, second and third quarters of 2010, [[Percentage 3: Number]]% of Prime Re’s estimated Company Action Level Risk Based Capital at each respective quarter-end, such estimate to be prepared by Prime Re in good faith on a basis consistent with the calculation for its Company Action Level Risk Based Capital that would have applied if Prime Re had filed a Risk Based Capital Report with the State of Vermont for the year ended [[Date 2: Date]], (ii) in the case of the quarter-end of the fourth quarter of each calendar year, [[Percentage 3]]% of Prime Re’s Company Action Level Risk Based Capital as reported in Prime Re’s Risk Based Capital Report as most recently filed with the State of Vermont, and (iii) in the case of the quarter-ends of each of the first three quarters of each calendar year following [[Date 3: Date]], [[Percentage 3]]% of Prime Re’s estimated Company Action Level Risk Based Capital at such quarter-end, such estimate to be prepared by Prime Re in good faith on a basis consistent with the calculation for its Company Action Level Risk Based Capital as reported in Prime Re’s Risk Based Capital Report as most recently filed with the State of Vermont. If the VT DOI ceases to use the term Company Action Level Risk Based Capital, then Company Action Level Risk Based Capital shall mean the comparable term then used by the NAIC. If the NAIC ceases to establish risk based capital requirements, then Company Action Level Risk Based Capital shall mean the comparable term that was last established by the NAIC. 
+
+^^“**Ceding Company**” shall have the meaning set forth in the Preamble. 
+
+^^“**Company Action Level Risk Based Capital**” shall have the meaning set forth in Title 8 Vermont Statutes Annotated, Chapter 159, subchapter 8301(12)(A). 
+
+^^“**Effective Date**” means [[Date 1]]. 
+
+^^“[[Percentage 1]]% Coinsurance Agreement” shall have the meaning set forth in the Preamble. 
+
+^^“**Fair Value**” means, for the purposes of determining the fair market value of any Assets contributed by the Obligor pursuant to Section 2(a) of this Capital Agreement, fair market value determined using prices published by a nationally recognized pricing service for Assets for which such prices are available and for Assets for which such prices are not available, fair market value determined using methodologies consistent with those which Prime Re uses for determining the fair market value of assets held in its general account in the ordinary course of business. 
+
+^^“**Federal Reserve**” shall have the meaning set forth in Section 2(a). 
+
+^^“**Governmental Authority**” means any federal, state, county, local, foreign or other governmental or public agency, instrumentality, commission, authority or self-regulatory organization, board or body. 
+
+^^“**Investment Management Agreement**” means the investment management agreement dated [[Date 4: Date]] between [[Organization 3 Name]] Company and Prime Re, as may be amended from time to time. 
+
+^^“**Maximum Amount**” means, as of a particular date, (i) during the five-year period commencing with the Effective Date and ending on the five year anniversary of the Effective Date, an aggregate amount of cash and/or Fair Value of Assets equal to $[[USD Value 2: Number]] million and (ii) from and after the five year anniversary of the Effective Date, an aggregate amount of cash and/or Fair Value of Assets equal to the lesser of (x) $[[USD Value 2]] million, or (y) [[Percentage 4: Number]]% of Statutory Reserves, determined as of the five year anniversary of the Effective Date and each subsequent anniversary date thereafter. 
+
+^^“**NAIC**” means the National Association of Insurance Commissioners, together with any successor organization or regulatory agency having similar duties. 
+
+^^“**Obligor**” shall have the meaning set forth in the Preamble. 
+
+^^“**Plan of Operation**” means the detailed plan of operation as approved by the VT DOI on or prior to the Effective Date that complies with the requirements of Title 8 Vermont Statutes Annotated, Chapter 141, subchapter 6002(c)(1)(B). 
+
+^^“**Prime Re**” shall have the meaning set forth in the Preamble. 
+
+^^“**Reinsurance Agreements**” shall have the meaning set forth in the Preamble. 
+
+^^“**Risk Based Capital Report**” means the risk based capital report that complies with Title 8 Vermont Statutes Annotated, Chapter 159, subchapter 8302 and is required to be filed by Prime Re, commencing with the year ended [[Date 3]], in accordance with its Plan of Operation. 
+
+^^“**Statutory Reserves**” means an amount equal to the sum of (i) the Reinsurer’s Quota Share of Statutory Reserves (as defined in the [[Percentage 1]]% Coinsurance Agreement) and (ii) the Reinsurer’s Quota Share of Statutory Reserves (as defined in the [[Percentage 2]]% Coinsurance Agreement). 
+
+^^“[[Percentage 2]]% Coinsurance Agreement” shall have the meaning set forth in the Preamble. 
+
+^^“**Total Adjusted Capital**” means (i) in the case of each of the first, second and third quarters of 2010, Prime Re’s estimated Total Adjusted Capital at each respective quarter-end, such estimate to be prepared by Prime Re in good faith on a basis consistent with the calculation for its Total Adjusted Capital that would have applied if Prime Re had filed an Annual Statement with the State of Vermont for the year ended [[Date 2]], (ii) in the case of the quarter-end of the fourth quarter of each calendar year, the Total Adjusted Capital as reported in Prime Re’s Annual Statement as most recently filed with the State of Vermont, and (iii) in the case of the quarter-ends of each of the first three quarters of each calendar year following [[Date 3]], Prime Re’s estimated Total Adjusted Capital at such quarter-end, such estimate to be prepared by Prime Re in good faith on a basis consistent with the calculation for its Total Adjusted Capital as reported in Prime Re’s Annual Statement as most recently filed with the State of Vermont. 
+
+^^“**VT DOI**” means the Department of Banking, Insurance, Securities and Health Care Administration of the State of Vermont together with any successor organization or regulatory agency having similar duties. 
+
+^Maintenance of Risk-Based Capital. 
+
+^^If, at the end of any quarter during the term of this Capital Agreement, Prime Re’s Total Adjusted Capital is less than the Capital Threshold, then the Obligor shall contribute, or cause one of its subsidiaries to contribute, additional capital to Prime Re, in the form of cash and/or Fair Value of Assets, in such aggregate amount as shall cause Prime Re’s Total Adjusted Capital, immediately upon receipt of such contribution, to equal or exceed the Capital Threshold; provided, however, that no contribution from the Obligor will be required if Prime Re’s Total Adjusted Capital is less than the Capital Threshold by no more than $[[USD Value 1: Number]] Prime Re shall furnish its Annual Statements and its Risk Based Capital Reports to the Obligor promptly upon filing thereof with the VT DOI. In the case of the first three quarters of each calendar year, Prime Re shall provide its estimated calculations of Company Action Level Risk Based Capital and Total Adjusted Capital to the Obligor within 20 calendar days of each quarter-end, accompanied by reasonable detail illustrating the basis upon which such estimates were prepared. In the event that Prime Re determines that its Total Adjusted Capital is less than the Capital Threshold at any particular quarter-end, it shall also deliver a statement to the Obligor simultaneously with its delivery of the Risk Based Capital Report or quarterly estimate, as the case may be, which identifies the amount of such deficiency and makes a demand to the Obligor for the payment of such amount pursuant to this Section 2(a). The Obligor shall cause payment of the required amount to Prime Re within 45 calendar days from receipt of any such demand for payment made by, or on behalf of, Prime Re; provided, however, if any notice to and/or approval by the Board of Governors of the Federal Reserve System (the “**Federal Reserve**”) is required for Obligor to make such payment, Obligor shall have provided such notice to, and/or obtained such required approval from, the Federal Reserve within such 45 day period. Such 45 day period is subject to extension upon the consent of the Ceding Company, consent which shall not be unreasonably conditioned, delayed or withheld; provided, however, the Ceding Company shall not be required to consent to extend such period beyond an additional 45 days, for a total not to exceed 90 days, in accordance with the Reinsurance Agreements. The Obligor agrees to promptly provide all required notices to, and make all required filings with, the Federal Reserve and to diligently pursue all approvals required to be obtained to make any required payment hereunder; provided, however, to the extent information is required from the Ceding Company to complete any such notice or approval filing, the Ceding Company will cooperate to promptly provide such information to the Obligor. 
+
+^^**Notwithstanding anything in this Capital Agreement to the contrary, the Obligor shall never be required to make aggregate payments over the term of this Capital Agreement that exceed the Maximum Amount applicable at the time any payment is required to be made by Obligor pursuant to Section 2 of this Capital Agreement.** 
+
+^No Guarantee. This Capital Agreement is not, and nothing herein contained and nothing done pursuant hereto by the Obligor shall be deemed to constitute, a direct or indirect guarantee by the Obligor of the payment of any debt or other obligation, indebtedness or liability, of any kind or character whatsoever, of Prime Re, if any. 
+
+^Representations and Warranties. The Obligor represents and warrants that: (i) it is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware; (ii) it has all requisite corporate power and authority and has obtained all authorizations and approvals required in order to execute, deliver and perform this Capital Agreement and to perform its obligations hereunder; (iii) this Capital Agreement has been duly executed and delivered by it and constitutes a valid and binding agreement of the Obligor enforceable in accordance with the terms hereof; and (iv) the execution, delivery and performance of this Capital Agreement and the consummation of the obligations contemplated hereby will not (a) violate any provision of the Articles of Incorporation, Bylaws or other charter or organizational document of the Obligor, or (b) violate any order, judgment, injunction, award or decree of any court, arbitrator or Governmental Authority against, or binding upon, or any agreement with, or condition imposed by, any Governmental Authority, foreign or domestic, binding upon the Obligor, except when any such violation would not have a material adverse effect on this Capital Agreement or the consummation of the transactions contemplated hereby. 
+
+^Termination. This Capital Agreement shall terminate on the earlier to occur of (i) the date as of which all of the obligations of Prime Re under the Reinsurance Agreements are fully and finally discharged or (ii) the date as of which the Obligor has made aggregate payments under this Capital Agreement equal to or greater than the Maximum Amount applicable at the time any payment is required to be made by Obligor pursuant to Section 2 of this Capital Agreement. 
+
+^Third Party Approvals. 
+
+^^No Party may assign, delegate or otherwise transfer any of its rights or obligations under this Capital Agreement or amend this Capital Agreement without the prior written consent of both the Ceding Company and the Massachusetts Division of Insurance, such consent not to be unreasonably withheld or delayed so long as (i) such successors or assigns have sufficient financial capabilities to meet any outstanding obligations that may exist at the time of such assignment and (ii) such amendment does not have a material adverse effect on the Ceding Company’s rights under the Reinsurance Agreements. 
+
+^^The Parties hereby acknowledge that each of the Ceding Company and the Massachusetts Division of Insurance is an express third party beneficiary of this Capital Agreement. In the event that Prime Re shall fail to enforce any of its rights under this Capital Agreement in a timely manner, each of the Ceding Company and the Massachusetts Division of Insurance shall have the right to enforce such rights on behalf of and in the name of Prime Re. Prime Re shall reimburse each of the Ceding Company or the Massachusetts Division of Insurance, as applicable, for actual reasonable expenses incurred by the Ceding Company or the Massachusetts Division of Insurance, as applicable, pursuant to this Section 6(b). 
+
+^^Prime Re shall provide each of the Ceding Company and the Massachusetts Division of Insurance, as promptly as practicable, copies of all Annual Statements, Risk Based Capital Reports (or quarterly estimates thereof), written regulatory correspondence relating to the Risk Based Capital Reports, and any statements of deficiencies or notices made by Prime Re to the Obligor pursuant to Section 2 and Section 5 hereof. In addition, Prime Re shall promptly notify each of the Ceding Company and the Massachusetts Division of Insurance in the event that the Obligor shall fail to make the required payments upon demand in accordance with Section 2 hereof. 
+
+^No Third Party Beneficiaries. Except as otherwise provided in Section 6 herein, no provision of this Capital Agreement is intended to confer upon any person other than the Parties hereto any rights or remedies hereunder. 
+
+^Governing Law. This Capital Agreement shall be governed by and construed and interpreted in accordance with the laws of the State of [[Address 1: Address]] effect to the principles of conflicts of law thereof. Any proceeding to resolve a dispute arising out of or related to this Capital Agreement may be brought in any Federal or state court in the state of [[Address 2: Address]] consent to service and jurisdiction of such courts. 
+
+^Notices. All notices, requests, claims, demands and other communications under this Capital Agreement shall be in writing and shall be given or made (and shall be deemed to have been duly given or made upon receipt) by delivery in person, by overnight courier service, by facsimile with receipt confirmed (followed by delivery of an original via overnight courier service) or by registered or certified mail (postage prepaid, return receipt requested) to the respective Parties at the following addresses (or at such other address for a Party as shall be specified in a notice given in accordance with this Section 9): 
+
+If to Prime Re to: 
+
+[[Prime Re]], Inc. 
+
+c/o [[Organization 4 Name]] 
+
+[[Address 3: Address]] 
+
+With copies to (which shall not constitute notice to Prime Re for purposes of this Section 9): 
+
+[[Person 1 First Name]] [[Person 1 Last Name]], Esq. 
+
+Primmer Piper Eggleston & Cramer PC 
+
+[[Address 4: Address]]-1489 
+
+If to the Obligor to: 
+
+[[Obligor]] 
+
+With copies to (which shall not constitute notice to the Obligor for purposes of this Section 9): 
+
+[[Person 2 First Name]] [[Person 2 Last Name]], Esq. 
+
+[[Person 3 First Name]] [[Person 3 Last Name]], Esq. 
+
+[[Organization 5 Name]] LLP 
+
+Four Times Square 
+
+[[Address 5: Address]] 
+
+[[Phone 1]] 
+
+^Severability. If any provision of this Capital Agreement is held to be invalid, illegal or unenforceable under any present or future law or if determined by a court of competent jurisdiction to be unenforceable, and if the rights or obligations of the Obligor or Prime Re under this Capital Agreement will not be materially and adversely affected thereby, such provision shall be fully severable, and this Capital Agreement will be construed and enforced as if such illegal, invalid or unenforceable provision had never comprised a part of this Capital Agreement, and the remaining provisions of this Capital Agreement shall remain in full force and effect and will not be affected by the illegal, invalid or unenforceable provision or by its severance herefrom. 
+
+^Entire Agreement. This Capital Agreement represents the entire agreement between the Parties hereto with respect to the subject matter of this Capital Agreement. There are no understandings between the Parties with respect to the subject matter of this Capital Agreement other than as expressed herein and expressed in the Reinsurance Agreements. 
+
+^Successors and Assigns. The provisions of this Capital Agreement shall be binding upon and inure to the benefit of the Parties hereto and their respective successors and assigns; provided that no Party may assign, delegate or otherwise transfer any of its rights or obligations under this Capital Agreement without the consent of the other Party hereto and subject to Section 6 hereof, such consent not to be unreasonably withheld or delayed. 
+
+^Amendment. Subject to Section 6 hereof, any provision of this Capital Agreement may be amended if, but only if, such amendment is in writing and is signed by each Party to this Capital Agreement. Any change or modification to this Capital Agreement shall be null and void unless made by an amendment hereto signed by each Party to this Capital Agreement. 
+
+^Enforcement. Failure on the part of any Party to act or declare any other Party in default shall not constitute a waiver by such Party of any of its rights hereunder where such default has occurred and is continuing. 
+
+^Interpretation. 
+
+^^When a reference is made in this Capital Agreement to a Section, such reference shall be to a Section to this Capital Agreement unless otherwise indicated. The Section headings contained in this Capital Agreement are solely for the purpose of reference, are not part of the agreement of the Parties and shall not affect in any way the meaning or interpretation of this Capital Agreement. Whenever the words “include,” “includes” or “including” are used in this Capital Agreement, they shall be deemed to be followed by the words “without limitation.” The words “hereof”, “herein” and “hereunder” and words of similar import when used in this Capital Agreement shall refer to this Capital Agreement as a whole and not to any particular provision of this Capital Agreement. The definitions contained in this Capital Agreement are applicable to the singular as well as the plural forms of such terms and to the masculine as well as to the feminine and neuter genders of such term. Any agreement, instrument or statute defined or referred to herein or in any agreement or instrument that is referred to herein means such agreement, instrument or statute as from time to time amended, modified or supplemented, including (in the case of agreements or instruments) by waiver or consent and (in the case of statutes) by succession of comparable successor statutes. References to a person are also to its permitted successors and assigns. 
+
+^^The Parties have participated jointly in the negotiation and drafting of this Capital Agreement; consequently, in the event an ambiguity or question of intent or interpretation arises, this Capital Agreement shall be construed as if drafted jointly by the parties thereto, and no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any provisions of this Capital Agreement. 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Capital Agreement to be executed and delivered as of the day and year first written above by their respective duly authorized officers. 
+
+[[Obligor]]
+
+[[Obligor Signatory Email: Identity | Signature]]
+__________________________________________
+{{Obligor Entity => By: [[Obligor Signatory First Name]] [[Obligor Signatory Last Name]]
+Title: [[Obligor Signatory Title]]}}
+
+
+[[Prime Re]], Inc.
+
+[[Prime Re Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Prime Re Inc. Entity => By: [[Prime Re Inc. Signatory First Name]] [[Prime Re Inc. Signatory Last Name]]
+Title: [[Prime Re Inc. Signatory Title]]}}
+

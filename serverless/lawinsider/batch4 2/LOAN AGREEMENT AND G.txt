@@ -1,0 +1,43 @@
+\centered LOAN AGREEMENT AND GUARANTY
+
+LOAN AGREEMENT dated as of [[Date 1: Date]], by and among [[Borrower]], residing at Est. Noroeste De Taipa 15/F., [[Party 2]] & Resort Limited, a [[State of Formation: State]] [[Organization: EntityType]] having offices at Unit 1004, East Town Building, 16 Fenwick Street, Wanchai, Hong Kong (“Borrower”). Messrs. Lam and Vong are each herein referred to individually as a “Lender” and are referred to collectively as the “Lenders.”
+
+RECITALS:  
+
+^The Lenders are executive officers of Borrower and its subsidiaries and shareholders and executive officers of the parent company of Borrower and are also principals in companies (“VIP Gaming Promoters”) that are parties to agreements with concessionaires and sub-concessionaires to operate VIP gaming rooms in casinos in hotels operated by such concessionaires and sub-concessionaires.
+
+^The VIP Gaming Promoters are parties to agreements (“Profit Interest Agreements”) with subsidiaries of Borrower pursuant to which the VIP Gaming Promoters have assigned to the subsidiaries [[Percentage 1: Number]]% of the profits earned by the VIP Gaming Promoters from the operation of the VIP gaming rooms.
+
+^Pursuant to the Profit Interest Agreements, the Lenders have agreed to make loans to Borrower for use by Borrower as working capital and to enable Borrower to make loans to VIP Gaming Promoters.
+
+IT IS AGREED:  
+
+^**Lenders’ Commitment**. The Lenders, jointly and severally, hereby agree to loan to Borrower amounts that (a) on and after the date of this Agreement shall be not less than Hong Kong dollars (HK$) 150,000,000, and (b) on and after [[Date 2: Date]] and until the termination of this Agreement shall be not less than HK$ 350,000,000.
+
+^**Use of Loan Proceeds**. Borrower shall use the loans made by the Lenders hereunder solely for working capital and for making loans to VIP Gaming Promoters that are parties to Profit Interest Agreements with subsidiaries of Borrower.
+
+^**No Interest**. All loans made pursuant to this Agreement shall be non-interest bearing.
+
+^**Term of Agreement**. The term of this Agreement shall begin as of the date of this Agreement and shall continue until the last day (the “Termination Date”) of the first fiscal quarter year of Borrower ending after the date of this Agreement on which the working capital of Borrower and its subsidiaries is at least HK$ 775,000,000 at the close of business of such fiscal quarter, determined in accordance with United States generally accepted accounting principles consistently applied, but excluding any working capital resulting from loans made by the Lenders.
+
+^**Repayment**. All loans outstanding on the Termination Date shall be repaid by Borrower to the Lenders no later than ten business days (as determined in the Hong Kong Special Administrative Region) after the Termination Date. Upon request by the Lenders, at any time that the amount of loans outstanding is greater than the commitment of the Lenders pursuant to Section 1, Borrower shall repay to the Lenders the amount of such excess or such lesser amount as may be requested by the Lenders.
+
+^**Evidence of Loans and Repayment**. Borrower shall reflect in its books and records all loans made to it and all repayments of such loans.
+
+^**Guaranty by Lenders**. The Lenders, jointly and severally, hereby absolutely and unconditionally guaranty to Borrower the prompt, full and faithful payment when due of all loans made by Borrower to VIP Gaming Promoters, including loans made by Borrower with funds obtained from its operations with the prior approval of the Lenders. Regardless of whether Borrower is prevented or otherwise hindered by law from collecting or otherwise enforcing any of such loans in accordance with their terms, whether as the result of the commencement of any bankruptcy or similar proceedings against a VIP Gaming Promoter or otherwise, Borrower shall be entitled to receive hereunder from Lenders upon demand therefor the sums that would have been due had such collection or enforcement not been prevented or hindered. Borrower shall not be required to take any action or proceeding of any kind against the Lenders to enforce its rights hereunder. Any amounts due to Borrower pursuant to the guaranty provided by the Lenders in this Section 7 may, at Borrower’s election, be offset against amounts owing to the Lenders by Borrower pursuant to this Agreement.
+
+^**Notices**. All notices and other communications hereunder shall be in writing and shall be deemed given if delivered personally or by overnight commercial delivery service providing proof of delivery to the parties at the addresses set forth in the heading of this Agreement (or at such other address for a party as shall be specified by like notice) and shall be deemed given when delivered to the recipient.
+
+^**Governing Law**. This Agreement shall be governed by and construed in accordance with the law of the Hong Kong Special Administrative Region without giving effect to principles of conflicts of law.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+[[Organization 1 Name]] LIMITED
+/s/ [[Borrower]]
+\centered [[Borrower]]
+[[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+\centered [[Party 3]]      Title:   CEO

@@ -1,0 +1,227 @@
+**[[Organization 1 Name]], [[Organization 2 Name]] (877)240-0795** 
+
+\centered **INTEREST RATE MASTER AGREEMENT** 
+
+**THIS INTEREST RATE MASTER AGREEMENT** (“Master Agreement”) is entered into as of the 26**th** **day of [[Date 1: Date]],** by and between **[[Organization 1 Name]]** (“Party A”), and **[[Party B]]**, a [[State of Formation: State]] [[Organization: EntityType]]** (“Party B”). 
+
+WHEREAS, the parties have entered or anticipate entering into one or more transactions (each a “Transaction”) that are or will be governed by this Master Agreement, and each Transaction shall be evidenced by a trade confirmation (each a “Confirmation”); 
+
+**WHEREAS,** both Party A and Party B expect from time to time to seek to reduce actual or expected exposure to changes in interest rates or to lower costs of actual or expected borrowings; 
+
+**WHEREAS,** in respect of each Transaction, the Fixed Rate Payer (either Party A or Party B, as specified in the applicable Confirmation), is willing to make the payments based on a fixed rate of interest as provided in such Confirmation(s); and 
+
+**WHEREAS,** in respect of each Transaction, the Floating Rate Payer (the party other than the Fixed Rate Payer, as specified in the applicable Confirmation), is willing to make the payments based on a floating rate of interest as provided in such Confirmation(s). 
+
+**NOW THEREFORE,** in consideration of their mutual covenants, Party A and Party B agree as follows: 
+
+^**Definitions.** For each Transaction, the capitalized terms “Business Day”,  
+
+“Calculation Method”, “Cap Purchaser”, “Cap Rate”, “Cap Seller”, “Collar Purchaser”, “Collar Seller”, “Determination Date”, “Effective Date”, “Fee”, “Fee Payment Date”, “Fixed Rate”, “Fixed Rate Payer”, “Fixed Rate Payment Date”, “Floating Rate”, “Floating Rate Maturity”, “Floating Rate Payer”, “Floating Rate Payment Date”, “Floor Purchaser”, “Floor Rate”, “Floor Seller”, “Loan Documents”, “Loan Facility”, “Notional Amount”, “Reset Dates”, “Settlement Payment Dates”, “Termination Date”, “Trade Date”, and “Transaction Type” shall each be as specified in the Confirmation relating to such Transaction, if applicable. AU other capitalized terms shall have the meanings set forth in the 2005 Definitions Addendum to the Interest Rate Master Agreement, which may be amended, modified or supplemented from time to time and is attached hereto and incorporated herein by this reference (the “Definitions Addendum”). 
+
+^**Determination; Settlement Payments.** The following Settlement Payment  
+
+determinations shall apply to the Transaction Type as specified for a Transaction in the applicable Confirmation. Such calculations will be made on the basis of the Day Count Convention, as defined in the Definitions Addendum: 
+
+^^**Swaps:** If the Fixed Rate Payment Date and the Floating Rate 
+
+Payment Date are the same (the “Settlement Payment Date”), then the Floating Rate Payment (as defined below) and the Fixed Rate Payment (as defined below) shall be netted and discharged and, if such payments are not equal, replaced by an obligation of the party owing the greater amount to pay the Net Settlement Payment to the other party, which obligation shall be due and payable on the Settlement Payment Date. The “Net Settlement Payment” is the result of subtracting the lesser of the Floating Rate Payment and the Fixed Rate Payment from the greater. If the Fixed Rate Payment Date and the Floating Rate Payment Date are different, then the Fixed Rate Payer will pay the Fixed Rate Payment to the Floating Rate Payer on the Fixed Rate Payment Date, and the Floating Rate Payer will pay the Floating Rate Payment to the Fixed Rate Payer on the Floating Rate Payment Date. For each Calculation Period, prior to each Settlement Payment Date, Party A will send Party B a written notice (“Settlement Notice”) for each Transaction specifying:  
+
+^^^the amount of interest that will have accrued on the Notional  
+
+Amount during the Calculation Period at a rate per annum equal to the applicable Floating Rate (“Floating Rate Payment”); and 
+
+^^^the amount of interest that will have accrued on the Notional  
+
+Amount during the Calculation Period at a rate per annum equal to the applicable Fixed Rate (“Fixed Rate Payment”). 
+
+^^Caps; In consideration of Cap Purchaser’s payment of the Fee, 
+
+Cap Seller will make a Settlement Payment to Cap Purchaser on the Settlement Payment Date with respect to any Calculation Period, if interest on the Notional Amount computed at the Floating Rate exceeds interest on the Notional Amount computed at the Cap Rate for such Calculation Period. The amount of such Settlement Payment will be the result of subtracting such interest computed at the Cap Rate from such interest computed at the Floating Rate. For each Calculation Period, prior to each Settlement Payment Date, Party A will send Party B a Settlement Notice for each Transaction specifying: 
+
+^^^the amount of interest that will have accrued on the Notional  
+
+Amount during such Calculation Period at a rate per annum equal to the Floating Rate; and 
+
+^^^the amount of interest that will have accrued on the Notional  
+
+\centered 
+
+Amount during such Calculation Period at a rate per annum equal to the Cap Rate. (c)    **Floors:**    In consideration of Floor Purchaser’s payment of the Fee,  
+
+Floor Seller will make a Settlement Payment to Floor Purchaser on the Settlement Payment Date with respect to any Calculation Period, if interest on the Notional Amount computed at the Floating Rate is less than the interest on the Notional Amount computed at the Floor Rate for such Calculation Period. The amount of such Settlement Payment will be the result of subtracting such interest computed at the Floating Rate from such interest computed at the Floor Rate. For each Calculation Period, prior to each Settlement Payment Date, Party A will send Party B a Settlement Notice for each Transaction specifying: 
+
+^^^the amount of interest that will have accrued in the Notional 
+
+Amount during such Calculation Period at a rate per annum equal to the Floating Rate; and 
+
+^^^the amount of interest that will have accrued on the Notional  
+
+\centered 
+
+Amount during such Calculation Period at a rate per annum equal to the Floor Rate. (d)    Collars:    A Collar consists of a Cap and a Floor on the same Floating 
+
+Rate and Notional Amount. Collar Seller is Cap Seller and Floor Purchaser; Collar Purchaser is Cap Purchaser and Floor Seller. Collar Seller will make a Settlement Payment to Collar Purchaser on the Settlement Payment Date with respect to any Calculation Period, if interest on the Notional Amount computed at the Floating Rate exceeds interest on the Notional Amount computed at the Cap Rate for such Calculation Period. The amount of such Settlement Payment will be the result of subtracting such interest computed at the Cap Rate from such interest computed at the Floating Rate. Collar Purchaser will make a Settlement Payment to Collar Seller on the Settlement Payment Date with respect to any Calculation Period, if interest on the Notional Amount computed at the Floating Rate is below interest on the Notional Amount computed at the Floor Rate for such Calculation Period. The amount of such Settlement Payment will be the result of subtracting such interest computed at the Floating Rate from such interest computed at the Floor Rate. For each Calculation Period, prior to each Settlement Payment Date, Party A will send Party B a Settlement Notice specifying: 
+
+^^^the amount of interest that will have accrued on the Notional 
+
+Amount, as defined in the applicable Confirmation, during the Calculation Period at a rate per annum equal to the Floating Rate; 
+
+^^^the amount of interest that will have accrued on the Notional 
+
+Amount, as defined in the applicable Confirmation, during the Calculation Period at a rate per annum equal to the Cap Rate; and 
+
+^^^the amount of interest that will have accrued on the Notional 
+
+Amount during the Calculation Period at a rate per annum equal to the Floor Rate. 
+
+^^For any Transaction under Section 2(a) above, the “Fixed Rate Payment 
+
+Date” and the “Floating Rate Payment Date” will be the date or dates set forth as such in the Confirmation thereof For any Transaction under Section 2(b), 2(c) or 2(d) above, the “Settlement Payment Date” will be the date set forth as such in the Confirmation thereof. All payments will be made in accordance with the settlement instructions provided in the “Account Details” section of the relevant Confirmation. 
+
+^**Early Termination.** 
+
+^^Neither party may terminate any Transaction prior to its Termination Date 
+
+provided, however that in the event that either Party A or Party B fails to make any payment when due hereunder or otherwise fails to perform any of its obligations hereunder, the non- defaulting party may terminate this Master Agreement and all Transactions hereunder upon one New York Business Day’s written notice so long as such default is then continuing. 
+
+^^This Section 3(b) shall apply to Party B, and 3(b)(ii) and (iii) shall only 
+
+apply if a Loan Facility is stated in the Confirmation. Party A may terminate this Master Agreement and all Transactions hereunder, unless otherwise provided for in a Confirmation if any of the following occur: 
+
+^^^Party B is unable to pay its debts as they come due, is insolvent,  
+
+commences or has commenced against it a bankruptcy proceeding, or takes any action in furtherance of the foregoing; or fails to make any payment when due under the Loan Facility (after giving effect to any applicable notice requirement or grace period) or any other event of default occurs under the Loan Documents which has resulted in the indebtedness thereunder being, or being capable of being declared or accelerated, Party A may, so long *as* such default is then continuing and upon one New York Business Day written notice, take one or more of the following actions: (A) offset the remaining payments owed by Party A from time to time hereunder to Party B against the amount owed to Party A under the Loan Facility, (B) place the remaining payments owed by Party A from time to time hereunder in a cash collateral account with Party A over which Party B will have no control (and Party B hereby grants Party A a security interest in any such account to secure repayment of all amounts owing by Party B under the Loan Facility), or (C) terminate this Agreement and any and all transactions hereunder; or 
+
+^^^Party B3 breaches any of its obligations under the Loan Facility; or  
+
+^^^Party B does not incur the indebtedness as specified in the Loan Facility, or Party B repays its obligations, and Party A has no further commitment to lend, under the Loan Facility.  
+
+Any termination of this Master Agreement under this Section 3 shall be effective on the Early Termination Date, which shall be designated in a notice of termination. 
+
+^^In the event of an early termination under this Agreement pursuant to 
+
+Paragraph 3(a), (3)(b)(i) or (ii) above, the defaulting party shall promptly pay the non-defaulting party, on demand, an amount equal to the Termination Amount. In the event of an early termination under paragraph 3 (b)(iii) above, if the Termination Amount is a positive number, then Party B shall promptly pay Party A such amount by at, (Party A’s option), Party A’s debiting Party B’s demand deposit account with Party A, or by wiring funds to a designated Party A account; if the Termination Amount is a negative number, then Party A shall promptly pay Party B the absolute value of such amount by, at Party A’s option, crediting Party B’s demand deposit account with Party A, or by wiring funds to a designated Party B3 account. Each party hereto acknowledges the Termination Amount to be a reasonable estimate of the value, costs and loss of compensation incurred by the other party as a result of the early termination of this Master Agreement. 
+
+^^“Termination Amount” means the amount in U.S. Dollars equal to the 
+
+arithmetic mean of the respective one-time all-in fees (including documentation costs) communicated to Party A on the earliest practicable New York Business Day following the Early Termination Date by each of three leading commercial banks or investment banking firms in San Francisco, Los Angeles or New York selected in good faith by Party A as the fee that it would charge to assume, as of the Early Termination Date, all of the rights and obligations of Party B under this Master Agreement. However, if one or more such entities fail to communicate such a fee, the Termination Amount shall be determined on the basis of those fees so communicated by the other entities. If no such entities communicate such a fee, Party A shall calculate the Termination Amount in a commercially reasonable manner and such calculation shall be binding absent manifest error. 
+
+^^The Termination Amount shall bear interest from and after the Early  
+
+Termination Date until the payment date at the rate of one percent plus the USD-Prime-[[Organization 1 Name]] rate, per annum. 
+
+^**Representations and Warranties.** 
+
+^^Each party hereby represents and warrants to the other as follows which
+
+representations shall be deemed repeated on each Trade Date: 
+
+^^^if other than an individual; (1) it is validly organized, existing and  
+
+in good standing under the laws of the jurisdiction of its organization and (2) its execution, delivery and performance of this Master Agreement and each Confirmation are within its corporate or organizational powers, have been and remain duly authorized and do not conflict with any provision of its constituent documents; 
+
+^^^the execution, delivery and performance of this Master Agreement  
+
+does not violate any provision of law or regulation, or result in any breach or default under any agreement or other instrument to which such party may be bound; 
+
+^^^there are no pending, or to its knowledge, threatened against it, any action, suit or proceeding at law or in equity or before any court, tribunal, government body, agency or official or any arbitrator that is likely to affect the legality, validity or enforceability of its obligations hereunder;  
+
+^^^no Event of Default or potential Event of Default or, to its knowledge, has occurred and is continuing and no such event or circumstance would occur as a result of its entering into or performing its obligations under this Master Agreement;  
+
+^^^this Master Agreement and each Confirmation has been duly  
+
+executed and delivered and constitutes a valid and legally binding obligation enforceable against it in accordance with its terms, subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditor’s rights generally and subject, as to enforceability, to provisions of public order and to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law); and 
+
+^^^it is an “eligible contract participant” as defined in Section la(12)  
+
+under the Commodity Exchange Act, 7 U.S.C. Section la(12). 
+
+^^The representations and warranties made by Party B in the documentation 
+
+relating to the Loan Facility, if any, are hereby incorporated into this Master Agreement by this reference and shall be deemed repeated as of each Trade Date. 
+
+^**Limitations of Liability.** In no event shall either party hereto be liable to the 
+
+other for loss of profit or indirect, special, consequential, punitive or exemplary damages, arising out of any default under this Master Agreement. 
+
+^**Notices.** All notices and other communications required or permitted to be given hereunder shall be in writing and shall be deemed served when personally delivered or, if mailed, upon the first to occur of receipt or the expiration of seventy-two hours after deposit in the United States Postal Service with appropriate postage or if sent by overnight courier service, upon the first to occur of receipt or 3:00 p.m. (local time at place of delivery) the next Business Day, addressed to Party A or Party B at their respective addresses as set forth in any Confirmation. in addition, notices hereunder, other than default or termination notices, may be sent via electronic mail or facsimile to the respective electronic mail addresses or facsimile numbers set forth in the Confirmation, in which case such notice will be deemed effective upon receipt.  
+
+^**Successors; Assigns.** This Master Agreement shall be binding on and inure to the **benefit of the successors and assigns of the parties; provided, however, that Party B shall not, without the prior written consent of Party A, assign (whether by operation of law or otherwise) its rights and obligations under this Master Agreement (or any Transaction hereunder) or any interest herein and any such attempted assignment shall be null and void and without force or effect.** 
+
+^**Governing Law.** This Master Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to any choice of law doctrine. Each party submits to the exclusive jurisdiction of the courts of the State of California and agrees to waive any objection it may have that the proceedings were brought in an inconvenient forum or that the court did not have jurisdiction. 
+
+^**No Third Party Beneficiary.** This Master Agreement and the payments to be made by the parties hereunder are solely for the benefit of the parties hereto for the purposes stated herein and no other person or entity shall have any rights hereunder or be a beneficiary of either party’s obligations under this Master Agreement. 
+
+^**Counterparts.** This Master Agreement and each Confirmation may be executed in any number of counterparts and by each party hereto on separate counterparts, each of which when executed and delivered shall constitute an original, but all the counterparts shall together constitute but one and the same instrument. 
+
+^**Amendments:, Waivers.** Any amendment or waiver of any right under any provision of this Master Agreement shall be in writing and, in the case of an amendment, signed by both parties hereto, or in the case of a waiver, signed by the party waiving such right. No failure or delay by either party hereto in exercising any right, power or privilege hereunder shall operate as a waiver thereof. 
+
+^**Trade Date; Master Agreement Not Credit Commitment.** This Master Agreement shall be effective at, and as of, 12:01 a.m., California time, on the first Trade Date. Nothing in this Master Agreement shall be construed to (i) mean that Party A is committed to make a loan or extend any other credit to Party B, or (ii) amend or modify any contract, instrument or document executed in connection with the Loan Facility, if any. 
+
+^**Costs, Expenses and Attorneys’ Fees.** In the event of any dispute or **litigation** between the parties hereto, the prevailing party shall be entitled to recover from the other party, immediately upon demand, all costs and expenses, including reasonable attorneys’ fees, incurred 
+
+[[13. Costs Expenses and Attorneys’ Fees. In the event of any dispute or litigation between the parties hereto the prevailing party shall be entitled to recover from the other party immediately upon demand all costs and expenses including reasonable attorneys’ fees incurred Signatory Email: Identity | Signature]]
+__________________________________________
+{{13. Costs Expenses and Attorneys’ Fees. In the event of any dispute or litigation between the parties hereto the prevailing party shall be entitled to recover from the other party immediately upon demand all costs and expenses including reasonable attorneys’ fees incurred Entity => By: [[13. Costs Expenses and Attorneys’ Fees. In the event of any dispute or litigation between the parties hereto the prevailing party shall be entitled to recover from the other party immediately upon demand all costs and expenses including reasonable attorneys’ fees incurred Signatory First Name]] [[13. Costs Expenses and Attorneys’ Fees. In the event of any dispute or litigation between the parties hereto the prevailing party shall be entitled to recover from the other party immediately upon demand all costs and expenses including reasonable attorneys’ fees incurred Signatory Last Name]]
+Title: [[13. Costs Expenses and Attorneys’ Fees. In the event of any dispute or litigation between the parties hereto the prevailing party shall be entitled to recover from the other party immediately upon demand all costs and expenses including reasonable attorneys’ fees incurred Signatory Title]]}}
+
+
+^**Entire Agreement.** This Master Agreement constitutes the entire agreement and  
+
+understanding of the parties with respect to its subject matter and supersedes all oral communications and prior writings with respect thereto. All Transactions are entered into in reliance on the fact that this Master Agreement, all addendums hereto, and each Confirmation forms a single agreement between the parties and the parties would not otherwise enter into any Transactions. 
+
+^**Recording of Conversations.** Each party (i) consents to the recording of  
+
+telephone conversations between the trading, marketing and other relevant personnel of the parties in connection with this Agreement or any potential Transaction, (ii) agrees to obtain any necessary consent of, and give any necessary notice of such recording to, its relevant personnel and (iii) if applicable, agrees, to the extent permitted by applicable law, that recordings may be submitted in evidence in any Proceedings. 
+
+^**Cross-Default.** The occurrence of any default by Party B under any of the Loan  
+
+Documents shall be a default under this Master Agreement and any default under this Master Agreement shall be a default under the Loan Documents if a Loan Facility is specified in any Confirmation. 
+
+^**Security.** Party B hereby agrees that any and all collateral and other security  
+
+under the Loan Facility and related documents, as amended, supplemented, modified, renewed, replaced, consolidated, substituted or extended from time to time, will also secure its obligations under this Master Agreement, as specified in the Security definition in each Confirmation. Promptly following a demand made by Party A, Party B will execute, deliver, file and record any financing statement, specific assignment or other document and take any other action that may be necessary or desirable and reasonably requested by Party A to create, preserve, perfect or validate any such security interest or to enable Party A to exercise or enforce its rights against any collateral or other security securing Party B’s obligations under this Master Agreement. 
+
+^**Credit Support.** Party B agrees that all of its obligations under this Master  
+
+Agreement shall be guaranteed by that certain guaranty or guaranties as specified in each applicable Confirmation, if any. 
+
+^**Set-Off****.** In the event of an early termination of this Master Agreement pursuant  
+
+to Section 3, any amount payable hereunder by one party (the “Payer”) to the other (the “Payee”), at the option of Party A and without prior notice to Party B, may be reduced by its set-off against any amount(s) payable (whether at such time or in the future or upon the occurrence of a contingency) by the Payee to the Payer under any other agreement(s) between (a) Party A or any affiliate of Party A and (b) Party B. Any amount so set-off will be discharged promptly and in all respects to the extent it is so set-off. This right of set-off shall be without prejudice and in addition to any right of set-off, combination of accounts, lien or other right to which any party is at any time otherwise entitled (whether by operation of law, contract or otherwise). 
+
+^**Obligations Joint and Several.** Should more than one individual or entity 
+
+execute this Master Agreement as Party B, the obligations hereunder of such individuals and entities shall be joint and several. 
+
+^**No Reliance.** In connection with the negotiation of and entering into this Master  
+
+Agreement and each Transaction, (i) Party B acknowledges that Party A is not acting as a fiduciary or a financial or investment advisor for it; (ii) Party B is not relying upon any advice, counsel or representations (whether written or oral) of Party A hereto other than the representations expressly set forth in this Master Agreement and in any Confirmation; (iii) Party A has not given Party B any advice or counsel as to the expected or projected success, return, performance, result, consequence or benefit (either legal, regulatory, tax, financial, accounting, or otherwise) of this Master Agreement or any Transactions thereunder; (iv) Party B has consulted with its own legal, regulatory, tax, business, investment, financial and accounting advisors to the extent it has deemed necessary and has made its own investment, hedging, and trading decisions (including decisions regarding the suitability of any Transaction pursuant to this Master Agreement) based upon its own judgment and upon any advice from such advisors as it has deemed necessary and not upon any view expressed by the other party hereto; (v) Party B has determined that the rates, prices, or amounts and other terms of each Transaction in the indicative quotations (if any) provided by Party A hereto reflect those in the relevant market for similar Transactions, and all trading decisions have been the result of arm’s length negotiations between the parties; (vi) Party B is entering into this Master Agreement and each Transaction with a full understanding of all of the terms, conditions and risks thereof (economic and otherwise), and Party B is capable of assuming and willing to assume (financially and otherwise) those risks; and (vii) Party B is a sophisticated investor. 
+
+^**Generic Risk Disclosure For Interest Rate Risk Management Products and Related Transactions.** Party B represents that it has read and fully understands this paragraph. As is common with many other financial instruments and transactions, interest rate risk management products, in addition to providing significant benefits, may in certain cases involve a variety of significant risks, Party B acknowledges that before entering into any interest rate risk management transaction, Party B shall have carefully considered whether the transaction is appropriate in light of Party B’s objectives, experience, financial and operational resources, and other relevant circumstances. Party B also acknowledges that it fully understands the nature and extent of its exposure to risk of loss, if any, which in some circumstances may significantly exceed the amount of any initial payment made to or by Party B. 
+
+Interest rate products permit precise customization to accomplish particular financial and risk management objectives that might otherwise be unachievable. The specific risks presented by a particular transaction necessarily depend upon the terms of that transaction and Party B’s circumstances. Common to all however, is their nature as legally binding contractual commitments, which, once agreed to, cannot be altered other than by termination or modification. Party B understands that such termination or modification may, in certain circumstances, result in significant losses. As in any financial transaction, Party B understands the requirements, if any, applicable to Party B that are established by regulators or by Party B’s board of directors or other governing body. Party B should also consider the legal, tax, accounting, and economic implications of entering into any interest rate risk management transaction, independently, and if necessary, through consultation with such advisors as may be appropriate to assist it in understanding the risks involved. In entering into any interest rate risk management transaction with, or arranged by, Party A, Party B should also understand that Party 
+
+^is acting solely in the capacity of an arm’s length contractual counterparty and not in the capacity of Party B’s financial advisor or fiduciary unless Party A has so agreed in writing and then only to the extent so provided. The statements in this paragraph do not purport to disclose all of the risks of, or other relevant considerations in, entering into interest rate risk management transactions. 
+
+^**Incorporation by Reference of Terms of the Loan Documents.** This Section 23 is applicable if a Loan Facility is specified in each Confirmation. The covenants, terms and provisions of, including all representations and warranties of Party B contained in, the Loan Documents are hereby incorporated by reference in, and made part of, this Master Agreement to the same extent as if such covenants, terms, and provisions were set forth in full herein. Party B hereby agrees that, during the period commencing with the date of this Master Agreement through and including the date on which all of Party B’s obligations under this Master Agreement are fully performed, Party B will (a) observe, perform, and fulfill each and every such covenant, term, and provision applicable to Party B, as such covenants, terms, and provisions may be. amended from time to time after the date of this Master Agreement with the consent of Party A and (b) deliver to Party A, at the address for notices to Party A provided in this Master Agreement, each notice, document, certificate or other writing that Party B is obligated to furnish to any other party to the Loan Agreement. Subject to Section 3 of this Master Agreement, in the event the Loan Agreement terminates or becomes no longer binding on Party B prior to the termination of this Master Agreement and any Transactions outstanding hereunder, such covenants, terms, and provisions (other than those requiring payments in respect of amounts owned under the Loan Agreement) will remain in full force and effect for purposes of this Master Agreement as though set forth in full herein until the date on which all of Party B’s obligations under this Master Agreement are fully performed and this Master Agreement is terminated. 
+
+^**WAIVER OF JURY TRIAL.** EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY TRIAL OR LITIGATION ARISING OUT OF OR IN CONNECTION WITH ANY TRANSACTION OR THIS AGREEMENT. 
+
+**IN WITNESS WHEREOF,** the parties hereto have executed this Master Agreement as of the day and year first written above. 
+
+**[[Organization 1 Name]], NATIONAL ASSOCIATION** 
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+**[[Party B]]** 
+
+\centered 
+
+/s/ [[Person 1 First Name]] [[Person 1 Last Name]] Name:    [[Person 1 First Name]] [[Person 1 Last Name]]  
+
+Its; Partner

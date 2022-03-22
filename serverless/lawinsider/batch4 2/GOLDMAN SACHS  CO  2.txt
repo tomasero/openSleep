@@ -1,0 +1,468 @@
+\centered **[[Organization 1 Name]] | [[Address 1: Address]]| NEW YORK, NEW YORK** **10282-2198 | TEL: [[Phone 1]]**
+
+Opening Transaction 
+**To:**   [[Organization 2 Name]], Inc. [[Address 2: Address]]-0130
+
+**A/C:**  
+
+**From:**   [[Organization 1 Name]]
+
+**Re:**   Accelerated Stock Buyback
+
+**Ref. No:**   As provided in the Supplemental Confirmation
+
+**Date:**   [[Date 1: Date]]
+
+This master confirmation (this “**Master Confirmation**”), dated as of [[Date 1]] is intended to set forth certain terms and provisions of certain Transactions (each, a “**Transaction**”) entered into from time to time between [[Organization 1 Name]] (“**GS&Co.**”) and [[Organization 2 Name]], Inc. (“**Counterparty**”). This Master Confirmation, taken alone, is neither a commitment by either party to enter into any Transaction nor evidence of a Transaction. The additional terms of any particular Transaction shall be set forth in a Supplemental Confirm ation in the form of Schedule A hereto (a “**Supplemental Confirmation**”), which shall reference this Master Confirmation and supplement, form a part of, and be subject to this Master Confirmation. This Master Confirmation and each Supplemental Confirmation together shall constitute a “Confirmation” as referred to in the Agreement specified below.
+
+The definitions and provisions contained in the 2002 ISDA Equity Derivatives Definitions (the “**Equity Definitions**”), as published by the International Swaps and Derivatives Association, Inc., are incorporated into this Master Confirmation. This Master Confirmation and each Supplemental Confirmation evidence a complete binding agreement between Counterparty and GS&Co. as to the subject matter and terms of each Transaction to which this Master Confirmation and such Supplemental Confirmation relate and shall supersede all prior or contemporaneous written or oral communications with respect thereto.
+
+This Master Confirmation and each Supplemental Confirmation supplement, form a part of, and are subject to an agreement in the form of the 1992 ISDA Master Agreement (Multicurrency-Cross Border) (the “**Agreement**”) as if GS&Co. and Counterparty had executed the Agreement on the date of this Master Confirmation (but without any Schedule except for (i) the election of Loss and Second Method, New York law (without reference to its choice of laws doctrine other than Title 14 of Article 5 of the New York General Obligations Law) as the governing law and US Dollars (“**USD**”) as the Termination Currency, (ii) the election that subparagraph (ii) of Section 2(c) will not apply to the Transa ctions, (iii) the replacement of the word “third” in the last line of Section 5(a)(i) with the word “first” and (iv) the election that the “Cross Default” provisions of Section 5(a)(vi) shall apply to Counterparty, with a “Threshold Amount” of USD 50 million).
+
+The Transactions shall be the sole Transactions under the Agreement. If there exists any ISDA Master Agreement between GS&Co. and Counterparty or any confirmation or other agreement between GS&Co. and Counterparty pursuant to which an ISDA Master Agreement is deemed to exist between GS&Co. and Counterparty, then notwithstanding anything to the contrary in such ISDA Master Agreement, such confirmation or agreement or any other agreement to which GS&Co. and Counterparty are parties, the Transactions shall not be considered Transactions under, or otherwise governed by, such existing or deemed ISDA Master Agreement.
+
+All provisions contained or incorporated by reference in the Agreement shall govern this Master Confirmation and each Supplemental Confirmation except as expressly modified herein or in the related Supplemental Confirmation.
+
+If, in relation to any Transaction to which this Master Confirmation and a Supplemental Confirmation relate, there is any inconsistency between the Agreement, this Master Confirmation, any Supplemental Confirmation and the Equity Definitions, the following will prevail for purposes of such Transaction in the order of precedence indicated: (i) such Supplemental Confirmation; (ii) this Master Confirmation; (iii) the Agreement; and (iv) the Equity Definitions.
+
+^Each Transaction constitutes a Share Forward Transaction for the purposes of the Equity Definitions. Set forth below are the terms and conditions that, together with the terms and conditions set forth in the Supplemental Confirmation relating to any Transaction, shall govern such Transaction.
+
+General Terms:  
+Trade Date:   For each Transaction, as set forth in the related Supplemental Confirmation.
+
+Buyer:   Counterparty
+
+Seller:   GS&Co.
+
+Shares:   Common stock, par value $[[USD Value 1: Number]] per share, of Counterparty (Ticker: JBHT).
+
+Exchange:   NASDAQ Global Select Market
+
+Related Exchange(s):   All Exchanges.
+
+\centered Prepayment\Variable Obligation:   Applicable  
+
+Prepayment Amount:   For each Transaction, as set forth in the related Supplemental Confirmation.
+
+Prepayment Date:   For each Transaction, as set forth in the related Supplemental Confirmation.
+
+\centered Counterparty Additional Payment Amount:   For each Transaction, as set forth in the Supplemental Confirmation. Counterparty shall pay to GS&Co. the Counterparty Additional Payment Amount, if any, on the Counterparty Additional Payment Date.  
+
+\centered Counterparty Additional Payment Date:   Three (3) Exchange Business Days following the Trade Date.  
+
+Valuation:   
+VWAP Price:   For any Exchange Business Day, as determined by the Calculation Agent based on the NASDAQ 10b-18 Volume Weighted Average Price per Share for the regular trading session (including any extensions thereof) of the Exchange on such Exchange Business Day (without regard to pre-open or after hours trading outside of such regular trading session for such Exchange Business Day), as published by [[Organization 3 Name]] at 4:15 p.m. New York time (or 15 minutes following the end of any extension of the regular trading session) on such Exchange Business Day, on [[Organization 3 Name]] page “JBHT Q <Equity> AQR_SEC” (or any successor thereto), or if such price is not so reported on such Exchange Business Day for any reason or is, in the Calculation Agent’s reasonable discretion, erroneous, such VWAP Price shall be as reasonably determined by the Calculation Agent. Fo r purposes of calculating the VWAP Price, the Calculation Agent will include only those trades that are reported during the period of time during which Counterparty could purchase its own shares under Rule 10b-18(b)(2) and are effected pursuant to the conditions of Rule 10b-18(b)(3), each under the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”) (such trades, “**Rule 10b-18 eligible transactions**”).
+
+Forward Price:   The average of the VWAP Prices for the Exchange Business Days in the Calculation Period, subject to “Valuation Disruption” below.
+
+\centered Forward Price Adjustment Amount:   For each Transaction, as set forth in the related Supplemental Confirmation.  
+
+Calculation Period:   The period from and including the Calculation Period Start Date to and including the Termination Date.
+
+\centered Calculation Period Start Date:   For each Transaction, as set forth in the related Supplemental Confirmation.  
+
+Termination Date:   The Scheduled Termination Date; provided that GS&Co. shall have the right to designate any Exchange Business Day on or after the First Acceleration Date to be the Termination Date (the “**Accelerated Termination Date**”) by delivering notice to Counterparty of any such designation prior to 11:59 p.m. New York City time on the Exchange Business Day immediately following the designated Accelerated Termination Date.
+
+\centered Scheduled Termination Date:   For each Transaction, as set forth in the related Supplemental Confirmation, subject to postponement as provided in “Valuation Disruption” below.  
+
+First Acceleration Date:   For each Transaction, as set forth in the related Supplemental Confirmation.
+
+Valuation Disruption:   The definition of “Market Disruption Event” in Section 6.3(a) of the Equity Definitions is hereby amended by deleting the words “at any time during the one-hour period that ends at the relevant Valuation Time, Latest Exercise Time, Knock-in Valuation Time or Knock-out Valuation Time, as the case may be” and inserting the words “at any time on any Scheduled Trading Day during the Calculation Period or Settlement Valuation Period” after the word “material,” in the third line thereof.
+
+6.3(d) of the Equity Definitions is hereby amended by deleting the remainder of the provision following the term “Scheduled Closing Time” in the fourth line thereof.
+
+Notwithstanding anything to the contrary in the Equity Definitions, to the extent that a Disrupted Day occurs (i) in the Calculation Period, the Calculation Agent may, in its good faith and commercially reasonable discretion, postpone the Scheduled Termination Date, or (ii) in the Settlement Valuation Period, the Calculation Agent may extend the Settlement Valuation Period. If any such Disrupted Day is a Disrupted Day because of a Market Disruption Event (or a deemed Market Disruption Event as provided herein), the Calculation Agent shall determine whether (i) such Disrupted Day is a Disrupted Day in full, in which case the VWAP Price for such Disrupted Day shall not be included for purposes of determining the Forward Price or the Settlement Price, as the case may be, or (ii) such Disrupted Day is a Disrupted Day only in part, in which case the VWAP Price for such Disrupted Day shall be determined by the Calculation Agent based on Rule 10b-18 eligible transactions in the Shares on such Disrupted Day effected before the relevant Market Disruption Event occurred and/or after the relevant Market Disruption Event ended, and the weighting of the VWAP Price for the relevant Exchange Business Days during the Calculation Period or the Settlement Valuation Period, as the case may be, shall be adjusted in a commercially reasonable manner by the Calculation Agent for purposes of determining the Forward Price or the Settlement Price, as the case may be, with such adjustments based on, among other factors, the duration of any Market Disruption Event and the volume, historical trading patterns and price of the Shares. Any Scheduled Trading Day on which the Exchange is scheduled to close prior to its normal close of trading shall be deemed to be a Disrupted Day in full.
+
+If a Disrupted Day occurs during the Calculation Period or the Settlement Valuation Period, as the case may be, and each of the nine immediately following Scheduled Trading Days is a Disrupted Day, then the Calculation Agent, in its good faith and commercially reasonable discretion, may deem such ninth Scheduled Trading Day to be an Exchange Business Day that is not a Disrupted Day and determine the VWAP Price for such ninth Scheduled Trading Day using its good faith estimate of the value of the Shares on such ninth Scheduled Trading Day based on the volume, historical trading patterns and price of the Shares and such other factors as it deems appropriate.
+
+Settlement Terms:   
+Settlement Procedures:   If the Number of Shares to be Delivered is positive, Physical Settlement shall be applicable; provided that GS&Co. does not, and shall not, make the agreement or the representations set forth in Section 9.11 of the Equity Definitions related to the restrictions imposed by applicable securities laws with respect to any Shares delivered by GS&Co. to Counterparty under any Transaction. If the Number of Shares to be Delivered is negative, then the Counterparty Settlement Provisions in Annex A shall apply.
+
+\centered Number of Shares to be Delivered:   A number of Shares equal to (x)(a) the Prepayment Amount divided by (b)(i) the Forward Price minus (ii) the Forward Price Adjustment Amount minus (y) the number of Initial Shares.  
+
+\centered Excess Dividend Amount:   For the avoidance of doubt, all references to the Excess Dividend Amount shall be deleted from Section 9.2(a)(iii) of the Equity Definitions.  
+
+Settlement Date:   If the Number of Shares to be Delivered is positive, the date that is one Settlement Cycle immediately following the Termination Date.
+
+Settlement Currency:   USD
+
+Initial Share Delivery:   GS&Co. shall deliver a number of Shares equal to the Initial Shares to Counterparty on the Initial Share Delivery Date in accordance with Section 9.4 of the Equity Definitions, with the Initial Share Delivery Date deemed to be a “Settlement Date” for purposes of such Section 9.4.
+
+\centered Initial Share Delivery Date:   For each Transaction, as set forth in the related Supplemental Confirmation.  
+
+Initial Shares:   For each Transaction, as set forth in the related Supplemental Confirmation.
+
+Share Adjustments:
+
+\centered Potential Adjustment Event:   Notwithstanding anything to the contrary in Section 11.2(e) of the Equity Definitions, an Extraordinary Dividend shall not constitute a Potential Adjustment Event.  
+
+\centered It shall constitute an additional Potential Adjustment Event if the Scheduled Termination Date for any Transaction is postponed pursuant to “Valuation Disruption” above, in which case the Calculation Agent may, in its commercially reasonable discretion, adjust any relevant terms of any such Transaction as necessary to preserve as nearly as practicable the fair value of such Transaction to GS&Co. prior to such postponement.  
+
+\centered Extraordinary Dividend:   For any calendar quarter, any dividend or distribution on the Shares with an ex-dividend date occurring during such calendar quarter (other than any dividend or distribution of the type described in Section 11.2(e)(i) or Section 11.2(e)(ii)(A) of the Equity Definitions) (a “**Dividend**”) the amount or value of which (as determined by the Calculation Agent), when aggregated with the amount or value (as determined by the Calculation Agent) of any and all previous Dividends with ex-dividend dates occurring in the same calendar quarter, exceeds the Ordinary Dividend Amount.  
+
+Ordinary Dividend Amount:   For each Transaction, as set forth in the related Supplemental Confirmation
+
+Method of Adjustment:   Calculation Agent Adjustment
+
+\centered Early Ordinary Dividend Payment:   If an ex-dividend date for any Dividend that is not an Extraordinary Dividend occurs during any calendar quarter occurring (in whole or in part) during the Relevant Period (as defined below) and is prior to the Scheduled Ex-Dividend Date for such calendar quarter, the Calculation Agent shall make such adjustment to the exercise, settlement, payment or any other terms of the relevant Transaction as the Calculation Agent determines appropriate to account for the economic effect on the Transaction of such event.  
+
+\centered Scheduled Ex-Dividend Dates:   For each Transaction for each calendar quarter, as set forth in the related Supplemental Confirmation  
+
+Extraordinary Events:  
+Consequences of 
+Merger Events:  
+^^Share-for-Share:   Modified Calculation Agent Adjustment
+
+^^Share-for-Other:   Cancellation and Payment
+
+^^Share-for-Combined:   Component Adjustment
+
+Tender Offer:   Applicable; provided that (i) Section 12.1(l) of the Equity Definitions shall be amended (x) by deleting the parenthetical in the fifth line thereof, (y) by replacing “that” in the fifth line thereof with “whether or not such announcement” and (z) by adding immediately after the words “Tender Offer” in the fifth line thereof “, and any publicly announced change or amendment to such an announcement (including the announcement of an abandonment of such intention)” and (ii) Sections 12.3(a) and 12.3(d) of the Equity Definitions shall each be amended by replacing each occurrence of the words “Tender Offer Date” by “Announcement Date.”
+
+Consequences of 
+Tender Offers:  
+^^Share-for-Share:   Modified Calculation Agent Adjustment or Cancellation and Payment, at the election of GS&Co.
+
+^^Share-for-Other:   Modified Calculation Agent Adjustment or Cancellation and Payment, at the election of GS&Co.
+
+^^Share-for-Combined:   Modified Calculation Agent Adjustment or Cancellation and Payment, at the election of GS&Co.
+
+Nationalization, Insolvency or Delisting:   Cancellation and Payment; provided that in addition to the provisions of Section 12.6(a)(iii) of the Equity Definitions, it shall also constitute a Delisting if the Exchange is located in the United States and the Shares are not immediately re-listed, re-traded or re-quoted on any of the New York Stock Exchange, the American Stock Exchange, The NASDAQ Global Select Market or The NASDAQ Global Market (or their respective successors); if the Shares are immediately re-listed, re-traded or re-quoted on any such exchange or quotation system, such exchange or quotation system shall be deemed to be the Exchange.
+
+Additional Disruption Events:  
+\centered Change in Law:   Applicable  
+
+\centered Failure to Deliver:   Applicable  
+
+\centered Insolvency Filing:   Applicable  
+
+\centered Loss of Stock Borrow:   Applicable  
+
+\centered Maximum Stock Loan Rate:   50 basis points per annum  
+
+Hedging Party:   GS&Co.
+
+Determining Party:   GS&Co.
+
+Additional Termination Event(s):   Notwithstanding anything to the contrary in the Equity Definitions, if, as a result of an Extraordinary Event, any Transaction would be cancelled or terminated (whether in whole or in part) pursuant to Article 12 of the Equity Definitions, an Additional Termination Event (with such terminated Transaction(s) (or portions thereof) being the Affected Transaction(s) and Counterparty being the sole Affected Party) shall be deemed to occur, and, in lieu of Sections 12.7, 12.8 and 12.9 of the Equity Definitions, Section 6 of the Agreement shall apply to such Affected Transaction(s). The declaration by the Issuer of any Extraordinary Dividend, the ex-dividend date for which occurs or is scheduled to occur during the Relevant Dividend Period, will constitute an Additional Termination Event, with Counterparty as the sole Affected Party and all Transactions hereunder as the Affected Transactions.
+
+\centered Relevant Dividend Period:   The period from and including the Calculation Period Start Date to and including the Relevant Dividend Period End Date. 
+Relevant Dividend Period End Date:   If the Number of Shares to be Delivered is negative, the last day of the Settlement Valuation Period; otherwise, the Termination Date. 
+Non-Reliance/ Agreements and Acknowledgements Regarding Hedging Activities/Additional Acknowledgements:   Applicable 
+Transfer:   Notwithstanding anything to the contrary in the Agreement, GS&Co. may assign, transfer and set over all rights, title and interest, powers, privileges and remedies of GS&Co. under any Transaction, in whole or in part, to an affiliate of GS&Co. whose obligations are guaranteed by [[Organization 4 Name]], Inc. without the consent of Counterparty. 
+GS&Co. Payment Instructions:   [[Organization 5 Name]] For A/C [[Organization 1 Name]] A/C # ABA: 
+Counterparty’s Contact Details for Purpose of Giving Notice:   [[Organization 2 Name]], Inc. [[Address 3: Address]] Attention: [[Person 1 First Name]] [[Person 1 Last Name]], Chief Financial Officer Telephone: [[Phone 2]] Facsimile: [[Phone 3]] Email: [[Email 1]] 
+GS&Co.’s Contact Details for Purpose of Giving Notice:   [[Organization 1 Name]] [[Address 4: Address]]-2198 Attention: [[Person 2 First Name]] [[Person 2 Last Name]], Equity Capital Markets Telephone: [[Phone 4]] Facsimile: [[Phone 5]] Email: [[Email 2]] 
+With a copy to: 
+Attention: [[Person 3 First Name]] [[Person 3 Last Name]], Equity Capital Markets Equity Capital Markets Telephone: [[Phone 6]] Facsimile: [[Phone 7]] Email: [[Email 3]] And email notification to the following address: **Eq-derivs-[[Email 4]]** 
+^Calculation Agent   GS&Co.  
+
+^**Additional Mutual Representations, Warranties and Covenants of Each Party**. In addition to the representations, warranties and covenants in the Agreement, each party represents, warrants and covenants to the other party that:
+
+^^**Eligible Contract Participant**. It is an “eligible contract participant”, as defined in the U.S. Commodity Exchange Act (as amended), and is entering into each Transaction hereunder as principal (and not as agent or in any other capacity, fiduciary or otherwise) and not for the benefit of any third party.
+
+^^**Accredited Investor**. Each party acknowledges that the offer and sale of each Transaction to it is intended to be exempt from registration under the Securities Act of 1933, as amended (the “**Securities Act**”), by virtue of Section 4(2) thereof. Accordingly, each party represents and warrants to the other that (i) it has the financial ability to bear the economic risk of its investment in each Transaction and is able to bear a total loss of its investment, (ii) it is an “accredited investor” as that term is defined under Regulation D under the Securities Act and (iii) the disposition of each Transactio n is restricted under this Master Confirmation, the Securities Act and state securities laws.
+
+^**Additional Representations, Warranties and Covenants of Counterparty**. In addition to the representations, warranties and covenants in the Agreement, Counterparty represents, warrants and covenants to GS&Co. that:
+
+^^The purchase or writing of each Transaction and the transactions contemplated hereby will not violate Rule 13e-1 or Rule 13e-4 under the Exchange Act.
+
+^^It is not entering into any Transaction (i) on the basis of, and is not aware of, any material non-public information with respect to the Shares (ii) in anticipation of, in connection with, or to facilitate, a distribution of its securities, a self tender offer or a third-party tender offer or (iii) to create actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for the Shares) or to raise or depress or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for the Shares).
+
+^^Each Transaction is being entered into pursuant to a publicly disclosed Share buy-back program and its Board of Directors has approved the use of derivatives to effect the Share buy-back program.
+
+^^Without limiting the generality of Section 13.1 of the Equity Definitions, Counterparty acknowledges that Dealer is not making any representations or warranties with respect to the treatment of the Transaction under any accounting standards including ASC Topic 260, Earnings Per Share, ASC Topic 815, Derivatives and Hedging, or ASC Topic 480, Distinguishing Liabilities from Equity and ASC 815-40, Derivatives and Hedging – Contracts in Entity’s Own Equity.
+
+^^As of (i) the date hereof and (ii) the Trade Date for each Transaction hereunder, Counterparty is in compliance with its reporting obligations under the Exchange Act and its most recent Annual Report on Form 10-K, together with all reports subsequently filed by it pursuant to the Exchange Act, taken together and as amended and supplemented to the date of this representation, do not, as of their respective filing dates, contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+
+^^Counterparty shall report each Transaction as required under Regulation S-K under the Exchange Act.
+
+^^The Shares are not, and Counterparty will not cause the Shares to be, subject to a “restricted period” (as defined in Regulation M promulgated under the Exchange Act) at any time during any Regulation M Period (as defined below) for any Transaction unless Counterparty has provided written notice to GS&Co. of such restricted period not later than the Scheduled Trading Day immediately preceding the first day of such “restricted period”; Counterparty acknowledges that any such notice may cause a Disrupted Day to occur pursuant to Section 5 below; accordingly, Counterparty acknowledges that its delivery of such notice must comply with the standards set forth in Section 6 below; “**Regulation M Period”** means, for any Transaction, (i) the Relevant Period (as defined below) and (ii) the Settlement Valuation Period, if any, for such Transaction. “**Relevant Period**” means, for any Transaction, the period commencing on the Calculation Period Start Date for such Transaction and ending on the earlier of (i) the Scheduled Termination Date and (ii) the last Additional Relevant Day (as specified in the related Supplemental Confirmation) for such Transaction, or such earlier day as elected by GS&Co. and communicated to Counterparty on such day (or, if later, the First Acceleration Date without regard to any acceleration thereof pursuant to “Special Provisions for Acquisition Transaction Announcements” below).
+
+^^As of the Trade Date, the Prepayment Date, the Initial Share Delivery Date and the Settlement Date for each Transaction, Counterparty is not “insolvent” (as such term is defined under Section 101(32) of the U.S. Bankruptcy Code (Title 11 of the United States Code) (the “**Bankruptcy Code**”)) and Counterparty would be able to purchase a number of Shares with a value equal to the Prepayment Amount in compliance with the laws of the jurisdiction of Counterparty’s incorporation.
+
+^^Counterparty is not and, after giving effect to any Transaction, will not be, required to register as an “investment company” as such term is defined in the Investment Company Act of 1940, as amended.
+
+^^Counterparty will not take any action or refrain from taking any action that would limit or in any way adversely affect GS&Co.’s rights under the Agreement, this Master Confirmation or any Supplemental Confirmation.
+
+^^Counterparty has not and will not enter into agreements similar to the Transactions described herein where any initial hedge period, calculation period, relevant period or settlement valuation period (each however defined) in such other transaction will overlap at any time (including as a result of extensions in such initial hedge period, calculation period, relevant period or settlement valuation period as provided in the relevant agreements) with any Relevant Period or, if applicable, any Settlement Valuation Period under this Master Confirmation. In the event that the initial hedge period, relevant period, calculation period or settlement valuation period in any other similar transaction overlaps with any Relevant Period or, if applicable, Settlement Va luation Period under this Master Confirmation as a result of any postponement of the Scheduled Termination Date or extension of the Settlement Valuation Period pursuant to “Valuation Disruption” above, Counterparty shall promptly amend such transaction to avoid any such overlap.
+
+^**Regulatory Disruption**. In the event that GS&Co. concludes, in its sole discretion, that it is appropriate with respect to any legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or procedures are imposed by law or have been voluntarily adopted by GS&Co.), for it to refrain from or decrease any market activity on any Scheduled Trading Day or Days during the Calculation Period or, if applicable, the Settlement Valuation Period, GS&Co. may by written notice to Counterparty elect to deem that a Market Disruption Event has occurred and will be continuing on such Scheduled Trading Day or Days.
+
+^**10b5-1 Plan**. Counterparty represents, warrants and covenants to GS&Co. that:
+
+^^Counterparty is entering into this Master Confirmation and each Transaction hereunder in good faith and not as part of a plan or scheme to evade the prohibitions of Rule 10b5-1 under the Exchange Act (“**Rule 10b5-1**”) or any other antifraud or anti-manipulation provisions of the federal or applicable state securities laws and that it has not entered into or altered and will not enter into or alter any corresponding or hedging transaction or position with respect to the Shares. Counterparty acknowledges that it is the intent of the parties that each Transaction entered into under this Master Confirmation comply with the requirements of paragraphs (c)(1)(i)(A) and (B) of Rule 10b5-1 and each T ransaction entered into under this Master Confirmation shall be interpreted to comply with the requirements of Rule 10b5-1(c).
+
+^^Counterparty will not seek to control or influence GS&Co.’s decision to make any “purchases or sales” (within the meaning of Rule 10b5-1(c)(1)(i)(B)(3)) under any Transaction entered into under this Master Confirmation, including, without limitation, GS&Co.’s decision to enter into any hedging transactions. Counterparty represents and warrants that it has consulted with its own advisors as to the legal aspects of its adoption and implementation of this Master Confirmation and each Supplemental Confirmation under Rule 10b5-1.
+
+^^Counterparty acknowledges and agrees that any amendment, modification, waiver or termination of this Master Confirmation or the relevant Supplemental Confirmation must be effected in accordance with the requirements for the amendment or termination of a “plan” as defined in Rule 10b5-1(c). Without limiting the generality of the foregoing, any such amendment, modification, waiver or termination shall be made in good faith and not as part of a plan or scheme to evade the prohibitions of Rule 10b-5, and no such amendment, modification or waiver shall be made at any time at which Counterparty or any officer, director, manager or similar person of Counterparty is aware of any material non-public information regarding Counterparty or the Shares.
+
+^**Counterparty Purchases**. Counterparty (or any “affiliated purchaser” as defined in Rule 10b-18 under the Exchange Act (“**Rule 10b-18**”)) shall not, without the prior written consent of GS&Co., directly or indirectly purchase any Shares (including by means of a derivative instrument), listed contracts on the Shares or securities that are convertible into, or exchangeable or exercisable for Shares (including, without limitation, any Rule 10b-18 purchases of blocks (as defined in Rule 10b-18)) during any Relevant Period or, if applicable, Settlement Valuation Period, except through GS&Co.
+
+^**Special Provisions for Merger Transactions**. Notwithstanding anything to the contrary herein or in the Equity Definitions:
+
+^^Counterparty agrees that it:  
+^^^will not during the period commencing on the Trade Date through the end of the Relevant Period or, if applicable, the Settlement Valuation Period for any Transaction make, or permit to be made, any public announcement (as defined in Rule 165(f) under the Securities Act) of any Merger Transaction or potential Merger Transaction unless such public announcement is made prior to the opening or after the close of the regular trading session on the Exchange for the Shares;
+
+^^^shall promptly (but in any event prior to the next opening of the regular trading session on the Exchange) notify GS&Co. following any such announcement that such announcement has been made; and
+
+^^^shall promptly (but in any event prior to the next opening of the regular trading session on the Exchange) provide GS&Co. with written notice specifying (i) Counterparty’s average daily Rule 10b-18 Purchases (as defined in Rule 10b-18) during the three full calendar months immediately preceding the announcement date that were not effected through GS&Co. or its affiliates and (ii) the number of Shares purchased pursuant to the proviso in Rule 10b-18(b)(4) under the Exchange Act for the three full calendar months preceding the announcement date. Such written notice shall be deemed to be a certification by Counterparty to GS&Co. that such information is true and correct. In addition, Counterparty shall promptly notify GS&Co. of t he earlier to occur of the completion of such transaction and the completion of the vote by target shareholders. Counterparty acknowledges that any such notice may cause the terms of any Transaction to be adjusted or such Transaction to be terminated; accordingly, Counterparty acknowledges that its delivery of such notice must comply with the standards set forth in Section 6 above.
+
+^^GS&Co. in its sole discretion may (i) make adjustments to the terms of any Transaction, including, without limitation, the Scheduled Termination Date or the Forward Price Adjustment Amount, and/or suspend the Calculation Period and/or any Settlement Valuation Period or (ii) treat the occurrence of such public announcement as an Additional Termination Event with Counterparty as the sole Affected Party and the Transactions hereunder as the Affected Transactions and with the amount under Section 6(e) of the Agreement determined taking into account the fact that the Calculation Period or Settlement Valuation Period, as the case may be, had fewer Scheduled Trading Days than originally anticipated.
+
+“**Merger Transaction**” means any merger, acquisition or similar transaction involving a recapitalization as contemplated by Rule 10b-18(a)(13)(iv) under the Exchange Act.
+
+^**Special Provisions for Acquisition Transaction Announcements**. (a) If an Acquisition Transaction Announcement occurs on or prior to the Settlement Date for any Transaction, then the Number of Shares to be Delivered for such Transaction shall be determined as if clause (x)(b)(ii) of the definition thereof were replaced with “(ii) the Prorated Forward Price Adjustment Amount”. If an Acquisition Transaction Announcement occurs after the Trade Date, but prior to the First Acceleration Date of any Transaction, the First Acceleration Date shall be the date of such Acquisition Transaction Announcement.
+
+^^“**Acquisition Transaction Announcement**” means (i) the announcement of an Acquisition Transaction, (ii) an announcement that Counterparty or any of its subsidiaries has entered into an agreement, a letter of intent or an understanding designed to result in an Acquisition Transaction, (iii) the announcement of the intention to solicit or enter into, or to explore strategic alternatives or other similar undertaking that may include, an Acquisition Transaction, or (iv) any other announcement that in the reasonable judgment of the Calculation Agent may result in an Acquisition Transaction. For the avoidance of doubt, announcements as used in the definition of Acquisition Transaction Announcement refer to a ny public announcement whether made by the Issuer or a third party.
+
+^^“**Acquisition Transaction**” means (i) any Merger Event (for purposes of this definition the definition of Merger Event shall be read with the references therein to “[[Percentage 1: Number]]%” being replaced by “[[Percentage 2: Number]]%” and to “[[Percentage 3: Number]]%” by “[[Percentage 4: Number]]%” and without reference to the clause beginning immediately following the definition of Reverse Merger therein to the end of such definition), Tender Offer or Merger Transaction or any other transaction involving the merger of Counterparty with or into any third party, (ii) the sale or transfer of all or substantially all of the assets of Counterparty, (iii) a recapitalization, reclassification, binding share exchange or other similar transacti on, (iv) any acquisition, lease, exchange, transfer, disposition (including by way of spin-off or distribution) of assets (including any capital stock or other ownership interests in subsidiaries) or other similar event by Counterparty or any of its subsidiaries where the aggregate consideration transferable or receivable by or to Counterparty or its subsidiaries exceeds [[Percentage 2]]% of the market capitalization of Counterparty and (v) any transaction in which Counterparty or its board of directors has a legal obligation to make a recommendation to its shareholders in respect of such transaction (whether pursuant to Rule 14e-2 under the Exchange Act or otherwise).
+
+^^“**Prorated Forward Price Adjustment Amount**” means the Forward Price Adjustment Amount multiplied by the Proration Fraction.
+
+^^“**Proration Fraction**” means the fraction (i) the numerator of which is the number of Scheduled Trading Days during the period commencing on the Calculation Period Start Date and ending on the date of any Acquisition Transaction Announcement (inclusive), and (ii) the denominator of which is the number of Scheduled Trading Days during the period commencing on the Calculation Period Start Date and ending on the Scheduled Termination Date (inclusive).
+
+^**Acknowledgments**. (a) The parties hereto intend for:
+
+^^^each Transaction to be a “securities contract” as defined in Section 741(7) of the Bankruptcy Code, a “swap agreement” as defined in Section 101(53B) of the Bankruptcy Code and a “forward contract” as defined in Section 101(25) of the Bankruptcy Code, and the parties hereto to be entitled to the protections afforded by, among other Sections, Sections 362(b)(6), 362(b)(17), 362(b)(27), 362(o), 546(e), 546(g), 546(j), 555, 556, 560 and 561 of the Bankruptcy Code;
+
+^^^the Agreement to be a “master netting agreement” as defined in Section 101(38A) of the Bankruptcy Code;
+
+^^^a party’s right to liquidate, terminate or accelerate any Transaction, net out or offset termination values or payment amounts, and to exercise any other remedies upon the occurrence of any Event of Default or Termination Event under the Agreement with respect to the other party or any Extraordinary Event that results in the termination or cancellation of any Transaction to constitute a “contractual right” (as defined in the Bankruptcy Code); and
+
+^^^all payments for, under or in connection with each Transaction, all payments for the Shares (including, for the avoidance of doubt, payment of the Prepayment Amount) and the transfer of such Shares to constitute “settlement payments” and “transfers” (as defined in the Bankruptcy Code).
+
+^^Counterparty acknowledges that:  
+^^^during the term of any Transaction, GS&Co. and its affiliates may buy or sell Shares or other securities or buy or sell options or futures contracts or enter into swaps or other derivative securities in order to establish, adjust or unwind its hedge position with respect to such Transaction;
+
+^^^GS&Co. and its affiliates may also be active in the market for the Shares other than in connection with hedging activities in relation to any Transaction;
+
+^^^GS&Co. shall make its own determination as to whether, when or in what manner any hedging or market activities in Counterparty’s securities shall be conducted and shall do so in a manner that it deems appropriate to hedge its price and market risk with respect to the Forward Price and the VWAP Price;
+
+^^^any market activities of GS&Co. and its affiliates with respect to the Shares may affect the market price and volatility of the Shares, as well as the Forward Price and VWAP Price, each in a manner that may be adverse to Counterparty; and
+
+^^^each Transaction is a derivatives transaction in which it has granted GS&Co. an option; GS&Co. may purchase shares for its own account at an average price that may be greater than, or less than, the price paid by Counterparty under the terms of the related Transaction.
+
+^**Credit Support Documents**. The parties hereto acknowledge that no Transaction hereunder is secured by any collateral that would otherwise secure the obligations of Counterparty herein or pursuant to the Agreement.
+
+^**Set-off**. (a) The parties agree to amend Section 6 of the Agreement by adding a new Section 6(f) thereto as follows:
+
+“(f) Upon the occurrence of an Event of Default or Termination Event with respect to a party who is the Defaulting Party or the Affected Party (“X”), the other party (“Y”) will have the right (but not be obliged) without prior notice to X or any other person to set-off or apply any obligation of X owed to Y (or any Affiliate of Y) (whether or not matured or contingent and whether or not arising under the Agreement, and regardless of the currency, place of payment or booking office of the obligation) against any obligation of Y (or any Affiliate of Y) owed to X (whether or not matured or contingent and whether or not arising under the Agreement, and regardless of the currency, place of payment or booking office of the obligation). Y will give notice to the other party of any set-off effected under this Section 6(f).
+
+Amounts (or the relevant portion of such amounts) subject to set-off may be converted by Y into the Termination Currency at the rate of exchange at which such party would be able, acting in a reasonable manner and in good faith, to purchase the relevant amount of such currency. If any obligation is unascertained, Y may in good faith estimate that obligation and set-off in respect of the estimate, subject to the relevant party accounting to the other when the obligation is ascertained. Nothing in this Section 6(f) shall be effective to create a charge or other security interest. This Section 6(f) shall be without prejudice and in addition to any right of set-off, combination of accounts, lien or other right to which any party is at any time otherwise entitled (whether by operation of law, contract or o therwise).”
+
+^^Notwithstanding anything to the contrary in the foregoing, GS&Co. agrees not to set off or net amounts due from Counterparty with respect to any Transaction against amounts due from GS&Co. to Counterparty with respect to contracts or instruments that are not Equity Contracts. “**Equity Contract**” means any transaction or instrument that does not convey to GS&Co. rights, or the ability to assert claims, that are senior to the rights and claims of common stockholders in the event of Counterparty’s bankruptcy.
+
+^**Delivery of Shares**. Notwithstanding anything to the contrary herein, GS&Co. may, by prior notice to Counterparty, satisfy its obligation to deliver any Shares or other securities on any date due (an “**Original Delivery Date**”) by making separate deliveries of Shares or such securities, as the case may be, at more than one time on or prior to such Original Delivery Date, so long as the aggregate number of Shares and other securities so delivered on or prior to such Original Delivery Date is equal to the number required to be delivered on such Original Delivery Date.
+
+^**Early Termination**. In the event that an Early Termination Date (whether as a result of an Event of Default or a Termination Event) occurs or is designated with respect to any Transaction (except as a result of a Merger Event in which the consideration or proceeds to be paid to holders of Shares consists solely of cash), if either party would owe any amount to the other party pursuant to Section 6(d)(ii) of the Agreement (any such amount, a “**Payment Amount**”), then, in lieu of any payment of such Payment Amount, Counterparty may, no later than the Early Termination Date or the date on which such Transaction is terminated, elect to deliver or for GS&Co. to deliver, as the case may be, to the other party a number of Shares (or, in the case of a Merger Event, a number of units, each comprising the number or amount of the securities or property that a hypothetical holder of one Share would receive in such Merger Event (each such unit, an “**Alternative Delivery Unit**” and, the securities or property comprising such unit, “**Alternative Delivery Property**”)) with a value equal to the Payment Amount, as determined by the Calculation Agent (and the parties agree that, in making such determination of value, the Calculation Agent may take into account a number of factors, including the market price of the Shares or Alternative Delivery Property on the date of early termination and, if such delivery is made by GS&Co., the prices at which GS&Co. purchases Shares or Alternative Delivery Property to fulfi ll its delivery obligations under this Section 14); provided that in determining the composition of any Alternative Delivery Unit, if the relevant Merger Event involves a choice of consideration to be received by holders, such holder shall be deemed to have elected to receive the maximum possible amount of cash. If such delivery is made by Counterparty, paragraphs 2 through 7 of Annex A shall apply as if such delivery were a settlement of the Transaction to which Net Share Settlement applied, the Cash Settlement Payment Date were the Early Termination Date and the Forward Cash Settlement Amount were zero (0) minus the Payment Amount owed by Counterparty.
+
+^**Calculations and Payment Date upon Early Termination**. The parties acknowledge and agree that in calculating Loss pursuant to Section 6 of the Agreement GS&Co. may (but need not) determine losses without reference to actual losses incurred but based on expected losses assuming a commercially reasonable (including without limitation with regard to reasonable legal and regulatory guidelines) risk bid were used to determine loss to avoid awaiting the delay associated with closing out any hedge or related trading position in a commercially reasonable manner prior to or sooner following the designation of an Early Termination Date. Notwithstanding anything to the contrary in Section 6 (d)(ii) of the Agreement, all amounts calculated as being due in respect of an Early Termination Date under Section 6(e) of the Agreement will be payable on the day that notice of the amount payable is effective; provided that if Counterparty elects to receive Shares or Alternative Delivery Property in accordance with Section 14, such Shares or Alternative Delivery Property shall be delivered on a date selected by GS&Co as promptly as practicable.
+
+^**Automatic Termination Provisions**. Notwithstanding anything to the contrary in Section 6 of the Agreement, if a Termination Price is specified in any Supplemental Confirmation, then an Additional Termination Event with Counterparty as the sole Affected Party and the Transaction to which such Supplemental Confirmation relates as the Affected Transaction will automatically occur without any notice or action by GS&Co. or Counterparty if the price of the Shares on the Exchange at any time falls below such Termination Price, and the Exchange Business Day that the price of the Shares on the Exchange at any time falls below the Termination Price will be the “Early Termination Date” for purposes of the Agreement.
+
+^**Delivery of Cash**. For the avoidance of doubt, nothing in this Master Confirmation shall be interpreted as requiring Counterparty to deliver cash in respect of the settlement of the Transactions contemplated by this Master Confirmation following payment by Counterparty of the relevant Prepayment Amount and any relevant Counterparty Additional Payment Amount, except in circumstances where the required cash settlement thereof is permitted for classification of the contract as equity by EITF 00-19 as in effect on the relevant Trade Date (including, without limitation, where Counterparty so elects to deliver cash or fails timely to elect to deliver Shares or Alternative Delivery Property in respect of the settlement of such Transactions).
+
+^**Claim in Bankruptcy**. GS&Co. acknowledges and agrees that this Confirmation is not intended to convey to it rights with respect to the Transaction that are senior to the claims of common stockholders in the event of Counterparty’s bankruptcy.
+
+^**Governing Law**. The Agreement, this Master Confirmation, each Supplemental Confirmation and all matters arising in connection with the Agreement, this Master Confirmation and each Supplemental Confirmation shall be governed by, and construed and enforced in accordance with, the laws of the State of New York (without reference to its choice of laws doctrine other than Title 14 of Article 5 of the New York General Obligations Law).
+
+^**Offices**.
+
+^^The Office of GS&Co. for each Transaction is: [[Address 5: Address]]-2198.
+
+^^The Office of Counterparty for each Transaction is: [[Address 6: Address]]-0130.
+
+^**Arbitration****. The Agreement, this Master Confirmation and each Supplemental Confirmation are subject to the following arbitration provisions:**
+
+^^All parties to this Master Confirmation are giving up the right to sue each other in court, including the right to a trial by jury, except as provided by the rules of the arbitration forum in which a claim is filed.
+
+^^Arbitration awards are generally final and binding; a party’s ability to have a court reverse or modify an arbitration award is very limited.
+
+^^The ability of the parties to obtain documents, witness statements and other discovery is generally more limited in arbitration than in court proceedings.
+
+^^The arbitrators do not have to explain the reason(s) for their award.
+
+^^The panel of arbitrators will typically include a minority of arbitrators who were or are affiliated with the securities industry, unless Counterparty is a member of the organization sponsoring the arbitration facility, in which case all arbitrators may be affiliated with the securities industry.
+
+^^The rules of some arbitration forums may impose time limits for bringing a claim in arbitration. In some cases, a claim that is ineligible for arbitration may be brought in court.
+
+^^The rules of the arbitration forum in which the claim is filed, and any amendments thereto, shall be incorporated into this Master Confirmation.
+
+**Counterparty agrees that any and all controversies that may arise between Counterparty and GS&Co., including, but not limited to, those arising out of or relating to the Agreement or any Transaction hereunder, shall be determined by arbitration conducted before the FINRA Dispute Resolution (“FINRA-DR”), or, if the FINRA-DR declines to hear the matter, before the American Arbitration Association, in accordance with their arbitration rules then in force. The award of the arbitrator shall be final, and judgment upon the award rendered may be entered in any court, state or federal, having jurisdiction.**
+
+**No person shall bring a putative or certified class action to arbitration, nor seek to enforce any pre-dispute arbitration agreement against any person who has initiated in court a putative class action or who is a member of a putative class who has not opted out of the class with respect to any claims encompassed by the putative class action until: (i) the class certification is denied; (ii) the class is decertified; or (iii) Counterparty is excluded from the class by the court.**
+
+**Such forbearance to enforce an agreement to arbitrate shall not constitute a waiver of any rights under this Master Confirmation except to the extent stated herein.**
+
+^**Counterparts**. This Master Confirmation may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Master Confirmation by signing and delivering one or more counterparts.
+
+**Exhibit 99.2**    
+EXECUTION VERSION    
+
+Counterparty hereby agrees (a) to check this Master Confirmation carefully and immediately upon receipt so that errors or discrepancies can be promptly identified and rectified and (b) to confirm that the foregoing (in the exact form provided by GS&Co.) correctly sets forth the terms of the agreement between GS&Co. and Counterparty with respect to any particular Transaction to which this Master Confirmation relates, by manually signing this Master Confirmation or this page hereof as evidence of agreement to such terms and providing the other information requested herein and immediately returning an executed copy to Equity Derivatives Documentation Department, Facsimile No. [[Phone 8]]/83.
+
+Yours faithfully,
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+
+Agreed and Accepted By:
+
+**[[Organization 2 Name]], INC.**
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+\centered **SCHEDULE A**
+
+\centered SUPPLEMENTAL CONFIRMATION
+
+**To:**   [[Organization 2 Name]], Inc. [[Address 2: Address]]-0130
+
+**From:**   [[Organization 1 Name]]
+
+**Subject:**   Accelerated Stock Buyback
+
+**Ref. No:**   **[Insert Reference No.]**
+
+**Date:**   [[Date 1]]
+
+The purpose of this Supplemental Confirmation is to confirm the terms and conditions of the Transaction entered into between [[Organization 1 Name]] (“**GS&Co.**”) and [[Organization 2 Name]], Inc. (“**Counterparty**”) (together, the “**Contracting Parties**”) on the Trade Date specified below. This Supplemental Confirmation is a binding contract between GS&Co. and Counterparty as of the relevant Trade Date for the Transaction referenced below.
+
+^This Supplemental Confirmation supplements, forms part of, and is subject to the Master Confirmation dated as of [[Date 1]] (the “**Master Confirmation**”) between the Contracting Parties, as amended and supplemented from time to time. All provisions contained in the Master Confirmation govern this Supplemental Confirmation except as expressly modified below.
+
+^The terms of the Transaction to which this Supplemental Confirmation relates are as follows:
+
+Trade Date:   [ ]
+
+Forward Price Adjustment Amount:   USD [ ]
+
+Calculation Period Start Date:   [ ]
+
+Scheduled Termination Date:   [ ]
+
+First Acceleration Date:   [ ]
+
+Prepayment Amount:   USD [ ]
+
+Prepayment Date:   [ ]
+
+Counterparty Additional Payment Amount:   USD [ ]
+
+\centered A-1
+
+Initial Shares:   [ ] Shares; provided that if, in connection with the Transaction, GS&Co. is unable to borrow or otherwise acquire a number of Shares equal to the Initial Shares for delivery to Counterparty on the Initial Share Delivery Date, the Initial Shares delivered on the Initial Share Delivery Date shall be reduced to such number of Shares that GS&Co. is able to so borrow or otherwise acquire, and GS&Co. shall use reasonable good faith efforts to borrow or otherwise acquire a number of Shares equal to the shortfall in the Initial Share Delivery and to deliver such additional Shares as soon as reasonably practicable. The aggregate of all Shares delivered to Counterparty in respect of the Tra nsaction pursuant to this paragraph shall be the “Initial Shares” for purposes of “Number of Shares to be Delivered” in the Master Confirmation.
+
+Initial Share Delivery Date:   [ ]
+
+Ordinary Dividend Amount:   For any calendar quarter, USD [0.12].
+
+Scheduled Ex-Dividend Dates:   [ ]
+
+Termination Price:   USD[ ] per Share
+
+Additional Relevant Days:   The [__] Exchange Business Days immediately following the Calculation Period.
+
+^Counterparty represents and warrants to GS&Co. that neither it nor any “affiliated purchaser” (as defined in Rule 10b-18 under the Exchange Act) has made any purchases of blocks pursuant to the proviso in Rule 10b-18(b)(4) under the Exchange Act during either (i) the four full calendar weeks immediately preceding the Trade Date or (ii) during the calendar week in which the Trade Date occurs.
+
+^This Supplemental Confirmation may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Supplemental Confirmation by signing and delivering one or more counterparts.
+
+\centered A-2
+
+Counterparty hereby agrees (a) to check this Supplemental Confirmation carefully and immediately upon receipt so that errors or discrepancies can be promptly identified and rectified and (b) to confirm that the foregoing (in the exact form provided by GS&Co.) correctly sets forth the terms of the agreement between GS&Co. and Counterparty with respect to the Transaction to which this Supplemental Confirmation relates, by manually signing this Supplemental Confirmation or this page hereof as evidence of agreement to such terms and providing the other information requested herein and immediately returning an executed copy to Equity Derivatives Documentation Department, facsimile No. [[Phone 8]]/83.
+
+Yours sincerely,
+
+**[[Organization 1 Name]]**
+
+[[[[Organization 6 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] Entity => By: [[[[Organization 6 Name]] Signatory First Name]] [[[[Organization 6 Name]] Signatory Last Name]]
+Title: [[[[Organization 6 Name]] Signatory Title]]}}
+
+Agreed and Accepted By:
+
+**[[Organization 2 Name]], INC.**
+
+[[[[Organization 2 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] Entity => By: [[[[Organization 2 Name]] Signatory First Name]] [[[[Organization 2 Name]] Signatory Last Name]]
+Title: [[[[Organization 2 Name]] Signatory Title]]}}
+
+\centered A-3
+
+\centered ANNEX A
+
+\centered COUNTERPARTY SETTLEMENT PROVISIONS
+
+^The following Counterparty Settlement Provisions shall apply to the extent indicated under the Master Confirmation:
+
+Settlement Currency:   USD
+
+Settlement Method Election:   Applicable; provided that (i) Section 7.1 of the Equity Definitions is hereby amended by deleting the word “Physical” in the sixth line thereof and replacing it with the words “Net Share” and (ii) the Electing Party may make a settlement method election only if the Electing Party represents and warrants to GS&Co. in writing on the date it notifies GS&Co. of its election that, as of such date, the Electing Party is not aware of any material non-public information concerning Counterparty or the Shares and is electing the settlement method in good faith and not as part of a plan or scheme to evade compliance with the federal securities laws.
+
+Electing Party:   Counterparty
+
+Settlement Method
+Election Date:   The earlier of (i) the Scheduled Termination Date and (ii) the second Exchange Business Day immediately following the Accelerated Termination Date (in which case the election under Section 7.1 of the Equity Definitions shall be made no later than 10 minutes prior to the open of trading on the Exchange on such second Exchange Business Day), as the case may be.
+
+Default Settlement Method:   Cash Settlement
+
+Forward Cash Settlement
+Amount:   The Number of Shares to be Delivered multiplied by the Settlement Price.
+
+Settlement Price:   The average of the VWAP Prices for the Exchange Business Days in the Settlement Valuation Period, subject to Valuation Disruption as specified in the Master Confirmation.
+
+Settlement Valuation Period:   A number of Scheduled Trading Days selected by GS&Co. in its reasonable discretion, beginning on the Scheduled Trading Day immediately following the earlier of (i) the Scheduled Termination Date or (ii) the Exchange Business Day immediately following the Termination Date.
+
+Cash Settlement:   If Cash Settlement is applicable, then Buyer shall pay to Seller the absolute value of the Forward Cash Settlement Amount on the Cash Settlement Payment Date.
+
+Cash Settlement
+Payment Date:   The date one Settlement Cycle following the last day of the Settlement Valuation Period.
+
+Net Share Settlement
+Procedures:   If Net Share Settlement is applicable, Net Share Settlement shall be made in accordance with paragraphs 2 through 7 below.
+
+^Net Share Settlement shall be made by delivery on the Cash Settlement Payment Date of a number of Shares satisfying the conditions set forth in paragraph 3 below (the “**Registered Settlement Shares**”), or a number of Shares not satisfying such conditions (the “**Unregistered Settlement Shares**”), in either case with a value equal to the absolute value of the Forward Cash Settlement Amount, with such Shares’ value based on the value thereof to GS&Co. (which value shall, in the case of Unregistered Settlement Shares, take into account a commercially reasonable illiquidity discount), in each case as determined by the Calculation Age nt.
+
+^Counterparty may only deliver Registered Settlement Shares pursuant to paragraph 2 above if:
+
+^^a registration statement covering public resale of the Registered Settlement Shares by GS&Co. (the “**Registration Statement**”) shall have been filed with the Securities and Exchange Commission under the Securities Act and been declared or otherwise become effective on or prior to the date of delivery, and no stop order shall be in effect with respect to the Registration Statement; a printed prospectus relating to the Registered Settlement Shares (including any prospectus supplement thereto, the “**Prospectus**”) shall have been delivered to GS&Co., in such quantities as GS&Co. shall reasonably have requested, on or prior to the date of delivery;
+
+^^the form and content of the Registration Statement and the Prospectus (including, without limitation, any sections describing the plan of distribution) shall be satisfactory to GS&Co.;
+
+^^as of or prior to the date of delivery, GS&Co. and its agents shall have been afforded a reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities and the results of such investigation are satisfactory to GS&Co., in its discretion; and
+
+^^as of the date of delivery, an agreement (the “**Underwriting Agreement**”) shall have been entered into with GS&Co. in connection with the public resale of the Registered Settlement Shares by GS&Co. substantially similar to underwriting agreements customary for underwritten offerings of equity securities, in form and substance satisfactory to GS&Co., which Underwriting Agreement shall include, without limitation, provisions substantially similar to those contained in such underwriting agreements relating, without limitation, to the indemnification of, and contribution in connection with the liability of, GS&Co. and its affiliates and the provision of customary opinions, accountants’ comfort le tters and lawyers’ negative assurance letters.
+
+^If Counterparty delivers Unregistered Settlement Shares pursuant to paragraph 2 above:
+
+^^all Unregistered Settlement Shares shall be delivered to GS&Co. (or any affiliate of GS&Co. designated by GS&Co.) pursuant to the exemption from the registration requirements of the Securities Act provided by Section 4(2) thereof;
+
+^^as of or prior to the date of delivery, GS&Co. and any potential purchaser of any such shares from GS&Co. (or any affiliate of GS&Co. designated by GS&Co.) identified by GS&Co. shall be afforded a commercially reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for private placements of equity securities (including, without limitation, the right to have made available to them for inspection all financial and other records, pertinent corporate documents and other information reasonably requested by them);
+
+^^as of the date of delivery, Counterparty shall enter into an agreement (a “**Private Placement Agreement**”) with GS&Co. (or any affiliate of GS&Co. designated by GS&Co.) in connection with the private placement of such shares by Counterparty to GS&Co. (or any such affiliate) and the private resale of such shares by GS&Co. (or any such affiliate), substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance commercially reasonably satisfactory to GS&Co., which Private Placement Agreement shall include, without limitation, provisions substantially similar to those contained in such private placement purchase agreeme nts relating, without limitation, to the indemnification of, and contribution in connection with the liability of, GS&Co. and its affiliates, customary “standstill” and confidentiality provisions binding upon potential purchasers and reasonably satisfactory to Counterparty, and the provision of customary opinions, accountants’ comfort letters and lawyers’ negative assurance letters, and shall provide for the payment by Counterparty of all fees and expenses in connection with such resale, including all fees and expenses of counsel for GS&Co., and shall contain representations, warranties, covenants and agreements of Counterparty reasonably necessary or advisable to establish and maintain the availability of an exemption from the registration requirements of the Securities Act for such resales; and
+
+^^in connection with the private placement of such shares by Counterparty to GS&Co. (or any such affiliate) and the private resale of such shares by GS&Co. (or any such affiliate), Counterparty shall, if so requested by GS&Co., prepare, in cooperation with GS&Co., a private placement memorandum in form and substance reasonably satisfactory to GS&Co.
+
+^GS&Co., itself or through an affiliate (the “**Selling Agent**”) or any underwriter(s), will sell all, or such lesser portion as may be required hereunder, of the Registered Settlement Shares or Unregistered Settlement Shares and any Makewhole Shares (as defined below) (together, the “**Settlement Shares**”) delivered by Counterparty to GS&Co. pursuant to paragraph 6 below commencing on the Cash Settlement Payment Date and continuing until the date on which the aggregate Net Proceeds (as such term is defined below) of such sales, as determined by GS&Co., is equal to the absolute value of the Forward Cash Settlement Amount (such da te, the “**Final Resale Date**”). If the proceeds of any sale(s) made by GS&Co., the Selling Agent or any underwriter(s), net of any fees and commissions (including, without limitation, underwriting or placement fees) customary for similar transactions under the circumstances at the time of the offering, together with carrying charges and expenses incurred in connection with the offer and sale of the Shares (including, but without limitation to, the covering of any over-allotment or short position (syndicate or otherwise)) (the “**Net Proceeds**”) exceed the absolute value of the Forward Cash Settlement Amount, GS&Co. will refund, in USD, such excess to Counterparty on the date that is three (3) Currency Business Days following the Final Resale Date, and, if any portion of the Settlement Shares remains unsold, GS&Co. shall return to Counterparty on that date s uch unsold Shares.
+
+^If the Calculation Agent determines that the Net Proceeds received from the sale of the Registered Settlement Shares or Unregistered Settlement Shares or any Makewhole Shares, if any, pursuant to this paragraph 6 are less than the absolute value of the Forward Cash Settlement Amount (the amount in USD by which the Net Proceeds are less than the absolute value of the Forward Cash Settlement Amount being the “**Shortfall**” and the date on which such determination is made, the “**Deficiency Determination Date**”), Counterparty s hall on the Exchange Business Day next succeeding the Deficiency Determination Date (the “**Makewhole Notice Date**”) deliver to GS&Co., through the Selling Agent, a notice of Counterparty’s election that Counterparty shall either (i) pay an amount in cash equal to the Shortfall on the day that is one (1) Currency Business Day after the Makewhole Notice Date, or (ii) deliver additional Shares. If Counterparty elects to deliver to GS&Co. additional Shares, then Counterparty shall deliver additional Shares in compliance with the terms and conditions of paragraph 3 or paragraph 4 above, as the case may be (the “**Makewhole Shares**”), on the first Clearance System Business Day which is also an Exchange Business Day following the Makewhole Notice Date in such number as the Calculation Agent reasonably believes would have a market value on that Exchange Busi ness Day equal to the Shortfall. Such Makewhole Shares shall be sold by GS&Co. in accordance with the provisions above; provided that if the sum of the Net Proceeds from the sale of the originally delivered Shares and the Net Proceeds from the sale of any Makewhole Shares is less than the absolute value of the Forward Cash Settlement Amount then Counterparty shall, at its election, either make such cash payment or deliver to GS&Co. further Makewhole Shares until such Shortfall has been reduced to zero.
+
+^Notwithstanding the foregoing, in no event shall the aggregate number of Settlement Shares and Makewhole Shares be greater than the Reserved Shares minus the amount of any Shares actually delivered by Counterparty under any other Transaction(s) under this Master Confirmation (the result of such calculation, the “**Capped Number**”). Counterparty represents and warrants (which shall be deemed to be repeated on each day that a Transaction is outstanding) that the Capped Number is equal to or less than the number of Shares determined according to the following formula:
+
+\centered A – B
+
+Where   A = the number of authorized but unissued shares of the Counterparty that are not reserved for future issuance on the date of the determination of the Capped Number; and
+
+^= the maximum number of Shares required to be delivered to third parties if Counterparty elected Net Share Settlement of all transactions in the Shares (other than Transactions in the Shares under this Master Confirmation) with all third parties that are then currently outstanding and unexercised.
+
+“**Reserved Shares**” means initially, [[Shares 1: Number]] Shares. The Reserved Shares may be increased or decreased in a Supplemental Confirmation.

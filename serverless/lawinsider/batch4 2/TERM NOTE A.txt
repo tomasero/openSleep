@@ -1,0 +1,20 @@
+\centered TERM NOTE A
+
+$[[USD Value 1: Number]]   [[Date 1: Date]] Minneapolis, Minnesota
+
+FOR VALUE RECEIVED, [[Organization 1 Name]], a corporation organized under the laws of the State of Minnesota hereby promises to pay to the order of [[Organization 2 Name]] (the “Bank”) at its main office in Minneapolis, Minnesota, in lawful money of the United States of America in Immediately Available Funds (as such term and each other capitalized term used herein are defined in the Credit Agreement hereinafter referred to) the principal amount of ONE MILLION FIVE HUNDRED TWENTY THOUSAND AND NO/100 DOLLARS ($[[USD Value 2: Number]]) and to pay interest (computed on the basis of actual days elapsed and a year of 360 days) in like funds on the unpaid principal amount hereof from time to time outstanding at the rates and times set forth in the Credit Agreement.
+
+The principal hereof is payable as provided in the Credit Agreement.
+
+This note is the Term Note A referred to in the Credit Agreement dated as of [[Date 1]] (as the same may hereafter be from time to time amended, restated or otherwise modified, the “Credit Agreement”) between the undersigned and the Bank. This note is secured and its maturity is subject to acceleration, in each case upon the terms provided in said Credit Agreement.
+
+In the event of default hereunder, the undersigned agrees to pay all costs and expenses of collection, including reasonable attorneys' fees. The undersigned waives demand, presentment, notice of nonpayment, protest, notice of protest and notice of dishonor.
+
+THE VALIDITY, CONSTRUCTION AND ENFORCEABILITY OF THIS NOTE SHALL BE GOVERNED BY THE INTERNAL LAWS OF THE STATE OF MINNESOTA WITHOUT GIVING EFFECT TO THE CONFLICT OF LAWS PRINCIPLES THEREOF,, BUT GIVING EFFECT TO FEDERAL LAWS OF THE UNITED STATES APPLICABLE TO NATIONAL BANKS.
+
+[[Organization 1 Name]]
+
+[[[[Organization 3 Name]]. Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]]. Entity => By: [[[[Organization 3 Name]]. Signatory First Name]] [[[[Organization 3 Name]]. Signatory Last Name]]
+Title: [[[[Organization 3 Name]]. Signatory Title]]}}

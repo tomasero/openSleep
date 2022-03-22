@@ -1,0 +1,88 @@
+\centered [[Company]]
+
+\centered **NONQUALIFIED STOCK OPTION AWARD AGREEMENT**
+
+\centered **(Named Executive Officer)**
+
+This AGREEMENT (this “Agreement”) is made as of [ ] (the “Date of Grant”), by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [ ] (“Optionee”).
+
+^Grant of Option. Pursuant to the [[Company]] 2007 Long-Term Incentive Plan (the “Plan”) and subject to the terms and conditions thereof and the terms and conditions hereinafter set forth, the Company hereby grants to Optionee the right and option (the “Option”) to purchase all or any part of [ ] shares of Common Stock at a price of $[ ] per share (the “Exercise Price”). The Option granted pursuant to this Agreement is not intended to qualify as an “incentive stock option” within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”).
+
+^Vesting Schedule. Except as otherwise provided herein or in the Plan, the Option shall become [[Shares 1: Number]] percent vested three years from the Date of Grant, if Optionee has continuously provided services to the Company or a Subsidiary or has been continuously employed by the Company or a Subsidiary until such date. Prior to becoming 100 percent vested, the Option shall become exercisable in three cumulative installments as listed on Exhibit A and shall remain exercisable until the tenth anniversary of the Date of Grant (the “Option Term”).
+
+^Accelerated Vesting. Notwithstanding the provisions of Section 2 hereof, the Option shall become immediately 100 percent vested and exercisable (regardless of the extent to which such Option was then vested) if any of the following circumstances apply:
+
+^^Termination without Cause or Good Reason: Optionee’s termination of employment without “Cause” or with “Good Reason” (as each term is defined in the Optionee’s Employment Agreement with the Company, dated [[Date 1: Date]], as may be amended from time to time (the “Employment Agreement”)).
+
+^^Death or Disability: Optionee dies or upon his Disability (as such term is defined in the Employment Agreement).
+
+^^Normal Retirement: Optionee retires after having attained “normal retirement age” (as such term is defined in the Social Security Act of 1935, as amended).
+
+^^Change in Control: A Change in Control occurs.
+
+^Expiration of Option.
+
+^^Except as set forth herein or in subsections (b), (c) or (d) below, an Option may not be exercised unless the Optionee is then in the employ of, maintains an independent contractor relationship with, or is a director of, the Company or a Subsidiary (or a company or a parent or subsidiary company of such company issuing or assuming the Option in a transaction to which Section 424(a) of the Code applies), and unless the Optionee has remained continuously so employed, or continuously maintained such relationship, since the Date of Grant.
+
+^^If the Optionee’s employment or service terminates because of Optionee’s death or Disability or upon the Optionee’s retirement on or after the Optionee’s attainment of his “normal retirement age” (as such term is defined in the Social Security Act of 1935, as amended), the portions of outstanding Options granted to the Optionee that are exercisable as of the date of such termination of employment or service shall remain exercisable until the earlier of (i) three (3) years following the date of such termination of employment or service and (ii) expiration of the Option Term and shall thereafter terminate. All additional portions of outstanding Options granted to such Optionee that are not exercisable as of the date of such termination of employment or service shall terminate upon the date of such termination of employment or service.
+
+^^If the Optionee’s employment or service is terminated for Cause, all vested and unvested outstanding Options granted to such Optionee shall terminate on the date of the Optionee’s termination of employment or service.
+
+^^If the Optionee’s employment or service with the Company and its Subsidiaries terminates (including by reason of the Subsidiary which employs the Optionee ceasing to be a Subsidiary of the Company) other than as described in subsections (b) and (c) above, the portions of outstanding Options granted to the Optionee that are exercisable as of the date of such termination of employment or service shall remain exercisable until the earlier of (i) 90 days following the date of such termination of employment or service and (ii) expiration of the Option Term and shall thereafter terminate. All additional portions of outstanding Options granted to such Optionee that are not exercisable as of the date of such termination of employment or service shall terminate upon the date of such termination of employment or service.
+
+^Manner of Exercise.
+
+^^The Option, to the extent then vested and exercisable, shall be exercisable by delivery to the Company of a written notice stating the number of shares as to which the Option is exercised pursuant to this Agreement and a designation of the method of payment of the Exercise Price with respect to the shares of Common Stock to be purchased. An Option may not be exercised for less than 100 shares of Common Stock (or the number of remaining shares of Common Stock subject to the Option if less than 100).
+
+^^The Exercise Price, or portion thereof, with respect to the shares of Common Stock to be purchased, shall be paid in full at the time of exercise; payment may be made in cash, which may be paid by check, or other instrument or in any other manner acceptable to the Company. The Committee may permit, in its sole discretion, such amount to be paid in shares of Common Stock previously owned by the Optionee, or a portion of shares of Common Stock that otherwise would be distributed to such Optionee upon exercise of the Option, or a combination of cash and such Common Stock.
+
+^Transferability. Transferability shall be as set forth in the Plan.
+
+^No Employment Contract. Nothing contained in this Agreement shall (a) confer upon Optionee any right to be employed by or remain employed by the Company, or (b) limit or affect in any manner the right of the Company to terminate the employment of Optionee at any time.
+
+^Withholding Taxes. If the Company shall be required to withhold any federal, state, local or foreign tax in connection with the exercise of this Option, it shall be a condition to such exercise that the Optionee pay or make arrangements satisfactory to the Company for payment of all such taxes. The Optionee may elect that all or any part of such withholding requirement be satisfied by retention by the Company of a portion of the shares purchased upon exercise of this Option. If such election is made, the shares so retained shall be credited against such withholding requirement at the Fair Market Value on the date of exercise. In no event, however, shall the Company accept shares for payment of taxes in excess of required tax withholding rates.
+
+^Restrictive Covenants. If the Optionee engages in any conduct in breach of any noncompetition, nonsolicitation or confidentiality obligations to the Company under any agreement, policy or plan, then such conduct shall also be deemed to be a breach of the terms of the Plan and this Agreement. Upon such breach the Option shall be cancelled and, if and to the extent the Option was exercised within a period of 18 months prior to such breach, the Optionee shall be required to return to the Company, upon demand, any equity acquired by Optionee upon such exercise or the net proceeds of any exercises and sales. For purposes of this Section 9, net proceeds shall mean the difference between the Exercise Price and the greater of (a) the price of Common Stock on the date of exercise or (b) the amount realized upon the disposition of the underlying shares, less any applicable taxes withheld by the Company.
+
+^Recovery of Options. If (a) the Company restates any part of its financial statements for any fiscal year or years during which the Option is not yet vested pursuant to Sections 2 or due to material noncompliance with any financial reporting requirement under the U.S. securities laws applicable to such fiscal year or years (a “Restatement”) and (b) the Committee determines that Optionee is personally responsible for causing the Restatement as a result of Optionee’s personal misconduct or any fraudulent activity on the part of Optionee, then the Committee has discretion to, based on applicable facts and circumstances and subject to applicable law, cause the Company to cancel the Option and, if and to the extent the Option was exercised within a period of 18 months prior to the Restatement, the Optionee shall be required to return to the Company, upon demand, any equity acquired by Optionee upon such exercise or the net proceeds of any exercises and sales. For purposes of this Section 10, net proceeds shall mean the difference between the Exercise Price and the greater of (a) the price of Common Stock on the date of exercise or (b) the amount realized upon the disposition of the underlying shares, less any applicable taxes withheld by the Company.
+
+^Relation to Plan. This Agreement is subject to the terms and conditions of the Plan. In the event of any inconsistency between the provisions of this Agreement and the Plan, the Plan shall govern. The Committee acting pursuant to the Plan, as constituted from time to time, shall, except as expressly provided otherwise herein or in the Plan, have the right to determine any questions that arise in connection with the grant of the Option.
+
+^Miscellaneous. All decisions or interpretations of the Committee with respect to any question arising under the Plan or this Agreement shall be binding, conclusive and final. The waiver by the Company of any provision of this Agreement shall not operate as or be construed to be a subsequent waiver of the same provision or of any other provision of this Agreement. Optionee agrees to execute such other agreements, documents or assignments as may be necessary or desirable to effect the purposes of this Agreement.
+
+^Capitalized Terms. All capitalized terms used in this Agreement that are not defined herein shall have the meanings given them in the Plan unless the context clearly requires otherwise.
+
+\centered (Remainder of page intentionally left blank)
+
+**IN WITNESS WHEREOF**, the Company has caused this Agreement to be executed on its behalf by a duly authorized officer, as of the day and year first above written.
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+The undersigned Optionee hereby acknowledges receipt of an executed copy of this Agreement and accepts the Option or other securities covered hereby, subject to the terms and conditions of the Plan and the terms and conditions herein above set forth.
+
+Optionee
+
+**Date:**
+
+\centered **Exhibit A**
+
+\centered **Nonqualified Stock Options Vesting Schedule**
+
+\centered **Date of Grant [ ]**
+
+**Percent of Grant Exercisable**      \centered **Number of Shares**      \centered **Date First Available For Exercise**
+\centered [[Percentage 1: Number]]%            
+
+\centered **[ ]**
+\centered [[Percentage 1]]%            
+
+\centered **[ ]**
+\centered [[Percentage 1]]%            
+
+\centered **[ ]**

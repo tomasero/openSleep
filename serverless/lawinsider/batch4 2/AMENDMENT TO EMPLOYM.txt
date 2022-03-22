@@ -1,0 +1,55 @@
+\centered **AMENDMENT TO EMPLOYMENT AGREEMENT**
+
+This Amendment (“Amendment”) is made among [[Organization 1 Name]], a Colorado corporation and [[Organization 1 Name]], a Nevada corporation (collectively, “Employer”), and [[Person 1 First Name]] [[Person 1 Last Name]] (the “Employee”), to amend certain provisions of the Employment Agreement (the “Agreement”), dated [[Date 1: Date]], between Employee and [[Organization 1 Name]], as such Agreement was amended by the amendments dated [[Date 2: Date]] and [[Date 3: Date]].
+
+^Section (1) of the Agreement is hereby amended and restated in its entirety as follows:
+
+^Term. Subject to the terms of this Section 1 and Sections 7, 8 and 9, this Agreement shall commence on [[Date 1]] and expire on the earlier of the Employee’s death, resignation, or [[Date 4: Date]] (the date on which this Agreement shall expire, as such date may be extended in accordance with the terms of this Section 1 is hereinafter referred to as the "Expiration Date"). Subject to the terms of Sections 7, 8 and 9, unless either party gives written notice to the other of its desire to terminate this Agreement at least thirty days prior to the then current Expiration Date or Extended Period (the "Termination Notification Date"), this Agreement will be automatically extended for further period(s) of one year from the then current Expiration Date (the "Extended Period") o n the same terms and conditions as herein set forth. Except when the contrary is indicated, the phrase "the term of this Agreement" shall henceforth be deemed to include the Extended Period.
+
+^Paragraphs (a), (b), and (c) of section (4) of the Agreement are hereby amended and restated in its entirety as follows:
+
+^Compensation.   
+^^Commencing [[Date 5: Date]], the Employer shall pay to the Employee for the loyal and consistent services provided to it hereunder a fee at the rate of $[[USD Value 1: Number]] per month. The Employee’s compensation shall be reviewed at least annually for appropriate adjustments at the end of each year as determined by the Board of Directors of [[Organization 1 Name]] (the “Board”).
+
+^^Employee shall also receive after the end of each quarter during the term of this Agreement, bonus compensation based on meeting or exceeding cash collections, EBITDA and revenue amounts set as targets for the quarter or year, as the case may be, based on the budget of [[Organization 1 Name]] that has been accepted by the Board for the applicable periods. The annual bonus may be earned irrespective of whether an individual quarter’s bonus was earned and is applicable for 2010; although, the quarterly based bonuses are effective for quarters beginning after [[Date 5]]. The bonuses computations are as follows:
+
+\centered **Quarterly Bonus**   
+
+\centered **Annual Bonus**
+
+\centered **Cash Collections Meeting**   \centered **Targeted**   \centered **Amounts**
+Less than [[Percentage 1: Number]]%   $[[USD Value 4: Number]]   $[[USD Value 4]]
+at or >[[Percentage 1]]%   $[[USD Value 2: Number]]   $[[USD Value 3: Number]]
+
+\centered **EBITDA**   \centered **Meeting Targeted Amounts**
+Less than [[Percentage 1]]%   $[[USD Value 4]]   $[[USD Value 4]]
+at or >[[Percentage 1]]%   $[[USD Value 2]]   $[[USD Value 3]]
+
+\centered **Net Revenue**   \centered **Meeting**   \centered **Targeted Amounts**
+Less than [[Percentage 1]]%   $[[USD Value 4]]   $[[USD Value 4]]
+at or >[[Percentage 1]]%   $[[USD Value 2]]   $[[USD Value 3]]
+
+^^The Board may include or exclude amounts from cash collections, EBITDA or net revenues for purposes of calculating the bonus if the Board deems such amounts to be unusual or infrequent.
+
+Except as expressly modified by this Amendment, all other terms and conditions of the Agreement remain in full force and effect and are not be altered by this Amendment.
+
+The undersigned have executed this Amendment effective as of [[Date 5]].
+
+[[Organization 1 Name]]   
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Organization 1 Name]]   
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Title Party 2 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 2 Signatory Title}} Entity => By: [[Title Party 2 Signatory Title}} Signatory First Name]] [[Title Party 2 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 2 Signatory Title}} Signatory Title]]}}

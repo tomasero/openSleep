@@ -1,0 +1,288 @@
+\centered WAIVER AND FOURTH AMENDMENT TO FINANCING AGREEMENT
+
+THIS WAIVER AND FOURTH AMENDMENT TO FINANCING AGREEMENT (this “Amendment”) is entered into as of [[Date 1: Date]], by and among BODY ‘SHOP OF [[State of Formation: State]] [[Organization: EntityType]], a [[State of Formation: State]] [[Organization: EntityType]] (“Body Shop”), [[Borrowers]], a [[State of Formation: State]] [[Organization: EntityType]] (“CV,” CV, together with Body Shop and each other Person who becomes a borrower under the Financing Agreement, the “Borrowers”), [[Parent]], a [[State of Formation: State]] [[Organization: EntityType]] (“Parent”), [[Loan Parties]], a [[State of Formation: State]] [[Organization: EntityType]] (“Rinzi,” Rinzi, together with Parent and each other Person who becomes a guarantor under the Financing Agreement, the “Guarantors,” such Guarantors, together with the Borrowers, the “Loan Parties”), [[Administrative Agent]], as administrative agent (in such capacity, “Administrative Agent”) for the Lenders, and the financial institutions from time to time party thereto as Lenders.
+
+\centered W I T N E S S E T H:
+
+WHEREAS, Loan Parties, Administrative Agent and Lenders have entered into that certain Financing Agreement dated as of [[Date 2: Date]] (as heretofore amended, restated, amended and restated, supplemented or otherwise modified and in effect from time to time, the “Financing Agreement”);
+
+WHEREAS, the Designated Default (as such term is defined herein below) has occurred and is continuing under the Financing Agreement;
+
+WHEREAS, Loan Parties have requested that Administrative Agent and Lenders (i) waive the Designated Default and the right to impose any default rate of interest on the Obligations as a result thereof, and (ii) amend the Financing Agreement; and
+
+WHEREAS, Administrative Agent and Lenders have agreed to (i) waive the Designated Default and the right to impose any default rate of interest on the Obligations as a result thereof, and (ii) amend the Financing Agreement, in each case on the terms and subject to the conditions hereinafter set forth;
+
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained herein, the parties agree as follows:
+
+^Defined Terms. Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Financing Agreement, as amended hereby.
+
+^Waiver of Designated Default; Waiver of Right to Request Default Interest. Effective as of the date hereof, upon satisfaction of the conditions precedent set forth in Section 4 below, and in reliance upon the representations and warranties of each Loan Party set forth herein and in each of the Loan Documents, Administrative Agent and Lenders hereby waive (a) each Event of Default set forth in Exhibit A hereto (collectively, the “Designated Default”); and (b) the right to request that interest accrue at the Default Rate pursuant to Section 2.04(c) of the Financing Agreement on any Obligations as a result of the occurrence and continuance of the Designated Default for any period prior to the Effective Date.
+
+^Amendments to Financing Agreement. Effective as of the date hereof, upon satisfaction of the conditions precedent set forth in Section 4 below, and in reliance upon the representations and warranties of each Loan Party set forth herein and in each of the Loan Documents, the Financing Agreement is hereby amended as follows:
+
+^^Section 1.01 of the Financing Agreement is hereby amended by deleting the definition of the term “Applicable Margin” set forth therein in its entirety and substituting the following language therefor:
+
+“Applicable Margin” means, for any day, the rate per annum set forth below, it being understood and agreed that the Applicable Margin for (i) Revolving Loans that are Base Rate Loans shall be the percentage set forth under the column “Base Rate Margin for Revolving Loans”, (ii) Revolving Loans that are LIBOR Loans shall be the percentage set forth under column “LIBOR Margin for Revolving Loans and Letter of Credit Fee”, (iii) portions of Term Loan A that are Base Rate Loans shall be the percentage set forth under the column “Base Rate Margin for Term Loan A”, (iv) portions of Term Loan A that are LIBOR Loans shall be the percentage set forth under the column “LIBOR Margin for Term Loan A”, (v) portions of Term Loan B that are Base Rate Loans shall be the percentage set forth under the column “Base Rate Margin for Term Loan B”, (vi) portions of Term Loan B that are LIBOR Loans shall be the percentage set forth under the column “LIBOR Margin for Term Loan B”, and (vii) the Letter of Credit Fee shall be the percentage set forth under the column “LIBOR Margin for Revolving Loans and Letter of Credit Fee”:
+
+\centered **Base Rate Margin for Revolving Loans**      \centered **LIBOR Margin for Revolving Loans and Letter of Credit Fee**      \centered **Base Rate Margin for Term Loan A**      
+
+\centered **LIBOR Margin for Term Loan A**
+\centered [[Percentage 1: Number]]%      \centered [[Percentage 2: Number]]%      \centered [[Percentage 1]]%      
+
+\centered [[Percentage 2]]%
+
+\centered **Base Rate Margin for Term Loan B**      
+
+\centered **LIBOR Margin for Term Loan B**
+\centered [[Percentage 3: Number]]%      
+
+\centered [[Percentage 4: Number]]%
+
+^^Section 1.01 of the Financing Agreement is hereby amended by deleting the definition of the term “Base Rate” set forth therein in its entirety and substituting the following language therefor:
+
+“Base Rate” means a variable per annum rate of interest equal to the greatest of (i) [[Percentage 2]]%, (ii) the rate of interest publicly announced by [[Organization 1 Name]], New York from time to time as its Base Rate or prime rate or (iii) the Federal Funds Rate plus one-half of one percent ([[Percentage 5: Number]]%). The Base Rate or prime rate is determined from time to time by [[Organization 1 Name]] as a means of pricing some loans to its borrowers and neither is tied to any external rate of interest or index nor necessarily reflects the lowest rate of interest actually charged by [[Organization 1 Name]] to any particular class or category of customers. Each change in the Base Rate shall be effective from and including the date such change is publicly announced as being effective.
+
+^^Section 1.01 of the Financing Agreement is hereby amended by deleting the definition of the term “L/C Subfacility” set forth therein in its entirety and substituting the following language therefor:
+
+“L/C Subfacility” means that portion of the Total Revolving Loan Commitment equal to $[[USD Value 1: Number]]
+
+^^Section 1.01 of the Financing Agreement is hereby amended by deleting the definition of the term “LIBOR” set forth therein in its entirety and substituting the following language therefor:
+
+“LIBOR” means, for any LIBOR Loan for any Interest Period therefor, the rate per annum (rounded upwards to the nearest 1/100 of [[Percentage 6: Number]]%) equal to the greater of (a) [[Percentage 7: Number]]%, and (b) the following:
+
+^^^the rate per annum appearing on Telerate Page 3750 (or any successor page) as the London interbank offered rate for deposits in Dollars at approximately 11:00 A.M. (London time) two (2) Business Days prior to the first day of such Interest Period for a term comparable to such Interest Period. If for any reason such rate is not available, the term “LIBOR” shall mean, for any LIBOR Loan for any Interest Period therefor, the rate per annum (rounded upwards to the nearest 1/100 of [[Percentage 6]]%) appearing on Reuters Screen LIBO Page as the London interbank offered rate for deposits in Dollars at approximately 11:00 A.M. (London time) two (2) Business Days prior to the first day of such Interest Period for a term comparable to such Interest Period; provided, however, if more than one rate is specified on Reuters Screen LIBO Page, the applicable rate shall be the arithmetic mean of all such rates (rounded upwards to the nearest 1/100 of [[Percentage 6]]%). If, for any reason, neither of such rates is available, then “LIBOR” shall mean the rate per annum at which, as determined by the Administrative Agent, Dollars in an amount comparable to the Loans then requested or otherwise in question are being offered to leading banks at approximately 11:00 A.M. London time, two (2) Business Days prior to the commencement of the applicable Interest Period for settlement in immediately available funds by leading banks in the London interbank market for a period equal to the Interest Period selected; divided by
+
+^^^one minus the percentage (expressed as a decimal and rounded upwards to the next higher 1/100th of [[Percentage 6]]%) which is in effect for such day as prescribed by the Board (or any successor) for determining the maximum reserve requirement (including without limitation, any basic, supplemental or emergency reserves) in respect of Eurocurrency liabilities, as defined in Regulation D of the Board as in effect from time to time, or any similar category of liabilities for a member bank of the Federal Reserve System in New York City.
+
+^^Section 7.01(a)(xiv)(D) of the Financing Agreement is hereby deleted in its entirety and the following language is substituted therefore:
+
+^for the week ending [[Date 3: Date]] (and the immediately succeeding twelve week period), and for every other week ending thereafter (and for the immediately succeeding twelve week period), no later than Wednesday of the immediately following week, an updated Cash Flow Forecast for such thirteen week period prepared on a week to week basis, each such updated Cash Flow Forecast to be in form reasonably satisfactory to the Administrative Agent.
+
+^^Section 7.03(d) of the Financing Agreement is hereby deleted in its entirety and the following language is hereby substituted therefor:
+
+^^Minimum Consolidated EBITDA. Permit Consolidated EBITDA for the period commencing on [[Date 4: Date]] and ending as of the last day of the fiscal month of Parent and its Subsidiaries ending on or about each date set forth below to be less than the applicable amount set forth below:
+
+**Fiscal Month End**      \centered **Minimum Consolidated EBITDA**
+
+[[Date 5: Date]]      $   1,369,000
+[[Date 6: Date]]      $   2,771,000
+[[Date 7: Date]]      $   2,843,000
+[[Date 8: Date]]      $   2,779,000
+[[Date 9: Date]]      $   3,170,000
+[[Date 10: Date]]      $   5,508,000
+
+^^Exhibit C (Form of Compliance Certificate) to the Financing Agreement is hereby deleted in its entirety and the Compliance Certificate attached hereto as Exhibit B is hereby substituted therefor.
+
+^Conditions. The effectiveness of this Amendment is subject to the following conditions precedent, with the date on which such conditions have been satisfied being [[Date 1]] (the “Effective Date”):
+
+^^receipt by Administrative Agent of a copy of this Amendment duly executed and delivered by each Loan Party, Administrative Agent and the Required Lenders;
+
+^^receipt by Administrative Agent of a copy of the attached acknowledgment hereto duly executed and delivered by each of the Investor Guarantors;
+
+^^receipt by Administrative Agent in immediately available Dollars of an amendment fee in an aggregate amount equal to (i) $[[USD Value 2: Number]] for the benefit of the Term Lenders in accordance with their respective Pro Rata Shares, and (ii) $[[USD Value 3: Number]] for the benefit of the Revolving Lenders in accordance with their respective Pro Rata Shares, in each case such amendment fee to be non-refundable for any reason and fully earned and due and payable on the date hereof;
+
+^^the truth and accuracy of the representations and warranties contained in Section 5 hereof; and
+
+^^no Default or Event of Default other than the Designated Default has occurred that is continuing.
+
+^Representations and Warranties. Each Loan Party hereby represents and warrants o Administrative Agent and each Lender as follows:
+
+^^after giving effect to this Amendment, the representations and warranties of the Loan Parties contained in the Loan Documents are true and correct in all material respects as of the date hereof (except to the extent that any such representation or warranty (A) expressly refers to an earlier date, in which case such representation or warranty remains true and correct as of such earlier date, (B) is not true and correct due to events or conditions, the occurrence or existence of which are not prohibited by the Financing Agreement or the other Loan Documents and which do not, in and of themselves, constitute a Default or Event of Default or (C) is not true and correct as a result of disclosures made in writing to, and approved by, the Administrative Agent and Lenders in connection with a Permitted Acquisition);
+
+^^the execution, delivery and performance by such Loan Party of this Amendment are within its powers, have been duly authorized by all necessary action pursuant to its Organization Documents, require no further action by or in respect of, or filing with, any governmental body, agency or official and do not violate, conflict with or cause a breach or a default under any provision of applicable law or regulation or of the Organization Documents of any Loan Party or of any agreement, judgment, injunction, order, decree or other instrument binding upon it;
+
+^^this Amendment constitutes the valid and binding obligation of the Loan Parties, enforceable against such Persons in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws; and
+
+^^after giving effect to this Amendment, no Default or Event of Default exists.
+
+^No Waiver. Except as otherwise specifically set forth herein with respect to the Designated Default, nothing contained herein is intended or should be deemed or construed to constitute a waiver of any Default or Event of Default which has occurred or exists under the Financing Agreement, or hereafter may occur under the Financing Agreement, as amended hereby, or to establish a custom or course of conduct or dealing among any Borrower, any Guarantor, Administrative Agent, the Lenders or any of them. Except as specifically set forth herein, Administrative Agent and the Lenders hereby expressly reserve all of their rights and remedies under the Financing Agreement, as amended hereby, the other Loan Documents and applicable law. Except as otherwise specifically set forth herein, nothing contained herein is intended or should be deemed or construed to constitute a waiver of compliance with any other term or condition contained in the Financing Agreement or any of the other Loan Documents or constitute a course of conduct or dealing among the parties. Except as amended hereby, the Financing Agreement and other Loan Documents remain unmodified and in full force and effect.
+
+All references in the Loan Documents to the Financing Agreement shall be deemed to be references to the Financing Agreement as amended hereby.
+
+^Severability. In case any provision of or obligation under this Amendment shall be invalid, illegal or unenforceable in any jurisdiction, the validity, legality and enforceability of the remaining provisions or obligations, or of such provision or obligation in any other jurisdiction, shall not in any way be affected or impaired thereby.
+
+^Headings. Headings and captions used in this Amendment (including the Exhibits, Schedules and Annexes hereto, if any) are included for convenience of reference only and shall not be given any substantive effect.
+
+^Costs and Expenses. Notwithstanding the provisions of Section 11.03 of the Financing Agreement, the Borrowers will pay on demand all reasonable fees and expenses of counsel for each Lender incurred in connection with the negotiation, execution and delivery of the this Amendment.
+
+^**GOVERNING LAW; SUBMISSION TO JURISDICTION****. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED IN THE STATE OF NEW YORK. EACH LOAN PARTY HEREBY RATIFIES AND AFFIRMS THE CONSENT TO THE JURISDICTION CONTAINED IN SECTION 11.09 OF THE FINANCING AGREEMENT WITH RESPECT TO ALL ACTIONS ARISING OUT OF THIS AMENDMENT.**
+
+^**WAIVER OF JURY TRIAL****. EACH LOAN PARTY, ADMINISTRATIVE AGENT AND EACH LENDER HEREBY WAIVES ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM CONCERNING ANY RIGHTS UNDER THIS AMENDMENT OR THE OTHER LOAN DOCUMENTS, OR UNDER ANY OTHER AMENDMENT, WAIVER, CONSENT, INSTRUMENT, DOCUMENT OR OTHER AGREEMENT DELIVERED OR WHICH IN THE FUTURE MAY BE DELIVERED IN CONNECTION THEREWITH, OR ARISING FROM ANY FINANCING RELATIONSHIP EXISTING IN CONNECTION WITH THIS AMENDMENT, AND AGREES THAT ANY SUCH ACTION, PROCEEDINGS OR COUNTERCLAIM SHALL BE TRIED BEFORE A COURT AND NOT BEFORE A JURY. EACH LOAN PARTY CERTIFIES THAT NO OFFICER, REPRESENTATIVE, AGENT OR ATTORNEY OF ADMINISTRATIVE AGENT OR ANY LENDER HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT ADMINISTRATIVE AGENT OR ANY LENDER WOULD NOT, IN THE EVENT OF ANY ACTION, PROCEEDING OR COUNTERCLAIM, SEEK TO ENFORCE THE FOREGOING WAIVERS. EACH LOAN PARTY HEREBY ACKNOWLEDGES THAT THIS PROVISION IS A MATERIAL INDUCEMENT FOR THE ADMINISTRATIVE AGENT AND THE LENDERS ENTERING INTO THIS AMENDMENT.**
+
+^Counterparts: Integration. This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which shall be deemed to be an original, but all of which taken together shall constitute one and the same agreement. Delivery of an executed counterpart of this Amendment by telecopier, email or similar electronic transmission shall be equally as effective as delivery of an original executed counterpart of this Amendment. Any party delivering an executed counterpart of this Amendment by telecopier, email or similar electronic transmission also shall deliver an original executed counterpart of this Amendment but the failure to deliver an original executed counterpart shall not affect the validity, enforceability, and binding effect of this Amendment. This Amendment constitutes the entire agreement and understanding among the parties hereto with respect to the subject matter hereof and supersedes any and all prior agreements and understandings, oral or written, relating to the subject matter hereof.
+
+^Reaffirmation. Each Loan Party, in its respective capacities under each of the Loan Documents to which it is a party (including the capacities of obligor, grantor, mortgagor, pledgor, guarantor, indemnitor and assignor, as applicable, and each other similar capacity, if any, in which such Loan Party has granted Liens on all or any part of the properties or assets of such Loan Party, or otherwise acts as an accommodation party, guarantor, indemnitor or surety with respect to all or any part of the Obligations), hereby (a) agrees that the terms and provisions hereof shall not affect in any way any payment, performance, observance or other obligations or liabilities of such Loan Party under the Financing Agreement or any of the other Loan Documents, all of which obligations and liabilities shall remain in full force and effect and extend to the further loans, extensions of credit and other Obligations provided for thereunder, and each of which obligations and liabilities are hereby ratified, confirmed and reaffirmed in all respects; (b) to the extent such Loan Party has granted Liens on any of its properties or assets pursuant to any of the Loan Documents to secure the prompt and complete payment, performance and/or observance of all or any part of the Obligations, acknowledges, ratifies, confirms and reaffirms such grant of Liens, and acknowledges and agrees that all of such Liens are intended and shall be deemed and construed to secure to the fullest extent set forth therein all now existing and hereafter arising Obligations
+
+^Release. Each Loan Party acknowledges that (a) as of the Effective Date, such Loan Party has no defenses, claims or set-offs to the enforcement of any liabilities, obligations and agreements owing to Administrative Agent or any Lender, and (b) Administrative Agent and each Lender have fully performed all such Person’s respective obligations to such Loan Party that the Administrative Agent or such Lender, as the case may be, may have had or may have on or prior to the Effective Date. Each Loan Party hereby irrevocably releases and forever discharges Administrative Agent and each Lender and their respective affiliates, subsidiaries, successors, assigns, directors, officers, employees, agents, consultants and attorneys (each, a “Released Person”) of and from all damages, losses, claims, demands, liabilities, obligations, actions or causes of action whatsoever that such Loan Party may now have or claim to have currently against any Released Person on account of or in any way touching, concerning, arising out of or founded upon this Amendment, the Financing Agreement or any other Loan Document, whether presently known or unknown and of every nature and extent whatsoever, but only to the extent relating to matters arising on or prior to the Effective Date.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first above written.
+
+**BORROWERS****:**
+
+**BODY SHOP OF AMERICA, INC.,** a [[State of Formation: State]] [[Organization: EntityType]]
+
+[[BODY SHOP OF AMERICA INC. a State of Formation State Organization EntityType Signatory Email: Identity | Signature]]
+__________________________________________
+{{BODY SHOP OF AMERICA INC. a State of Formation State Organization EntityType Entity => By: [[BODY SHOP OF AMERICA INC. a State of Formation State Organization EntityType Signatory First Name]] [[BODY SHOP OF AMERICA INC. a State of Formation State Organization EntityType Signatory Last Name]]
+Title: [[BODY SHOP OF AMERICA INC. a State of Formation State Organization EntityType Signatory Title]]}}
+
+
+[[Borrowers]],** a [[State of Formation: State]] [[Organization: EntityType]]
+
+[[Borrowers a State of Formation State Organization EntityType Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrowers a State of Formation State Organization EntityType Entity => By: [[Borrowers a State of Formation State Organization EntityType Signatory First Name]] [[Borrowers a State of Formation State Organization EntityType Signatory Last Name]]
+Title: [[Borrowers a State of Formation State Organization EntityType Signatory Title]]}}
+
+
+**GUARANTORS****:**
+
+
+
+[[GUARANTORS Signatory Email: Identity | Signature]]
+__________________________________________
+{{GUARANTORS Entity => By: [[GUARANTORS Signatory First Name]] [[GUARANTORS Signatory Last Name]]
+Title: [[GUARANTORS Signatory Title]]}}
+
+
+
+
+[[Title Parent Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Parent Signatory Title}} Entity => By: [[Title Parent Signatory Title}} Signatory First Name]] [[Title Parent Signatory Title}} Signatory Last Name]]
+Title: [[Title Parent Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
+
+
+**ADMINISTRATIVE AGENT****:**
+
+[[Administrative Agent]],** as Administrative Agent
+
+[[Administrative Agent as Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{Administrative Agent as Administrative Agent Entity => By: [[Administrative Agent as Administrative Agent Signatory First Name]] [[Administrative Agent as Administrative Agent Signatory Last Name]]
+Title: [[Administrative Agent as Administrative Agent Signatory Title]]}}
+
+
+[[Title Party 6 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 6 Signatory Title}} Entity => By: [[Title Party 6 Signatory Title}} Signatory First Name]] [[Title Party 6 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 6 Signatory Title}} Signatory Title]]}}
+
+
+**LENDER****:**
+
+**[[Organization 2 Name]],** as a Lender
+
+[[[[Organization 2 Name]] as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] as a Lender Entity => By: [[[[Organization 2 Name]] as a Lender Signatory First Name]] [[[[Organization 2 Name]] as a Lender Signatory Last Name]]
+Title: [[[[Organization 2 Name]] as a Lender Signatory Title]]}}
+
+
+Signature Page to Acknowledgment to Waiver and Fourth Amendment to Financing Agreement With Body Shop of America, Inc.
+
+**LENDERS****:**
+
+**[[Organization 3 Name]],** as a Lender
+
+[[[[Organization 3 Name]] as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 3 Name]] as a Lender Entity => By: [[[[Organization 3 Name]] as a Lender Signatory First Name]] [[[[Organization 3 Name]] as a Lender Signatory Last Name]]
+Title: [[[[Organization 3 Name]] as a Lender Signatory Title]]}}
+
+
+[[Title Party 9 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 9 Signatory Title}} Entity => By: [[Title Party 9 Signatory Title}} Signatory First Name]] [[Title Party 9 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 9 Signatory Title}} Signatory Title]]}}
+
+
+**[[Organization 4 Name]],** as a Lender
+
+[[[[Organization 4 Name]] as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 4 Name]] as a Lender Entity => By: [[[[Organization 4 Name]] as a Lender Signatory First Name]] [[[[Organization 4 Name]] as a Lender Signatory Last Name]]
+Title: [[[[Organization 4 Name]] as a Lender Signatory Title]]}}
+
+
+[[Title Borrowers3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Borrowers3 Signatory Title}} Entity => By: [[Title Borrowers3 Signatory Title}} Signatory First Name]] [[Title Borrowers3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Borrowers3 Signatory Title}} Signatory Title]]}}
+
+
+**[[Organization 5 Name]],** as a Lender
+
+[[[[Organization 5 Name]] as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 5 Name]] as a Lender Entity => By: [[[[Organization 5 Name]] as a Lender Signatory First Name]] [[[[Organization 5 Name]] as a Lender Signatory Last Name]]
+Title: [[[[Organization 5 Name]] as a Lender Signatory Title]]}}
+
+
+Signature Page to Acknowledgment to Waiver and Fourth Amendment to Financing Agreement With Body Shop of America, Inc.
+
+**LENDER****:**
+
+**[[Organization 6 Name]],** as a Lender
+
+[[[[Organization 6 Name]] as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 6 Name]] as a Lender Entity => By: [[[[Organization 6 Name]] as a Lender Signatory First Name]] [[[[Organization 6 Name]] as a Lender Signatory Last Name]]
+Title: [[[[Organization 6 Name]] as a Lender Signatory Title]]}}
+
+
+Signature Page to Acknowledgment to Waiver and Fourth Amendment to Financing Agreement With Body Shop of America, Inc.
+
+**LENDERS****:**
+
+**NEWSTAR SHORT-TERM FUNDING LLC,** as a Lender
+
+[[NEWSTAR SHORT-TERM FUNDING LLC as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{NEWSTAR SHORT-TERM FUNDING LLC as a Lender Entity => By: [[NEWSTAR SHORT-TERM FUNDING LLC as a Lender Signatory First Name]] [[NEWSTAR SHORT-TERM FUNDING LLC as a Lender Signatory Last Name]]
+Title: [[NEWSTAR SHORT-TERM FUNDING LLC as a Lender Signatory Title]]}}
+
+
+[[Title Borrowers5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Borrowers5 Signatory Title}} Entity => By: [[Title Borrowers5 Signatory Title}} Signatory First Name]] [[Title Borrowers5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Borrowers5 Signatory Title}} Signatory Title]]}}
+
+Managing Director
+Portfolio Management
+
+**[[Organization 7 Name]] 2005-1,** as a Lender
+
+[[[[Organization 7 Name]] 2005-1 as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 7 Name]] 2005-1 as a Lender Entity => By: [[[[Organization 7 Name]] 2005-1 as a Lender Signatory First Name]] [[[[Organization 7 Name]] 2005-1 as a Lender Signatory Last Name]]
+Title: [[[[Organization 7 Name]] 2005-1 as a Lender Signatory Title]]}}
+
+
+[[Title Borrowers8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Borrowers8 Signatory Title}} Entity => By: [[Title Borrowers8 Signatory Title}} Signatory First Name]] [[Title Borrowers8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Borrowers8 Signatory Title}} Signatory Title]]}}
+
+Managing Director
+Portfolio Management
+
+Signature Page to Acknowledgment to Waiver and Fourth Amendment to Financing Agreement With Body Shop of America, Inc.
+
+**LENDER****:**
+
+**[[Organization 8 Name]],** as a Lender
+
+[[[[Organization 8 Name]] as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 8 Name]] as a Lender Entity => By: [[[[Organization 8 Name]] as a Lender Signatory First Name]] [[[[Organization 8 Name]] as a Lender Signatory Last Name]]
+Title: [[[[Organization 8 Name]] as a Lender Signatory Title]]}}
+
+
+Signature Page to Acknowledgment to Waiver and Fourth Amendment to Financing Agreement With Body Shop of America, Inc.

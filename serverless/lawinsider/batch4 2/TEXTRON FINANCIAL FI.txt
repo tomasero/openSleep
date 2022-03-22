@@ -1,0 +1,90 @@
+\centered **[[Organization 1 Name]]** 
+
+\centered **FIFTH AMENDMENT TO** 
+
+\centered **AMENDED AND RESTATED AGREEMENT FOR WHOLESALE FINANCING** 
+
+\centered **(Finished Goods -Shared Credit Facility)** 
+
+This Fifth Amendment to Amended and Restated Agreement for Wholesale Financing (“Amendment”) Is dated [[Date 1: Date]], with an effective date of [[Date 2: Date]], by and between [[Secured Party]], a [[State of Formation: State]] [[Organization: EntityType]] (“Secured Party”); and **[[Borrowers]]**, a [[State of Formation: State]] [[Organization: EntityType]], and **[[Party 3]]**, L.P.**, a Texas limited partnership (jointly and severally. individually and collectively. “Borrowers”). 
+
+\centered WITNESSETH THAT: 
+
+WHEREAS, the Secured Party and Borrowers are parties to a certain Amended and Restated Agreement for Wholesale Financing, Finished Goods-Shared Credit Facility dated [[Date 3: Date]]. as amended by a certain First Amendment dated as of [[Date 4: Date]], a certain Second Amendment dated as of [[Date 5: Date]], a certain Third Amendment dated as of [[Date 6: Date]] and a certain Fourth Amendment dated as of [[Date 7: Date]] (as amended, the “Agreement”); 
+
+WHEREAS, Borrowers have represented to Secured Party that Palm Harbor Homes I, LP, a Texas limited partnership, and [[Organization 2 Name]], a Nevada corporation, listed as borrowers under the Agreement, are no longer in business, have no assets and have been dissolved; 
+
+WHEREAS, by letter agreement dated as of [[Date 2]] (the “Letter Agreement”), Secured Party and Borrowers agreed, among other things, to certain modifications to the Agreement; and 
+
+WHEREAS, the parties hereto desire to enter into this Amendment in order to further memorialize the terms of the Letter Agreement. 
+
+NOW THEREFORE, in consideration of the premises and the mutual obligations hereinafter contained, and for other good and valuable consideration, the receipt whereof Is hereby acknowledged, the parties hereto agree as follows: 
+
+^All capitalized terms used and not otherwise defined herein shall have the same meanings provided therefore in the Agreement.
+
+^The last paragraph of Section 7 of the Agreement Is hereby amended and restated in Its entirety to read as follows: .
+
+“Anything contained herein to the contrary notwithstanding, no Advance shall be funded hereunder by the Administrative Agent or any Lander when the Collateral Coverage is greater than point six to one (.6:1). For purposes of this paragraph. “Collateral Coverage” means, as of any relevant date of determination, the ratio of (i) the aggregate outstanding principal amount of Advances, to (ii) the aggregate invoice amount of, without duplication. all of Borrowers’ inventory of completed manufactured or modular homes (i.e. the amount of “Finished Goods” as listed on Borrowers’ financial. statements from time to time).” 
+
+^Section 10 of the Agreement is hereby amended by (i) deleting each instance of the words “LIBOR plus 375 bps” and inserting in their place the words “LIBOR plus 700 bps (but in any event not less than [[Percentage 1: Number]]%)” and (ii) deleting each instance of the words “LIBOR plus 500 bps” and Inserting in their place the words “LIBOR plus 825 bps (but in any event not less than [[Percentage 2: Number]]%)”.
+
+^The first two paragraphs of Section 14 of the Agreement are hereby amended and restated in their entirety to read as follows:
+
+**“14. Grant of Security Interest.** In order to secure the payment and performance by PHHI of all present and future indebtedness and obligations of PHHI hereunder or in any other agreement entered into in connection herewith, whether direct or indirect, primary or secondary, absolute or contingent, or otherwise, including but not limited to the Advances owing from PHHI, the payment of all interest and finance charges accrued thereon and all fees, charges and expenses hereunder in respect thereof, PHHI hereby grants to the Administrative Agent on behalf of the Lenders a security interest in all of its right, title and Interest in and to the following properties, assets and rights of PHHI, wherever located, whether now owned or hereafter acquired or arising and all proceeds and products thereof: all personal and fixture property of every kind and nature Including without limitation all goods (including Inventory, equipment and any accessions thereto), Instruments (including promissory notes), documents, accounts (including health-care insurance receivables), chattel paper (whether tangible or electronic), deposit accounts, letter-of-credit rights (whether or not the letter of credit is evidenced by a writing), securities and all other investment property, supporting obligations, any other contract rights or rights to the payment of money, insurance claims and proceeds, and all general intangibles (including all payment intangibles) (collectively, the “**PHHI General Collateral**”’). 
+
+In order to secure the payment and performance by PHMLP of all present and future indebtedness and obligations of PHMLP hereunder or in any other agreement entered into in connection herewith, whether direct or indirect, primary or secondary, absolute or contingent, or otherwise, Including but not limited to the Advances owing from PHMLP, the payment of all interest and finance charges accrued thereon and all fees, charges and expenses hereunder in respect thereof, PHMLP hereby grants to the Administrative Agent on behalf of the Lenders a security Interest in all of its right, title and interest in and to the following properties, assets and rights of PHMLP, wherever located, whether now owned or hereafter acquired or arising and all proceeds and products thereof: all personal and fixture property of every kind and nature including without limitation all goods (including inventory, equipment and any accessions thereto), instruments (Including promissory notes), documents, accounts (Including health-care insurance receivables), chattel paper (Whether tangible or electronic), deposit accounts, letter-of-credit rights (whether or not the letter of credit is evidenced by a writing), securities and all other investment property, supporting obligations, any other contract rights or rights to the payment of money, insurance claims and proceeds, and all general intangibles (including all payment Intangibles) (collectively, the **“PHMLP General Collateral”**).” 
+
+For the avoidance of doubt, by the amendment and restatement as set forth above, the Borrowers intend to grant, and hereby grant as of the effective date of this Amendment, to the Administrative Agent on behalf of the Lenders a security Interest in all of the PHHI General Collateral and the PHMLP General Collateral to secure all of the obligations of all of the Borrowers hereunder or in any other agreements entered into by anyone or more of them in connection with the Agreement and/or this Amendment. 
+
+^The definition of “Total Credit Line’ is hereby amended to be $[[USD Value 1: Number]] To the extent that Borrowers’ outstanding principal balance of Advances is in excess of $[[USD Value 2: Number]] as of the affective date of this Amendment, Borrowers do not need to make an immediate payment to bring the total outstanding balance of Advances to at or below $[[USD Value 3: Number]] but instead shall repay amounts in the ordinary course of business. However, in any event Borrowers shall make payments sufficient to bring the total outstanding balance of Advances to at or below the $[[USD Value 2]] Total Credit Line amount no later than the earlier to occur of:. (i) the closing of the sale of certain assets as described in the Letter Agreement (the “Sale Assets’) or (ii) [[Date 8: Date]]. The definition of ‘Total Credit Line” shall be automatically further amended, without the need for any notice by the Administrative Agent, execution of further documentation or otherwise, to be: (i) $[[USD Value 4: Number]] upon the sale of the Sale Assets and (ii) $[[USD Value 5: Number]]; on [[Date 9: Date]]. With respect to the amendments to the definition of “Total Credit Line” set forth in the immediately preceding sentence, Borrowers shall be required to make an immediate payment to Administrative Agent on each such date so that Borrowers’ total outstanding balance of Advances shall be at or below the amount of the than applicable Total Credit Line.
+
+^The first paragraph of Section 27 of the Agreement Is hereby amended and restated in its entirety to read as follows:
+
+“**Termination**, This Agreement shall continue from [[Date 3]] until [[Date 10: Date]] (the “**Term**”), On the last day of such Term (the “**Maturity Date**”), all Commitments of the Lenders shall, if not previously terminated, terminate and all obligations hereunder outstanding on such last day shall mature and automatically become due and payable, including, without limitation, all outstanding Advances, all accrued and unpaid interest and/or finance charges and all fees, costs and expenses. Borrowers agree to pay all such obligations so maturing on the Maturity Date.” 
+
+^Section 37.1 of the Agreement is hereby amended end restated in its entirety to read as follows:
+
+**“37.1 Covenants**. 
+
+^^**Maximum Net Loss**. Borrowers covenant that they will achieve as of the last day of each fiscal quarter consolidated net (loss) before tax for the respective periods set forth below, as follows (i) in respect of the fiscal quarter ending [[Date 8]], not greater than ($[[USD Value 6: Number]]); (ii) in
+
+respect of the fiscal quarter ending [[Date 11: Date]], not greater than ($[[USD Value 7: Number]]); (iii) in respect of the fiscal quarter ending [[Date 12: Date]], not greater than ($[[USD Value 7]]); and (Iv) in respect of the fiscal quarter ending [[Date 9]], not greater than ($[[USD Value 7]]).
+
+^^**Minimum Inventory Turn**. Borrowers covenant that they will maintain as of the last day of each fiscal quarter ending on or after [[Date 8]], a ratio of (a) Borrowers’ annualized quarterly Cost of Goods Sold, to (b) Inventory, as of the end of such fiscal quarter, of not less than two point seventy five to one (2.75:1).
+
+^^**Borrowing Base Requirement**. Borrowers covenant that the total outstanding balance of Advances shall not exceed the amount equal to the lesser of (i) sixty percent ([[Percentage 3: Number]]%) of the invoice amount of Borrowers’ then eligible Finished Goods Inventory and (ii) the then applicable Total Credit Line. For purposes of this covenant, the amount of Borrowers’ then eligible Finished Goods Inventory shall be calculated based upon the most recent monthly financial statements or borrowing base certificate provided to Secured Party, subject to Secured Party’s right in its reasonable discretion to require Borrowers to provide a borrowing base certificate more frequently (and upon the occurrence of an Event of Default, Secured Party shall have the right in its sole discretion to demand borrowing base certificates and, other financial information on a daily or other periodic basis). Borrowers agree to comply timely with all such demands. In the event that any borrowing base certificate or financial statements provided to Secured Party, or that should be provided to Secured Party, reflect a total outstanding balance of Advances in excess of the amount permitted under this covenant, Borrowers shall be required to make, within one business day, a mandatory prepayment in an amount sufficient to eliminate such excess amount. The requirements of this covenant are in addition to, and not in limitation or amendment of, Borrowers’ other obligations under the Agreement and other documentation with or in favor of Secured Party.
+
+^^**Incurrence of Additional Indebtedness**. Borrowers shall not borrow or incur any liability in respect of borrowed money Indebtedness (including, without limitation, loans, notes, bonds or repurchase obligations in respect of any securitizations), financing leases, liabilities for the deferred purchase price of property (excluding accounts payable arising in the ordinary course of business but Including all liabilities created or arising under any conditional sale or other title retention agreement with respect to any such property), liabilities in respect of interest rate swamps or similar instruments or any guaranties in respect of any of the foregoing, in each case unless (i) the Majority Lenders shall have (prior to the incurrence thereof) consented to the same in writing (which consent shall not be unreasonably withheld or delayed) or (ii) the proceeds of such indebtedness is used to repay the Lenders and permanently reduce the Total Credit Line in an amount equal to the amount of such indebtedness. For the avoidance of doubt, the above restriction (i) does not apply to [[Organization 3 Name]] or any other party other than Borrowers and (ii) does not restrict Borrowers’ ability to incur liabilities in respect of letters of credit or capitalized leases. In connection with any request by the Borrowers to incur additional indebtedness otherwise prohibited by this clause (d) and as to which the Borrowers request that the Administrative Agent release or subordinate any portion of the Collateral in favor of another Lender or other party, the Administrative Agent shall not unreasonably withhold or delay the granting of such request; provided that (i) no default or Event or Default has occurred and is continuing under this Agreement or any other agreement; (ii) no default or Event of Default would arise under this Agreement or any other agreement as a result of such incurrence of additional indebtedness; and (iii) the Administrative Agent determines, in its sole discretion, that, after giving effect to such request, the value of the Collateral as to which the Administrative
+
+Agent possesses a first priority security interest would be satisfactory to fully support and secure (Including with an adequate collateral cushion as the Administrative Agent may determine) the amount of the Total Credit Line and all of the Borrowers’ covenant requirements and other obligations under this Agreement and all other agreements.” 
+
+^Except as amended hereby, the Agreement shall remain in full force and effect, and is in all respects hereby ratified and affirmed.
+
+^If any provision of this Amendment is determined to be illegal, invalid or unenforceable, such provision shall be fully severable and the remaining provisions shall remain in full force and effect and shall be construed without giving effect to the illegal, invalid or unenforceable provisions.
+
+^This Amendment may be executed in any number of counterparts, each of which when so executed and delivered shall be an original, but all of which together shall constitute one and the same instrument, and a facsimile signature shall suffice as an original for all purposes.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their duly authorized officer or representative as of the effective date first above written. 
+
+BORROWERS:            SECURED PARTY:
+
+**[[Borrowers]]**            [[Secured Party]]
+
+[[Borrowers            Secured Party Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrowers            Secured Party Entity => By: [[Borrowers            Secured Party Signatory First Name]] [[Borrowers            Secured Party Signatory Last Name]]
+Title: [[Borrowers            Secured Party Signatory Title]]}}
+
+
+**[[Party 3]]**, L.P.**
+
+[[Party 3 L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 L.P. Entity => By: [[Party 3 L.P. Signatory First Name]] [[Party 3 L.P. Signatory Last Name]]
+Title: [[Party 3 L.P. Signatory Title]]}}
+
+
+[[Title Borrowers Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Borrowers Signatory Title}} Entity => By: [[Title Borrowers Signatory Title}} Signatory First Name]] [[Title Borrowers Signatory Title}} Signatory Last Name]]
+Title: [[Title Borrowers Signatory Title}} Signatory Title]]}}

@@ -1,0 +1,17 @@
+\centered **FIRST AMENDMENT TO EQUITY CREDIT AGREEMENT**    THIS FIRST AMENDMENT TO THE EQUITY CREDIT AGREEMENT (this "Amendment") is made and entered into as of [[Date 1: Date]] by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the "Company"), and [[Organization 1 Name]], a Delaware limited partnership (the "Investor").    \centered **BACKGROUND**    A. On [[Date 2: Date]], the Company and the Investor entered into an Equity Credit Agreement (the "Original Agreement").    B. On [[Date 3: Date]], the Company filed a registration statement on Form S-1 (the “Registration Statement”) with the Securities and Exchange Commission (“SEC”) in accordance with the terms of a Registration Rights Agreement entered into by the Parties dated [[Date 2]] between the Company and the Investor.    C. The Company and the Investor now desire to amend the Original Agreement as set forth herein based on the SEC’s comments to the Registration Statement.    NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and [[Party 2]], the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows:    1. All capitalized terms not otherwise defined herein shall have the meanings ascribed to them in the Agreement.    2. Section 10.3 of the Agreement is hereby amended to read in its entirety as follows:    “ASSIGNMENT. This Agreement shall be binding upon and inure to the benefit of the Company and Investor and their respective successors. Neither this Agreement nor any rights or obligations of Investor or the Company hereunder may be assigned or delegated by either party to any other person.”    3. Except as expressly modified in this Amendment, all of the remaining terms and conditions of the Original Agreement shall continue in full force and effect and are hereby ratified and confirmed.    \centered [signature page follows]         IN WITNESS WHEREOF, this Amendment has been duly executed by the parties hereto as of the date first written above.    [[Company]] 
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+\centered **[[Organization 1 Name]]** 
+[[Party 2 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 2 Entity => By: [[Party 2 Signatory First Name]] [[Party 2 Signatory Last Name]]
+Title: [[Party 2 Signatory Title]]}}
+
+[[Title Party 2 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 2 Signatory Title}} Entity => By: [[Title Party 2 Signatory Title}} Signatory First Name]] [[Title Party 2 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 2 Signatory Title}} Signatory Title]]}}
+

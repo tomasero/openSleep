@@ -1,0 +1,141 @@
+\centered **BANCO POPULAR CASH-SETTLED VALUE APPRECIATION INSTRUMENT** 
+
+Issue Date: [[Date 1: Date]]  
+^Defined Terms. When used in this Value Appreciation Instrument (“VAI”), the following terms have the meanings indicated. 
+
+“Bank” means [[Organization 1 Name]]. 
+
+“Company” means [[Organization 2 Name]]  
+
+“Determination Price” means the Company’s “average volume weighted price” (displayed under the heading “Bloomberg VWAP” on the issuer’s Bloomberg page) over the two NASDAQ trading days immediately prior to the Exercise Date. 
+
+“Exercise Date” means (i) the date of exercise designated by the Holder in the Notice or (ii) if the date is not so designated in the Notice, the date the Bank receives the Notice, which, in either event, shall not be earlier than the date that the Notice is received by the Company and shall not be later than the expiration of the Term. 
+
+“Exercise Price” means $[[USD Value 1: Number]], subject to adjustment pursuant to Section 13. 
+
+“FDIC” means [[Organization 3 Name]]. 
+
+“Holder” means the FDIC or its assignee. 
+
+“Initial Exercise Date” means [[Date 2: Date]]. 
+
+“Notice” means written notice, in the form attached as Appendix A, executed by the Holder. 
+
+“Right” means the cash-settled value appreciation right granted pursuant to this VAI with respect to 50,000,000 Units (such number of Units subject to adjustment pursuant to Section 13), at the Exercise Price. 
+
+“Term” means the period commencing on [[Date 2]] and expiring at 5 p.m. EST on [[Date 3: Date]]. 
+
+“Unit” means an accounting device used to calculate the settlement amount of the Right granted by this VAI, which mirrors one share of Company common stock. 
+
+“VWAP” means the Volume Weighted Average Price for a trading day displayed under the heading “Bloomberg VWAP” on the Bloomberg Page for the Company (or its equivalent successor page if such page is not available) for such trading day. If the Bloomberg Page or the Bloomberg VWAP is not available for a trading day, “VWAP” shall mean the volume weighted average price of Company common stock for such trading day, as determined by a nationally 
+
+^^^^^ 
+recognized investment banking firm retained by the Bank based on available trading information for the Company’s common stock. 
+
+^Grant of Value Appreciation Right. The Bank hereby grants to the FDIC, during the Term, the Right. 
+
+^Exercise. To the extent permitted by applicable laws and regulation, the Right is exercisable in accordance with the following conditions: 
+
+^^The Right may be exercised in whole or in part beginning on the Initial Exercise Date and continuing, at any time, until expiration of the Term.
+
+^^Notice designating the date of exercise must be delivered to the Bank prior to expiration of the Term and the Right shall be deemed to be exercised on the Exercise Date.
+
+^Settlement of Right; Payment by Bank. After receipt of the Notice, on the first business day following the Exercise Date, the Bank shall deliver to the Holder an amount, in cash, equal to the product of (i) the number of Units with respect to which the Right was exercised and (ii) the difference between (A) the Determination Price and (B) the Exercise Price. Payment shall be made by wire transfer of immediately available funds by the Bank to the account designated in the Notice. 
+
+^No Rights as Shareholder. This VAI does not entitle the Holder to any voting rights or other rights as a shareholder of the Bank or the Company. 
+
+^Compliance with Law. Holder will not exercise the Right and the Bank will not be obligated to deliver payment, if such exercise or payment would violate any applicable law or any rule or regulation of any governmental authority or any rule or regulation of any securities exchange or association. 
+
+^Transfer/Assignment. This VAI is transferable, in whole or in part as set forth above without the consent of the Bank. This VAI shall be binding upon any successors or assigns of the Bank and the Holder. 
+
+^Governing Law: Jurisdiction. This VAI shall be governed by and construed in accordance with the federal law of the United States. Each of the Bank and the Holder agrees to submit to the exclusive jurisdiction and venue of the federal courts located in the Southern District of New York for any action, suit or proceeding arising out of or relating to this VAI or the transactions contemplated hereby. To the extent permitted by applicable law, each of the Bank and the Holder hereby unconditionally waives trial by jury in any legal action or proceeding relating to the VAI. 
+
+^Amendments/Waivers. This VAI may be amended and the observance of any term of this Value Appreciation Instrument may be waived only, in the case of an amendment, with the written consent of the Bank and the Holder, or in the case of a waiver, in writing by the party against whom the waiver is to be effective. 
+
+^^^^^ 
+^Notices. All notices hereunder shall be in writing and shall be effective (A) on the day on which delivered if delivered personally or transmitted by facsimile with evidence of receipt, (B) one Business Day after the date on which the same is delivered to a nationally recognized overnight courier service with evidence of receipt, or (C) five Business Days after the date on which the same is deposited, postage prepaid, in the U.S. mail, sent by certified or registered mail, return receipt requested, and addressed to the party to be notified at the address indicated below, or at such other address and/or telecopy or telex number and/or to the attention of such other person as the Company or the Holder may designate by ten-day advance written notice. 
+
+\centered 
+
+If to the Bank, to:    [[Person 1 First Name]] [[Person 1 Last Name]] CEO and Chairman of the Board [[Organization 1 Name]] [[Email 1]] [[Phone 1]] (tel) [[Phone 2]] (fax) 
+
+If to the Holder, to:    [[Organization 3 Name]] Receiver of [[Organization 4 Name]] 1601 Bryan Street, Suite 1700 [[Address 1: Address]] Attn: [Settlement Manager] Facsimile: [[[Phone 3]]]  
+
+^Entire Agreement. This VAI and the appendices attached hereto contain the entire agreement between the parties with respect to the subject matter hereof and supersede all prior and contemporaneous arrangements or undertakings with respect thereto. 
+
+^Acceptance. The recipient of this Right shall signify acceptance of the terms and conditions of this Value Appreciation Instrument by signing in the space provided below and returning a signed copy to the Bank. 
+
+^Adjustments; Anti-Dilution. In the event of any subdivision, reclassification or consolidation of outstanding shares of common stock of the Company, declaration of a dividend payable in shares of common stock of the Company or common stock split of the Company, then (i) the number of Units and (ii) the Exercise Price shall each be proportionately adjusted by the Board of Directors of the Bank to reflect such transaction; provided, however, that any adjustment shall only be such as is necessary to maintain the proportionate interest of the Holder and preserve, without exceeding, the value of this Right. There will be no anti-dilution adjustment with respect to the conversion of the preferred stock of the Company (represented by depository shares) issued in the [[Date 4: Date]] offering which are expected to convert into shares of common stock after the shareholder meeting in [[Date 5: Date]]. The existence of this Right shall not affect in any manner the right or power of the Bank or the Company or their respective shareholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the capital stock of the Bank or the Company or its business or any merger or consolidation of the Bank or the Company, or any issuance of bonds, debentures or preferred 
+
+^^^^^ 
+stock, or dissolution or liquidation, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding of any kind. 
+
+IN WITNESS WHEREOF, the Bank has caused this VAI to be executed by a duly authorized officer as of the Issue Date written above. 
+
+[[Organization 1 Name]]  
+
+\centered 
+
+[[Party 1 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
+
+
+ACCEPTED:
+
+[[Organization 3 Name]] 
+
+\centered 
+
+[[Party 2 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 2 Entity => By: [[Party 2 Signatory First Name]] [[Party 2 Signatory Last Name]]
+Title: [[Party 2 Signatory Title]]}}
+
+
+^^^^^ 
+\centered FORM OF NOTICE OF EXERCISE 
+
+TO: [[Organization 1 Name]]  
+RE:Election to Exercise Value Appreciation Instrument 
+
+The undersigned, pursuant to the provisions set forth in the attached Value Appreciation Instrument, hereby irrevocably exercises its Right under such Value Appreciation Instrument with respect to the Units set forth below. 
+
+\centered 
+
+Number of Units: 
+
+Exercise Date:    , 201 (if a date is not designated, the Exercise Date is date the Bank receives this Notice) 
+
+Wire Transfer Instructions: 
+
+Bank Name: 
+
+ABA Routing#: 
+
+Beneficiary Name: 
+
+Beneficiary Account #: 
+
+Bank Contact: 
+
+Phone: 
+
+Beneficiary Contact: 
+
+Beneficiary Phone:  
+
+HOLDER:   
+
+\centered 
+
+[[Party 3 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 Entity => By: [[Party 3 Signatory First Name]] [[Party 3 Signatory Last Name]]
+Title: [[Party 3 Signatory Title]]}}
+
+
+Date:    , 201  
+
+\centered Appendix A -Form of Notice of Exercise of Value Appreciation Instrument

@@ -1,0 +1,646 @@
+\centered [[[[Organization 1 Name]]]]
+
+\centered **$[[USD Value 1: Number]]**
+
+\centered **[[Percentage 1: Number]]% SENIOR NOTES DUE 2015**
+
+\centered **SUPPLEMENTAL INDENTURE**
+
+\centered **Dated as of [[Date 1: Date]]**
+
+\centered **To**
+
+\centered **INDENTURE**
+
+\centered **Dated as of [[Date 2: Date]]**
+
+\centered **[[Organization 2 Name]] [[Organization 1 Name]], N.A.**
+
+\centered **As Trustee**
+
+\centered **Table of Contents**
+
+DEFINITIONS AND INCORPORATION BY REFERENCE  
+
+Section 1.01   Relationship with Base Indenture  
+
+Section 1.02   Definitions  
+
+Section 1.03   Other Definitions  
+
+THE NOTES  
+
+Section 2.01   Form and Dating  
+
+Section 2.02   Transfer and Exchange  
+
+Section 2.03   Issuance of Additional Notes  
+
+REDEMPTION AND PREPAYMENT  
+
+Section 3.01   Notice of Redemption  
+
+Section 3.02   Notes Redeemed in Part  
+
+Section 3.03   Optional Redemption  
+
+Section 3.04   Mandatory Redemption  
+
+PARTICULAR COVENANTS  
+
+Section 4.01   Liens  
+
+Section 4.02   Offer to Purchase Upon Change of Control Triggering Event  
+
+Section 4.03   Sale and Lease-Back Transactions  
+
+SUCCESSORS  
+
+Section 5.01   Merger, Consolidation or Sale of Assets  
+
+DEFAULTS AND REMEDIES  
+
+Section 6.01   Events of Default  
+
+AMENDMENTS TO BASE INDENTURE  
+
+Section 7.01   Amendments to Base Indenture  
+
+\centered i
+
+MISCELLANEOUS  
+
+Section 8.01   Trust Indenture Act Controls  
+
+Section 8.02   Governing Law  
+
+Section 8.03   Successors  
+
+Section 8.04   Severability  
+
+Section 8.05   Counterpart Originals  
+
+Section 8.06   Table of Contents, Headings, Etc.  
+
+Section 8.07   Validity or Sufficiency of Supplemental Indenture  
+
+Section 8.08   Waiver of Jury Trial  
+
+EXHIBITS
+
+Exhibit A   FORM OF NOTE
+
+\centered ii
+
+SUPPLEMENTAL INDENTURE dated as of [[Date 1]] by and among [[[[Organization 1 Name]]]], a [[State of Formation: State]] [[Organization: EntityType]] (the ***“[[Organization 1 Name]]***”), and [[Organization 2 Name]] [[Organization 1 Name]], N.A., a national banking association, as trustee (the ***“Trustee***”).
+
+The [[Organization 1 Name]] has heretofore executed and delivered to the Trustee an indenture, dated as of [[Date 2]] (the ***“Base Indenture***”, and together with this Supplemental Indenture, the ***“Indenture***”), providing for the issuance from time to time of one or more series of the [[Organization 1 Name]]’s securities.
+
+The [[Organization 1 Name]] desires and has requested the Trustee pursuant to Section 9.01 of the Base Indenture to join with it in the execution and delivery of this Supplemental Indenture in order to supplement the Base Indenture as and to the extent set forth herein to provide for the issuance and the terms of the Notes (as defined below).
+
+^of the Base Indenture provides that the [[Organization 1 Name]] and the Trustee, without the consent of any holders of the [[Organization 1 Name]]’s Securities, may amend or waive certain terms and conditions in the Base Indenture as permitted by Sections 2.01 and 2.02 thereof.
+
+The execution and delivery of this Supplemental Indenture has been duly authorized by a resolution of the Board of Directors of the [[Organization 1 Name]] or a duly authorized committee thereof.
+
+All conditions and requirements necessary to make this Supplemental Indenture a valid, binding and legal instrument in accordance with its terms have been performed and fulfilled by the parties hereto and the execution and delivery thereof have been in all respects duly authorized by the parties hereto.
+
+The [[Organization 1 Name]] and the Trustee agree as follows for the benefit of each other and for the equal and ratable benefit of the Holders (as defined herein) of the [[Percentage 1]]% Senior Notes due 2015 (the ***“Notes***”):
+
+
+^ \centered DEFINITIONS AND INCORPORATION 
+^ \centered BY REFERENCE 
+
+^^ \centered Section 1.01 Relationship with Base Indenture. 
+
+The terms and provisions contained in the Base Indenture will constitute, and are hereby expressly made, a part of this Supplemental Indenture and the [[Organization 1 Name]] and the Trustee, by their execution and delivery of this Supplemental Indenture, expressly agree to such terms and provisions and to be bound thereby. However, to the extent any provision of the Base Indenture conflicts with the express provisions of this Supplemental Indenture, the provisions of this Supplemental Indenture will govern and be controlling.
+
+The Trustee accepts the amendment of the Base Indenture effected by this Supplemental Indenture and agrees to execute the trust created by the Base Indenture as hereby amended, but only upon the terms and conditions set forth in this Supplemental Indenture, including the terms and provisions defining and limiting the liabilities and responsibilities of the Trustee in the performance of the trust created by the Base Indenture, and without limiting the generality of the foregoing, the Trustee will not be responsible in any manner whatsoever for or with respect to any of the recitals or statements contained herein, all of which recitals or statements are made solely by the [[Organization 1 Name]], or for or with respect to (1) the validity or sufficiency of this Supplemental Indenture or any of the terms or provisions hereof, (2) the proper authorization hereof by the [[Organization 1 Name]], (3) the due execution hereof by the [[Organization 1 Name]] or (4) the consequences (direct or indirect and whether deliberate or inadvertent) of any amendment herein provided for, and the Trustee makes no representation with respect to any such matters.
+
+^*Definitions.* Capitalized terms used herein without definition shall have the respective meanings set forth in the Base Indenture. The following terms have the meanings given to them in this Section 1.02:
+
+*“Additional Notes*” means any Notes (other than the Initial Notes) issued under this Supplemental Indenture in accordance with Sections 2.03 hereof, as part of the same series as the Initial Notes.
+
+*“Attributable Debt*” with regard to a Sale and Lease-Back Transaction with respect to any Principal Property means, at the time of determination, the present value of the total net amount of rent required to be paid under such lease during the remaining term thereof (including any period for which such lease has been extended), discounted at the rate of interest set forth or implicit in the terms of such lease (or, if not practicable to determine such rate, the weighted average interest rate per annum borne by the securities then outstanding under the Base Indenture) compounded semi-annually. In the case of any lease which is terminable by the lessee upon the payment of a penalty, such net amount shall be the lesser of (i) the net amount determined assuming termination upon the first date such lease may be terminated (in which case the net amount shall also include the amount of the penalty, but shall not include any rent that would be required to be paid under such lease subsequent to the first date upon which it may be so terminated) or (ii) the net amount determined assuming no such termination.
+
+*“Base Indenture*” has the meaning set forth in the preamble to this Supplemental Indenture, as amended, supplemented or otherwise modified from time to time in accordance with the terms thereof.
+
+*“Below Investment Grade Rating Event*” means the Notes are rated below an Investment Grade Rating by each of the Rating Agencies on any date from the date of the public notice of an arrangement that could result in a Change of Control until the end of the 60-day period following public notice of the occurrence of the Change of Control (which 60-day period shall be extended so long as the rating of the Notes is under publicly announced consideration for possible downgrade by any of the Rating Agencies).
+
+*“Capital Stock*” means:
+
+^with respect to any Person that is a corporation, any and all shares, interests, participations or other equivalents (however designated and whether voting or not voting) of corporate stock, including each class of Common Stock and Preferred Stock of such Person; and
+
+^with respect to any Person that is not a corporation, any and all partnership, membership or other equity interests of such Person.
+
+*“Change of Control*” means the occurrence of one or more of the following events:
+
+^any sale, lease, exchange or other transfer (in one transaction or a series of related transactions) of all or substantially all of the assets of the [[Organization 1 Name]] to any Person or group of related Persons for purposes of Section 13(d) of the Exchange Act (a *“Group*”), together with any Affiliates thereof (whether or not otherwise in compliance with the provisions of this Supplemental Indenture);
+
+^the approval by the holders of the Capital Stock of the [[Organization 1 Name]] of any plan or proposal for the liquidation or dissolution of the [[Organization 1 Name]] (whether or not otherwise in compliance with the provisions of this Supplemental Indenture);
+
+^any Person or Group shall become the owner, directly or indirectly, beneficially or of record, of shares representing more than [[Percentage 2: Number]]% of the aggregate ordinary voting power represented by the issued and outstanding Capital Stock of the [[Organization 1 Name]]; or
+
+^the replacement of a majority of the Board of Directors of the [[Organization 1 Name]] over a two-year period from the directors who constituted the Board of Directors of the [[Organization 1 Name]] at the beginning of such period, and such replacement shall not have been approved by a vote of at least a majority of the Board of Directors of the [[Organization 1 Name]] then still in office who either were members of such Board of Directors at the beginning of such period or whose election as a member of such Board of Directors was previously so approved.
+
+*“Change of Control Triggering Event*” means the occurrence of both a Change of Control and a Below Investment Grade Rating Event.
+
+*“Common Stock*” of any Person means any and all shares, interests or other participations in, and other equivalents (however designated and whether voting or non-voting) of, such Person’s common stock, and includes, without limitation, all series and classes of such Common Stock.
+
+*“Consolidated Net Tangible Assets*” means, as of any date on which the [[Organization 1 Name]] effects a transaction requiring such Consolidated Net Tangible Assets to be measured hereunder, the aggregate amount of assets (less applicable reserves) after deducting therefrom: (a) all current liabilities, except for current maturities of long-term debt and obligations under capital leases; and (b) intangible assets, to the extent included in said aggregate amount of assets, all as set forth in the [[Organization 1 Name]]’s most recent consolidated balance sheet and computed in accordance with GAAP applied on a consistent basis.
+
+*“Definitive Note*” means a certificated Note registered in the name of the Holder thereof and issued in accordance with Section 2.02 hereof, substantially in the form of Exhibit A hereto except that such Note will not bear the Global Note Legend.
+
+*“Depositary*” means, with respect to the Notes issuable or issued in whole or in part in global form, the Person specified in Section 2.01 hereof as the Depositary with respect to the Notes, and any and all successors thereto appointed as depositary hereunder and having become such pursuant to the applicable provision of this Supplemental Indenture.
+
+*“Global Note Legend*” means the legend set forth in Section 2.02(f), which is required to be placed on all Global Notes issued under this Supplemental Indenture.
+
+*“Global Notes*” means, individually and collectively, each of the Global Notes, in the form of Exhibit A hereto issued in accordance with Section 2.01 hereof.
+
+*“Holder*” means a Person in whose name a Note is registered.
+
+*“Indenture*” means the Base Indenture, as supplemented by this Supplemental Indenture, governing the Notes, in each case, as amended, supplemented or restated from time to time.
+
+*“Indirect Participant*” means a Person who holds a beneficial interest in a Global Note through a Participant.
+
+*“Initial Notes*” means the first $[[USD Value 1]] aggregate principal amount of Notes issued under this Supplemental Indenture on the date hereof.
+
+*“Investment Grade Rating*” means a rating equal to or higher than Baa3 (or the equivalent) by Moody’s and BBB- (or the equivalent) by S&P.
+
+*“Lien*” means, with respect to any asset, any mortgage, lien, pledge, charge, security interest or encumbrance of any kind in respect of such asset, whether or not filed, recorded or otherwise perfected under applicable law, including any conditional sale or other title retention agreement or any lease in the nature thereof; *provided* that in no event will an operating lease be deemed to constitute a Lien.
+
+*“Moody’s*” means Moody’s Investors Service, Inc.
+
+*“Notes*” has the meaning assigned to it in the preamble to this Supplemental Indenture. The Initial Notes and the Additional Notes will be treated as a single class for all purposes under this Supplemental Indenture, and unless the context otherwise requires, all references to the Notes will include the Initial Notes and any Additional Notes.
+
+*“Participant*” means, with respect to the Depositary, a Person who has an account with the Depositary.
+
+*“Preferred Stock*” of any Person means any Capital Stock of such Person that has preferential rights to any other Capital Stock of such Person with respect to dividends or redemptions or upon liquidation.
+
+*“Principal Property*” means the land, improvements, buildings, fixtures and equipment (including any leasehold interest therein) constituting the principal corporate office, any manufacturing, assembly or test plant, or any manufacturing, assembly, test, distribution or research facility (in each case, whether now owned or hereafter acquired) which is owned or leased by the [[Organization 1 Name]] or any Subsidiary and is located within the United States of America, the United Kingdom, Malaysia and China unless the [[Organization 1 Name]]’s chief executive officer or chief financial officer has determined in good faith that such office, plant or facility is not of material importance to the total business conducted by the [[Organization 1 Name]] and its Subsidiaries taken as a whole. With respect to any Sale and Lease-Back Transaction or series of related Sale and Lease-Back Transactions, the determination of whether any property is a Principal Property shall be determined by reference to all properties affected by such transaction or series of transactions.
+
+*“Rating Agencies*” means (1) each of Moody’s and S&P; and (2) of either Moody’s or S&P ceases to rate the Notes or fails to make a rating of the Notes publicly available for reasons outside of the [[Organization 1 Name]]’s control, a “nationally recognized statistical rating organization” within the meaning of Rule 15c3-1(e)(2)(vi)(F) under the Exchange Act, selected by the [[Organization 1 Name]] (as certified by a resolution of its Board of Directors) as a replacement agency for Moody’s or S&P, or both, as the case may be.
+
+*“S&P*” means Standard & Poor’s Ratings Services, a division of [[Organization 3 Name]]
+
+*“Sale and Lease-Back Transaction*” means any arrangement with any Person providing for the leasing by the [[Organization 1 Name]] or any Subsidiary of any Principal Property, whether now owned or hereafter acquired, which Principal Property has been or is to be sold or transferred by the [[Organization 1 Name]] or such Subsidiary to such Person.
+
+*“Subsidiary*” means any corporation, limited liability [[Organization 1 Name]] or other similar type of entity in which the [[Organization 1 Name]] and/or one or more of its subsidiaries together own voting stock, membership interests or other capital securities having the power to elect a majority of the Board of Directors or similar governing body of such corporation, limited liability [[Organization 1 Name]] or other similar type of entity, directly or indirectly. For the purposes of this definition, “*voting stock*” means stock or other capital securities which ordinarily have voting power for the election of directors or similar governing body, whether at all times or only so long as no senior class of stock or other capital securities have such voting power by reason of any contingency.
+
+*“Supplemental Indenture*” means this Supplemental Indenture, dated as of the date hereof, by and among the [[Organization 1 Name]] and the Trustee, governing the Notes, as amended, supplemented or otherwise modified from time to time in accordance with the Base Indenture and the terms hereof.
+
+*“Treasury Rate*” means, with respect to a date of redemption, the yield to maturity at the time of the computation of United States Treasury securities with a constant maturity (as compiled and published in the most recent Federal Reserve Statistical Release H.15(519) that has become publicly available on the third Business Day prior to the [[Organization 1 Name]]’s providing notice of redemption (or, if such Statistical Release is no longer published, any publicly available source of similar market data)) most nearly equal to the period from such date of redemption to the Stated Maturity of the Notes; *provided*, *however*, that if the period from such date of redemption to the Stated Maturity is not equal to the constant maturity of the United States Treasury security for which a weekly average yield is given, the Treasury Rate shall be obtained by linear interpolation (calculated to the nearest one-twelfth of a year) from the weekly average yields of United States Treasury securities for which such yields are given, except that if the period from such date of redemption to the Stated Maturity is less than one year, the weekly average yield on actually traded United States Treasury securities adjusted to a constant maturity of one year shall be used. The [[Organization 1 Name]] shall be responsible for obtaining the Treasury Rate.
+
+^^ \centered Section 1.03 Other Definitions. 
+
+**Term**      \centered **Defined in Section**
+*“Change of Control Date”*      \centered 4.02
+*“Change of Control Offer”*      \centered 4.02
+*“Change of Control Payment Date”*      \centered 4.02
+*“Change of Control Purchase Date”*      \centered 4.02
+*“Change of Control Purchase Price”*      \centered 4.02
+*“DTC”*      \centered 2.01
+*“Event of Default”*      \centered 6.01
+*“Mortgage”*      \centered 4.01
+*“Redemption Date”*      \centered 3.03
+
+
+^ \centered THE NOTES 
+
+^^ \centered Section 2.01 Form and Dating. 
+
+^^^ \centered (a) *General*. The Notes and the Trustee’s certificate of authentication will be substantially in the form of Exhibit A hereto. The Notes may have notations, legends or endorsements required by law, stock exchange rule or usage. Each Note will be dated the date of its authentication. The Notes will be in denominations of $[[USD Value 2: Number]] with integral multiples of $[[USD Value 3: Number]] thereof. 
+
+The terms and provisions contained in the Notes will constitute, and are hereby expressly made, a part of this Supplemental Indenture, and the [[Organization 1 Name]] and the Trustee, by their execution and delivery of this Supplemental Indenture, expressly agree to such terms and provisions and to be bound thereby. However, to the extent any provision of any Note conflicts with the express provisions of the Indenture, the provisions of the Indenture will govern and be controlling.
+
+^^^ \centered (b) *Global Notes.* Notes issued in global form will be substantially in the form of Exhibit A attached hereto (including the Global Note Legend thereon). Notes issued in definitive form will be substantially in the form of Exhibit A attached hereto (but without the Global Note Legend thereon). Each Global Note will represent such of the outstanding Notes as will be specified therein and each will provide that it will represent the aggregate principal amount of outstanding Notes from time to time endorsed thereon and that the aggregate principal amount of outstanding Notes represented thereby may from time to time be reduced or increased, as appropriate, to reflect exchanges and redemptions. Any endorsement of a Global Note to reflect the amount of any increase or decrease in the aggregate principal amount of outstanding Notes represented thereby will be made by the Trustee or the Custodian, at the direction of the Trustee, in accordance with instructions given by the Holder thereof as required by Section 2.02 hereof. The [[Organization 1 Name]] initially appoints [[Organization 1 Name]] (***“DTC”***) to act as Depositary with respect to the Global Notes. 
+
+^^ \centered Section 2.02 Transfer and Exchange. 
+
+^^^ \centered (a) *Transfer and Exchange of Global Notes*. A Global Note may not be transferred as a whole except by the Depositary to a nominee of the Depositary, by a nominee of the Depositary to the Depositary or to another nominee of the Depositary, or by the Depositary or any such nominee to a successor Depositary or a nominee of such successor Depositary. All Global Notes will be exchanged by the [[Organization 1 Name]] for Definitive Notes if: 
+
+^^^^ \centered (1) the [[Organization 1 Name]] delivers to the Trustee notice from the Depositary that it is unwilling or unable to continue to act as Depositary or that it is no longer a clearing agency registered under the Exchange Act and, in either case, a successor Depositary is not appointed by the [[Organization 1 Name]] within 90 days after the date of such notice from the Depositary; or 
+
+^^^^ \centered (2) the [[Organization 1 Name]] in its sole discretion determines that the Global Notes (in whole but not in part) should be exchanged for Definitive Notes and delivers a written notice to such effect to the Trustee. 
+
+Upon the occurrence of either of the preceding events in (1) or (2) above, Definitive Notes will be issued in such names and in any approved denominations as the Depositary will instruct the Trustee. Global Notes also may be exchanged or replaced, in whole or in part, as provided in Sections 2.08 and 2.11 of the Base Indenture. Every Note authenticated and delivered in exchange for, or in lieu of, a Global Note or any portion thereof, pursuant to this Section 2.02 or Sections 2.08 or 2.11 of the Base Indenture, will be authenticated and delivered in the form of, and will be, a Global Note. A Global Note may not be exchanged for another Note other than as provided in this Section 2.02(a), however, beneficial interests in a Global Note may be transferred and exchanged as provided in Sections 2.02(b), (c) or (g) hereof.
+
+^^^ \centered (b) *Transfer and Exchange of Beneficial Interests in the Global Notes*. The transfer and exchange of beneficial interests in the Global Notes will be effected through the Depositary, in accordance with the provisions of this Supplemental Indenture and the Applicable Procedures. Transfers of beneficial interests in the Global Notes also will require compliance with either subparagraph (1) or (2) below, as applicable, as well as one or more of the other following subparagraphs, as applicable:    
+
+
+^^^^ \centered (1) *Transfer of Beneficial Interests in the Same Global Note*. Beneficial interests in any Global Note may be transferred to Persons who take delivery thereof in the form of a beneficial interest in a Global Note. No written orders or instructions will be required to be delivered to the Registrar to effect the transfers described in this Section 2.02(b)(1). 
+
+^^^^ \centered (2) *All Other Transfers and Exchanges of Beneficial Interests in Global Notes*. In connection with all transfers and exchanges of beneficial interests that are not subject to Section 2.02(b)(1) above, the transferor of such beneficial interest must deliver to the Registrar either: 
+
+^(i) a written order from a Participant or an Indirect Participant given to the Depositary in accordance with the Applicable Procedures directing the Depositary to credit or cause to be credited a beneficial interest in another Global Note in an amount equal to the beneficial interest to be transferred or exchanged; and
+
+^^^instructions given in accordance with the Applicable Procedures containing information regarding the Participant account to be credited with such increase.
+
+Upon satisfaction of all of the requirements for transfer or exchange of beneficial interests in Global Notes contained in this Supplemental Indenture and the Notes or otherwise applicable under the Securities Act, the Trustee will adjust the principal amount of the relevant Global Note(s) pursuant to Section 2.02(g) hereof.
+
+^^^ \centered (c) *Transfer or Exchange of Beneficial Interests for Definitive Notes.* 
+
+If any holder of a beneficial interest in a Global Note proposes to exchange such beneficial interest for a Definitive Note or to transfer such beneficial interest to a Person who takes delivery thereof in the form of a Definitive Note, then, upon satisfaction of the conditions set forth in Section 2.02(b)(2) hereof, the Trustee will cause the aggregate principal amount of the applicable Global Note to be reduced accordingly pursuant to Section 2.02(g) hereof, and the [[Organization 1 Name]] will execute and the Trustee will authenticate and deliver to the Person designated in the instructions a Definitive Note in the appropriate principal amount. Any Definitive Note issued in exchange for a beneficial interest pursuant to this Section 2.02(c) will be registered in such name or names and in such authorized denomination or denominations as the holder of such beneficial interest requests through instructions to the Registrar from or through the Depositary and the Participant or Indirect Participant. The Trustee will deliver such Definitive Notes to the Persons in whose names such Notes are so registered.
+
+^^^ \centered (d) *Transfer and Exchange of Definitive Notes for Beneficial Interests.* 
+
+^Holder of a Definitive Note may exchange such Note for a beneficial interest in a Global Note or transfer such Definitive Notes to a Person who takes delivery thereof in the form of a beneficial interest in a Global Note at any time. Upon receipt of a request for such an exchange or transfer, the Trustee will cancel the applicable Definitive Note and increase or cause to be increased the aggregate principal amount of one of the Global Notes.
+
+If any such exchange or transfer from a Definitive Note to a beneficial interest is effected pursuant to the previous paragraph at a time when a Global Note has not yet been issued, the [[Organization 1 Name]] will issue and, upon receipt of the [[Organization 1 Name]]’s order, the Trustee will authenticate one or more Global Notes in an aggregate principal amount equal to the principal amount of Definitive Notes so transferred.
+
+^Holder of Definitive Notes may transfer such Notes to a Person who takes delivery thereof in the form of a Definitive Note.
+
+^^^ \centered (e) *Transfer and Exchange of Definitive Notes for Definitive Notes*. Upon request by a Holder of Definitive Notes and such Holder’s compliance with the provisions of this Section 2.02(e), the Registrar will register the transfer or exchange of Definitive Notes. Prior to such registration of transfer or exchange, the requesting Holder will present or surrender to the Registrar the Definitive Notes duly endorsed or accompanied by a written instruction of transfer in form satisfactory to the Registrar duly executed by such Holder or by his attorney, duly authorized in writing. In addition, the requesting Holder will provide any additional certifications, documents and information, as applicable, required pursuant to the following provisions of this Section 2.02(e). 
+
+^^^ \centered (f) *Legends*. The following legends will appear on the face of all Global Notes issued under this Supplemental Indenture unless specifically stated otherwise in the applicable provisions of this Supplemental Indenture. 
+
+“THIS GLOBAL NOTE IS HELD BY THE DEPOSITARY (AS DEFINED IN THE SUPPLEMENTAL INDENTURE GOVERNING THIS NOTE) OR ITS NOMINEE IN CUSTODY FOR THE BENEFIT OF THE BENEFICIAL OWNERS HEREOF, AND IS NOT TRANSFERABLE TO ANY PERSON UNDER ANY CIRCUMSTANCES EXCEPT THAT (I) THE TRUSTEE MAY MAKE SUCH NOTATIONS HEREON AS MAY BE REQUIRED PURSUANT TO SECTION 2.02 OF THE SUPPLEMENTAL INDENTURE, (II) THIS GLOBAL NOTE MAY BE EXCHANGED IN WHOLE BUT NOT IN PART PURSUANT TO SECTION 2.02(a) OF THE SUPPLEMENTAL INDENTURE, (III) THIS GLOBAL NOTE MAY BE DELIVERED TO THE TRUSTEE FOR CANCELLATION PURSUANT TO SECTION 2.12 OF THE BASE INDENTURE AND (IV) THIS GLOBAL NOTE MAY BE TRANSFERRED TO A SUCCESSOR DEPOSITARY WITH THE PRIOR WRITTEN CONSENT OF THE [[Organization 1 Name]].
+
+UNLESS AND UNTIL IT IS EXCHANGED IN WHOLE OR IN PART FOR NOTES IN DEFINITIVE FORM, THIS NOTE MAY NOT BE TRANSFERRED EXCEPT AS A WHOLE BY THE DEPOSITARY TO A NOMINEE OF THE DEPOSITARY OR BY A NOMINEE OF THE DEPOSITARY TO THE DEPOSITARY OR ANOTHER NOMINEE OF THE DEPOSITARY OR BY THE DEPOSITARY OR ANY SUCH NOMINEE TO A SUCCESSOR DEPOSITARY OR A NOMINEE OF SUCH SUCCESSOR DEPOSITARY. UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF [[Organization 1 Name]] (55 WATER STREET, NEW YORK, NEW YORK) (***“DTC”***) TO THE [[Organization 1 Name]] OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF [[Organization 4 Name]]. OR SUCH OTHER NAME AS MAY BE REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO [[Organization 4 Name]]. OR SUCH OTHER ENTITY AS MAY BE REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, [[Organization 4 Name]]., HAS AN INTEREST HEREIN.”
+
+^^^ \centered (g) *Cancellation and/or Adjustment of Global Notes*. At such time as all beneficial interests in a particular Global Note have been exchanged for Definitive Notes or a particular Global Note has     
+
+
+^^^ \centered been redeemed, repurchased or canceled in whole and not in part, each such Global Note will be returned to or retained and canceled by the Trustee in accordance with Section 2.12 of the Base Indenture. At any time prior to such cancellation, if any beneficial interest in a Global Note is exchanged for or transferred to a Person who will take delivery thereof in the form of a beneficial interest in another Global Note or for Definitive Notes, the principal amount of Notes represented by such Global Note will be reduced accordingly and an endorsement will be made on such Global Note by the Trustee or by the Depositary at the direction of the Trustee to reflect such reduction; and if the beneficial interest is being exchanged for or transferred to a Person who will take delivery thereof in the form of a beneficial interest in another Global Note, such other Global Note will be increased accordingly and an endorsement will be made on such Global Note by the Trustee or by the Depositary at the direction of the Trustee to reflect such increase. 
+
+^^^ \centered (h) *General Provisions Relating to Transfers and Exchanges.* 
+
+^^^^ \centered (1) To permit registrations of transfers and exchanges, the [[Organization 1 Name]] will execute and the Trustee will authenticate Global Notes and Definitive Notes upon the [[Organization 1 Name]]’s order or at the Registrar’s request. 
+
+^^^^ \centered (2) No service charge will be made to a holder of a beneficial interest in a Global Note or to a Holder of a Definitive Note for any registration of transfer or exchange, but the [[Organization 1 Name]] may require payment of a sum sufficient to cover any transfer tax or similar governmental charge payable in connection therewith (other than any such transfer taxes or similar governmental charge payable upon exchange or transfer pursuant to Section 4.02 hereof and Sections 2.11, 3.06 and 9.05 of the Base Indenture). 
+
+^^^^ \centered (3) The Registrar will not be required to register the transfer of or exchange any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part. 
+
+^^^^ \centered (4) All Global Notes and Definitive Notes issued upon any registration of transfer or exchange of Global Notes or Definitive Notes will be the valid obligations of the [[Organization 1 Name]], evidencing the same debt, and entitled to the same benefits under this Supplemental Indenture, as the Global Notes or Definitive Notes surrendered upon such registration of transfer or exchange. 
+
+^^^^ \centered (5) The [[Organization 1 Name]] will not be required: 
+
+^to issue, to register the transfer of or to exchange any Notes during a period of 15 days before the day of any selection of Notes for redemption under Section 3.02 of the Base Indenture and ending at the close of business on the day of selection;
+
+^to register the transfer of or to exchange any Note so selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part; or
+
+^to register the transfer of or to exchange a Note between a record date and the next succeeding interest payment date.
+
+^^^^ \centered (6) Prior to due presentment for the registration of a transfer of any Note, the Trustee, any Agent and the [[Organization 1 Name]] may deem and treat the Person in whose name any Note is registered as the absolute owner of such Note for the purpose of receiving payment of principal of     
+
+
+^^^^ \centered and interest on such Notes and for all other purposes, and none of the Trustee, any Agent or the [[Organization 1 Name]] will be affected by notice to the contrary. 
+
+^^^^ \centered (7) The Trustee will authenticate Global Notes and Definitive Notes in accordance with the provisions of Section 2.03 of the Base Indenture. 
+
+^^^^ \centered (8) All certifications, certificates and Opinions of Counsel required to be submitted to the Registrar pursuant to this Section 2.02 to effect a registration of transfer or exchange may be submitted by facsimile. 
+
+^^^^ \centered (9) The Trustee shall have no obligation or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed under this Supplemental Indenture or under applicable law with respect to any transfer of any interest in any Note other than to require delivery of such certificates and other documentation or evidence as are expressly required by, and to do so if and when expressly required by the terms of, this Supplemental Indenture, and to examine the same to determine substantial compliance as to form with the express requirements hereof. 
+
+^^^^ \centered (10) Neither the Trustee nor any Agent shall have any responsibility for any actions taken or not taken by the Depositary. 
+
+^^ \centered Section 2.03 Issuance of Additional Notes. 
+
+The [[Organization 1 Name]] will be entitled, upon delivery of an Officer’s Certificate and an Opinion of Counsel, to issue Additional Notes under this Supplemental Indenture which will have identical terms as the Initial Notes issued on the date hereof, other than with respect to the date of issuance and issue price. The Initial Notes issued on the date hereof and any Additional Notes issued will be treated as a single class for all purposes under this Supplemental Indenture.
+
+The [[Organization 1 Name]] shall not be entitled to issue Additional Notes under this Supplemental Indenture if such Additional Notes would not be fungible with the Initial Notes for U.S. federal income tax purposes.
+
+With respect to any Additional Notes, the [[Organization 1 Name]] will set forth in a resolution of its Board of Directors and an Officer’s Certificate, a copy of each which will be delivered to the Trustee, the following information:
+
+^^^ \centered (a) the aggregate principal amount of such Additional Notes to be authenticated and delivered pursuant to this Supplemental Indenture; and 
+
+^^^ \centered (b) the issue price, the issue date and the CUSIP number of such Additional Notes. 
+
+
+^ \centered REDEMPTION AND PREPAYMENT 
+
+^^ \centered Section 3.01 Notice of Redemption. 
+
+The [[Organization 1 Name]] will deliver to the Trustee, at least 45 days prior to the redemption date (or such shorter period as the Trustee in its sole discretion may allow), an Officer’s Certificate requesting that the Trustee give such notice and setting forth the information to be stated in such notice as provided in Section 3.01 of the Base Indenture.
+
+^^ \centered Section 3.02 Notes Redeemed in Part.  
+No Notes of $[[USD Value 2]] or less can be redeemed in part.
+
+^^ \centered Section 3.03 Optional Redemption. 
+
+At any time prior to [[Date 3: Date]], the [[Organization 1 Name]] may, on any one or more occasions, redeem, in whole or in part, at a redemption price equal to the greater of the following amounts, plus, in each case, accrued and unpaid interest, if any, on the principal amount of the Notes being redeemed to, but excluding, the date of redemption or purchase (***“Redemption Date***”) (subject to the right of the holders of record on the relevant record date to receive interest due on the relevant interest payment date):
+
+^^^^^ \centered (i) [[Percentage 3: Number]]% of the aggregate principal amount of the Notes to be redeemed; or 
+^^^^^ 
+^^^^^ \centered (ii) the sum of the present value at such Redemption Date of (1) the principal amount of the Notes on the Redemption Date plus (2) all required remaining scheduled interest payments due on such Notes (but not including any portion of such payments of interest accrued to the Redemption Date) through the Stated Maturity computed using a discount rate equal to the Treasury Rate plus 25 basis points. 
+^^^^^ 
+Calculation of the foregoing shall be made by the [[Organization 1 Name]] or on the [[Organization 1 Name]]’s behalf by such Person as the [[Organization 1 Name]] shall designate; *provided*, *however*, that such calculation shall not be a duty or obligation of the Trustee.
+
+On and after the Redemption Date, interest will cease to accrue on the Notes or portions thereof called for redemption as long as the [[Organization 1 Name]] has deposited with the Paying Agent funds in satisfaction of the applicable redemption price.
+
+^^ \centered Section 3.04 Mandatory Redemption. 
+
+The [[Organization 1 Name]] is not required to make any mandatory redemption or sinking fund payments with respect to the Notes.
+
+
+^ \centered PARTICULAR COVENANTS 
+
+^^ \centered Section 4.01 Liens. 
+
+The [[Organization 1 Name]] will not, and will not permit any of its Subsidiaries to, issue, incur, create, assume or guarantee any debt for borrowed money (including all obligations evidenced by bonds, debentures, notes or similar instruments) secured by a mortgage, deed of trust, security interest, pledge, lien, charge or other encumbrance (collectively, a ***“Mortgage***”) upon any Principal Property or upon any shares of stock or indebtedness of any Subsidiary that owns or leases any Principal Property (whether such Principal Property, shares or indebtedness are now existing or owed or hereafter created or acquired) without in any such case effectively providing, concurrently with the issuance, incurrence, creation, assumption or guaranty of any such secured debt, or the grant of such Mortgage, that the Notes (together with, if the [[Organization 1 Name]] shall so determine, any other indebtedness of or guarantee by the [[Organization 1 Name]] or such Subsidiary ranking equally with the Notes) shall be secured equally and ratably with (or, at the [[Organization 1 Name]]’s option, prior to) such secured debt. The foregoing restriction, however will not apply to each of the following: 
+
+^^Mortgages on property, shares of stock or indebtedness or other assets of any Person existing at the time such Person becomes a Subsidiary, provided that such Mortgages are not incurred in anticipation of such Person’s becoming a Subsidiary; (b) Mortgages on property, shares of stock or indebtedness or other assets existing at the time of acquisition thereof by us or a Subsidiary, or Mortgages thereon to secure the payment of all or any part of the purchase price thereof, or Mortgages on property, shares of stock or indebtedness or other assets to secure any debt incurred prior to, at the time of, or within 180 days after, the latest of the acquisition thereof or, in the case of property, the completion of construction, the completion of improvements or the commencement of substantial commercial operation of such property for the purpose of financing all or any part of the purchase price thereof, such construction or the making of such improvements; (c) Mortgages in favor of the [[Organization 1 Name]] or a Subsidiary to secure indebtedness owing to the [[Organization 1 Name]] or to a Subsidiary; (d) Mortgages existing at the date of the initial issuance of the Notes; (e) Mortgages on property of a Person existing at the time such Person is merged into or consolidated with the [[Organization 1 Name]] or a Subsidiary or at the time of a sale, lease or other disposition of properties of such Person as an entirety or substantially as an entirety to the [[Organization 1 Name]] or a Subsidiary, *provided* that such Mortgage was not incurred in anticipation of such merger or consolidation or sale, lease or other disposition; (f) Mortgages in favor of the United States of America or any state, territory or possession thereof (or the District of Columbia), to secure partial, progress, advance or other payments pursuant to any contract or statute or to secure any indebtedness incurred for the purpose of financing all or any part of the purchase price or the cost of constructing or improving the property subject to such Mortgages; or (g) extensions, renewals or replacements of any Mortgage referred to in the foregoing clauses (a), (b), (d), (e) or (f); *provided*, *however*, that (i) the principal amount of indebtedness secured thereby shall not exceed the principal amount of indebtedness so secured at the time of such extension, renewal or replacement and (ii) such extension, renewal or replacement Mortgages will be limited to all or part of the same property and improvement thereon which secured the indebtedness so secured at the time of such extension, renewal or replacement. Any Mortgages permitted by any of the foregoing clauses (a) through (g) shall not extend to or cover any other Principal Property, or any share of stock or indebtedness of any Subsidiary that owns or leases any Principal Property, subject to the foregoing limitations, other than the property, including improvements thereto, stock or indebtedness specified in such clauses.
+
+Notwithstanding the restrictions set forth in the preceding paragraph, the [[Organization 1 Name]] or any Subsidiary may issue, incur, create, assume or guarantee debt secured by a Mortgage which would otherwise be subject to such restrictions, without equally and ratably securing the Notes, *provided* that after giving effect thereto, the aggregate amount of all debt so secured by Mortgages (not including Mortgages permitted under clauses (a) through (g) above) plus the aggregate amount of Attributable Debt permitted pursuant to Section 4.03 hereof does not exceed [[Percentage 4: Number]]% of the [[Organization 1 Name]]’s Consolidated Net Tangible Assets.
+
+^^ \centered Section 4.02 Offer to Purchase Upon Change of Control Triggering Event.  
+^^^ \centered (a) Upon the occurrence of a Change of Control Triggering Event (the date of such occurrence, the ***“Change of Control Date***”), each Holder shall have the right to require the [[Organization 1 Name]] to purchase such Holder’s Notes in whole or in part at a purchase price (the ***“Change of Control Purchase Price***”) equal to [[Percentage 5: Number]]% of the principal amount of such Notes, plus accrued and unpaid interest, if any, to, but excluding, the date of purchase (the ***“Change of Control Purchase Date***”), pursuant to and in accordance with the offer described in this Section 4.02 (the ***“Change of Control Offer***”).  
+^^^ \centered (b) Within 30 days following the Change of Control Date the [[Organization 1 Name]] shall send, by first class mail, a notice to each Holder, with a copy to the Trustee, which notice shall govern the terms of the Change of Control Offer. Such notice shall state:    
+
+^^^^^ \centered (i) that the Change of Control Offer is being made pursuant to this Section 4.02 and that all Notes validly tendered will be accepted for payment; 
+^^^^^ 
+^^^^^ \centered (ii) the Change of Control Purchase Price and the Change of Control Purchase Date, which shall be a Business Day that is no earlier than 30 days nor later than 60 days from the date such notice is mailed (the ***“Change of Control Payment Date***”) other than as may be required by law; 
+^^^^^ 
+^^^^^ \centered (iii) that any Note not tendered will continue to accrue interest; 
+^^^^^ 
+^^^^^ \centered (iv) that any Note accepted for payment pursuant to the Change of Control Offer shall cease to accrue interest after the Change of Control Payment Date unless the [[Organization 1 Name]] shall default in the payment of the Change of Control Purchase Price of the Notes and the only remaining right of the Holder is to receive payment of the Change of Control Purchase Price upon surrender of the Notes to the Paying Agent; 
+^^^^^ 
+^^^^^ \centered (v) that Holders electing to have a portion of a Note purchased pursuant to a Change of Control Offer may only elect to have such Note purchased in integral multiples of $[[USD Value 3]]; 
+^^^^^ 
+^^^^^ \centered (vi) that if a Holder elects to have a Note purchased pursuant to the Change of Control Offer it will be required to surrender the Note, with the form entitled “Option of Holder to Elect Purchase” on the reverse of the Note completed, or transfer by book-entry transfer, to the Paying Agent at the address specified in the notice prior to the close of business on the third Business Day prior to the Change of Control Payment Date; 
+^^^^^ 
+^^^^^ \centered (vii) that a Holder will be entitled to withdraw its election if the [[Organization 1 Name]] receives, not later than the third Business Day preceding the Change of Control Payment Date, a telegram, telex, facsimile transmission or letter setting forth the name of such Holder, the principal amount of Notes such Holder delivered for purchase, and a statement that such Holder is withdrawing its election to have such Note purchased; and 
+^^^^^ 
+^^^^^ \centered (viii) that if Notes are purchased only in part a new Note of the same type will be issued in principal amount equal to the unpurchased portion of the Notes surrendered.  
+^^^ \centered (c) On or before the Change of Control Payment Date, the [[Organization 1 Name]] shall, to the extent lawful, accept for payment, all Notes or portions thereof validly tendered pursuant to the Change of Control Offer, and shall deliver to the Trustee an Officer’s Certificate stating that such Notes or portions thereof were accepted for payment by the [[Organization 1 Name]] in accordance with the terms of this Section 4.02. The [[Organization 1 Name]], the Depositary or the Paying Agent, as the case may be, shall promptly mail or deliver to each tendering Holder an amount equal to the purchase price of the Notes tendered by such Holder and accepted by the [[Organization 1 Name]] for purchase, and the [[Organization 1 Name]] shall promptly issue a new Note, and the Trustee, upon written request from the [[Organization 1 Name]] shall authenticate and mail or deliver such new Note to such Holder, in a principal amount equal to any unpurchased portion of the Note surrendered. Any Note not so accepted shall be promptly mailed or delivered by the [[Organization 1 Name]] to the Holder thereof.  
+^^^ \centered (d) The [[Organization 1 Name]] shall comply with the requirements of Rule 14e-1 under the Exchange Act and any other securities laws and regulations thereunder to the extent such laws and regulations are applicable in connection with the repurchase of Notes pursuant to an offer hereunder. To the extent the provisions of any securities laws or regulations conflict with the provisions under this Section 4.02, the [[Organization 1 Name]] shall comply with the applicable securities laws and regulations and shall not be deemed to have breached its obligations under this Section 4.02 by virtue thereof.    
+
+^^ \centered Section 4.03 Sale and Lease-Back Transactions.  
+The [[Organization 1 Name]] will not, and will not permit any of its Subsidiaries to, enter into any Sale and Lease-Back Transaction with respect to any Principal Property, other than any such Sale and Lease-Back Transaction involving a lease for a term of not more than three years or any such Sale and Lease-Back Transaction between the [[Organization 1 Name]] and one of its Subsidiaries, or between Subsidiaries, unless:
+
+^^^^^ \centered (i) the [[Organization 1 Name]] or such Subsidiary, as applicable, would be entitled to incur indebtedness secured by a Mortgage on Principal Property involved in such Sale and Lease-Back Transaction at least equal in amount to the Attributable Debt with respect to such Sale and Lease-Back Transaction, without equally and ratably securing the Notes, pursuant to Section 4.01 hereof; or 
+^^^^^ 
+^^^^^ \centered (ii) the proceeds of such Sale and Lease-Back Transaction are at least equal to the fair market value of the affected Principal Property (as determined in good faith by the [[Organization 1 Name]]’s Board of Directors) and the [[Organization 1 Name]] applies an amount equal to the greater of the net proceeds of such Sale and Lease-Back Transaction or the Attributable Debt with respect to such Sale and Lease-Back Transaction within 180 days of such Sale and Lease-Back Transaction to either (or a combination of): (A) the prepayment or retirement (other than any mandatory retirement, mandatory prepayment or sinking fund payment or by payment at maturity) of debt for borrowed money of the [[Organization 1 Name]] or a Subsidiary (other than debt that is subordinated to the Notes or debt owed to the [[Organization 1 Name]] by a Subsidiary) that matures more than 12 months after its creation or (B) the purchase, construction, development, expansion or improvement of other comparable property. 
+^^^^^ 
+^ \centered  SUCCESSORS 
+
+^^ \centered Section 5.01 Merger, Consolidation or Sale of Assets. 
+
+The Notes shall not have the benefits of Section 5.01 of the Base Indenture. The following Section 5.01 replaces Section 5.01 of the Base Indenture in its entirety with respect to the Notes.
+
+The [[Organization 1 Name]] shall not merge or consolidate with any other Person or Persons (whether or not affiliated with the [[Organization 1 Name]]) or sell, convey, transfer, lease or otherwise dispose of all or substantially all of its property or assets to any other Person or Persons (whether or not affiliated with the [[Organization 1 Name]]), unless:
+
+^^^^^ \centered (i) either: (a) the transaction is a merger or consolidation and the [[Organization 1 Name]] is the surviving entity; or (b) the successor Person (or the Person which acquires by sale, conveyance, transfer or lease all or substantially all of the [[Organization 1 Name]]’s property or assets) is a corporation organized under the laws of the United States, any state thereof or the District of Columbia and expressly assumes, by a supplemental indenture satisfactory to the Trustee, all of the [[Organization 1 Name]]’s obligations under the Notes and the Indenture; 
+^^^^^ 
+^^^^^ \centered (ii) immediately after giving effect to the transaction and treating the [[Organization 1 Name]]’s obligations in connection with or as a result of such transaction as having been incurred as of the time of such transaction, no Event of Default (and no event or condition which, after notice or lapse of time or both, would become an Event of Default) shall have occurred and be continuing under the Indenture; and 
+^^^^^ 
+^^^^^ \centered (iii) an Officer’s Certificate is delivered to the Trustee to the effect that both of the conditions set forth in clauses (i) and (ii) above have been satisfied and an opinion of counsel has been delivered to the Trustee to the effect that condition (i) set forth above has been satisfied.    
+
+^ \centered  DEFAULTS AND REMEDIES 
+
+^^ \centered Section 6.01 Events of Default. 
+
+The Notes shall not have the benefit of the Events of Default set forth in the Base Indenture. Instead, each of the following is an “***Event of Default***” with respect to the Notes:
+
+^^^ \centered (a) the failure to pay interest on any Notes when the same becomes due and payable and the default continues for a period of 90 days; 
+
+^^^ \centered (b) default in the payment when due of principal of or premium, if any, on the Notes; 
+
+^^^ \centered (c) default in the performance or breach of any covenant or warranty of the [[Organization 1 Name]] in this Supplemental Indenture, which default continues uncured for a period of 90 days after written notice given (i) to the [[Organization 1 Name]] by the Trustee or (ii) to the [[Organization 1 Name]] and the Trustee by the Holders of not less than a majority in aggregate principal amount of the Notes outstanding; or 
+
+^^^ \centered (d) the [[Organization 1 Name]]: 
+
+^^^^^ \centered (i) commences a voluntary case in bankruptcy, 
+^^^^^ 
+^^^^^ \centered (ii) consents to the entry of an order for relief against it in an involuntary bankruptcy case, 
+^^^^^ 
+^^^^^ \centered (iii) consents to the appointment of a custodian of it or for all or substantially all of its property, 
+^^^^^ 
+^^^^^ \centered (iv) makes a general assignment for the benefit of its creditors, or 
+^^^^^ 
+^^^^^ \centered (v) generally is not paying its debts as they become due; or 
+^^^^^ 
+^^^ \centered (e) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that: 
+
+^^^^^ \centered (i) is for relief against the [[Organization 1 Name]]; 
+^^^^^ 
+^^^^^ \centered (ii) appoints a custodian of the [[Organization 1 Name]] for all or substantially all of the property of the [[Organization 1 Name]]; or 
+^^^^^ 
+^^^^^ \centered (iii) orders the liquidation of the [[Organization 1 Name]]; 
+^^^^^ 
+and the order or decree remains unstayed and in effect for 90 consecutive days.
+
+^ \centered  AMENDMENTS TO BASE INDENTURE 
+
+^^ \centered Section 7.01 Amendments to Base Indenture. 
+
+The Base Indenture is hereby amended by adding the following Section 7.02(j):
+
+^^The Trustee shall not be deemed to have notice of any Default or Event of Default unless a Responsible Officer of the Trustee has actual knowledge thereof or unless written notice of any event which is in fact such a Default or Event of Default is received by the Trustee at the Corporate Trust Office of the Trustee, and such notice references the Notes and this Indenture.
+
+The Base Indenture is hereby further amended by deleting the second paragraph of Section 7.04 and replacing it with the following:
+
+The Trustee agrees to accept and act upon instructions or directions pursuant to this Indenture sent by unsecured e-mail, facsimile transmission or other similar unsecured electronic methods. If the party elects to give the Trustee e-mail or facsimile instructions (or instructions by a similar electronic method) and the Trustee in its discretion elects to act upon such instructions, the Trustee’s understanding of such instructions shall be deemed controlling. The Trustee shall not be liable for any losses, costs or expenses arising directly or indirectly from the Trustee’s reliance upon and compliance with such instructions, notwithstanding such instructions conflict or are inconsistent with a subsequent written instruction. The party providing electronic instructions agrees to assume all risks arising out of the use of such electronic methods to submit instructions or directions to the Trustee, including, without limitation, the risk of the Trustee acting on unauthorized instructions, and the risk of interception and misuse by third parties.
+
+^ \centered  MISCELLANEOUS 
+
+^^ \centered Section 8.01 Trust Indenture Act Controls.  
+If any provision of this Supplemental Indenture limits, qualifies or conflicts with the duties imposed by TIA Section 318(c), the imposed duties will control.
+
+^^ \centered Section 8.02 Governing Law.  
+THE INTERNAL LAWS OF THE STATE OF NEW YORK WILL GOVERN AND BE USED TO CONSTRUE THIS SUPPLEMENTAL INDENTURE AND THE NOTES WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION WOULD BE REQUIRED THEREBY.
+
+^^ \centered Section 8.03 Successors.  
+All agreements of the [[Organization 1 Name]] in this Supplemental Indenture and the Notes will bind its successors. All agreements of the Trustee in this Supplemental Indenture will bind its successors.
+
+^^ \centered Section 8.04 Severability. 
+
+In case any provision in this Supplemental Indenture or in the Notes will be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions will not in any way be affected or impaired thereby.
+
+^^ \centered Section 8.05 Counterpart Originals. 
+
+The parties may sign any number of copies of this Supplemental Indenture. Each signed copy will be an original, but all of them together represent the same agreement.
+
+^^ \centered Section 8.06 Table of Contents, Headings, Etc.  
+The Table of Contents and Headings of the Articles and Sections of this Supplemental Indenture have been inserted for convenience of reference only, are not to be considered a part of this Supplemental Indenture and will in no way modify or restrict any of the terms or provisions hereof.
+
+^^ \centered Section 8.07 Validity or Sufficiency of Supplemental Indenture.  
+The Trustee is not responsible for the validity or sufficiency of this Supplemental Indenture, or for the recitals contained herein.
+
+^^ \centered Section 8.08 Waiver of Jury Trial.  
+EACH OF THE [[Organization 1 Name]] AND THE TRUSTEE HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS INDENTURE, THE NOTES OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+\centered [Signatures on following page]
+
+\centered **SIGNATURES**
+
+Dated as of [[Date 1]]
+
+[[[[Organization 1 Name]]]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+[[Organization 2 Name]] [[Organization 1 Name]], N.A., as Trustee
+
+[[[[Organization 2 Name]] [[Organization 1 Name]] N.A. as Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 2 Name]] [[Organization 1 Name]] N.A. as Trustee Entity => By: [[[[Organization 2 Name]] [[Organization 1 Name]] N.A. as Trustee Signatory First Name]] [[[[Organization 2 Name]] [[Organization 1 Name]] N.A. as Trustee Signatory Last Name]]
+Title: [[[[Organization 2 Name]] [[Organization 1 Name]] N.A. as Trustee Signatory Title]]}}
+
+
+\centered **[SIGNATURE PAGE TO SUPPLEMENTAL INDENTURE]**
+
+**EXHIBIT A**
+
+\centered **(Face of Note)**
+
+\centered ***[Insert the Global Note Legend, if applicable pursuant to the provisions of the Supplemental Indenture]***
+
+CUSIP 637640 AF0
+
+\centered **[[Percentage 1]]% Senior Notes due 2015**
+
+\centered No.      $  
+
+\centered [[[[Organization 1 Name]]]]
+
+\centered promises to pay to   or registered assigns, the principal sum of Dollars on [[Date 3]].  
+
+Interest Payment Dates: [[Date 4: Date]] and [[Date 5: Date]]
+
+Record Dates: [[Date 6: Date]] and [[Date 7: Date]]
+
+Dated:
+
+[[[[Organization 1 Name]]]]
+
+[[[[Organization 1 Name]] Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] Entity => By: [[[[Organization 1 Name]] Signatory First Name]] [[[[Organization 1 Name]] Signatory Last Name]]
+Title: [[[[Organization 1 Name]] Signatory Title]]}}
+
+
+Date of Authentication:
+
+This is the Global Note referred to in the within-mentioned Supplemental Indenture:
+
+Dated:
+
+[[Organization 2 Name]]
+
+[[Organization 1 Name]], N.A., as Trustee
+
+[[[[Organization 1 Name]] N.A. as Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{[[Organization 1 Name]] N.A. as Trustee Entity => By: [[[[Organization 1 Name]] N.A. as Trustee Signatory First Name]] [[[[Organization 1 Name]] N.A. as Trustee Signatory Last Name]]
+Title: [[[[Organization 1 Name]] N.A. as Trustee Signatory Title]]}}
+
+
+\centered A-1
+
+\centered **(Back of **Note) [[Percentage 1]]% Sen**ior Notes due 2015**
+
+Capitalized terms used herein have the meanings assigned to them in the Indenture referred to below unless otherwise indicated.
+
+^*INTEREST*. [[[[Organization 1 Name]]]], a Delaware corporation (the “***[[Organization 1 Name]]***”), promises to pay interest on the principal amount of this Note at [[Percentage 1]]% per annum from the date hereof until maturity. The [[Organization 1 Name]] will pay interest semi-annually on [[Date 4]] and [[Date 5]] of each year, or if any such day is not a Business Day, on the next succeeding Business Day (each an “***Interest Payment Date***”). Interest on the Notes will accrue from the most recent date to which interest has been paid or, if no interest has been paid, from the date of issuance; *provided* that if there is no existing Default in the payment of interest, and if this Note is authenticated between a record date referred to on the face hereof and the next succeeding Interest Payment Date, interest will accrue from such next succeeding Interest Payment Date; *provided, further*, that the first Interest Payment Date will be [[Date 8: Date]]. The [[Organization 1 Name]] will pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue principal at the rate equal to the then applicable interest rate on the Notes to the extent lawful; it will pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue installments of interest at the same rate to the extent lawful. Interest will be computed on the basis of a 360-day year of twelve 30-day months.
+
+^*METHOD OF PAYMENT*. The [[Organization 1 Name]] will pay interest on the Notes (except defaulted interest) to the Persons who are registered Holders of Notes at the close of business on the [[Date 6]] or [[Date 7]] next preceding the Interest Payment Date, even if such Notes are canceled after such record date and on or before such Interest Payment Date, except as provided in Section 2.13 of the Base Indenture with respect to defaulted interest. Principal, premium, if any, and interest on the Notes will be payable at the office or agency of the Paying Agent and Registrar within the City and State of New York or, at the option of the [[Organization 1 Name]], payment of interest may be made by check mailed to the Holders of the Notes at their respective addresses set forth in the register of Holders of Notes; *provided* that all payments of principal, premium and interest with respect to Notes the Holders of which have given wire transfer instructions to the Trustee will be required to be made by wire transfer of immediately available funds to the accounts specified by the Holders thereof. Such payment will be in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts.
+
+^*PAYING AGENT AND REGISTRAR*. Initially, [[Organization 2 Name]] [[Organization 1 Name]], N.A., the Trustee under the Indenture, will act as Paying Agent and Registrar. The [[Organization 1 Name]] may change any Paying Agent or Registrar without notice to any Holder. The [[Organization 1 Name]] or any of its Subsidiaries may act in any such capacity.
+
+^*INDENTURE*. This Note is one of a duly authenticated series of securities of the [[Organization 1 Name]] issued and to be issued in one or more series under an indenture (the “***Base Indenture***”), dated as of [[Date 2]], between the [[Organization 1 Name]] and the Trustee, as amended by the Supplemental Indenture (the “***Supplemental Indenture***” and, together with the Base Indenture, the “***Indenture***”), dated as of [[Date 1]], between the [[Organization 1 Name]] and the Trustee. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act of 1939, as amended (15 U.S. Code Sections 77aaa-77bbbb). The Notes are subject to all such terms, and Holders are referred to the Indenture and such Act for a statement of such terms. To the extent any provision of this Note conflicts with the express provisions of the Indenture, the provisions of the Indenture will govern and be controlling, and to the extent any provision of the Base Indenture conflicts with the express provisions of the Supplemental Indenture, the provisions of the Supplemental Indenture will govern and 
+
+\centered A-2
+
+be controlling. The [[Organization 1 Name]] will be entitled to issue Additional Notes pursuant to Section 2.03 of the Supplemental Indenture.
+
+^*OPTIONAL REDEMPTION.* At any time prior to [[Date 3]], the [[Organization 1 Name]] may, on any one or more occasions, redeem, in whole or in part, at a redemption price equal to the greater of the following amounts, plus, in each case, accrued and unpaid interest, if any, on the principal amount of the Notes being redeemed to, but excluding, the date of redemption or purchase (“Redemption Date”) (subject to the right of the holders of record on the relevant record date to receive interest due on the relevant interest payment date):
+
+^^^^^ \centered (i) [[Percentage 3]]% of the aggregate principal amount of the Notes to be redeemed; or 
+^^^^^ 
+^^^^^ \centered (ii) the sum of the present value at such Redemption Date of (1) the principal amount of the Notes on the Redemption Date plus (2) all required remaining scheduled interest payments due on such Notes (but not including any portion of such payments of interest accrued to the Redemption Date) through the Stated Maturity computed using a discount rate equal to the Treasury Rate plus 25 basis points. 
+^^^^^ 
+Calculation of the foregoing shall be made by the [[Organization 1 Name]] or on the [[Organization 1 Name]]’s behalf by such Person as the [[Organization 1 Name]] shall designate; *provided*, *however*, that such calculation shall not be a duty or obligation of the Trustee.
+
+On and after the Redemption Date, interest will cease to accrue on the Notes or portions thereof called for redemption as long as the [[Organization 1 Name]] has deposited with the Paying Agent funds in satisfaction of the applicable redemption price
+
+^*MANDATORY REDEMPTION*. Except as set forth in paragraph 7, the [[Organization 1 Name]] shall not be required to make mandatory redemption payments with respect to the Notes.
+
+^REPURCHASE AT OPTION OF HOLDER. Upon the occurrence of a Change of Control Triggering Event, the [[Organization 1 Name]] will be required to offer to purchase all of the outstanding Notes at a purchase price equal to [[Percentage 5]]% of the principal amount thereof, plus accrued and unpaid interest, if any, to, but excluding, the date of purchase.
+
+^*NOTICE OF REDEMPTION*. Notice of redemption will be mailed at least 30 days but not more than 60 days before the redemption date to each Holder whose Notes are to be redeemed at its registered address. Notes in denominations larger than $[[USD Value 2]] may be redeemed in part but only in whole multiples of $[[USD Value 4: Number]] unless all of the Notes held by a Holder are to be redeemed. On and after the redemption date interest ceases to accrue on Notes or portions thereof called for redemption.
+
+^*DENOMINATIONS, TRANSFER, EXCHANGE*. The Notes are in registered form without coupons in denominations of $[[USD Value 2]] and integral multiples of $[[USD Value 5: Number]] Notes may be transferred or exchanged as provided in the Supplemental Indenture. The Registrar and the Trustee may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and the [[Organization 1 Name]] may require a Holder to pay any taxes and fees required by law or permitted by the Supplemental Indenture. The [[Organization 1 Name]] need not exchange or transfer any Note or portion of a Note selected for redemption, except for the unredeemed portion of any Note being redeemed in part. Also, the [[Organization 1 Name]] need not exchange or register the transfer of any Notes for a period of 15 days before a selection of Notes to be redeemed or during the period between a record date and the corresponding Interest Payment Date.
+
+\centered A-3
+
+^*PERSONS DEEMED OWNERS*. The registered Holder of a Note may be treated as its owner for all purposes.
+
+^*AMENDMENT, SUPPLEMENT AND WAIVER*. The Base Indenture may be amended as provided therein. Subject to certain exceptions, the Supplemental Indenture or the Notes may be amended or supplemented with the consent of the Holders of at least a majority in principal amount of the Notes then outstanding, including, without limitation, consents obtained in connection with a purchase of, or tender offer or exchange offer for, Notes, voting as a single class, and any existing default or compliance with any provision of the Indenture or the Notes may be waived with the consent of the Holders of a majority in principal amount of the then outstanding Notes, including, without limitation, consents obtained in connection with a purchase of, or tender offer or exchange offer for, Notes, voting as a single class. Without the consent of any Holder of a Note, the Supplemental Indenture or the Notes may be amended or supplemented (i) to cure any ambiguity, defect or inconsistency; (ii) to provide for uncertificated Notes in addition to or in place of certificated Notes; (iii) to provide for the assumption of the [[Organization 1 Name]]’s obligations to Holders of the Notes in case of a merger or consolidation or sale of all or substantially all of the [[Organization 1 Name]]’s assets; (iv) to make any change that would provide any additional rights or benefits to the Holders of the Notes or that does not adversely affect the legal rights under the Supplemental Indenture of any such Holder; (v) to comply with the requirements of the SEC in order to effect or maintain the qualification of the Supplemental Indenture under the Trust Indenture Act; (vi) to provide for the issuance of Additional Notes in accordance with the Supplemental Indenture; or (vii) to evidence and provide for the acceptance of appointment by a successor trustee.
+
+^*DEFAULTS AND REMEDIES.* An “EVENT OF DEFAULT” occurs if: (i) there is a default for a period of 90 days in the payment when due of interest on the Notes; (ii) there is a default in the payment when due of principal of or premium, if any, on the Notes; (iii) the [[Organization 1 Name]] fails for 90 days after notice to the [[Organization 1 Name]] to comply with any covenant or warranty of the [[Organization 1 Name]] in the Indenture; or (iv) certain events of bankruptcy or insolvency occur with respect to the [[Organization 1 Name]].
+
+If any Event of Default occurs and is continuing, the Trustee or the Holders of at least [[Percentage 6: Number]]% in principal amount of the then outstanding Notes may declare all the Notes to be due and payable. Notwithstanding the foregoing, in the case of an Event of Default arising from certain events of bankruptcy or insolvency with respect to the [[Organization 1 Name]], all outstanding Notes will become due and payable without further action or notice. Holders may not enforce the Indenture or the Notes except as provided in the Indenture. Subject to certain limitations, Holders of a majority in principal amount of the then outstanding Notes may direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of the Notes notice of any continuing Default or Event of Default if it determines that withholding notice is in their interest, except a Default or Event of Default relating to the payment of principal or interest. The Holders of a majority in aggregate principal amount of the Notes then outstanding by notice to the Trustee may on behalf of the Holders of all of the Notes waive any existing Default or Event of Default and its consequences under the Indenture except a continuing Default or Event of Default in the payment of interest on, or the principal of, the Notes. The [[Organization 1 Name]] is required to deliver to the Trustee annually a statement regarding compliance with the Indenture, and the [[Organization 1 Name]] is required upon becoming aware of any Default or Event of Default, to deliver to the Trustee a statement specifying such Default or Event of Default.
+
+^*TRUSTEE DEALINGS WITH [[Organization 1 Name]]*. The Trustee, in its individual or any other capacity, may make loans to, accept deposits from, and perform services for the [[Organization 1 Name]] or its Affiliates, and may otherwise deal with the [[Organization 1 Name]] or its Affiliates, as if it were not the Trustee.
+
+^*NO RECOURSE AGAINST OTHERS*. A director, officer, employee, incorporator or stockholder, of the [[Organization 1 Name]], as such, will not have any liability for any obligations of the [[Organization 1 Name]] 
+
+\centered A-4
+
+under the Notes or the Indenture or for any claim based on, in respect of, or by reason of, such obligations or their creation. Each Holder of Notes by accepting a Note waives and releases all such liability. The waiver and release are part of the consideration for the issuance of the Notes.
+
+^*AUTHENTICATION*. This Note will not be valid until authenticated by the manual signature of the Trustee or an authenticating agent.
+
+^*ABBREVIATIONS*. Customary abbreviations may be used in the name of a Holder or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+
+^*CUSIP NUMBERS*. Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the [[Organization 1 Name]] has caused CUSIP numbers to be printed on the Notes and the Trustee may use CUSIP numbers in notices of redemption as a convenience to Holders. No representation is made as to the accuracy of such numbers either as printed on the Notes or as contained in any notice of redemption and reliance may be placed only on the other identification numbers placed thereon. The [[Organization 1 Name]] will furnish to any Holder upon written request and without charge a copy of the Base Indenture and the Supplemental Indenture. Requests may be made to:
+
+[[[[Organization 1 Name]]]] 3689 Kifer Road
+
+P.O. Box 58090
+
+Mail Stop G3-135 [[Address 1: Address]]-8090 Fascimile No.: [[Phone 1]] Attention: General Counsel
+
+\centered A-5
+
+\centered **ASSIGNMENT FORM**
+
+To assign this Note, fill in the form below:
+
+^^^or (we) assign and transfer this Note to:
+\centered (Insert assignee’s legal name)
+
+\centered (Insert assignee’s social security number or tax identification number)
+
+\centered (Print or type assignee’s name, address and zip code)
+
+and irrevocably appoint
+to transfer this Note on the books of the [[Organization 1 Name]]. The agent may substitute another to act for him.
+
+Date:
+
+Your Signature:
+(Sign exactly as your name appears on the face of this Note)
+
+Tax Identification No:
+
+Signature Guarantee:
+
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+
+\centered A-6
+
+\centered **OPTION OF HOLDER TO ELECT PURCHASE**
+
+If you want to elect to have this Note purchased by the [[Organization 1 Name]] pursuant to Section 4.02 of the Supplemental Indenture, check the box below:
+
+^^Section 4.02
+
+If you want to elect to have only part of the Note purchased by the [[Organization 1 Name]] pursuant to Section 4.02 of the Supplemental Indenture, state the amount you elect to have purchased: $ 
+
+Date:_______________________
+
+Your Signature:
+(Sign exactly as your name appears on the face of this Note)
+
+Tax Identification No:
+
+Signature Guarantee:
+
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+
+\centered A-7
